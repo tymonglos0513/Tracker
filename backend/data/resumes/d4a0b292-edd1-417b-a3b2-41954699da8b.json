@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Solutions Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Solutions Engineer with 13+ years of experience in delivering robust API solutions, skilled in both REST and SOAP protocols as well as integrations with tools like **Postman**, **Swagger**, **Workato**, **Mulesoft**, and **Zapier**. Proficient in cloud services including **AWS**, **Azure**, and **GCP**, with a strong background in **JavaScript**, **Python**, and **Node.js**. Experienced in developing high-performance applications in healthcare and finance, focusing on compliance with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Proven expertise in implementing microservices and CI/CD pipelines, alongside building AI/ML-powered platforms for predictive analytics and automation, leveraging frameworks such as **FastAPI** and **Django**. Dedicated to fostering seamless integrations and driving innovation through effective technical solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Solutions Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and implemented robust **REST** APIs to support secure data interoperability between systems, utilizing tools like **Postman** for comprehensive testing and **Swagger** for API documentation.\n- Engineered scalable backend solutions using **Python** and **Node.js**, ensuring smooth communication with various services while adhering to best practices in API design and **OAuth** security protocols.\n- Collaborated with cross-functional teams to integrate third-party tools such as **Workato**, **Mulesoft**, and **Zapier**, streamlining workflows and enhancing system capabilities across the organization.\n- Designed and maintained cloud infrastructure on **AWS**, **Azure**, and **GCP**, optimizing deployment processes and ensuring high availability for services.\n- Led the development of full-stack applications for healthcare and fintech sectors, utilizing frameworks like **Node.js** (version **14**), ensuring compliance with industry regulations.\n- Delivered mobile applications for both **iOS** and **Android**, successfully implementing state management with providers and **Redux** to enhance user experience and data synchronization.\n- Created CI/CD pipelines with **GitHub Actions** and **Azure DevOps**, achieving efficient version control and deployment for multiple environments, reducing deployment times by **30%**.\n- Spearheaded the transformation of monolithic applications into microservices architecture using **Docker** and **Kubernetes**, resulting in improved scalability and manageability.\n- Developed advanced data analytics tools to visualize KPIs and support decision-making processes in finance, employing libraries like **D3.js** and **Chart.js** for effective data representation.\n- Integrated search functionality into applications using **Azure Cognitive Search** and **Elasticsearch**, improving query performance and accuracy for both structured and unstructured datasets.\n- Established rigorous testing frameworks utilizing **Jest**, **Cypress**, **Postman**, and **PyTest** to ensure the reliability and quality of APIs and services across platforms.\n- Collaborated with machine learning teams to deploy and expose NLP models via secure **REST APIs**, enhancing document processing capabilities across applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **API** development with **REST** and **SOAP** protocols to integrate financial services, enhancing data exchange efficiency across systems.\nEmployed **OAuth** for secure authentication and authorization, reinforcing user data protection throughout the application lifecycle.\nModernized core financial platforms by migrating to microservices architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\nBuilt interactive front-end applications with **React (18)**, **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies.\nDesigned and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance。\nDeveloped ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory** for ingesting financial data from internal and third-party sources, supporting both batch and real-time processing.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed and integrated robust APIs (REST, SOAP) for seamless data exchange, using **Postman** and **Swagger** to ensure reliability and thorough documentation for the e-commerce platform.\n• Utilized **OAuth 2.0** for secure API access, enhancing user data protection and compliance with GDPR throughout the platform.\n• Engineered backend services using **Python** (FastAPI, Django) and **Node.js** (NestJS, Express), achieving a **99.9%** uptime and reducing latency by **30%** in critical modules like checkout and cart management.\n• Designed and implemented caching strategies with **Redis** to optimize data retrieval speeds, decreasing average response time by **40%** during peak traffic.\n• Managed deployment strategies using **Kubernetes** for scalable, maintainable service orchestration, achieving controlled rollouts and significant risk mitigation during updates.\n• Integrated third-party tools like **Zapier** and **Mulesoft** for enhanced automation and workflow efficiency, reducing manual processes and improving operational effectiveness by **25%**.\n• Developed interactive frontend applications with **React** (18) and **Vue 3**, ensuring compliance with accessibility standards (WCAG 2.1) and providing a mobile-optimized experience that improved user engagement by **20%**.\n• Leveraged cloud platforms (**AWS**, **Azure**, **GCP**) for hosting solutions, ensuring scalable infrastructure that supports global operations and high-traffic e-commerce front-ends.\n• Created comprehensive documentation and workflows using **Workato**, enabling clear communication within the team and aiding in the onboarding process for new engineers.\n• Conducted end-to-end testing and optimization of the secure payment processing system integrated with **Stripe**, **PayPal**, and **Razorpay**, ensuring a fault-tolerant experience compliant with PCI standards."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, Java\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tAPI, REST, SOAP, OAuth, JSON, XML, Postman, Swagger, Workato, Mulesoft, Zapier\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, GCP, Azure: App Services\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Let’s Encrypt, Certbot, Terraform, Ansible, Helm, Docker Compose",
+  "apply_company": "Talon.One"
+}

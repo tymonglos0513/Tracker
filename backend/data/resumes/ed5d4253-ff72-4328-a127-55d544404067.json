@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior ML Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior ML Engineer with 8 years of full-stack development experience, I specialize in leveraging **Machine Learning**, **AI**, and **MLOps** to design and deploy high-performance solutions in the healthcare and financial sectors. My technical expertise includes working with **Python**, **JavaScript/TypeScript**, and **Flutter**, and proficiency in frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. \n\nI have extensive **cloud computing** experience with **Azure** and **AWS**, having developed enterprise-grade platforms that effectively integrate AI/ML capabilities for real-time data processing and predictive analytics. I’m skilled in implementing **real-time systems** and **batch processing**, ensuring operational processes are streamlined and efficient.\n\nWith a strong foundation in microservices architecture and event-driven systems, I emphasize **code quality** and adherence to testing frameworks, ensuring secure application deployment aligned with compliance standards like HIPAA, FHIR, PCI DSS, and SOC 2. I am adept at developing and deploying machine learning pipelines, serving ML models in production, and enhancing operational workflows using MLOps tools like **MLflow**, **Airflow**, and **Kubeflow**. My background in **production monitoring** and automation through CI/CD practices allows me to build robust systems that meet evolving business needs.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and implemented machine learning models for predictive analytics, including patient risk prediction, financial fraud detection, and document classification using **Python** (scikit-learn, **TensorFlow**), ensuring robust **MLOps** strategies for continuous training and deployment of models.\nDeveloped AI-driven features like personalized health recommendations and smart financial dashboards, leveraging trained models hosted on **Azure ML** and **AWS Sagemaker** to enhance user experiences.\nArchitected and maintained scalable data processing pipelines for real-time systems, employing cloud-native services including **PostgreSQL**, **MongoDB**, and **Redis**, optimizing for high-volume data ingestion and storage.\nEstablished robust CI/CD workflows utilizing **GitHub Actions**, **Azure DevOps**, and **CircleCI** to ensure high code quality with automated testing, security scans, and multi-environment deployments, enhancing operational processes and system reliability.\nImplemented comprehensive testing strategies using **Jest**, **Cypress**, **PyTest**, and **Postman**, achieving broad test coverage across unit, integration, and E2E scenarios for both front-end and back-end services, thereby improving code quality.\nBuilt and executed MLOps pipelines using tools like **MLflow**, **DVC**, and **Apache Airflow**, facilitating seamless model versioning, validation, and deployment across development and production environments under real-time and batch processing strategies.\nDeveloped data visualization tools with **D3.js** and **Chart.js**, enabling insightful analysis of transaction trends and operational KPIs, further supporting data-driven decision-making processes in financial operations.\nCollaborated with cross-functional teams, including data scientists, to seamlessly integrate **NLP models** (using **spaCy** and **Hugging Face Transformers**) for enhanced document parsing and financial anomaly detection, embedding them into core services via RESTful APIs.\nIntegrated advanced search functionalities using **Azure Cognitive Search** and **ElasticSearch**, enhancing user capabilities to query and analyze millions of unstructured and structured health records and financial documents."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented AI/ML-powered fraud detection systems using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, enhancing operational processes by **up to 95%** in detecting suspicious activities in banking systems.\nDeveloped ML pipelines for credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, improving real-time decision-making capabilities by **50%**.\nBuilt and orchestrated ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, enabling batch and real-time data ingestion from internal and third-party sources, improving data processing efficiency by **30%**.\nLed the development and modernization of financial platforms by adopting a microservices-based architecture using **Node.js** (**NestJS/Express**) and **Python** (**FastAPI**, **Django**), boosting scalability and maintainability for high-volume transaction systems by **an increase of 70%** in throughput.\nIntegrated **Kafka**, **RabbitMQ**, and **Azure Service Bus** to establish a robust event-driven architecture, supporting operational processes and real-time event processing for transactions and compliance workflows.\nBuilt dynamic, user-focused front-end applications using **React** (**18**), **Vue 3**, **Next.js**, and **TypeScript**, applying **Redux Toolkit** and **Tailwind CSS** to create responsive interfaces for financial dashboards.\nDeveloped real-time transaction monitoring and analytics dashboards using **React**, **D3.js**, and **Power BI Embedded**, enabling operations teams to track financial activity and generate actionable insights, improving decision-making time by **20%**.\nConducted rigorous testing and production monitoring to ensure code quality and system reliability across machine learning and financial applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Designed and optimized machine learning workflows and real-time systems for data processing in a global e-commerce platform, ensuring high performance and scalability across core modules.\nEngineered AI and machine learning solutions using **TensorFlow** and **scikit-learn**, integrating data science methodologies to enhance recommendation systems and optimize operational processes, directly impacting conversion rates by **20%**.\nDeveloped and maintained MLOps pipelines to streamline deployment processes for machine learning models, utilizing **Kubernetes** for efficient batch processing and production monitoring, achieving **99.9%** uptime.\nImplemented real-time monitoring and logging solutions for ML models, ensuring high code quality and testing compliance while enhancing overall system reliability.\nLeveraged cloud computing resources on **AWS** and **Azure** to facilitate scalable data storage and processing, resulting in **30%** faster data retrieval and analysis.\nCollaborated on cross-functional teams to refine operational processes, apply testing frameworks, and ensure successful deployment of machine learning models within the e-commerce platform.\nUtilized **Redis** caching for optimizing real-time recommendations and user interactions, significantly improving app responsiveness and user satisfaction metrics.\nConducted thorough analysis and optimization of existing machine learning features, leveraging data-driven insights to enhance algorithms and overall system performance.\nPresented findings and recommendations to stakeholders, focusing on continuous improvement of ML strategies and business processes."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tNginx, JWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda, Azure (App Services)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL)\n\n **Other:**\n\tMachine Learning, AI, Data Science, MLOps, LLMOps, Cloud Computing, Real-time Systems, Batch Processing, Operational Processes, Code Quality, Testing, Production Monitoring",
+  "apply_company": "Ageas UK"
+}

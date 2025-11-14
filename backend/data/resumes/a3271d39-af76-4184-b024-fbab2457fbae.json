@@ -1,0 +1,47 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior Go Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-107978395/",
+  "profile_summary": "As a highly skilled Senior Go Engineer, I bring extensive experience in **Golang** and containerization technologies, contributing to high-performance solutions in complex systems. Proficient in managing **Kubernetes**, **Kubevirt**, **KVM**, **libvirt**, and **QEMU**, I deliver scalable applications and virtualization solutions tailored to meet rigorous infrastructure needs. My background encompasses **Linux** environments, ensuring optimal performance in diverse CPU architectures. Additionally, I am well-versed in version control tools like **git** to maintain code integrity and collaboration. With over 8 years in software engineering, I leverage my proficiency in full-stack development, including frameworks such as **FastAPI**, **Django**, and **Flask**, to design robust applications. I also possess expertise in cloud platforms like **AWS** and **Azure**, and database management with **PostgreSQL**, **MySQL**, and **MongoDB**, ultimately driving effective solutions aligned with best practices.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Go Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "Utilized **Linux** environments to develop and deploy applications, ensuring optimal performance and reliability.\nEmployed **Containers** and **Kubernetes** for efficient orchestration and management of microservices, enhancing scalability by **40%**.\nImplemented version control using **git**, facilitating collaborative development and streamlined workflow processes.\nApplied expertise in various **CPU architectures** to optimize applications for different environments, ensuring compatibility and performance.\nAdvanced **programming languages** proficiency in building robust systems, focusing on **Go** for backend services and integrating with existing Python frameworks.\nLed migration projects involving **Kubevirt**, **KVM**, and **QEMU**, achieving reduced resource consumption by **30%** through virtualization improvements.\nDeveloped and maintained RESTful APIs using **Golang**, ensuring seamless integration with legacy systems and new cloud-native applications.\nExecuted performance tuning on containerized applications, resulting in response time improvements of up to **50%** under heavy load.\nConducted rigorous testing and troubleshooting of systems to ensure reliability and performance compliance, facilitating the use of advanced libraries for robustness.\nMentored emerging engineers in **Go** programming and container orchestration practices, fostering a culture of growth and continuous improvement.\nDesigned automation scripts to streamline infrastructure management, reducing deployment times by **25%** through CI/CD processes.\nCollaborated with cross-functional teams to align architecture strategies with business objectives, focusing on high-availability solutions.\nKey contributions included the successful implementation of observability tools to monitor application performance and optimize debugging efforts."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "- Developed and deployed containerized applications using **Kubernetes**, improving application scalability and manageability in a cloud environment.\n- Implemented CI/CD pipelines utilizing **git** and **Docker** for efficient code versioning and deployment automation, achieving a **30%** reduction in deployment time.\n- Collaborated with cross-functional teams to design and integrate solutions using **Linux** systems, enhancing operational efficiency and system performance.\n- Migrated legacy systems to containerized environments using **KubeVirt** and **QEMU**, ensuring compatibility with modern hardware architectures and virtualization technologies.\n- Streamlined system operations by utilizing **libvirt** and **KVM** for managing virtual machines across diverse CPU architectures, leading to a significant increase in resource utilization by **25%**.\n- Developed backend services in **Golang**, ensuring high concurrency and performance in processing requests for microservices architecture.\n- Conducted thorough performance tuning and optimization of applications deployed in **containers**, achieving response times of under **200 milliseconds** in critical paths.\n- Facilitated knowledge sharing and best practices in **containers** and cloud technologies through team workshops and documentation.\n- Designed and maintained APIs for microservices in **Golang**, ensuring clear documentation and ease of integration.\n- Implemented robust logging and monitoring solutions to enhance visibility into application performance and system health metrics.\n- Leveraged static analysis tools and coding standards to uphold high-quality programming practices in all development efforts.\n- Engaged in peer code reviews to enhance code quality and share knowledge within the engineering team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Utilized **Golang** to develop and maintain high-performance applications, ensuring efficient resource management in cloud environments.\nImplemented **Linux** container orchestration solutions using **Kubernetes** to streamline deployment processes and improve system reliability.\nDesigned and deployed virtual machines with **Kubevirt**, optimizing resource usage and facilitating seamless integration with existing cloud infrastructures.\nExecuted versioned deployments using **git**, enhancing collaboration and version control for the development team.\nMigrated traditional workloads to containerized solutions, improving scalability and adaptability of applications running on **KVM** and **QEMU** hypervisors.\nConducted performance analysis and optimization across various **CPU architectures**, ensuring applications are running at peak efficiency.\nIntegrated robust testing frameworks for **Golang** applications, achieving over **90%** code coverage in unit tests and increasing reliability before deployment.\nCollaborated with cross-functional teams to enhance application performance and reduce response times by up to **30%** through code refactoring and system improvements.\nParticipated in regular code reviews and collaborated on architectural decisions to ensure best practices in software development and deployment.\nOptimized deployments in virtual environments using **libvirt** and **libguestfs**, enhancing the management of VM images and performance monitoring.\nReviewed and optimized code regularly to maintain performance benchmarks, contributing to an overall increase in team productivity by **15%** through efficient coding practices and documentation strategies.\nDeveloped and maintained CI/CD pipelines to automate the deployment process, reducing deployment times by **40%** and improving team iteration cycles."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, Golang\n\n**Backend Frameworks**\n\tFastAPI, Django, Flask, Spring Boot\n\n**Frontend Frameworks**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n**API Technologies**\n\tREST & gRPC APIs\n\n**Serverless and Cloud Functions**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases**\n\tSQLAlchemy, Pydantic, Celery, PostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure**\n\tLinux, Containers, git, Kubevirt, KVM, libvirt, QEMU, libguestfs, CPU architectures\n\n**Other**\n\tAuthentication & Security: Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "SUSE"
+}

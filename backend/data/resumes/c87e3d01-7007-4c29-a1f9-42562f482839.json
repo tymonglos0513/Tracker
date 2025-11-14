@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Backend Engineer with 13+ years of experience specializing in high-performance application development in the healthcare and financial sectors. Expert in **PHP** frameworks such as **Symfony** and **Laravel**, alongside **Go**, with proficiency in database management using **MySQL** and **PostgreSQL**. Strong background in implementing **microservices** and **REST APIs**, utilizing design patterns, the **12-Factor App methodology**, and **Clean Architecture** principles. Skilled in CI/CD processes and containerization with **Docker**, as well as orchestration using **Kubernetes** and **Helm**. Familiar with messaging systems including **RabbitMQ**, **Apache Kafka**, and **Amazon SQS** for real-time data processing.\n\nIn addition to backend expertise, I possess valuable experience in **JavaScript/TypeScript**, **Python**, and **Flutter** for full-stack solutions. Well-versed in deploying cloud-native systems on **AWS** and **Azure**, and integrating AI/ML capabilities for predictive analytics. Committed to compliance-driven development, aligning solutions with HIPAA, FHIR, PCI DSS, and SOC 2 standards, and I have a solid background in MLOps utilizing tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and implemented **microservices** architectures using **PHP** (Symfony and Laravel), ensuring adherence to **SOLID** principles and **12-Factor App methodology** for optimal software design.\nBuilt and maintained robust data storage solutions with **MySQL** and **PostgreSQL**, facilitating efficient data management and retrieval for applications.\nDeveloped and executed **CI/CD** pipelines with tools like **Docker** and **Kubernetes**, achieving deployment efficiency and streamlined workflows across multiple environments.\nCollaborated with cross-functional teams to integrate various **REST APIs**, enhancing communication and data exchange between different service components.\nEmployed **Redis** and **AWS Elastiсache** to optimize caching strategies, significantly improving application performance and response times by **30%**.\nImplemented messaging systems using **RabbitMQ** and **Apache Kafka**, ensuring highly available and resilient data processing pipelines.\nApplied design patterns and **Clean Architecture** principles to improve code maintainability and facilitate seamless integration. \nLed efforts to integrate **Elasticsearch** for advanced search capabilities, enhancing query performance and providing real-time insights for users.\nUtilized **PHPUnit** for comprehensive testing strategies, ensuring high-quality code through reliable unit and integration tests.\nConducted regular code reviews and collaborated on problems with peers, fostering an environment of continuous learning and improvement, increasing team productivity by **25%**.\nPositioned and directed architecture diagrams using **PlantUML** and **Mermaid** to document system design and facilitate clearer communication among team members."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Crafted scalable **microservices** solutions using **PHP** frameworks like **Symfony** and **Laravel**, optimizing system performance while supporting **12-Factor App** methodology and promoting **Clean Architecture** principles.\nImplemented robust data management using **MySQL** and **PostgreSQL**, ensuring data integrity and efficient access patterns for applications previously processing over **10K** transactions per second.\nDesigned and maintained asynchronous messaging systems with **RabbitMQ** and **Apache Kafka** for reliable communication across microservices, enhancing system resilience.\nDeveloped and maintained RESTful APIs following **SOLID** principles and effective **design patterns**, allowing seamless integration with front-end applications while adhering to best practices in software design.\nAutomated deployment workflows using **Docker** and **Kubernetes**, leading to a **30%** reduction in deployment times and decreased rollback incidents.\nUtilized **CI/CD** practices to streamline application delivery, enhancing development workflows and enabling team collaboration and efficient problem-solving.\nMaintained operational standards and network performance under Linux environments, improving overall system uptime to **99.9%**.\nImplemented caching strategies with **AWS ElastiCache** and **Redis** to significantly improve response times for frequently accessed data, reducing latency by over **20%**.\nConducted thorough testing using **PHPUnit** to ensure code reliability and application performance, achieving a code coverage of over **85%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Engineered and optimized backend services using **PHP (Symfony, Laravel)** and **Go**, ensuring high availability, low latency, and scalability across microservices with a focus on **REST APIs** and **12-Factor App methodology**.\nDeveloped distributed data storage solutions leveraging **MySQL** and **PostgreSQL**, ensuring fault-tolerant data access for e-commerce workflows, handling up to **10,000** transactions per minute.\nImplemented CI/CD pipelines using **Docker** and **Kubernetes**, achieving deployment increments up to **3** times a week and reducing deployment failures by **40%** through effective use of **Helm**.\nUtilized **Redis** and **AWS Elastiсache** for caching mechanisms that improved application performance by **30%**, reducing database read operations and enhancing application responsiveness.\nApplied event-driven architecture using **Apache Kafka** and **RabbitMQ** for real-time processing of orders and inventory management, ensuring low-latency data flow and response times under **200ms**.\nAdopted SOLID principles and design patterns to enhance code maintainability and scalability, leading to a reduction in code complexity by **25%** and improving team collaboration and problem-solving efforts.\nDeveloped and integrated secure microservices with **AWS services**, applying robust authentication and authorization methods via **OAuth 2.0**, ensuring compliance with GDPR regulations for user data protection.\nUtilized communication tools for effective collaboration within teams, promoting agile methodologies and continuous improvement practices across all stages of development.\nLeveraged visualization tools like **PlantUML** and **Mermaid** for clear documentation of microservices architecture, facilitating broader understanding and enhancing team synergy in project execution."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPHP, Go, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tSymfony, Laravel, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tREST APIs, RabbitMQ, Apache Kafka, Amazon SQS\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, Elastiсache, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tMySQL, PostgreSQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Helm, Terraform, Ansible\n\n**Cloud & Infrastructure:**\n\tAWS services, Azure, Linux, CI/CD\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, microservices, SOLID, design patterns, 12-Factor App methodology, PHPUnit, Clean Architecture, DDD, PlantUML, Mermaid, communication, collaboration, problem-solving"
+}

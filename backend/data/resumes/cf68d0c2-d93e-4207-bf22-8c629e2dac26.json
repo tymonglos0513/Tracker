@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior DevOps Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Senior DevOps Engineer with over 10 years of experience in harnessing a wide range of technologies, including **GCP**, **Kubernetes**, **Docker**, **Terraform**, and **Linux**. Proficient in scripting with **Bash** and deploying CI/CD pipelines using **Jenkins**. Skilled in monitoring and visualization tools such as **Grafana** and **Google Cloud Monitoring** to ensure system reliability and performance. Strong expertise in database management with **MongoDB**, **PostgreSQL**, and **Redis**. Well-versed in **SRE** practices and **Agile** methodologies, ensuring seamless incident management and a focus on operational excellence. Proven track record of delivering robust backend systems and automation tools while collaborating with high-impact teams at leading organizations including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Terraform** to manage cloud infrastructure on **GCP** ensuring efficient and scalable operations across environments.\nEngineered containerized applications using **Docker** and orchestrated them with **Kubernetes** to enhance deployment efficiency and reduce downtime by **30%**.\nImplemented monitoring solutions utilizing **Grafana** and **Google Cloud Monitoring** to track system performance and alert on incidents with a response time of under **5 minutes**.\nAutomated CI/CD pipelines using **Jenkins** for consistent and reliable deployments, reducing deployment-related failures by **40%**.\nDeveloped Python scripts for process automation, ensuring resilience and efficiency in system operations while adhering to **Agile** methodologies.\nManaged distributed databases such as **Mongo** and **PostgreSQL**, optimizing data retrieval processes to support backend applications.\nPerformed incident management to swiftly address system vulnerabilities and improve operational readiness."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Terraform** for infrastructure automation and deployment of microservices on **Kubernetes** clusters, ensuring consistent and scalable environments.\nImplemented CI/CD pipelines using **Jenkins**, facilitating seamless integration and deployment processes with a **Python** and **Bash** backend.\nMonitored system performance and reliability with **Grafana** and **Google Cloud Monitoring**, proactively addressing incidents to maintain high availability and performance metrics above **99.9% uptime**.\nDeveloped containerized applications with **Docker**, ensuring efficient resource utilization and swift deployment cycles.\nEngineered data pipelines in **Python** to facilitate secure data exchange, managing storage solutions utilizing **Mongo** and **PostgreSQL**.\nAutomated incident management processes, improving response times by **30%** through established protocols within an **SRE** framework.\nCollaborated in **Agile** teams, ensuring effective communication between cross-functional areas to maintain project timelines and regulatory compliance."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **GCP** and **Kubernetes** to deploy and manage backend services for trade execution, portfolio management, and account tracking, enhancing trading operations and achieving a **50%** reduction in deployment time.\nDeveloped real-time price feed processors with **Python**, **Redis**, and **asyncio**, facilitating high-frequency transaction support and improving data latency by **30%**.\nCollaborated with frontend teams to implement REST APIs and WebSocket channels, ensuring seamless integration of **Docker** containers for smooth user interactions.\nMaintained strict adherence to regulatory compliance, including MiFID II and GDPR, while ensuring platform security through effective **incident management** practices.\nDesigned and implemented comprehensive test suites using **PyTest** and **tox**, streamlining QA processes to increase deployment efficiency by **40%**.\nIntroduced job scheduling and queuing with **Celery** and **RabbitMQ**, optimizing backend task execution, which led to a **25%** enhancement in process management capabilities.\nAutomated infrastructure as code with **Terraform**, managing resources in a **Linux** environment to ensure scalability and consistency across deployments."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python, Bash\n\n **Backend Frameworks**\n\t FastAPI, Flask, Django, Celery\n\n **Frontend Frameworks**\n\t JavaScript\n\n **API Technologies**\n\t REST/gRPC APIs, Microservices\n\n **Serverless and Cloud Functions**\n\t AWS (EC2, S3, Lambda), GCP\n\n **Databases**\n\t PostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps**\n\t Docker, Kubernetes, Jenkins, GitHub Actions, Azure DevOps, Terraform, CI/CD\n\n **Cloud & Infrastructure**\n\t AWS, Azure, GCP, Google Cloud Monitoring, Grafana, Linux, SRE\n\n **Other**\n\t Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, PyTest, Agile, Incident Management",
+  "apply_company": "Digital Science"
+}

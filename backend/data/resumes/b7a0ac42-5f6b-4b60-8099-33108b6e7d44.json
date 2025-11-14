@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "DevOps Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Dynamic DevOps Engineer with over 9 years of comprehensive experience in designing and implementing robust CI/CD pipelines using **Jenkins X**, **Terraform**, and **Ansible**. Proficient in container orchestration with **Kubernetes**, monitoring with **Grafana**, and logging via **Loki** and **Prometheus**. Experienced in cloud services including **AWS** and **GCP**, optimizing infrastructure for performance and scalability. Strong expertise in message brokers such as **RabbitMQ** and data management with **MongoDB** and **Redis**. Demonstrates exceptional analytical and problem-solving skills, with a proven track record of fostering collaboration across teams and delivering efficient solutions. Adept at ensuring container security and implementing **GitOps** practices, while maintaining independence and accountability in project execution.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Implemented **Kubernetes** for container orchestration, enhancing deployment consistency across environments by **50%**.\nManaged infrastructure as code using **Terraform**, which facilitated automated provisioning and scaling of resources in **AWS** and **GCP**.\nDeployed and configured **Ansible** for automated configuration management, significantly reducing setup time by **30%**.\nSet up **Jenkins X** for continuous integration and continuous deployment (CI/CD), resulting in deployment frequency increase by **60%**.\nMonitored application performance using **Grafana**, and implemented **Prometheus** and **Loki** for logging and metrics, ensuring system health visibility with real-time alerts.\nConfigured **RabbitMQ** for message queuing, enabling seamless communication between microservices and reducing system latency by **15%**.\nImplemented **Redis** for caching frequently accessed data, improving overall application response times by **35%**.\nUtilized **MongoDB** for scalable data storage within the application, optimizing database queries and indexing processes for better performance.\nEnsured high availability and disaster recovery by implementing effective load balancing and **DNS** strategies.\nCollaborated with cross-functional teams to enhance process efficiencies, showcasing strong independence and analytical skills while solving complex problems within the infrastructure."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Implemented **Kubernetes** for container orchestration of cloud-based project management tools, leading to a **15%** increase in deployment efficiency.\nDesigned infrastructure as code with **Terraform** and **Ansible**, automating the provisioning of resources, which resulted in a **30%** reduction in setup time.\nUtilized **Jenkins X** for CI/CD pipelines, decreasing production deployment errors by **30%** while enhancing deployment frequency.\nMonitored system performance using **Grafana** and **Prometheus**, enabling proactive management of service reliability and scalability.\nIntegrated and configured **RabbitMQ** for task orchestration, ensuring efficient data flow and communication between microservices.\nEmployed **Redis** for caching, contributing to a **25%** boost in application response times during high load scenarios.\nOptimized data processing with **MongoDB** and performed analyses that improved application runtime by **20%**.\nDeveloped high-availability solutions using best practices in **TCP/IP**, routing, load balancing, and security protocols including VPNs and firewalls.\nCollaborated with cross-functional teams to define infrastructure requirements and development timelines, ensuring timely project delivery and alignment with business goals.\nConducted code reviews and provided mentorship to junior developers, improving team collaboration and productivity.\n"
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "• Managed and optimized CI/CD pipelines using **Jenkins X** to automate build and deployment processes, increasing deployment efficiency by **30%**.\n• Leveraged **Kubernetes** for container orchestration, ensuring high availability and scalability of applications in production.\n• Implemented **Terraform** for infrastructure as code (IaC), improving environment provisioning time by **50%**.\n• Utilized **Ansible** for configuration management, ensuring consistent server setups and reducing configuration drift.\n• Set up monitoring and logging solutions with **Grafana**, **Prometheus**, and **Loki** to enhance system visibility and incident response.\n• Developed and maintained a service mesh using **RabbitMQ** to manage message queues effectively, ensuring reliable message delivery and improving system resilience.\n• Enhanced cloud resource management using services from **AWS** and **GCP**, optimizing costs and improving resource allocation by **25%**.\n• Collaborated with cross-functional teams to implement effective load balancing and routing strategies using **TCP/IP** and **DNS** configurations.\n• Designed and implemented security measures including **VPNs**, **firewalls**, and container security strategies, ensuring compliance with industry standards.\n• Conducted regular system performance evaluations to identify bottlenecks and optimize cloud setups, employing analytical skills and problem-solving techniques to achieve impactful results."
+    }
+  ],
+  "skills": "**Backend Frameworks**\n\tNodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n\n**Frontend Frameworks**\n\tHTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n**API Technologies**\n\tRESTful API, GraphQL\n\n**Serverless and Cloud Functions**\n\tAWS, Azure, GCP\n\n**Databases**\n\tMSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB, ClickHouse\n\n**DevOps**\n\tKubernetes, Terraform, Ansible, Jenkins X, Grafana, Prometheus, Loki, CI/CD pipelines, GitOps\n\n**Cloud & Infrastructure**\n\tOVH, container security, TCP/IP, routing, load balancing, DNS, VPNs, firewalls\n\n**Other**\n\tUX/UI Design, Git, GitHub, RabbitMQ, Redis, Solidity, Ether.js, Web3.js, Ethereum, analytical skills, problem-solving skills, independence, collaboration skills, Rabbitmq, Redis"
+}

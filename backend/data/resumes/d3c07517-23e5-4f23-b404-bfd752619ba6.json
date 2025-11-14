@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Results-driven Software Engineer with 13+ years of experience in delivering high-performance applications, specializing in **distributed systems** and **cloud-based architecture**. Proficient in **APIs** development and automated testing strategies. Skilled in **Go** and **Kubernetes**, with a strong foundation in deploying and maintaining cloud-native applications on **AWS** and **Azure**. Demonstrated expertise in building scalable architectures and implementing **Site Reliability Engineering** principles to enhance application performance and reliability.\n\nExtensive experience with a diverse tech stack, including **JavaScript/TypeScript**, **Python**, and **Flutter** for frontend and backend development using **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. An adept problem-solver with hands-on expertise in developing AI/ML-powered platforms that drive predictive analytics and automation. Committed to compliance-driven development and aligning solutions with industry standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and maintained **cloud-based architecture** solutions, utilizing **Kubernetes** for orchestration and management of **distributed systems** to enhance scalability and reliability.\nDeveloped and integrated **APIs** to facilitate communication between microservices and external systems, ensuring seamless data flow and accessibility.\nDesigned and executed **automated testing** frameworks leveraging tools such as Jest and Cypress, ensuring the robustness of applications and compliance with industry standards.\nCollaborated with cross-functional teams to apply **Site Reliability Engineering** principles, proactively monitoring and improving system performance for both uptime and efficiency.\nLeveraged **NeuralSearch** technology to optimize search capabilities across applications, enhancing user experience through advanced querying techniques.\nArchitected distributed applications for healthcare and fintech using Python (**FastAPI**) and TypeScript, with a focus on **Go** for high-performance components.\nRealized an increase in application performance by **30%** through the migration to **Kubernetes** and optimization of existing microservices.\nEnsured high system availability through load balancing and deployment strategies across **Kubernetes** clusters.\nDelivered a complete CI/CD pipeline integrating automated testing and deployment processes, achieving a **60%** reduction in release times.\nAnalyzed user interaction data, leading to the development of personalized features that improved user engagement metrics by **25%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented and maintained **cloud-based architecture** solutions for high-performance distributed systems, enhancing application reliability and scalability.\nDesigned, developed, and integrated **APIs** for seamless communication between various financial systems, improving overall system interoperability.\nEmployed **Kubernetes** for orchestrating containerized applications, ensuring high availability and efficient resource utilization in a cloud environment.\nConducted **automated testing** and continuous integration processes, leading to a **30%** reduction in deployment times and ensuring code quality across the development lifecycle.\nParticipated in **Site Reliability Engineering** initiatives, contributing to a **99.9%** uptime and implementing monitoring solutions to promptly address system anomalies.\nModernized core financial platforms by migrating to microservices architecture using Node.js (NestJS/Express) and Python (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\nBuilt interactive front-end applications with React (18), Vue 3, Next.js, and TypeScript, utilizing Redux Toolkit and Tailwind CSS to create sleek, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with React, D3.js, and Power BI Embedded, providing operations teams with instant insights into transactions and anomalies.\nDesigned and deployed a robust event-driven architecture using Kafka, RabbitMQ, and Azure Service Bus, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nDeveloped ETL pipelines for ingesting financial data from internal and third-party sources using Python, Apache Airflow, and Azure Data Factory, supporting both batch and real-time processing.\nBuilt and deployed machine learning models for fraud detection using scikit-learn, XGBoost, and Azure ML, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging MLflow and Airflow to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized **cloud-based architecture** for a global e-commerce platform, enhancing **distributed systems** to ensure high availability, low latency, and seamless scalability across key modules like checkout, cart, and order fulfillment.\n• Engineered resilient **APIs** with a focus on **Site Reliability Engineering (SRE)** principles, implementing **Kubernetes** for automated deployment and management of distributed services.\n• Introduced **NeuralSearch** algorithms to enhance search capabilities, improving user experience by personalizing search results based on real-time data and user behavior.\n• Conducted **automated testing** for backend services using robust frameworks, achieving a test coverage increase of up to **90%**, ensuring the reliability and performance of the application.\n• Utilized **Go** for microservices development, contributing to a service-oriented architecture that improved the deployment speed by **30%**, and enhanced service interconnectivity.\n• Integrated advanced backend features leveraging **WebSockets** and event-driven architectures like **Kafka** and **RabbitMQ** to facilitate real-time updates and customer interactions.\n• Implemented caching strategies using **Redis** to boost response times by **50%** during peak traffic, thereby improving user experience and system performance.\n• Designed and delivered comprehensive monitoring tools to track system health, performance metrics, and error rates ensuring adherence to SRE practices.\n• Collaborated with cross-functional teams to enhance user interfaces using state-of-the-art technologies including **React 18**, **Vue 3**, and **Angular**, optimizing cross-platform performance by achieving a **70% improvement** in loading times.\n• Ensured compliance with GDPR through robust security practices implementing **role-based access control (RBAC)** and **OAuth 2.0**, safeguarding user data throughout the platform."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tGo, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPIs\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, distributed systems, cloud-based architecture, NeuralSearch, automated testing, Site Reliability Engineering, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot"
+}

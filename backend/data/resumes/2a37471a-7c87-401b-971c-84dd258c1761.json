@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Backend Engineer (Data-Focused)",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Backend Engineer with 10+ years of experience specializing in data-focused software solutions. Expertise in **Node.js**, **TypeScript**, and **Fastify**, complemented by strong database skills in **PostgreSQL** and **Redis**. Proven track record in implementing CI/CD processes using **Docker** and **Terraform**, ensuring efficient and automated deployment cycles. Experienced in leveraging data manipulation and analysis tools such as **Polars** and **Pandas** to enhance systems that integrate machine learning models effectively, along with practical knowledge of A/B testing frameworks for data-driven decision-making. \nAdditionally, I bring a robust understanding of modern application architectures and have led initiatives that prioritize scalability and maintainability while adhering to compliance standards. Passionate about driving impactful solutions through innovative software engineering practices.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer (Data-Focused)",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tDeveloped robust backend solutions utilizing **Node.js**, **TypeScript**, and **Fastify** to ensure efficient API performance and streamlined data processing workflows.\n•\tImplemented continuous integration and delivery (CI/CD) pipelines using tools such as **Docker** and **Terraform**, enabling seamless deployment and management of microservices architectures.\n•\tDesigned, optimized, and maintained scalable databases with **PostgreSQL** and **Redis**, ensuring fast data retrieval and effective data caching strategies, handling over **10 million** records.\n•\tExecuted data-driven analysis with **Pandas** and **Polars**, providing insights and optimizing performance based on real-time data manipulation results.\n•\tIntegrated machine learning models and frameworks (e.g., **ML model integration**) to enhance data processing capabilities and analytics, leading to a **30%** increase in processing efficiency for complex queries.\n•\tEmployed A/B testing frameworks to evaluate feature performance and user engagement, facilitating data-informed decisions to improve application offerings.\n•\tCollaborated with cross-functional teams to develop and maintain high-quality, documentation-rich API specifications and data handling guidelines.\n•\tEnsured system robustness and resiliency by implementing comprehensive testing strategies using **Zod** for data validation to guarantee backend reliability.\n•\tParticipated in code reviews and shared knowledge with team members to foster a culture of continuous learning and improvement within the engineering team."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Node.js** and **TypeScript** to develop and optimize backend services for data-focused applications, ensuring high performance and scalability in line with organizational needs.\nLeveraged **PostgreSQL** and **Redis** for efficient data storage and retrieval, significantly enhancing application responsiveness and data integrity by **30%**.\nDesigned and implemented robust APIs using **Fastify** and integrated schema validation with **Zod** to guarantee data accuracy and security while processing over **1M** transactions daily.\nManaged containerized applications using **Docker** and streamlined deployment pipelines with CI/CD methodologies, reducing release cycle time by **40%**.\nEmployed **Terraform** for Infrastructure as Code (IaC) to automate environment provisioning, enabling consistent and repeatable deployments across development, testing, and production.\nIntegrated data processing libraries such as **Polars** and **Pandas** for advanced data manipulation and analytics, contributing to increased decision-making efficiency by **25%**.\nDeveloped and maintained ML model integration frameworks tailored for real-time applications, ensuring seamless deployment of predictive analytics solutions with a focus on data-driven insights.\nParticipated in A/B testing frameworks to evaluate feature performance and user engagement, providing actionable feedback for product and engineering teams to improve overall user experience."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Developed backend services using **Node.js** and **TypeScript**, ensuring high availability and scalability across crucial application modules by adhering to best practices in **CI/CD** and **Docker** deployment.  \nImplemented **PostgreSQL** as the primary database solution and utilized **Redis** for caching mechanisms to enhance performance, achieving a **50%** reduction in data retrieval times.  \nEngineered data integration with **Kysely** for seamless database interactions, ensuring data integrity and reliability across backend processes.  \nOptimized application performance by integrating **Zod** for runtime validation and building type-safe APIs, which reduced bugs during development by **30%**.  \nCollaborated on **Terraform** configurations to maintain infrastructure as code and ensure reproducibility in deployment environments, resulting in consistent setups across development and production.  \nUtilized **Polars** and **Pandas** libraries for data manipulation and analysis in backend services, improving data processing speeds by **40%** for analytical features.  \nImplemented A/B testing frameworks to evaluate feature performance and monitor user interactions, thereby directly influencing product enhancements.  \nIntegrated machine learning model outputs into the backend processes, ensuring effective **ML model integration** to personalize user experiences continually.  \nDeveloped technical documentation for APIs and backend services, facilitating easier handover and onboarding processes for new team members."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tNode.js, TypeScript, Python, JavaScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Fastify\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tZod\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Polars, Pandas, ML model integration, A/B testing frameworks"
+}

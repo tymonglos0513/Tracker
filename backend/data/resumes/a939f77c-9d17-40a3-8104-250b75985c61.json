@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Golang Developer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a Senior Golang Developer with 8 years of full-stack development experience, I bring expertise in **Go**, **AWS**, **Python**, **JavaScript**, **Node.js**, and **React**. My proficiency in building high-performance applications is complemented by a strong foundation in CI/CD automation, ensuring efficient deployment and operational excellence. I have a demonstrated history of successfully integrating third-party payment solutions like **Stripe** and **PayPal**, while implementing observability practices for enhanced performance optimization across projects.\n\nI am well-versed in modern web technologies including **FastAPI** and **Django**, and have experience with data scraping and leveraging proxy networks for improved data pipeline efficiency. Additionally, I have utilized advanced frameworks for developing applications that integrate LLMs, enhancing user engagement and data analysis capabilities. Having led the development of enterprise-grade platforms, I prioritize security and compliance with standards such as HIPAA and PCI DSS while focusing on robust architecture and real-time data processing.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Developer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained **Go** applications focusing on performance optimization for healthcare and financial platforms, ensuring high-speed transaction processing and system reliability.\nArchitected and implemented **CI/CD** pipelines using **AWS** services, ensuring smooth deployment processes and scalability through automated testing and monitoring.\nCollaborated with front-end teams to integrate services seamlessly, emphasizing **Node.js** and **React** frameworks to enhance user experience across both web applications.\nEstablished data scraping techniques to gather critical financial and healthcare insights, leveraging **proxy networks** to maintain data integrity and compliance.\nUtilized **Python** for backend development, ensuring robust data handling and integration with third-party payment providers such as **Stripe** and **PayPal** to facilitate secure transactions.\nImplemented observability tools to monitor application performance, enabling proactive detection of potential issues and enhancing user satisfaction through reliable service delivery.\nExecuted real-time performance optimization strategies by employing advanced profiling tools and techniques, improving system response times by over **30%**.\nLed the integration of **LLMs** into existing platforms to enhance data processing and analytics capabilities, including feature extraction and predictive modeling for financial forecasting.\nProduced thorough documentation and maintained best coding practices to ensure high standards of quality, code readability, and maintainability for future enhancements and team onboarding.\nCollaborated with cross-functional teams to integrate user feedback and iterative improvements, ensuring products not only meet technical specifications but also align with market needs."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Go** to develop scalable backend services that improve performance and observability within financial applications, ensuring efficient transaction processing and high availability.\nImplemented CI/CD pipelines with **AWS** tools, enhancing deployment efficiencies and enabling rapid iterations for software development life cycle.\nDeveloped robust APIs using **Node.js** (NestJS/Express) to support dynamic front-end applications, ensuring seamless integration with payment processors such as **Stripe** and **PayPal**.\nEnhanced front-end performance by building applications with **React** (18), incorporating **JavaScript** and best practices in performance optimization to deliver responsive user experiences.\nLeveraged scraping techniques and proxy networks to gather real-time financial data, infused with AI-driven insights for transaction monitoring, powered by frameworks like **scikit-learn** and **XGBoost**.\nCreated observability metrics and dashboards to monitor application health, promptly addressing issues in transaction processing and data integrity.\nFocused on performance optimization across the development process to reduce latency by **30%** in transaction handling systems, resulting in an increase in throughput and operational efficiency.\nDeployed **AWS** services to facilitate data storage solutions and real-time analytics, leveraging tools like **Python** and **Kafka** for effective data pipeline management."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Go** to develop high-performance backend services for scalable applications, enhancing system responsiveness and reliability for daily transactions exceeding **10,000** users.\nImplemented CI/CD pipelines to streamline deployment processes, reducing deployment times by **50%**, ensuring consistent delivery of features and updates.\nIntegrated **AWS** cloud services for hosting, architecture, and resource scalability, effectively managing infrastructure with a monthly uptime goal of **99.99%**.\nConducted real-time web scraping and utilized proxy networks for data collection, ensuring accurate and timely data availability for analytic platforms.\nLeveraged **Python** and **JavaScript** alongside **Node.js** for performance optimization, streamlining application workflows and minimizing latency for end-users.\nDeveloped frontend applications using **React**, implementing state management with Redux for optimized data flow, ensuring user interactions are completed in under **200ms**.\nCollaborated on payment gateway integrations with **Stripe** and **PayPal**, enhancing transaction processing speed and security through tokenization and compliance with PCI standards.\nMonitored application performance and observability metrics to identify bottlenecks and improve overall system efficiency, resulting in a **30%** improvement in load times.\nEmployed best practices in coding and testing to ensure high code quality and maintainability across all projects, adhering to Agile methodologies for iterative development.\nEngaged in continuous improvement initiatives, contributing to team knowledge sharing and enhancing skills around LLMs and emerging technologies."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, Go, JavaScript\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django, Node.js\n\n **Frontend Frameworks**\n\tReact, Vue, Angular\n\n **API Technologies**\n\tStripe, PayPal\n\n **Serverless and Cloud Functions**\n\tAWS (ECS, Lambda, RDS, S3)\n\n **Databases**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure**\n\tAzure (App Services, Blob, SQL)\n\n **Other**\n\tArtificial Intelligence & Machine Learning (MLflow, Airflow, Kubeflow), Authentication & Security (Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), scraping, proxy networks, LLMs, observability, performance optimization"
+}

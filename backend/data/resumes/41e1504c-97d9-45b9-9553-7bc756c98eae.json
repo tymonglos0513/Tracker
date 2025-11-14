@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Backend Developer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Backend Developer with 10+ years of experience in delivering high-performance software solutions, specializing in **Python**, **FastAPI**, and **AWS** technologies. Expert in building secure, maintainable web applications, employing best practices like **mTLS**, **digital certificates**, and **encryption** for robust security. Proficient in using **Docker**, **CloudWatch**, **X-Ray**, **AppRunner**, **Fargate**, **Lambda**, and **DynamoDB** to deploy and manage cloud-native applications. Skilled in CI/CD processes using **Git**, **Jenkins**, and **Sonar**, with a strong focus on clean code principles and design patterns.\n\nDemonstrates deep knowledge of asynchronous programming and testing frameworks such as **httpx**, **asyncio**, **uv**, and **pyTest**. Brings a practical understanding of integrating LLM libraries in projects, ensuring that solutions are both scalable and efficient. Passionate about leveraging technology to drive real-world impact while adhering to compliance standards according to industry best practices.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Developer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Crafted and optimized backend systems using **Python** and **FastAPI** to ensure robust and secure applications, implementing best practices like **mTLS**, **encryption**, and **security tokens** to protect sensitive data.\n• Developed and managed CI/CD pipelines with **Docker**, **Git**, **Jenkins**, and **AWS** services, facilitating continuous integration and deployment processes for enhanced software delivery efficiency.\n• Leveraged **AWS Lambda** for serverless architecture, significantly reducing operational costs while maintaining performance with a focus on elastic scalability.\n• Utilized monitoring and logging with **CloudWatch** and **X-Ray** to enhance system visibility and troubleshoot performance bottlenecks, ensuring system reliability and response times faster than **200ms**.\n• Implemented asynchronous programming with **asyncio** in Python, achieving enhancements in response time for API calls by up to **30%**.\n• Conducted unit testing and test automation using **pyTest** to ensure code quality and adherence to **clean code principles**, covering **95%** of the codebase.\n• Integrated with **DynamoDB** for database management and achieved data retrieval times of less than **50ms** for high-traffic applications.\n• Adhered to design patterns and clean coding practices throughout backend development ensuring maintainability and scalability of applications.\n• Collaborated with cross-functional teams to integrate third-party services, ensuring secure data exchange when employing HTTP clients like **httpx** and maintaining API security standards.\n• Documented backend functionality and architectural changes, ensuring clarity for team members and stakeholders while following agile methodologies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop robust backend services, ensuring clean code principles and adherence to design patterns for enhanced maintainability and performance.\nDeveloped and deployed containerized applications using **Docker**, integrating **AWS Lambda**, **Fargate**, and **AppRunner** to achieve seamless scalability and reduce deployment times by **40%**.\nEmployed encryption techniques and security measures, including **mTLS**, **digital certificates**, and **security tokens**, to secure applications processing financial data.\nImplemented CI/CD pipelines with **Jenkins** and **Git**, leading to a **30%** improvement in deployment frequency and a decrease in lead time for changes.\nMonitored application performance and security using **AWS CloudWatch** and **X-Ray**, ensuring uptime and reliability for critical financial platforms.\nApplied testing frameworks such as **pyTest** and **Ruff** to maintain high code quality, with an emphasis on delivering bug-free features into production.\nLeveraged **asyncio** and **httpx** for non-blocking I/O, facilitating a **25%** increase in API response speed for high-traffic applications.\nImplemented observability strategies employing **Sonar** for code quality analysis, leading to reduced technical debt and improved system reliability.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Developed and maintained scalable backend services using **Python** (FastAPI) and implemented CI/CD pipelines with **Jenkins** to ensure efficient code integration and deployment, achieving a **30%** reduction in deployment time.\nEmployed **Docker** for containerization, facilitating smooth application deployment across environments, while utilizing **AWS** services like **Fargate** and **Lambda** for serverless computing that improved system reliability by **25%**.\nImplemented robust security measures through **mTLS** and **encryption** using **digital certificates** and **security tokens**, ensuring secure communication and compliance with industry standards, including GDPR.\nEngineered high-performance applications with **asyncio** and **httpx**, optimizing request handling time by **15%**, while following **clean code principles** and applying relevant **design patterns** to enhance code quality.\nUtilized **DynamoDB** for efficient data storage solutions, optimizing query performance and offering high availability for backend services in a high-traffic environment.\nMonitored application performance using **AWS CloudWatch** and **X-Ray**, proactively identifying bottlenecks and improving overall application efficiency by **20%**.\nIntegrated testing frameworks like **pytest** and maintained code quality standards using **Sonar** to ensure robust testing coverage and reliability.\nCollaborated on code architecture design adhering to **CI/CD** methodologies, significantly increasing deployment frequency and decreasing time to market for new features.\nApplied LLM libraries as needed for advanced AI functionalities, ensuring up-to-date practices in emerging technologies."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\thttpx, asyncio, uv\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda, Fargate, AppRunner, CloudWatch, X-Ray), Docker\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, DynamoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose, Sonar\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Certbot, digital certificates, encryption, security tokens, CI/CD, clean code principles, design patterns, Ruff, pyTest, LLM libraries"
+}

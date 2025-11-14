@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Data Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Data Engineer with over 10 years of experience in leveraging **SQL**, **Python**, and **Scala** to design and implement robust backend systems and data pipelines. Proficient in utilizing **AWS** and **Spark** for cloud-based data solutions and applying **CI/CD** practices alongside **Infrastructure-as-Code** methodologies. Skilled in monitoring and logging to ensure optimal system performance and adherence to **Data Contracts**. Known for strong communication skills, a proactive approach to problem-solving, and taking ownership of complex projects, with a history of delivering impactful solutions for prestigious clients, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Scala** to develop robust data pipeline solutions, optimizing the data processing workflow and enhancing performance by **30%**.\nEngineered backend services with **FastAPI** to streamline workflows for document automation and user onboarding, improving efficiency by **25%**.\nImplemented and managed data integration using **SQL** for relational databases, ensuring data accuracy and consistency across systems.\nDeveloped scalable event-driven architectures with **Celery** and **Redis** for managing asynchronous processing, reducing transaction request latency by **20%**.\nDeployed microservices in the **AWS** cloud environment, leveraging **Infrastructure-as-Code** with **Terraform** to ensure seamless and efficient cloud operations.\nDesigned and maintained CI/CD pipelines for efficient code releases and version control, improving deployment frequency by **40%**.\nLeveraged **Apache Airflow** for orchestration of complex data workflows, ensuring timely regulatory data exchange while enhancing monitoring capabilities.\nConducted thorough communication with cross-functional teams to resolve system integration issues, maintain infrastructure monitoring and logging, and ensure compliance with data contracts.\nProactively led security assessments and integrated **OAuth2** and **Azure AD B2C** for secure authentication systems, increasing user data protection and trust."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **Scala** to develop robust backend systems that automate document workflows and enhance user onboarding processes.\nEngineered advanced data solutions using **Spark** for efficient data processing and analytics in the infrastructure.\nImplemented **CI/CD** pipelines to facilitate smooth deployments, ensuring high availability and performance of services.\nCreated event-driven microservices with **Celery** and **Redis**, efficiently managing asynchronous processing for over **10,000** financial transactions daily.\nManaged **AWS** and **Azure** environments, leveraging **Terraform** for **Infrastructure-as-Code** practices to achieve consistent deployments across staging and production.\nDesigned and optimized data pipelines using **SQL** and **Apache Airflow**, streamlining one-click data access and improving processing speed by up to **50%**.\nPerformed rigorous monitoring and logging of data systems to maintain operational health and reliability, resulting in reduced downtime to less than **2%**.\nEnsured data safety and compliance through security audits and integrated authentication using **OAuth2** and **Azure AD B2C** to reinforce access control mechanisms.\nFostered proactive communication and collaboration with cross-functional teams to ensure regulatory compliance and effective release management."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python**, **SQL**, and **AWS** to develop robust backend services for trade execution, portfolio management, and account tracking, increasing trade operation efficiency by **25%**.\nEngineered real-time price feed processors utilizing **asyncio**, **WebSockets**, and **Redis**, achieving a data delivery improvement for high-frequency transactions with latency reduced to under **200ms**.\nImplemented CI/CD practices ensuring code quality and streamlined deployment processes, resulting in a **30%** reduction in release time.\nCollaborated closely with frontend teams, delivering data via REST APIs and WebSocket channels to enhance user experience.\nEnsured regulatory compliance, including adherence to **MiFID II** and **GDPR**, while maintaining stringent internal data security protocols.\nImplemented a monitoring and logging strategy for system performance using **Infrastructure-as-Code** principles, leading to a **15%** increase in operational visibility.\nDesigned and executed comprehensive test suites utilizing **PyTest**, **tox**, and mock servers to enhance QA efficiency.\nIntroduced job queuing and scheduling solutions leveraging **Celery** and **RabbitMQ**, optimizing backend task execution and improving process management productivity by **20%**."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Scala\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tAWS (EC2, S3, Lambda), Azure, Docker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Infrastructure-as-Code, Monitoring, Logging\n\n**Cloud & Infrastructure**\n\tAWS\n\n**Other**\n\tSpark, Communication, Ownership, Proactive, Data Contracts, AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, PyTest, Git",
+  "apply_company": "Finanzguru"
+}

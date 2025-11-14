@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "DevOps Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "DevOps Engineer with 10+ years of experience in delivering high-performance software solutions, specializing in **AWS**, **Azure**, **Terraform**, **Docker**, and **Kubernetes**. Proficient in implementing **CI/CD** pipelines, utilizing tools such as **Octopus**, **Bamboo**, and **Azure DevOps**, along with a strong focus on **Infrastructure as Code** and **Immutable Infrastructure** strategies. Expertise in **Python** for scripting and automation, complemented by a solid background in managing production workflows and ETL/ELT processes.\nSkilled in the deployment of cloud-native applications and tools like **DataDog**, **OpenSearch**, and **LogicMonitor** for real-time monitoring and analytics. Experienced in maintaining compliance with standards such as HIPAA and FHIR while ensuring secure, maintainable solutions. Passionate about leveraging technology to drive operational excellence and efficiency.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented Infrastructure as Code (IaC) solutions using **Terraform** and **AWS** for automated deployment, enabling quick provisioning of resources in multi-environment setups.\n• Developed CI/CD pipelines with **Azure DevOps**, **GitHub Actions**, and **CircleCI**, incorporating processes for linting, testing, security scans, and seamless multi-environment deployments of applications and services.\n• Managed container orchestration and deployment strategies using **Docker** and **Kubernetes** (specifically **AKS** and **EKS**), which led to a **30%** increase in deployment speed and operational efficiency.\n• Automated monitoring and alerting using tools like **DataDog** and **LogicMonitor** for proactive system health insights, detecting and responding to incidents with a **90%** reduction in downtime.\n• Implemented serverless architecture on **AWS Lambda**, streamlining processes and reducing costs by **20%**, while ensuring high availability and fault tolerance.\n• Integrated **OpenSearch** for powerful search capabilities across systems, improving data retrieval times by **50%** for both structured and unstructured data.\n• Scripted automation processes using **PowerShell** and **Bash**, streamlining repetitive tasks and enhancing team productivity, resulting in significant time savings across deployment cycles.\n• Collaborated with cross-functional teams to leverage **ETL** and **ELT** strategies, ensuring the efficient processing, storage, and retrieval of critical data with tools like **Snowflake**.\n• Managed project tasks and team coordination using **JIRA**, facilitating effective workflows and communication across different project phases.\n• Led initiatives for the adoption of Immutable Infrastructure principles, reducing configuration drift and deployment failures through standardization.\n• Established continuous monitoring practices, enabling swift response to performance metrics and operational KPIs, enhancing overall system reliability.\n• Oversaw the migration of legacy applications to cloud-native platforms, ensuring adherence to best practices for security and compliance throughout the process."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Implemented Infrastructure as Code principles using **Terraform** to provision and manage cloud resources on **AWS** and **Azure**, ensuring consistency and scalability across development, testing, and production environments.\nOrchestrated containerized applications leveraging **Docker** and **Kubernetes**, achieving a 60% reduction in deployment times and enhancing system reliability through microservices architecture.\nAutomated CI/CD pipelines using **Azure DevOps**, **Git Actions**, and **Bamboo**, leading to a 40% increase in deployment frequency and improved deployment success rates.\nBuilt ETL and ELT processes utilizing **Python**, **Azure Data Factory**, and **Snowflake**, optimizing data ingestion and transformation workflows for financial data with processing times reduced by **30%**.\nMonitored application performance and infrastructure health using **DataDog** and **LogicMonitor**, decreasing incident response times by **25%** and improving system uptime.\nDeveloped and maintained scripts in **PowerShell** and **Bash** for environment provisioning and configuration management, streamlining operations and reducing manual tasks.\nUtilized **OpenSearch** for logging and search capabilities, enhancing troubleshooting processes and enabling quicker resolution of operational issues.\nEngaged in capacity planning and disaster recovery strategies on **AWS** and **Azure**, ensuring business continuity with detailed documentation and runbooks maintained in **JIRA**.\nContributed to the architecture and design of immutable infrastructure deployments using **Octopus** and orchestrating sensitive workloads with **Lambda functions**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Managed cloud infrastructure and deployment processes using **AWS**, **Azure** and **Terraform**, ensuring a robust and scalable environment for application development and deployment.\nDeveloped and maintained CI/CD pipelines with **Git Actions**, **Azure DevOps**, **Octopus**, and **Bamboo** to automate testing and deployment processes, achieving deployment frequency improvements by **40%**.\nUtilized **Docker** containers and **Kubernetes** orchestration for efficient application lifecycle management, facilitating seamless updates and rollbacks across multiple environments, improving infrastructure reliability by **30%**.\nImplemented Infrastructure as Code (IaC) principles, establishing **Immutable Infrastructure** for consistent deployments and easier management of cloud resources, reducing configuration drift by **25%**.\nConfigured monitoring and logging solutions with **DataDog** and **LogicMonitor**, ensuring high visibility into the application's performance, and enhancing incident response times by **50%**.\nCollaborated with development teams to ensure efficient use of **Python** in automation scripts and troubleshooting, optimizing build processes and infrastructure management.\nLeveraged **Bash** and **PowerShell** scripting to automate routine tasks, improving operational efficiency and reducing manual workload.\nExecuted data integration strategies utilizing **ETL** and **ELT** processes in **Snowflake**, ensuring accurate data pipelines and analytics for business intelligence.\nEngaged in continuous improvement practices by utilizing **JIRA** for issue tracking and project management, fostering effective communication between development and operations teams to align on objectives and deliverables.\nDesigned Lambda functions for serverless computing, enhancing application scalability and reducing costs by only charging for actual compute usage."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tLambda functions\n\n **Serverless and Cloud Functions:**\n\tAWS, Azure\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Snowflake\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Azure DevOps, Octopus, Bamboo, CI/CD, PowerShell, DataDog, OpenSearch, LogicMonitor, JIRA, Git, Bash\n\n **Cloud & Infrastructure:**\n\tImmutable Infrastructure, Infrastructure as Code\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, ETL, ELT"
+}

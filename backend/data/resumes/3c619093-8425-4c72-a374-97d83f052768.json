@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with expertise in **Python**, **AWS**, and **Azure**, proficient in **Kubernetes** and **Docker** technologies. Bringing 13+ years of experience in developing high-performance applications particularly in healthcare and financial industries. Demonstrated proficiency in **DevOps** practices, including CI/CD pipeline implementation and **Terraform** for infrastructure management. Skilled in security and compliance with standards like HIPAA, PCI DSS, and SOC 2, ensuring that software solutions meet necessary regulations. Strong background in building AI/ML-powered platforms and utilizing automated testing strategies. Proficient in both frontend and backend development with technologies like **React**, **Next.js**, **Node.js**, and **Django**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed full-stack applications leveraging **Python** (FastAPI) and **Golang** to meet stringent security and compliance requirements including HIPAA and GDPR.\n• Deployed containerized applications using **Docker** and managed orchestration with **Kubernetes** (1.21), enabling robust scaling and fault tolerance across cloud platforms like **AWS** and **Azure**.\n• Implemented **DevOps** practices by establishing automated CI/CD pipelines using GitHub Actions and Azure DevOps, improving deployment efficiency by **30%**.\n• Conducted automated testing throughout the development cycle utilizing tools like Jest and PyTest, enhancing code quality and compliance across all deployments.\n• Integrated **Terraform** for infrastructure as code (IaC) deployments, ensuring reproducibility and compliance with best practices in automated provisioning.\n• Collaborated with cross-functional teams to enhance security measures, leading to a **40%** reduction in security incidents through rigorous assessments and proactive remediation.\n• Ensured compliance with industry standards by developing applications that adhere to best security practices and regulations including PCI DSS.\n• Spearheaded the transition of legacy applications to microservices architecture, successfully reducing system downtime by **25%** during deployment phases.\n• Designed and executed data-driven solutions using **PostgreSQL** and **MongoDB**, fueling insights into application performance and user engagement metrics.\n• Maintained high-level documentation and technical specifications to support compliance and facilitate knowledge sharing among team members."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** for developing scalable microservices and ETL pipelines, enhancing system performance and data processing capabilities.\nImplemented **AWS** and **Azure** cloud services for deploying applications and managing infrastructure, ensuring high availability and reliability.\nOrchestrated containerized applications using **Docker** and **Kubernetes**, streamlining deployment processes and improving scalability across environments.\nAutomated deployment and infrastructure management workflows with **Terraform**, reducing manual intervention and increasing efficiency by **40%**.\nLed the development of security and compliance protocols, ensuring adherence to industry regulations and safeguarding sensitive financial data.\nConducted automated testing to boost code quality and mitigate risks, achieving a **30%** reduction in production bugs.\nCollaborated in an Agile environment, contributing to Sprint planning and retrospectives to enhance team productivity and project alignment.\nMentored junior developers on best practices and coding standards, fostering a culture of continuous learning and improvement within the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Leveraged **Python** and **Golang** to design and optimize backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\n- Implemented **AWS** cloud services and integrated **Docker** for containerization, facilitating seamless deployments, scaling, and management of application services.\n- Developed and maintained CI/CD pipelines using **Kubernetes** and **Terraform**, resulting in a **30% reduction** in deployment times and improved system reliability.\n- Conducted automated testing to ensure code quality and performance, integrating **DevOps** practices to enhance team collaboration and delivery efficiency.\n- Ensured compliance with **GDPR** and security protocols, applying role-based access control (RBAC) and **OAuth 2.0** to secure both customer and admin access.\n- Engineered responsive, SEO-friendly e-commerce UIs optimized for mobile-first engagement and accessibility compliance (WCAG 2.1).\n- Built secure payment workflows integrated with **Stripe, PayPal,** and **Razorpay**, applying tokenized transactions with a focus on PCI-compliant handling of sensitive data.\n- Enhanced application performance by implementing caching strategies using **Redis**, resulting in a **40% improvement** in application responsiveness.\n- Integrated real-time features utilizing **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ** to provide instantaneous order updates and customer support."
+    }
+  ],
+  "skills": "**Programming Languages**:\n\tPython, Golang\n\n**Backend Frameworks**:\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks**:\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies**:\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot\n\n**Serverless and Cloud Functions**:\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases**:\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n**DevOps**:\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure**:\n\tAutomation & Compliance\n\n**Other**:\n\tAutomated Testing, Security, Compliance",
+  "apply_company": "Babel"
+}

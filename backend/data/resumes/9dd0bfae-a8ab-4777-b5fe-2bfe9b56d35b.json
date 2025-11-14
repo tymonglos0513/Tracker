@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Data Engineer with over 13 years of experience in developing high-performance applications and robust data solutions across healthcare and financial sectors. Proficient in **Python**, **SQL**, **MySQL**, and skilled in data manipulation and analysis, including **ETL**, **data cleaning**, and **web scraping**. Expertise in deploying solutions on **AWS** and orchestrating workflows using **Airflow** and **Kubernetes**. \nDemonstrated ability to build and maintain RESTful services, ensuring smooth data workflows and integrations. Strong background in machine learning and data science applications, with practical experience in sports analytics. Proven track record in compliance-driven development, ensuring adherence to regulations such as HIPAA and PCI DSS. Adept in using **git** for version control and collaboration in fast-paced environments.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained ETL processes leveraging **Python** and **SQL** to ensure efficient data ingestion and transformation, processing over **10 TB** of data monthly.\n- Implemented data pipeline orchestration using **Airflow**, automating workflows that reduced data processing time by **30%**.\n- Collaborated with teams to design data architectures on **Kubernetes**, deploying scalable solutions that supported over **500** simultaneous queries.\n- Designed and optimized **RESTful** APIs for seamless data accessibility, achieving a response time improvement of **40%**.\n- Utilized **AWS** services to enhance data storage and retrieval, integrating **MySQL** and **PostgreSQL** databases to support complex queries and analytics.\n- Conducted data cleaning and preprocessing activities, employing techniques in **data science** that improved data quality metrics by **25%** for downstream applications.\n- Developed machine learning models to drive insights, particularly focused on **sports analytics**, enhancing predictive accuracy through refined algorithms.\n- Employed **git** for version control and collaboration, contributing to over **20** successful project releases in a fast-paced environment.\n- Executed web scraping tasks to gather sports-related data, enriching datasets for analysis and reporting purposes.\n- Leveraged data visualization tools to present findings and trends effectively, directly influencing business strategy and decision-making.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python**, **SQL**, and **MySQL** to develop and maintain scalable ETL pipelines, significantly enhancing the efficiency of data ingestion processes by **40%** for financial reporting.\nDesigned robust cloud-native solutions leveraging **AWS** services to support data workflows, achieving a **99.9%** uptime for critical applications.\nImplemented containerization using **Kubernetes** to manage microservices, enhancing deployment efficiency and reducing system resource utilization by **30%**.\nAutomated data cleaning processes utilizing **Airflow**, streamlining data preparation for analytics and improving overall data quality metrics by **50%**.\nDrove advanced machine learning initiatives using **data science** techniques to implement predictive models for fraud detection, providing insights that reduced fraudulent activities by **20%**.\nDeveloped and customized REST APIs for data accessibility, ensuring seamless integration with various data sources while improving response times by **25%**.\nConducted web scraping to gather external financial data, enriching datasets used for sports analytics and enhancing analysis accuracy by leveraging cutting-edge methodologies.\nCollaborated in version control using **git**, facilitating smooth code deployment and ensuring maintainability across multiple projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** for developing and optimizing ETL processes, ensuring efficient data pipelines and quality control for analytics in a sports analytics context.\nEmployed **SQL** and **MySQL** for managing and querying large datasets, executing complex joins and aggregations to support data-driven decision-making.\nLeveraged **Airflow** for orchestrating data workflows, automating tasks, and scheduling jobs that boost data processing efficiency, achieving a 25% reduction in data latency.\nImplemented containerization and orchestration principles using **Kubernetes**, ensuring scalable and resilient deployments of data services and applications across the cloud.\nDesigned RESTful APIs using **Python** to facilitate seamless integration between data sources and analytics tools, enhancing accessibility and usability for internal teams.\nEngaged in data cleaning and transformation processes, ensuring high data quality and reliability for downstream applications, resulting in a 30% increase in data accuracy.\nApplied machine learning techniques in data analysis and feature extraction, enhancing modeling capabilities by utilizing tools like **scikit-learn** for predictive analytics.\nConducted web scraping initiatives to gather relevant sports data, utilizing **Python** libraries, significantly improving the datasets available for analysis and insights.\nCollaborated in code versioning and management using **git**, maintaining a stable development environment and enhancing team productivity through effective collaboration.\nImplemented data security measures to ensure compliance with GDPR, reinforcing data handling practices across multiple datasets and safeguarding user information."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, SQL\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript, TypeScript, React, Vue, Angular\n\n **API Technologies:**\n\tREST\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, git, web scraping, data cleaning, data science, machine learning, sports analytics, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Terraform, Ansible, Helm, Docker Compose, ETL",
+  "apply_company": "Swish Analytics"
+}

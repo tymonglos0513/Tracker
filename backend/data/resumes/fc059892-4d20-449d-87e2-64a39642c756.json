@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior Data Engineer with 13+ years of robust experience in data architecture, engineering, and ingestion across healthcare and financial industries. Expertise in **data validation**, **transport**, **storage**, and **exposure**, ensuring high data quality and compliance with industry standards. Proven track record in building scalable data warehousing solutions and implementing **data orchestration** processes. Skilled in **machine learning**, **automation**, and leveraging best practices that enhance **cost management** and security measures. Experienced in cloud-native deployments on **AWS** and **Azure**, utilizing **infrastructure as code** principles. Strong proficiency in **batch processing** and **scheduling** for efficient data workflows. Background in mentoring and collaborating effectively within teams to drive project success and innovation. Technical competencies include **JavaScript/TypeScript**, **Python**, **Flutter**, **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, **Django**, with advanced hands-on expertise in MLOps tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and built **data architecture** frameworks for healthcare and fintech platforms using **Python (FastAPI)**, ensuring scalability and compliance with regulatory standards (HIPAA, FHIR, GDPR, PCI DSS, SOX).\n- Managed **data ingestion** and validation processes through robust pipelines, leveraging **PostgreSQL**, **MongoDB**, and **Redis** to optimize **data transport** and storage solutions.\n- Built and maintained **data warehousing** solutions to support heavy data loads and real-time analytics, ensuring high data quality and availability.\n- Implemented **data orchestration** through CI/CD pipelines using **GitHub Actions** and **CircleCI**, integrating automation tools for testing and deployment processes to enhance operational efficiency.\n- Led the transformation of legacy data systems into microservices architectures, utilizing **Docker** and **Kubernetes (AKS/EKS)**, resulting in more fault-tolerant and scalable applications.\n- Developed and deployed **machine learning** models for risk scoring and fraud detection using **scikit-learn**, **PyTorch**, and **TensorFlow**, fully integrating backend inference into live systems.\n- Collaborated with cross-functional teams to ensure best practices in **data engineering** and **security measures**, conducting regular mentoring sessions to enhance team capabilities.\n- Managed **data exposure** through APIs, integrating **NLP models (spaCy, Hugging Face Transformers)** for document parsing and anomaly detection, achieving a reduction in processing time by **30%**.\n- Created advanced data visualization tools with **D3.js** and **Power BI Embedded**, enabling the analysis of financial activity and operational KPIs, delivering insights for better decision-making.\n- Defined and enforced testing strategies across the stack, ensuring comprehensive coverage of unit, integration, and E2E tests with tools such as **Jest** and **Cypress** to maintain high data quality standards.\n- Integrated **infrastructure as code** practices to efficiently manage and scale environments, which resulted in a **25%** reduction in operational costs.\n- Developed **batch processing** and scheduling workflows to facilitate timely data updates, optimizing system performance and reliability."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented robust **data architecture** to enhance **scalability** and **data quality**, ensuring compliance with organizational best practices in a high-volume transactional environment.\nDeveloped **data engineering** solutions for efficient **data ingestion** and **data transport**, utilizing **ETL pipelines** with **Apache Airflow** and **Azure Data Factory** to support both batch processing and real-time data ingestion.\nExecuted thorough **data validation** processes, ensuring high standards of **data quality** and accuracy across all financial datasets.\nLeveraged **data storage** capabilities with cloud services like **Azure** to achieve optimal management and **cost management** of financial data resources for the organization.\nUtilized best practices in **data orchestration** through the integration of event-driven architectures with **Kafka**, **RabbitMQ**, and **Azure Service Bus** for automated workflows in areas such as payments and alerts.\nCollaborated effectively within cross-functional teams to enhance **data exposure** through interactive visualizations, employing **React (18)**, **D3.js**, and **Power BI Embedded** for real-time analytics and operational insights.\nImplemented **machine learning** models for fraud detection using **scikit-learn** and **XGBoost**, enabling proactive identification of suspicious transactions based on behavioral patterns of over **1 million** users.\nMentored junior team members in best practices for **data warehousing** and **infrastructure as code**, fostering a culture of knowledge-sharing and collaboration across the engineering team.\nAutomated repetitive tasks and processes using various scripting technologies, enhancing overall team productivity by over **30%** in project timelines."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Engineered scalable **data architectures** and optimized **data storage** solutions using **MongoDB** and **PostgreSQL**, enabling fault-tolerant access to data for 100K+ concurrent users.\n• Developed robust **data ingestion** pipelines utilizing **Apache Kafka** and **RabbitMQ** for **data transport**, ensuring seamless delivery of real-time processing with less than **200ms** latency.\n• Automated **data validation** and **data quality** checks through **Python** and **batch processing** techniques, resulting in a 30% decrease in data errors and maintenance costs.\n• Implemented comprehensive **data warehousing** strategies using **Cassandra** and **Redis** to improve **data exposure** for high-traffic e-commerce workflows, increasing data retrieval speeds by over **40%**.\n• Collaborated on **data orchestration** projects, utilizing tools like **Apache Airflow** to schedule and automate ETL processes, ensuring timely availability of critical data for reporting purposes.\n• Mentored junior engineers in best practices for **data architecture**, promoting efficient resource management and enhancing overall project collaboration.\n• Applied advanced **machine learning** techniques using **TensorFlow** and **LightGBM** to improve recommendation algorithms, leading to a **25%** boost in conversion rates.\n• Enforced strict **security measures** and **role-based access control (RBAC)** throughout data pipelines to ensure compliance with GDPR and data protection standards.\n• Developed infrastructure as code using **Terraform** for automated provisioning, which improved our environment setup speed by **50%** and reduced deployment errors.\n• Established best practices for **cost management** concerning cloud resources, providing insights that led to a **15%** reduction in operational costs."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tNginx, Let’s Encrypt, Certbot\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow\n\tdata architecture\n\tdata engineering\n\tdata ingestion\n\tdata validation\n\tdata transport\n\tdata storage\n\tdata exposure\n\tdata warehousing\n\tdata orchestration\n\tmachine learning\n\tautomation\n\tdata quality\n\tscalability\n\tcost management\n\tbest practices\n\tsecurity measures\n\tinfrastructure as code\n\tbatch processing\n\tscheduling\n\tcollaboration\n\tmentoring"
+}

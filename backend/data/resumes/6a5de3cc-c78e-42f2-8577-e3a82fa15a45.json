@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior SRE Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Skilled in **AWS**, **Terraform**, **OpenTelemetry**, and **Cloudwatch** for enhanced observability, I am a seasoned Full Stack Developer with 8 years of experience transitioning into a Senior SRE Engineer role. I specialize in building and maintaining high-performance solutions, leveraging my proficiency in **Python** and DevOps methodologies. My technical background spans full-stack development using frameworks like **React**, **Node.js**, and **Django**, while effectively integrating **AI** and **ML** solutions into robust systems to optimize operations.\n\nMy significant experience in developing enterprise-grade applications is fortified by my knowledge of CI/CD automation, coupled with a strong foundation in microservices architecture and event-driven systems. I have successfully led projects that enhance real-time data processing capabilities while ensuring compliance with standards including HIPAA and PCI DSS. With a strong emphasis on problem-solving and effective communication, I strive to ensure reliability and scalability in all applications I oversee.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SRE Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented enterprise-level **DevOps** pipelines using **GitHub Actions**, **Azure DevOps**, and **CircleCI**, incorporating linting, testing, security scans, and multi-environment deployments for web and API services, improving deployment efficiency by **30%**.\nUtilized **AWS**, including **CloudFormation** and **Cloudwatch**, to enhance observability and monitoring across applications, leading to a **40%** reduction in incident response times.\nArchitected and developed scalable, full-stack healthcare and financial platforms using **Python** and modern frameworks, ensuring compliance with industry standards including HIPAA and PCI DSS, while handling **100k+** transactions daily.\nDesigned and maintained cloud-native infrastructure as code using **Terraform**, optimizing deployment processes and reducing manual intervention by **50%** through automation.\nEnhanced system observability by implementing **OpenTelemetry** and leveraging **DataDog** for real-time monitoring and analytics, improving the identification of system bottlenecks by **25%**.\nCollaborated effectively with cross-functional teams to communicate system updates and troubleshoot issues, fostering a culture of problem-solving and proactive system management.\nIntegrated AI and ML capabilities to support predictive analytics, enabling data-driven decision making in operational processes for healthcare and financial domains.\nConducted thorough testing with frameworks such as Jest and PyTest, ensuring a robust and error-free codebase across both front-end and backend services, contributing to a **20%** increase in software quality metrics."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS** for infrastructure management and provisioning, enhancing the reliability and scalability of financial platforms through **Terraform** automation strategies.\nImplemented comprehensive observability solutions with **OpenTelemetry**, **Cloudwatch**, and **DataDog**, ensuring high service uptime and proactive incident response across financial applications.\nLed the development and modernization of financial platforms using **Python** (FastAPI, Django) in a microservices-based architecture, improving scalability and maintainability for high-volume transaction systems.\nBuilt dynamic, user-focused front-end applications using **React (18)**, **Vue 3**, **Next.js**, and **Typescript**, employing Redux Toolkit and **Tailwind CSS** to create responsive interfaces for financial dashboards and admin portals.\nDeveloped real-time transaction monitoring and analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, enabling operations teams to track financial activity and generate actionable insights.\nIntegrated **Kafka**, **RabbitMQ**, and **Azure Service Bus** to establish a robust event-driven architecture, enhancing asynchronous communication and real-time event processing for transactions and compliance workflows.\nBuilt and orchestrated ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, facilitating batch and real-time data ingestion from internal and third-party sources.\nImplemented AI/ML-powered fraud detection systems utilizing **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing transaction patterns to proactively identify anomalies in banking systems.\nCreated ML pipelines for credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, integrating model inference into backend services for real-time decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented observability strategies with **Cloudwatch** and **DataDog** to monitor system performance and troubleshoot issues in real-time, ensuring high availability and reliability of backend services.\nUtilized **AWS** infrastructure for scalable service deployment and management, leveraging **Terraform** for infrastructure as code (IaC) to streamline resource provisioning and configuration across multiple environments.\nDesigned and optimized backend services in **Python** (FastAPI, Django) and Node.js (NestJS, Express) for a global e-commerce platform, ensuring **99.9% uptime** with low latency and efficient load handling.\nEngineered real-time features using WebSockets and event-driven architecture powered by **Kafka** and **RabbitMQ**, enabling responsive order updates and dynamic inventory tracking with an average **response time of under 200ms**.\nLed the integration of AI/ML-based recommendation engines utilizing **scikit-learn**, **LightGBM**, and **TensorFlow** to enhance product listings, achieving an **increase in conversion rates by 15%** based on real-time user behavior.\nApplied **Redis** caching for product metadata, with measurable improvements in application responsiveness, reducing database read pressure by **30%** during peak traffic periods.\nFacilitated effective communication and problem-solving across cross-functional teams to implement blue-green deployments using **Kubernetes** and **LaunchDarkly**, ensuring controlled rollouts and minimizing risks during platform updates.\nOptimized frontend applications using **React 18**, **Vue 3**, and **Angular** combined with **TypeScript** and **Redux Toolkit**, driving enhanced user experiences with **load times reduced by 25%** on web and mobile platforms.\nImplemented secure, PCI-compliant payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, ensuring safe transaction processes for users on the platform.\nEnforced role-based access control (RBAC) and **OAuth 2.0** to secure customer and admin access, guaranteeing GDPR compliance and robust user data protection throughout the e-commerce platform."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tOpenTelemetry, JWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tCloudwatch, DataDog\n\n**Other:**\n\tAI, ML, communication, problem-solving, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Robin AI"
+}

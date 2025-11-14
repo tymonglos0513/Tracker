@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Engineer with a robust background in cloud-native application development and microservices, leveraging extensive experience with **AWS**, **Azure**, and **GCP** for scalable solutions. Proficient in container orchestration using **Kubernetes** and building custom controllers with **Controller-Runtime** and **Kubebuilder**, alongside infrastructure management through **Crossplane**. With 10+ years as a Full Stack Developer, I excel in creating high-performance software solutions within healthcare and finance. My technical expertise includes **JavaScript/TypeScript**, **Python**, and mobile development with **Flutter**, complemented by hands-on experience in frameworks like **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Additionally, I have a strong foundation in MLOps, employing tools such as **MLflow**, **Airflow**, and **Kubeflow** for managing ML pipelines and workflows. I am dedicated to building secure, maintainable solutions that adhere to compliance standards like HIPAA, FHIR, PCI DSS, and SOC 2, while focusing on delivering impactful systems.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tDeveloped scalable and resilient systems leveraging **Kubernetes** for orchestrating containerized applications, promoting high availability and efficient resource management.\n•\tEngaged in the implementation of cloud infrastructure using **AWS**, **GCP**, and **Azure** to ensure robust deployment of applications across environments, achieving uptime and performance targets.\n•\tUtilized **Controller-Runtime** and **Kubebuilder** for building custom controllers, enhancing the automation of Kubernetes operations, and improving deployment cycles by **30%**.\n•\tExecuted cross-platform development practices, utilizing **Go** for backend services, integrating seamlessly with **Kubernetes** to deliver microservices architectures that comply with industry standards.\n•\tAdopted **Crossplane** for managing cloud resources in a declarative manner, streamlining provisioning and enhancing resource governance across multi-cloud platforms.\n•\tLed the successful migration of legacy applications to a cloud-native architecture with **Kubernetes**, resulting in a **40%** increase in scalability and reduced operational costs.\n•\tDesigned and implemented CI/CD pipelines using **GitHub Actions**, facilitating automated testing and deployment across **3** cloud environments, leading to faster release cycles.\n•\tOptimized application performance through effective use of **Kubernetes** resource management strategies, improving response times by **25%**.\n•\tCollaborated on performance benchmarks for cloud workloads, identifying improvements that led to a **15%** reduction in latency when deployed on **AWS** and **Azure**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Enhanced deployment efficiency and reliability by implementing **Kubernetes** for orchestration and scaling of microservices in cloud environments, achieving **99.9% uptime**.\nUtilized **AWS** and **Azure** cloud services to architect infrastructure, leading to a **30%** reduction in operational costs and improved performance metrics for financial platforms.\nStreamlined development operations by integrating **Go** and **Controller-Runtime** for custom resource management, facilitating the expansion of automated deployment pipelines across multiple environments.\nDesigned and implemented resource controllers using **Kubebuilder**, enabling the automation of application lifecycle management and ensuring consistency in deployments across different clusters.\nLeveraged **Crossplane** for managing multi-cloud resources, which resulted in a more dynamic and flexible infrastructure for financial applications by reducing provisioning time by **40%**.\nCollaborated on building resilient applications leveraging event-driven architectures and cloud-native principles, enhancing service interoperability and responsiveness in financial transaction processing.\nCreated and maintained comprehensive documentation and effective communication with cross-functional teams to ensure alignment on project timelines and deliverables, improving overall team productivity and delivery consistency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "- Utilized **Kubernetes** for container orchestration and management, enhancing service scalability and automating deployment processes across multiple environments.\n- Developed backend services using **Go** to ensure efficient performance and readability in a high-load e-commerce platform, integrating seamlessly with microservices architecture.\n- Leveraged **AWS**, **GCP**, and **Azure** for cloud-based solutions, deploying applications with **Crossplane** for managing infrastructure as code and ensuring high availability across deployments.\n- Implemented custom controllers and APIs utilizing **Controller-Runtime** and **Kubebuilder**, streamlining development workflows and enhancing service reliability.\n- Engineered real-time features with a focus on **WebSockets**, powered by a robust event-driven architecture using Kafka and RabbitMQ, delivering responsive order updates, dynamic inventory tracking, and customer support.\n- Developed frontend applications using React (18), Vue 3, and Angular, enriched with TypeScript and Tailwind CSS, providing fast, engaging user experiences across web and mobile platforms.\n- Leveraged MongoDB, PostgreSQL, Redis, and Cassandra for distributed data storage, ensuring optimized performance and scalability for high-traffic e-commerce workloads.\n- Created AI/ML-based product recommendation engines with scikit-learn, LightGBM, and TensorFlow, enhancing product display and increasing conversion rates based on real-time behavioral analysis.\n- Implemented **Redis** caching for shopping cart sessions and frequently accessed data to optimize application performance and reduce database read pressure.\n- Employed feature flags and blue-green deployments through LaunchDarkly and **Kubernetes** namespaces, facilitating controlled rollouts, A/B testing, and risk mitigation during significant updates.\n- Developed responsive, SEO-friendly e-commerce UIs using Next.js, Vue 3 + Nuxt, ensuring compliance with accessibility standards (WCAG 2.1).\n- Integrated secure payment processing workflows with Stripe, PayPal, and Razorpay, ensuring PCI compliance and robust handling of sensitive data via tokenization.\n- Applied role-based access control (RBAC) and OAuth 2.0 to safeguard customer and admin data, aligning with GDPR standards to protect user information throughout the platform."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tGo\n\n**Backend Frameworks:**\n\tPython(FastAPI, Django, Flask)\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, GCP, Controller-Runtime, Kubebuilder, Crossplane\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot"
+}

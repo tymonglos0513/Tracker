@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Engineer with 8 years of experience, I excel in utilizing **AWS**, **GCP**, and **Kubernetes** to build and maintain high-performance, scalable solutions. My technical proficiency includes **Terraform**, **Pulumi**, **Helm**, **GitHub Actions**, and **Argocd**, ensuring seamless CI/CD workflows and robust infrastructure management. I have a deep understanding of **Service Mesh** technologies like **Envoy** and monitoring frameworks such as **Grafana** and **OpenTelemetry**. \nAlongside my expertise in **JavaScript**, **Python**, and **Go**, I have successfully developed enterprise-grade solutions across healthcare and financial sectors, integrating AI/ML capabilities for real-time data processing and intelligent automation. With a solid foundation in microservices architecture and event-driven systems, I ensure compliance with standards like HIPAA, FHIR, PCI DSS, and SOC 2, while consistently delivering secure and reliable applications.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Kubernetes** for orchestrating containerized applications, ensuring high availability and fault tolerance in cloud-native environments.\nDesigned and implemented infrastructure as code using **Terraform** and **Pulumi** to deploy resources on **AWS** and **GCP**, streamlining the provisioning process across multiple projects and environments.\nDeveloped and optimized applications in **Go**, **Python**, and **JavaScript**, ensuring performance and scalability while adhering to best coding practices.\nArchitected service mesh solutions with **Envoy** to enhance service-to-service communication, improving observability and network security.\nImplemented observability features using **OpenTelemetry** and **Grafana**, enabling real-time monitoring and insights into application performance and health.\nLeveraged **GitHub Actions** for CI/CD pipelines, automating testing, security scans, and deployment processes across multiple environments.\nArchitected and developed scalable full-stack healthcare and financial platforms using **TypeScript**, **Python (FastAPI)**, and modern front-end frameworks including **React (17-18)** and **Next.js**.\nDesigned cross-platform mobile applications with **Flutter** and **React Native**, ensuring seamless user experiences across **iOS** and **Android** platforms with native module integration.\nLed initiatives to re-architect monolithic applications into microservices using **Docker** and **Kubernetes (AKS/EKS)**, improving scalability and maintainability.\nImplemented cloud-native data architecture with **PostgreSQL**, **MongoDB**, and **Redis**, optimizing for large-scale data ingestion and storage.\nIntegrated AI-driven features into applications, utilizing machine learning libraries like **scikit-learn**, **PyTorch**, and **TensorFlow** for predictive analytics and insights.\nEstablished DevOps practices using **Helm** and **Argocd**, enhancing the deployment of both web and API services across development and production stages.\nDeveloped advanced search functionalities using **Azure Cognitive Search** and **ElasticSearch**, enhancing the capabilities to handle unstructured and structured data efficiently.\nCollaborated with data scientists to embed NLP models into core services using RESTful APIs for document parsing and anomaly detection, ultimately enhancing data utilization across healthcare and financial sectors."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Kubernetes** and **GCP** to orchestrate containerized services, enhancing deployment efficiency and reliability of financial platforms.\nImplemented infrastructure as code using **Terraform** and **Pulumi**, automating environments for seamless scaling and management of cloud resources.\nEnhanced build and deployment processes through **GitHub Actions**, achieving **30%** reduction in deployment times across applications.\nOptimized monitoring and observability of services with **OpenTelemetry** and **Grafana**, enabling real-time performance tracking and error detection for critical financial systems.\nDesigned microservices-based architecture employing **Node.js** (NestJS/Express) and Python (FastAPI, Django) to improve scalability and throughput for high-volume transaction systems.\nDeveloped dynamic front-end applications using **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, incorporating tools like **Redux Toolkit** and **Tailwind CSS** to enhance user experience in financial applications.\nBuilt real-time transaction monitoring dashboards utilizing **D3.js** and **Power BI Embedded**, allowing operations teams to monitor financial activities and derive actionable insights effectively.\nEstablished a robust event-driven architecture by integrating **Kafka**, **RabbitMQ**, and **Azure Service Bus** to streamline communication between microservices, enhancing response times for transactions and alerts.\nCreated and managed ETL pipelines with Python, **Apache Airflow**, and **Azure Data Factory**, facilitating efficient batch and real-time data ingestion from **5+** sources.\nLeveraged AI/ML technologies, including **scikit-learn** and **XGBoost**, to develop fraud detection systems, analyzing transaction patterns to proactively identify suspicious activities in real-time.\nDeveloped ML pipelines for key financial metrics like credit scoring and churn prediction using **MLflow** and **Airflow**, ensuring seamless integration with backend services for immediate decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Kubernetes** and **Docker** for container orchestration and deployment, ensuring scalable and resilient application architecture across the e-commerce platform.\nDesigned CI/CD pipelines with **GitHub Actions** for automated testing and deployment, enhancing code quality and reducing deployment times by up to **70%**.\nImplemented monitoring and logging solutions using **Grafana** and **OpenTelemetry**, achieving a **99.9%** uptime across services by proactively addressing system performance issues.\nDeveloped microservices in **Go** and **Python** using frameworks such as **FastAPI** and **Django**, ensuring a modular architecture that facilitated independent service deployment and maintenance.\nLeveraged cloud services including **GCP** and **AWS** for scalable infrastructure, optimizing resource allocation and minimizing costs by approximately **30%** through effective cloud management.\nIntegrated **Terraform** and **Pulumi** for Infrastructure as Code (IaC), enabling repeatable and controlled environment setups across development and production.\nCollaborated on service mesh implementations with **Envoy**, enhancing service-to-service communication and achieving improved network reliability.\nFocused on networking principles to enhance API performance and reduce latency by up to **40%** through optimized data flow management.\nBuilt secure payment and authorization workflows implementing role-based access control (RBAC) and **OAuth 2.0**, ensuring customers' and administrators' data protection aligned with GDPR standards.\nEngaged in Agile methodologies, leading sprint planning sessions that improved project delivery timelines by **25%** through effective team collaboration."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, Go, JavaScript\n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:** \n\tReact, Vue, Angular\n\n **API Technologies:** \n\tGraphQL, REST\n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda, RDS, S3), GCP\n\n **Databases:** \n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Pulumi, Argocd\n\n **Cloud & Infrastructure:** \n\tAWS, Azure (App Services, Blob, SQL), Service Mesh, Envoy, OpenTelemetry, Grafana\n\n **Other:** \n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Burny Games"
+}

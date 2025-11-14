@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Python Backend Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a highly skilled Senior Python Backend Engineer with 8 years of experience, I bring expertise in **Python**, **Django**, and cloud services such as **AWS** and **Azure**. Proficient in CI/CD practices and containerization technologies including **Docker** and **Kubernetes**, I leverage these skills to build scalable and maintainable backend solutions. I have also utilized infrastructure-as-code tools like **Terraform** and **CloudFormation** to automate deployments, ensuring rapid and consistent delivery.\n\nMy experience extends to the design of scalable systems and efficient database management, encompassing both relational and schema-less databases. I am well-versed in integrating technologies such as **Node.js**, **GraphQL**, and **gRPC** for developing high-performance microservices. Additionally, I've successfully implemented operational workflows using platforms like **GCP** and tools for CI/CD automation, aligning with industry standards and best practices.\n\nWith a strong foundation in modern software development techniques, I've contributed to the creation of enterprise-level platforms that enhance efficiency and performance, ensuring compliance with regulations such as HIPAA, FHIR, and PCI DSS.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Backend Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Django** to architect and develop robust backend solutions for scalable systems, ensuring compliance with healthcare and financial regulatory standards.\nImplemented **CI/CD** pipelines with **Docker** and **Kubernetes** for automated deployment and scaling of applications, positively impacting deployment speed by **30%**.\nDesigned and maintained relational databases such as PostgreSQL and schema-less databases (MongoDB) to support large-scale data ingestion, optimizing performance for over **1M** transactions daily.\nEmployed **GraphQL** to streamline data retrieval, reducing data fetching time by **25%** and improving application performance.\nLed the migration of legacy systems into cloud environments using **AWS**, **Azure** and **GCP**, enhancing system reliability and scaling capabilities.\nUtilized **Terraform** and **CloudFormation** for infrastructure as code (IaC), enabling consistent and repeatable environment provisioning across development and production.\nCollaborated in deploying microservices architecture for application components hosted on **AWS Lambda**, ensuring system robustness and quick recovery mechanisms, while achieving a **99.9%** uptime.\nDeveloped API services using **gRPC** for high-performance communication between services, improving latency by **15%** compared to REST.\nIntegrated **Docker** for containerization, allowing for easy management of dependencies and environments, which facilitated a smoother developer experience.\nEngaged in implementing testing strategies for code quality and performance using frameworks such as pytest, covering **90%** of codebase with automated tests to ensure reliability.\nContributed to the integration of cloud services for analytics and monitoring, enhancing operational visibility and decision-making capabilities across the organization."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** (Django) and **Node.js** to develop scalable backend solutions, improving system performance by **30%** through the implementation of **microservices-based architecture**.\nEmployed **AWS**, **Azure**, and **GCP** to optimize cloud infrastructure, ensuring high availability and resilience for deployment environments with **99.9%** uptime.\nImplemented **CI/CD** pipelines using **Docker** and **Kubernetes**, accelerating release cycles by **50%** and enhancing code quality through automated testing and deployment strategies.\nDesigned, developed, and maintained relational and schema-less databases, ensuring data integrity and optimized query performance for financial applications, reducing data retrieval times by **40%**.\nContributed to efficient system design using **Go** for backend services that needed high concurrency support, improving scalability under heavy loads.\nIntegrated **GraphQL** and **gRPC** for efficient data querying and inter-service communication, facilitating faster data exchanges and enhancing the overall system interoperability.\nCollaborated with cross-functional teams to define and implement architecture for scalable and maintainable systems, guiding the adoption of best practices in software engineering and cloud strategies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** (Django) and **Node.js** to design and optimize backend services for a global e-commerce platform, achieving high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nEngineered scalable system designs using **AWS** and **GCP**, ensuring robust infrastructure and smooth operations for over **100,000** concurrent users.\nImplemented CI/CD processes using **Docker**, **Kubernetes**, and **Terraform**, leading to a **30%** reduction in deployment time and increased deployment frequency.\nLeveraged **relational databases** like PostgreSQL and **schema-less databases** like MongoDB for distributed data storage, delivering up to **5x** performance improvements in data retrieval and fault-tolerant access during peak traffic.\nIntegrated **GraphQL** for flexible API designs, enabling individual components of the ecosystem to efficiently query only the necessary data, thus reducing server load by **20%**.\nDeveloped real-time features using **WebSockets** and event-driven architecture powered by Kafka and RabbitMQ, ensuring responsive order updates and dynamic inventory tracking.\nImplemented role-based access control (RBAC) and OAuth 2.0 for secure access management, ensuring GDPR compliance and user data protection throughout the platform.\nCollaborated with frontend teams to create responsive, SEO-friendly UIs using **Next.js**, Vue 3 + Nuxt, and HTML5/CSS3 to optimize mobile-first engagement and accessibility compliance (WCAG 2.1).\nBuilt secure payment workflows integrated with **Stripe** and **PayPal**, focusing on PCI-compliant handling of sensitive data and optimizing transaction speeds.\nEmployed advanced cloud services like **Azure** and deployment strategies including **CloudFormation** and **CDK** to manage infrastructure as code, streamlining setup and updates across multiple environments."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Go, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tDjango, FastAPI, Flask, Node.js\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tGraphQL, gRPC\n\n **Serverless and Cloud Functions:**\n\tAWS, Azure, GCP, ECS, Lambda, App Services\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, relational databases, schema-less databases\n\n **DevOps:**\n\tDocker, Kubernetes, CI/CD, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, CDK, CloudFormation\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, scalable system design"
+}

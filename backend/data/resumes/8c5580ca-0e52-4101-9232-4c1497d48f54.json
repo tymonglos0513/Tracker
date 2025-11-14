@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "GraphQL API Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Experienced GraphQL API Developer with over 13 years of expertise in delivering high-performance applications across healthcare and financial sectors. Proficient in key skills such as **Java**, **GraphQL**, **RESTful APIs**, **Spring Boot**, **Spring Security**, **SQL**, and **PostgreSQL**. Skilled in implementing **CI/CD** pipelines using **GitHub Actions**, **GitLab**, and **Azure DevOps** to automate deployments and enhance workflow efficiencies.\n\nAdept at designing and developing robust microservices architectures leveraging **Apache Kafka** and **RabbitMQ** for real-time messaging. Strong background in compliance-driven development, ensuring alignment with HIPAA, FHIR, PCI DSS, and SOC 2 standards, while also focusing on security with technologies like **OAuth2**, **JWT**, and **TLS**. \n\nWell-versed in cloud solutions, with practical experience in deploying applications on **AWS**, **Azure**, and **GCP**. Moreover, possess hands-on expertise in monitoring and observability using **Prometheus**, **Grafana**, and **ELK**. A seasoned developer with a comprehensive understanding of MLOps, using tools like **MLflow**, **Airflow**, and **Kubeflow** for innovative and efficient model management.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "GraphQL API Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained **GraphQL** APIs leveraging **Java** and **Spring Boot**, ensuring secure and efficient data access across health and financial applications.\n- Designed and implemented robust data storage solutions using **PostgreSQL**, **MongoDB**, and **Redis**, optimizing for high availability and performance metrics, resulting in a **30%** increase in data retrieval speeds.\n- Created and managed CI/CD pipelines utilizing **GitHub Actions** and **Azure DevOps** for streamlined deployments and continuous integration, achieving a **50%** reduction in deployment times through automation and quality checks.\n- Integrated **RESTful APIs** to enhance communication between systems, ensuring compliance with security protocols like **OAuth2** and **JWT** for user authentication and authorization.\n- Leveraged **NoSQL** databases to support diverse data needs, implementing **Apache Kafka** for real-time data streaming, impacting system performance by supporting thousands of concurrent users.\n- Implemented comprehensive logging and monitoring systems using **Prometheus** and **Grafana**, focusing on system health and performance metrics to achieve operational excellence across multiple environments.\n- Developed unit and integration test strategies using **JUnit 5**, **Testcontainers**, and **WireMock**, contributing to a **25%** increase in code coverage and overall software reliability.\n- Established efficient data querying capabilities through **GraphQL**, improving data retrieval efficiency by **40%** compared to traditional methods.\n- Collaborated on security audits based on **OWASP Top 10** standards, enhancing application security and mitigating potential vulnerabilities in the architecture.\n- Fostered an agile team environment, promoting knowledge sharing, technical skills development, and best practices in API development and deployment."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and optimized **GraphQL APIs** with **Java** leveraging **Spring Boot** and **Spring Security**, ensuring secure and efficient data transactions for applications handling high user loads (up to **100,000 requests/hour**).\nIntegrated **RESTful APIs** to facilitate seamless communication between client and server, enhancing data accessibility across multiple platforms.\nImplemented **graph databases** for optimizing data retrieval performance, utilizing **NoSQL** technologies such as **MongoDB** and **Redis**, achieving query performance improvements of **30%**.\nDesigned and maintained CI/CD pipelines using **GitHub Actions** and **Azure DevOps**, automating deployments and improving development cycle time by **25%**.\nSecured APIs with **OAuth2**, **JWT**, and **TLS** to protect sensitive data, adhering to **OWASP Top 10** security standards.\nMonitored API performance and health by integrating **Prometheus** and **Grafana**, establishing real-time alerting and reporting mechanisms for operational metrics.\nConducted unit and integration testing with **JUnit 5** and **Testcontainers**, ensuring over **90% test coverage** and robust code quality.\nCollaborated with cross-functional teams to gather requirements and refine project goals, resulting in a **15%** increase in user satisfaction by addressing pain points in API usage."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and implemented robust **GraphQL** APIs to facilitate seamless interactions between frontend applications and backend services, improving data retrieval efficiency and reducing over-fetching by **30%**.\nHarnessed the power of **Java** with **Spring Boot** and **Spring Security** to build secure and scalable backend systems, ensuring user authentication and authorization via **OAuth2** and **JWT**.\nDesigned and managed multiple data storage solutions including **PostgreSQL**, **MongoDB**, and **Redis**, optimizing database queries and reducing latency by **25%** while maintaining high availability.\nEngineered message-driven systems using **Apache Kafka** and **RabbitMQ** for real-time data processing and event-driven applications, achieving a response time improvement of **50%** in order processing updates.\nImplemented **CI/CD** pipelines using **GitHub Actions** and **Azure DevOps**, streamlining deployment processes and enabling faster feature rollouts with minimum downtime.\nEstablished monitoring and logging systems using **Prometheus**, **Grafana**, and **ELK**, enhancing system observability and reducing issue resolution time by **40%**.\nUtilized various tools and best practices to ensure compliance with **OWASP Top 10** vulnerabilities, improving application security posture and protecting sensitive user information.\nFacilitated the incorporation of **GraphQL** for agile data manipulation, boosting developer productivity by allowing frontend teams to work with tailored data requests.\nConducted thorough unit and integration testing using **JUnit 5**, ensuring code quality and reliability, and achieving a test coverage rate of over **85%**.\nCollaborated with cross-functional teams to iterate and enhance backend functionalities, delivering updates aligned with user feedback and business needs."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Python, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tSpring Boot, FastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tGraphQL, RESTful APIs, OAuth2, OIDC, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, NoSQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Azure DevOps, CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, GCP, Terraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Apache Kafka, RabbitMQ, Prometheus, Grafana, ELK, OpenTelemetry, JUnit 5, Testcontainers, WireMock, MockServer, TLS, OWASP Top 10, IAM"
+}

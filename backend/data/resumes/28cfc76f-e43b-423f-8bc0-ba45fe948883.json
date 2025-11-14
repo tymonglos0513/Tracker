@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of robust experience in developing high-performance applications, proficient in **Golang**, **AWS**, **MySQL**, **PostgreSQL**, **AI**, and building **Microservices** and **CI/CD** pipelines. Expert in **Docker** and **Kubernetes** for containerization and orchestration, leveraging **TypeScript**, **React**, and backend technologies like **Node.js** and **Django** to deliver responsive and scalable applications. \nAdept at implementing real-time monitoring and performance solutions utilizing **Prometheus**, **Grafana**, **Datadog**, and **New Relic** for system health insights. Skilled in integrating advanced AI solutions using **OpenAI**, **LangChain**, and **Hugging Face** to enhance application capabilities.\nProficient in deploying applications in cloud environments while ensuring compliance with industry standards including HIPAA, FHIR, PCI DSS, and SOC 2. Strong technical foundation in MLOps, with extensive experience in model training and orchestration using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and optimized full-stack applications leveraging **Golang**, **TypeScript**, and **React** (17–18) to meet user requirements and enhance project scalability.\nDesigned and deployed microservices architectures utilizing **Docker** and **Kubernetes** for efficient service management and orchestration, facilitating seamless integration across platforms.\nImplemented CI/CD pipelines using **Git** and integrated monitoring tools like **Prometheus**, **Grafana**, and **Datadog** to ensure high availability and performance, establishing a deployment frequency of **bi-weekly**.\nManaged relational and non-relational databases such as **PostgreSQL** and **MySQL**, ensuring robust data handling and integrity across scalable applications for both health and finance sectors.\nLeveraged **AWS** services and cloud technologies to enhance business continuity, employing features of various AWS products to architect fault-tolerant solutions.\nIntegrated advanced analytical features powered by **AI** frameworks like **Hugging Face** and **OpenAI** to enhance data interpretation and decision-making processes across applications.\nLed the transformation of complex systems into modern architecture through effective microservices design, resulting in a **30%** increase in deployment speed and operational efficiency.\nCollaborated with cross-functional teams to refine the application development lifecycle, achieving a **25%** reduction in bugs identified during QA phases through the implementation of automated testing frameworks.\nImplemented intelligent search features using **Elasticsearch**, allowing for rapid querying across structured and unstructured datasets, improving user experience by **40%** in information retrieval.\nEstablished comprehensive logging and monitoring systems with **New Relic** to improve application reliability and developer response times, leading to a **20%** increase in performance optimization efforts."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **microservices** architecture using **Golang** and **TypeScript** to modernize core financial platforms, significantly boosting scalability and performance in high-volume transactional systems by **40%**.\nDeveloped and deployed CI/CD pipelines utilizing **Docker** and **Kubernetes**, enhancing deployment efficiency by **60%** and reducing downtime.\nBuilt dynamic front-end applications with **React** (18) and **Next.js**, integrating **TypeScript** and utilizing **Redux Toolkit** to create responsive interfaces for financial tools, achieving a user satisfaction score of **95%**.\nDelivered real-time analytics dashboards using **D3.js** and integrated **Prometheus**, **Grafana**, and **Datadog** for monitoring, providing the operations team with instant insights into transaction anomalies and enhancing decision-making.\nEngineered an event-driven architecture leveraging **Kafka** and **Azure Service Bus**, which ensured seamless asynchronous communication across critical workflows such as payments, alerts, and compliance, improving the overall system reliability.\nDeveloped scalable ETL pipelines for ingesting financial data using **MySQL**, **PostgreSQL**, and **Apache Airflow**, supporting both batch and real-time processing, resulting in a data processing speed increase of **50%**.\nCreated and implemented machine learning models for fraud detection utilizing **Hugging Face** and **scikit-learn**, effectively identifying suspicious activity based on user behavior and transaction patterns.\nEstablished machine learning pipelines for real-time credit scoring and churn prediction, leveraging **MLflow** and integrating model inference into backend services to enhance transactional analysis efficiency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed microservices architecture leveraging **Golang** and **AWS** to enhance application modularity and scalability, ensuring efficient deployment processes via **Docker** and **Kubernetes**.\nImplemented CI/CD pipelines utilizing industry-standard tools such as **Git**, **Prometheus**, and **Grafana** for seamless integration and continuous delivery, improving deployment frequency by **30%**.\nEngineered backend services optimizing data management with **MySQL** and **PostgreSQL**, enhancing performance for high-volume e-commerce transactions by achieving a **25%** reduction in query response times.\nIntegrated AI components using **OpenAI**, **LangChain**, and **Hugging Face** to innovate product recommendation features, driving a **15%** increase in user engagement and conversion rates.\nArchitected and maintained robust logging and monitoring solutions utilizing **Datadog** and **New Relic**, ensuring high availability and reliability, reducing downtime by **20%**.\nDeveloped interactive web applications with **React** and **TypeScript**, providing responsive and dynamic user experiences, delivering a performance score of **90+** on web performance benchmarks.\nCollaborated in deployment strategies using blue-green deployments and feature flags to safely roll out new features and perform A/B testing, reducing user-reported issues during launch phases by **40%**.\nEnhanced search functionalities and analytics through **Elasticsearch**, improving data retrieval speed and efficiency, thereby optimizing overall system performance.\nEstablished secure and efficient access protocols using OAuth 2.0 and RBAC, ensuring compliance with GDPR standards and enhancing user data protection.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tGolang, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, S3; Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: RDS; Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tArtificial Intelligence, Machine Learning, MLflow, Airflow, Kubeflow, Microservices, Prometheus, Grafana, Datadog, New Relic, OpenAI, LangChain, Hugging Face, Git, Elasticsearch",
+  "apply_company": "Sezzle"
+}

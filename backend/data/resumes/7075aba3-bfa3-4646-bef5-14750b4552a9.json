@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Developer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-kotlinski-08ba40390/",
+  "profile_summary": "As a dedicated Software Developer with 8 years of rich experience, I focus on leveraging essential skills such as **Python**, **Microservices**, **API Design**, **Relational Databases**, and **Automation** to build efficient and scalable applications. I possess in-depth knowledge of **Docker**, **Kubernetes**, **Consul**, and **Jenkins**, which enable me to implement CI/CD processes and streamline development workflows effectively. My experience includes utilizing **Prometheus** for monitoring and optimization, along with working with **RabbitMQ** to ensure robust message queuing.\n\nProficient in crafting high-performance solutions across diverse sectors such as healthcare and finance, I excel in full-stack development with **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. My comprehensive cloud expertise extends across **Azure** and **AWS**, assisting in the deployment of reliable, enterprise-grade platforms. Additionally, I specialize in developing and deploying machine learning models and MLOps workflows using tools like **MLflow**, **Airflow**, and **Kubeflow**, integrating AI/ML capabilities for enhanced predictive analytics and intelligent automation.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Developer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained high-performance applications using **Python** while ensuring scalability and low latency in software delivery.\n- Architected microservices with **Docker** and **Kubernetes** for optimal software development, improving system reliability and scalability by **30%**.\n- Designed API interfaces complying with industry standards for efficiency and performance across web services, employing best practices in **API Design**.\n- Automated deployment processes through **Jenkins**, enhancing continuous integration and delivery pipelines, which reduced manual deployment efforts by **40%**.\n- Enhanced application performance through rigorous latency optimization strategies, contributing to a **25%** faster response time in critical service endpoints.\n- Implemented robust logging and monitoring solutions utilizing **Prometheus** for proactive performance management and troubleshooting.\n- Utilized **RabbitMQ** for asynchronous communication within microservices, significantly improving system throughput by **15%**.\n- Led collaboration efforts with cross-functional teams to streamline software development processes and ensure adherence to project timelines and specifications.\n- Engaged in comprehensive testing strategies using tools aligned with best practices, ensuring the integrity and performance of applications through **automation**.\n- Innovated and optimized centralized data management strategies within relational databases, enabling efficient querying and data retrieval, thus improving database access speed by **20%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed scalable microservices architectures leveraging **Python**, improving throughput and maintainability for high-volume transaction systems.\n• Designed and implemented robust API designs utilizing **Docker** and **Kubernetes** for seamless deployment and orchestration of services.\n• Utilized **RabbitMQ** for asynchronous communication, enhancing system performance and enabling real-time transaction processing.\n• Automated deployment processes with **Jenkins**, achieving a **50%** reduction in deployment times and increasing development efficiency.\n• Conducted latency optimization across applications, resulting in a **30%** improvement in response times for user interactions.\n• Integrated relational databases with microservices to ensure data consistency and integrity, supporting efficient access in financial applications.\n• Developed and monitored performance metrics utilizing **Prometheus**, ensuring high availability and reliability of services.\n• Engaged in software development best practices, utilizing continuous integration and delivery to enhance product quality.\n• Collaborated with cross-functional teams to enhance the application, contributing to a **20%** increase in user engagement and satisfaction."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Engineered microservices architecture using **Python** (FastAPI, Django) to enhance scalability and **latency optimization** in a global e-commerce platform.\n• Developed and maintained APIs to support diverse features with a focus on **performance** and **automation**, ensuring high availability and responsiveness across the application.\n• Utilized **Docker** and **Kubernetes** for containerization and orchestration, streamlining deployment processes and improving development workflow.\n• Managed data storage and retrieval using **Relational Databases** (MongoDB, PostgreSQL), implementing fault-tolerant solutions that improved data access speeds by **30%**.\n• Employed **RabbitMQ** for asynchronous message brokering, facilitating real-time communication and reducing system downtime during peak traffic hours by over **20%**.\n• Implemented CI/CD pipelines using **Jenkins** to automate testing and deployment processes, decreasing deployment times by **50%**.\n• Developed latency-sensitive features with a focus on high scalability, contributing to a **15%** increase in user engagement and satisfaction.\n• Monitored application performance using **Prometheus**, enabling proactive identification and resolution of bottlenecks and reducing average response times by **25%**.\n• Collaborated in a team of developers to design and implement an efficient software development lifecycle in alignment with **API Design** best practices.\n• Conducted code reviews and mentored junior developers, fostering a culture of continuous improvement and knowledge sharing within the team."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Microservices\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tAPI Design\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Relational Databases\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Prometheus, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tConsul\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), Latency Optimization, Scalability, Performance, Automation, Software Development"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience excelling in high-performance application development, particularly skilled in **Python**, **JavaScript**, and adept at working with **APIs** and **JSON**. Proficient in deploying solutions that leverage AI/ML technologies, delivering predictive analytics and real-time data processing. Hands-on expertise in frontend and backend development utilizing **React**, **Next.js**, **Node.js**, as well as crafting robust backend applications with **FastAPI** and **Django**.\n\nExperienced in cloud-native system deployment on **AWS** and **Azure**, implementing microservices, event-driven architectures, and CI/CD pipelines to enhance operational efficiency. Committed to quality and compliance, aligning development efforts with HIPAA, FHIR, PCI DSS, and SOC 2 standards. \n\nStrong analytical thinker with proven problem-solving abilities, attention to detail, and a solid background in **MLOps**, including model training and orchestration utilizing **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and integrated robust **APIs** utilizing **Python** (FastAPI) and **JavaScript** (Node.js, TypeScript) to enhance application functionality for health and fintech sectors, ensuring adherence to industry regulations with a focus on **Attention to Detail**.\n• Engaged in **Technical Writing** to document complex workflows and architectural designs, facilitating clear communication with team members and stakeholders.\n• Leveraged strong **Problem Solving** skills to transform legacy systems into efficient microservices architectures using **Docker** and **Kubernetes** (AKS/EKS), achieving a **35%** decrease in deployment times.\n• Led the design and implementation of full-stack platforms using **React** (versions 17–18) and **Vue 3**, enhancing user experience through innovative features and comprehensive **JSON** handling.\n• Built and delivered **mobile applications** for iOS and Android leveraging **Flutter** and **React Native**, achieving user satisfaction rates of **95%** as indicated by user feedback.\n• Established CI/CD processes with **GitHub Actions** and **CircleCI**, achieving fully automated testing and deployment pipelines, which increased deployment efficiency by **50%**.\n• Managed data infrastructure using **PostgreSQL** and **MongoDB**, supporting real-time analytics with structured and unstructured data, improving data retrieval times by **60%**.\n• Deployed machine learning models for risk scoring using **scikit-learn** and **TensorFlow**, successfully integrating them into live systems to detect fraud in real-time.\n• Collaborated with cross-functional teams to implement smart features such as predictive health alerts, enhancing user engagement and operational efficiency.\n• Defined and enforced comprehensive testing strategies using **Jest**, **Cypress**, and **PyTest**, ensuring high-quality code through meticulous unit and integration testing.\n• Integrated advanced search functions using **Azure Cognitive Search** and **Elasticsearch**, facilitating rapid querying capabilities across various datasets to support analytical needs."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Technical Skills:\n- Developed and integrated **APIs** to enable seamless communication between various financial services, ensuring robust data exchange and coherence across platforms.\n- Crafted RESTful services utilizing **Python** and **JavaScript** frameworks (Node.js, **Express**, FastAPI, Django) to enhance system interoperability and responsiveness.\n- Leveraged JSON data formats for efficient data handling in microservices, facilitating standardized data interchange across applications.\n\nAnalytical and Problem-Solving Skills:\n- Applied analytical thinking to create scalable solutions, designing a microservices architecture that improved transaction handling by **30%** in throughput.\n- Utilized attention to detail to ensure high-quality code, conducting thorough testing and debugging, resulting in a reduction of production issues by **25%**.\n\nOriginal Strengths:\n- Modernized core financial platforms by migrating to microservices architecture using Node.js (NestJS/Express) and Python (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\n- Built interactive front-end applications with React (18), Vue 3, Next.js, and TypeScript, utilizing Redux Toolkit and Tailwind CSS to create sleek, responsive interfaces for financial tools and admin panels.\n- Delivered real-time analytics dashboards with React, D3.js, and Power BI Embedded, providing operations teams with instant insights into transactions and anomalies.\n- Designed and deployed a robust event-driven architecture using Kafka, RabbitMQ, and Azure Service Bus, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\n- Developed ETL pipelines for ingesting financial data from internal and third-party sources using Python, Apache Airflow, and Azure Data Factory, supporting both batch and real-time processing.\n- Built and deployed machine learning models for fraud detection using scikit-learn, XGBoost, and Azure ML, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\n- Created ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging MLflow and Airflow to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized **APIs** for backend services utilizing **Python** (FastAPI, Django) and **JavaScript** (Node.js, NestJS, Express), achieving a **99.9%** uptime and sub-100ms latency for critical services like checkout and order processing.\n• Engineered responsive solutions using **JSON** data formats, employing real-time communication protocols with **WebSockets** and **Kafka** to facilitate order status updates and customer notifications efficiently.\n• Implemented robust problem-solving techniques to troubleshoot and resolve complex backend issues, enhancing overall platform performance for over **1M** monthly active users.\n• Designed scalable architecture leveraging **Redis** and **PostgreSQL** for optimized data retrieval and storage, processing **over 500k** transactions daily with increased fault tolerance.\n• Applied **Analytical Thinking** to implement AI/ML models via **scikit-learn** and **TensorFlow**, leading to personalized user experiences and a **15%** increase in conversion rates from tailored product recommendations.\n• Created comprehensive technical documentation, enhancing the development process, and ensuring efficient knowledge transfer and onboarding for new team members.\n• Maintained a high level of attention to detail in applying **security measures** such as RBAC and **OAuth 2.0**, protecting sensitive user data and ensuring compliance with GDPR regulations.\n• Utilized **Kubernetes** for orchestrating blue-green deployments, allowing for seamless updates with **zero downtime** for users during system upgrades.\n• Developed engaging and SEO-friendly interfaces with **React** (18), **Vue 3**, and **HTML5/CSS3**, achieving **mobile-first** designs that comply with WCAG 2.1 accessibility guidelines."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript, Java, C++, Ruby, Go\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPIs, JSON\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tNginx, Let’s Encrypt, Certbot\n\n**Other:**\n\tTechnical Writing, Problem Solving, Attention to Detail, Analytical Thinking",
+  "apply_company": "G2i Inc."
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Data Engineer with 13+ years of experience in data modeling and database design, specializing in cloud platforms like **AWS** and **Azure**, and proficient in **Python**, **SQL**, and **R**. Expert in utilizing **AWS** services including **S3**, **Redshift**, **FSx**, **Glue**, and **Lambda** to build and deploy scalable data solutions. Skilled in containerization and orchestration using **Docker**, **Kubernetes**, and **EKS**, ensuring seamless data pipeline and integration processes. \nExperienced in mastering compliance standards with HIPAA, FHIR, and CDI compliance, effectively aligning data solutions with regulatory frameworks like **CDISC**, **HL7**, and **SNOMED**. Strong background in MLOps, implementing model training and orchestration with **MLflow** and **Airflow**, along with proficiency in Agile methodologies for iterative software development. Passionate about leveraging advanced data processing techniques and predictive analytics to drive impactful decision-making in healthcare and financial industries.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed data modeling solutions and designed effective database architectures using **PostgreSQL**, **MongoDB**, and **Redshift** to support large-scale data operations, managing datasets over **10TB** and ensuring data accuracy across the platforms.\n- Implemented end-to-end data pipelines utilizing **AWS Glue**, **Lambda**, and **Docker**, facilitating smooth data ingestion and processing while adhering to **Agile** methodologies to deliver features in **2-week** sprints.\n- Enhanced data storage solutions with **AWS S3** and conducted thorough database design utilizing both SQL and **NoSQL** technologies for optimized data retrieval speeds by **30%**.\n- Collaborated with cross-functional teams to define healthcare data standards and regulations through **FHIR**, **HL7**, and **SNOMED**, ensuring compliance and interoperability across systems.\n- Utilized **Kubernetes (EKS)** for container orchestration, achieving improved deployment speeds and scalability in data processing environments across multiple **cloud** platforms.\n- Led efforts in transforming traditional data workflows into modern **MLOps** practices, incorporating tools like **Airflow** and **MLflow** to manage and deploy machine learning models effectively across development and production with a **95%** success rate.\n- Produced comprehensive technical documentation on data modeling and ETL processes, enhancing team understanding and facilitating onboarding for **5+** new engineers within **3 months** of implementation.\n- Conducted performance tuning and optimization of existing data solutions, achieving reductions in query times by **40%** through careful indexing and model optimization strategies.\n- Designed secure and efficient data query interfaces utilizing **GraphQL**, streamlining data access for clients and internal stakeholders, while ensuring adherence to security best practices.\n- Presented insights from data analyses using visualization tools such as **D3.js** and **Power BI Embedded**, assisting product teams in making data-driven decisions that improved operational KPIs by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Developed and implemented robust **data modeling** and **database design** strategies using **Python** and **SQL**, enhancing the efficiency of data retrieval and processing for financial applications.\n• Designed and optimized ETL processes with **AWS Glue**, **Lambda**, and **Redshift**, leading to a **30%** improvement in data processing time and better alignment with business intelligence needs.\n• Created scalable microservices architecture leveraging **Docker** and **Kubernetes** for container orchestration on **AWS EKS**, ensuring efficient deployment and management of applications.\n• Built and maintained **NoSQL** databases, optimizing them for high performance in handling diverse data types and supporting complex queries in financial analysis systems.\n• Implemented MLOps practices for developing machine learning models for fraud detection, credit scoring, and churn prediction, incorporating tools such as **MLflow** and **Airflow** to ensure seamless integration with data pipelines.\n• Worked in an **Agile** environment, leveraging collaboration tools to deliver features on time, achieving **95%** of deadlines across **12** sprints while ensuring high-quality deliverables.\n• Created real-time dashboards with **Power BI** and **D3.js**, providing **weekly** operational insights on transactions and compliance metrics to business stakeholders.\n• Enhanced application scalability using **AWS S3** for data storage solutions, enabling efficient access to large datasets and supporting queries to handle up to **1 million** transactions daily.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged **Python** and **SQL** for efficient data modeling and database design, significantly improving data retrieval times by **30%** for analytical workflows in e-commerce.\nImplemented data pipelines and ETL processes using **AWS Glue** and **Lambda**, automating data transformation and loading into **Redshift**, enhancing data accessibility for reporting.\nEngineered resilient data storage solutions using **NoSQL** databases such as **MongoDB** and graph databases, ensuring fault-tolerant access for high-volume transactions across **100K+** daily users.\nUtilized **AWS S3** for scalable object storage, optimizing data backup and retrieval strategies while adhering to a data retention policy aligned with **GDPR** compliance.\nDeployed containerized applications using **Docker** and orchestrated with **Kubernetes** on **EKS**, improving deployment efficiency and system reliability for data-driven applications.\nDesigned and implemented robust MLOps frameworks integrating **R** and various machine learning libraries, enabling smooth deployment and monitoring of predictive models, reducing model roll-out times by **25%**.\nCollaborated in an **Agile** environment to drive continuous integration and delivery (CI/CD) practices, contributing to rapid feature iterations and enhancements in data processing capabilities.\nMaintained a strong focus on data governance and compliance with standards like **HL7** and **DICOM**, to ensure data integrity and security across all platforms.\nFostered collaboration with cross-functional teams to enhance data accessibility and usability, enabling better decision-making backed by accurate analytics."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, R, SQL\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tHL7, FHIR, SNOMED, OMOP, DICOM\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, S3, Glue, Redshift, FSx\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Database Design, Data Modeling, NoSQL, Graph\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLOps, Agile, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, CDISC",
+  "apply_company": "Atorus"
+}

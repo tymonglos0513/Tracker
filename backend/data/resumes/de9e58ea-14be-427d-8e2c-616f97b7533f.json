@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Backend Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Backend Software Engineer with 13+ years of experience specializing in building **distributed systems** and implementing **event-driven architectures** to optimize performance and data consistency. Proficient in **Go** and skilled in **concurrency** and **synchronization** techniques to enhance application reliability. Experienced with **SQL databases** including **MySQL** and **PostgreSQL**, as well as **caching systems** like **Redis** to improve data retrieval speeds. Knowledgeable in **messaging systems** such as **Kafka**, **RabbitMQ**, and **NSQ** for robust communication across services. \n\nStrong command of cloud services, particularly on **AWS** and **Kubernetes**, enabling the deployment of highly scalable applications. Expertise in clean code principles and performance optimization strategies to ensure maintainable and efficient systems. Solid understanding of **observability** practices for monitoring and troubleshooting applications. Additionally, I bring my background in building AI/ML-powered platforms using Python & **FastAPI**, aligning solutions with compliance standards including HIPAA and SOC 2.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized **Go** applications for distributed systems, ensuring data consistency and performance optimization across various services.\n• Implemented robust concurrency and synchronization mechanisms to improve the reliability and scalability of backend processes.\n• Designed and maintained **SQL databases** with focus on **PostgreSQL** and **MySQL**, ensuring clean, efficient data storage and retrieval.\n• Integrated caching systems like **Redis** to enhance application performance and reduce server load by **30%**.\n• Architected messaging systems with **RabbitMQ** and **Kafka**, enabling real-time messaging capabilities to streamline data processing.\n• Built analytical solutions utilizing **ClickHouse** for fast query performance on large datasets, achieving response times under **1 second** for complex queries.\n• Developed streaming pipelines leveraging **Kinesis** for processing high volumes of real-time data, successfully handling up to **10,000** messages per second.\n• Deployed applications on **Kubernetes**, ensuring seamless scalability and observability while maintaining performance standards.\n• Crafted and maintained event-driven architectures to enhance the responsiveness and flexibility of backend services.\n• Adhered to clean code principles while collaborating on software projects, promoting readability and maintainability of codebases.\n• Facilitated effective communication across teams to ensure alignment on project goals and architectural decisions, improving delivery timelines by **20%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Go** to modernize core financial platforms implementing microservices architecture, enhancing scalability and performance for high-volume transactional systems with an increase in processing speed by **30%**.\nDesigned and maintained **SQL databases** including **PostgreSQL** and **MySQL**, ensuring data consistency and optimal performance, achieving a reduction in query times by **40%** through refined indexing strategies.\nImplemented **event-driven architectures** with **Kafka** and **RabbitMQ**, ensuring reliable asynchronous communication across critical workflows which resulted in improved transaction handling by **25%**.\nDeveloped effective **caching systems** using **Redis** that improved data retrieval times, significantly enhancing user experience and reducing load times by **50%**.\nBuilt and deployed real-time analytical dashboards utilizing **Kafka** and other **real-time messaging systems** to provide operations teams with instant insights into transactions and anomalies, enhancing decision-making capabilities.\nEnsured strong emphasis on **clean code** principles and performance optimization, contributing to a codebase that has maintained a **90%+** test coverage.\nEngaged in effective communication with cross-functional teams to align on requirements and convey technical concepts, fostering collaboration and addressing bottlenecks in the development process.\nLeveraged **Kubernetes** for container orchestration, streamlining the deployment process of microservices and improving infrastructure reliability and scalability.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and optimized **distributed systems** using **Go**, ensuring data consistency and high-performance concurrency across multiple services.\nEngineered backend infrastructure with a focus on **caching systems** like **Redis** and **performance optimization** strategies, directly improving system throughput by **30%** while handling over **1000** concurrent requests.\nDesigned robust **messaging systems** using **Kafka** and **RabbitMQ**, facilitating real-time messaging and ensuring data synchronization across various components, effectively scaling to service **over 25,000** active users daily.\nImplemented clean and maintainable code adherent to best practices, enhancing code quality and team collaboration as part of agile methodologies.\nManaged SQL databases including **PostgreSQL** and **MySQL**, optimizing complex queries for analytical databases like **ClickHouse** and ensuring data integrity across multi-service architectures.\nIntegrated advanced observability tools for monitoring system health, enabling proactive performance tweaks and reducing incident response times by **40%**.\nApplied **event-driven architectures** to create asynchronous processing systems, improving response times for transactions and enhancing overall user experience.\nDeveloped and maintained CI/CD pipelines in **Kubernetes** for smooth application deployments while minimizing downtime during updates and rollbacks.\nConducted effective communication across cross-functional teams to align project goals, understand requirements, and resolve blockers, facilitating a smoother development lifecycle."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tGo,\n\tPython,\n\tJavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI,\n\tFlask,\n\tDjango,\n\tgRPC\n\n**Frontend Frameworks:**\n\tReact,\n\tVue,\n\tAngular\n\n**API Technologies:**\n\tREST,\n\tGraphQL\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda,\n\tAzure: App Services\n\n**Databases:**\n\tPostgreSQL,\n\tMySQL,\n\tMongoDB,\n\tRedis,\n\tClickHouse\n\n**DevOps:**\n\tDocker,\n\tKubernetes,\n\tGitHub Actions,\n\tGitLab CI/CD,\n\tTerraform,\n\tAnsible,\n\tHelm,\n\tDocker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS,\n\tRDS,\n\tS3,\n\tAzure: Blob Storage,\n\tSQL Database\n\n**Other:**\n\tMLflow,\n\tAirflow,\n\tKubeflow,\n\tKeycloak,\n\tOAuth2,\n\tJWT,\n\tNginx,\n\tLet’s Encrypt,\n\tCertbot,\n\tDistributed systems,\n\tConcurrency,\n\tSynchronization,\n\tData consistency,\n\tPerformance optimization,\n\tClean code,\n\tCaching systems,\n\tMessaging systems,\n\tNSQ,\n\tNATS,\n\tKafka,\n\tRabbitMQ,\n\tAnalytical databases,\n\tReal-time messaging systems,\n\tKinesis,\n\tEvent-driven architectures,\n\tStreaming pipelines,\n\tObservability,\n\tEffective communication"
+}

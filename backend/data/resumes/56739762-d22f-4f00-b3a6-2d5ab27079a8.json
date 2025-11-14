@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Firmware Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a highly skilled Senior Firmware Engineer with 8 years of experience, I possess a strong foundation in **C**, **C++**, and **Python** development, specializing in designing secure, efficient firmware solutions. My expertise encompasses creating robust systems with **RTOS** and **Linux**, ensuring high-performance functionality for embedded applications. I have extensive experience with **UART**, **NVMe**, and **ATA** protocols alongside a comprehensive understanding of secure boot strategies, cryptographic signatures, and hardware root-of-trust implementations.\nAdditionally, I am proficient in using **JTAG** for debugging and in-circuit emulation (**ICE**), as well as utilizing **Git** for version control and collaborative projects. My background in developing systems with wear-leveling, garbage collection, and ECC showcases my ability to enhance reliability and data integrity. Beyond technical skills, my strengths include conducting R&D for next-generation firmware solutions, aligning with industry standards, and driving innovation across multifaceted projects.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Firmware Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Led R&D initiatives to develop and optimize firmware solutions for embedded systems using **C**, **C++**, and **Python**, enhancing overall system performance by **30%**.\n- Designed and implemented real-time operating systems (RTOS) to ensure deterministic behaviors across hardware platforms, optimized for **Linux** environments.\n- Developed and tested secure boot processes, integrating **cryptographic signatures** and **anti-rollback** mechanisms to enhance security, achieving compliance with industry benchmarks.\n- Collaborated on innovative hardware root-of-trust technologies, ensuring secure data handling and storage, improving system integrity and security posture by **25%**.\n- Utilized **JTAG** and **ICE** for thorough testing and debugging of firmware, reducing defect rates in released products by **40%**.\n- Managed storage protocols including **NVMe** and **ATA**, implementing **FTL** techniques for improved wear-leveling and garbage collection, optimizing lifespan and performance of storage devices.\n- Applied advanced error correction codes (ECC) to minimize data corruption in critical applications, enhancing reliability of data transactions.\n- Developed and documented firmware updates, version control processes using **Git**, and delivered enhancements with a **95%** success rate in release cycles.\n- Engaged in cross-functional collaboration with hardware engineers to troubleshoot UART communication issues, streamlining data transfer processes across systems.\n- Conducted rigorous testing and automated validation of firmware functionalities, contributing to a comprehensive testing strategy that included unit and integration tests."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **C** and **C++** to develop and optimize firmware for embedded systems, enhancing performance and reliability across various platforms.\nConducted research and development (R&D) initiatives to innovate secure boot processes, implementing **cryptographic signatures** and anti-rollback mechanisms for enhanced firmware security.\nEmployed **Linux** and **RTOS** to create efficient and scalable operating environments, ensuring seamless integration with hardware components and reducing latency in system operations.\nLeveraged tools like **JTAG** and **UART** for debugging and logging firmware issues, streamlining the troubleshooting process and reducing debugging time by **30%**.\nImplemented garbage collection and wear-leveling algorithms to optimize data management on storage devices, significantly improving lifespan and performance metrics by **40%**.\nDesigned and maintained comprehensive version control using **Git**, enforcing best practices for collaborative development and consistent code quality.\nDeveloped and tested firmware for **NVMe** and **ATA** interfaces, ensuring compatibility and performance metrics were aligned with industry standards for high-speed data access.\nExecuted firmware encryption processes to establish a hardware root-of-trust, meeting stringent security requirements in financial and banking applications.\nPerformed extensive testing of firmware features with a focus on ECC to improve error recovery techniques and overall system resilience."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and maintained firmware solutions in **C** and **C++** for embedded systems, ensuring compatibility with **RTOS** and **Linux** environments while adhering to industry standards for performance and reliability.\nImplemented secure boot processes using cryptographic signatures and hardware root-of-trust principles to enhance security measures in embedded devices.\nConducted thorough testing and debugging of firmware using **JTAG**, **UART**, and **ICE** tools, ensuring optimal functionality and compliance with **NVMe** and **ATA** protocols.\nCollaborated with cross-functional teams on firmware versioning and source control using **Git**, managing code changes effectively to support multiple product lines and updates.\nDesigned and optimized firmware algorithms for wear-leveling, garbage collection, and **ECC** to enhance lifespan and integrity of memory components in high-demand applications.\nLed R&D efforts to implement anti-rollback features and secure firmware updates, addressing vulnerabilities while ensuring robust operational capacities in embedded systems.\nParticipated in system-level design and integration, utilizing insights from hardware and software intersections to enhance overall device performance.\nEnsured documentation and compliance with security best practices, fostering a culture of quality and security awareness within development teams."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tC, C++, Python, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tNginx, JWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL), Terraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tArtificial Intelligence & Machine Learning (MLflow, Airflow, Kubeflow), RTOS, Linux, JTAG, UART, ICE, NVMe, ATA, secure boot, anti-rollback, cryptographic signatures, hardware root-of-trust, FTL, wear-leveling, garbage collection, ECC, R&D",
+  "apply_company": "GOODRAM | Wilk Elektronik SA"
+}

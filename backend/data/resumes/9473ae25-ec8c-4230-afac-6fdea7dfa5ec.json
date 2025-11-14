@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Staff Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a Staff Engineer with 8 years of experience, I excel in **Ruby**, **Rails**, **Python**, and **TypeScript**, specializing in building high-performance, scalable solutions. My deep expertise in AI/ML technologies allows me to integrate large language models and prompt engineering into robust applications, ensuring performance optimization, reliability, and scalability. I have a strong foundation in API design and distributed systems, coupled with experience in database design, including **graph databases** and **knowledge graph systems**.\nI am adept at providing technical mentorship and guiding teams through strategic technical decisions while fostering effective communication. My proficiency in developing machine learning pipelines and deploying AI agent systems, along with contributions to **open source**, underlines my commitment to continuous learning and innovation. Additionally, I leverage tools like **static analyzers**, **code analysis tools**, and **abstract syntax trees** to enhance code quality and observability in complex systems.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Staff Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Engineered scalable and reliable full-stack applications using **Ruby on Rails**, **TypeScript**, and **Python (FastAPI)**, ensuring high performance and observability across platforms.\n• Developed machine learning solutions utilizing **AI/ML technologies** for predictive analytics and integrating large language models to enhance user engagement and functionality.\n• Optimized database design by implementing **PostgreSQL** and **graph databases** to increase efficiency in managing and querying large datasets across multiple domains.\n• Designed and architected distributed systems to improve system reliability and scalability by employing microservices with **Docker** and **Kubernetes (EKS)**, achieving deployment speeds of less than **30** minutes.\n• Leveraged **API design** principles for RESTful services, ensuring robust communication between microservices and enhancing overall integration success by **40%**.\n• Championed technical mentorship initiatives, fostering team growth by conducting onboarding sessions and workshops focused on learning new programming languages and tools, including **Rust** and **React (17-18)**.\n• Integrated performance optimization techniques across the application stack, driving system performance improvements by up to **50%**, and proactively addressed bottleneck issues using profiling and monitoring tools.\n• Collaborated with cross-functional teams to facilitate communication and effective delivery of projects, enhancing stakeholder engagement and satisfaction metrics by **25%**.\n• Focused on technical decisions for improving system architecture while adhering to best practices for security and compliance, ensuring adherence to standards like HIPAA and PCI DSS.\n• Contributed to open source projects to enhance visibility in the development community and foster collaborative enhancements.\n• Employed advanced code analysis tools like **static analyzers** and **abstract syntax trees** to maintain high code quality and implement best practices in software development."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **TypeScript** for building scalable backend systems and dynamic user interfaces, directly aligning with performance optimization and scalability requirements.\nLed the development and modernization of financial platforms by adopting a microservices-based architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), which increased maintainability and throughput of high-volume transaction systems by **40%**.\nDeveloped real-time monitoring dashboards for transaction activity using **React** (18), **D3.js**, and **Power BI Embedded**, improving the ability for operations teams to detect anomalies by **30%**.\nImplemented **AI/ML** technologies for fraud detection using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, enhancing suspicious activity detection through analysis of transaction patterns, significantly reducing fraud incidents by **25%**.\nOrchestrated ETL pipelines using **Apache Airflow** and **Azure Data Factory** for batch and real-time ingestion of financial data, supporting a throughput increase of **50%**.\nDesigned and integrated APIs to support both event-driven architecture featuring **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring reliable asynchronous communication.\nEngaged in technical mentorship, providing guidance in **Ruby on Rails** and **Rust** to enhance team capabilities and software quality, fostering a culture of continuous learning and improvement.\nPromoted open-source contributions, fostering community engagement and innovative solutions in distributed systems, while applying code analysis tools and static analyzers to enhance reliability and observability of deployed solutions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Designed and optimized backend services for a global e-commerce platform using **Python** (FastAPI, Django) and integrated with **Ruby on Rails**, ensuring **scalability** and **reliability** across checkout, cart, and order fulfillment modules.\n- Engineered real-time features using **WebSockets** and an event-driven architecture powered by **Kafka** and **RabbitMQ**, enhancing order updates and customer support with **high availability** and **performance optimization**.\n- Developed frontend applications leveraging **TypeScript**, **React (18)**, **Vue 3**, and **Angular**, improving **user experience** on both web and mobile platforms.\n- Managed distributed data storage solutions utilizing **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for **reliable** and **fault-tolerant data access**, with performance gains by caching frequently accessed resources.\n- Integrated AI/ML-based recommendation engines using **scikit-learn**, **LightGBM**, and **TensorFlow**, personalizing product listings and optimizing search relevance based on real-time behavior, leveraging **large language models** to enhance interaction effectiveness.\n- Implemented **Redis** caching strategies significantly improving application responsiveness by over **50%**, reducing read pressure on databases and enhancing data retrieval speeds.\n- Developed feature flags and blue-green deployments using **LaunchDarkly** and **Kubernetes**, facilitating controlled rollouts and A/B testing while minimizing risks during major updates.\n- Created responsive, SEO-friendly e-commerce UIs using **Next.js**, **Vue 3 + Nuxt**, and HTML5/CSS3, ensuring compliance with mobile-first standards and accessibility (WCAG **2.1**).\n- Built secure payment workflows with **Stripe**, **PayPal**, and **Razorpay**, ensuring **PCI compliance** and applying tokenized transactions to protect sensitive data.\n- Applied **role-based access control (RBAC)** and **OAuth 2.0** for secure access management, ensuring compliance with **GDPR** and maintaining user data protection throughout the platform."
+    }
+  ],
+  "skills": "Programming Languages:\n\tRuby, Python, Rust, TypeScript\n\n**Backend Frameworks:**\n\tRails, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI design, authentication, OIDC, RBAC, JWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, graph databases, database design\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, performance optimization\n\n**Cloud & Infrastructure:**\n\tObservability, reliability, scalability, infrastructure as code\n\n**Other:**\n\tAI/ML technologies, MLflow, Airflow, Kubeflow, large language models, prompt engineering, distributed systems, technical mentorship, technical decisions, communication skills, learning new languages, open source contributions, code analysis tools, static analyzers, abstract syntax trees, multi-agent architectures, AI agent systems"
+}

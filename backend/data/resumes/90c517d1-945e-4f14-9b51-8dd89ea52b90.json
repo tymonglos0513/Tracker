@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Results-driven Backend Engineer with 13+ years of experience specializing in high-performance applications within the healthcare and financial sectors. Proficient in **Elixir**, **Phoenix**, and **Postgres**, leveraging these technologies to build scalable backend systems. Skilled in implementing **CI/CD** pipelines using tools such as **GitLab**, **GitHub**, **Jenkins**, and container orchestration with **Kubernetes** and **Docker**. \n\nAdept in deploying cloud-native solutions on **AWS**, ensuring seamless integration with various frontend frameworks including **Next.js**, **React**, **Vue**, and **Angular**. Extensive expertise in developing AI/ML-powered platforms for predictive analytics and automation, utilizing frameworks like **FastAPI** and **Django** for seamless data processing. \n\nStrong compliance-driven development background with a focus on HIPAA, FHIR, PCI DSS, and SOC 2 standards, alongside a solid foundation in MLOps, including model training and orchestration with **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and built robust backend systems using **Elixir** and **Phoenix**, ensuring high performance and scalability within healthcare and fintech platforms.\nImplemented CI/CD pipelines using **GitLab**, **GitHub**, and **Jenkins** to automate deployment processes and streamline development workflows across a team of 9 engineers.\nExecuted containerization strategies with **Docker** and orchestration using **Kubernetes** for efficient resource management and deployment consistency across 3 different cloud environments.\nDeveloped and maintained data storage solutions utilizing **Postgres** for transaction management, optimizing queries to handle over **1 million** transactions per day.\nCollaborated cross-functionally with frontend teams utilizing **Next.js**, **React**, and **Vue** to ensure seamless integration and user experience for applications serving up to **500,000** active monthly users.\nUtilized **AWS** services for secure and scalable backend architecture, enhancing application reliability and performance metrics by **25%**.\nEngaged in code reviews and knowledge sharing sessions, fostering a culture of efficiency and best practices within the team, while mentoring at least **3 junior developers** in Elixir and backend development principles. \n\nHighlighted strengths include:\n- Led initiatives to optimize system performance through regular refactoring and audits.\n- Integrated extensive logging and monitoring systems using tools such as Prometheus and Grafana to capture application health metrics.\n- Enhanced security protocols in accordance with compliance standards pertinent to healthcare and finance sectors."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Elixir** and **Phoenix** frameworks to develop scalable backend services, ensuring high performance and reliability in financial applications.\nDesigned and implemented effective **CI/CD** pipelines using **GitLab**, **GitHub**, and **Jenkins** to automate testing and deployment processes, resulting in a 30% reduction in deployment times.\nUtilized **Postgres** to manage and optimize databases, achieving high availability and performance in data retrieval and storage.\nContainerized applications using **Docker** and orchestrated them with **Kubernetes**, enhancing application deployment efficiency and resource utilization by **25%**.\nIncorporated cloud services from **AWS** to ensure seamless scalability and responsiveness for users interacting with backend services.\nBuilt interactive front-end applications with **React** (18) and **Next.js**, ensuring integration with backend APIs and enhancing user experience across platforms.\nCollaborated with cross-functional teams to gather requirements and deliver solutions that improved processing times by **40%**, addressing both technical and user-centric challenges.\nStreamlined development workflows with version control and collaboration tools, ensuring code quality and team productivity.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Elixir** and **Phoenix** to design and optimize robust backend services for high-performance applications, ensuring reliability and scalability in line with industry best practices.\nDeveloped and maintained **Postgres** databases to ensure efficient data storage and retrieval, managing datasets exceeding **1 million** records while achieving query performance improvements of up to **30%**.\nImplemented CI/CD pipelines leveraging **GitLab**, **GitHub**, and **Jenkins** to automate the integration and deployment processes, achieving deployment time reductions from **12 hours** to **2 hours**.\nManaged container orchestration using **Kubernetes** and **Docker**, improving deployment reliability and enabling consistent application environments across all stages.\nOrchestrated cloud deployment operations via **AWS**, optimizing application hosting for cost-effectiveness and performance tuning by **40%** through careful resource management.\nEngineered frontend components using **Next.js**, **React**, **Vue**, and **Angular**, ensuring seamless integration with backend services to provide a dynamic and responsive user interface across diverse devices.\nConducted rigorous testing and troubleshooting practices, achieving a reduction in system downtime to less than **2%** and enhancing user experience and application stability.\nCollaborated in code reviews and project planning using Agile methodologies, fostering continuous improvement to increase team efficiency by over **25%**.\nIntegrated monitoring and logging solutions to ensure application health, enabling proactive issue resolution and optimizing overall system performance.\nProduced detailed documentation for APIs and system architecture, facilitating knowledge transfer within the team and improving onboarding for new developers."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tElixir, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Phoenix\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular, Next.js\n\n**API Technologies:**\n\tOAuth2, JWT, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tPostgres, PostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Let’s Encrypt, Certbot, Terraform, Ansible, Helm, Docker Compose, CI/CD"
+}

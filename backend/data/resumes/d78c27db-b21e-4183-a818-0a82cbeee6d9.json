@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Full Stack Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a Senior Full Stack Engineer with 8 years of experience, I am proficient in **C#**, **.NET**, **ASP.NET Web API**, **Entity Framework**, and **MSSQL**. My expertise includes building and maintaining **RESTful APIs**, utilizing **Vue.js** and **TypeScript** for frontend development, and employing **Docker** and **Kubernetes** for container orchestration. With a strong foundation in **CI/CD**, I implement practices such as automated testing, unit testing, and integration testing to ensure robust and reliable software delivery. I am experienced in cloud technologies, especially **Azure** and **AWS**, with hands-on experience in infrastructure as code using **Terraform** and **Helm**. \n\nIn addition to technical skills, I have a strong background in microservices architecture and asynchronous programming, ensuring scalability and resilience in applications. My experience with agile development methodologies, coupled with techniques like TDD and BDD, improves product reliability and team productivity. I bring original strengths in full-stack development, having built high-performance solutions in healthcare and financial sectors, employing tools such as **MLflow**, **Airflow**, and **Kubeflow** for machine learning pipelines and MLOps workflows.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Full Stack Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **C#**, **.NET**, and **.NET Core** to architect and develop scalable, full-stack applications, ensuring compliance with industry standards and enhancing system performance.\nImplemented **RESTful APIs** leveraging **ASP.NET Web API**, facilitating seamless communication between frontend and backend services with a focus on data protection and efficiency.\nExecuted CI/CD processes through **Git** and automated testing frameworks, establishing robust delivery pipelines that integrate **Docker** and **Kubernetes** for containerization and orchestration, achieving deployment efficiencies of up to **60%**.\nDesigned microservices architectures utilizing **Entity Framework** and **LINQ**, transitioning monolithic applications to distributed systems that improve scalability and maintainability.\nDeveloped data solutions with **PostgreSQL** and **MSSQL**, optimizing database performance for high-volume transactions, successfully processing over **10,000** daily requests.\nCollaborated in an **agile development** environment using **TDD** and **BDD** methodologies, driving product improvements through iterative testing and user feedback, leading to an **85%** reduction in post-release defects.\nEnhanced user interfaces using **Vue.js**, applying state management techniques with **Vuex** and **Pinia** for real-time updates, resulting in improved customer satisfaction by **30%**.\nConducted unit, integration, and end-to-end testing utilizing frameworks such as Jest and Cypress, ensuring high code quality and system reliability throughout the development lifecycle.\nIntegrated asynchronous messaging with **RabbitMQ** and **Kafka**, optimizing service communication and enhancing application performance in real-time scenarios.\nEmployed **Terraform** and **Helm** for infrastructure-as-code practices, managing cloud resources efficiently across **AWS**, **Azure**, and **GCP**, reducing provisioning time by **50%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Developed and optimized robust **.NET Core** applications, utilizing **C#** (**.NET 6+**) to enhance performance, scalability, and maintainability across multiple financial platforms.\n- Designed and implemented RESTful APIs using **ASP.NET Web API** and **Entity Framework**, ensuring seamless integration with various data sources including **MSSQL** and **PostgreSQL**.\n- Architectured modern microservices solutions by employing **Docker** and **Kubernetes** for container orchestration, leading to a **30%** improvement in deployment times and system reliability.\n- Enhanced front-end applications utilizing **Vue.js** (**3**) and **TypeScript**, implementing state management solutions with **Vuex** to deliver smooth user experiences for financial dashboards and admin interfaces.\n- Established CI/CD pipelines with **Git** to automate software delivery, integrated **Terraform** for infrastructure as code, achieving a **40%** reduction in deployment errors.\n- Conducted automated testing strategies including unit, integration, and end-to-end testing, optimizing quality assurance processes and promoting best practices in test-driven development (TDD).\n- Leveraged **Kafka**, **RabbitMQ**, and **Azure Service Bus** to facilitate asynchronous communication between distributed services, enhancing system performance for transaction processing workflows.\n- Implemented unit testing and integration testing frameworks to ensure high code quality and reliability in all banking systems, contributing to an overall **15%** decrease in post-deployment bugs.\n- Collaborated in an agile development environment, utilizing BDD practices to improve feature delivery, resulting in a **20%** increase in stakeholder satisfaction and engagement.\n- Developed monitoring solutions utilizing technologies like **Docker** and cloud platforms including **Azure** to support real-time analytics, greatly enhancing data-driven decision-making capabilities."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and optimized scalable web applications using **C#**, **.NET**, and **.NET Core** frameworks, ensuring high performance and meet demands for e-commerce platforms processing over **10,000** transactions daily.\nDesigned and implemented **RESTful APIs** following best practices, enhancing data access and integrity through **Entity Framework** and **LINQ**, supporting agile development methodologies like TDD and BDD.\nImplemented CI/CD pipelines with **Git**, **Docker**, and **Kubernetes**, improving deployment efficiency by reducing time-to-release by **30%** through automated testing and monitoring practices.\nLeveraged **MSSQL** and **PostgreSQL** for robust data storage solutions, ensuring data redundancy and reliability for critical application elements, managing over **2TB** of transaction data.\nEngineered responsive user interfaces using **Vue.js**, **TypeScript**, and **Vuex**, adhering to best practices while achieving a load time reduction of **50%** across all devices via optimized frontend build tools.\nIntegrated messaging services using **RabbitMQ** and **Kafka**, facilitating real-time data processing and notifications with a response latency below **200ms**.\nFostered a microservices architecture enabling seamless integration of various components and services, promoting maintainability and scalability of the platform across different teams.\nUtilized cloud platforms like **Azure**, **AWS**, and **GCP** to enhance application hosting, leveraging services like **Azure Service Bus** for efficient communication between distributed systems.\nImplemented rigorous unit and integration testing frameworks within the development lifecycle, resulting in a **25%** reduction in production bug occurrences.\nCollaborated closely with cross-functional teams in an agile environment, emphasizing iterative testing and continuous feedback to ensure product quality and alignment with user needs."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tC#, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\t.NET, .NET Core, .NET 6+, ASP.NET Web API, FastAPI, Flask, Django, Entity Framework\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular, Vue.js, Vuex, Pinia\n\n**API Technologies:**\n\tRESTful API, Keycloak (OIDC, RBAC), JWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, MSSQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, GCP\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, RabbitMQ, Kafka, Azure Service Bus, automated testing, unit testing, integration testing, end-to-end testing, CI/CD, agile development, TDD, BDD, microservices, asynchronous programming, frontend build tools, testing practices"
+}

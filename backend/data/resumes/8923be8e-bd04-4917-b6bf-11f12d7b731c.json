@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Platform Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Senior Platform Engineer with 13+ years of experience in developing and managing high-performance applications. Proficient in **Linux systems**, **Kubernetes**, **Terraform**, and **Ansible** for efficient cloud GPU environments, alongside hands-on skills in **GPU-based infrastructure** and tools in the **NVIDIA GPU ecosystem** including **CUDA**, **cuDNN**, and **TensorRT**.\n\nExpert in deploying and optimizing systems utilizing **Red Hat OpenShift**, **Slurm**, and **Triton Inference Server**, with experience in implementing **RAPIDS** for data processing. Skilled in MLOps and **LLMOps**, with a strong foundation in vector databases and retrieval systems to build AI/ML-powered platforms. Versatile in **JavaScript/TypeScript**, **Python**, and **Flutter**, complemented by backend development in **Node.js**, **FastAPI**, and **Django**, as well as frontend frameworks such as **React**, **Next.js**, and **Vue**.\n\nStrong communication skills combined with a commitment to compliance-driven development, ensuring alignment with industry standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Proven track record in deploying cloud-native systems primarily on **AWS** and **Azure**, while implementing microservices and event-driven architectures alongside CI/CD pipelines.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Platform Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **GPU-based infrastructure**, including **NVIDIA GPU ecosystem** and **CUDA**, to optimize full-stack platforms for healthcare and fintech.\nImplemented **Kubernetes** for container orchestration, facilitating the deployment of scalable applications on **Red Hat OpenShift** environments.\nDesigned and built high-performance pipelines using **Slurm** for job scheduling, achieving efficiency in resource utilization.\nIntegrated **MLOps** practices with **Triton Inference Server** and **TensorRT** for deploying machine learning models, enhancing data processing capabilities by **40%**.\nLeveraged **Terraform** and **Ansible** to automate infrastructure provisioning, ensuring consistent configurations across development and production environments.\nDeveloped **vector databases** for efficient data retrieval systems, facilitating real-time analytics and enhancing decision-making processes.\nCollaborated cross-functionally, effectively communicating complex technical concepts, and translating requirements into actionable tasks across teams.\nOptimized performance for machine learning workflows using **RAPIDS** and **cuDNN**, leading to a **30%** reduction in processing time.\nEmployed advanced **Linux systems** management techniques to ensure system reliability and security.\nIntegrated retrieval systems for personalized user experiences, achieving a **20%** increase in user engagement on applications.\nImplemented best practices in CI/CD using tools such as GitHub Actions and CircleCI, ensuring robust deployment pipelines with **100%** test automation coverage.\nWorked alongside data science teams to optimize models hosted in cloud GPU environments, improving inference accuracy and speed.\nDefined and maintained communication strategies to convey progress and technical updates, fostering a transparent and collaborative work environment."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented **GPU-based infrastructure** to optimize performance for machine learning workflows, ensuring efficient resource utilization and scalability on **Red Hat OpenShift**.\nUtilized **Terraform** and **Ansible** for infrastructure as code, streamlining deployment processes across **Kubernetes** clusters and enhancing system reliability across multiple environments.\nDeveloped and maintained integrations with the **NVIDIA GPU ecosystem** and technologies such as **CUDA** and **cuDNN** to leverage high-performance computing capabilities for data-intensive applications.\nImplemented **Slurm** for workload management in **cloud GPU environments**, ensuring timely execution of batch jobs and facilitating resource allocation with a utilization rate improvement of over **30%**.\nEngaged in **MLOps** practices to automate the deployment and monitoring of machine learning models, improving model lifecycle management and reducing deployment times by **25%**.\nArchitected retrieval systems with **vector databases** to support advanced querying capabilities for large-scale machine learning datasets, significantly enhancing data retrieval speed by up to **40%**.\nDesigned and deployed the **Triton Inference Server** to enable optimized inference of models in production environments, resulting in improved response times for real-time applications.\nCollaborated with cross-functional teams to enhance communication protocols, ensuring alignment on project requirements and delivery timelines, fostering a collaborative environment within the engineering department.\nMaintained a strong focus on performance tuning and optimization across Linux systems, contributing to an overall system efficiency improvement by **15%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized **GPU-based infrastructure** for backend services within a cloud environment, ensuring high availability and scalability necessary for intensive computations and model deployments.\nEngineered real-time features utilizing **Kubernetes**, **Red Hat OpenShift**, and **Slurm** to dynamically manage resources across the **NVIDIA GPU ecosystem**, facilitating responsive order updates and efficient resource allocation for compute-heavy applications.\nDeveloped and deployed applications in cloud GPU environments leveraging **Terraform** and **Ansible** for infrastructure as code, ensuring consistent and repeatable deployments, as well as streamlined configuration management.\nImplemented efficient model serving using **Triton Inference Server** and **TensorRT**, achieving **up to 50%** reduction in inference latency for machine learning models integrated into core features.\nLeveraged **CUDA**, **cuDNN**, and **NCCL** to enhance parallel processing capabilities of applications, increasing throughput for data-intensive workflows while maintaining compatibility with existing backend systems.\nDeveloped scalable vector databases and retrieval systems to support AI-driven features, improving data retrieval speeds by **30%** and enhancing overall application responsiveness.\nApplied **MLOps** and **LLMOps** best practices to streamline the deployment and monitoring of ML models, ensuring reliability and performance across all production environments.\nEnsured robust communication skills to effectively collaborate across teams, fostering a culture of knowledge sharing and continuous improvement in platform services and operations.\nMonitored and managed **Linux systems**, maintaining optimal performance and security across service deployments, leveraging the capabilities of the **NVIDIA GPU** and associated libraries for enhanced computational tasks.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**Backend Frameworks:**\n\tTensorRT\n\tTriton Inference Server\n\n**Frontend Frameworks:**\n\n**API Technologies:**\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\tvector databases\n\n**DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tGPU-based infrastructure\n\tcloud GPU environments\n\tRed Hat OpenShift\n\tNVIDIA GPU ecosystem\n\tSlurm\n\tLinux systems\n\n**Other:**\n\tMLflow, Airflow, Kubeflow\n\tLLMOps\n\tMLOps\n\tretrieval systems\n\tcommunication skills\n\tAuthentication & Security:\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot"
+}

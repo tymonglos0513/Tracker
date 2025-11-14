@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-driven Data Engineer with 8 years of experience in developing data-driven solutions, specializing in **SQL** and **Snowflake** for efficient data warehousing and analytics. Proficient in **dbt** for transforming and modeling data, and adept at utilizing **Power BI** for data visualization and reporting. Strong expertise in **Git** for version control and CI/CD for streamlined deployment processes.\nAlongside my technical skills, I have a solid foundation as a Full Stack Developer, previously employing technologies like **JavaScript**, **TypeScript**, **Python**, and **Flutter**. My comprehensive background includes the design of enterprise-grade platforms, integrating advanced capabilities including AI/ML for predictive analytics while adhering to compliance standards such as HIPAA and PCI DSS. I have hands-on experience in automation and optimizing workflows with tools like **MLflow**, **Airflow**, and **Kubeflow**, leveraging cloud services across **Azure** and **AWS**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained efficient ETL pipelines using **SQL** and **dbt**, ensuring high data quality and consistency across systems.\n- Implemented data warehousing solutions on **Snowflake**, optimizing data storage and retrieval for analytics purposes, supporting real-time insights with a focus on performance and scalability.\n- Collaborated with cross-functional teams to integrate data from various sources including **SAP** and **Salesforce**, streamlining workflows and enhancing reporting capabilities.\n- Designed and developed interactive dashboards using **Power BI**, enabling stakeholders to visualize data trends and make informed decisions backed by metrics from over **50+ datasets**.\n- Established CI/CD pipelines using **Git** and modern CI/CD tools, automating deployment processes and ensuring seamless updates to data infrastructure, reducing deployment time by up to **30%**.\n- Participated in the architecture and maintenance of large-scale databases, implementing optimization strategies that improved query performance by **40%**.\n- Conducted data quality assessments and performed root cause analysis on data discrepancies, ensuring compliance with auditing standards and data governance policies.\n- Worked with data scientists and analysts to provide support for complex analytical tasks and data modeling within a collaborative environment, resulting in a **50%** increase in project delivery efficiency.\n- Documented data engineering processes and best practices to support knowledge sharing and onboarding of new team members."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **SQL** and **Snowflake** for effective data modeling and analysis, contributing to the optimization of ETL processes and reporting for financial platforms.\nEmployed **dbt** to enable data transformation workflows, ensuring data integrity and accuracy across all financial datasets.\nImplemented CI-CD practices to automate and streamline the deployment of data pipelines, enhancing efficiency and reducing errors in data processing workflows.\nCollaborated with cross-functional teams to integrate data sources from **Salesforce** and **SAP** into analytical data warehouses, facilitating robust business intelligence reporting.\nDeveloped and deployed interactive dashboards using **Power BI** to visualize key financial metrics, enabling stakeholders to make informed decisions based on real-time data insights.\nMaintained version control and collaboration using **Git**, ensuring code quality and facilitating seamless team workflows during data engineering initiatives.\nOptimized data retrieval processes for high-volume transaction systems, boosting query performance by over **50%** through efficient indexing and schema design.\nEngineered data pipelines with a focus on reliability and scalability, processing over **1 million** records daily to drive analytical insights across the organization."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **SQL** and **dbt** to transform and optimize data workflows, ensuring high data quality and efficient model performance in a scalable data environment.  \nImplemented data validation and integration pipelines using **Snowflake** for reliable data storage and processing, supporting analytics for business intelligence solutions.  \nCollaborated with business stakeholders to efficiently extract insights from **Power BI** dashboards, enabling data-driven decision-making processes.  \nLeveraged **Git** for version control and collaboration within cross-functional teams, ensuring clean code practices and streamlined project management.  \nImplemented CI/CD pipelines for automated deployment of data models and transformations, ensuring rapid delivery and continuous integration across workloads.  \nEngaged with systems like **SAP** and **Salesforce** to integrate enterprise data across multiple platforms, ensuring data flow between systems is optimized for reporting and analytics.  \nMaintained documentation and data lineage using best practices for data governance, enabling easy access and understanding of data processes and transformations.  \nMonitored performance metrics and troubleshooting issues, achieving an **average of 30% improvement** in query efficiency and processing times.  \nBuilt and maintained data models utilizing **dbt**, ensuring timely updates and high accuracy within business reporting frameworks."
+    }
+  ],
+  "skills": "**Databases**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL, Snowflake\n\n**Programming Languages**\n\tPython (FastAPI, Flask, Django), JavaScript/TypeScript (React, Vue, Angular)\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks**\n\tReact, Vue, Angular\n\n**API Technologies**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions**\n\tAWS (ECS, Lambda), Azure (App Services)\n\n**Cloud & Infrastructure**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Other**\n\tMLflow, Airflow, Kubeflow, dbt, SAP, Salesforce, Power BI, Git, CI-CD"
+}

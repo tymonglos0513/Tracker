@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Infrastructure Developer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Results-driven Infrastructure Developer with over 9 years of experience in designing and executing scalable cloud solutions utilizing **Kubernetes**, **GCP**, **AWS**, **Terraform**, and **Pulumi**. Proficient in CI/CD methodologies with expertise in **GitHub Actions** and orchestrating application management with **Argocd**. Demonstrated knowledge of monitoring and observability tools such as **Grafana** and **OpenTelemetry**, alongside a solid understanding of networking concepts. Adept at leveraging programming skills in **Go**, **JavaScript**, and **Python** to enhance system performance and reliability. Bringing strong leadership abilities and collaboration skills, committed to delivering high-quality infrastructure and optimizing development workflows.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Infrastructure Developer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Managed deployment and orchestration of containerized applications using **Kubernetes**, ensuring high availability and scalability of services, impacting uptime by **99.9%**.\nLeveraged **GCP** and **AWS** for cloud infrastructure, optimizing resource allocation, and achieving a cost reduction of **30%**.\nAutomated infrastructure provisioning with **Terraform** and **Pulumi**, reducing setup time by **50%** and ensuring consistent environments.\nIntegrated CI/CD workflows using **GitHub Actions** to facilitate seamless development and deployment processes, increasing deployment frequency by **70%**.\nImplemented **OpenTelemetry** for observability and **Grafana** for real-time monitoring of application performance metrics, enhancing response time tracking capability by **40%**.\nDeveloped and maintained microservices using **Go** and **Python**, ensuring efficient service communication and load distribution.\nUtilized **Envoy** for microservices networking, enhancing service-to-service communication security and reliability.\nConducted performance tuning and optimization strategies that improved application performance by **25%**.\nCollaborated with cross-functional teams to design and implement containerization strategies, improving deployment consistency and efficiency.\nEnsured robust security measures through authenticating and authorizing users across all services."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Implemented CI/CD pipelines utilizing **GitHub Actions**, achieving a **30%** reduction in production deployment errors.\nDesigned and maintained infrastructure on **GCP** and **AWS**, ensuring efficient resource management and deployment using tools like **Terraform** and **Pulumi**.\nDeveloped and managed container orchestration using **Kubernetes**, enhancing system scalability and reliability.\nIncorporated **Grafana** and **OpenTelemetry** to monitor system performance, resulting in proactive issue resolution and improved uptime.\nCollaborated with cross-functional teams to define robust infrastructure requirements and development timelines, ensuring seamless integration with project goals.\nUtilized **Go**, **JavaScript**, and **Python** for scripting and automation tasks, improving operational efficiency by **20%**.\nEngaged in networking strategies to optimize connectivity and application performance across different layers of the architecture.\nConducted effective code reviews, providing mentorship that led to a **15%** increase in overall team productivity.\nEstablished service mesh strategies using **Envoy**, enhancing communication between microservices and boosting system resilience.\nBuilt microservices using event-driven architecture, significantly scaling system capabilities with tools like RabbitMQ and Apache Kafka."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Utilized **Terraform** and **Pulumi** for infrastructure as code, leading to a **30%** reduction in deployment time and improved environment consistency.\nImplemented CI/CD pipelines using **GitHub Actions** to automate build and release processes, enhancing deployment frequency from **4 times a month** to **15 times a month**.\nDeployed and managed containerized applications via **Kubernetes**, improving resource utilization and operational efficiency.\nConfigured monitoring and observability solutions using **Grafana** and **OpenTelemetry**, resulting in a **25%** reduction in incident resolution times.\nDeveloped microservices in **Go** and **Python** enhancing scalability and performance under high loads, achieving response times under **200ms**.\nIntegrated with cloud services such as **AWS** and **GCP** for seamless infrastructure management, optimizing costs by **15%** through efficient resource allocation.\nCollaborated with cross-functional teams to implement service mesh solutions using **Envoy**, enhancing network security and observability.\nConducted networking assessments and applied best practices to ensure high availability and secure environment setups.\nPresented technical documentation and training sessions to facilitate knowledge sharing and best practices across teams, ensuring alignment on infrastructure standards and protocols."
+    }
+  ],
+  "skills": "****Programming Languages****\n\tGo, JavaScript, Python\n\n****Backend Frameworks****\n\tNodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n\n****Frontend Frameworks****\n\tHTML, CSS, TypeScript, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n****API Technologies****\n\tRESTful API, GraphQL\n\n****Serverless and Cloud Functions****\n\tAWS, GCP\n\n****Databases****\n\tMSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB\n\n****DevOps****\n\tKubernetes, Terraform, Pulumi, Argocd, GitHub Actions, CI/CD pipelines\n\n****Cloud & Infrastructure****\n\tAWS, Azure\n\n****Other****\n\tUX/UI Design, Git, GitHub, Messaging & Caching: Apache Kafka, RabbitMQ, Redis, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Blockchain: Solidity, Ether.js, Web3.js, Ethereum, OpenTelemetry, Grafana, Networking"
+}

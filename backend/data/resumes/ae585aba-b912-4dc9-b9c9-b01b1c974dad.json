@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Software Engineer with over 10 years of experience in full stack development, proficient in **JavaScript**, **HTML**, and **CSS**. Demonstrated expertise in building multi-process architecture applications and skilled in performance profiling and memory debugging. Proven track record of delivering high-performance software solutions in healthcare and finance, utilizing a robust tech stack that includes **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Expert in developing cloud-native applications on **Azure** and **AWS**, with substantial experience in leading enterprise platforms that incorporate AI/ML capabilities for real-time analytics and intelligent decision-making. Solid background in microservices architecture, event-driven systems, and CI/CD automation, committed to developing secure, maintainable solutions that adhere to compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Additionally, brings hands-on experience in MLOps, including the development of ML pipelines and production workflows using tools like **MLflow**, **Airflow**, and **Kubeflow**. Passionate about creating systems that have a tangible impact on real-world challenges.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tDeveloped and optimized high-performance applications using **C++** and **JavaScript**, ensuring efficient memory management and multi-process architecture for robust frontend and backend solutions.\n•\tEnhanced user interfaces with **HTML** and **CSS**, delivering responsive and accessible web applications that meet current web standards and guidelines.\n•\tUtilized performance profiling techniques to diagnose and address bottlenecks, resulting in a measurable **30%** improvement in application response times.\n•\tLed the design of scalable systems, highlighting a shift from monolithic to microservices architectures via **Docker** and **Kubernetes**, achieving team efficiency improvements of over **25%** in deployment speed.\n•\tImplemented memory debugging strategies in code reviews and testing phases, reducing memory leak issues by **40%** in critical applications.\n•\tMaintained continuous integration and deployment (CI/CD) pipelines using **GitHub Actions** and **Azure DevOps**, resulting in streamlined workflows and reduced deployment times by **50%**.\n•\tCollaborated cross-functionally with teams to identify and implement enhancements in product architecture, directly contributing to a **15%** increase in user engagement metrics.\n•\tConducted regular code reviews and knowledge-sharing sessions focusing on best practices in performance profiling and memory management among junior developers."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **JavaScript** along with **HTML** and **CSS** to create efficient front-end solutions, enhancing user experience in financial applications.\nEmployed **C++** for system-level programming, enabling optimized performance and memory management in multi-process architectures.\nLeveraged **performance profiling** techniques to identify bottlenecks and improve overall system efficiency for high-traffic applications, resulting in a **25%** increase in throughput.\nImplemented memory debugging strategies to ensure robust application performance, achieving a **30%** reduction in memory-related issues.\nDesigned and implemented dynamic applications using modern JavaScript frameworks, aligning with current trends such as React (18) and Vue 3 for user-centric financial dashboards.\nEngaged in back-end development with **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), integrating scalable services for high-volume transaction systems.\nEstablished robust event-driven architectures using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, supporting real-time processing of financial transactions and alerts, resulting in effective anomaly detection.\nBuilt and orchestrated complex ETL pipelines utilizing **Apache Airflow** and **Azure Data Factory** for ingestion of financial data, improving reporting efficiency by **40%**.\nIntegrated AI/ML techniques in fraud detection systems with **scikit-learn** and **XGBoost**, driving proactive fraud prevention measures based on user behavior analysis."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "• Utilized **C++** for system-level programming, contributing to a multi-process architecture that optimized backend performance, handling up to **1000** concurrent processes without degradation in service.\n• Developed interactive frontend components using **JavaScript**, **HTML**, and **CSS**, ensuring a seamless user experience across various devices and maintaining a page load time of under **2 seconds**.\n• Implemented advanced **memory debugging** techniques to identify and rectify memory leaks, improving application stability by **30%**.\n• Employed **performance profiling** tools to analyze and enhance application performance, achieving load time reductions of **25%** for high-traffic modules.\n• Collaborated with cross-functional teams to ensure high availability and scalability of services, setting performance benchmarks and maintaining them during peak season, processing orders at rates exceeding **5000** orders per minute.\n• Conducted code reviews and mentoring sessions for junior developers, fostering an environment of learning and development within the software engineering team.\n• Led the migration of legacy systems to microservices architecture, utilizing containerization techniques with **Docker** and **Kubernetes** to streamline deployment processes.\n• Championed best practices in software development, emphasizing clean code, testing, and documentation, resulting in a **40%** decrease in support tickets related to software bugs."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tC++, Python, JavaScript, TypeScript\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular, HTML, CSS\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **API Technologies:**\n\tN/A\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow, multi-process architecture, memory debugging, performance profiling, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Mozilla"
+}

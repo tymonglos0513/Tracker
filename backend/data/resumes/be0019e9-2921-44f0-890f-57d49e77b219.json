@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Python Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Senior Python Developer with 13+ years of experience in web application development, specializing in **Python** and **Microservices** architecture. Expertise in building high-performance applications, backed by proficiency in **Docker**, **Kubernetes**, and CI/CD tools like **Jenkins**. Demonstrated capability in managing relational databases and implementing scalable solutions. Proven track record in creating robust applications in compliance with industry standards, aligning with practices that ensure code quality and scalability. Skilled in deploying cloud-native applications leveraging **AWS** and **Azure**, complemented by a solid foundation in **RabbitMQ** for message brokering and **Prometheus** for monitoring and alerting. Strong background in the healthcare and financial industries, with hands-on experience in **AI/ML** platforms using **FastAPI**, ensuring real-time processing and predictive analytics.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python (FastAPI)** to develop and maintain high-performing web applications, resulting in a 30% increase in deployment efficiency across projects.\nDesigned and implemented **Microservices** architectures using **Docker** and **Kubernetes (version 1.21)**, enabling scalable and fault-tolerant deployments that improved system uptime by 25%.\nCreated comprehensive CI/CD workflows incorporating **Jenkins** and **Prometheus** for monitoring and automated deployment, significantly reducing delivery timelines to under 2 weeks for major releases.\nManaged and optimized **Relational Databases** ensuring robust data management with PostgreSQL, which improved data retrieval times by 40% across applications.\nCollaborated with cross-functional teams to architect web applications that align with business needs, driving a user satisfaction score increase of over 20% through responsive design and scalability.\nLed the modernization of legacy systems, transitioning them into microservice-based architectures that facilitated integrations with various cloud services and tools.\nContributed to the development of deployment strategies utilizing **Consul** for service discovery and configuration management, enhancing system reliability and speed of service deployment.\nIntegrated messaging solutions using **RabbitMQ**, ensuring consistent and reliable communication between microservices, which improved processing speed by 15%.\nParticipated in code reviews and implemented robust testing strategies leveraging unit testing and integration frameworks to safeguard application quality and integrity.\nDocumented architectural designs and system functionalities, providing clarity and direction for team members and stakeholders, leading to a decrease in project onboarding time by 35%."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Developed and maintained microservices architecture using **Python** (FastAPI, Django) to enhance scalability and performance of core financial platforms for high-volume transactions.\n- Designed and built web applications with interactive user interfaces utilizing **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, ensuring responsive designs for financial tools and admin panels.\n- Implemented ETL pipelines for financial data processing with **Python**, **Apache Airflow**, and **Azure Data Factory**, optimizing both batch and real-time data ingestion from multiple sources.\n- Created and deployed containerized applications using **Docker** and orchestrated using **Kubernetes**, promoting consistent environments and easier deployments.\n- Established monitoring and alerting solutions with **Prometheus**, ensuring high availability and performance of services across production systems.\n- Utilized **RabbitMQ** for asynchronous messaging in a robust event-driven architecture, facilitating seamless communication across workflows related to transactions and compliance.\n- Led the deployment of CI/CD pipelines with **Jenkins**, resulting in a **30%** improvement in deployment speed and a significant reduction in operational overhead.\n- Conducted performance tuning and optimization of relational databases, supporting application responsiveness and efficiency during peak usage periods.\n- Collaborated with cross-functional teams to define best practices and improve code quality, resulting in a **25%** reduction in bugs and performance issues after release."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and microservices architecture to design and optimize scalable web applications for a global e-commerce platform, enhancing performance and maintainability.\nLeveraged **Docker** and **Kubernetes** for effective containerization and orchestration, ensuring seamless deployment pipelines and high availability for critical services.\nEngineered reliable messaging systems using **RabbitMQ** to enhance communication between microservices, facilitating efficient data handling and processing workflows across the application.\nDeveloped and maintained relational databases handling over **1 million** transactions per day, utilizing technology stacks such as **MongoDB** and **PostgreSQL** for efficient and fault-tolerant data access.\nImplemented CI/CD pipelines using **Jenkins** to automate testing and deployment processes, reducing lead times for new features and updates by **30%**.\nMonitored application metrics and performance with **Prometheus**, ensuring proactive issue detection and system health assessment, leading to an **uptime** increase by **99.9%**.\nApplied best practices in web application development using modern frameworks, ensuring responsive and accessible UIs to maintain a quality user experience.\nCreated documentation for architectural designs and API specifications, promoting knowledge sharing within the development team for **10+** ongoing projects.\n"
+    }
+  ],
+  "skills": "   **Programming Languages:**\n\t•\tPython\n\n   **Backend Frameworks:**\n\t•\tFastAPI\n\t•\tFlask\n\t•\tDjango\n\n   **Frontend Frameworks:**\n\t•\tJavaScript/TypeScript: React\n\t•\tVue\n\t•\tAngular\n\n   **API Technologies:**\n\t•\tMicroservices\n\n   **Serverless and Cloud Functions:**\n\t•\tAWS: ECS\n\t•\tLambda\n\t•\tAzure: App Services\n\n   **Databases:**\n\t•\tPostgreSQL (Fintech)\n\t•\tMySQL (Healthcare)\n\t•\tMongoDB (Gaming)\n\n   **DevOps:**\n\t•\tDocker\n\t•\tKubernetes\n\t•\tGitHub Actions\n\t•\tGitLab CI/CD\n\t•\tTerraform\n\t•\tAnsible\n\t•\tHelm\n\t•\tDocker Compose\n\n   **Cloud & Infrastructure:**\n\t•\tAWS: RDS\n\t•\tS3\n\t•\tAzure: Blob Storage\n\t•\tSQL Database\n\n   **Other:**\n\t•\tMLflow\n\t•\tAirflow\n\t•\tKubeflow\n\t•\tConsul\n\t•\tJenkins\n\t•\tPrometheus\n\t•\tRabbitMQ\n\t•\tKeycloak (OIDC, RBAC)\n\t•\tOAuth2\n\t•\tJWT\n\t•\tNginx\n\t•\tLet’s Encrypt\n\t•\tCertbot\n\t•\tRedis"
+}

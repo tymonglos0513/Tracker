@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior SBC Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior SBC Engineer with over 10 years of experience in designing and delivering cloud-native architectures and microservices. Proficient in **VoIP**, **VoLTE**, and **SBC** frameworks, with strong skills in **SIP**, **H.248**, and **Diameter** protocols. Familiar with data analytics, and **Machine Learning** implementations. Extensive expertise in high-performing systems, employing **AWS** and **Azure** for streamlined cloud solutions. Demonstrated ability to create scalable APIs and services in diverse environments, bolstered by experience at leading organizations such as VISA, Sii Poland, and Reply Polska. Committed to leveraging cutting-edge technologies like **FastAPI**, **Django**, and **Kubernetes** to drive innovative project outcomes.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SBC Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented VoIP solutions utilizing **SIP**, **H.248**, and **Diameter** protocols to optimize communication systems for SBC products.\nEngineered backend services in **Python** using **FastAPI** to support document automation and streamline user onboarding processes in alignment with **IMS** standards.\nDeveloped event-driven solutions leveraging **Celery** and **Redis** for managing asynchronous processing of financial transaction requests, enhancing system responsiveness by **30%**.\nDeployed microservices on **Azure App Services** and utilized **Terraform** for Infrastructure as Code, enabling seamless cloud operations and reducing deployment times by **50%**.\nCreated and maintained data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, ensuring timely and accurate data flow with an uptime of over **99.9%**.\nLed security assessments to integrate **OAuth2** and **Azure AD B2C** for secure and scalable authentication systems, improving overall security by **40%**.\nCollaborated with cross-functional teams to address system integration challenges and ensure compliance with **3GPP** and **IETF** standards, overseeing release strategies effectively."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Designed and implemented scalable **microservices** architectures to support **VoIP** and **SBC** functionalities, ensuring high availability and robust performance in handling **3GPP** and **IETF** protocols.\n• Developed event-driven **microservices** using **Celery** and **Redis** to process and manage **(S)RTP** streams efficiently, leading to a **30%** improvement in latency.\n• Deployed and maintained applications using **Kubernetes** on **Azure**, ensuring adherence to a **99.9%** uptime standard through effective management of container orchestration and service scaling.\n• Executed data analysis and reporting processes aligned with industry standards using **data analytics** tools and techniques, resulting in a **25%** reduction in reporting timeframes.\n• Conducted security assessments and implemented **IPsec**, **TLS**, and **DTLS** protocols to ensure secure communications and data integrity, achieving compliance with **ISO 27001** standards.\n• Collaborated closely with product teams to integrate **SIP**, **H.248**, and other signaling protocols, facilitating smooth deployment and operation of real-time communication services.\n• Engaged in continuous monitoring and optimization of system performance using **SNMP** and **OAM**, driving proactive maintenance strategies and reducing downtime by **15%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Engineered cloud-native architecture for SBC systems utilizing **Kubernetes** and **Openshift** to enhance scalability and reliability in VoIP services.\nDeveloped and maintained microservices-based applications focusing on IMS and VoLTE protocols, ensuring high availability and compliance with **3GPP** standards.\nImplemented and optimized SIP and H.248 signaling processes, including support for **Diameter** and **SIPREC**, ensuring seamless communication across platforms.\nLeveraged technologies such as **HTTP(S)**, **TLS**, and **IPsec** to secure data transmission while maintaining compliance with rigorous data protection regulations.\nConducted extensive performance testing and monitoring using **SNMP** and **OAM** tools, achieving a 40% improvement in transaction processing times.\nUtilized **Amazon Web Services (AWS)** and **Azure** for deployment and scaling of applications, enhancing operational efficiency by 30%.\nIntroduced advanced transcoding algorithms and DTMF handling methods, improving audio quality and reliability for voice communications.\nCollaborated with cross-functional teams to integrate REST APIs for external vendor services, facilitating seamless workflows and data exchange.\nImplemented **data analytics** and machine learning techniques, resulting in predictive outcomes that improved traffic management by 25%."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, SIP, H.248, Diameter, HTTP(S), SIPREC, MSRP, (S)RTP, RTCP, DTMF, RESTCONF\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Git\n\n**Cloud & Infrastructure**\n\tOpenstack, VMware, SDN, cloud, cloud-native\n\n**Other**\n\t3GPP, IETF, VoIP, VoLTE, SBC, IMS, IPsec, TLS, (S)FTP, SSH, SNMP, NETCONF, OAM, transcoding, Microservices, data analytics, Machine Learning, Kafka, PyTest",
+  "apply_company": "Nokia"
+}

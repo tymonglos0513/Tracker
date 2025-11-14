@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Java Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Senior Java Developer with over 13 years of experience in building high-performance applications within the healthcare and financial sectors. Advanced proficiency in **Java** and **Spring Boot**, enabling the design of robust and scalable systems. Skilled in **API First** development and implementing **gRPC** and **OpenAPI** specifications for seamless integration and communication.\nExperienced in methodologies like **SCRUM** and **Clean Code**, committed to continuous improvement and collaborative work environments. Deep knowledge of microservices architecture, leveraging **Kafka** for real-time data processing and employing **Maven** for project management.\nAdditionally, possesses skills in **JavaScript/TypeScript**, **Python**, **Flutter**, and has practical experience with frontend technologies such as **React**, **Next.js**, and **Vue**. Well-versed in deploying cloud-native solutions on **AWS** and **Azure**, and proficient in CI/CD practices for rapid delivery and enhanced quality. Demonstrates a solid foundation in building AI/ML-powered platforms, resulting in compelling predictive analytics and automation solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Java** and **Spring Boot** to design and develop high-performance, scalable backend services adhering to an **API First** design approach.\nImplemented **CI/CD** methodologies to ensure regular deployment cycles, leveraging tools like **Maven** for build automation and dependency management.\nParticipated in **SCRUM** processes, promoting **Collaboration** within cross-functional teams to enhance project delivery and stakeholder engagement.\nApplied **Domain-Driven Design (DDD)** principles to ensure the alignment of code structure with business objectives and domain models.\nDeveloped event-driven architectures using **Kafka**, ensuring seamless communication between microservices and real-time data processing, resulting in improved system reliability and performance with a message throughput of over **10,000** messages per second.\nDesigned and documented RESTful APIs conforming to the **OpenAPI** specifications, facilitating easy integration with frontend applications and external partners.\nConducted thorough code reviews to promote **Clean Code** practices, enhancing maintainability and readability of the codebase, which resulted in a **30%** reduction in bugs identified in production.\nFostered a culture of **Continuous Improvement** by implementing coding standards and best practices across the team, ensuring high-quality deliverables.\nEngaged in active knowledge sharing sessions to improve team skillsets on technologies like **gRPC** and **protobuf**, enabling efficient communication and data serialization between services.\nImplemented robust unit and integration tests that achieved a test coverage of over **85%**, improving the overall quality assurance process and minimizing regression issues.\nCollaborated with DevOps teams to automate deployment pipelines, ensuring rapid and reliable delivery across multiple environments with tools like **Jenkins** and **GitHub Actions**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and managed robust Java applications using **Java** and **Spring Boot**, driving the implementation of **API First** strategies to enhance system integration and interoperability.\nImplemented Domain-Driven Design (**DDD**) principles to create scalable application architecture, ensuring that business needs are met efficiently.\nUtilized **Kafka** for building real-time data pipelines, enhancing the system's data handling capabilities and improving application responsiveness.\nParticipated in an Agile environment using **SCRUM** methodologies, facilitating effective team collaboration and continuous improvement practices throughout the development lifecycle.\nEngaged in code reviews and maintained a **Clean Code** approach, ensuring high-quality standards are met across the development team.\nIntroduced **CI/CD** practices to automate deployment processes, reducing release time by **30%** and increasing overall productivity.\nLeveraged **OpenAPI** for designing RESTful APIs, allowing for seamless integration and improved documentation.\nUtilized **Maven** for project management, dependency management, and build automation, ensuring streamlined development workflows.\nWorked with **gRPC** and **protobuf** for optimizing communication between microservices, leading to a **25%** performance improvement in data transfer rates.\nCollaborated with cross-functional teams to ensure requirements are met and innovations are effectively integrated into final products."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Engineered robust backend services for scalable applications, utilizing **Java** and **Spring Boot** frameworks to implement efficient **API First** designs.\nExecuted **Clean Code** principles and **Domain-Driven Design (DDD)** methodologies to enhance system maintainability and performance metrics by **30%**.\nCollaborated in an agile environment following **SCRUM** practices, driving **Continuous Improvement** initiatives that reduced deployment times by **25%**.\nDesigned and deployed microservices architecture using **gRPC** and **protobuf**, ensuring seamless inter-service communication and protocol efficiency with a lead in performance testing to achieve a **95%** success rate in API responses.\nIntegrated message broker solutions such as **Kafka** for real-time data streaming and processing, elevating system responsiveness and contributing to a **20%** increase in overall throughput.\nUtilized **Maven** for project management and build automation, ensuring efficient dependency management and streamlined application development flows.\nImplemented **CI/CD** pipelines for automated testing and deployment processes, resulting in decreased manual effort and improving release cycles by **40%**.\nPromoted collaboration across cross-functional teams to foster innovation and develop strategic project roadmaps, leading to successful project deliveries and client satisfaction.\nConducted code reviews and provided guidance on **OpenAPI** specifications to enhance API documentation and clarity for future development phases."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Python, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tSpring Boot, FastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tOpenAPI, gRPC, API First, Kafka, protobuf\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, SCRUM, Clean Code, Continuous Improvement, Collaboration, Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot"
+}

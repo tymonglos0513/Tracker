@@ -1,0 +1,55 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior AI Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Results-driven Senior AI Engineer with 9+ years of experience in developing and implementing robust AI solutions. Proficient in **Python** and frameworks such as **FastAPI**, **Django**, and **Flask**, with adeptness in cloud-native technologies like **Docker** and **Kubernetes**. Extensive knowledge in managing data pipelines, ETL/ELT processes, and integrating databases like **PostgreSQL**, **MySQL**, and NoSQL systems, including **Pinecone**, **Weaviate**, and **Milvus**. Experienced in orchestrating workflows using **Airflow**, **Prefect**, and **Dagster**, ensuring seamless CI/CD integration via **GitHub** and **Jenkins**. Proven track record of delivering high-quality solutions that enhance performance and optimize development workflows. Strong collaborator with a history of leading cross-functional teams and managing complex projects to success.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Led the design and implementation of data pipelines utilizing **Python**, **FastAPI**, and **Django**, enhancing data processing efficiency by **30%**.\nDeveloped and maintained **Docker** containers orchestrated via **Kubernetes** for deploying scalable AI applications, reducing deployment complexities by **50%**.\nCreated efficient ETL and ELT processes, facilitating optimal data ingestion and transformation from various sources, including **PostgreSQL**, **MySQL**, and **NoSQL** databases.\nUtilized **Airflow** and **Prefect** for orchestrating batch jobs, enhancing scheduling efficiency and reducing job turnaround time by **25%**.\nImplemented OCR capabilities for data extraction from unstructured sources, integrating with **Parsing** techniques to enhance data accuracy.\nConducted performance monitoring using **Prometheus** and **Grafana**, achieving a system uptime improvement of **15%**.\nCollaborated in a cross-functional team to create innovative solutions leveraging **RAG** (Retrieval-Augmented Generation) methodologies to enhance AI-driven projects.\nEnhanced CI/CD practices using **GitHub** and **Jenkins** to automate deployment processes, cutting down the integration time by **40%**.\nDeveloped and integrated solutions leveraging vector databases such as **Pinecone**, **Weaviate**, and **Milvus** for high-performance AI model serving.\nDesigned scalable systems for machine learning applications, ensuring robust data handling and model deployment across production environments."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Developed and maintained data pipelines using **Airflow** and **Prefect**, ensuring effective ETL/ELT processes for large datasets and improving data integrity by 20%.\nDesigned and implemented APIs using **FastAPI** and **Django** for machine learning model deployments, which increased API response time by 30%.\nCreated and maintained containerized applications using **Docker** and orchestrated deployments with **Kubernetes**, achieving a 40% reduction in resource allocation costs.\nUtilized **PostgreSQL** and **MySQL** for robust data storage solutions, optimizing database queries that led to a **25%** increase in access speeds.\nIntegrated NoSQL databases like **Pinecone** and **Weaviate** for high-availability data management, enhancing retrieval speeds by **15%**.\nLed initiatives for CI/CD integration with **GitHub** and **Jenkins**, minimizing deployment failures by **35%**.\nConducted thorough code reviews and provided mentorship to junior engineers, facilitating a 30% improvement in onboarding time and team efficiency.\nMonitored system performance using **Prometheus** and **Grafana**, leading to proactive issue resolution and improved system reliability.\nDeveloped and optimized parsing algorithms for OCR applications, which improved accuracy rates by 25% in document processing tasks.\nDesigned and implemented advanced machine learning features employing large language models (LLM) and retrieval-augmented generation (RAG) techniques to enhance user experience."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "• Developed data pipelines using **FastAPI** and **Django** to enhance data processing efficiency by 30%.\n• Implemented **Docker** and **Kubernetes** for containerization and orchestration, streamlining the deployment process and reducing resource consumption by 25%.\n• Created ETL processes using **Airflow** to automate data flow, ensuring data accuracy across multiple databases, including **PostgreSQL** and **MySQL**.\n• Designed and maintained **NoSQL** databases using **Pinecone** and **Weaviate**, optimizing data retrieval times by 40%.\n• Integrated **OCR** technology for document parsing, resulting in a 50% reduction in manual entry errors.\n• Collaborated on CI/CD workflows using **GitHub** and **Jenkins**, reducing deployment time by 15%.\n• Monitored system performance using **Prometheus** and **Grafana**, improving the overall application uptime by 99.9%.\n• Engaged in peer code reviews and participated in Agile sprints to align project delivery with stakeholder expectations.\n• Delivered comprehensive documentation and training for team members, enhancing internal knowledge base regarding data engineering practices."
+    }
+  ],
+  "skills": " **Programming Languages** \n\t Python\n\n **Backend Frameworks** \n\t FastAPI, Django, Flask, NodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n\n **Frontend Frameworks** \n\t HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n **API Technologies** \n\t RESTful API, GraphQL\n\n **Serverless and Cloud Functions** \n\n **Databases** \n\t MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB, NoSQL, Pinecone, Weaviate, Milvus\n\n **DevOps** \n\t AWS, Azure, CI/CD pipelines, Docker, Kubernetes, Jenkins, Prometheus, Grafana\n\n **Cloud & Infrastructure** \n\n **Other** \n\t Messaging & Caching: Apache Kafka, RabbitMQ, Redis, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Blockchain: Solidity, Ether.js, Web3.js, Ethereum, Data Pipelines, ETL, ELT, OCR, parsing, LLM, RAG, UX/UI Design, Git, GitHub",
+  "apply_company": "GISPartner sp. z o.o."
+}

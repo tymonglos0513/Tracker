@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Solutions Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a seasoned Senior Solutions Engineer with 8 years of comprehensive expertise, I excel in developing and integrating solutions utilizing **API**, **Cloud** services, and container orchestration technologies like **Docker** and **Kubernetes**. My foundation in **CI/CD** practices ensures smooth deployments and efficient development workflows. I am skilled at leveraging **AI** techniques, particularly in building solutions that incorporate LLM for enhanced functionalities.\n\nI have a proven track record in supporting clients through **Technical Documentation** and providing exceptional **Customer Support**. My ability to communicate complex technical concepts to stakeholders enhances collaboration and drives project success. With extensive experience in healthcare and finance sectors, I have successfully led enterprise-grade projects, adhering to compliance standards such as HIPAA and PCI DSS. My strong background in using modern technologies like **JavaScript/TypeScript**, **Python**, and **Flutter**, alongside frameworks including **React**, **Next.js**, and **Node.js**, enables me to build high-performance solutions that meet evolving client needs.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Solutions Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and implemented robust **API** solutions to enhance system interoperability, ensuring seamless integration across healthcare and financial applications.\nEngineered and managed **Cloud** infrastructure with tools such as **Docker** and **Kubernetes** (including versions AKS/EKS), optimizing resource allocation and scalability for high-demand services.\nDesigned and executed **CI/CD** pipelines leveraging tools like GitHub Actions, Azure DevOps, and CircleCI to automate deployment processes, ensuring reliability and speed in delivering features.\nIntegrated AI solutions into client applications to provide intelligent data insights, delivering personalized experiences and predictive functionalities through advanced algorithms and models.\nContributed to the development of open-source projects and maintained comprehensive **Technical Documentation** for system architectures and integrations, promoting collaboration across teams.\nProvided **Customer Support** for deployment-related issues and technical inquiries, ensuring high levels of satisfaction and uninterrupted service delivery.\nFacilitated effective **Communication** strategies with stakeholders to align product features with customer needs and market demands, streamlining the development process.\nArchitected and developed scalable, full-stack healthcare and financial platforms using **TypeScript**, **Python (FastAPI)**, **Node.js**, and modern front-end frameworks including **React (17-18)**, **Next.js**, and **Vue (3.x)**, while ensuring compliance with HIPAA, FHIR, GDPR, and financial regulatory standards (e.g., PCI DSS, SOX).\nDeveloped and deployed cross-platform mobile applications using **Flutter** and **React Native**, delivering seamless healthcare and fintech user experiences across **iOS** and **Android** platforms, with native module integration and state management using Provider and Redux.\nImplemented mobile-specific CI/CD pipelines using **Fastlane** and **App Center**, with automated testing, release management, and crash/error analytics (**Firebase Crashlytics**, **Sentry**).\nLed the re-architecture of monolithic applications into microservices-based ecosystems, employing **Docker**, **Kubernetes** (AKS/EKS), and serverless architectures (**AWS Lambda**, **Azure Functions**), enabling high availability and fault tolerance.\nDesigned and maintained cloud-native data architecture using **PostgreSQL**, **MongoDB**, **Redis**, and **GraphQL**, optimizing for large-scale healthcare and financial data ingestion, storage, and querying.\nDesigned and deployed machine learning models for use cases such as patient risk prediction, financial fraud detection, and document classification using **Python (scikit-learn, PyTorch, TensorFlow)**, and integrated real-time inference services into the backend.\nBuilt MLOps pipelines using **MLflow**, **DVC**, and **Apache Airflow** for continuous training, validation, versioning, and deployment of models across development and production environments.\nIntegrated AI-based features into client-facing applications, such as smart financial dashboards, personalized health recommendations, and predictive alerts, powered by trained models and APIs hosted on **Azure ML** and **AWS Sagemaker**.\nDelivered complex financial data visualization tools using **D3.js**, **Chart.js**, and **Power BI Embedded**, enabling real-time insights into transaction trends, fraud detection, and operational KPIs.\nCollaborated with data scientists to integrate **NLP models** (using **spaCy**, **Hugging Face Transformers**) for healthcare document parsing and financial anomaly detection, embedding them into core services through RESTful APIs.\nEstablished test strategies using **Jest**, **Cypress**, **PyTest**, and **Postman**, covering unit, integration, E2E, and contract testing across both front-end and backend services.\nIntegrated **Azure Cognitive Search** and **ElasticSearch** to enable advanced search capabilities across millions of unstructured and structured health records and financial documents."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented robust **API** solutions to enhance interoperability across financial platforms, ensuring seamless integration with third-party services and internal systems.\nLeveraged **Cloud** technologies to deploy applications on cloud platforms, ensuring scalability and high availability, particularly utilizing services like Azure and AWS.\nUtilized **Docker** for containerization of applications, enabling consistent and efficient deployment processes, while orchestrating services with **Kubernetes** for enhanced service management and scalability.\nApplied **CI/CD** principles to automate the deployment pipeline, reducing deployment time by **70%** and increasing release frequency, resulting in faster updates for financial applications.\nIntegrated AI solutions using machine learning frameworks, enhancing automated customer support features and improving response times by **40%**, demonstrating effectiveness in interaction with end-users.\nProduced clear and comprehensive **Technical Documentation** for system architectures and APIs, facilitating better understanding and usage for both internal teams and external clients.\nCollaborated closely with sales and customer support teams to optimize product features based on client feedback, successfully driving customer satisfaction metrics by **30%**.\nCommunicated complex technical concepts effectively to both technical and non-technical stakeholders, ensuring alignment and understanding across project teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed robust APIs to facilitate seamless communication between microservices, leveraging **FastAPI** and **Django** for backend services in a high-traffic global e-commerce platform.\n• Deployed scalable solutions using **Docker** and **Kubernetes**, ensuring efficient management of containers and orchestration for continuous integration and delivery (CI/CD) processes.\n• Engaged in client-facing **customer support** roles while troubleshooting issues related to **AI**-driven features, maintaining high satisfaction rates.\n• Documented technical specifications and development processes, creating comprehensive **technical documentation** for both internal teams and clients to streamline onboarding and knowledge sharing.\n• Integrated cloud services for enhanced data storage and processing capabilities, ensuring the application architecture is optimized for **cloud** deployment environments.\n• Collaborated with cross-functional teams to implement **AI** and **LLM** technologies, driving improvements in application functionalities and user engagement, impacting **15%** increase in conversion rates.\n• Managed open-source projects that contributed to enhancing system capabilities and facilitating community engagement and support.\n• Ensured effective communication throughout projects, employing agile methodologies to align stakeholders and successfully deliver **5+** major releases per year.\n• Provided comprehensive **customer support**, leading to a **10%** improvement in user retention through proactive engagement and troubleshooting of e-commerce functionalities.\n• Emphasized integration of **CI/CD** practices to streamline deployment workflows, reducing deployment times by over **30%** and minimizing downtime during updates."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tCloud\n\n**Other:**\n\tAI, MLflow, Airflow, Kubeflow, LLM, OpenSource, TechnicalDocumentation, CustomerSupport, Sales, Communication, Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot)",
+  "apply_company": "Kong Inc."
+}

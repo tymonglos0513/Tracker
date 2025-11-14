@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Fullstack Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Fullstack Engineer with 10+ years of experience in creating high-performance software solutions in healthcare and finance. Expertise in **Ruby**, **Rails**, and **Vue.js**, complemented by an extensive background in full-stack development using **JavaScript/TypeScript**, **Python**, **React**, **Next.js**, **Node.js**, **FastAPI**, and **Django**. Proficient in database management with **PostgreSQL** and implementing robust security frameworks like **RBAC** and **ABAC**. Experienced in designing and building distributed systems that utilize caching strategies and ensure service-to-service communication within a zero-trust architecture.\n\nStrong abilities in agile methodologies and collaboration, enabling efficient team dynamics and project delivery. Proven track record in leading the development of enterprise platforms with AI/ML capabilities for analytics and automation, while ensuring compliance with standards such as HIPAA and PCI DSS. Possesses practical knowledge in MLOps using tools like MLflow, Airflow, and Kubeflow, and is passionate about driving real-world impact through technically sound and secure solutions.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Fullstack Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained scalable, full-stack applications using **Ruby on Rails** and **Vue.js**, ensuring agile methodologies and collaboration among cross-functional teams.\n• Implemented Role-Based Access Control (RBAC) and Attribute-Based Access Control (ABAC) strategies to enhance security for user authentication and authorization in distributed systems.\n• Designed and optimized caching strategies to improve application performance and reduce latency, successfully achieving a **30% reduction** in response time for user requests.\n• Built service-to-service communication layers that adhere to zero-trust principles, ensuring enhanced security and integrity of inter-service interactions.\n• Leveraged **PostgreSQL** for data management and optimized database schemas for efficient data storage, retrieval, and querying, handling over **1 million** records seamlessly.\n• Collaborated on threat modeling exercises to identify potential vulnerabilities and implement mitigation strategies, fostering a culture of security-first development.\n• Participated in code reviews and contributed to the design of CI/CD pipelines, pushing for continuous integration and delivery of high-quality software products.\n• Led team efforts using **Cedar** and **Rego** to enforce policy-based management, improving compliance and access governance across applications.\n• Engaged in agile rituals, including sprint planning, daily stand-ups, and retrospectives, to enhance project efficiency and team cohesion."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Enhanced financial platforms by adopting **RBAC** and **ABAC** strategies to implement fine-grained access control and improve security in vulnerable areas.\n• Developed scalable applications using **Ruby on Rails**, contributing to the modernization efforts that improved maintenability and throughput for high-volume transaction systems.\n• Built responsive front-end applications with **Vue.js** (version 3), utilizing caching strategies to enhance performance and user experience for financial dashboards and admin portals.\n• Designed and implemented distributed systems for transaction monitoring and analytics, integrating **PostgreSQL** for data storage and retrieval to support high transaction volumes.\n• Collaborated in an **agile** environment to foster communication and streamline project tasks, improving project delivery timelines by **30%**.\n• Conducted **threat modeling** sessions to identify vulnerabilities, enhancing the robustness of the architecture and enforcing a **zero-trust** security model throughout the development lifecycle.\n• Improved service-to-service communication using **Cedar** policies, ensuring secure and efficient interaction among microservices in the environment.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Developed and optimized web applications using **Ruby on Rails** and **Vue.js**, ensuring efficient service-to-service communication and enhanced performance across distributed systems.\nImplemented role-based access control (RBAC) and attribute-based access control (ABAC) strategies to provide a zero-trust security model, safeguarding user interactions and ensuring compliance with GDPR.\nEngineered robust caching strategies across the platform with **Redis** and **PostgreSQL**, significantly improving load times and data retrieval speeds by **30%**.\nFacilitated Agile methodologies within cross-functional teams to foster collaboration and drive efficient project delivery, achieving a **15%** increase in deployment frequency.\nPerformed extensive threat modeling to identify potential vulnerabilities, systematically strengthening the application architecture against security risks throughout the development lifecycle.\nDesigned and built responsive, mobile-first applications employing **Vue.js** and **HTML5/CSS3** with a strong focus on accessibility compliance (WCAG 2.1), enhancing user engagement metrics by **25%**.\nManaged deployment strategies utilizing **Cedar** for streamlined environments, supporting faster integration and continuous delivery workflows.\nOptimized backend services to ensure high availability and scalability, addressing real-time data requests and supporting up to **10,000** concurrent users without degradation of performance.\nConducted code reviews and provided mentorship within the engineering team, fostering an environment of knowledge sharing and continuous improvement."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, JavaScript, TypeScript, Ruby\n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django, Rails\n\n **Frontend Frameworks:** \n\tReact, Vue, Angular, Vue.js\n\n **API Technologies:** \n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:** \n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:** \n\tAWS, Azure, Infrastructure as Code, CI/CD\n\n **Other:** \n\tArtificial Intelligence & Machine Learning (MLflow, Airflow, Kubeflow), distributed systems, caching strategies, service-to-service communication, zero-trust, threat modeling, agile, collaboration",
+  "apply_company": "GitLab"
+}

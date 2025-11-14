@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Software Engineer with over 10 years of experience delivering high-performance software solutions, proficient in **Ruby**, **TypeScript**, **Rails**, and **React**. Experienced in leveraging cloud technologies like **AWS CDK** and containerization with **Docker** to build and deploy scalable applications. Strong expertise in database management utilizing **Postgres** and **Redis** for optimized data handling and performance. Proven ability to lead the development of applications that integrate AI and ML for enhanced analytics and decision-making. Also skilled in full-stack development with hands-on experience in frameworks such as **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Demonstrates a strong background in building secure and maintainable solutions adhering to compliance standards like HIPAA, FHIR, PCI DSS, and SOC 2. Committed to driving real-world impact with technology and passionate about advancing system efficiency through innovative solutions.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tUtilized **TypeScript** and **Ruby on Rails** to design and implement scalable, full-stack solutions, ensuring adherence to regulatory standards, which resulted in a 20% increase in compliance efficiency for healthcare applications.\n•\tLeveraged **React** (17–18) to build dynamic user interfaces, enhancing user engagement by 30% across web applications in the healthcare and finance sectors.\n•\tDeveloped and maintained cloud-native databases using **Postgres** and **Redis** to optimize data querying speeds by 40%, supporting large-scale data ingestion for healthcare services.\n•\tImplemented containerization and orchestration using **Docker**, enhancing deployment processes leading to a 50% reduction in application launch times.\n•\tCreated and integrated enterprise-level CI/CD pipelines with **AWS CDK** and GitHub Actions, resulting in a deployment frequency increase of 3 times per week compared to previous bi-weekly deployments.\n•\tDesigned complex financial data visualization tools using frameworks such as **D3.js** and Chart.js, allowing for real-time insights into key performance indicators that improved decision-making speed by 25%.\n•\tCollaborated with data scientists to implement machine learning models for real-time applications, embedding them within services and reducing operational errors by 15%.\n•\tEstablished robust testing strategies using Jest and PyTest, achieving 95% code coverage, ensuring the reliability of service delivery across both frontend and backend applications.\n•\tIntegrated advanced search functionalities into applications utilizing **ElasticSearch**, enabling users to efficiently access structured and unstructured data within milliseconds across millions of records.\n•\tEngaged in architecture discussions focused on transforming legacy systems into microservices, facilitating seamless integration and reducing system downtime by 30%."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Ruby on Rails** and **TypeScript** to develop and maintain robust back-end systems, ensuring high performance and responsiveness for financial applications handling **over 10,000** transactions daily.\nDesigned and implemented scalable microservices leveraging **React (18)** for dynamic front-end interfaces, achieving improved user experience and reducing load times by **30%**.\nManaged efficient data storage and retrieval processes with **Postgres** and **Redis**, enhancing data accessibility for real-time analytics.\nCreated and deployed containerized applications using **Docker** on **AWS CDK**, streamlining operations and optimizing resource usage in cloud environments.\nCollaborated with cross-functional teams to ensure best practices in code quality and versioning, adhering to Agile methodologies and deploying applications in increments every **2 weeks**.\nEngaged in code reviews and mentoring sessions to enhance team skills and knowledge sharing in software development best practices."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Ruby on Rails** for backend development, ensuring robust and scalable service architecture for application modules.\nEmployed **TypeScript** for building strong-typed applications that enhanced code quality and modularity, improving maintainability across projects.\nDeveloped interactive frontend components using **React (18)**, delivering optimized user interfaces that improved overall user engagement by **25%**.\nManaged and optimized database performance on **Postgres**, implementing complex queries and utilizing indexing strategies resulting in a **30%** improvement in response times.\nImplemented effective caching strategies with **Redis**, which reduced database load and improved application response times by **40%** for high-traffic scenarios.\nLeveraged **AWS CDK** for infrastructure as code, automating the deployment of cloud resources and scaling applications efficiently based on demand.\nContainerized applications using **Docker** to ensure consistent deployments across different environments, improving deployment speed by **50%**.\nCollaborated in an Agile environment, delivering features on schedule with a focus on unit testing and code reviews, achieving a **95% code coverage** on critical modules.\nExecuted CI/CD pipelines, enhancing deployment frequency while maintaining a high level of system stability, leading to a **20% reduction** in production incidents.\n"
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, Ruby, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Rails\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS CDK, Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Certbot"
+}

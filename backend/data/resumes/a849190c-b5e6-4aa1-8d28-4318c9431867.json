@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Python Developer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Python Developer with 10+ years of experience in building high-performance microservices solutions and expertise in **Python**. Skilled in deploying containerized applications using **Docker** and **Kubernetes**, ensuring seamless orchestration and scalability. Proficient in implementing continuous integration and delivery (CI/CD) automation with **Jenkins**, alongside monitoring capabilities with **Prometheus**. Extensive knowledge in designing and utilizing **APIs** for enhanced interoperability and performance in enterprise applications.\nExperienced in leveraging **RabbitMQ** for effective messaging and service orchestration, ensuring reliable communication between microservices. Strong understanding of relational databases, enabling efficient data management for complex applications. Additionally brings a robust foundation in cloud-native development across Azure and AWS, with a focus on secure, maintainable solutions compliant with industry standards. Passionate about creating impactful software in healthcare and finance while integrating emerging technologies.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Python Developer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable microservices architecture using **Python** and **Docker**, ensuring high availability and fault tolerance through **Kubernetes** deployment strategies.\n• Developed and maintained robust APIs adhering to best practices, facilitating seamless integration of various services in a distributed environment.\n• Utilized **Prometheus** for monitoring and alerting, ensuring optimal performance and reliability of deployed applications.\n• Integrated messaging solutions with **RabbitMQ** to enhance communication between microservices, supporting asynchronous processing of tasks.\n• Managed relational databases with a focus on transaction integrity and performance tuning, optimizing SQL queries to handle large datasets efficiently.\n• Led the re-architecture of existing monolithic applications to modern **microservices**-based environments, reducing system dependencies and improving scalability.\n• Collaborated closely with cross-functional teams to streamline CI/CD processes using **Jenkins**, enhancing deployment speeds and reducing downtime.\n• Instituted comprehensive test strategies incorporating unit, integration, and end-to-end testing to ensure code quality and application reliability across the development lifecycle.\n• Leveraged infrastructure as code principles to automate resource management and deployment processes, enhancing operational efficiency and repeatability in cloud environments.\n• Delivered high-quality documentation and contributed to project knowledge bases, improving team collaboration and onboarding processes."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to develop scalable and maintainable financial applications within a **Microservices** architecture, improving transaction processing performance by **25%**.\nImplemented containerization using **Docker** and orchestrated microservices with **Kubernetes** to streamline deployment and management of applications across environments, reducing setup time by **40%**.\nLeveraged **APIs** to enhance integration with third-party services and internal systems, ensuring seamless communication and data flow between services.\nIntegrated **RabbitMQ** for messaging within the event-driven architecture, enabling efficient handling of asynchronous transactions and alerts.\nCollaborated with cross-functional teams to design and implement **relational databases** that support high-volume transaction systems, ensuring data integrity and availability.\nAutomated build and deployment processes using **Jenkins**, facilitating continuous integration and continuous deployment (CI/CD) workflows that increased deployment frequency by **30%**.\nMonitored application performance and reliability with **Prometheus**, setting up alerting systems that proactively addressed issues before impacting user experience.\nParticipated in code reviews and contributed to documentation, increasing code quality and team knowledge sharing while adhering to best practices in software development."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Developed and maintained microservices architecture using **Python** (FastAPI, Django) with a focus on scalability and maintainability.\nImplemented CI/CD pipelines leveraging **Jenkins** and **Docker**, resulting in a deployment frequency improvement of over **40%**.\nUtilized **Kubernetes** for orchestration and management of containerized applications, achieving high availability across **99%** of services during peak traffic periods.\nCreated robust APIs to facilitate communication between microservices, enhancing system integration and interoperability.\nMonitored system health and performance using **Prometheus** and **RabbitMQ**, ensuring efficient message brokering and fault tolerance in real-time applications.\nDesigned and optimized relational databases, ensuring efficient data handling and architecture for high volume transactions, which supported millions of active users concurrently.\nMaintained comprehensive documentation of services and their interactions, increasing development team efficiency by **25%** in onboarding and feature rollout.\nEnsured compliance with industry standards and security protocols to protect user data and optimize application performance."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Microservices\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\tAPIs\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Relational Databases\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Prometheus, Consul, RabbitMQ\n\n **Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience in delivering high-performance applications across various industries, including healthcare and finance. Proficient in **C/C++**, **Python**, and **Golang**, with a strong focus on developing microservices and implementing **CI/CD** pipelines. Hands-on expertise in **Linux** environments and network protocols like **IPSec**. Skilled in deploying cloud-native solutions on **AWS**, **Azure**, and **GCP**, ensuring robust **Network Segmentation** and leveraging **Terraform** for infrastructure management. \n\nAdept in using modern development practices such as **Containers** and event-driven architectures, alongside a solid foundation in **Software Debugging** and **Multithreading**. Experienced in building AI/ML platforms utilizing technologies like **FastAPI** and **Django**, align solutions with compliance standards including HIPAA and FHIR. Strong background in MLOps, particularly in model training and orchestration using tools such as **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Golang** for developing high-performance solutions, ensuring scalability and efficiency across distributed systems for microservices architecture.\nImplemented robust **CI/CD** pipelines incorporating **Terraform** to automate deployment processes, significantly reducing deployment time by **40%**.\nDesigned and optimized **Linux** environments for application deployment and performance, successfully enhancing application response times by **30%** through advanced debugging techniques.\nLeveraged **AWS**, **Azure**, and **GCP** cloud services to deploy applications in a highly available and elastic manner, maintaining uptime above **99.9%**.\nEngineered network segmentation strategies and implemented **IPSec** for secure communications across microservices, ensuring compliance with security best practices.\nDeveloped containerized applications using **Docker** and Kubernetes, improving resource utilization and deployment consistency across multiple environments.\nApplied **multithreading** techniques to improve the performance of concurrent applications, facilitating faster data processing and reducing latency in high-load scenarios.\nCollaborated with cross-functional teams to optimize **networking** components, enhancing data transmission efficiency by implementing advanced networking strategies.\nExecuted thorough software debugging practices to identify and resolve issues, improving overall application stability and performance.\nPlayed a key role in transforming legacy applications into modern microservices utilizing **DPDK** for performance-critical components."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Golang** to develop scalable microservices, contributing to enhanced performance and modularity in financial systems.\nImplemented CI/CD practices to automate deployment processes, achieving a 30% reduction in deployment times and increasing release frequency to bi-weekly.\nManaged containers using **Docker** and **Kubernetes**, facilitating consistent development environments and simplifying deployment in cloud infrastructures such as **AWS**, **Azure**, and **GCP**.\nDesigned robust network segmentation solutions to secure microservices, improving overall system resilience and safeguarding sensitive financial data.\nLeveraged **Terraform** for infrastructure as code, streamlining the provisioning and management of cloud resources across multiple environments.\nConducted thorough software debugging and performance optimization, ensuring the reliability and efficiency of high-performing applications used in finance.\nDeveloped multithreaded applications to handle concurrent processing of transactions, improving throughput by 25%.\nUtilized **DPDK** for high-speed packet processing, enhancing networking capabilities and reducing latency in data communications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **C/C++** and **Golang** for designing efficient microservices architecture, enhancing system performance and scalability, and ensuring robust backend support for high-demand applications.\nDesigned and implemented CI/CD pipelines leveraging **Terraform**, ensuring streamlined deployment processes and reducing delivery time by up to **30%**.\nBuilt secure and optimized software in **Linux** environments, maintaining a focus on networking protocols and **IPSec** for secure data transmission.\nDeveloped containerized applications using **Docker** and orchestrated them with **Kubernetes**, leading to improved resource management and reduced downtime by **20%**.\nPerformed effective software debugging and performance optimization, leading to a reduction in critical bugs by **25%** while enhancing system stability.\nExecuted network segmentation strategies to enhance security and data integrity across distributed systems, achieving compliance with industry standards.\nImplemented multithreading in high-performance data processing tasks, improving throughput by **40%** and enabling efficient parallel execution.\nLeveraged cloud services such as **AWS**, **Azure**, and **GCP** to design and deploy scalable infrastructures that support diverse application environments and ensure high availability.\nCollaborated with cross-functional teams to drive project timelines and deliver against aggressive goals, leveraging agile methodologies to track progress and ensure quality outcomes."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, C/C++, Golang\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tOAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, GCP\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, DPDK, Linux, Network Segmentation, Microservices, Containers, CI/CD, Software Debugging, Multithreading, Networking, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "Arista Networks"
+}

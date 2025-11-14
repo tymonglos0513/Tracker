@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior ML Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior ML Engineer with over 10 years of experience in developing and optimizing machine learning pipelines and backend systems. Proficient in **Python**, with hands-on expertise in **AWS**, **Azure**, **GCP**, and containerization technologies like **Docker** and **Kubernetes**. Skilled in automation and infrastructure as code using **Terraform** and **CDK**, enhancing scalability and efficiency. Experienced in deploying AI/ML models with a focus on **ML**, **NLP**, **GenAI**, and **LLM** techniques tailored for high-performance applications. Strong background in creating robust APIs and services with frameworks such as **FastAPI**, **Django**, and **Flask**. Proven success in delivering impactful projects for leading organizations including VISA, Sii Poland, and Reply Polska, utilizing expertise in **SQL**, **Github**, and the **Elastic Stack**.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to engineer backend services for streamlined document automation, enhancing user onboarding by **30%**.\nImplemented event-driven architectures using **Celery** and **Redis** for managing asynchronous processing of over **1,000** financial transaction requests daily.\nDeployed and managed microservices on **Azure App Services** with **Terraform** to ensure scalable and efficient cloud operations, achieving a **99.9% uptime**.\nDesigned and maintained data pipelines for regulatory compliance using **Apache Airflow** and **Azure Functions**, facilitating timely data exchange with an average latency of less than **5 seconds**.\nConducted security assessments and integrated **OAuth2** along with **Azure AD B2C** to develop robust, secure authentication systems serving over **10,000** users.\nCollaborated with diverse teams to resolve system integration issues, ensuring compliance and effective release strategies, resulting in a **25%** reduction in deployment times."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes.\n• Engineered event-driven microservices using **Celery** and **Redis** for asynchronous processing of financial data and transaction requests, improving transaction handling speed by **25%**.\n• Managed the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation, ensuring a consistent and scalable environment for over **100** applications.\n• Engineered data pipelines for the secure exchange of regulatory data, employing **Apache Airflow** and **Azure Functions** to automate data flow, achieving an increase in efficiency by **30%**.\n• Conducted security audits and ensured compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for authentication management, securing access for **over 10,000** users.\n• Collaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management, leading to a **15%** reduction in deployment times."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** to develop robust backend services for trade execution, portfolio management, and account tracking, enhancing trading operations.\nLeveraged **AWS** and **GCP** for cloud infrastructure and deployment, ensuring high availability and scalability for all services.\nEngineered real-time price feed processors using asyncio, WebSockets, and **Redis** to deliver up-to-the-minute trading data for high-frequency transactions, processing over **5,000** messages per second.\nCollaborated with frontend teams to provide seamless data access through REST APIs and WebSocket channels, maximizing user interaction with the platform.\nEnsured compliance with regulatory requirements such as MiFID II and GDPR while implementing internal data security protocols to safeguard user information.\nImplemented comprehensive test suites using **PyTest**, contributing to a **30%** reduction in bug incidents and streamlining QA and CI processes for efficient development cycles.\nIntroduced job queuing and scheduling solutions using **Celery** and **RabbitMQ**, improving backend task execution efficiency by **25%**.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration, managing deployment of **20+** microservices across cloud platforms.\nEmployed **SQL** for database management with **PostgreSQL**, optimizing query performance to handle a substantial volume of transactions efficiently."
+    }
+  ],
+  "skills": "  **Programming Languages**\n\tPython, SQL\n\n  **Cloud & Infrastructure**\n\tAWS, GCP, Azure, Docker, Kubernetes, Terraform, CDK\n\n  **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n  **AI/ML Tools**\n\tPandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, ML, NLP, GenAI, LLM\n\n  **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n  **API Technologies**\n\tREST/gRPC APIs, Microservices, Kafka\n\n  **DevOps**\n\tGitHub Actions, Azure DevOps, CI/CD, PyTest, Git\n\n  **Other**\n\tElastic Stack",
+  "apply_company": "sevdesk"
+}

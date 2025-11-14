@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Solutions Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Solutions Engineer with over 10 years of expertise in backend system design and delivery, specializing in data management and architecture. Proficient in **Snowflake**, **Teradata**, **Spark**, **Databricks**, and **Hadoop** for robust data solutions, alongside top-tier tools including **Python**, **DBT**, **Talend**, and **Informatica**. Experienced in implementing **Data Mesh**, **Data Vault**, **Data Lake**, and **Data Warehouse** architectures while ensuring **Data Governance** and **Security**. Skilled in cloud environments like **AWS** and **Azure**, and well-versed in **IaaS** and **PaaS** services. Proven ability to develop high-performance solutions in enterprise environments, with a track record of success at organizations such as VISA, Sii Poland, and Reply Polska. Adept at using advanced analytics for improved decision-making, leveraging techniques such as time series analysis, linear regression, classification, and clustering.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Solutions Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered backend services in **Python** using **FastAPI** to streamline document automation, user onboarding, and reporting workflows.\n\n- Developed event-driven solutions leveraging **Celery** and **Redis** to manage asynchronous processing for financial transaction requests, handling **over 1,000** transactions per minute.\n- Deployed microservices on **Azure App Services** and utilized **Terraform** to manage infrastructure as code, ensuring seamless cloud operations with a **99.9% uptime**.\n- Created and maintained data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, ensuring timely and accurate data flow with **95%** on-time data delivery.\n- Led security assessments and integrated **OAuth2** and **Azure AD B2C** for secure, scalable authentication systems, achieving compliance with **ISO 27001** standards.\n- Collaborated with cross-functional teams to address system integration challenges, ensure compliance, and oversee release strategies, improving deployment frequency by **30%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Designed and implemented scalable data management strategies using **Snowflake**, **Teradata**, and **SQL Server** to enhance data governance and management capabilities across enterprise architecture.\n• Developed advanced data integration solutions utilizing **Apache Spark**, **Databricks**, and **Hadoop** for efficient data processing and analytics across large datasets, achieving a **30%** reduction in data processing time.\n• Engineered cloud-based data solutions deploying on **Azure** and **AWS**, leveraging IaaS and PaaS to enable scalable infrastructure and improve disaster recovery capabilities by **40%**.\n• Created data pipelines for data lakes and warehouses using **Apache Airflow** and **DBT**, ensuring a reliable and streamlined flow of data with adherence to **Data Vault** and **Medallion architecture** principles.\n• Implemented robust security measures including **encryption**, **OAuth2**, and **Identity and Access Management** protocols to comply with industry standards and protect sensitive data, achieving a **100%** pass rate on security audits.\n• Utilized **Python** in conjunction with frameworks like **FastAPI** for developing backend systems that automate workflows and optimize data processing.\n• Collaborated with cross-functional teams to ensure successful system integration and maintain compliance with regulatory requirements throughout the deployment cycle, impacting **5** major projects.\n• Conducted data analysis and visualization using tools like **Tableau** and **PowerBI**, effectively communicating insights to stakeholders, which helped drive strategic decision-making."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Leveraged **AWS** and **Azure** services to architect data management solutions ensuring optimal **Data Governance** and compliance with industry standards across projects.\nUtilized **Snowflake** and **Teradata** for robust **Data Warehousing** strategies handling over **5TB** of data and supporting **10+** concurrent users for seamless analytics.\nImplemented data orchestration frameworks using **Apache Spark** and **Databricks**, optimizing ETL processes which improved data processing time by **30%**.\nDesigned and developed scalable **Data Lake** architectures, integrating **Hadoop** and **AWS** technologies to facilitate data storage and retrieval.\nConducted detailed data analysis using **Advanced SQL** techniques and performance tuning that reduced query execution time by **50%**.\nCollaborated with cross-functional teams to integrate advanced analytics tools such as **Tableau** and **PowerBI**, enhancing data visualization and reporting capabilities.\nExecuted data models based on **Kimball** and **Medallion architecture** methodologies, facilitating efficient data retrieval and analysis.\nEstablished strong security protocols using **Identity and Access Management** and **Encryption** strategies to protect sensitive information across platforms.\nEmployed **Python** alongside **DBT** and **Talend** for automation and data manipulation, improving project delivery timelines by **25%**.\nFostered a collaborative environment for continuous improvement through **DevOps** practices, significantly enhancing deployment cycles."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\tStreamlit\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, Docker, Kubernetes\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, Snowflake, Teradata, Oracle, SQL Server\n\n**DevOps**\n\tGitHub Actions, Azure DevOps, CI/CD, DevOps\n\n**Cloud & Infrastructure**\n\tIaaS, PaaS, Networking, Security, Encryption, Identity and Access Management, Disaster Recovery\n\n**Other**\n\tData Mesh, Data Vault, Data Fabric, Data Governance, Data Management, Enterprise Architecture, Data Lake, Data Warehouse, Medallion architecture, Kimball, 3NF, DBT, Talend, Informatica, Snowpark, PySpark, DataFrames, Parquet, Avro, Apache Iceberg, Delta Lake, Orchestration, Tableau, PowerBI, MicroStrategy, Thoughtspot, SAS, time series analysis, Advanced SQL, linear regression, variance analysis, modeling, forecasting, classification, regression, clustering, dimensionality reduction, Natural Language Processing, Language Models",
+  "apply_company": "Snowflake"
+}

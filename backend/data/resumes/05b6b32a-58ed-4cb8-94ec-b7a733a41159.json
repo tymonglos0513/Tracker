@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Machine Learning Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "As a skilled Machine Learning Engineer with 8+ years of experience, I possess a strong foundation in **Python** and expertise in **Machine Learning** technologies, including **PyTorch**, **TensorFlow**, and **MLOps**. I have a proven track record in delivering efficient and scalable solutions by leveraging **Kubernetes**, **Docker**, and **CI/CD** practices to optimize deployment processes. My experience with **Streaming-Analytics**, **GPU-Infrastructure**, and implementing **API-based ML-Services** enables me to create robust machine learning pipelines. Additionally, I am proficient in utilizing databases like **pgvector** and **Milvus** for enhancing performance, and implementing performance optimization strategies. My technical background is complemented by my ability to design high-performance applications across e-commerce, finance, and healthcare, focusing on modern practices and aligning solutions with business goals.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Machine Learning Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "Utilized **Python** to develop and deploy machine learning models and APIs, integrating **PyTorch** and **TensorFlow** for scalable inference, focusing on high-performance applications in medical data.\nDesigned and orchestrated applications using **Kubernetes** and **Docker**, ensuring autoscaling capabilities and efficient resource management across a hybrid cloud environment.\nImplemented CI/CD pipelines for continuous integration and delivery of machine learning services, leveraging tools like **GitHub Actions** and **Azure DevOps** to streamline the development workflow and reduce delivery times by **30%**.\nMaintained and optimized high-performance **GPU Infrastructure** for intensive computation tasks, enhancing model training times and boosting operational efficiencies.\nDeveloped and implemented performance optimization strategies for machine learning workflows, achieving a **25%** reduction in computation time and improving user engagement metrics.\nArchitected and deployed scalable **API-based ML-Services** using **Python**, enabling seamless integration with healthcare applications, thus supporting real-time data analysis and predictions.\nLed the integration of **MLflow** for tracking experiments and managing machine learning lifecycle processes, improving model monitoring and evaluation efficiency by **40%**.\nPioneered RAG (Retrieval-Augmented Generation) techniques to enhance model accuracy, effectively leveraging **pgvector** and **Milvus** for advanced similarity searches in medical datasets.\nEngaged in continuous learning and implementation of emerging techniques in **Machine Learning** and **MLOps**, ensuring the adoption of best practices to stay ahead in healthcare analytics.\nMentored junior engineers in implementing **Streaming-Analytics** solutions, providing guidance on **Speech Recognition** and **Video-Analytics** enhancements for better patient interaction experiences.\nCollaborated cross-functionally to establish robust ML workflows, ensuring alignment with data governance and compliance requirements across various healthcare standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained **Python**-based ML services and integrated them with **Kubernetes** for handling deployment and **autoscaling** capabilities.\n• Leveraged **Docker** for containerization of machine learning models, streamlining the development and deployment process, enhancing performance optimization by **30%**.\n• Created and optimized APIs for **TensorFlow** and **PyTorch** models, ensuring robust data pipelines for real-time machine learning predictions.\n• Implemented CI/CD pipelines using **MLflow** for automated model training, testing, and deployment phases, achieving a **40%** reduction in deployment time.\n• Designed, trained, and deployed machine learning models using **RAG**, **pgvector**, and **Milvus** for effective streaming and data retrieval.\n• Collaborated closely with cross-functional teams to integrate **streaming analytics** into existing infrastructure, significantly improving response times during peak loads by **25%**.\n• Developed video and speech recognition applications with high accuracy rates using **CUDA** to leverage GPU infrastructure, achieving processing speeds of **up to 60 fps**.\n• Continuously analyzed performance metrics and made extensive updates to **API-based ML services**, ensuring seamless operation and user satisfaction.\n• Built real-time dashboards using **Python** and integrated visualization tools to streamline data insights and model performance tracking.\n• Applied machine learning algorithms to enhance customer targeting through behavior analysis, resulting in an incremental revenue increase of **15%**.\n• Utilized **Kubernetes** for managing machine learning workloads effectively, ensuring high availability and streamlined resource allocation across multiple clusters.\n• Engaged in performance tuning and optimization for **ML models**, leading to improvements in inference time by more than **20%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Leveraged **Python** to develop and optimize machine learning models and services, employing frameworks such as **PyTorch** and **TensorFlow** for enhanced predictive performance and accuracy.\nImplemented **MLOps** practices to streamline model deployment and monitoring in production environments, ensuring robust and scalable AI solutions.\nEmployed **Docker** containers for consistent development and deployment of machine learning applications, improving operational efficiency across various environments.\nUtilized **Kubernetes** for orchestrating containerized applications to enable **autoscaling** and efficient resource management, supporting up to **1000+** concurrent predictions.\nDeveloped and maintained **API-based ML-Services**, ensuring seamless integration between machine learning models and application interfaces, enhancing user experience through real-time solutions.\nEnhanced systems with **performance optimization** techniques, reducing processing times for model inference by over **30%**.\nLeveraged **CUDA** for GPU-accelerated computations, achieving significant speed improvements in training deep learning models.\nUtilized **pgvector** for managing vector embeddings and accelerating similarity searches in machine learning pipelines.\nIntegrated **MLflow** for comprehensive experiment tracking and model versioning, facilitating collaboration across data science teams.\nDesigned and implemented **streaming-analytics** solutions for processing real-time data streams, improving responsiveness and decision-making for business operations.\nExplored **RAG** strategies for managing retrieval-augmented generation tasks effectively, optimizing content delivery and user engagement.\nCollaborated with cross-functional teams to ensure alignment of AI solutions with business goals, delivering effective applications that serve over **2000+** end-users.\nConducted performance benchmarking of models using metrics and tools such as **TensorBoard**, ensuring high-quality deliverables in line with organizational standards."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, PyTorch, TensorFlow, Machine Learning, MLOps, CUDA\n\n**Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot, Celery, Triton Inference Server, TorchServe, RAG, API-based ML-Services\n\n**Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n**API Technologies:**\n\tREST & gRPC APIs\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, pgvector, Milvus\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Performance Optimization, Autoscaling\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL)\n\n**Other:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Video-Analytics, Speech Recognition, MLflow, Streaming-Analytics, GPU-Infrastructure"
+}

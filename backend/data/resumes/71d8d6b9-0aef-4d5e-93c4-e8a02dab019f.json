@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior DevOps Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior DevOps Engineer with 10+ years of experience in delivering high-performance software solutions and adept at managing cloud infrastructure and automation. Proficient in **GCP**, **Kubernetes**, **Docker**, **Terraform**, **Jenkins**, **Bash**, and **Python**, specializing in CI/CD processes, incident management, and monitoring with tools like **Grafana** and **Google Cloud Monitoring**. Experienced in deploying applications on cloud-native platforms and skilled in database technologies including **PostgreSQL**, **Mongo**, and **Redis**. \nA strong advocate of Agile methodologies, with a proven track record of driving high-impact projects that enhance operational efficiencies and reliability in dynamic environments. Previously led initiatives that integrated best practices in DevOps and established automation frameworks to optimize deployment pipelines and ensure compliance with industry standards. Passionate about leveraging technology to create systems that deliver measurable business value.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Implemented enterprise-level DevOps pipelines using **Jenkins**, **GitHub Actions**, and **Azure DevOps**, ensuring efficient CI/CD across multiple environments while incorporating security scans and automated testing.\n• Managed containerized applications by utilizing **Docker** and **Kubernetes** to orchestrate scalable deployments, enhancing system reliability and performance.\n• Designed and optimized cloud infrastructure on **GCP** leveraging **Terraform** for infrastructure as code, facilitating seamless resource provisioning and management.\n• Developed and maintained monitoring and logging solutions with **Google Cloud Monitoring** and **Grafana**, ensuring high visibility into application performance and system health across **Kubernetes** clusters.\n• Collaborated with cross-functional teams in an **Agile** environment to drive incident management processes, significantly reducing downtime and improving system resiliency.\n• Conducted regular audits of database solutions utilizing **PostgreSQL**, **Mongo**, and **Redis** to identify performance enhancements and optimize data querying for business-critical applications, serving over **10,000** concurrent users.\n• Implemented automated backups and recovery plans for databases, enhancing data integrity and availability by **99.9%** uptime.\n• Utilized **Bash** scripting to automate routine tasks, reducing manual effort and increasing operational efficiency by **30%**.\n• Led the adoption of Infrastructure as Code (IaC) principles using **Terraform**, improving deployment speed by **40%** and reducing configuration drift across environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **GCP** and **Kubernetes** to deploy and manage containerized applications, ensuring CI/CD pipelines for efficient code delivery using **Jenkins** and **Terraform**, achieving a deployment frequency of **20+ times a week**.\nImplemented orchestration and provisioning of containerized applications via **Docker**, enhancing development productivity and system reliability.\nDeveloped and maintained automated scripts using **Bash** for system monitoring and incident management, significantly reducing downtime by **30%**.\nIntegrated **Grafana** and **Google Cloud Monitoring** to establish comprehensive monitoring systems, enabling real-time performance tracking and incident response for multiple environments, effectively managing over **50 applications**.\nOptimized databases using **PostgreSQL** and **MongoDB** for improved data retrieval and storage efficiency, resulting in a **40% decrease** in query response times.\nEnhanced caching strategies using **Redis** to boost application performance, leading to an **average load time improvement of 25%** across services.\nCollaborated in an **Agile** environment to foster continuous improvement and swift incident resolution, contributing to a team that managed the operations of high-impact applications seamlessly.\nLed the creation of incident management workflows to quickly address and resolve critical issues, maintaining excellent service availability and user satisfaction."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Implemented and optimized CI/CD pipelines using **Jenkins** and **Docker**, enhancing deployment speed by **40%** and ensuring consistent build environments.\nManaged infrastructure as code with **Terraform**, provisioning and maintaining scalable cloud resources on **GCP** to support a global e-commerce platform.\nUtilized **Kubernetes** for orchestration, ensuring high availability and efficient resource management for microservices deployed across **Google Cloud**.\nDeveloped automation scripts in **Bash** for system administration tasks, reducing manual intervention and improving operational efficiency by **25%**.\nMonitored system performance and availability with **Grafana** and **Google Cloud Monitoring**, achieving an incident resolution time under **5 minutes** through effective alerting strategies.\nFacilitated incident management processes, collaborating with cross-functional teams to troubleshoot and resolve issues, ensuring minimal downtime and optimal system performance.\nLeveraged **PostgreSQL**, **MongoDB**, and **Redis** for data management, implementing backup strategies that ensured data integrity and availability in case of failures.\nAdopted Agile methodologies to streamline development and operations, enhancing team collaboration and accelerating project delivery timelines.\nDesigned and enforced role-based access control (RBAC) policies, ensuring secure access to resources while maintaining compliance with GDPR regulations."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Bash\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript, TypeScript, React, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tGrafana, Google Cloud Monitoring, Ansible, Helm, Docker Compose\n\n **Other:**\n\tAgile, Incident Management, MLflow, Airflow, Kubeflow, Nginx, Certbot",
+  "apply_company": "Digital Science"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "AI Full-stack Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "AI Full-stack Engineer with 13+ years of experience delivering high-performance applications in healthcare and finance. Expert in **React.js**, **Node.js**, **Python**, **FastAPI**, **Django**, and **RESTful APIs**, demonstrating strong capabilities in both frontend and backend development. Proficient in AI/ML integration, leveraging cloud deployment strategies using **AWS**, **Azure**, and **GCP**. Experienced in deploying containerized applications with **Docker** and implementing robust development practices within Agile methodology.\nSuccessfully built AI/ML-powered platforms to drive predictive analytics and automation, while ensuring compliance with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Adept at conducting code reviews and maintaining clear communication within teams, fostering a collaborative work environment.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI Full-stack Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained full-stack applications utilizing **React.js**, **Node.js**, and **Python (FastAPI)**, ensuring seamless interaction between frontend and backend components.\n- Implemented **RESTful APIs** and integrated **AI/ML** functionalities into applications, enhancing user experience and operational efficiency in line with business objectives.\n- Deployed solutions using **Docker**, **AWS**, and **Azure**, achieving high availability and scalability while adhering to cloud deployment strategies.\n- Conducted thorough code reviews and collaborated in an **Agile methodology** environment to refine software development processes and ensure quality deliverables.\n- Designed and executed data pipelines and infrastructures employing databases such as PostgreSQL and MongoDB, effectively handling data ingestion and real-time analytics for applications.\n- Collaborated closely with data science teams to integrate **AI/ML** models into production systems using **Flask** and **Django**, enhancing functionality through features like predictive analytics and intelligent recommendations.\n- Created CI/CD workflows in **GitHub Actions** and **CircleCI**, optimizing deployment processes and enabling quick iterations for application updates.\n- Implemented security measures and followed compliance standards including GDPR and HIPAA in all aspects of system development, particularly in **web services** and data management.\n- Achieved a **30%** reduction in deployment times through the automation of testing and integration processes, consistently delivering robust and reliable applications.\n- Enhanced application performance by **optimizing** algorithms and utilizing data visualization libraries such as D3.js for insightful analytics, enabling stakeholders to make informed decisions.\n- Fostered clearer communication within teams, ensuring uniform understanding of project requirements and alignment with business goals, leading to a smoother project lifecycle."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **React.js** to build interactive and responsive front-end applications, incorporating **Redux Toolkit** and **Tailwind CSS** for enhanced user experience in financial tools and admin panels.\nDeveloped server-side applications using **Node.js** with **NestJS** and **Express**, as well as **Python** technologies like **FastAPI** and **Django**, implementing **RESTful APIs** to improve scalability and performance for systems handling over **10,000 transactions** per hour.\nEngaged in cloud deployment strategies using **AWS**, **Azure**, and **GCP**, optimizing deployment processes by integrating **Docker** for containerization, which reduced deployment times by **30%**.\nCreated and maintained event-driven architectures utilizing **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring reliable asynchronous communication across workflows essential for financial compliance and real-time alerts.\nDesigned ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory** for ingesting and processing financial data, handling both batch and real-time data with an on-time delivery rate of **95%**.\nImplemented machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, contributing to a **15%** reduction in fraudulent transactions through proactive detection based on user behavior patterns.\nConstructed ML pipelines for real-time projects such as credit scoring and churn prediction, utilizing **MLflow** and **Airflow** to seamlessly integrate model inference into existing backend services, increasing overall operational efficiency by **20%**.\nConducted peer code reviews and participated in an **Agile methodology** environment, fostering clear communication and collaborative efforts to enhance team productivity and project delivery."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained scalable and high-performing backend services using **Python** (FastAPI, Django) and **Node.js** (NestJS, Express), ensuring optimal responsiveness for over **1 million** monthly users.\n• Designed and implemented RESTful APIs and web services, effectively enhancing system integrations and supporting real-time data flow for e-commerce applications.\n• Integrated AI/ML solutions using **scikit-learn**, **LightGBM**, and **TensorFlow** to personalize user experiences and drive conversions, leading to a **15%** increase in sales through targeted recommendations.\n• Created responsive user interfaces with **React.js**, ensuring seamless experiences across different devices and achieving a **98%** mobile responsiveness score in user testing.\n• Leveraged cloud deployment strategies using **AWS** and **Azure**, optimizing backend services for **99.9% uptime** by utilizing effective deployment and scaling techniques.\n• Employed containerization with **Docker** to standardize development environments, enhancing team collaboration and reducing onboarding time by **40%**.\n• Conducted thorough code reviews to ensure code quality and adherence to best practices, fostering a culture of continuous improvement and professional development.\n• Participated in Agile methodology for project management, delivering features and updates in **2-week** sprint cycles, maintaining clear communication with cross-functional teams.\n• Managed data storage solutions using databases like **MongoDB**, **PostgreSQL**, and **Redis**, achieving improved data retrieval times and fault tolerance for high-traffic scenarios.\n• Championed mobile-first design principles while developing SEO-friendly e-commerce UI components, following accessibility compliance standards (WCAG 2.1).\n• Implemented robust security measures, including role-based access control (RBAC) and **OAuth 2.0**, ensuring compliance with GDPR and maintaining customer data integrity."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\tNode.js\n\n **Frontend Frameworks:**\n\tReact\n\tVue\n\tAngular\n\tReact.js\n\n **API Technologies:**\n\tRESTful APIs\n\tWeb services\n\n **Serverless and Cloud Functions:**\n\tAWS\n\tAzure\n\tGCP\n\n **Databases:**\n\tPostgreSQL\n\tMySQL\n\tMongoDB\n\tRedis\n\n **DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tCloud deployment strategies\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n **Other:**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tAI/ML integration\n\tCode reviews\n\tAgile methodology\n\tClear communication\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot\n"
+}

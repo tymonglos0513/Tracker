@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Solution Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Solution Engineer with 13+ years of experience in delivering high-performance applications across healthcare and financial sectors. Proficient in **Microservices**, **Micro-Frontend** architectures, and **DevOps** practices, including CI/CD using **GitLab CI** and **GitHub Copilot**. Skilled in **AWS** cloud deployment and utilizing messaging systems for scalable solutions. Experienced with **React**, **vite**, and **module federation** for building dynamic user interfaces.\nStrong expertise in backend technologies, including **Spring** and **Spring Boot**, with a focus on **Domain Driven Design** principles. Adept in applying AI technologies and MLOps strategies using **Amazon Q Developer**, **ChatGPT**, and orchestration tools like **MLflow** and **Airflow**. Familiar with monitoring and logging frameworks such as **EFK Stack**, **Prometheus**, **Kibana**, and **Grafana**. Committed to compliance-driven development adhering to HIPAA, FHIR, PCI DSS, and SOC 2 standards.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Solution Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and implemented **CI/CD** pipelines for automated deployments across various platforms using **GitHub Actions**, **GitLab CI**, and **CircleCI**, ensuring efficient delivery and high-quality code through robust test automation, linting, and security checks.\n- Designed and deployed microservice architectures using **Spring Boot** and **Microservices**, facilitating scalability and maintainability across applications with efficient resource utilization.\n- Leveraged **DevOps** practices to enhance collaboration and streamline workflows, utilizing tools like **Prometheus**, **Grafana**, and **Kibana** for monitoring and visualization of application performance and metrics.\n- Built responsive user interfaces using **React** with integration of **Micro-Frontend** architectures, enabling modular and independently deployable components while ensuring seamless user experiences.\n- Implemented **MLOps** workflows utilizing tools such as **MLflow** and Airflow for managing machine learning lifecycle, including model training, validation, and deployment across environments.\n- Architected solutions utilizing **AWS** services for scalable deployments, backups, and resource management, employing **AWS Lambda** for serverless functions to achieve faster execution times.\n- Integrated communication and messaging services to improve system interactions and data flow, using technologies that facilitate real-time data processing and state management.\n- Spearheaded the development of intelligent AI-driven features in applications, incorporating tools like **ChatGPT** and **GitHub Copilot** for enhanced automation and user interaction support.\n- Enforced **TDD (Test-Driven Development)** strategies across the development process using frameworks like **Jest**, **Cypress**, and **Postman** to ensure robust unit, integration, and E2E testing coverage.\n- Led the deployment of monitoring stacks, including **EFK Stack** (Elasticsearch, Fluentd, Kibana), for log analytics and insight generation, helping maintain operational excellence across applications.\n- Collaborated on integrating various messaging protocols, improving system communication and user experience, while ensuring adherence to industry standards across domains.\n- Worked extensively with versioning and migration strategies, facilitating transition to new technologies and methodologies while minimizing downtime and maximizing performance."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Implemented **CI/CD** pipelines for rapid deployment and integration of microservices using **GitLab CI** and **AWS**, ensuring consistent delivery and high-quality code.\n• Designed a scalable microservices architecture leveraging **Spring Boot** and **Kotlin**, resulting in a **30%** improvement in service response time for financial applications.\n• Utilized modern front-end technologies such as **React (18)** and **vite** to develop micro-frontends with enhanced user experience, achieving **95%** performance metrics under load.\n• Integrated messaging systems employing **Kafka** and **RabbitMQ** for real-time data processing, optimizing transaction workflows and reducing latency by **40%**.\n• Enhanced observability and monitoring of applications using the **EFK Stack**, **Prometheus**, **Grafana**, and **Kibana**, leading to proactive issue resolution and improved system reliability.\n• Played a key role in implementing **Domain Driven Design** principles to define clear microservice boundaries and enhance collaboration across teams.\n• Developed and maintained machine learning models for predictive analytics, employing **MLOps** practices to streamline deployment and monitoring of models, resulting in a **20%** increase in fraud detection accuracy.\n• Collaborated on innovative features employing **ChatGPT** for enhancing user interfaces and incorporated **GitHub Copilot** to boost developer productivity in coding activities."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Implemented CI/CD pipelines using **GitLab CI** and **AWS**, ensuring high-quality code delivery and operational efficiency with a deployment frequency of over **50** times per month.\n• Developed responsive Micro-Frontend architectures leveraging **React** and **module federation**, enhancing team collaboration and deployment agility across independent service modules.\n• Integrated messaging solutions with **Kafka** and **RabbitMQ** to streamline communication among **Microservices**, supporting real-time data processing and reducing latency by **30%**.\n• Designed and developed backend services utilizing **Spring Boot** and **Kotlin**, ensuring modularity and maintainability across key functionalities, achieving an uptime of **99.9%**.\n• Leveraged AI technologies including **ChatGPT** and **GitHub Copilot** to enhance development processes and automate repetitive tasks, increasing productivity by **25%**.\n• Employed TDD principles within the software development lifecycle, ensuring code reliability and facilitating rapid feature iterations with unit test coverage above **85%**.\n• Engineered observability solutions using the **EFK Stack** (Elasticsearch, Fluentd, and Kibana) and monitoring tools like **Prometheus** and **Grafana**, providing real-time insights with a **visualization latency** of less than **2 seconds**.\n• Collaborated in cross-functional teams to apply Domain Driven Design (DDD) principles, effectively translating business needs into technical implementations while maintaining system integrity.\n• Managed deployment strategies using **OpenShift**, ensuring high scalability and availability of applications, with end-to-end deployment times reduced to under **5 minutes**.\n• Utilized **AWS** cloud services for infrastructure solutions, optimizing costs and performance through tailored resource allocation and auto-scaling functionalities."
+    }
+  ],
+  "skills": "**Backend Frameworks:**\n\tSpring Boot, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular, vite\n\n**API Technologies:**\n\tMicroservice, Messaging\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database, OpenShift\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, GitHub Copilot\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Other:**\n\tMicro-Frontend, module federation, AI, MLOps, TDD, EFK Stack, Prometheus, Kibana, Grafana, Domain Driven Design, ChatGPT, Amazon Q Developer\n",
+  "apply_company": "Wavestone"
+}

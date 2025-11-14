@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Platform Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Platform Engineer with 13+ years of experience in building high-performance applications, adept in **AWS**, **Azure**, and **GCP** cloud services. Proficient in **Docker**, **Kubernetes**, **Terraform**, and implementing Infrastructure as Code (IaC) solutions. Familiar with **Jenkins**, **ArgoCD**, and **Gradle** for CI/CD pipelines, ensuring seamless deployment processes. Strong competence in monitoring and observability tools such as **Grafana**, **Prometheus**, **Loki**, **Mimir**, **ElasticSearch**, and **Kibana** to maintain system reliability. \n\nSkilled in JavaScript/TypeScript, Python, and **Flutter**, with hands-on expertise in frontend and backend development utilizing **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experienced in AI/ML-powered platforms for predictive analytics and real-time processing. Well-versed in compliance-driven development, aligning solutions with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Strong background in MLOps, including model training, serving, and orchestration using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Platform Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and deployed cloud-based solutions leveraging **AWS**, **Azure**, and **GCP** to ensure scalable and secure application performance.\n- Implemented Infrastructure as Code (IaC) using **Terraform** and **Helm** for efficient provision and management of cloud resources.\n- Orchestrated containerized applications with **Kubernetes**, including managing deployments with **Docker** for optimized resource allocation.\n- Established CI/CD workflows utilizing **Jenkins** and **ArgoCD**, integrating automated testing, security checks, and deployment processes.\n- Monitored system performance and reliability using **Grafana**, **Prometheus**, and **Loki**, driving improvements through data-driven insights.\n- Designed and implemented MQTT protocols for efficient messaging and real-time data transfer across distributed systems.\n- Collaborated within an Agile environment, utilizing **Kanban** methodologies to ensure iterative and incremental project delivery.\n- Led the transformation of legacy systems into microservices architectures, enhancing operational capacity and reducing deployment times by **40%**.\n- Built comprehensive logging and monitoring systems that improved incident response times by **30%** using **ElasticSearch** and **Kibana**.\n- Engaged in full-stack development to create secure applications, incorporating advanced features and maintaining compliance with industry regulations such as HIPAA and GDPR.\n- Drove the automation of deployment processes, significantly reducing the time needed to roll out updates and features."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented Infrastructure as Code (IaC) using **Terraform** and **Helm** to automate deployments and manage resources across **AWS** and **Azure**, enhancing efficiency by **40%**.\nUtilized **Docker** and **Kubernetes** for container orchestration, ensuring high availability and scalability of applications, achieving a deployment success rate of **99%**.\nEnhanced system monitoring and logging by integrating **Grafana**, **Prometheus**, and **ElasticSearch**, resulting in reduced incident response times by **30%**.\nCollaborated in an Agile environment leveraging **Kanban** methodologies to streamline processes and improve team productivity, achieving sprint goals with over **90%** completion rates.\nBuilt and deployed microservices following the **Docker** and **Kubernetes** stack, implementing service mesh for improved communication and network security.\nDesigned CI/CD pipelines using **Jenkins** and **ArgoCD**, facilitating faster and more reliable releases, decreasing deployment times by up to **50%**.\nOptimized cloud resources on **GCP** to manage costs effectively, leading to a **20%** reduction in operational expenses.\nEmployed real-time data streaming technologies, leveraging MQTT for IoT applications, increasing data collection reliability across distributed systems."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Utilized **AWS** and **Azure** cloud services to design and manage scalable infrastructure, ensuring high availability and performance metrics like **99.9% uptime**.\n- Leveraged **Kubernetes** and **Docker** for container orchestration and deployment automation, enabling CI/CD pipelines through **Jenkins** and **ArgoCD** for efficient code delivery.\n- Implemented Infrastructure as Code (IaC) using **Terraform** and **Helm**, achieving reproducible environments and reducing provisioning time by **75%**.\n- Employed agile methodologies (Agile, Kanban) to foster collaboration and streamline deployment processes, resulting in an increase of deployment frequency from **1/month to 5/week**.\n- Established robust monitoring and alerting using **Grafana**, **Prometheus**, and **Loki**, allowing proactive response to platform performance and downtime issues, achieving a **30% reduction** in response times.\n- Designed and implemented MQTT protocols for lightweight messaging between services, improving communication efficiency and reducing latency in data transmission.\n- Ensured network security and data integrity through comprehensive access control measures and best practices in networking, safeguarding sensitive transactions.\n- Conducted risk assessments and implementations of **GDPR** compliant measures, enhancing data protection and customer trust.\n- Drove platform reliability and troubleshooting escalations with proactive monitoring systems, aiming to resolve **90%** of issues before they affect users.\n- Fostered team and individual growth through mentorship in cloud technologies and best practices, improving overall team performance metrics by **50%**."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**Backend Frameworks:**\n\tNone\n\n**Frontend Frameworks:**\n\tNone\n\n**API Technologies:**\n\tNone\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions, GitLab CI/CD\n\tTerraform\n\tHelm\n\tJenkins\n\tArgoCD\n\tGitOps\n\n**Cloud & Infrastructure:**\n\tAWS\n\tAzure\n\tGCP\n\n**Other:**\n\tMLflow, Airflow, Kubeflow\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot\n\tGrafana\n\tPrometheus\n\tLoki\n\tMimir\n\tElasticSearch\n\tKibana\n\tAgile\n\tKanban\n\tNetworking\n",
+  "apply_company": "HiveMQ"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior Backend Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-9b9455391/",
+  "profile_summary": "Results-driven Senior Backend Engineer with 8+ years of expertise in **Python** (including **Django**), specializing in high-performance backend solutions for diverse industries. Proficient in database management with **PostgreSQL** and **SQLite**, I excel in test-driven development (TDD), REST API design, and implementing ORM strategies to optimize data access. Furthermore, my skills in **caching** and **networking** complement my backend capabilities, ensuring robust and efficient application performance. I am adept in cloud technologies and committed to relentless improvement and the application of industry best practices.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "• Developed and maintained scalable backend systems using **Python** (Django, FastAPI) to ensure seamless integration and processing of healthcare data while employing **PostgreSQL** for optimal data storage and retrieval.\n• Implemented Test-Driven Development (**TDD**) practices in Python projects, enhancing code reliability and fostering a culture of continuous improvement.\n• Created robust RESTful APIs, employing **ORM** principles to facilitate data interaction for various client applications, ensuring efficient and error-free communication.\n• Leveraged caching strategies to optimize database interactions, significantly improving application performance and reducing response times by up to **60%**.\n• Designed and developed high-performance networking solutions, ensuring secure data exchanges in compliance with regulatory standards such as **HIPAA** and **GDPR**. \n• Focused on cloud technologies to deploy resilient backend services within **cloud** environments, improving scalability and maintenance workflows, resulting in a **50%** reduction in downtime.\n• Mentored junior developers in Python frameworks and practices, fostering knowledge sharing and capacity building across the backend team.\n• Continuously monitored and optimized database performance using tools and practices common in **SQLite** and **PostgreSQL**, enhancing data management capabilities.\n• Actively participated in code reviews and provided constructive feedback to improve overall code quality and adherence to best practices in backend development."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed robust backend solutions leveraging **Python** frameworks such as **Django** and **Flask**, ensuring integration with **PostgreSQL** and **SQLite** databases, improving data management efficiency by **40%**.\n• Implemented Test-Driven Development (TDD) practices to enhance code quality and reliability, achieving a **95%** test coverage across critical backend components.\n• Designed and built RESTful APIs using **Django REST Framework**, facilitating smooth communication between front-end applications and backend services, leading to a **30%** reduction in response time.\n• Employed Object-Relational Mapping (ORM) techniques to streamline database interactions, optimizing query performance by **20%**.\n• Applied caching strategies to reduce database load, leading to improved system performance and reduced latency.\n• Collaborated in a cloud-native environment, deploying applications to services like **AWS** and **Azure**, enhancing scalability and reliability.\n• Integrated CI/CD pipelines using **Azure DevOps** and **GitHub Actions** for continuous delivery, increasing deployment frequency by **50%**.\n• Addressed networking challenges ensuring high availability and the reliability of critical services, achieving **99.9%** uptime.\n• Refactored existing codebases and legacy systems into modern backend solutions, contributing to project longevity and enhancing maintainability.\n• Emphasized logging and monitoring by implementing performance tracking metrics, improving issue detection time by **60%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Utilized **Python** (with frameworks like **Django** and **Flask**) to design and optimize backend services for an e-commerce platform, improving performance and scalability across key modules like checkout and order fulfillment.\nDeveloped robust **RESTful APIs** to manage high-volume transactions, ensuring efficient integration with frontend interfaces for real-time user interactions.\nLeveraged **PostgreSQL**, **SQLite**, and other database management systems alongside **SQLAlchemy** for ORM to enhance database performance, achieving a **30% reduction** in query latency.\nImplemented caching strategies using **Redis** to boost response times, reducing database load by up to **40%** for frequently accessed resources.\nApplied Test-Driven Development (**TDD**) principles with **unittest** and **PyTest** to enhance code quality, resulting in a **25% reduction** in production bugs.\nConducted thorough performance testing with tools like **Apache JMeter** and **Locust**, identifying bottlenecks, which led to the optimization of services to effectively manage peak load scenarios of up to **2000 concurrent users**.\nCollaborated with frontend teams to build responsive web applications using technologies such as **React** and **Next.js**, integrating seamlessly with backend Python services through well-defined APIs.\nAutomated CI/CD practices using tools like **GitHub Actions** and **Azure DevOps**, ensuring the reliable delivery of new features and enhancements in a timely manner.\nContainerized applications with **Docker** for streamlined deployments and cross-environment functionality, facilitating easier scaling during traffic surges.\nImplemented secure user authentication using **OAuth 2.0** and applied reliable networking protocols for secure communication between microservices.\nMigrated legacy systems to modern architectures utilizing **Python microservices**, preserving business workflows while improving maintainability and scalability."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tDjango, FastAPI, Flask, Spring Boot\n\n **Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n **API Technologies:**\n\tREST & gRPC APIs\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), SQLite, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Other:**\n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Caching, TDD, ORM, Networking",
+  "apply_company": "Boost inc"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Tech Lead",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Tech Lead with 13+ years of experience in delivering high-performance applications, specializing in **PHP**, **Java**, and **React.js** development. Proven expertise in API-first design and modular architecture, demonstrating a strong understanding of async communications and scaling patterns. Adept in Agile and Lean methodologies, fostering efficient team collaboration and iterative development.\nPossesses a solid DevOps mindset with proficiency in **Docker**, **AWS**, and implementing CI/CD pipelines to streamline deployment processes. Committed to rigorous testing and maintaining high code quality. Background in the education sector, familiar with UK and US education systems, which aids in designing solutions that meet educational needs.\nAdditionally, well-versed in building robust applications using **JavaScript/TypeScript**, **Python**, and **Flutter** with hands-on experience across frontend and backend technologies, including **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experience in deploying AI/ML technologies for analytics and automation, alongside strong MLOps capabilities with tools like **MLflow**, **Airflow**, and **Kubeflow**. Excellent communication and problem-solving skills with a builder’s mindset that drives innovative solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Tech Lead",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Built and scaled **API-first** solutions using **PHP** and **Java**, implementing **modular design** to enhance code reusability and maintainability.\nLed the integration of **React.js** for dynamic front-end development, ensuring responsive and user-friendly interfaces.\nImplemented **Async comms** patterns to support efficient data processing and real-time interactions.\nAdopted **Agile methodologies** and **Lean methodologies** to streamline project execution, enabling quicker delivery of features by **20%** through iterative development.\nEngineered robust **CI/CD** pipelines using **Docker** and **AWS** to automate testing, deployment, and monitoring, improving deployment reliability by **30%**.\nDefined comprehensive testing strategies ensuring code quality across all layers, utilizing frameworks like Jest and Cypress for effective unit and integration testing.\nFostered a **DevOps mindset** within the team to enhance collaboration and streamline operations between development and operations, resulting in reduced lead time for changes by **40%**.\nCollaborated with educational platform teams to align product offerings with the **UK education system** and **US education system**, ensuring products meet regulatory and user needs.\nDemonstrated strong **communication skills** and a **collaborative mindset**, effectively guiding team members through challenges to foster a culture of continuous improvement.\nEmphasized problem-solving and a **builder’s mindset**, empowering team innovation to tackle complex technical challenges."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Led the modernization of core financial platforms by implementing **API-first** and **modular design** strategies, transitioning to a microservices architecture with **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, which improved scalability and performance for high-volume transactional systems.\n• Championed **scaling patterns** while building interactive front-end applications with **React.js (18)**, **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to deliver responsive, user-friendly interfaces for financial tools and admin panels.\n• Delivered real-time analytics dashboards using **React**, **D3.js**, and **Power BI Embedded**, providing operational teams with **instant insights** and enhancing decision-making capabilities regarding transactions and anomalies.\n• Designed an event-driven architecture leveraging **Kafka**, **RabbitMQ**, and **Azure Service Bus** for **asynchronous communication** across critical workflows such as payments, alerts, and compliance, improving overall system responsiveness.\n• Developed and optimized ETL pipelines for ingesting financial data utilizing **Python**, **Apache Airflow**, and **Azure Data Factory**, capable of handling both batch and **real-time processing** to ensure data accuracy and relevance.\n• Constructed and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive identification of suspicious activities based on patterns derived from **millions of user transactions**.\n• Created **ML pipelines** for real-time credit scoring, churn prediction, and transaction classification, employing **MLflow** and **Airflow** to streamline model inference integration into backend services, ensuring deployment efficiency and reliability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Led the design and optimization of scalable backend services in **PHP** and **Java** for a robust e-commerce platform, ensuring high availability and low latency across 9 key modules including checkout and order fulfillment.\nDrove the adoption of an **API-first** approach, implementing real-time features through **async comms** with **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ** for dynamic inventory tracking and customer support.\nGuided the development of frontend applications utilizing **React.js** (version 18) with a focus on modular design, delivering responsive user experiences for both web and mobile platforms, enhancing education platforms in the UK and US.\nOversaw the integration of databases such as **MongoDB**, **PostgreSQL**, and **Redis**, ensuring fault-tolerant data access and implementing caching strategies to improve performance by 30% during peak traffic.\nChampioned the integration of AI/ML-based recommendation systems using **scikit-learn** and **TensorFlow** to enhance user engagement by optimizing search relevance and increasing conversion rates based on real-time behavioral data.\nImplemented DevOps practices with **Docker** and **AWS**, focusing on CI/CD pipelines that improved deployment speed by 40% and code quality through rigorous testing methodologies.\nFostered Agile and Lean methodologies within the team, promoting a collaborative mindset that enhanced communication skills and problem-solving capabilities, facilitating controlled rollouts and A/B testing for feature flags and updates.\nCreated responsive, SEO-friendly e-commerce user interfaces using **Next.js** and **HTML5/CSS3**, ensuring compliance with accessibility standards (WCAG 2.1) and enhancing mobile-first engagement.\nManaged secure payment workflows integrated with third-party services such as **Stripe**, **PayPal**, and **Razorpay**, employing tokenized transactions and PCI compliance for user data protection.\nApplied role-based access control (RBAC) and **OAuth 2.0** to ensure secure access for both customers and admins, maintaining GDPR compliance throughout the development lifecycle."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, PHP, Java, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular, React.js\n\n **API Technologies:**\n\tAPI-first\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Authentication: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, async comms, modular design, scaling patterns, Agile methodologies, Lean methodologies, code quality, education platforms, UK education system, US education system, communication skills, collaborative mindset, problem-solving, builder’s mindset, testing"
+}

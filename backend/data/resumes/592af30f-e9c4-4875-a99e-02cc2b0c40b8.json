@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Software Engineer with 8 years of experience, I excel in implementing **Python**, **Docker**, **Kubernetes**, and **Microsoft Azure DevOps** to create scalable and efficient software solutions. My strong technical expertise in **Asynchronous Programming**, API development, and unit testing using **PyTest** enable me to deliver robust applications tailored for high-demand environments. I’m proficient in utilizing **Flask**, **QuartCore**, and **OpenAPI** to build RESTful APIs and ensure effective communication between services.\n\nMy experience includes crafting cloud-native applications and orchestrating microservices on **Azure** and **AWS**, ensuring seamless deployment processes via CI/CD pipelines. I hold a thorough understanding of **MQTT** and **WebSockets** for real-time data communication, and I have a solid foundation in **Data Polishing** and implementing secure data encryption practices.\n\nIn addition to my technical skills, I am committed to upholding compliance standards and fostering clear communication across teams. My background includes successful collaboration with cross-functional teams to deliver high-quality solutions in the healthcare and financial sectors, leveraging my ability to articulate complex technical ideas through effective technical writing.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed, developed, and maintained robust software solutions as a **Senior Software Engineer** focusing on:\n- Utilizing **Python** and its frameworks like **Flask** and **QuartCore** to build and enhance server-side applications, ensuring efficient asynchronous programming with **AsyncIO**.\n- Implementing containerization and orchestration using **Docker** and **Kubernetes**, which led to a **30%** increase in deployment efficiency across multiple environments.\n- Coordinating with DevOps practices, utilizing **Microsoft Azure DevOps** for streamlined CI/CD pipelines, enabling **50%** faster release cycles and enhanced collaboration within the development teams.\n- Developing and integrating scalable **API** solutions, adhering to **OpenAPI** standards, which improved API documentation clarity by **40%**.\n- Establishing comprehensive unit testing strategies using **PyTest**, achieving **95%** code coverage and significantly reducing the number of production bugs.\n- Employing data management tools to enhance data polishing processes for large datasets, integrating **Pymongo** for efficient database interactions.\n- Implementing advanced **encryption** methods for data security, ensuring compliance with regulatory standards like GDPR and HIPAA across applications.\n- Crafting technical documentation and improving team communication through effective technical writing, facilitating knowledge sharing and onboarding.\n- Leveraging **Websockets** for real-time data updates in applications, resulting in enhanced user experiences and engagement.\n- Collaborating with cross-functional teams to design and support innovative solutions for **DC Networks and Power Electronics** projects, integrating communication protocols such as **MQTT** and **OCPP** effectively. \n- Utilizing Linux environments for development and maintenance of applications, ensuring solid performance and network security."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Docker** to build and modernize financial platforms, adopting a microservices-based architecture that enhanced scalability and maintainability for high-transaction systems.\nDesigned and developed robust APIs leveraging **Flask** and **FastAPI** for efficient asynchronous communication, achieving response times under **200ms** for transaction processes.\nConducted unit testing with **PyTest** to ensure code quality and reliability, maintaining a **98%** coverage rate across the codebase.\nImplemented CI/CD pipelines using **Microsoft Azure DevOps**, facilitating seamless integration and deployment processes, speeding up release cycles by **30%**.\nEmployed **Kubernetes** for container orchestration, improving application deployment efficiency and scaling capabilities, handling up to **10,000** concurrent users.\nIntegrated data polishing techniques and encryption mechanisms to enhance data fidelity and security within financial applications, adhering to compliance standards.\nCreated engaging front-end applications using **React (18)** and **TypeScript**, achieving a **90%** user satisfaction score through responsive and dynamic designs.\nUtilized **Websockets** and **AsyncIO** for real-time functionalities, ensuring instant updates and interactions in user applications.\nDeveloped and maintained ETL pipelines with **Apache Airflow** and **Azure Data Factory**, achieving up to **5TB** of data ingestion per month from various internal and third-party systems.\nEnhanced operational insights with **Power BI Embedded** dashboards that offered real-time analytics and anomaly detection, enabling proactive decision-making for financial operations."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized backend services for high-performance applications using **Python** (FastAPI, Flask) and **Docker**, ensuring reliable service delivery and efficient resource management.\n• Utilized **Kubernetes** for container orchestration, enabling seamless deployment and scaling across cloud platforms and managed services like **Microsoft Azure DevOps**.\n• Implemented asynchronous programming principles to enhance application responsiveness, leveraging **AsyncIO** and **Websockets** for real-time data communication and user interactions.\n• Designed and maintained robust API services with **OpenAPI** specifications, ensuring clear documentation and ease of integration for external developers.\n• Conducted rigorous unit testing with **PyTest**, achieving a code coverage of over **85%** and ensuring high-quality deliverables.\n• Enhanced operational efficiency through effective DevOps practices, incorporating CI/CD pipelines and automated testing in application lifecycle management.\n• Engineered advanced messaging solutions utilizing **MQTT** for IoT applications, ensuring efficient communication across distributed systems.\n• Collaborated with cross-functional teams to polish data processing methodologies, applying **Data Polishing** techniques to improve data quality and analytics capabilities.\n• Ensured application security through the implementation of encryption standards, safeguarding user data while maintaining compliance with relevant regulations.\n• Created comprehensive technical documentation and facilitated knowledge sharing across teams to foster communication and continuous learning."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, QuartCore, Werkzeug\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tOpenAPI, MQTT, OCPP, Websockets\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Pymongo\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Microsoft Azure DevOps, CI/CD & Infrastructure as Code: Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tLinux\n\n**Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow, Asynchronous Programming, Unit Testing, PyTest, Data Polishing, Encryption, Technical Writing, Communication, Authentication & Security: Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "GlobalLogic"
+}

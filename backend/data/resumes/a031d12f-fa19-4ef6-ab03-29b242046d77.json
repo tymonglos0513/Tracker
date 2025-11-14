@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "AI Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Results-driven AI Engineer with 13+ years of experience in building and deploying high-performance applications, specializing in **LLM Production** and advanced **AI** solutions. Proficient in **Python** and **TypeScript**, with substantial experience in creating robust **APIs** and integrating **React** for frontend applications. Skilled in leveraging **vector databases** for optimized data storage and **embeddings** for enhanced machine learning capabilities. \nHands-on experience with **orchestration frameworks** for streamlined workflows and deployment of scalable applications. Adept in image processing and implementing **OCR** technologies for automated document pipelines. Demonstrated proficiency in deploying solutions on **AWS**, ensuring high availability and performance. Extensive knowledge of compliance-driven development, successfully aligning projects with HIPAA, FHIR, and PCI DSS standards. Strong foundation in developing AI/ML-powered platforms, focusing on predictive analytics and automation.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and implemented LLM production strategies while leveraging **Python** and **TypeScript** to build robust APIs for AI applications.\n- Designed and built scalable architectures for document pipelines utilizing modern tools for **OCR** and image processing.\n- Integrated vector databases to effectively manage embeddings, ensuring support for **fast and efficient querying** across datasets.\n- Collaborated in deploying advanced AI models with the aid of orchestration frameworks, enhancing the performance of API endpoints.\n- Created user interfaces using **React** to deliver interactive dashboards that visualize data insights from AI-driven processes.\n- Conducted thorough testing and optimization of APIs using frameworks like **Jest** and **Postman** to ensure reliability and performance, achieving over **90% test coverage**.\n- Orchestrated deployments on **AWS**, managing resources to support high availability and reducing latency for AI services by **30%**.\n- Leveraged machine learning frameworks for advanced tasks such as LLM fine-tuning and deployment, utilizing tools such as **scikit-learn**, **TensorFlow**, and **PyTorch** for model development and evaluation.\n- Collaborated with cross-functional teams to enhance features and functionalities, integrating client feedback into development cycles leading to a **40% increase** in user satisfaction.\n- Built automated CI/CD pipelines incorporating numerous workflows and ensuring **smooth deployments** with no downtime.\n- Engaged in continuous learning to keep abreast of emerging trends and tools in the AI field, enhancing team capabilities in developing cutting-edge solutions."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented and optimized API integrations for machine learning models in production, leveraging **Python** and **React** for seamless data flow.\nDeveloped and maintained **LLM Production** systems, employing **Python** and **TypeScript** for efficient processing and orchestration of large datasets, ensuring scalability and performance for high-volume tasks.\nCreated and managed document pipelines, including **OCR** and image processing capabilities, to enhance data ingestion for AI frameworks.\nDesigned embedding strategies and maintained vector databases for improved data retrieval and performance metrics, ensuring insights from real-time analytics.\nUtilized orchestration frameworks effectively in deploying ETL pipelines, enhancing automation and monitoring of workflows.\nCollaborated on AI projects involving **AWS** services to build and deploy machine learning models, achieving a deployment success rate of over **95%** in production environments.\nEngineered interactive applications with **React** and **TypeScript**, achieving **50%** faster load times through optimized code and modern design patterns.\nManaged the integration and scaling of **APIs**, demonstrating proficiency in handling over **1 million** API requests per day while maintaining response times under **250ms**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Engineered and deployed LLM production systems with advanced capabilities, leveraging **Python** for robust API development and real-time data processing features.\nDeveloped and optimized APIs for seamless integration with third-party services, ensuring scalability and high availability across multiple platforms.\nImplemented embeddings and vector databases for enhanced data retrieval and representation in machine learning workflows, utilizing tools such as **PostgreSQL** and **Redis** to manage and access large datasets effectively.\nDesigned and developed web applications using **React** (version 18) and **TypeScript**, focusing on building user-friendly interfaces that facilitate interaction with AI-driven functionalities.\nCreated and maintained orchestration frameworks to streamline the deployment of machine learning models across various environments, ensuring performance optimization and reliability.\nApplied image processing techniques and OCR solutions to enhance data input pipelines, improving the accuracy and efficiency of document processing workflows.\nEmployed AWS services for cloud-based infrastructure management, ensuring secure and scalable environments for AI applications.\nImplemented rigorous testing and validation protocols for AI models, ensuring alignment with performance metrics and quality standards, thereby increasing model accuracy by up to **30%**.\nCollaborated with cross-functional teams to integrate AI-driven features into existing products, improving user engagement and driving conversion rates by **15%**.\nMaintained compliance with data protection regulations by applying role-based access control (RBAC) and secure data handling practices throughout the development lifecycle."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, TS\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks**\n\tReact, Vue, Angular\n\n **API Technologies**\n\tAPIs\n\n **Serverless and Cloud Functions**\n\tAWS: ECS, Lambda, RDS, S3\n\n **Databases**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Vector databases\n\n **DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure**\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Other**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, embeddings, orchestration frameworks, OCR, image processing, document pipelines, LLM Production"
+}

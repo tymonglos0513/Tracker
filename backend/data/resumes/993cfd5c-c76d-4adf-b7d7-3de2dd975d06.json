@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Site Reliability Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior Site Reliability Engineer with 13+ years of experience specializing in cloud-native application development and infrastructure management. Proficient in **GCP**, **GKE**, **AWS**, and **Azure**, with hands-on expertise in deploying scalable systems using **Kubernetes**, **Docker**, and **CI/CD** practices. Strong understanding of monitoring and observability tools including **Prometheus**, **Grafana**, and **OpenTelemetry** while ensuring high availability and reliability in production environments.\n\nSkilled in multiple programming languages such as **Python**, **GoLang**, and **C++**, and experienced with backend frameworks like **Node.js**. Well-versed in networking protocols including TCP/IP, HTTP(s), and DNS, and adept at implementing microservices architectures aligned with industry standards. Demonstrated competence in database management using **PostgreSQL**, **ElasticSearch**, and proficient in event streaming with **Kafka**.\n\nOriginal strengths include a solid background in compliance-driven development for sectors like healthcare and finance, aligning with standards such as HIPAA and PCI DSS, and expertise in MLOps with tools like **MLflow**, **Airflow**, and **Kubeflow** for AI/ML-driven platforms.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Site Reliability Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Implemented and managed CI/CD pipelines using **GitHub Actions**, **CircleCI**, and **Azure DevOps** to ensure seamless deployments across **Linux** environments such as **Debian** and **Ubuntu**, resulting in a **30%** reduction in deployment time.\n• Designed and built resilient architectures leveraging **Kubernetes** (GKE) and **Docker** to support scalable application deployments, achieving high availability with an uptime of **99.99%**.\n• Monitored system performance and reliability utilizing tools like **Prometheus**, **Grafana**, and **OpenTelemetry**, facilitating real-time insights and proactive system alerts, which reduced incident responses by **40%**.\n• Developed and implemented robust monitoring dashboards using **Grafana Mimir** and **Grafana Tempo** for comprehensive performance visualization, ensuring system health across multiple environments.\n• Integrated logging and monitoring solutions like **FluentD** and **Jaeger** for end-to-end tracing, significantly improving the debugging process and efficiency by **35%**.\n• Ensured secure and efficient connectivity within applications through proper HTTP(s), **DNS**, and **TCP/IP** configurations, enhancing overall system communication.\n• Managed configuration and secret management via **SOPS** and **Terraform**, reducing manual configuration errors by **25%**.\n• Automated infrastructure provisioning using **Terraform** and configuration management with **Helm**, allowing for rapid and consistent deployment across cloud services like **AWS** and **Azure**. \n• Led initiatives for compliance and security by managing access controls with **Okta** and performing regular security assessments using tools like **TFsec** and **Trivy** to ensure regulatory compliance.\n• Advanced troubleshooting of complex issues through effective use of **SSH** and comprehensive logging strategies, increasing the speed of issue resolution."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Kubernetes** (v1.20) and **Docker** to create scalable infrastructure for core financial platforms, enhancing reliability and uptime in production environments.\nImplemented CI/CD pipelines with **Argo CD** and **Jenkins**, promoting code changes through automated testing and deployment processes across multiple **GCP** projects.\nMigrated existing services to a microservices architecture using **Node.js** (Express) and **Python** (FastAPI), leading to a **30%** improvement in system performance under high transaction loads.\nManaged applications on **GKE** for container orchestration, ensuring efficient resource utilization and resilience in distributed systems.\nMonitored system performance and health using **Prometheus** and **Grafana**, leading to a **25%** reduction in incident response time by providing instant alerting on critical performance metrics.\nDesigned and deployed a robust event-driven architecture using **Kafka** and **RabbitMQ**, enabling asynchronous communication across critical workflows such as payments and compliance alerts.\nCollaborated on managing service configurations and secret management using **Terraform** and **SOPS**, ensuring secure and consistent infrastructures across environments.\nConducted system performance tuning and optimization with **GoLang** and **C++**, achieving a reduction in latency by up to **40%** under load test scenarios.\nEngaged in disaster recovery drills and incident responses, improving overall stability metrics by ensuring systems met predefined **SLA** targets."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend services focused on high availability, low latency, and scalability for a global e-commerce platform using **Python (FastAPI, Django)** and **Node.js (NestJS, Express)**, impacting key modules including checkout, cart, and order fulfillment.\n\nImplemented cloud services and orchestration tools like **GCP, GKE**, and **Kubernetes** for seamless deployment and management of applications, achieving an uptime target of **99.99%**.\n\nEngineered real-time features leveraging **Kafka** and **RabbitMQ**, enhancing order updates, dynamic inventory tracking, and customer support interactions, with processing speeds exceeding **5,000** messages per second.\n\nDeveloped responsive applications with **React (18)**, **Vue 3**, and **Angular**, integrating **TypeScript** and **Tailwind CSS** to maintain a user experience score of **95%** in usability tests across both web and mobile platforms.\n\nUtilized databases such as **MongoDB**, **PostgreSQL**, and **Redis** for efficient data storage solutions, achieving a data retrieval efficiency with less than **200ms** latency even under high traffic volumes.\n\nIntegrated AI/ML-based recommendation engines using **TensorFlow** and **LightGBM**, resulting in an **increased conversion rate by 30%** based on behavioral data analysis.\n\nOptimized application performance through caching strategies with **Redis**, resulting in a **40% reduction** in database read pressure and improved response times.\n\nExecuted feature flags and blue-green deployments via **Kubernetes namespaces** and **LaunchDarkly**, facilitating risk-mitigated rollouts and A/B testing, leading to an enhanced user engagement metric.\n\nEngineered secure payment workflows integrated with payment processors like **Stripe** and **PayPal**, ensuring compliance with PCI standards while handling **over $2M** in transactions monthly.\n\nMaintained secure access protocols through **role-based access control (RBAC)** and **OAuth 2.0**, ensuring GDPR compliance and enhanced user data integrity throughout the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, GoLang, C++, Java, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tHTTP(s), DNS, SSH, TCP/IP, REST\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database, GCP, GKE\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, ElasticSearch\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Helm, Terraform, Ansible, Argo CD, Argo Rollouts, Trivy, TFsec, HPA, KEDA\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, Linux, Debian, Ubuntu\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Prometheus, Grafana, Grafana Mimir, OpenTelemetry, Kafka, Nginx, Let’s Encrypt, Certbot, Okta, Slack, Google Meet, Jira, Confluence, Bitbucket, Bash, Jaeger, Grafana Tempo, Grafana Loki"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Python Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-477994390/",
+  "profile_summary": "Results-driven Senior Python Engineer with over 9 years of experience in implementing scalable and reliable applications. Proficient in **Python**, **Django REST Framework**, and **PostgreSQL**, I excel in developing **RESTful APIs** and leveraging **Celery** for asynchronous processing. Familiar with cloud platforms such as **AWS** and **Azure**, as well as infrastructure as code tools like **Terraform** and **CloudFormation** to enhance CI/CD workflows. Recognized for adopting clean architecture principles to ensure maintainable and high-performance systems. My expertise extends to utilizing **Redis** for caching and message brokering. I am adept in collaborating effectively across teams and driving projects toward successful completion, ensuring alignment with organizational goals.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Apr 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Utilized **AWS** and **Azure** to implement cloud services, enhancing system scalability and reliability based on the **CI/CD** pipeline for continuous integration and deployment processes.\nDesigned and developed **RESTful APIs** using **Django REST Framework** to facilitate seamless data communication with a **PostgreSQL** database.\nImplemented **Celery** for **async processing**, improving task execution time by **30%**.\nOptimized data caching mechanisms with **Redis**, reducing data retrieval times by **35%** and improving overall system performance.\nCollaborated with cross-functional teams to enhance clean architecture practices, ensuring code maintainability and modularity.\nDevised infrastructure as code using **Terraform** and **CloudFormation**, which allowed for faster provisioning of resources and consistent environment setups across development, testing, and production.\nConducted performance tuning and optimization of database queries in **PostgreSQL**, achieving a reduction in average response time of **25%**.\nEngaged in the design of reliable systems, emphasizing strategies for system robustness and uptime, leading to an overall application reliability increase of **40%**.\nLed training sessions for team members on best practices in **Python** development and use of the **Django** framework."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Developed and maintained RESTful APIs using **Django REST Framework** and integrated with a **PostgreSQL** database, ensuring real-time data access and compliance with **clean architecture** principles.\nImplemented **async processing** techniques with **Celery**, which improved task execution speed by 40%.\nUtilized **Redis** as a caching layer to enhance system response time, achieving a **25%** decrease in API call latency.\nLeveraged **AWS** and **Azure** cloud services for scalable and reliable deployment processes, contributing to a more robust infrastructure.\nDesigned and implemented CI/CD pipelines using **Terraform** and **CloudFormation**, which reduced deployment-related issues by **30%**.\nCollaborated with cross-functional teams to outline project requirements and establish development timelines, leading to a **15%** increase in on-time project delivery.\nConducted code reviews and offered mentorship to junior developers, fostering team growth and improving overall productivity by **20%**.\nCreated interactive data visualizations using **D3.js** to enhance project tracking effectiveness, directly increasing user engagement.\n"
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Developed and maintained scalable and reliable applications using **Python** and **Django REST Framework**, ensuring high performance and responsiveness to requests.\nImplemented **Redis** and **Celery** for asynchronous task processing, improving application efficiency by **30%**.\nDesigned and managed **PostgreSQL** databases for efficient data retrieval and storage, optimizing query performance by **40%**.\nDeployed applications on **AWS** and **Azure**, utilizing **CI/CD** pipelines and **Terraform** for infrastructure as code, resulting in streamlined deployment processes.\nCreated and maintained **RESTful APIs** for seamless interaction between frontend and backend services, ensuring alignment with industry standards.\nIntroduced clean architecture principles to enhance code maintainability, reducing technical debt by **15%**.\nCollaborated with cross-functional teams to ensure reliable integration with third-party tools and services, improving overall system interoperability.\nProduced comprehensive technical documentation and user guides to facilitate onboarding and knowledge sharing within the team.\nParticipated in code reviews and architectural discussions to ensure best practices are followed throughout the development process.\nLed efforts to refine deployment strategies using **CloudFormation**, reducing deployment times by **25%**."
+    }
+  ],
+  "skills": " **Programming Languages** \n\t Python\n\n **Backend Frameworks** \n\t Django REST Framework, NodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n\n **Frontend Frameworks** \n\t HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n **API Technologies** \n\t RESTful APIs, GraphQL\n\n **Serverless and Cloud Functions** \n\t AWS, Azure\n\n **Databases** \n\t PostgreSQL, MSSQL Server, MySQL, MongoDB, DynamoDB, CosmosDB\n\n **DevOps** \n\t CI/CD, Terraform, CloudFormation\n\n **Cloud & Infrastructure** \n\t AWS, Azure, CI/CD pipelines\n\n **Other** \n\t Messaging & Caching: Apache Kafka, RabbitMQ, Redis, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Blockchain: Solidity, Ether.js, Web3.js, Ethereum, UX/UI Design, Git, GitHub, async processing, scalability, reliability, clean architecture"
+}

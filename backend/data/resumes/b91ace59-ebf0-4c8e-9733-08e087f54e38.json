@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Java Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Java Engineer with 8 years of experience, I specialize in creating high-performance applications using **Java**, **Spring Boot**, and **Spring Batch** for robust backend solutions. My skills extend to **ETL** processes, including efficient **file parsing** and data transformation, ensuring seamless data integration. Proficient in **SQL** and **NoSQL** databases, I leverage the best data storage techniques to enhance application performance.\n\nAdditionally, I have experience with **Docker** for containerization and **Kafka** for building real-time data pipelines, which empowers applications to handle significant data loads with high reliability. My strong foundation in microservices architecture and event-driven systems ensures my solutions are scalable and maintainable.\n\nI have a track record of developing enterprise-grade applications with compliance to industrial standards and a solid understanding of technical English for effective communication. My background in integrating cloud solutions and automation practices further enhances my capabilities in delivering quality software.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Java** and **Spring Boot** to develop robust ETL processes for seamless data extraction, transformation, and loading from various healthcare and financial sources, ensuring high data quality and integrity.\nImplemented **Spring Batch** for processing large volumes of data, optimizing performance with batch jobs capable of handling over **100,000** records in a single execution cycle.\nLeveraged **Docker** containers for environment standardization, enabling efficient deployment and scalability of applications, with a focus on microservices architecture.\nDesigned and built scalable data pipelines incorporating **Kafka** for real-time data streaming and processing, supporting high throughput with latency under **200ms**.\nDeveloped applications integrating both **SQL** and **NoSQL** databases to optimize data storage and retrieval strategies based on specific use cases, achieving a **50%** enhancement in query performance.\nConducted thorough file parsing using advanced algorithms to ensure accurate data ingestion from diverse formats, with a focus on compliance with industry standards.\nCollaborated with cross-functional teams to document technical designs and processes in **Technical English**, enhancing team communication and project clarity.\nImplemented unit and integration tests using **JUnit** and **Mockito**, achieving over **90%** test coverage to ensure code reliability and maintainability.\nMaintained and enhanced legacy systems, applying modern development practices to extend lifecycle and improve performance metrics by **30%**.\nEngaged in continuous learning and adaptation of emerging technologies to keep the development practices aligned with industry trends and standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented scalable back-end services using **Java** and **Spring Boot**, enhancing performance and reliability for financial platforms.\nDeveloped and maintained ETL processes utilizing **Spring Batch** and **Apache Airflow**, achieving **95%** efficiency in data processing workflows for streamlined data integration.\nConducted file parsing operations and implemented robust data validation mechanisms, ensuring high data quality across various financial datasets.\nLeveraged **Kafka** for real-time data streaming, resulting in improved transaction processing speeds by **30%**, and supported asynchronous communication for seamless system interactions.\nBuilt and deployed containerized applications using **Docker**, enhancing portability and ease of deployment across various environments.\nCollaborated with cross-functional teams to translate technical requirements into functional specifications, utilizing **Technical English** to effectively communicate complex concepts.\nUtilized both **SQL** and **NoSQL** databases to manage and analyze diverse datasets, optimizing query performance for financial operations.\nImplemented best practices in coding and design, contributing to a maintainable and testable codebase that facilitated future enhancements."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Developed ETL processes and file parsing solutions using **Java**, **Spring Boot**, and **Spring Batch** to efficiently handle data ingestion, transformation, and loading across multiple data sources, improving data pipeline efficiency by **30%**.\n- Utilized **Docker** for containerization, enabling seamless deployment of applications and reducing environment inconsistency issues.\n- Designed and implemented scalable, fault-tolerant distributed systems leveraging **Kafka** for event streaming, facilitating real-time data processing and analysis which improved data throughput by **25%**.\n- Engineered SQL and NoSQL database solutions, enabling high-performance queries and optimized data storage strategies using effective indexing and partitioning techniques, reducing query latency by **40%**.\n- Collaborated with cross-functional teams to write technical documentation and ensure robust technical English communication, enhancing project understanding and facilitating better code reviews.\n- Automated data handling workflows with Spring Batch to improve processing time, optimizing job execution strategies, significantly reducing the need for manual interventions.\n- Participated in Agile ceremonies, providing technical insights and contributing to sprint planning and retrospectives, thus aligning development efforts with project timelines and enhancing team productivity."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Java, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Spring Boot, Spring Batch\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tKafka, RESTful APIs\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, NoSQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (RDS, S3), Azure (Blob, SQL)\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, ETL, File Parsing, Technical English",
+  "apply_company": "Future Connections"
+}

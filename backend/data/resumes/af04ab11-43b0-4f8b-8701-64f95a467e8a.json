@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience specializing in delivering high-performance applications. Proficient in **AWS**, **TypeScript**, **React**, **CI/CD**, **Microservices**, and **RESTful API** development, utilizing **Agile** methodologies to ensure efficient project execution.  \nSkilled in building responsive applications using **React Native** and implementing infrastructures as code (IaC) strategies. Experienced with testing frameworks such as **Jest**, **Cypress**, and **Backstop** to ensure high-quality deliverables.  \nPossesses a strong background in designing and developing applications across healthcare and financial industries, with hands-on expertise in both frontend and backend development using **Node.js**, **FastAPI**, **Django**, and **Vue**. Experienced in constructing AI/ML-powered platforms that leverage predictive analytics and automation.  \nProficient in deploying cloud-native systems and implementing microservices, event-driven architectures, and CI/CD pipelines, while aligning with compliance standards including HIPAA, FHIR, PCI DSS, and SOC 2. Solid experience in MLOps, focused on model training, serving, and orchestration through **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and deployed scalable **microservices** architectures using **AWS** technologies and **Node.js**, ensuring adherence to **Agile** methodologies for fast iteration and quality delivery.\n• Designed seamless front-end applications using **React** and **TypeScript**, enhancing user experience for both web and mobile platforms, including applications built with **React Native**.\n• Created and managed **CI/CD** pipelines utilizing **GitHub Actions** and **Azure DevOps**, achieving a **30%** reduction in deployment times through automation and rigorous testing.\n• Integrated **RESTful APIs** with secure back-end services, ensuring high performance and reliability while meeting compliance standards (HIPAA, FHIR, GDPR).\n• Implemented robust testing frameworks using **Jest** and **Cypress**, achieving **90%** test coverage across application functionalities, thereby enhancing code quality and stability.\n• Led the adoption of **Infrastructure as Code (IaC)** practices using tools like **Terraform**, streamlining environment provisioning and management.\n• Collaborated with cross-functional teams to design and develop **GraphQL** APIs, reducing data retrieval times by **40%** and improving the efficiency of data queries.\n• Orchestrated deployment workflows for mobile applications with technologies such as **Fastlane**, resulting in efficient rollouts and management of updates.\n• Spearheaded data-driven feature development utilizing analytics for user behavior and performance monitoring, resulting in a **25%** increase in user engagement.\n• Enhanced troubleshooting capabilities by establishing rigorous monitoring and alerting systems in line with DevOps best practices, leveraging tools like **Backstop** for visual testing."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Leveraged **AWS** to build and deploy microservices architecture, enhancing system scalability and reliability for financial applications.\n• Employed **TypeScript** to develop interactive front-end applications utilizing **React (18)** and **Next.js**, ensuring responsive design with Redux Toolkit and **Tailwind CSS** for user-friendly interfaces.\n• Implemented **CI/CD** pipelines to streamline code deployment and improve release cycles, increasing overall efficiency by **30%**.\n• Developed and maintained **RESTful API** services to support seamless integration with internal systems, ensuring high performance amid high transaction loads.\n• Utilized **Agile** methodologies to manage project timelines, resulting in successful delivery of projects with an on-time completion rate of **95%**.\n• Enhanced testing frameworks using **Jest**, **Cypress**, and **Backstop**, achieving a test coverage of **90%** for front-end applications.\n• Constructed event-driven architectures with **Kafka** and **RabbitMQ** to facilitate efficient message processing and low-latency communication across operational workflows.\n• Created robust ETL pipelines for processing financial data with **Apache Airflow** and **Azure Data Factory**, optimizing data workflows for batch and streaming use cases.\n• Developed machine learning models for fraud detection using **scikit-learn** and **XGBoost**, significantly improving detection capabilities and reducing false positives by **20%**.\n• Integrated real-time analytics capabilities into applications by combining **React**, **D3.js**, and **Power BI Embedded**, offering critical business insights to stakeholders instantly."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Leveraged **AWS** for cloud services, ensuring scalable architecture and high availability for the global e-commerce platform.\n• Developed and maintained frontend applications using **React** (version 18), enhancing user experience with **TypeScript**, **Redux Toolkit**, and **Tailwind CSS**.\n• Implemented CI/CD pipelines facilitating efficient development processes, improving deployment frequency by **30%**.\n• Designed microservices architecture with **Node.js** (NestJS, Express) and managed **RESTful APIs** for key modules like checkout and order fulfillment.\n• Applied Agile methodologies, leading sprints that resulted in a **25%** reduction in time-to-market for new features.\n• Developed and executed automated tests using **Jest**, **Cypress**, and **Backstop** to ensure high software quality and reliability.\n• Created robust backend services using **Python** frameworks (FastAPI, Django) and integrated real-time features using **WebSockets** and **Kafka**.\n• Collaborated in a microservices environment, optimizing performance and scalability, resulting in a **40%** increase in application responsiveness.\n• Engineered data storage solutions with **MongoDB**, **PostgreSQL**, and **Redis**, enabling fault-tolerant operations and fast data retrieval.\n• Designed secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, ensuring compliance with **PCI** standards for sensitive data handling.\n• Implemented role-based access control (RBAC) and **OAuth 2.0** for user authentication, ensuring GDPR compliance and robust data protection across the platform.\n• Participated in feature flagging and blue-green deployment strategies using **Kubernetes**, allowing safe, controlled rollouts of updates."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython\n\tJavaScript/TypeScript\n\n**Backend Frameworks**\n\tFastAPI\n\tFlask\n\tDjango\n\n**Frontend Frameworks**\n\tReact\n\tVue\n\tAngular\n\tReact Native\n\n**API Technologies**\n\tRESTful API\n\tGraphQL\n\n**Serverless and Cloud Functions**\n\tAWS: Lambda\n\n**Databases**\n\tPostgreSQL\n\tMySQL\n\tMongoDB\n\tRedis\n\n**DevOps**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tCI/CD\n\n**Cloud & Infrastructure**\n\tAWS: ECS, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\tIaC (Infrastructure as Code) - Terraform, Ansible, Helm, Docker Compose\n\n**Other**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tKeycloak (OIDC, RBAC)\n\tOAuth2\n\tJWT\n\tNginx\n\tLet’s Encrypt\n\tCertbot\n\tAgile\n\tMicroservices\n\tJest\n\tCypress\n\tBackstop\n",
+  "apply_company": "Hargreaves Lansdown"
+}

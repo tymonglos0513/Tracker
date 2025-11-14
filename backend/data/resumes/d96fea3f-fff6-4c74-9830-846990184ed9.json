@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Rust Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Rust Engineer with 13+ years of experience in building high-performance applications, now pivoting to leverage expertise in **Rust** for innovative AI solutions and Large Language Model development. Proficient in implementing CI/CD pipelines, conducting code reviews, and ensuring memory safety and concurrency in application design. Skilled in profiling, debugging, and adhering to idiomatic syntax while effectively documenting defects and data annotation. \n\nPreviously adept in **JavaScript/TypeScript**, **Python**, and **Flutter**, with robust experience in frontend and backend frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Possess a solid foundation in deploying cloud-native systems on **AWS** and **Azure**, along with hands-on experience in microservices, event-driven architectures, and compliance-driven development aligned with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Strong background in MLOps utilizing tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Rust Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines for Rust applications using **Cargo**, ensuring efficient build and deployment processes with automated testing through **cargo test** and **quickcheck**.\nConducted thorough code reviews to maintain high standards of **memory safety** and adherence to **idiomatic syntax** in all Rust codebases, leading to a **30%** reduction in defect rates.\nLed efforts in debugging and profiling applications, utilizing tools such as **Clippy** and **rustfmt** to improve code quality and maintainability across multiple teams.\nCollaborated with cross-functional teams to integrate **AI solutions** utilizing **Large Language Models** into existing projects, enhancing application functionalities and user experiences.\nDeveloped and documented robust error handling and concurrency strategies, ensuring reliable applications capable of handling **10,000+** concurrent users.\nImplemented benchmarking methodologies to assess application performance, resulting in optimizations that improved throughput by **25%**.\nGenerated and maintained comprehensive defect documentation to assist in the ongoing improvement of project standards and practices, promoting a culture of learning and adaptation.\nParticipated in data annotation projects, preparing datasets for training and validating **AI models** that improved the accuracy of delivered solutions.\nFostered a culture of collaboration across engineering teams, encouraging knowledge sharing and best practices in Rust programming."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Rust** alongside **Cargo** and **Cargo test** to develop and maintain robust, efficient code, ensuring high levels of **memory safety** and **concurrency** for large-scale AI solutions.\nConducted thorough **code reviews** and **profiling**, applying **debugging** techniques to identify and resolve defects, maintaining high code quality and performance standards within a team of engineers.\nImplemented automated **CI/CD** pipelines to streamline deployment processes, enhancing collaboration and reducing deployment times by **30%**.\nDocumented defects and annotated data to improve the accuracy of **Large Language Model** training, contributing to the development of innovative AI solutions for real-world applications.\nApplied **benchmarking** techniques to analyze and improve system performance, achieving a decrease in resource consumption by **20%** during peak load conditions.\nEnsured idiomatic syntax in all code contributions, adhering to the **Clippy** and **rustfmt** standards to maintain the readability and maintainability of projects.\nCollaborated effectively within agile teams to deliver high-quality software, using tools such as **quickcheck** for property-based testing, enhancing the reliability of the solutions developed."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Engineered AI solutions utilizing **Rust** with an emphasis on **memory safety**, **concurrency**, and **error handling**, adhering to industry standards through a structured **CI/CD** approach.\nConducted thorough **code reviews** to ensure **idiomatic syntax** and best practices in the development of robust and efficient software, enhancing code quality and team collaboration.\nPerformed rigorous **profiling** and **debugging** to optimize performance, driving down response times by up to **30%** through applied benchmarks and code enhancements.\nManaged **defect documentation** and **data annotation** processes to streamline project workflows and improve debugging efficiency, achieving a reduction in unresolved issues by **25%** over a **6-month** period.\nDeveloped unit and integration tests using **cargo test** and **quickcheck**, ensuring the integrity of code and adherence to quality standards with over **90%** test coverage.\nUtilized **Cargo** for effective package management and dependency resolution, implementing **rustfmt** to maintain consistent coding styles across the development team.\nCollaborated closely with cross-functional teams to define and establish best practices, resulting in increased productivity and a more cohesive development environment.\nThoroughly documented code changes and architecture decisions to foster knowledge sharing and support ongoing team learning initiatives."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\t•\tPython\n\t•\tJavaScript/TypeScript\n\t•\tRust\n\n **Backend Frameworks:**\n\t•\tFastAPI\n\t•\tFlask\n\t•\tDjango\n\n **Frontend Frameworks:**\n\t•\tReact\n\t•\tVue\n\t•\tAngular\n\n **API Technologies:**\n\t•\tKeycloak (OIDC, RBAC)\n\t•\tOAuth2\n\t•\tJWT\n\n **Serverless and Cloud Functions:**\n\t•\tAWS: Lambda\n\n **Databases:**\n\t•\tPostgreSQL\n\t•\tMySQL\n\t•\tMongoDB\n\n **DevOps:**\n\t•\tDocker\n\t•\tKubernetes\n\t•\tGitHub Actions\n\t•\tGitLab CI/CD\n\n **Cloud & Infrastructure:**\n\t•\tAWS: ECS, RDS, S3\n\t•\tAzure: App Services, Blob Storage, SQL Database\n\t•\tTerraform\n\t•\tAnsible\n\t•\tHelm\n\t•\tDocker Compose\n\n **Other:**\n\t•\tMLflow\n\t•\tAirflow\n\t•\tKubeflow\n\t•\tCI/CD\n\t•\tcode review\n\t•\tprofiling\n\t•\tdebugging\n\t•\tmemory safety\n\t•\tconcurrency\n\t•\terror handling\n\t•\tidomatic syntax\n\t•\tdefect documentation\n\t•\tdata annotation\n\t•\tbenchmarking\n\t•\tcollaboration\n\t•\tNginx\n\t•\tLet’s Encrypt\n\t•\tCertbot\n\t•\tRedis\n",
+  "apply_company": "FRATCH"
+}

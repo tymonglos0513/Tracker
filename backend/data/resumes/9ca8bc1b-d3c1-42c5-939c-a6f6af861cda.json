@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Python Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior Python Backend Engineer with 13+ years of experience specializing in **Python**, **Django**, and cloud services including **AWS**, **Azure**, and **GCP**. Expert in designing scalable systems and implementing **CI/CD** processes with tools such as **Docker**, **Kubernetes**, **Terraform**, and **CloudFormation**. Proven track record in backend development using **Node.js** and proficient in microservices architectures and **gRPC**. \nAdditionally skilled in database technologies with hands-on experience in both relational and schema-less databases. Strong background in software delivery for high-performance applications, coupled with experience in compliance-driven development and ensuring adherence to industry standards.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Django** to design and build scalable backend solutions for health and finance applications, integrating with **AWS**, **Azure**, and **GCP** for cloud services and infrastructure management.\nImplemented **CI/CD** pipelines with tools such as **Terraform**, **CloudFormation**, and **GitHub Actions** to automate testing and deployment processes, ensuring robust and scalable delivery methodologies with a focus on availability and performance.\nEngineered microservices architectures using **Docker** and **Kubernetes** to support load balancing and fault tolerance, optimizing deployment strategies for high-traffic environments with over **10,000** concurrent users.\nDeveloped and maintained **relational databases** such as PostgreSQL and **schema-less databases** like MongoDB to optimize data retrieval and storage for transactions exceeding **1 million** per day.\nDesigned and exposed APIs via **GraphQL** and **gRPC** to facilitate seamless data communication between services, leading to a **30%** reduction in latency for end-user requests.\nLed the adoption of **scalable system design** principles when transitioning from monolithic systems, enhancing application responsiveness and maintainability.\nCollaborated with frontend teams to integrate backend services, ensuring compatibility with modern frameworks and enhancing user experience by implementing features that decreased the loading time by **40%**.\nEstablished security measures and compliance with industry standards such as HIPAA and PCI DSS in backend systems, safeguarding sensitive data and ensuring regulatory adherence.\nFacilitated effective cross-team communication by leading technical discussions and workshops focused on the implementation of best practices in software design and architecture."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** (Django) to modernize core financial platforms by migrating to microservices architecture, resulting in a **30%** increase in system scalability and performance for high-volume transactional systems.\nEngineered robust backend services using **Node.js** (NestJS/Express) in conjunction with **GraphQL** to seamlessly integrate with front-end applications built with **React** (18), Vue 3, and Next.js, achieving delivery of features in **40%** reduced time.\nImplemented CI/CD pipelines using **Docker** and **Kubernetes**, enabling automated deployments and increasing the overall deployment efficiency by **50%**.\nDesigned and deployed an event-driven architecture leveraging **Kafka** and **RabbitMQ**, which facilitated asynchronous communication across critical workflows, thereby improving transaction processing times by **25%**.\nDeveloped ETL pipelines using **Python** and **Azure Data Factory** to efficiently ingest financial data from both internal and third-party sources, concurrently supporting batch and real-time processing.\nCreated and deployed machine learning models for fraud detection using **scikit-learn** and **XGBoost**, improving proactive fraud detection by identifying suspicious activity based on **95%** accuracy in user behavior and transaction patterns.\nIntegrated real-time credit scoring and transaction classification into backend services using MLflow and Airflow, enhancing the predictive capabilities of financial systems."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed scalable backend services utilizing **Python** and **Django**, ensuring smooth operation and performance across high-demand environments, resulting in a systems performance improvement of **30%**.\n• Leveraged **Node.js** frameworks like Express for asynchronous processing, achieving a **25%** reduction in response times in key APIs.\n• Designed and implemented CI/CD pipelines using **Docker** and **Kubernetes**, promoting efficient software delivery and reducing deployment times by **40%**.\n• Employed **AWS** and **Terraform** for infrastructure as code, streamlining setup and management of cloud resources, leading to cost reductions of approximately **20%**.\n• Managed data storage solutions with **MongoDB** and **PostgreSQL**, facilitating efficient access and transaction handling across a distributed environment for over **1M** daily users.\n• Collaborated on service architecture using **GraphQL** and **gRPC** for efficient data fetching and communication between services, enhancing performance and reducing data over-fetching issues.\n• Introduced best practices for database optimization and design patterns, significantly enhancing the read and write operations on **schema-less databases**.\n• Implemented robust security protocols, applying **RBAC** and **OAuth 2.0** for user authentication and authorization, ensuring data protection and compliance with regulations.\n• Utilized **CloudFormation** to automate the provisioning of application resources, decreasing infrastructure setup time by **50%** while increasing reliability.\n• Contributed to team knowledge sharing on **Go** language support, thus broadening skill sets and improving overall project outcomes."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Go, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tDjango, FastAPI, Flask, Node.js\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tGraphQL, gRPC\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\tGCP\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\trelational databases, schema-less databases\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose, CDK, CloudFormation\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, scalable system design, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot"
+}

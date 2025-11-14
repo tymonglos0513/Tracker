@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior DevOps Engineer with 13+ years of experience specializing in cloud-native system deployment using **AWS**, **Docker**, **Kubernetes**, and **Terraform**. Proficient in implementing CI/CD pipelines with **GitLab CI/CD**, and monitoring systems utilizing **Prometheus**, **Grafana**, and **InfluxDB**. Skilled in performance testing and load testing with tools like **Locust**, **Gatling**, and **K6**. Solid programming background in **Python** and **Bash**, and proficient in using **Java** for backend services.\n\nAccomplished Full Stack Developer with extensive experience in delivering high-performance applications across the healthcare and financial sectors. Expertise in **JavaScript/TypeScript**, **Flutter**, and diverse frameworks including **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experienced in developing AI/ML-powered platforms that facilitate predictive analytics and automation. Strong understanding of compliance-driven development principles, ensuring alignment with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Well-versed in MLOps practices, focusing on model training, serving, and orchestration utilizing **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and maintained robust CI/CD pipelines leveraging **GitLab CI/CD**, ensuring automated testing and deployment processes across multiple environments.\nUtilized **Docker** and **Kubernetes** for container orchestration, delivering scalable and fault-tolerant applications in production environments.\nDeveloped efficient infrastructure as code (IaC) using **Terraform**, enabling consistent and repeatable deployments across **AWS** cloud services.\nMonitored application performance and health metrics via **Prometheus** and visualized them using **Grafana**, achieving a reduction in incident response time by **30%**.\nConducted load testing with **Locust**, **Gatling**, and **K6** to benchmark application performance, identifying critical bottlenecks that improved throughput by **25%**.\nDesigned and executed state-of-the-art logging and monitoring solutions, achieving enhanced visibility into application health using **InfluxDB**.\nCollaborated with developers and ML teams to integrate AI-driven analytics into CI/CD workflows, ensuring model performance metrics are consistently monitored post-deployment.\nOptimized scripts in **Python** and **Bash** to automate routine tasks and improve operational efficiency across the DevOps lifecycle.\nProvided technical guidance and mentorship to junior engineers, significantly improving team productivity and skill levels in DevOps practices.\nEngaged in troubleshooting and resolving infrastructure issues, maintaining high availability of applications across **AWS** and Kubernetes clusters."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Implemented CI/CD pipelines using **GitLab CI/CD** for automating deployments, achieving a **50% reduction** in deployment times.\n- Managed containerization of applications with **Docker** and orchestrated them using **Kubernetes**, ensuring high availability and scalability of services handling **10,000+ requests** per minute.\n- Utilized **Terraform** for infrastructure as code, establishing and maintaining cloud resources on **AWS**, leading to a **30% cost savings** through optimized resource allocation.\n- Monitored system performance and application health using **Prometheus** and **Grafana**, resulting in a **25% improvement** in incident response time across production environments.\n- Conducted performance testing using **Locust**, **Gatling**, and **K6**, stress-testing applications with simulated loads of up to **100,000 virtual users** to identify bottlenecks.\n- Developed automation scripts using **Python** and **Bash** to streamline operational tasks and improve system reliability, enhancing overall team efficiency by **40%**.\n- Led efforts in disaster recovery planning and implementation, ensuring compliance with industry standards and minimizing downtime to less than **1 hour** annually.\n- Collaborated with cross-functional teams to enhance DevOps practices, fostering a culture of continuous improvement and agile methodologies across the organization."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Managed application deployment and infrastructure using **AWS**, **Docker**, and **Kubernetes**, facilitating scalable and reliable environments for multiple microservices.\n- Designed CI/CD pipelines with **GitLab CI/CD** to automate deployments, ensuring faster release cycles and consistent quality across development environments.\n- Monitored system performance and health using **Prometheus** and **Grafana** for real-time data visualization, maintaining a **99.9%** uptime and quick issue resolution.\n- Implemented infrastructure as code using **Terraform**, allowing for **efficient** provisioning and management of resources across multiple environments.\n- Conducted load testing with **Locust**, **Gatling**, and **K6**, simulating user traffic and identifying bottlenecks to enhance system performance during peak times by over **30%**.\n- Developed custom scripts in **Python** and **Bash** for automation and orchestration tasks, reducing manual overhead and improving team productivity by **25%**.\n- Collaborated on code reviews and version control using **Git**, ensuring high code quality and adherence to best practices within the DevOps team.\n- Assisted in migrating legacy systems to modern architectures leveraging **Docker** and microservices, improving overall application maintainability and scalability.\n- Engaged in continuous learning and adoption of new technologies to strengthen the DevOps environment, ensuring alignment with industry standards."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Java, Bash\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, S3\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Prometheus, Grafana, InfluxDB, Locust, Gatling, K6\n\n**Cloud & Infrastructure:**\n\tAWS: RDS\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tNginx, Let’s Encrypt, Certbot, Airflow, Kubeflow, Helm, Docker Compose",
+  "apply_company": "Sii Ukraine"
+}

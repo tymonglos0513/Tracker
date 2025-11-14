@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Big Data Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-477994390/",
+  "profile_summary": " results-oriented Big Data Engineer with 9+ years of experience in designing and implementing scalable data processing solutions using **Apache Flink**, **Apache Kafka**, and **Spark**. Proficient in Java and Scala for developing data pipelines and real-time processing applications. Expertise in utilizing **Apache Airflow** for workflow management and orchestration. Solid background in SQL and NoSQL databases, ensuring efficient data storage and retrieval. Familiar with cloud services such as **AWS S3** for data storage and utilizing monitoring tools like **Grafana**, **Nagios**, and **Dynatrace** for performance optimization. Additionally, I have a strong foundation in microservices architecture and distributed systems, with practical experience in tools like **RabbitMQ** and **Redis**, demonstrating my ability to deliver robust and efficient solutions while optimizing development processes.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Big Data Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Apr 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Utilized **Apache Kafka** for integrating real-time data streaming, enhancing data processing capabilities in line with Big Data trends.\nImplemented **Spark** and **Spark Streaming** to process large data sets efficiently, optimizing data handling and analytics workflows.\nDeveloped RESTful APIs in **Java** and **Scala**, ensuring seamless access to data across various services while integrating with **NoSQL** and **SQL** databases.\nDesigned data pipelines using **Apache Flink** and **Apache Airflow**, orchestrating workflows that improved data quality and timeliness by 30%.\nEnhanced cloud storage solutions utilizing **AWS S3** and **MinIO**, facilitating scalable and cost-effective data storage management.\nMonitored system performance and health using **Grafana**, **Nagios**, and **Dynatrace**, enabling proactive management of data infrastructure issues.\nCreated interactive data visualizations through advanced reporting engines, transforming complex data sets into actionable insights.\nOptimized existing strategies for task scheduling and job execution, leading to a 40% reduction in data processing times.\nExecuted CI/CD practices for Big Data applications, achieving streamlined deployment cycles and reducing operational overhead by 25%."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Designed and implemented scalable data processing pipelines using **Apache Kafka** and **Apache Flink**, improving data throughput by **40%**.\nDeveloped and optimized ETL processes with **Apache Airflow** for automated data extraction, transformation, and loading tasks, increasing data accuracy by **20%**.\nUtilized **Spark** and **Spark Streaming** to handle large-scale data processing, achieving real-time analytics and reducing processing time by **35%**.\nArchitected data storage solutions using **NoSQL** databases, ensuring high availability and performance for massive datasets.\nCreated and maintained RESTful APIs for efficient data access, integrating with various microservices architecture.\nImplemented monitoring and alerting solutions using **Grafana** and **Nagios** to ensure system reliability and uptime.\nCollaborated with data scientists to develop data models and reporting strategies that facilitate actionable business insights.\nLeveraged **AWS S3** and **MinIO** for cloud storage solutions, optimizing data retrieval speeds by **30%**.\nPerformed coding best practices and participated in code reviews, fostering a culture of continuous improvement within the engineering team.\nUtilized **SQL** for querying relational databases and optimizing complex queries to enhance performance."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Utilized **Apache Kafka** for efficient data streaming, enabling real-time processing capabilities and enhancing data handling by **30%**.\nDeveloped and optimized data pipelines using **Apache Flink**, increasing data processing speed by **25%**.\nDesigned and implemented data workflows with **Apache Airflow**, improving task scheduling efficiency and reducing overall processing time.\nCreated and managed data storage solutions using **AWS S3** and **MinIO**, ensuring data accessibility and reliability.\nResolved performance bottlenecks in SQL and NoSQL databases, achieving a query performance improvement of **15%**.\nCollaborated with cross-functional teams to build scalable data architectures using **Spark** and **Spark Streaming**, facilitating large-scale data processing applications.\nImplemented monitoring solutions with **Grafana**, ensuring system health and performance metrics visibility.\nManaged integrations with various data sources using **REST** and **SOAP** APIs, enhancing data acquisition flexibility.\nExecuted data quality checks and validations to ensure integrity across all datasets.\nParticipated in Agile ceremonies, contributing to sprints aimed at delivering data-driven insights and innovations."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tJava, Scala, Python, TypeScript, JavaScript\n\n**Backend Frameworks**\n\tNodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n\n**Frontend Frameworks**\n\tReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n**API Technologies**\n\tRESTful API, GraphQL, SOAP\n\n**Serverless and Cloud Functions**\n\tAWS S3\n\n**Databases**\n\tMSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB, SQL, NoSQL\n\n**Messaging & Caching**\n\tApache Kafka, RabbitMQ, Redis\n\n**Cloud & Infrastructure**\n\tAWS, Azure, MinIO, Grafana, Nagios, Dynatrace\n\n**Other**\n\tUX/UI Design, Git, GitHub, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Blockchain: Solidity, Ether.js, Web3.js, Ethereum"
+}

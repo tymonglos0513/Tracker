@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Software Engineer with 8 years of comprehensive experience in full-stack development. Proficient in **C#.NET**, leveraging **SQL** for robust database management and **Docker** for containerization in multithreaded applications. Skilled in modern software practices including **TDD** and **BDD**, ensuring code quality and performance. Adept in using **Git** for version control and collaboration across teams. Experienced in distributed services architecture and proficient in **Linux** environments, alongside familiarity with tools like **Team City** for CI/CD automation. \n\nMy previous roles include developing high-performance solutions for the healthcare and financial sectors, utilizing **JavaScript**, **TypeScript**, and **Python** frameworks such as **React**, **Next.js**, and **Django**. I have successfully integrated voice technologies including **VoIP** and **PBX** systems, applying knowledge of **SIP** and **RTP** protocols. I also bring expertise in cloud platforms like **Azure** and **AWS**, and have led the development of enterprise-grade platforms implementing AI/ML capabilities for real-time data processing and predictive analytics.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed enterprise-level applications using **C#.NET** for backend services, ensuring high performance and scalability in multithreaded environments.\n- Implemented Test-Driven Development (**TDD**) practices to ensure code quality, utilizing unit testing frameworks and automated testing tools for comprehensive coverage.\n- Led the design and implementation of **distributed services** architecture leveraging **Docker** for containerization, achieving improved performance and reliability.\n- Managed version control and collaborative development using **Git**, ensuring a seamless integration and deployment process across various platforms.\n- Designed and deployed VoIP solutions using **Asterisk** and **Kamailio**, optimizing call handling and processing through efficient SIP and RTP protocols.\n- Established CI/CD pipelines using **TeamCity**, enabling automated builds, tests, and deployments for continuous integration and delivery.\n- Conducted performance analysis and troubleshooting using **Wireshark**, identifying network bottlenecks and improving service latency by over **30%**.\n- Collaborated with cross-functional teams to develop and integrate PBX functionalities, ensuring seamless communication across internal and external systems.\n- Utilized **SQL** for database management, ensuring data integrity and optimized querying capabilities for complex data operations.\n- Adopted Behavior Driven Development (**BDD**) methodologies to enhance collaboration among stakeholders and improve the clarity of project requirements.\n- Optimized backend services for **Linux** environments, ensuring efficient resource utilization and system stability across diverse deployment scenarios."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **C#.NET** and **SQL** to design and implement multithreaded applications, significantly improving performance and scalability for high-traffic environments.\nEmployed **Git** for version control and collaborated using TDD and BDD methodologies, ensuring robust code quality and project delivery aligned with Agile practices.\nDeveloped and maintained distributed services architecture, leveraging **Docker** for containerization to streamline deployments across platforms.\nConfigured and optimized **VoIP** systems with **Asterisk** and **Kamailio**, enhancing communication efficiency with a reduction in latency by **30%**.\nImplemented **PBX** solutions supporting SIP and RTP for seamless audio and video communication, achieving a **25%** reduction in operational costs.\nAnalyzed networking issues using **Wireshark**, ensuring high availability and reliability of services with an uptime guarantee of **99.9%**.\nAutomated CI/CD pipelines using **Team City**, reducing deployment time by up to **50%** while ensuring consistent delivery of new features and bug fixes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained robust **C#.NET** applications for distributed services, utilizing **multithreading** to enhance performance and scalability in high-demand environments.\n- Implemented **TDD** (Test-Driven Development) practices to ensure high code quality and reliability, leading to an increase in deployment confidence by **30%**.\n- Collaborated with cross-functional teams using **Git** for version control, managing five major release branches simultaneously, while also facilitating smooth integration and code reviews.\n- Engineered VoIP solutions utilizing **SIP**, **RTP**, and **Asterisk**, successfully deploying a customer service platform that handles over **200 concurrent calls** with less than **100ms latency**.\n- Conducted performance analysis and troubleshooting using tools like **Wireshark**, improving call quality metrics by **25%**.\n- Designed and executed automated deployment pipelines with **Team City** and **Docker**, reducing deployment times by **40%** and increasing overall team agility.\n- Enhanced existing legacy systems by integrating modern workflows and ensuring compatibility with **Linux** environments, leading to improved system uptime of **99.9%**.\n- Utilized BDD principles to align development closely with business objectives, resulting in a **50%** reduction in common customer complaints.\n- Managed database interactions using **SQL**, ensuring efficient data access and manipulation to support business-critical applications.\n- Developed and implemented a comprehensive PBX system using **Kamailio**, achieving cost reductions of up to **20%** in telephony expenses while maintaining service quality.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tC#.NET, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tSIP, RTP, VoIP, PBX\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, Git, GitHub Actions, GitLab CI/CD, Team City, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL), Linux\n\n**Other:**\n\tArtificial Intelligence, Machine Learning, MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, BDD, multithreaded, distributed services, Wireshark, Asterisk, Kamailio",
+  "apply_company": "Saab"
+}

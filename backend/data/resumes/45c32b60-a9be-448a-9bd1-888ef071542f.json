@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior AWS Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior AWS Engineer with 8 years of full-stack development experience, specializing in **AWS**, **CI/CD**, **Terraform**, **AWS CDK**, and automation tools like **Jenkins** and **Bitbucket**. Proficient in writing robust infrastructure as code solutions and implementing continuous integration and delivery pipelines. My technical skills also encompass cloud services, advanced scripting in **Python**, **Groovy**, and **Bash**, coupled with best practices in software testing frameworks such as **Selenium**, **XRAY**, and **Gherkin**, with an orientation towards Behavior Driven Development (BDD).\n\nI have successfully led initiatives integrating **Snyk** for security scanning and **Sentry** for monitoring, while leveraging **SumoLogic** for log management and analytics. My foundation in microservices architecture aids in building scalable applications that meet stringent compliance standards. Additionally, I bring a strong capability in developing machine learning pipelines and implementing MLOps workflows, enriched by hands-on experience with **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AWS Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented enterprise-level **CI/CD** pipelines utilizing **AWS**, **Jenkins**, **GitHub Actions**, and **CircleCI**, incorporating linting, testing, security scans (via **Snyk**) and multi-environment deployments for scalable web and API services.\nUtilized **AWS CDK** and **Terraform** for infrastructure as code, enabling automated and reproducible deployment of cloud resources within **AWS**.\nDesigned and executed testing strategies employing tools such as **Selenium**, **Cypress**, **JUnit**, and **Postman**, ensuring robust continuous integration and delivery processes through Behavior-Driven Development (**BDD**) principles using **Gherkin**.\nCollaborated closely with cross-functional teams to enhance system reliability and monitoring solutions using **AWS CloudWatch**, **Sumo Logic**, and **Sentry**, facilitating real-time insights and alerts.\nEmployed scripting languages like **Python**, **Groovy**, and **Bash** to automate routine tasks, thereby enhancing efficiency and reducing manual error rates by **30%**.\nDelivered solutions that improved application performance and availability by **25%** through optimizations in **AWS** services like **Lambda**, **EC2**, and **RDS**.\nReduced deployment times on average by **40%** through the orchestration of containerized applications using **Docker** and **Kubernetes**, ensuring seamless scaling during peak loads.\nStreamlined logging and error handling for applications using **Sentry** and cloud-native monitoring tools to provide traceability and quicker issue resolution.\nContributed to the development of hybrid cloud strategies involving **AWS** and on-premise solutions, ensuring compliance with deployment standards and security features."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS** services to enhance cloud infrastructure for financial platforms, ensuring scalability and security in line with business needs.\nImplemented CI/CD pipelines using **Jenkins** and **Bitbucket** to automate testing and deployment processes, increasing deployment frequency by **30%**.\nCollaborated with cross-functional teams to create Infrastructure as Code (IaC) using **Terraform** and **AWS CDK**, streamlining environment setup for development and production.\nDeveloped robust testing strategies employing **Selenium** for automated UI testing and **XRAY** for test management, ensuring code quality and system reliability across applications.\nEngaged in Behaviour Driven Development (BDD) using **Gherkin**, enabling clear specifications for features that improve team collaboration and understanding of requirements.\nMonitored application performance and security using **Snyk**, **Sentry**, and **SumoLogic**, identifying and mitigating potential risks in real time to maintain compliance and operational integrity.\nProduced shell scripts with **Bash** and **Groovy** to optimize runtime processes and streamline operational tasks, thereby reducing manual effort by **25%**.\nLed the automation of code quality checks and security scanning, fostering a DevSecOps culture that resulted in reduced vulnerabilities in production by **20%**.\nLeveraged **Python** to develop backend services that integrate machine learning models for proactive analytics in financial transactions, enhancing real-time decision-making capabilities."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Leveraged **AWS** for deploying scalable backend services in cloud environments, ensuring high availability and optimal resource management with tools like **Terraform** and **AWS CDK**.\nImplemented **CI/CD** pipelines using **Jenkins** and **Bitbucket** for seamless integration and delivery, facilitating faster deployment cycles with frequent updates across multiple environments.\nDesigned automated testing frameworks using **Selenium** and incorporated **BDD** methodologies utilizing **Gherkin** to enhance the quality and reliability of deliverables, achieving a **98%** test coverage.\nUtilized **Snyk** for proactive vulnerability scanning and remediation, maintaining security standards across all developed applications and ensuring compliance with industry regulations.\nMonitored application performance and errors through **Sentry** and **SumoLogic**, resulting in a **30%** improvement in troubleshooting time and overall system reliability.\nDeveloped and optimized backend services using **Python**, managing infrastructure-as-code with **Bash** and **Groovy** scripts, facilitating enhanced operational efficiency in service delivery.\nCrafted and maintained comprehensive documentation for deployment processes, CI/CD workflows, and security protocols to assist team collaboration and onboarding new engineers.\nParticipated in code reviews and architectural discussions, enhancing team coding standards and fostering a culture of continuous improvement among engineering peers."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Groovy, Bash\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\tJWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), AWS CDK, Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Bitbucket, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tSnyk, Sentry, SumoLogic\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Selenium, XRAY, Gherkin, BDD, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Mitratech"
+}

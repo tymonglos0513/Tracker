@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Experienced Senior Data Engineer with 8 years in optimizing data pipelines and architecture in the healthcare and financial sectors. Proficient in **AWS**, **SQL**, and **Python**, with supplementary skills in **Scala** to develop robust data initiatives. Driven by a proactive mindset, I excel in implementing **CI/CD** automation and **Infrastructure-as-Code** strategies to enhance deployment efficiency and system reliability. Demonstrated expertise in building and managing **ETL** and **ELT** processes, while ensuring data integrity and compliance with standards. \nMy technical capabilities include monitoring and logging to enhance data quality and operational performance. I leverage strong communication skills to collaborate effectively across teams and take ownership of projects from conception to production. My experience also includes working with modern frameworks and architectures like **FastAPI** and **Django**, as well as integrating cloud solutions with **AWS**. I am committed to delivering high-impact data-driven solutions that power strategic insights.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented ETL and ELT processes to ensure seamless data ingestion and transformation using **Spark** and **AWS**, delivering data pipelines with 99.9% uptime.\nArchitected robust data architecture in compliance with data contracts, leveraging **SQL** and **Python** for data manipulation and querying, optimizing performance for large datasets with over **1 million** records.\nDeveloped and maintained **Infrastructure-as-Code** strategies using tools like Terraform and AWS CloudFormation, facilitating automated deployment and scalability across environments.\nMonitored and logged data processes to ensure reliability, employing advanced monitoring tools and dashboards, achieving a **30%** reduction in data retrieval times.\nCollaborated with cross-functional teams to establish clear communication channels, fostering a proactive mindset in data management and ownership of data integrity across all projects.\nParticipated in the design and implementation of CI/CD pipelines for data workflows, utilizing tools like **AWS CodePipeline** and **Jenkins**, which improved deployment frequency by **75%**.\nDesigned and implemented comprehensive logging strategies to trace data lineage and audit trails, ensuring adherence to compliance and operational resilience.\nConducted regular data quality checks and validations, utilizing automated scripts to maintain data integrity, successfully identifying and resolving issues in over **200** data deployments.\nEngaged with stakeholders to understand data needs and convey complex technical concepts in a clear manner, enhancing project alignment and decision-making processes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Python** and **SQL** to develop and modernize data architectures, enhancing data processing capabilities for high-volume financial transactions, resulting in a **30%** increase in throughput.\nImplemented **ETL** and **ELT** processes using **Apache Spark**, **Azure Data Factory**, and **Python**, ensuring efficient batch and real-time data ingestion from internal and third-party systems, leading to an **80%** reduction in data integration time.\nDesigned and executed CI/CD pipelines for data workflows, promoting a culture of automation and efficiency, which improved deployment speed by **40%**.\nCreated infrastructure-as-code solutions using **AWS** services, optimizing cloud resource management and enhancing scalability and reliability for data operations.\nEstablished monitoring and logging protocols across data pipelines, ensuring proactive identification of issues and maintaining data integrity and compliance in financial systems.\nApplied a proactive mindset to develop and enforce data contracts, ensuring alignment among stakeholders and fostering clear communication across projects.\nDemonstrated strong ownership and accountability in managing end-to-end data solutions, ensuring high standards of quality and performance in all deliverables."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Applied strong **Python** skills to design and optimize backend services for data processing pipelines, ensuring high availability, low latency, and scalability.\nUtilized **AWS** services for cloud infrastructure and deployment, focusing on reliability and performance in data workflows.\nImplemented **CI/CD** practices for seamless integration and delivery of data solutions, enhancing the development lifecycle and deployment efficiency.\nDeveloped effective **ETL** and **ELT** processes to manage data from diverse sources, ensuring clean and structured data for analytics and reporting.\nEngineered robust data architecture with a strong emphasis on **SQL** design, enhancing data retrieval times and storage efficiency.\nCreated proactive monitoring and logging strategies to track data processes and ensure compliance with SLA metrics, facilitating timely troubleshooting and issue resolution.\nDemonstrated a proactive mindset by identifying opportunities for optimization in data handling processes, driving project ownership and continuous improvements.\nEngaged in effective communication with cross-functional teams to maintain alignment on project goals, fostering collaboration across departments.\nLeveraged **Infrastructure-as-Code** techniques to standardize provisioning and management of cloud resources, improving the agility of data projects.\nUtilized **Spark** for large-scale data processing tasks, enabling the handling of massive datasets with increased speed and efficiency.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Scala\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript, React, Vue, Angular\n\n**API Technologies:**\n\tNone\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, Infrastructure-as-Code\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Monitoring, Logging, ETL, ELT, Data Architecture, Data Contracts, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Proactive Mindset, Communication Skills, Ownership",
+  "apply_company": "Finanzguru"
+}

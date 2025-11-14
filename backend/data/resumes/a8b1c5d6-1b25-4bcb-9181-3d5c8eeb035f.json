@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Backend Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-kotlinski-08ba40390/",
+  "profile_summary": "As a skilled Backend Engineer, I bring 8 years of experience in developing high-performance solutions with a special focus on modern technologies such as **Elixir**, **Phoenix**, and **Postgres**. My extensive background in **CI/CD** and version control platforms like **GitLab**, **GitHub**, and **Jenkins** enables me to streamline deployment processes and enhance workflow efficiency. I am proficient in containerization and orchestration using **Docker** and **Kubernetes**, ensuring reliable application performance and scalability.\n\nI have significant experience building applications with **AWS** and a solid foundation in full-stack development with frameworks like **Next.js**, **React**, **Vue**, and **Angular**. Additionally, I have a deep understanding of microservices architecture and event-driven systems, which allows me to design robust and secure applications while adhering to compliance standards. Throughout my career, I have successfully led projects that integrate predictive analytics and intelligent automation, demonstrating my ability to deliver innovative solutions in complex environments.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained scalable applications using **Elixir** and **Phoenix**, ensuring optimal performance and high availability of backend services.\n- Implemented CI/CD pipelines utilizing **GitLab**, **GitHub**, and **Jenkins**, enhancing deployment efficiency and reducing bottlenecks across the development lifecycle.\n- Designed microservices-based architectures using **Docker** and **Kubernetes**, facilitating seamless scalability and maintainability of applications with support for high-traffic loads.\n- Architected database solutions with **Postgres** to manage large datasets, achieving performance improvements of up to **50%** in query times.\n- Collaborated with frontend teams to integrate APIs developed with **Next.js**, **React**, **Vue**, and **Angular**, ensuring a cohesive experience across user interfaces.\n- Developed unit and integration tests using tools like Jest and Cypress, achieving over **90%** code coverage and ensuring code reliability.\n- Conducted performance profiling and optimization efforts, leading to a reduction in average response times from **200ms** to **50ms** in high-load scenarios.\n- Maintained documentation and code quality standards, contributing to team efficiency and onboarding processes for new engineers.\n- Executed serverless functions on **AWS** to improve resource utilization and cost management, streamlining back-end processes.\n- Actively participated in code reviews and knowledge-sharing sessions, fostering a collaborative team environment and encouraging best practices among team members."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Elixir** and **Phoenix** for backend development, improving system performance and onboarding times by **25%**.\nConstructed robust database solutions with **Postgres**, optimizing query performance which resulted in a **30%** improvement in response times for critical applications.\nImplemented CI/CD pipelines with **GitLab**, **GitHub**, and **Jenkins**, achieving a deployment frequency increase of **40%** and reducing deployment rollback incidents.\nDeployed microservices using **Kubernetes** and **Docker**, enhancing system scalability and maintainability for high-traffic platforms.\nDeveloped responsive front-end applications using **Next.js**, **React (18)**, **Vue 3**, and **TypeScript**, focused on user engagement and experience.\nOptimized application performance by integrating **React**, **D3.js**, and Power BI for real-time analytics dashboards tailored to financial operations.\nImplemented asynchronous messaging systems using integration frameworks such as **Kafka**, **RabbitMQ**, and **Azure Service Bus** for improved event-driven architecture.\nCreated and managed ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory** for efficient data ingestion from multiple sources.\nLeveraged AI/ML methodologies through frameworks such as **scikit-learn** and **XGBoost**, enriching fraud detection capabilities to identify anomalies based on transaction patterns."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and maintained robust backend services using **Elixir** and **Phoenix**, ensuring high performance and scalability for essential e-commerce functionalities such as checkout and order fulfillment.\nOptimized databases with **Postgres**, ensuring efficient data storage and retrieval for high-traffic applications, achieving performance improvements by **30%** through optimized queries and indexing.\nImplemented CI/CD pipelines using **GitLab**, **Jenkins**, and **GitHub**, enabling rapid deployment cycles with **99.9%** uptime and reducing rollback incidents by **50%** during updates.\nArchitected containerized applications with **Docker** and orchestrated deployments with **Kubernetes**, achieving a streamlined development process through automated scaling and load balancing across clusters.\nDesigned and integrated cloud services on **AWS**, utilizing serverless architectures to deliver reliable, cost-effective solutions for handling over **1 million** transactions per day.\nCollaborated with frontend teams using **React**, **Vue 3**, and **Angular** to deliver cohesive user experiences across platforms while ensuring backend APIs are responsive and well-documented.\nIntegrated performance monitoring tools and logging frameworks, setting up alerts to maintain system health with an average response time of under **200ms** for key services.\nLeveraged automated testing frameworks to achieve over **90%** test coverage, improving code quality and reducing bug resolution time by **40%**.\nCreated user provisioning and access control systems with role-based access control (RBAC) strategies, applying security best practices and ensuring compliance with data protection regulations."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Elixir\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Phoenix\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular, Nextjs\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins\n\n **Cloud & Infrastructure:**\n\tAzure (App Services, Blob, SQL), Terraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot"
+}

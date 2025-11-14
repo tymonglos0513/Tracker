@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Skilled in Java, **Spring Boot**, **Spring Core**, and **RESTful APIs**, with 13+ years of experience as a Full Stack Developer delivering high-performance applications in healthcare and financial industries. Proficient in **Azure**, **CI/CD**, and **Azure DevOps**, with a solid understanding of microservices architecture and **Kubernetes** for container orchestration. Well-versed in security protocols, including **OAuth2**, **JWT**, and **OWASP** best practices. Experienced in database management with **SQL** and **Cosmos DB**, ensuring robust data access with **Spring Data Access**.\nDynamic in leveraging AI/ML technologies for predictive analytics and automation, with expertise in deploying cloud-native systems and implementing event-driven architectures. Strong background in MLOps practices, including model training and orchestration utilizing tools like MLflow and Airflow.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed robust backend services using **Java** and **Spring Boot** to create scalable web applications focusing on **RESTful APIs** and **Spring MVC** frameworks.\nImplemented **Spring Security** and **OAuth2** frameworks to ensure data integrity and secure authentication processes within applications.\nUtilized **Spring Data Access** to optimize data access strategies and improve performance with databases including **SQL** and **Cosmos DB**.\nDesign and maintain CI/CD pipelines leveraging **Azure DevOps** for streamlined deployment processes, ensuring frequent, reliable releases with less downtime.\nManaged and orchestrated containerized applications using **Kubernetes** to enhance the scalability and resilience of services while reducing operational overhead.\nEmphasized safety and security by applying **OWASP** principles to guard against common vulnerabilities in web applications.\nCollaborated with cross-functional teams to align development with business needs, ensuring a high level of software quality.\nEngaged in code reviews and mentoring to foster best practices and knowledge-sharing among junior engineers.\nConducted performance testing and monitoring to refine existing back-end services, enhancing operational efficiency.\nLed migration efforts from legacy systems to microservices architecture, improving modularity and deployment agility."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed robust backend solutions using **Java**, **Spring Boot**, and **Spring Core**, enhancing system performance and maintainability for financial applications.\nImplemented **RESTful APIs** adhering to best practices such as **OAuth2** and **JWT** for secure user authentication and authorization, ensuring compliance with industry standards.\nDesigned and maintained **SQL** and **Cosmos DB** databases, optimizing data access and query performance, resulting in a **25%** reduction in response times for financial queries.\nIntegrated **CI/CD** pipelines using **Azure DevOps** to streamline deployment processes, achieving a deployment frequency of **3 times per week** and improving release lifecycle efficiency.\nUtilized **Kubernetes** for container orchestration, ensuring application scalability and fault tolerance during peak load periods, managing over **1000** concurrent users.\nImplemented **OWASP** security guidelines during development, enhancing the robustness of applications against security vulnerabilities.\nParticipated in code reviews and architectural discussions, leveraging **Aspect-Oriented Programming** principles to improve cross-cutting concerns across applications.\nApplied **Dependency Injection** concepts to promote loose coupling and improved testability of the application components, facilitating easier maintenance and code upgrades."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and maintained scalable backend services for high-performance applications using **Java** and **Spring Boot**, ensuring adherence to **RESTful APIs** and incorporating **Spring MVC** principles to enhance modularity and structure.\nImplemented **Spring Security** and **OAuth2** for robust authentication and authorization mechanisms, safeguarding user data while ensuring compliance with security standards such as **OWASP**.\nUtilized **Spring Data Access** for efficient database interactions, optimizing CRUD operations with **SQL** databases and ensuring seamless integration with **Cosmos DB** for high availability and data consistency.\nEmployed **Dependency Injection** and **Inversion of Control** design patterns to achieve clean, maintainable code architecture and facilitate easier unit testing within the application.\nExecuted CI/CD pipelines using **Azure DevOps**, leading to faster deployment cycles and improved development workflows, achieving a **30% reduction** in deployment time.\nLeveraged **Kubernetes** for container orchestration, managing application scalability and reliability across various environments.\nConducted performance tuning and optimization for database queries, achieving a **15% increase** in application response times and reducing server load during peak usage.\nEnsured comprehensive documentation and adherence to coding standards, fostering collaboration and knowledge sharing within the engineering team while maintaining a strong code review process."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Python, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tSpring Boot, Spring Core, FastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tRESTful APIs, OAuth2, JWT, Spring Security\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, Cosmos DB\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Azure DevOps\n\n **Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Nginx, Let's Encrypt, Certbot, OWASP, Dependency Injection, Inversion of Control, Aspect-Oriented Programming, Spring Data Access, Spring MVC",
+  "apply_company": "Halian"
+}

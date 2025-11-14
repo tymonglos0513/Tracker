@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Cloud Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Cloud Engineer with 13+ years of experience in cloud operations and infrastructure management, specializing in **AWS**, **Azure**, and **GCP**. Proficient in automation, leveraging **Terraform** and **Ansible** for efficient deployments. Adept in **CI/CD** practices, utilizing tools like **Jenkins** and **Git** to streamline development workflows.\nStrong programming skills in **Python** and **Node.js**, coupled with extensive knowledge of **Linux** and **Windows** environments. Experienced in implementing **Kubernetes** for container orchestration and ensuring high availability of applications.\nDemonstrated expertise in compliance-driven development, aligning solutions with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Background includes building AI/ML-powered platforms and MLOps practices for model training and orchestration using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Cloud Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and implemented **cloud infrastructure** solutions on **AWS**, **Azure**, and **GCP**, ensuring optimal cloud operations and automation for scalable applications.\nDeveloped and maintained **CI/CD** pipelines utilizing **Jenkins**, **GitHub Actions**, and **CircleCI** to automate deployment processes, enhancing efficiency by **30%**.\nManaged container orchestration using **Kubernetes**, ensuring seamless deployment and scalability of applications, with rollback strategies reducing downtime by **50%**.\nWrote infrastructure as code using **Terraform**, automating the provisioning of cloud resources and maintaining version control through **Git**.\nExecuted incident management protocols to troubleshoot and resolve infrastructure issues, leading to a **40%** reduction in incident response time.\nLeveraged programming skills in **Python** and **Node.js** to develop scripts for automating cloud operations and enhancing cloud service integration.\nImplemented monitoring tools and automation scripts on **Linux** and **Windows** environments, improving system reliability and reducing manual intervention.\nCollaborated with DevOps teams to define best practices for **cloud operations**, ensuring security and efficiency across all environments.\nCreated documentation and training materials for teams on cloud best practices and automation techniques, enhancing knowledge sharing and team collaboration.\nConducted regular audits and evaluations of cloud infrastructure to ensure compliance with industry standards and internal policies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented and managed **cloud infrastructure** on **AWS**, **Azure**, and **GCP**, ensuring robust and scalable deployments for cloud operations.\nAutomated deployment processes using **CI/CD** pipelines with **Jenkins**, **Git**, and **Terraform**, enhancing team productivity with a 40% reduction in deployment times.\nDeveloped and maintained containerized applications using **Kubernetes**, streamlining microservices deployment and orchestration for improved system reliability.\nUtilized **Python** for scripting automation tasks and infrastructure management, optimizing resource allocation with a 30% increase in operational efficiency.\nManaged **Linux** and **Windows** servers, focusing on incident management and minimizing downtime to below **1%**.\nImplemented security protocols and procedures to safeguard **cloud operations**, proactively mitigating risks and ensuring compliance with regulations.\nCollaborated with development teams to integrate logging and monitoring solutions using tools like **Ansible** and **Prometheus**, reducing incident response time by **50%**.\nConducted training sessions on **cloud infrastructure** best practices, elevating team expertise and cohesion on emerging technologies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented cloud operations and cloud infrastructure solutions utilizing **AWS**, **Azure**, and **GCP** to ensure effective deployment and management of applications across multiple environments.\nAutomated infrastructure provisioning and management using **Terraform** and **Ansible**, improving deployment speed by **40%** and reducing errors through consistent configuration practices.\nDesigned and optimized backend services for a global e-commerce platform using **Python** (FastAPI, Django) and **Node.js** (NestJS, Express), ensuring high availability and scalability across key modules like checkout, cart, and order fulfillment.\nEstablished CI/CD pipelines using **Jenkins** and **Kubernetes**, achieving a deployment success rate of **99%** and reducing deployment times from hours to minutes by leveraging container orchestration.\nManaged incident management processes to minimize downtime and improve service reliability, leading to a **25%** decrease in service interruptions.\nLeveraged **Linux** and **Windows** server environments to implement efficient monitoring and uptime strategies that guaranteed **99.9%** system availability.\nEngineered automated scripts for routine administrative tasks to enhance cloud operations workflow efficiency, cutting manual labor time by **30%**.\nDeveloped secure cloud applications that adhere to industry best practices for privacy and data security, employing robust user access controls and compliance with **GDPR** guidelines.\nCollaborated with cross-functional teams to streamline cloud application performance using **Python** and **DevOps** methodologies, maximizing operational efficiency and application uptime.\nUtilized version control through **Git** to maintain source code integrity and facilitate teamwork across multiple projects."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Node.js\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda, Azure App Services\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, GCP, cloud operations, cloud infrastructure\n\n **Other:**\n\tLinux, Windows, CI/CD, automation, incident management"
+}

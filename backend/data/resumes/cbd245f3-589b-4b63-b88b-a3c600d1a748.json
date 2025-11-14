@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Staff Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Staff Engineer with 13+ years of experience developing scalable, high-performance applications in the healthcare and financial sectors. Proficient in **JavaScript**, **Python**, **Ruby**, and **Go**, with extensive hands-on experience in frameworks and libraries such as **Django**, **Node.js**, and **Rails**. Demonstrated expertise in building RESTful and GraphQL APIs, implementing CI/CD pipelines using **Jenkins** and **GitLab**, and deploying applications on **AWS**. \n\nSkilled in event-driven architecture and leveraging tools like **Kafka** and **SQS** to enhance system observability. Proven track record in designing and developing AI/ML solutions, utilizing techniques that support predictive analytics and automation. Strong compliance background ensuring all solutions meet HIPAA, FHIR, and PCI DSS standards, with a solid foundation in Domain-Driven Design and MLOps methodologies using **MLflow** and **Airflow**. Committed to delivering innovative technology solutions through motivation, teamwork, and continuous improvement.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Staff Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed scalable and event-driven applications leveraging **Ruby on Rails** and **Django**, ensuring high performance in line with business objectives.\n- Designed and implemented robust RESTful and **GraphQL** APIs to facilitate seamless communication between front-end and back-end systems, improving data accessibility by **30%**.\n- Led CI/CD initiatives using **Jenkins** and **GitLab**, achieving a **40%** reduction in deployment times through automated testing and integration processes.\n- Engineered observability frameworks to monitor system performance using tools such as **AWS CloudWatch** and **ELK Stack**, enhancing incident response time by **25%**.\n- Advanced AI and ML capabilities by deploying machine learning models with **Python** libraries such as **scikit-learn** and **TensorFlow**, resulting in a **15%** increase in prediction accuracy for critical processes.\n- Architected microservices utilizing **Node.js** and **Java** for comprehensive system integration, boosting throughput under peak load conditions by **20%**.\n- Collaborated on cross-functional teams to leverage **Kafka** and **AWS SQS** for message queuing, ensuring reliable and scalable data processing workflows.\n- Enhanced application performance with **Domain-Driven Design** principles, leading to a more maintainable codebase and a reduction in feature development time by **10%**.\n- Conducted thorough code reviews and design discussions to share knowledge and ensure adherence to best practices in **Python** and **JavaScript** development.\n- Mentored junior engineers in adopting industry-standard methodologies and fostered a culture of continuous improvement and innovation within the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Modernized core financial platforms by migrating to microservices architecture using **Node.js** (NestJS/Express) and **Python** (Django), improving scalability and performance to handle **9M** transactions daily.\n• Engineered interactive front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, applying **Redux Toolkit** and **Tailwind CSS** to develop sleek and responsive interfaces for financial tools and admin panels.\n• Delivered real-time analytics dashboards using **React**, **D3.js**, and **Power BI Embedded**, equipping operations teams with instant insights into over **100K** transactions and anomalies per month.\n• Designed and deployed a robust event-driven architecture utilizing **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication for critical workflows such as payments, alerts, and compliance.\n• Developed ETL pipelines for ingesting financial data from both internal and external sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, accommodating both batch and real-time processing for efficient data handling.\n• Built and deployed machine learning models for fraud detection utilizing **scikit-learn**, **XGBoost**, and **Azure ML**, achieving **95%** accuracy in identifying suspicious activities based on user behavior and transaction patterns.\n• Created ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services, supporting **30%** improved response times."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Ruby on Rails** and **Django** to design and optimize backend services for a global e-commerce platform, ensuring an event-driven architecture that supports scalability and high availability across core modules like checkout, cart, and order fulfillment.\nEngineered reactive features with **Kafka** and **AWS SQS** to facilitate real-time order updates and dynamic inventory tracking, enhancing customer engagement and operational efficiency.\nDeveloped and maintained robust APIs using **GraphQL** and **RESTful** services to support responsive frontend applications built with **JavaScript**, enhancing the user experience on web and mobile platforms by providing fast data retrieval.\nImplemented CI/CD pipelines using **Jenkins** and **GitLab**, achieving streamlined deployment processes and reduced release times by **30%** while ensuring code quality through automated testing and monitoring.\nLeveraged **Node.js** (version **16**) and **Spring** framework for microservices architecture, enabling rapid development and maintainability of scalable applications in a distributed environment.\nIntegrated machine learning models with **AI** and **ML** techniques to personalize product listings using tools like **scikit-learn** and **TensorFlow**, increasing conversion rates by **25%** based on real-time user behavior.\nEmployed **event-driven** architecture principles and implemented **Domain-Driven Design** strategies to manage complex domain logic effectively, ensuring a modular and sustainable codebase.\nMaintained observability and monitoring through integration with tools like **prometheus** and **Grafana**, allowing proactive performance tuning and anomaly detection to improve application reliability by **40%**.\nCreated secure and scalable payment workflows integrated with **Stripe** and **PayPal**, adhering to PCI compliance and ensuring safe transaction handling for over **100,000** monthly transactions.\nApplied role-based access control (RBAC) and **OAuth 2.0** to secure user access across the platform, maintaining GDPR compliance and safeguarding user data throughout the application lifecycle."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Ruby, Go, Java, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tDjango, Rails, Flask, FastAPI, Spring, Node.js\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tRESTful, GraphQL, API\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, S3, ECS\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins\n\n **Cloud & Infrastructure:**\n\tTerraform, Ansible, AWS, Azure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tAI, ML, Kafka, SQS, Domain-Driven Design, event-driven, scalable, observability",
+  "apply_company": "Housecall Pro"
+}

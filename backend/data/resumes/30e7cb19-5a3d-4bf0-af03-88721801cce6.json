@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Software Engineer with 10+ years of experience in backend development, specializing in observability and telemetry within cloud-native architectures. Proficient in **OpenTelemetry**, designing SDKs for enhanced API performance, and documenting technical processes for improved collaboration and communication. Expertise in programming and developing high-performing APIs using **Python** frameworks such as **FastAPI**, **Django**, and **Flask**, along with cloud services like **AWS** and **Azure**. Demonstrated success in leading impactful projects for prominent organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Implemented observability features using **OpenTelemetry** to enhance system monitoring and distributed tracing for backend services.\nDeveloped robust APIs in **Python** leveraging **FastAPI**, incorporating detailed documentation for better collaboration and communication across teams.\nEngineered event-driven solutions utilizing **Celery** and **Redis** for efficient asynchronous processing in managing financial transaction requests, resulting in a **35%** reduction in transaction handling time.\nDeployed and managed microservices in **Azure App Services**, using **Terraform** to ensure efficient infrastructure as code practices, enabling rapid deployment of services by **40%**.\nCreated and maintained reliable data pipelines with **Apache Airflow** and **Azure Functions**, achieving a **99.9%** uptime for regulatory data exchanges.\nLed security assessments by integrating **OAuth2** and **Azure AD B2C**, enhancing authentication systems for over **10,000** active users while ensuring compliance with data protection regulations.\nCollaborated with cross-functional teams to resolve complex system integration challenges and drive release strategies, improving overall project delivery timelines by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Implemented observability solutions using **OpenTelemetry** to enhance system monitoring and distributed tracing across microservices.\nDeveloped and documented **API** specifications for backend services in **Python** and **FastAPI**, ensuring clear communication and collaboration within cross-functional teams.\nEngineered backend systems to streamline user onboarding and reporting, resulting in a **30%** decrease in processing times.\nCreated event-driven microservices utilizing **Celery** and **Redis**, resulting in a **25%** improvement in asynchronous processing efficiency for financial data transactions.\nManaged deployment processes on **Azure App Services** with **Terraform** for infrastructure automation, achieving consistent environments and reducing deployment times by **40%**.\nOrchestrated secure data pipelines for regulatory compliance using **Apache Airflow** and **Azure Functions**, effectively reducing manual data handling errors by **15%**.\nLed security audits to maintain compliance with industry standards, successfully integrating **OAuth2** and **Azure AD B2C** for robust authentication and access controls."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Enhanced observability by integrating **OpenTelemetry** to monitor and improve service performance in backend systems.\n• Developed and documented robust APIs using **Flask** and **PostgreSQL** for trade execution and portfolio management, supporting over **100** transactions per second.\n• Collaborated with cross-functional teams to ensure effective communication and documentation throughout the development process, leveraging **SDKs** for streamlined integrations.\n• Implemented distributed tracing capabilities to enhance telemetry and debugging efficiency, contributing to compliance with external regulations including MiFID II and GDPR.\n• Built and maintained real-time price feed processors using **asyncio** and **WebSockets**, handling over **500** price updates per second for high-frequency trading.\n• Engineered comprehensive test suites with **PyTest** and **tox**, achieving over **95%** code coverage, and incorporating mock servers for rigorous QA and CI processes.\n• Optimized backend task execution through job queuing and scheduling solutions using **Celery** and **RabbitMQ**, significantly reducing process lag by **30%**."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, API\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\tcloud\n\n**Other**\n\tOpenTelemetry, SDKs, observability, telemetry, programming, documentation, collaboration, communication, distributed tracing, AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Microservices, Kafka, PyTest, Git",
+  "apply_company": "honeycomb.io"
+}

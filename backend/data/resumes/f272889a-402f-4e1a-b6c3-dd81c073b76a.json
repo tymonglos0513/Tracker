@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Cloud Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Cloud Engineer with 8 years of extensive experience in cloud technologies, specializing in **AWS**, **EC2**, **S3**, **ECS**, **RDS**, **VPC**, **IAM**, **CloudWatch**, **CloudFormation**, **Terraform**, **Ansible**, **Kubernetes**, and **Docker**. Proficient in **CI/CD**, monitoring, logging, alerting, and implementing serverless architecture. I possess a robust background in scripting with **Python**, **Bash**, and **PowerShell**, allowing me to automate processes and enhance system efficiency.\n\nMy proven track record includes leading the development of performance-driven solutions in the healthcare and financial sectors. I have integrated AI/ML capabilities for predictive analytics and implemented modern frameworks such as **React**, **Next.js**, **Node.js**, and **FastAPI**. Additionally, I have built secure applications that comply with standards like HIPAA, FHIR, PCI DSS, and SOC 2, ensuring the highest levels of data integrity and security. Adept at developing machine learning pipelines and infrastructure, I leverage tools such as **MLflow**, **Airflow**, and **Kubeflow** to optimize MLOps workflows.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Cloud Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and managed **AWS** services including **EC2**, **S3**, **RDS**, and **VPC** to ensure high availability and scalability of cloud-based applications.\nDeveloped CI/CD pipelines using **Terraform**, **Ansible**, and cloud-native tools ensuring seamless deployment and continuous integration of services across multiple environments.\nExecuted monitoring, logging, and alerting strategies with **CloudWatch**, enabling proactive management of application performance and security.\nArchitected robust networking solutions implementing **DNS**, **TCP/IP**, and **VPN** configurations, ensuring secure communication and load balancing across cloud resources.\nUtilized **Kubernetes** and **Docker** for container orchestration and deployment, enhancing service consistency and enabling microservices architecture.\nIntegrated serverless architectures using **AWS Lambda** and **API Gateway**, streamlining the execution of code in response to events and reducing operational overhead.\nOptimized application server and database performance using **RDS** and **Load Balancing** strategies to handle **over 100,000** requests daily while maintaining responsiveness.\nDeveloped monitoring dashboards for infrastructure and applications with **AWS CloudWatch**, ensuring real-time visibility into usage and performance metrics for over **50** services.\nCollaborated with security teams to implement firewalls and routing protocols, to guard against unauthorized access and ensure compliance with industry regulations.\nProvided support and documentation for system configuration management using **PowerShell** and **Bash**, automating routine tasks and enhancing operational efficiency.\nAchieved **AWS Certified** status, demonstrating expertise in deploying, managing, and operating scalable, highly available, and fault-tolerant systems on the **AWS** platform.\nEstablished best practices in cloud resource management, contributing to a **30% reduction** in operational costs through optimization of resource allocation and utilization."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS** cloud services such as **EC2**, **S3**, **ECS**, and **RDS** to deploy and manage scalable applications, enhancing infrastructure efficiency by **30%**.\nImplemented **CI/CD** pipelines using **Terraform** and **Ansible**, achieving a **50%** reduction in deployment times while ensuring seamless integration across environments.\nConfigured and managed AWS **VPC**, security groups, and **IAM** roles to establish a secure and compliant cloud environment, effectively controlling access to resources.\nMonitored application performance with **AWS CloudWatch** and set up logging and alerting mechanisms to proactively identify issues, reducing downtime by **25%**.\nLed the design and deployment of microservices architecture by leveraging **Docker** and **Kubernetes**, resulting in improved system resilience and deployment frequency by **40%**.\nDeveloped infrastructure as code for scalable environments using **CloudFormation**, ensuring reproducibility and compliance in resource provisioning.\nAutomated backups and disaster recovery strategies for financial applications utilizing **AWS RDS** and **S3**, enhancing data integrity and recovery times by **20%**.\nEngaged in service monitoring and logging practices, improving incident response and application troubleshooting capabilities using **Prometheus** and **Grafana**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Designed and optimized cloud infrastructure on **AWS** using **EC2**, **S3**, **ECS**, and **RDS**, ensuring high availability, low latency, and scalability for e-commerce services managing over **100,000** concurrent users.\nImplemented **Terraform** and **CloudFormation** for Infrastructure as Code (IaC), achieving a **90%** reduction in deployment time and enhancing maintainability of cloud resources.\nConfigured and monitored **CloudWatch** for performance metrics and alerts, ensuring exceptional uptime and responsiveness during peak traffic periods with over **150%** traffic spikes.\nManaged VPC configurations, Load Balancing, and IAM policies to secure resources, achieving compliance with industry standards and reducing security risks.\nDeveloped CI/CD pipelines using **Ansible** and **Docker**, improving deployment frequency by **75%** and reducing deployment failures to less than **2%**.\nLeveraged **Kubernetes** for container orchestration, increasing application resiliency and simplifying scaling processes across multiple services.\nUtilized scripting languages like **Python**, **Bash**, and **PowerShell** for automation tasks, resulting in streamlined operations and decreased manual intervention by **60%**.\nImplemented logging, monitoring, and alerting strategies to proactively identify and resolve system issues, maintaining application health and performance.\nEnsured network security through advanced Firewalls and Routing configurations, safeguarding sensitive data in compliance with **GDPR** regulations.\nCollaborated with cross-functional teams to develop and support APIs, enhancing system integration and functionality aligned with business objectives."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Bash, PowerShell\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tAPIs\n\n**Serverless and Cloud Functions:**\n\tAWS Lambda\n\n**Cloud & Infrastructure:**\n\tAWS (EC2, S3, ECS, RDS, VPC, IAM, CloudWatch, CloudFormation), Azure (App Services, Blob, SQL)\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Monitoring, Logging, Alerting, CI/CD, Load Balancing, Firewalls, Routing, DNS, TCP/IP, VPN",
+  "apply_company": "Real-Time Innovations (RTI)"
+}

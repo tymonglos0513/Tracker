@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Python Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Python Engineer with over 10 years of extensive experience in developing and optimizing backend systems, focusing on high-performance APIs and automation tools. Proficient in **Python** (including **FastAPI** and **Pydantic**) and highly skilled in implementing **CI/CD** practices, conducting **Unit Testing**, **Integration Testing**, and **End-to-End Testing**. Expertise in **Git**, **Cloud** platforms such as **AWS** and **Azure**, and relational **Databases** ensures delivery of robust solutions. Strong advocate for **Agile** methodologies, fostering **Collaboration** and effective **Communication** within teams. Excellent **Problem-solving** abilities demonstrated through significant contributions to projects with major companies like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to engineer robust backend services, enhancing document automation, user onboarding, and reporting workflows.\nImplemented **Unit Testing** and **Integration Testing** practices using **Pydantic** to ensure code reliability, achieving a bug reduction rate of **30%** in production.\nDeveloped event-driven solutions with **Celery** and **Redis** for managing asynchronous processing for over **500** financial transaction requests daily.\nDeployed microservices on **Azure App Services**, leveraging **Terraform** for infrastructure as code, which improved deployment time by **40%** and ensured seamless cloud operations.\nCreated and maintained data pipelines for regulatory data exchange using **Apache Airflow** and **Azure Functions**, achieving a **98%** accuracy rate in timely data flow.\nLed security assessments and integrated **OAuth2** and **Azure AD B2C** for secure, scalable authentication systems that supported **1000+** concurrent users.\nCollaborated with cross-functional teams, employing effective **communication** and **problem-solving** skills to tackle system integration challenges and oversee release strategies, following **Agile** methodologies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems using **Python** and **FastAPI** to automate document workflows, enhance user onboarding processes, and simplify complex reporting, improving efficiency by **30%**.\n• Employed **Pydantic** for data validation in backend services, ensuring the integrity of data processed across **9** microservices.\n• Implemented event-driven microservices with **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests, successfully reducing processing time by **40%**.\n• Managed the deployment of microservices on **Azure App Services**, utilizing **Terraform** for infrastructure automation to maintain consistent environments across **3** different stages (dev, staging, production).\n• Engineered secure data pipelines for regulatory compliance, leveraging **Apache Airflow** and **Azure Functions** to automate data flow processes, facilitating an **80%** reduction in manual data handling errors.\n• Conducted comprehensive security audits, ensuring compliance with industry standards, and integrated **OAuth2** and **Azure AD B2C** for robust authentication and secure access controls.\n• Collaborated effectively with cross-functional teams, reinforcing agile methodologies, ensuring smooth system integration, and delivering successful release management on a bi-weekly schedule.\n• Applied **CI/CD** practices and conducted **Unit**, **Integration**, and **End-to-End Testing** to ensure high quality and reliability of software deliverables."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop scalable backend services for trade execution, portfolio management, and account tracking, enhancing trading operations by **30%**.\nImplemented **Pydantic** for validating data models, ensuring data integrity and performance, which yielded a reduction in bugs by **40%**.\nOptimized version control using **Git** and established **CI/CD** pipelines, accelerating deployment times by **25%** through automated testing and integration.\nConducted comprehensive unit, integration, and end-to-end testing using **PyTest**, which improved overall system reliability scores by **20%**.\nCollaborated with cross-functional teams in an **Agile** environment to iterate on features and improve communication, reducing project completion time by **15%**.\nIntegrated seamless database solutions employing **PostgreSQL** to manage large datasets efficiently, enhancing retrieval times by **50%**.\nEnsured compliance with regulatory requirements, including MiFID II and GDPR, while maintaining robust internal data security protocols.\n\nEngineered real-time price feed processors with **asyncio**, **WebSockets**, and **Redis** to deliver up-to-the-minute trading data for high-frequency transactions.\nIntroduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and process management."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery, Pydantic\n\n**APIs Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tGit, CI/CD, Docker, Kubernetes, GitHub Actions, Azure DevOps\n\n**Cloud & Infrastructure**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Other**\n\tUnit Testing, Integration Testing, End-to-End Testing, Agile, Collaboration, Communication, Problem-solving, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, PyTest",
+  "apply_company": "Nearform"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience creating high-performance, scalable applications. Proficient in **C#.NET Core**, **SQL**, **Docker**, and leveraging Agile methodologies for project management. Expertise in **VoIP** technologies, including **SIP**, **RTP**, and **PBX**, with a strong grasp of multithreading and distributed services. Well-versed in version control using **Git** and implementing build pipelines with **Team City**. \nSkilled in delivering innovative solutions through Test-Driven Development (TDD) and Behavior-Driven Development (BDD) using **SpecFlow**. With hands-on experience in **Linux** environments and networking tools like **Wireshark**, I bring a comprehensive toolkit for developing robust applications. Additionally, my background in full stack development enables effective collaboration across frontend and backend technologies, including **JavaScript/TypeScript**, **Python**, **React**, and **Node.js**. Experienced in building AI/ML-powered platforms and cloud-native systems on **AWS** and **Azure**, ensuring compliance with industry standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **C#.NET Core** for building distributed services to enhance VoIP solutions, ensuring optimal performance and reliability.\nImplemented **Agile** methodologies to drive continuous improvement and iterative development in all projects, emphasizing collaboration and flexibility.\nDeveloped and executed comprehensive testing strategies utilizing **TDD** and **BDD**, leveraging tools such as **SpecFlow** and **Git** for version control, resulting in a **30% reduction** in bugs before deployment.\nDesigned and integrated **multithreaded** applications utilizing **Docker** to ensure scalable and efficient voice communication systems across **8+** different PBX setups.\nAnalyzed traffic and performance metrics using **Wireshark**, identifying bottlenecks and optimizing performance, achieving up to **40% improvement** in call handling efficiency.\nCollaborated in teams using **TeamCity** for build automation and continuous integration, improving deployment frequency by **50%**.\nImplemented secure SIP and RTP protocols to ensure safe and reliable voice data transmission across services.\nLed initiatives to refactor legacy systems into modern architectures using **Docker**, ensuring ease of maintenance and integration with existing systems.\nConducted in-depth SQL database design and management, supporting efficient data retrieval strategies tailored for VoIP telemetry data.\nEngaged in code reviews and pair programming sessions to promote quality and knowledge sharing within a **10+** member development team.\nEnsured thorough documentation and compliance across all projects to meet industry standards and regulatory requirements in telecommunications.\nEducated team members on **Linux** best practices to enhance server management and application deployment processes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **C#.NET Core** and **SQL** to develop scalable backend solutions, ensuring efficient data processing and transaction management in financial systems.\nImplemented **Agile** methodologies and **TDD** practices to enhance team productivity and ensure high-quality code through continuous testing and integration.\nDesigned and integrated **Docker** containers into the deployment pipeline, streamlining application delivery and improving resource utilization across environments.\nLed the development of **VoIP** applications utilizing **Asterisk** and **Kamailio**, enhancing communication capabilities and enabling seamless interactions within financial services.\nManaged distributed services and **multithreaded** applications, optimizing performance for concurrent processing of financial transactions.\nConducted thorough system analysis using **Wireshark** for troubleshooting and fine-tuning network performance in communication systems.\nCollaborated with cross-functional teams using **Git** for version control and embraced best practices in **BDD** and **SpecFlow** for behavioral-driven development.\nParticipated in sprint planning and retrospectives, ensuring a continuous improvement cycle that drives project velocity and quality outcomes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized scalable distributed services for VoIP applications using **C#.NET Core**, ensuring high availability and low latency across key modules including SIP and RTP technologies.\nEngineered robust multithreaded solutions to support real-time communication features, enhancing the functionality of **Asterisk** and **Kamailio** for efficient call management and routing.\nImplemented Agile methodologies and Test-Driven Development (TDD) practices to lead high-impact features through continuous integration pipelines using **Team City**, ensuring rapid delivery of quality software.\nDeveloped backend solutions using **SQL** for efficient data management and retrieval, optimizing database interactions for high-traffic VoIP workflows.\nUtilized **Docker** for containerization, facilitating agile development, testing, and deployment environments, ensuring consistency across development and production for enhanced team collaboration.\nApplied Behaviour-Driven Development (BDD) principles with **SpecFlow** to enhance requirement understanding and collaboration among cross-functional teams, driving development efficiency.\nConducted troubleshooting and performance analysis using **Wireshark** to monitor VoIP traffic, significantly improving call clarity and reducing drop rates by **25%**.\nImplemented role-based access control (RBAC) and secure authentication protocols to safeguard user access, ensuring compliance with GDPR and maintaining data integrity throughout the platform.\nManaged Linux servers for application deployment and maintenance, improving system stability and reliability for VoIP services.\nCollaborated in a cross-functional team environment to design and implement features according to user feedback, fostering an adaptive and responsive development culture."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, C#.NET Core, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tSIP, RTP, VoIP, PBX\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, S3; Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, Git, GitHub Actions, GitLab CI/CD, Team City\n\n**Cloud & Infrastructure:**\n\tAWS: RDS, Azure: Blob Storage, SQL Database, Terraform, Ansible, Helm\n\n**Other:**\n\tAgile, TDD, BDD, SpecFlow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Wireshark, Linux, Asterisk, Kamailio, Distributed services, multithreaded",
+  "apply_company": "Saab"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Platform Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Platform Engineer with 10+ years of experience in delivering high-performance software solutions, specializing in **Python**, **Django**, **FastAPI**, and RESTful APIs. Proficient in both SQL (including **PostgreSQL**) and NoSQL databases (such as **Redis** and **MongoDB**), with a strong grasp of **Concurrent Programming**. Adept at building and deploying cloud-native applications on **AWS**, leveraging Infrastructure-as-Code frameworks like **Terraform**, **Pulumi**, and **CloudFormation** to streamline deployments. Skilled in containerization and orchestration using **Docker** and **Kubernetes**. Demonstrated expertise in CI/CD processes, automated testing, and monitoring utilizing tools such as **Datadog**, **Prometheus**, and **Grafana**. Experience in integrating Large Language Models and using messaging solutions like **Celery** and **WebSockets**. \n\nBrings hands-on experience in developing enterprise platforms that emphasize security and compliance, including adherence to standards like HIPAA and PCI DSS. Passionate about creating scalable systems that not only leverage modern technologies, such as **React** and **React Native**, but also deliver impactful, real-world solutions.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Platform Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable, full-stack solutions for healthcare and finance leveraging **Python** (FastAPI) and **Django**, optimizing for high concurrency and performance.\n• Developed and integrated **RESTful APIs** for seamless communication between frontend and backend using **PostgreSQL**, **Redis**, and **MongoDB**, ensuring efficient data handling and storage.\n• Employed **Docker** and **Kubernetes** for containerization and orchestration of applications, enabling high availability with over **99.9% uptime** across services.\n• Built CI/CD pipelines using **Terraform** and **Pulumi** for Infrastructure-as-Code, automating the deployment process and reducing deployment time by **30%**.\n• Implemented automated testing frameworks with **Jest**, **Cypress**, and **PyTest** to ensure robustness, achieving **95% code coverage** across all services.\n• Collaborated on large-scale projects utilizing **React** and **React Native** to develop responsive and high-performance user interfaces for both web and mobile platforms, incorporating **WebSockets** for real-time data updates.\n• Led optimization initiatives using **Datadog**, **Prometheus**, and **Grafana** for monitoring system performance, resulting in enhanced observability and quicker troubleshooting.\n• Integrated **Celery** for asynchronous task execution, improving application responsiveness and user experience in healthcare and finance applications.\n• Guided the migration to cloud services utilizing **AWS** and **Infrastructure-as-Code**, significantly reducing costs and enhancing scalability for the platform.\n• Conducted system architecture assessments and re-architected monolithic applications into microservices, dramatically improving the development cycle and deployment frequency."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Focused on designing and implementing **RESTful APIs** and backend services using **Python** frameworks like **Django** and **FastAPI** to enhance financial platform functionalities and ensure optimal performance.\nUtilized **SQL** and **NoSQL** databases such as **PostgreSQL**, **MongoDB**, and **Redis** for effective data storage and retrieval, ensuring data integrity across high-volume transaction systems.\nManaged continuous integration and deployment (CI/CD) pipelines utilizing **Docker**, **Kubernetes**, and infrastructure-as-code tools like **Terraform** and **Pulumi** to automate deployment processes and maintain environment consistency.\nDeveloped and maintained scalable, distributed systems using **AWS** services, ensuring high availability and fault tolerance for financial applications, achieving a 99.99% uptime.\nCreated dynamic interfaces using **React (18)** along with supporting technologies such as **React Native** and **Tailwind CSS** to enhance user experience across platforms, leading to a 30% increase in user engagement.\nImplemented automated testing strategies to streamline development processes, leveraging **Datadog**, **Prometheus**, and **Grafana** for real-time monitoring and alerting, significantly reducing error rates by 25%.\nApplied **Concurrent Programming** techniques to improve application performance, ensuring efficient handling of multiple transactions concurrently in high-pressure environments.\nEmploying **Celery** and **WebSockets** to build responsive and real-time capabilities for user notifications and alerts, enhancing overall application responsiveness.\nParticipated in the architecture design of event-driven systems enabling scalability and resilience, integrating with third-party services for a seamless transaction processing experience.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "- Designed and optimized backend services for a global e-commerce platform using **Python (Django, FastAPI)** and **RESTful APIs**, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\n- Engineered real-time features using **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ**, enabling responsive order updates, dynamic inventory tracking, and real-time customer support.\n- Developed frontend applications using **React (18)**, enhancing user experiences on both web and mobile platforms, coupled with **Redux Toolkit** and **Tailwind CSS**.\n- Leveraged **MongoDB, PostgreSQL**, and **Redis** for distributed data storage, ensuring fast, fault-tolerant data access for high-traffic e-commerce workflows, thus improving performance by **30%**.\n- Integrated AI/ML-based recommendation engines using **scikit-learn** and **TensorFlow** to personalize product listings and improve conversion rates based on real-time behavioral data, achieving a **15%** increase in user engagement.\n- Implemented caching strategies using **Redis** for product metadata and shopping cart sessions, significantly improving application responsiveness and reducing read pressure on databases by **40%**.\n- Managed deployments with **Docker** and **Kubernetes**, applying **Infrastructure-as-Code** strategies using **Terraform** for streamlined operations and version control.\n- Ensured application reliability through monitoring with **Datadog**, **Prometheus**, and **Grafana**, enhancing system uptime to **99.9%**.\n- Created responsive, SEO-friendly e-commerce UIs using **Next.js** and **HTML5/CSS3**, optimized for mobile-first engagement and accessibility compliance (WCAG 2.1).\n- Built secure payment workflows integrated with **Stripe, PayPal**, and **Razorpay**, ensuring PCI compliance and secure handling of sensitive data.\n- Applied role-based access control (RBAC) and **OAuth 2.0** for secure access management, ensuring data protection and GDPR compliance throughout the platform."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tDjango, FastAPI, Flask\n\n**Frontend Frameworks:**\n\tReact, React Native, Vue, Angular\n\n**API Technologies:**\n\tRESTful APIs, WebSockets\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, NoSQL, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Automated Testing, Terraform, Ansible, Helm, Docker Compose, Infrastructure-as-Code, Pulumi, CloudFormation, Datadog, Prometheus, Grafana\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Celery, Concurrent Programming, Large Language Models"
+}

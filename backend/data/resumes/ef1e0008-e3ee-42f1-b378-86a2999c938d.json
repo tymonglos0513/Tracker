@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior DevOps Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Experienced Senior DevOps Engineer with over 9 years of expertise in managing cloud infrastructure and implementing CI/CD pipelines. Proficient in **Kubernetes**, **Helm**, **Terraform**, **Ansible**, **GitLab CI**, and **Linux administration** to automate and optimize deployment processes. Strong background in cloud services such as **GCP**, **Azure**, and **AWS**, complemented by a solid understanding of **MongoDB** and data security practices including **cloud infrastructure security** and **OWASP Top 10**. Proven ability to enhance application reliability and performance with tools like **Prometheus**, **Grafana**, **Splunk**, and **Kibana**. Adept at scripting with **Python** and **Bash**, and effectively collaborating in Agile environments to deliver robust solutions.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Implemented CI/CD pipelines using **GitLab CI** to streamline deployment processes, achieving a **40%** reduction in deployment time.\nDesigned and managed infrastructure as code (IaC) using **Terraform** to automate provisioning and management of cloud resources, enhancing operational efficiency.\nConfigured container orchestration with **Kubernetes** to ensure high availability and scalability of applications.\nUtilized **Helm** for Kubernetes package management, facilitating simpler deployment of applications to the cluster.\nDeveloped automated scripts in **Python** and **Bash** for various DevOps tasks, improving operational workflows.\nConducted Linux administration tasks, ensuring system reliability and security across multiple cloud platforms, including **GCP**, **Azure**, and **AWS**.\nMonitored system performance and metrics using **Prometheus** and **Grafana**, enabling proactive incident response and system optimization.\nImplemented security protocols in cloud infrastructure, adhering to **OWASP Top 10** guidelines to mitigate vulnerabilities.\nManaged log analytics with **Splunk** and **Kibana** for efficient troubleshooting and monitoring of application health.\nCollaborated with cross-functional teams applying **Agile principles** to enhance delivery speed and product quality.\n"
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Implemented **Kubernetes** for container orchestration, optimizing deployment efficiency by **40%**.\nUtilized **Terraform** for Infrastructure as Code (IaC) to automate provisioning of cloud resources in **AWS** and **GCP**, reducing setup time by **60%**.\nDeveloped CI/CD pipelines using **GitLab CI**, leading to a **30%** reduction in deployment time and enhancing code quality through automated testing.\nAdministered **Linux** servers, ensuring high availability and performance for applications, while implementing **network-level security** best practices to safeguard data.\nUtilized **Ansible** for configuration management, automating server setups and updates, which improved team productivity by **20%**.\nSet up monitoring and logging solutions with **Prometheus**, **Grafana**, and **Splunk**, leading to faster incident response and system health insights.\nCollaborated with development teams using **Agile principles** to streamline workflows, improve project transparency, and ensure timely feature releases.\nIntegrated **MongoDB** for data storage solutions, optimizing data queries and performance, leading to a **15%** increase in application responsiveness.\nConducted training sessions on **OWASP Top 10** security vulnerabilities, improving overall application security awareness across teams.\nManaged cloud infrastructure security strategies, ensuring compliance with relevant standards and best practices."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Implemented **Kubernetes** orchestration for managing containerized applications, enhancing deployment efficiency by **30%**.\nUtilized **Terraform** for infrastructure as code (IaC) to automate resource provisioning on **AWS** and **GCP**, reducing setup time by **40%**.\nDeveloped CI/CD pipelines using **GitLab CI**, accelerating the deployment process and maintaining consistent code quality.\nManaged configuration and deployment of applications with **Helm**, streamlining release management.\nAutomated monitoring and alerting using **Prometheus** and **Grafana**, improving system uptime and visibility into application performance.\nUtilized **Ansible** for configuration management and application deployment, achieving a **25%** reduction in manual tasks.\nPerformed Linux administration to maintain system health and security across cloud platforms like **Azure**.\nIntegrated monitoring tools, including **Splunk** and **Kibana**, for centralized logging, enhancing troubleshooting capabilities.\nApplied **cloud infrastructure security** measures in accordance with **OWASP Top 10** guidelines, ensuring compliance and risk mitigation.\nImplemented Agile principles in workflows, participating in sprints and retrospectives to enhance team productivity.\nProvided training and knowledge transfer sessions on **DevOps** best practices, increasing team proficiency in tools and methodologies."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python, TypeScript, JavaScript, C#, Solidity, Bash\n\n **Backend Frameworks**\n\t NodeJS, ExpressJS, NestJS, .NET, Entity Framework, Microservices\n\n **Frontend Frameworks**\n\t ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n **API Technologies**\n\t RESTful API, GraphQL\n\n **Serverless and Cloud Functions**\n\t AWS, Azure, GCP\n\n **Databases**\n\t MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB\n\n **DevOps**\n\t Kubernetes, Helm, Terraform, Ansible, GitLab CI, CI/CD, Prometheus, Grafana, Splunk, Kibana, IaC, Agile principles\n\n **Cloud & Infrastructure**\n\t cloud infrastructure security, network-level security, OWASP Top 10\n\n **Other**\n\t UX/UI Design, Git, GitHub, Messaging & Caching: Apache Kafka, RabbitMQ, Redis, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest"
+}

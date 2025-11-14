@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Platform Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-477994390/",
+  "profile_summary": "Results-driven Senior Platform Engineer with 9+ years of experience in building and optimizing GPU-based infrastructure using **NVIDIA GPU ecosystem**, **CUDA**, **cuDNN**, **Triton Inference Server**, and **TensorRT**. Proficient in container orchestration with **Kubernetes**, and skilled in CI/CD tools like **Terraform** and **Ansible**. Comprehensive knowledge of cloud platforms including **GCP**, **AWS**, **Azure**, and **OCI**. Expertise in deploying and managing distributed systems and developing scalable solutions for machine learning operations (MLOps) and retrieval-augmented generation (RAG) pipelines in Linux environments. Established track record of leading development projects, enhancing workflows, and fostering cross-functional collaboration, complemented by a solid foundation in **microservices architecture** and technologies such as **.NET**, **C#**, **ReactJS**, and **NextJS**.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Platform Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Apr 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Designed and implemented GPU-based infrastructure solutions leveraging **NVIDIA GPU ecosystem** to enhance processing speed in ML workloads, achieving a performance increase of **40%**.\nUtilized **Terraform** and **Ansible** for infrastructure as code (IaC) management, automating deployments and configurations for a more streamlined workflow.\nDeveloped scalable microservices using **Kubernetes** for orchestration, optimizing resource utilization across clusters while maintaining high availability.\nEngineered data pipelines utilizing **Slurm**, facilitating efficient job scheduling and resource management, resulting in **30%** faster job completions.\nImplemented **Red Hat OpenShift** to manage containerized applications on-premises, improving deployment consistency and reliability.\nOptimized ML inference tasks with **TensorRT** and **Triton Inference Server**, reducing inference times by **25%**.\nIntegrated **RAPIDS** for accelerated data processing using **CUDA** and **cuDNN**, enhancing data manipulation speed by **50%**.\nDeveloped LLMOps and MLOps strategies to streamline machine learning operations, fostering collaboration between data scientists and engineers.\nImplemented retrieval systems with **vector databases** to enhance retrieval accuracy and efficiency in multi-modal inference tasks.\nEnsured smooth deployment and scaling on **AWS**, **GCP**, and **Azure**, leading to increased flexibility and reduced downtime by **15%**."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Implemented **GPU-based infrastructure** solutions utilizing **Kubernetes** and **Red Hat OpenShift** to enhance application performance and scalability.\nDesigned and maintained CI/CD pipelines in **Terraform** and **Ansible**, leading to a **40% reduction** in deployment times across **AWS** and **GCP** environments.\nOptimized workloads using the **NVIDIA GPU ecosystem**, leveraging **CUDA**, **cuDNN**, and **TensorRT** to accelerate deep learning inference by **50%**.\nArchitected and managed robust **multi-modal inference** frameworks, integrating **RAPIDS** and **Triton Inference Server** for enhanced data processing capabilities.\nDeveloped and implemented **LLMOps** and **MLOps** practices to streamline workflow and model deployment, achieving faster iteration cycles.\nUtilized **Slurm** for efficient workload scheduling, improving cluster resource utilization by **30%**.\nImplemented retrieval systems and vector databases for efficient data management and real-time information retrieval.\nCollaborated with data science teams to establish **RAG pipelines**, ensuring effective integration of machine learning models into production systems.\nConducted performance profiling and tuning on **Linux systems**, ensuring optimal application performance across various environments.\nMentored team members on best practices for cloud-native architecture and infrastructure management, fostering a culture of continuous learning."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "• Designed and implemented GPU-based infrastructure leveraging **NVIDIA GPU ecosystem** to optimize application performance, achieving a **30%** improvement in processing speed.\n• Managed container orchestration using **Kubernetes** and **Red Hat OpenShift**, enhancing deployment efficiency by **40%**.\n• Developed and maintained automated workflows in **Terraform** and **Ansible**, reducing setup time for new environments by **50%**.\n• Migrated legacy systems to **GCP** and **Azure**, streamlining cloud efficiency and reducing operational costs.\n• Integrated **Triton Inference Server** with existing applications to facilitate real-time machine learning inference.\n• Implemented **Slurm** for workload scheduling, maximizing resource utilization and ensuring efficient job processing.\n• Created and optimized **RAPIDS** pipelines for accelerated data processing, improving data throughput by **25%**.\n• Collaborated with cross-functional teams to deploy **TensorRT** for optimized model inference across platforms.\n• Ensured system reliability through robust deployment and monitoring strategies, utilizing **MLOps** practices and contributing to enhanced uptime.\n• Participated in code reviews and provided mentorship on implementing **multi-modal inference** and **vector databases** for advanced retrieval systems."
+    }
+  ],
+  "skills": " **Programming Languages** \n\t Python, JavaScript, TypeScript, C#, Solidity \n \n **Backend Frameworks** \n\t NodeJS, ExpressJS, NestJS, .NET \n \n **Frontend Frameworks** \n\t ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS \n \n **API Technologies** \n\t RESTful API, GraphQL \n \n **Serverless and Cloud Functions** \n\t AWS, Azure, GCP, OCI \n \n **Databases** \n\t MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB, vector databases \n \n **DevOps** \n\t CI/CD pipelines, Terraform, Ansible, Kubernetes \n \n **Cloud & Infrastructure** \n\t GPU-based infrastructure, Red Hat OpenShift, NVIDIA GPU ecosystem, Linux systems \n \n **Other** \n\t UX/UI Design, Git, GitHub, Microservices, Messaging & Caching: Apache Kafka, RabbitMQ, Redis, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, LLMOps, MLOps, RAG pipelines, multi-modal inference, Triton Inference Server, RAPIDS, TensorRT"
+}

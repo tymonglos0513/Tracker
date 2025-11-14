@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior ML Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior ML Engineer with over 10 years of experience in Python-driven backend systems, specializing in TTS and machine learning frameworks. Proficient in leveraging technologies like **Python**, **C++**, **transformers**, **speech tokenizers**, and models including **GANs** and **LoRA** for advanced ML solutions. Skilled in deploying scalable infrastructure using **Docker**, **Kubernetes**, and implementing MLOps strategies. A proven track record of successfully delivering high-impact projects in top-tier organizations such as VISA, Sii Poland, and Reply Polska, while excelling in the creation of high-performing APIs and automation tools.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered backend services in **Python** using **FastAPI** to enhance machine learning model deployment and streamline document automation.\nDeveloped robust TTS features leveraging **transformers** and optimized speech tokenizers for improved audio quality and efficiency in processing.\nImplemented MLOps best practices to ensure model reliability, scalability, and continuous integration/delivery pipelines with **Docker** and **Kubernetes** on **Azure**.\nCreated and maintained data pipelines using **Apache Airflow** for timely data ingestion and regulatory compliance, focusing on **data exchange** accuracy across multiple systems.\nExecuted solution designs involving **C++** for performance-critical components and integrated **GANs** for advanced data augmentation tasks.\nLed the migration to containerized applications using **Docker**, resulting in a **30%** reduction in operational costs and improved deployment times by **45%**.\nCollaborated with machine learning teams to assess and integrate diverse models including **LoRA**, ensuring cross-functionality and alignment with business goals."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** for developing scalable backend systems to support TTS solutions that improve document workflows and automate user onboarding processes.\nImplemented advanced machine learning algorithms including **transformers** and **GANs** to enhance the performance of speech tokenizers, achieving a **25%** increase in processing efficiency.\nDesigned and maintained microservices architecture using **Docker** and **Kubernetes** for deploying ML models, ensuring quick scaling and efficient resource utilization while handling complex reporting.\nCreated and executed data pipelines using **Apache Airflow** for the transfer of regulatory data, achieving successful automated workflows with a **99.9%** uptime.\nConducted thorough performance and security audits to meet compliance standards, integrating **OAuth2** and **Azure AD B2C** to enhance system security and manage access controls effectively.\nCollaborated with cross-functional teams to facilitate system integration and ensure compliance with regulatory requirements, leading to a **30%** reduction in deployment times."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "- Developed and optimized Machine Learning models using **Python** and frameworks such as **torchscript** and **diffusion** to enhance trading operations, achieving a performance improvement of **25%**.\n- Implemented advanced algorithms leveraging **transformers** and **speech tokenizers** to process large datasets, contributing to a reduction in data processing time by **30%**.\n- Collaborated with cross-functional teams to deliver scalable solutions on **Kubernetes** and **Docker**, ensuring a seamless deployment process for machine learning applications.\n- Ensured compliance with regulatory standards while implementing internal data security protocols, aligning with best practices in **MLOps**.\n- Established a robust workflow for model training and evaluation utilizing **C++** for performance-intensive tasks, reducing runtime by **15%**.\n- Created automated pipelines for model deployment and monitoring using **Celery** and **RabbitMQ**, optimizing task execution and resource allocation.\n- Conducted rigorous testing and validation of ML models with comprehensive test suites and frameworks, enhancing reliability and robustness in production environments."
+    }
+  ],
+  "skills": "Programing Languages:\n\t**Python**, C++, SQL, Bash, JavaScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Celery\n\n**API Technologies:**\n\tREST/gRPC APIs\n\n**Serverless and Cloud Functions:**\n\t**AWS (EC2, S3, Lambda)**, **Azure**\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\t**Docker**, **Kubernetes**, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure:**\n\t**MLOps**\n\n**Other:**\n\t**TTS**, **transformers**, **speech tokenizers**, **diffusion**, **flow-matching**, **LoRA**, **GANs**, **torchscript**, **onnx**, **Pandas**, **NumPy**, **scikit-learn**, **TensorFlow**, **Airflow**, **MLflow**, **Kafka**, **PyTest**, **Git**",
+  "apply_company": "SoundHound AI"
+}

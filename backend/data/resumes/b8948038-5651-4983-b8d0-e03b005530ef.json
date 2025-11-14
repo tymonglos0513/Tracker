@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Data Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Results-driven Senior Data Engineer with 9+ years of experience in data architecture, data governance, and implementation of efficient ETL processes. Proficient in **SQL**, **Databricks**, **Google BigQuery**, **Airflow**, **dbt**, **Docker**, **Kubernetes**, and **CI/CD** methodologies. Expertise in data warehouse modeling, ensuring data integrity, schema design, indexing, query optimization, and metadata management. Strong understanding of cloud storage solutions, including **S3**, **ADLS**, and **GCS**, and data formats like **Parquet**, **ORC**, **Avro**, and **JSON**. Known for my problem-solving abilities and successful project management, I excel in collaborating with cross-functional teams to drive innovative data solutions that meet organizational goals while optimizing performance.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Designed and implemented robust data warehouse models using **Google BigQuery** and **Databricks** to enhance data integrity and governance processes.\nOptimized SQL queries and indexing strategies, leading to a **20%** reduction in average query execution times.\nUtilized **Airflow** for orchestrating workflow management, increasing operational efficiency across data pipelines by **30%**.\nDeveloped and maintained **Docker** containers orchestrated by **Kubernetes** for scalable data processing environments.\nExecuted CI/CD pipelines to streamline deployment processes, achieving a **40%** reduction in deployment time for data solutions.\nLeveraged **S3** and **ADLS** to manage data storage and optimize costs through tiered storage solutions.\nImplemented data versioning and schema evolution strategies, ensuring the seamless integration of new data models without disruption.\nCollaborated effectively with cross-functional teams to communicate project progress and address potential roadblocks, enhancing team communication.\nApplied problem-solving skills to troubleshoot and resolve data integrity issues, ensuring high availability and reliability of data solutions.\nDocumented metadata management practices to support data governance and facilitate compliance with organizational standards."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "• Developed and optimized **SQL** queries for improved data retrieval efficiency by **25%** through indexing and query optimization strategies in various database systems, enhancing overall system performance.\n• Designed data pipeline architectures using **Airflow** to automate ETL processes, ensuring data integrity and governance across projects.\n• Implemented **Docker** containers for component isolation and deployment, leading to a **30%** reduction in deployment times.\n• Led the effort in designing data warehouse models with **Databricks** and **Google BigQuery**, resulting in streamlined data access and improved analytical capabilities.\n• Managed **S3**, **ADLS**, and **GCS** for data storage solutions and ensured **metadata management** for tracking data lineage and versioning.\n• Established CI/CD pipelines using **Kubernetes** and **GitHub Actions**, reducing integration issues by **40%**.\n• Collaborated with cross-functional teams to define project requirements and timelines, improving communication by ensuring alignment between technical and business goals.\n• Conducted asynchronous data transformations with **dbt** to promote schema design and evolution for better data structuring.\n• Provided mentorship and conducted code reviews, fostering problem-solving skills among junior developers and increasing team productivity.\n• Ensured compliance with best practices in **data governance** and maintained **data integrity** by implementing robust data validation and auditing mechanisms."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "• Designed and optimized **SQL** queries for data retrieval, improving performance and efficiency by **30%** compared to previous implementations.\n• Developed data warehouse models using **Databricks**, enabling seamless integration with **Google BigQuery** for advanced analytics and reporting.\n• Implemented **Airflow** for orchestrating workflows, ensuring timely data processing and reducing latency by **25%**.\n• Utilized **Docker** and **Kubernetes** to containerize applications, improving deployment speed and resource management across projects by **40%**.\n• Established **CI/CD** pipelines, streamlining the deployment process and increasing release frequency by **50%**.\n• Conducted schema design and evolution for efficient storage in **S3**, **ADLS**, and **GCS**, ensuring support for formats like **Parquet** and **ORC**.\n• Championed data governance initiatives, enhancing **data integrity** and compliance with best practices across all data assets.\n• Engaged in problem-solving sessions to address data quality issues, leading to a significant reduction in data discrepancy incidents by **20%**.\n• Worked on metadata management strategies, enhancing the documentation of datasets and improving accessibility for team members.\n• Collaborated with cross-functional teams to communicate project updates effectively, facilitating clear understanding of project goals and progress.\n• Participated in project management activities to ensure all deliverables were met within budget and timelines, contributing to the successful completion of **3** major initiatives in the last year."
+    }
+  ],
+  "skills": " **Programming Languages** \n\t Python, SQL \n\n **Backend Frameworks** \n\t NodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices \n\n **Frontend Frameworks** \n\t HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS \n\n **API Technologies** \n\t RESTful API, GraphQL \n\n **Serverless and Cloud Functions** \n\t AWS, Azure, S3, ADLS, GCS \n\n **Databases** \n\t MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB, data warehouse modelling, indexing, query optimization, schema design \n\n **DevOps** \n\t Docker, Kubernetes, CI/CD, CI/CD pipelines \n\n **Cloud & Infrastructure** \n\t Databricks, Google BigQuery, Airflow, dbt \n\n **Other** \n\t UX/UI Design, Git, GitHub, Solidity, Ether.js, Web3.js, Ethereum, Apache Kafka, RabbitMQ, Redis, problem-solving, project management, communication, data governance, data integrity, schema evolution, metadata management, data versioning, JSON, Avro, Parquet, ORC"
+}

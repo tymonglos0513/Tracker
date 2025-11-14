@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Platform Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Platform Engineer with 13+ years of experience in developing high-performance applications, particularly in compliance-driven environments. Proficient in modern programming languages including **Go**, **Rust**, and **C++**, with a strong foundation in **blockchain** technologies and frameworks such as **Solidity** and **Yul**. Demonstrates expertise in implementing **CI/CD** practices and creating efficient release pipelines, ensuring robust observability and environment orchestration.\nSkilled in algorithms and data structures, focusing on performance optimization and cryptography, including work with Merkle trees. Additionally, experienced in JavaScript/TypeScript, Python, and **Flutter**, with hands-on knowledge of **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Proven real-world application of AI/ML in healthcare and financial sectors, handling predictive analytics and automation. Strong track record in deploying cloud-based solutions on **AWS** and **Azure**, utilizing microservices and event-driven architectures.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Platform Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed CI/CD pipelines with a strong focus on observability and performance optimization, ensuring seamless integration of blockchain technologies and robust release practices with tools like **GitHub Actions**, **CircleCI**, and **Azure DevOps**.\n- Engineered secure and efficient smart contracts using **Solidity**, **Yul**, and **Foundry** to enhance decentralized application functionality, maintaining high standards for **cryptography** and algorithm design.\n- Designed and implemented **environment orchestration** strategies to manage and scale development environments utilizing **Go**, **Rust**, and **C++** to build resilient and scalable systems.\n- Enhanced data structures and algorithms to optimize backend performance for high-load applications, achieving a **30% increase in processing speed** for transactions.\n- Led the integration of **Merkle trees** for decentralized data verification processes, ensuring blockchain integrity within the platform.\n- Developed advanced tracking and tracing systems aimed at providing insights into blockchain transactions, resulting in improved user trust and transparency with a **95% accuracy rate**.\n- Collaborated in the migration of existing applications to a microservices architecture, ensuring seamless interfacing with **EVM**-compatible frameworks, thereby enhancing modular deployment capabilities.\n- Built observable release pipelines to monitor and improve application health and performance metrics, achieving a **50% reduction in downtime** during rollouts.\n- Championed continuous improvement initiatives by implementing comprehensive testing strategies and utilizing observability practices to maintain system integrity and reliability across releases.\n- Drove the optimization of blockchain applications to minimize gas fees by implementing state-of-the-art performance optimization techniques, resulting in a **15% reduction in transaction costs**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **C++**, **Go**, and **Rust** to enhance core financial platform capabilities, integrating blockchain technology for improved security and efficiency based on **cryptography** principles.\nImplemented observability practices to monitor system performance, employing algorithms and data structures to optimize transaction processing and reduce latency.\nDeveloped and maintained **CI/CD** pipelines for seamless integration and deployment of microservices, ensuring robust release management standards and environment orchestration using **Docker** and **Kubernetes**.\nLeveraged **Solidity** and **Yul** for smart contract development on Ethereum Virtual Machine (**EVM**) that enabled automated transactions and enhanced transparency within financial processes.\nExecuted performance optimization strategies achieving a **50%** reduction in processing times while managing over **100** concurrent transactions.\nDesigned architectures employing **Merkle trees** for efficient data verification in blockchain transactions, improving data integrity verification processes.\nConducted rigorous testing and validation of algorithms to ensure performance consistency and reliability across various high-demand scenarios, which included scaling projects to handle **1M+** users effectively.\nPioneered the establishment of release pipelines and ensured comprehensive observability to facilitate proactive issue resolution and improve overall system health."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Designed and optimized backend services for a blockchain-based platform utilizing **Go**, **Rust**, and **Solidity**, ensuring high availability, low latency, and scalability across various modules.\n- Engineered performant algorithms and data structures tailored for **EVM** environments, improving execution speeds by over **30%** in high-load scenarios.\n- Developed robust CI/CD pipelines with observability tools, streamlining releases and ensuring smooth deployment cycles, reducing deployment times by **25%**.\n- Implemented complex cryptography techniques and **Merkle trees** for secure transaction validations and integrity checks, enhancing data security across the platform.\n- Created effective environment orchestration strategies to manage resources efficiently, contributing to a **40%** reduction in operational overhead.\n- Leveraged **Foundry** for rapid testing and deployment of smart contracts, significantly minimizing bugs before production release.\n- Collaborated with cross-functional teams to implement performance optimization strategies that improved overall system throughput by **50%**.\n- Conducted A/B testing and feature flags implementation to enhance user engagement using **CI/CD** practices, iterating on features based on real user feedback.\n- Utilized **Scala** and **C++** for building high-performance backend services, focusing on system reliability and efficiency.\n- Developed and maintained detailed documentation for release pipelines, ensuring transparency and ease of understanding for engineering teams."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tGo, Rust, C++, Scala, Yul, Solidity, algorithms, data structures, performance optimization\n\n**Backend Frameworks:**\n\tPython: FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda; Azure: App Services\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose, observability\n\n**Cloud & Infrastructure:**\n\tAWS: RDS, S3, Azure: Blob Storage, SQL Database, environment orchestration, release pipelines\n\n**Other:**\n\tblockchain, EVM, Foundry, cryptography, Merkle trees",
+  "apply_company": "Matter Labs"
+}

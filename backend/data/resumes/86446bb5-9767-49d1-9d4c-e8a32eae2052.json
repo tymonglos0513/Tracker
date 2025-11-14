@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior ML Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior ML Engineer with 13+ years of experience specializing in delivering high-performance applications and machine learning solutions. Proficient in **Python** and **C++**, with hands-on expertise in building AI/ML-powered platforms utilizing **transformers**, **GANs**, and various MLOps strategies. Experienced in deploying scalable architectures using **Docker** and **Kubernetes**, and implementing CI/CD pipelines for efficient model training and serving.\nSkilled in voice conversion, ASR, vocoders, and source separation techniques, with a strong foundation in speaker diarization and diffusion methods. Proven track record in compliance-driven development, with attention to HIPAA and SOC 2 standards, ensuring secure and reliable ML solutions. Adept at leveraging tools like **torchscript** and **onnx** for optimizing model deployment, and implementing advanced strategies like flow-matching and LoRA for enhanced performance.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and optimized **MLOps** workflows utilizing tools such as **Kubernetes**, **Docker**, and **torchscript** for model training, validation, and deployment across various environments.\nDeveloped and deployed sophisticated AI models using **Python**, engaging in voice conversion and speaker diarization techniques while ensuring seamless integration with existing systems.\nConstructed multi-functional TTS systems leveraging **transformers**, **speech tokenizers**, and **ASR** technologies, which enhanced user interactions in real-time applications.\nConducted speaker diarization and source separation projects, applying **GANs** and **diffusion** techniques to refine audio processing pipelines.\nIntegrated and managed model inference pipelines using **onnx** and advanced experimentation frameworks, achieving up to **95%** accuracy in speech recognition tasks.\nLed the design and implementation of voice conversion technologies, achieving a **30%** improvement in naturalness in synthesized speech outputs.\nCollaborated with cross-functional teams to implement robust testing strategies for machine learning models using **PyTest**, covering unit, integration, and E2E tests to ensure reliability and performance standards.\nUtilized **Kubernetes** to orchestrate containerized applications, ensuring a scalable and efficient infrastructure for deploying machine learning models in production.\nEngaged in advanced research in speech tokenizers and flow-matching techniques, enhancing the overall capabilities of voice applications.\nContributed to the development of self-supervised learning models using **LoRA** to enhance the quality of audio synthesis and processing."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Engineered and optimized machine learning pipelines utilizing **Python**, **Docker**, and **Kubernetes** to enhance deployment efficiency and scalability for TTS and ASR applications.\nDeveloped and fine-tuned models for voice conversion and speaker diarization using **transformers**, **GANs**, and **LoRA**, improving accuracy by **30%** compared to baseline models.\nImplemented advanced neural architectures with **torchscript** and **onnx** for model inference, reducing latency for real-time applications by **25%**.\nConducted thorough research and implementation of source separation techniques using **diffusion** and **flow-matching**, achieving significant improvements in audio clarity and separation accuracy by **15%**.\nDesigned robust MLOps strategies to automate the training and deployment of ML models, integrating version control and monitoring tools that enhanced model deployment frequency by **40%**.\nCollaborated on cross-functional teams to integrate speech tokenizers and vocoders into products, enhancing the overall user experience and resulting in a **20%** increase in user satisfaction scores.\nConducted in-depth evaluations of model performance metrics, ensuring compliance with industry standards and leveraging the most effective frameworks available."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and optimized state-of-the-art machine learning frameworks leveraging **Python** and **C++** for TTS (Text-to-Speech) and ASR (Automatic Speech Recognition) applications, enhancing model performance by up to **30%**.\nEngineered and deployed advanced voice conversion solutions using **transformers**, enhancing voice synthesis quality and application adaptability in real-time scenarios.\nImplemented state-of-the-art techniques for speaker diarization and source separation, improving clarity and accuracy in challenging audio environments, achieving a **95%** accuracy rate.\nUtilized **Kubernetes** and **Docker** for container orchestration and management, streamlining deployment pipelines and ensuring scalability of machine learning models across different environments.\nLeveraged advanced model architectures including **GANs**, **LoRA**, and diffusion models to significantly enhance generative capabilities, yielding up to **70%** faster training time.\nApplied **torchscript** and **onnx** for model optimization and cross-platform deployment, facilitating enhanced integration with various applications and services.\nExecuted MLOps strategies to monitor model performance, ensuring robust and reliable delivery of speech models in production with a focus on continuous improvement and retraining methodologies.\nDeveloped and maintained comprehensive documentation for model deployments and configurations, improving team collaboration and easing onboarding processes for new developers.\n\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, C++\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tTTS, voice conversion, ASR, vocoders, speech tokenizers\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, MLOps, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, GANs, diffusion, flow-matching, LoRA, torchscript, onnx, Speaker diarization, Source Separation",
+  "apply_company": "SoundHound AI"
+}

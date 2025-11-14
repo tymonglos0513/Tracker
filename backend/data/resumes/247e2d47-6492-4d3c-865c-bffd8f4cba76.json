@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Software Developer with 13+ years of experience specializing in creating high-performance applications within the healthcare and financial sectors. Proficient in **Java** and **Kotlin**, with extensive experience in utilizing **CI/CD** practices and **GitLab** for streamlined deployment processes. Highly skilled in database management using **PostgreSQL**, **MongoDB**, and caching with **Redis**. Expertise in implementing microservices architecture and container orchestration through **Docker**, **Docker Swarm**, and **Kubernetes**. Experienced in version control, ensuring code integrity and collaborative development.\n\nIn addition to core competencies, I have hands-on experience in front-end and back-end development leveraging **JavaScript/TypeScript**, **Python**, and **Flutter**. Proven ability to build AI/ML-powered platforms that enable predictive analytics and real-time processing, with a strong background in MLOps using **MLflow**, **Airflow**, and **Kubeflow**. Committed to compliance-driven development, aligning solutions with HIPAA, FHIR, PCI DSS, and SOC 2 standards.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Leveraged **Java** and **Kotlin** to design and develop scalable microservices architectures, ensuring optimal performance and maintainability in high-demand environments.\n• Created and managed CI/CD pipelines utilizing **GitLab** for efficient code integration and automated deployments, enhancing collaboration and reducing deployment times by **30%**.\n• Built and maintained robust data storage solutions using **PostgreSQL**, **MongoDB**, and **Redis**, achieving high availability and performance for applications processing **over 1M** transactions daily.\n• Implemented containerization strategies leveraging **Docker** and **Kubernetes**, ensuring fault-tolerant deployments and enabling **50%** faster scaling during peak loads.\n• Developed advanced monitoring and logging capabilities using **StatsD**, enhancing system observability and allowing for quicker identification of performance bottlenecks.\n• Enforced version control best practices across the development team, ensuring consistency and traceability of code changes to improve team efficiency by **20%**.\n• Collaborated with cross-functional teams to transform legacy applications into microservices, significantly improving deployment speed and feature iteration cycles.\n• Conducted training sessions on **CI/CD** strategies and tools, increasing team’s proficiency in modern development practices and accelerating project timelines."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented microservices architecture using **Java** and **Kotlin** to enhance system scalability and maintainability across various applications.\nUtilized **CI/CD** practices to streamline deployment processes, integrating with **GitLab** for version control and collaboration.\nDesigned and optimized databases with **PostgreSQL** and **MongoDB**, ensuring efficient data storage and retrieval to support high-volume transactions.\nIntegrated caching solutions using **Redis** to accelerate data access for real-time applications, improving latency by up to **30%**.\nMonitored application performance with **StatsD**, enabling proactive troubleshooting and optimization decisions.\nContainerized applications using **Docker** and orchestrated with **Docker Swarm** and **Kubernetes**, achieving a **25%** reduction in deployment time.\nCollaborated with cross-functional teams to deliver features on time, improving team’s average velocity by **15%** per sprint.\nParticipated in code reviews and contributed to maintaining best practices in **version control**, fostering a culture of quality and continuous improvement."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and maintained scalable microservices architecture using **Java** and **Kotlin**, ensuring seamless deployment and integration across multiple platforms.\nImplemented CI/CD pipelines leveraging **GitLab** for automating builds, tests, and deployments, achieving a **30%** reduction in deployment time.\nExecuted version control processes to track and manage code changes effectively across teams, ensuring robust collaboration.\nUtilized **PostgreSQL**, **MongoDB**, and **Redis** for efficient data storage and retrieval, enhancing application performance and data integrity.\nDesigned and executed monitoring solutions with **StatsD**, optimizing application performance metrics and enabling proactive incident management.\nContainerized applications using **Docker** and orchestrated with **Kubernetes** and **Docker Swarm**, improving system reliability and scalability during peak traffic times.\nEmployed best practices of Agile development methodology to enhance team efficiency, resulting in successful project deliveries within stipulated timelines.\nCollaborated with cross-functional teams to define architecture and design patterns for microservices, leading to improved system modularity and independence.\nConducted code reviews and mentoring sessions, fostering a culture of quality and learning within the team."
+    }
+  ],
+  "skills": "Programming Languages:\n\tJava, Kotlin, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Docker Swarm\n\n**Cloud & Infrastructure:**\n\tAWS: S3, RDS, Azure: App Services, Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Let’s Encrypt, Certbot, version control, microservices, StatsD"
+}

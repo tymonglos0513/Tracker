@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Backend Engineer with 13+ years of experience specializing in high-performance applications within the healthcare and financial sectors. Proficient in **Node.js**, **TypeScript**, and **Fastify**, with hands-on expertise in **PostgreSQL**, **Redis**, and **Docker**. Demonstrated experience in designing and implementing **CI/CD** pipelines and infrastructure as code using **Terraform**.\nSkilled in integrating ML models into applications, facilitating automated decision-making and real-time analytics. Seasoned in A/B testing frameworks, with strong analytical skills leveraging tools like **Polars** and **Pandas** to drive data-driven insights. Experienced in modern frontend frameworks such as **React** and **Next.js**, enhancing user interaction and interface performance. Committed to compliance-driven development and aligning solutions with industry standards for security and quality.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed robust **Node.js** applications utilizing frameworks such as **Fastify**, while ensuring code quality through **TypeScript** and **Zod** for type safety.\n• Architected and maintained high-performance databases using **PostgreSQL** and **Redis**, tailored for optimal data retrieval and storage operations.\n• Implemented CI/CD practices and automated deployment workflows with tools like **Docker** and **Terraform**, optimizing development cycles across **9** different environments.\n• Integrated machine learning models seamlessly into backend systems, focusing on **ML model integration** to enhance data handling and processing capabilities.\n• Conducted A/B testing frameworks to evaluate application performance, resulting in improvements across **5%** of key metrics and enhancements in user experience.\n• Leveraged data manipulation libraries such as **Polars** and **Pandas** to analyze large datasets efficiently, enabling data-driven decision-making.\n• Collaborated effectively in a cross-functional team environment, ensuring adherence to coding standards while promoting best practices within the team.\n• Contributed to feature development using **React** and **Next.js**, enhancing user interactions and front-end performance.\n• Participated in code reviews and provided mentorship to junior engineers, fostering a culture of continuous learning and improvement.\n• Ensured application compliance with industry standards and security protocols while maintaining performance and scalability."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Spearheaded the development of backend services using **Node.js**, ensuring optimal performance and integration with **PostgreSQL** and **Redis** for efficient data management.\n• Implemented scalable microservices utilizing **TypeScript** and **Fastify**, resulting in a **25%** increase in system throughput for high-volume transaction processing.\n• Collaborated on front-end projects using **React** and **Next.js**, delivering responsive and interactive user experiences that enhanced client engagement metrics by **15%**.\n• Established **Docker** containers for seamless deployment and scaling of applications, significantly reducing overhead and deployment time by **30%**.\n• Championed CI/CD practices to automate testing and deployment workflows, reducing release cycles from **2 weeks** to **3 days**.\n• Integrated machine learning models into backend services, utilizing frameworks such as **Pandas**, **Polars**, and version-controlled **mlflow** to facilitate data analysis and prediction functionalities.\n• Developed robust API endpoints ensuring adherence to **A/B testing frameworks**, which increased the overall feature adoption rate by **20%**.\n• Employed **Terraform** for cloud infrastructure management, enabling consistent environments across development and production stages with minimal downtime."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized backend services using **Node.js** (Fastify) and **TypeScript**, ensuring scalability and efficiency across various modules in the e-commerce platform, resulting in a **30%** reduction in response time.\n• Engineered CI/CD pipelines for seamless deployments, utilizing **Docker** and **Terraform** to automate infrastructure management and application deployments, achieving **20%** faster release cycles.\n• Integrated PostgreSQL and Redis databases for high-performance data storage solutions, ensuring fault tolerance and reducing data retrieval times by **40%**.\n• Implemented performance tracking and A/B testing frameworks to facilitate experimentation, resulting in a **15%** increase in user engagement through targeted feature rollouts.\n• Collaborated with ML teams to incorporate model integrations using **Pandas** and **Polars**, personalizing product recommendations and improving search algorithms, enhancing conversion rates by **12%**.\n• Employed role-based access control (RBAC) practices to ensure secure access for users while adhering to GDPR compliance, safeguarding sensitive information across the platform.\n• Developed responsive web applications using **React** and **Next.js**, optimized for mobile engagement and performance, ensuring compliance with WCAG 2.1 standards.\n• Adopted best practices for error handling and logging within backend services, significantly improving system reliability and facilitating troubleshooting processes."
+    }
+  ],
+  "skills": " \n\n**Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js, Fastify\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular, Next.js\n\n**API Technologies:**\n\tZod\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Kysely\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, A/B testing frameworks, Polars, Pandas, ML model integration"
+}

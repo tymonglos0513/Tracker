@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Solutions Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Dynamic Senior Solutions Engineer with 13+ years of expertise in Solutions Architecture and delivering high-performance applications across healthcare and financial sectors. Proficient in **JavaScript**, **TypeScript**, **Python**, and committed to harnessing modern technologies including **Docker**, **Kubernetes**, and cloud solutions on **AWS** and **Azure**. Demonstrated ability in developing robust **APIs** and integrating **Speech-to-Text** and **Text-to-Speech** voice agent solutions. Experienced in ensuring enterprise security and data privacy through effective **Authentication** and **Authorization** practices.\nAdept at implementing **CI/CD** pipelines and observability strategies to enhance application performance and reliability. Skilled in MLOps and compliant with industry standards such as HIPAA and PCI DSS, I leverage my background in advanced technologies like **MLflow** and **Kubeflow** to drive automation, predictive analytics, and real-time data processing. Committed to producing thorough **Documentation** while fostering compliance-driven development.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Solutions Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and implemented **Solutions Architecture** strategies for full-stack platforms utilizing **Python (FastAPI)**, **TypeScript**, and **JavaScript** in conjunction with frameworks like **React (17-18)**, **Next.js**, and **Vue 3**.\n• Ensured compliance with **Data Privacy** regulations (HIPAA, FHIR, GDPR, PCI DSS, SOX) while delivering secure applications.\n• Designed and crafted mobile applications for both iOS and Android utilizing **Flutter** and **React Native**, emphasizing **Authentication** and **Authorization** for secure user interactions.\n• Constructed CI/CD pipelines by employing **Docker** and **Kubernetes (AKS/EKS)**, seamlessly integrating test automation and observability features with **Firebase Crashlytics** and **Sentry**.\n• Transformed legacy systems into scalable microservices, enhancing **Enterprise Security** through upgraded deployment strategies using **AWS Lambda** and **Azure Functions**.\n• Managed data infrastructures such as **PostgreSQL**, **MongoDB**, **Redis**, and **GraphQL**, efficiently processing **heavy data ingestion** alongside real-time analytics for the healthcare and fintech sectors.\n• Deployed machine learning models for risk scoring, fraud detection, and document classification using **scikit-learn**, **PyTorch**, and **TensorFlow**, with integrations across live systems.\n• Executed **MLOps** workflows through **MLflow**, **DVC**, and **Airflow**, streamlining model training and deployment pipelines across multiple environments.\n• Integrated innovative features into frontend applications, including personalized dashboards and predictive alerts, utilizing services hosted on **Azure ML** and **AWS Sagemaker**.\n• Built comprehensive **DevOps** pipelines employing **GitHub Actions**, **CircleCI**, and **Azure DevOps**, ensuring full test automation and security checks.\n• Created advanced data visualization tools using **D3.js**, **Chart.js**, and **Power BI Embedded**, allowing for real-time financial analysis and KPI monitoring.\n• Collaborated with ML teams to integrate NLP solutions powered by **spaCy** and **Hugging Face Transformers** for document parsing via secured **REST APIs**.\n• Developed and maintained extensive documentation, ensuring robust and clear procedures across the stacks, including **HELM** implementations for deployments.\n• Integrated search functionalities utilizing **Azure Cognitive Search** and **Elasticsearch**, optimizing query performance across structured and unstructured datasets."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented **Solutions Architecture** for modernizing core financial platforms, migrating to microservices architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), which resulted in a **40%** increase in scalability and performance for high-volume transactional systems.\nDeveloped and maintained **APIs** and interactive front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, using **Redux Toolkit** and **Tailwind CSS** to create sleek and responsive interfaces for financial tools and admin panels, enhancing user engagement by **30%**.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, enabling operations teams to gain instant insights into transactions and anomalies, improving decision-making speed by **25%**.\nCrafted and deployed a robust event-driven architecture leveraging **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring effective asynchronous communication across critical workflows such as payments, alerts, and compliance.\nBuilt ETL pipelines for seamlessly ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, facilitating both batch and real-time processing with a processing speed increase of **50%**.\nDesigned and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services, thereby enhancing the credit evaluation process by **15%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented robust **Solutions Architecture** for scalable, high-performance applications, utilizing **Python** and **JavaScript** for server-side development, ensuring optimized resource use and response times.\n• Integrated **APIs** for effective communication between services, enhancing system interoperability and functionality across platforms.\n• Deployed applications using **Docker** containers and managed scaling with **Kubernetes**, ensuring streamlined operations and efficient resource utilization in production environments.\n• Developed real-time voice applications implementing **Speech-to-Text** and **Text-to-Speech** technologies to enhance user interactions and engagement, supporting **cloud** infrastructures for seamless deployment.\n• Ensured **Observability** through comprehensive metrics setup, facilitating monitoring, logging, and performance tuning of critical services for a global user base of over **100,000** active monthly users.\n• Architected secure APIs with emphasis on **Authentication** and **Authorization**, implementing **OAuth 2.0** standards to protect user data and ensure compliance with **Data Privacy** regulations.\n• Leveraged **Enterprise Security** practices to safeguard sensitive customer information, achieving a **99.9%** incident-free compliance record under GDPR guidelines.\n• Produced high-quality documentation to support development and maintainability, facilitating clear communication of architectural decisions and technical details.\n• Collaborated with cross-functional teams to enhance system security using cutting-edge tools and methodologies, enhancing security posture across deployments.\n• Conducted rigorous testing and quality assurance to ensure deployment readiness of applications, which led to a **30%** reduction in post-launch defects."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks**\n\tReact, Vue, Angular\n\n **API Technologies**\n\tAPIs\n\n **Serverless and Cloud Functions**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Helm, Terraform, Ansible, Docker Compose\n\n **Cloud & Infrastructure**\n\tSolutions Architecture, Cloud, Observability\n\n **Other**\n\tSpeech-to-Text, Text-to-Speech, Voice Agents, Authentication, Authorization, Data Privacy, Enterprise Security, Documentation",
+  "apply_company": "Deepgram"
+}

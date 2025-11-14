@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Quality Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Quality Engineer with over 13 years of experience in building resilient and high-performance applications across the healthcare and financial sectors. Proven expertise in **Kubernetes**, **AWS Fault Injection Simulator**, **Chaos Mesh**, and **Istio** to enhance system robustness and scalability. Skilled in implementing **GitOps** methodologies and performance tuning principles to optimize distributed systems for peak performance metrics.\nStrong background in utilizing monitoring tools such as **CloudWatch** and **Prometheus** for ensuring continuous system health and performance reliability. Adept at facilitating resilience testing and troubleshooting using **Litmus** and **HoneyComb** while adhering to rigorous compliance standards including HIPAA and PCI DSS.\nFurther enhances systems with innovative AI/ML capabilities, leveraging **FastAPI**, **Django**, and cloud-native deployments with **AWS** and **Azure**. Committed to driving automation and efficiency through robust CI/CD pipelines, ensuring seamless integration and delivery of software solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Quality Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented resilience testing strategies using **Kubernetes** and **Chaos Mesh** to ensure fault tolerance and scalability of distributed systems across **AWS** infrastructure.\nConducted performance tuning and optimization of services deployed in **Kubernetes**, analyzing metrics via **CloudWatch** and **Prometheus** to enhance application performance and resource utilization.\nLed initiatives to streamline GitOps processes, integrating tools such as **GitOps**, **Istio**, and **ALB** for improved deployment efficiency and service mesh management.\nManaged chaos engineering experiments leveraging **AWS Fault Injection Simulator** and **Litmus** to proactively identify weaknesses in production environments and enhance system reliability.\nDeveloped and maintained resilience testing frameworks to evaluate application behavior under stress, ensuring compliance with scalability and performance benchmarks.\nCollaborated with cross-functional teams to design and implement distributed architectures that ensure high availability and fault tolerance, using **Kubernetes** and serverless patterns.\nProvided insights and strategies for monitoring and observability through **HoneyComb**, facilitating real-time data analysis and incident response for production systems.\nEducated team members on best practices for resilience and performance, promoting a culture of continuous improvement within engineering teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented resilience testing frameworks using **Kubernetes**, **Chaos Mesh**, and **AWS Fault Injection Simulator** to ensure the robustness of microservices under various failure scenarios.\nUtilized **GitOps** practices for streamlined deployment and management of applications, enhancing version control and collaboration in the CI/CD pipeline.\nPerformed scalability assessments of distributed systems architectures, identifying performance bottlenecks and optimizing resource allocation with **Karpenter**.\nMonitored system performance and reliability using **CloudWatch**, **Prometheus**, and **HoneyComb**, achieving a **20%** reduction in downtime through proactive issue resolution.\nExecuted chaos engineering strategies using **Litmus** and **Istio** to validate service resilience and quickly recover from failures, improving system reliability by **30%**.\nConducted thorough tests for system performance tuning, guaranteeing optimal operation of high-volume transactional systems in production.\nFacilitated continuous integration testing processes, ensuring alignment between development and operations teams through automated testing frameworks.\nCollaborated with cross-functional teams to establish quality standards and best practices, enhancing code quality and maintainability across projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented and optimized **Kubernetes**-based frameworks for continuous integration and deployment, ensuring efficient rollout and management of microservices, achieving 99.9% uptime in critical environments.\nConducted **resilience testing** and performance tuning using **AWS Fault Injection Simulator** and **Chaos Mesh**, identifying and mitigating system vulnerabilities to improve the overall reliability of distributed systems by **30%**.\nLeveraged **GitOps** practices to manage infrastructure changes and application deployments, enhancing collaborative workflows and deployment speed by **40%**.\nMonitored system performance using **Prometheus** and **CloudWatch**, generating actionable insights that led to a **25% reduction** in latency and improved user experience across applications.\nUtilized **HoneyComb** for distributed tracing and observability, significantly enhancing debugging capabilities and system performance diagnostics in production environments.\nDesigned and implemented automated testing frameworks for critical services, increasing test coverage by **50%** and reducing defects in production by **20%**.\nFacilitated scaling strategies using **Karpenter** and **ALB**, ensuring efficient resource allocation and dynamic scaling of services during peak loads, achieving performance targets.\nConducted **resilience testing** scenarios using **Litmus**, enhancing system robustness to withstand unexpected failures and improving mean time to recovery (MTTR) by **15%**.\nReviewed and refined engineering processes to ensure compliance and alignment with best practices in distributed systems, bolstering team productivity and code quality across projects."
+    }
+  ],
+  "skills": "**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, GitOps, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS Fault Injection Simulator, Karpenter, ALB, CloudWatch, Prometheus, HoneyComb\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Chaos Mesh, Litmus, Distributed Systems, Performance Tuning, Resilience Testing, Scalability\n",
+  "apply_company": "RLDatix"
+}

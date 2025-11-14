@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience delivering innovative solutions across healthcare and financial sectors. Proficient in **C#**, **Python**, **SQL**, and leveraging **AWS** for cloud deployments. Skilled in frontend technologies like **Angular**, **React**, and **Vue.js**, with hands-on experience in building data-driven applications using **PowerBI** and **Databricks**. Experienced in developing and implementing AI solutions that enhance predictive analytics and real-time processing.\n\nDeep expertise in full stack development, incorporating microservices, event-driven architectures, and CI/CD practices. Strong background in compliance-oriented development with respect to industry standards such as HIPAA and PCI DSS. Proven ability in MLOps, including model training and orchestration using tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed scalable web applications within **React** and **Angular** frameworks, ensuring optimal performance and user experience.\n• Engineered robust backend services using **C#** and **Python** for seamless integration with healthcare and fintech systems.\n• Leveraged **AWS** cloud services for deploying applications, achieving a **99.9% uptime** and facilitating **real-time** data processing and analytics.\n• Managed relational and non-relational databases, including **SQL** and **Snowflake**, to handle an average of **5 million** transactions daily, maintaining data integrity and security.\n• Collaborated with cross-functional teams to integrate **PowerBI** and **Databricks** for advanced data analytics, delivering insights to stakeholders significantly faster, improving reporting speed by **30%**.\n• Utilized modern frontend frameworks such as **Vue.js** to enhance user experience, contributing to an increase in user engagement by **25%**.\n• Designed and implemented APIs to support seamless communication between **AI** models and frontend applications, enhancing functionality and responsiveness.\n• Actively participated in code reviews and developed unit tests using **Jest** and **PyTest**, ensuring high-quality deliverables and reducing production bugs by **40%**.\n• Conducted performance tuning and optimization efforts, achieving at least **50%** reduction in page load times across multiple applications.\n• Engaged in agile development practices, contributing to iterative software enhancements and timely project deliveries, meeting all deadlines as scheduled."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Leveraged **C#**, **Python**, and **SQL** to modernize core financial platforms by migrating to microservices architecture, enhancing scalability and performance for high-volume transactional systems.\nUtilized **React (18)**, **Vue 3**, **Next.js**, and **TypeScript** together with **Redux Toolkit** and **Tailwind CSS** to build interactive front-end applications for financial tools, increasing user engagement by **25%**.\nDelivered real-time analytics dashboards using **React**, **D3.js**, and **Power BI Embedded**, equipping operations teams with instant insights into transactions and anomalies, contributing to a **15%** reduction in response time.\nDesigned and deployed a robust event-driven architecture with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance for over **50,000** transactions daily.\nDeveloped ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing, improving data accessibility by **40%**.\nBuilt and deployed machine learning models for fraud detection utilizing **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns, reducing fraud incidents by **30%**.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services, leading to a **20%** increase in customer retention."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend services for an Order Management System (OMS) utilizing **Python** (FastAPI, Django) and C#, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nEngineered real-time features using WebSockets and event-driven architecture powered by **Kafka** and **RabbitMQ**, enabling responsive order updates, dynamic inventory tracking, and real-time customer support.\nDeveloped frontend applications using **React** (18), **Vue.js** (3), and **Angular**, enhanced with **TypeScript**, Redux Toolkit, and Tailwind CSS, delivering fast, responsive user experiences on both web and mobile platforms.\nLeveraged **SQL** with MongoDB, PostgreSQL, Redis, and Cassandra for distributed data storage, ensuring fast, fault-tolerant data access for high-traffic e-commerce workflows and caching frequently accessed resources for performance gains.\nIntegrated AI/ML-based recommendation engines using **scikit-learn**, **LightGBM**, and **TensorFlow** to personalize product listings, optimize search relevance, and improve conversion rates based on real-time behavioral data.\nImplemented **Redis** caching for product metadata, shopping cart sessions, and search results, significantly improving application responsiveness and reducing read pressure on databases.\nImplemented feature flags and blue-green deployments using **LaunchDarkly** and **Kubernetes** namespaces, enabling controlled rollouts, A/B testing, and risk mitigation during major platform updates.\nCreated responsive, SEO-friendly e-commerce UIs using **Next.js**, **Vue.js** (3), and HTML5/CSS3, optimized for mobile-first engagement and accessibility compliance (**WCAG 2.1**).\nBuilt secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, applying tokenized transactions and PCI-compliant handling of sensitive data.\nApplied role-based access control (RBAC) and **OAuth 2.0** for secure customer and admin access, ensuring **GDPR** compliance and user data protection throughout the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tC#, Python, SQL\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tAngular, React, Vue, Vue.js\n\n**API Technologies:**\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Snowflake\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, PowerBI, Databricks, AI, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "Soros Fund Management"
+}

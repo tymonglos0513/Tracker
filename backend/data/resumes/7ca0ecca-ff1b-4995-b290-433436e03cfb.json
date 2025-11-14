@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Backend Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Backend Engineer with 10+ years of experience in developing and deploying high-performance cloud-native applications. Proficient in **Node.js**, **Python**, **AWS**, and **Azure**, with strong expertise in microservices architecture, CI/CD, and event-driven systems. Skilled in creating scalable backend systems utilizing technologies such as **Docker**, **Kubernetes**, **Terraform**, and **CloudFormation**. Proficient in designing RESTful APIs and working with databases including **Postgres** and **DynamoDB**. Experienced in implementing efficient automation strategies using **Jenkins** for CI/CD processes.\nBrings a well-rounded background in leading enterprise platform development incorporating AI/ML capabilities for real-time analytics, complemented by a focus on building secure solutions meeting compliance standards like HIPAA and PCI DSS. Passionate about driving impactful technology solutions while ensuring maintainability and performance.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable backend solutions using **Node.js** and **Python** (FastAPI), ensuring optimal performance and security for high-traffic applications in healthcare and finance.\n• Developed robust cloud architectures using **AWS**, **Azure**, and **GCP**, leveraging **Docker** and **Kubernetes** to orchestrate containerized applications, improving deployment efficiency by **30%**.\n• Established CI/CD pipelines utilizing **Jenkins** and **Terraform**, ensuring seamless integration and deployment processes, reducing downtime by **20%** and maintaining high availability.\n• Managed data persistence and retrieval with **Postgres** and **DynamoDB**, optimizing queries for large-scale data processing with a reduction in latency by **40%**.\n• Implemented microservices architectures utilizing **REST** APIs, enabling independent scaling and development of services that improved feature deployment speed by **50%**.\n• Automated cloud infrastructure with **CloudFormation** and **ARM templates**, leading to consistent and repeatable deployments across environments, increasing operational reliability.\n• Ensured code quality and maintainability through rigorous testing using frameworks such as **Jest**, **Cypress**, and **PyTest**, covering **90%** of codebase with unit and integration tests.\n• Collaborated effectively with cross-functional teams to integrate third-party services and improve overall system interoperability, enhancing user experience in healthcare applications.\n• Analyzed application performance metrics and implemented monitoring solutions using cloud services, achieving **99.9%** uptime across all backend systems.\n• Developed efficient data processing pipelines, decreasing data latency by **35%** through the integration of **Pub/Sub** messaging systems."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Node.js** and **Python** for building robust backend systems, ensuring adherence to microservices architecture principles and enhancing scalability for high-level financial applications.\nImplemented cloud solutions using **AWS**, **Azure**, and **GCP** for improved deployment and management of applications, achieving a **30%** reduction in operational costs.\nDesigned and maintained asynchronous communication protocols through **REST** APIs and integrated **Docker** containers with **Kubernetes** orchestration to ensure reliable application delivery across environments.\nContributed to CI/CD processes utilizing **Jenkins** and **Terraform**, resulting in increased deployment frequency by **40%** and reduced lead time for changes.\nCreated extensive database solutions with **Postgres** and **DynamoDB**, managing transaction volumes exceeding **1 million** entries per day while optimizing read/write operations.\nApplied modern event-driven architectures with **Pub/Sub** systems to enhance real-time processing capabilities for transactions and alerts, facilitating faster compliance workflows.\nConducted cross-functional collaboration to streamline product development and integrate **Go** and other backend languages as needed, leading to a smoother development lifecycle and increased team efficiency.\nEnsured high standards of code quality and performance metrics, mentoring junior engineers in best practices for backend development and cloud technologies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Developed and optimized backend services using **Node.js** and **Python**, ensuring high performance and scalability, especially in critical modules such as checkout and order fulfillment, while managing traffic loads exceeding **10,000** requests per minute.\nEngineered cloud solutions using **AWS**, **Azure**, and **GCP**, implementing **Docker** for containerization and **Kubernetes** for orchestration to maintain availability and manage seamless deployments across environments.\nImplemented robust CI/CD pipelines with **Jenkins**, ensuring continuous integration and deployment processes that reduced release times by **30%** and improved deployment frequency.\nUtilized **PostgreSQL** for structured data storage to enhance query performance, achieving database response times under **100ms** for high-traffic e-commerce applications.\nAutomated infrastructure provisioning with **Terraform** and **CloudFormation**, deploying multi-tier applications to simplify resource management and scalability, which led to a **40%** decrease in infrastructure costs.\nApplied RESTful architecture for microservices communication, allowing modular development that accelerated feature releases by **25%** without compromising system reliability.\nCreated and maintained Pub/Sub messaging systems to support asynchronous communication within distributed systems, ensuring real-time updates and minimal latency during peak load times.\nCollaborated with cross-functional teams to ensure system security through role-based access control and data protection measures, ensuring **GDPR** compliance and safeguarding customer data.\nOptimized cloud costs and performance, consistently reviewing cloud resource utilization metrics to achieve a reduction in costs by **15%** while maintaining system performance and reliability."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Node.js, Go\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tREST, Pub/Sub, JWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, DynamoDB\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, CloudFormation, ARM\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot, CI/CD",
+  "apply_company": "Akamai"
+}

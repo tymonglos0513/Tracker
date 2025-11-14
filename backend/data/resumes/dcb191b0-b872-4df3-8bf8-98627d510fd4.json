@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior FullStack Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Dynamic Senior FullStack Engineer with over 10 years of experience in backend and frontend development, utilizing a comprehensive tech stack of **Python (Django, Flask)**, **SQLAlchemy**, **OpenAPI**, **Celery**, **RabbitMQ**, **PostgreSQL**, **Redis**, **React**, **TypeScript**, and **GitHub Actions**. Proficient in leveraging cloud services like **AWS**, **Azure**, **GCP**, and **Heroku**, as well as container orchestration with **k8s** and infrastructure as code using **Terraform**. Committed to delivering high-performing APIs and scalable services while ensuring agile methodologies and best coding practices are adhered to. Recognized for translating complex business requirements into effective tech solutions at leading companies such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior FullStack Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "• Developed high-performance applications using **Python** for backend services, implementing robust APIs with **FastAPI**, and ensuring integration with **OpenAPI** standards.\n• Engineered data persistence solutions utilizing **SQLAlchemy** with **PostgreSQL** for efficient database management and retrieval, resulting in a **25%** reduction in query response time.\n• Implemented asynchronous task management through **Celery** and **Redis**, improving processing efficiency for transaction requests by **40%**.\n• Designed and deployed microservices architecture on **Azure** using **Terraform** to manage infrastructure as code, achieving a **99.9%** uptime in production.\n• Created and maintained data pipelines leveraging **Apache Airflow** and **Azure Functions** for regulatory data exchange, ensuring accurate data flow that met compliance regulations.\n• Integrated **OAuth2** and **Azure AD B2C** to enhance security protocols for authentication, resulting in improved scalability for user management.\n• Collaborated within Agile teams to tackle system integration challenges, leading release strategies and ensuring compliance across development cycles.\n• Leveraged tools like **GitHub Actions** and **Jenkins** for CI/CD processes, enhancing deployment efficiency by **30%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems using **Python** and **FastAPI**, aligning with business needs to facilitate efficient document workflows and user onboarding processes.\n• Engineered robust event-driven microservices utilizing **Celery** and **Redis** to enhance asynchronous processing of financial data with response times improved by **30%**.\n• Managed the deployment of microservices on **Azure App Services**, employing **Terraform** for infrastructure automation, resulting in a scalable environment supporting **50+** concurrent users.\n• Created and maintained data pipelines for secure regulatory data exchange, leveraging **Apache Airflow** and **Azure Functions** which decreased data processing time by **20%**.\n• Conducted security audits to ensure adherence to industry standards, integrating **OAuth2** and **Azure AD B2C** for managing authentication and secure access controls, achieving compliance with **100%** of regulatory requirements.\n• Collaborated with cross-functional teams in an **Agile** environment, ensuring smooth system integration, regulatory compliance, and effective release management across **2 major projects** per quarter."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed and maintained backend services for trade execution, portfolio management, and account tracking utilizing **Python** and **PostgreSQL**, improving trading operations by **30%**.\n• Implemented real-time price feed processors using **asyncio**, **WebSockets**, and **Redis**, ensuring up-to-the-minute trading data delivery for high-frequency transactions with a latency reduction of **15%**.\n• Collaborated with frontend teams to successfully deliver data through **REST APIs** and **WebSocket channels**, enhancing user experience on the platform by **25%**.\n• Ensured compliance with regulatory requirements such as **MiFID II** and **GDPR**, while strictly adhering to internal data security protocols to protect user data.\n• Designed and executed comprehensive test suites employing **PyTest**, **tox**, and mock servers, effectively streamlining QA and CI processes for faster development cycles.\n• Introduced and optimized job queuing and scheduling systems using **Celery** and **RabbitMQ**, which improved backend task management efficiency by **40%**.\n• Utilized agile methodologies and principles throughout the project lifecycle, enhancing cross-functional team collaboration and delivery timelines."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, SQL, TypeScript\n\n**Backend Frameworks**\n\tDjango, FastAPI, Flask, Celery, SQLAlchemy, RabbitMQ\n\n**Frontend Frameworks**\n\tReact\n\n**API Technologies**\n\tREST/gRPC APIs, OpenAPI\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, GCP, Heroku\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes (k8s), GitHub Actions, Jenkins, Terraform, CI/CD\n\n**Cloud & Infrastructure**\n\tAzure, AWS\n\n**Other**\n\tAgile, Microservices, Kafka, OOP, AI/ML Tools (Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow), PyTest, Git",
+  "apply_company": "Sphera"
+}

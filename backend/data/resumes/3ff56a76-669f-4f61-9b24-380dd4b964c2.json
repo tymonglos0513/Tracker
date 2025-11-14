@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior DevOps Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior DevOps Engineer with 10+ years of experience in delivering high-performance software solutions and managing cloud infrastructure. Proficient in **AWS**, **Docker**, **Kubernetes**, and **Terraform**, with extensive skills in CI/CD automation using **GitHub Actions**, **Jenkins**, and **GitLab CI**. Strong background in monitoring and observability using **Prometheus**, **Grafana**, and **ELK**, ensuring high availability and security across cloud-native applications. Adept at building and deploying scalable systems, with practical experience in scripting with **Python** and **Bash**, and a solid understanding of networking and security protocols.\n\nExpertise in developing enterprise platforms that leverage AI-assisted tools for real-time analytics and automation, while ensuring compliance with standards such as HIPAA and PCI DSS. Passionate about creating secure, maintainable solutions that drive impactful results, while effectively communicating within teams and stakeholders.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable, full-stack solutions, employing **AWS** alongside **Docker** and **Kubernetes** (AKS/EKS), ensuring high availability and fault tolerance.\n• Developed and integrated CI/CD pipelines using **GitHub Actions**, **Jenkins**, and **GitLab CI**, incorporating monitoring tools like **Prometheus**, **Grafana**, and **CloudWatch** for reliability.\n• Led the transition to microservices architecture, utilizing **Terraform** for infrastructure as code, streamlining deployments across cloud environments and improving system performance by **30%**.\n• Implemented enterprise-level security measures and networking strategies, ensuring compliance with industry standards and protecting sensitive data through effective protocols.\n• Collaborated closely with cross-functional teams, providing communication on technical processes and deploying solutions across diverse platforms.\n• Leveraged advanced AI-assisted tools within automation processes, enhancing operational efficiency through predictive analytics and machine learning techniques.\n• Established best practices for monitoring infrastructure, utilizing **ELK stack** for log management and analysis to improve incident response times by **25%**.\n• Developed and maintained cloud-native data architectures with **Python** as the primary language, integrating automation scripts for efficient resource provisioning and management.\n• Maintained high-availability deployments for applications running on **Kubernetes**, achieving **99.9%** uptime in production environments.\n• Trained staff on best practices for using DevOps tools and cloud technologies, enhancing team proficiency and collaboration for continuous delivery efforts."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Implemented **AWS** cloud services to ensure high-availability and scalability of financial applications, resulting in a **30%** improvement in uptime.\nUtilized **Docker** and **Kubernetes** for container orchestration, achieving a seamless deployment process with a **50%** reduction in time to market for new features.\nDeveloped and maintained CI/CD pipelines using **GitHub Actions**, **Jenkins**, and **GitLab CI**, increasing deployment frequency by **70%** and leading to faster delivery of high-quality code.\nIntegrated monitoring solutions with **Prometheus** and **Grafana**, enhancing system observability and alerting mechanisms for proactive incident response, which reduced on-call incidents by **40%**.\nConfigured and managed infrastructure as code with **Terraform**, streamlining the provisioning of resources and ensuring consistency across development, testing, and production environments.\nManaged security protocols and best practices, ensuring compliance with industry standards to protect sensitive financial data from potential threats.\nOptimized network configurations to enhance performance and reduce latency, supporting an efficient communication flow across microservices deployments.\nInitiated the use of AI-assisted tools for infrastructure optimization that harnessed data insights to improve operational efficiency by **25%**.\nCollaborated with cross-functional teams to refine processes and foster effective communication, driving a culture of continuous improvement and innovation.\nEmployed **Python** and **Bash** scripting to automate routine tasks, increasing team productivity and allowing engineers to focus on high-impact projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines using **GitHub Actions**, **Jenkins**, and **GitLab CI** to automate deployment processes and foster high availability across applications, resulting in a **40% reduction** in deployment time.\nUtilized **AWS** services like **CloudWatch** for monitoring and logging, ensuring application performance metrics and system health are consistently optimized.\nManaged container orchestration with **Docker** and **Kubernetes**, facilitating smooth deployment and scaling of applications while maintaining system reliability and security standards.\nConfigured infrastructure as code using **Terraform**, streamlining resource provisioning and configuration management, achieving a **35% increase** in deployment speed and consistency.\nMonitored system performance and application availability using **Prometheus** and **Grafana**, enabling proactive identification of issues before impacting users.\nEngineered solutions that employed **Bash** and **Python** scripts for efficient automation and server management, enhancing overall operational efficiency across environments.\nFostered strong communication practices within the team, advocating for best practices in system architecture and security protocols.\nEmphasized networking principles to ensure robust and secure connectivity for applications deployed across multiple environments.\nIncorporated security best practices into DevOps pipelines, including role-based access control (RBAC) and compliance adherence to safeguard sensitive data.\nLeveraged AI-assisted tools for continuous monitoring and improvements in infrastructure performance and security management."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, Bash, Go\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks**\n\tJavaScript/TypeScript, React, Vue, Angular\n\n**API Technologies**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions**\n\tAWS (ECS, Lambda), Azure (App Services)\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Jenkins\n\n**Cloud & Infrastructure**\n\tTerraform, Prometheus, Grafana, ELK, CloudWatch, Ansible, Helm, Docker Compose\n\n**Other**\n\tAI-assisted tools, Networking, Security, High-availability, Communication",
+  "apply_company": "Tangible"
+}

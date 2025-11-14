@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Data Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Data Engineer with over 10 years of experience in **Data Engineering**, **AI/ML**, and building efficient **Pipelines** within **cloud-native** architectures. Expert in designing and managing high-performance **ETL** and **ELT** processes using **Python** and **SQL**, while leveraging **cloud platforms** such as **AWS** and **Snowflake**. Proficient in deploying and orchestrating services with tools like **Docker**, **Kubernetes**, **Redis**, and implementing **CI/CD** methodologies. Strong background in developing comprehensive monitoring solutions and maintaining data integrity, combined with exceptional communication, teamwork, and problem-solving skills gained from impactful projects with organizations like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained **data pipelines** using **Apache Airflow** and **Azure Functions** for regulatory data exchange, achieving **99%** data accuracy and fulfilling compliance requirements.\nEngineered backend services in **Python** with **FastAPI**, ensuring efficient data processing for automated workflows and user onboarding, reducing onboarding time by **30%**.\nCreated and deployed microservices on **Azure App Services**, using **Terraform** for **infrastructure as code** to streamline cloud operations, enhancing deployment efficiency by **25%**.\nImplemented **event-driven** solutions utilizing **Celery** and **Redis** for effective asynchronous processing of financial transaction requests, handling up to **10,000** requests per second.\nLed the integration of **OAuth2** and **Azure AD B2C** to enhance security and scalability of authentication systems, safeguarding user data.\nFacilitated collaboration across cross-functional teams to address system integration challenges and enhance release strategies, promoting agile methodologies in project execution."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Engineered and maintained **data pipelines** utilizing **Apache Airflow** and **Azure Functions**, enhancing the automation of data flow by **30%** and ensuring secure data exchanges.\n• Developed and optimized backend systems using **Python** and **FastAPI**, improving user onboarding processes and reporting efficiency, reducing processing time by **25%**.\n• Strategically created event-driven microservices with **Celery** and **Redis**, achieving asynchronous processing of financial data, resulting in a **40%** increase in transaction handling capacity.\n• Implemented and managed the deployment of microservices on **Azure App Services**, utilizing **Terraform** for infrastructure automation, achieving a consistent and scalable environment across **5** regions.\n• Conducted comprehensive security audits and implemented OAuth2 alongside **Azure AD B2C** for secure access controls, ensuring compliance with industry standards and reducing potential vulnerabilities by **70%**.\n• Collaborated effectively with cross-functional teams to ensure seamless system integration, regulatory compliance, and successful release management, fostering a problem-solving environment and enhancing teamwork.\n• Utilized version control with **Git** and continuous integration/continuous deployment (**CI/CD**) practices to streamline development processes and maintain code quality."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed data pipelines for trade execution, portfolio management, and account tracking using **Python**, **SQL**, and **PostgreSQL**, enhancing trading operations by **20%**.\n• Engineered real-time data processing using **Redis**, **asyncio**, and **WebSockets**, delivering up-to-the-minute trading data for high-frequency transactions, achieving a latency reduction of **30%**.\n• Collaborated with cross-functional teams to facilitate data integration through **REST APIs** and **WebSocket** channels, ensuring smooth interactions and user satisfaction.\n• Ensured data compliance with regulatory standards such as MiFID II and GDPR, implementing internal security measures.\n• Implemented comprehensive automated testing frameworks using **PyTest** and **tox**, increasing testing efficiency by **40%** and streamlining the CI/CD workflow.\n• Introduced job scheduling systems using **Celery** and **RabbitMQ**, optimizing backend task execution and management of processes.\n• Utilized **Docker** and **Kubernetes** for containerization and orchestration, enhancing deployment capabilities within the cloud environment of **AWS**."
+    }
+  ],
+  "skills": "  **Programming Languages**\n\tPython, SQL\n\n  **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n  **API Technologies**\n\tREST/gRPC APIs\n\n  **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, Snowflake\n\n  **Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, Docker, Kubernetes\n\n  **DevOps**\n\tGitHub Actions, Azure DevOps, CI/CD, Git\n\n  **Cloud & Infrastructure**\n\tCloud\n\n  **Other**\n\tData Engineering, AI/ML, Pipelines, Data Modeling, ETL, ELT, Monitoring, Communication, Teamwork, Problem-solving, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, PyTest",
+  "apply_company": "CloudPay"
+}

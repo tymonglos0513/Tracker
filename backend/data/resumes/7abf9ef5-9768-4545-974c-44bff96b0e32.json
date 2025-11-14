@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Java Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a dedicated Senior Java Engineer with 8 years of experience, I bring a strong expertise in **Java**, **JVM**, and **Concurrency**, essential for designing and developing high-performance, distributed systems. My technical acumen also includes **Performance Engineering**, focusing on optimizing garbage collection, caching, indexing, and utilizing observability tools to enhance system reliability. I have a proven track record of leading projects that improve scalability and efficiency in both healthcare and financial sectors.\nIn addition to my backend proficiency, I have hands-on experience with modern technologies like **Python**, **JavaScript/TypeScript**, and **Flutter**, along with frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. My in-depth knowledge of cloud solutions on **Azure** and **AWS**, combined with experience in microservices architecture and CI/CD automation, allows me to build robust and secure applications while ensuring compliance with standards like HIPAA and PCI DSS. I am also skilled in machine learning pipelines and MLOps workflows using tools like **MLflow**, **Airflow**, and **Kubeflow**, driving innovation in technology solutions.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed high-performance, concurrency-driven applications utilizing **Java** and **JVM** principles, focusing on optimizing algorithms for distributed systems.\n- Engineered robust caching strategies and indexing techniques to enhance application performance and data retrieval efficiency, achieving a **30% reduction** in response times.\n- Leveraged observability tools to improve system monitoring and diagnostics, ensuring high availability and tracking of metrics across multiple services.\n- Implemented garbage collection optimizations to manage memory efficiently, leading to a **25% decrease** in memory usage during peak load operations.\n- Designed and developed scalable distributed systems, applying best practices in microservices architecture to meet enterprise demands.\n- Collaborated with cross-functional teams to analyze system performance and propose improvements that resulted in a **40% increase** in system throughput.\n- Conducted thorough performance engineering assessments, identifying bottlenecks and implementing solutions to enhance system reliability and speed.\n- Integrated low-level storage engines that facilitated efficient data management and storage across multiple platforms, ensuring compliance with industry standards and regulations.\n- Engaged in continuous learning and adaptation to emerging technologies related to **Java** and **JVM**, contributing to a **15% increase** in team productivity by sharing knowledge and insights."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Applied expert knowledge of **Java** and **JVM** to enhance performance and scalability of financial platforms, driving a **20%** increase in transaction throughput.\nDeveloped and optimized **concurrent** processing strategies to improve response times and reduce lag in high-demand environments, achieving a **15%** reduction in latency.\nLeveraged **distributed systems** architecture to enhance system resilience and fault tolerance, successfully handling **99.9%** uptime during peak transaction periods.\nImplemented performance engineering techniques, including efficient **garbage collection** strategies and memory management, to optimize the Java runtime environment.\nUtilized **caching** mechanisms to accelerate data retrieval processes, significantly reducing server load and boosting application speed by **30%**.\nDesigned advanced **indexing** strategies to enhance search performance across financial datasets, improving query execution times by **25%**.\nEmployed **observability tools** to monitor system performance and gain insights into application behavior, enabling proactive optimizations.\nCollaborated with cross-functional teams to ensure smooth integration of back-end systems, emphasizing a high standard of software development best practices."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Engineered and optimized backend services for high-performance applications using **Java** and **JVM**, focusing on concurrency and scalability in distributed systems for robust e-commerce solutions.\nImplemented performance engineering best practices, including efficient **garbage collection** strategies to enhance application responsiveness and resource utilization for high-traffic scenarios.\nApplied advanced **caching** techniques and indexing strategies to dramatically improve data retrieval times, achieving up to **75%** faster response rates for database queries and enhancing user experience.\nUtilized observability tools to monitor performance and diagnose issues in real-time, ensuring minimal downtime and high availability, with performance metrics providing insights into system behavior and user load.\nDeveloped low-level storage engines to optimize data processing operations, contributing to a **50%** increase in throughput and improved data integrity throughout the platform.\nCollaborated in designing fault-tolerant distributed systems using cutting-edge strategy, ensuring high availability and resilience against failures, achieving a **99.9%** uptime across key services.\nCreated and maintained efficient indexing systems for large datasets, leading to better query performance and resource management, and realizing a **40%** reduction in overall data processing time."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tJava, Python, JavaScript, TypeScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks**\n\tReact, Vue, Angular\n\n**API Technologies**\n\tNginx, JWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions**\n\tAWS (ECS, Lambda), Azure (App Services)\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure**\n\tAWS (RDS, S3), Azure (Blob, SQL)\n\n**Other**\n\tConcurrency, Distributed Systems, Performance Engineering, Garbage Collection, Caching, Indexing, Observability Tools, Low-level Storage Engines, MLflow, Airflow, Kubeflow, Let’s Encrypt, Certbot",
+  "apply_company": "Hazelcast"
+}

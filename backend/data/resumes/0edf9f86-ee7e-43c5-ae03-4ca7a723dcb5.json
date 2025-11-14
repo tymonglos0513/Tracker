@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior AI Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior AI Engineer with 13+ years of expertise in designing and implementing AI/ML-powered platforms, proficient in **Python**, adept in developing backend applications using **FastAPI**, **Django**, and **Flask**. Skilled in constructing robust data pipelines and ETL processes, utilizing advanced tools for data management and storage, including **PostgreSQL**, **MySQL**, and NoSQL solutions. Demonstrated ability in orchestrating workflows with **Airflow**, **Prefect**, and **Dagster**, ensuring seamless integration of data engineering practices.\n\nExperienced in deploying scalable applications using **Docker** and **Kubernetes** while implementing CI/CD pipelines with **GitHub** and **Jenkins**. Moreover, I effectively monitor system performance using tools such as **Prometheus** and **Grafana**. My background includes delivering high-performance applications across the healthcare and financial sectors, emphasizing compliance with standards like HIPAA, FHIR, PCI DSS, and SOC 2.\n\nOriginal strengths lie in my capacity to facilitate predictive analytics and real-time processing, combining frontend and backend development skills with frameworks such as **React**, **Next.js**, and **Vue**. I have a strong commitment to aligning technology solutions with business goals, ensuring innovation, quality, and excellence in every project.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed full-stack solutions leveraging **Python** and **FastAPI**, ensuring robust data pipelines and ETL processes to support real-time analytics across health and finance sectors.\n• Implemented containerization strategies using **Docker** and orchestrated deployments with **Kubernetes** to enhance scalability and fault tolerance.\n• Built and optimized **data pipelines** utilizing **PostgreSQL**, **MySQL**, and various **NoSQL** databases to accommodate heavy data ingestion, achieving up to **99.9% uptime**.\n• Designed and maintained CI/CD processes using tools like **GitHub Actions** and **Jenkins**, facilitating automated testing and deployments with comprehensive test coverage.\n• Created advanced **data visualization** solutions using tools like **Grafana** and **Power BI Embedded**, helping stakeholders analyze key operational KPIs in real-time.\n• Led the transition to microservices architecture, enhancing application resilience and performance through efficient resource management in **Kubernetes** (v1.21).\n• Generated intelligence-driven ML workflows with **Airflow**, managing model training and deployment with an emphasis on reproducibility and version control.\n• Executed robust OCR and document parsing solutions, integrating LLMs and RAG strategies into existing systems for enhanced data processing capabilities.\n• Collaborated with cross-functional teams to enhance system monitoring with **Prometheus**, ensuring proactive detection of performance bottlenecks and anomalies.\n• Applied rigorous testing frameworks including **pytest** and custom scripts for integration and performance tests, achieving over **95% test coverage** across all applications.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Python** with frameworks such as **FastAPI** and **Django** to develop robust applications, ensuring high performance and maintainability for AI-driven solutions.\nImplemented **ETL** processes for efficient data ingestion, using **Apache Airflow** and **Azure Data Factory** to streamline workflows and manage **data pipelines** effectively.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration, enhancing deployment processes across various environments with a focus on scalability and reliability.\nDesigned and optimized database schemas in **PostgreSQL** and **MySQL** to ensure efficient storage and retrieval of large datasets, supporting AI processing needs.\nCreated and maintained data integrity and analytics solutions with **NoSQL** databases like **Pinecone** and **Weaviate** to manage unstructured data effectively.\nAutomated CI/CD pipelines with **GitHub** and **Jenkins**, reducing deployment times by **30%** and enhancing team collaboration.\nMonitored system performance using **Prometheus** and **Grafana**, leading to a **25% decrease** in downtime through proactive insights and optimizations.\nConducted parsing and **OCR** operations to extract insights from unstructured data sources, boosting data processing capabilities.\nDeveloped large language model (**LLM**)-based solutions for real-time analytics, integrating **RAG** strategies for enhanced retrieval and context awareness in outputs."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** with frameworks like **FastAPI** and **Django** to design and optimize backend services for scalable AI solutions, ensuring high performance across various functionalities while adhering to best coding practices.\nDeveloped and implemented data pipelines using **ETL** strategies and orchestrated workflows with **Airflow** and **Prefect**, ensuring seamless data integration and flow for AI model training and inference.\nManaged databases including **PostgreSQL** and **NoSQL** solutions for efficient data storage and retrieval, enhancing data access speeds by over **30%** across high-load operations.\nIntegrated advanced machine learning techniques with libraries such as **scikit-learn**, **LightGBM**, and **TensorFlow**, leading to improved model accuracy and prediction capabilities by up to **20%** based on real-time behavioral data.\nEmployed **Docker** and **Kubernetes** for containerization and orchestration of applications, streamlining deployment processes and improving scalability by managing up to **5** microservices simultaneously.\nImplemented monitoring and alerting solutions using **Prometheus** and **Grafana**, enhancing system observability and performance metrics tracking for AI workloads, resulting in proactive maintenance with **99.9%** uptime.\nCollaborated with cross-functional teams to develop algorithms for **OCR** and parsing technologies, utilizing **LLM** and **RAG** approaches to enhance feature extraction from unstructured data.\nEnsured code quality and collaboration through **GitHub** for version control and utilized **Jenkins** for continuous integration/continuous deployment (CI/CD) pipelines, improving release cycles by **25%**.\nContributed to a collaborative DevOps environment by applying agile methodologies to iterate over projects and deliver data-driven solutions effectively."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React\n\tJavaScript/TypeScript: Vue\n\tJavaScript/TypeScript: Angular\n\n**API Technologies:**\n\tNginx\n\tKeycloak (OIDC, RBAC)\n\tOAuth2\n\tJWT\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS\n\tAWS: Lambda\n\tAWS: RDS\n\tAWS: S3\n\tAzure: App Services\n\tAzure: Blob Storage\n\tAzure: SQL Database\n\n**Databases:**\n\tPostgreSQL\n\tMySQL\n\tMongoDB\n\tRedis\n\n**DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tJenkins\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n**Cloud & Infrastructure:**\n\tPrometheus\n\tGrafana\n\n**Other:**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tETL\n\tData Pipelines\n\tOCR\n\tParsing\n\tNoSQL\n\tPinecone\n\tWeaviate\n\tMilvus\n\tPrefect\n\tDagster\n\tLLM\n\tRAG",
+  "apply_company": "GISPartner sp. z o.o."
+}

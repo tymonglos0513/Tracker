@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior SRE Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior SRE Engineer with over 10 years of experience in designing and maintaining resilient backend systems. Proficient in **AWS**, **Terraform**, **Kubernetes**, **Ansible**, and CI/CD practices with tools such as **GitHub Actions**, **Prometheus**, **Grafana**, and **Loki**. Skilled in implementing cloud-native architectures and automation for scalable services and high-performing APIs, utilizing **Python** frameworks including **FastAPI**, **Django**, and **Flask**. Strong understanding of Cyber Security principles aligned with ISO 27001 standards. Demonstrated success in driving impactful projects at leading firms like VISA, Sii Poland, and Reply Polska. Excellent project management abilities coupled with strong communication skills and a commitment to team collaboration.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SRE Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Implemented **AWS** infrastructure while leveraging **Terraform** to maintain infrastructure as code, driving consistency across **Kubernetes** orchestrated environments.\nDeployed secure applications in **Linux** environments, utilizing **CI/CD** pipelines established with **Github Actions**, facilitating rapid and reliable software releases.\nMonitored system performance and reliability using **Prometheus** and **Grafana**, ensuring 99.9% uptime across deployed microservices.\nEngineered automated deployment strategies with **ArgoCD** and **FluxCD** to enable seamless rollouts and rollbacks of application versions, enhancing operational agility.\nStrengthened organizational security postures by applying **Cyber Security** practices and aligning with **ISO 27001 standards**, completing assessments bi-annually.\nDemonstrated **Project Management** skills by effectively coordinating cross-functional teams to resolve complex issues and ensure on-time project delivery, achieving a 30% improvement in project timelines.\nEncouraged **Team Spirit** and communication across teams, regularly facilitating knowledge-sharing sessions to promote best practices in system reliability engineering."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Terraform** for infrastructure automation, ensuring consistent deployment of microservices on **Azure App Services** while enhancing scalability for over **5** applications.\nImplemented CI/CD pipelines utilizing **GitHub Actions** to streamline the deployment process, resulting in a **30%** reduction of deployment time across teams.\nEngineered and managed container orchestration with **Kubernetes**, optimizing resource utilization and increasing application uptime by **15%**.\nDeveloped backend systems in **Python** and **FastAPI**, automating document workflows and handling complex reporting processes with efficiency.\nCreated event-driven microservices using **Celery** and **Redis**, facilitating asynchronous processing of financial data and transaction requests for **100,000** users.\nCollaborated with cross-functional teams for smooth system integration and regulatory compliance, ensuring adherence to **ISO 27001** standards.\nPerformed comprehensive security audits and integrated **OAuth2** and **Azure AD B2C** to bolster Cyber Security measures and secure access controls efficiently.\nLeveraged tools like **Prometheus**, **Grafana**, and **Loki** to establish robust monitoring and logging infrastructures, improving incident response time by **40%**.\nLed project management efforts to ensure timely delivery of initiatives, emphasizing effective communication and fostering a strong team spirit."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "- Designed and maintained scalable backend infrastructure on **AWS** utilizing **Terraform** and **Kubernetes** to improve deployment efficiency and system reliability for high-demand applications.\n- Implemented CI/CD pipelines with **Github Actions** and **ArgoCD**, reducing deployment times by **75%** and increasing software release frequency from **monthly** to **weekly**.\n- Analyzed system performance metrics using **Prometheus**, **Grafana**, and **Loki** to monitor application health and application logs, improving incident response time by **50%**.\n- Developed automation scripts and deployment strategies using **Ansible** and **Linux**, enhancing system configuration management and reducing manual workload by **60%**.\n- Facilitated compliance with **ISO 27001** and cybersecurity standards through risk assessments and continuous monitoring to safeguard sensitive trading operations.\n- Collaboratively worked with cross-functional teams, maintaining transparent communication to support project requirements and drive effective solutions using strong project management skills.\n- Spearheaded implementation of backend services utilizing **Python** and **Flask** for trade execution and portfolio management, effectively enhancing system performance and user experience.\n- Built resilient job queuing systems with **Celery** and **RabbitMQ**, optimizing processing times for high-throughput applications and ensuring uninterrupted service delivery."
+    }
+  ],
+  "skills": "**Cloud & Infrastructure**\n\tAWS, Azure, Terraform, Linux\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Ansible, FluxCD, ArgoCD, Prometheus, Grafana, Loki\n\n**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**Other**\n\tREST/gRPC APIs, Microservices, Kafka, PyTest, Git, AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Cyber Security, ISO 27001, Project Management, Communication, Team Spirit",
+  "apply_company": "Owkin"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "DANIEL HE",
+  "role_name": "Senior Python Engineer",
+  "email": "daniel.he8@outlook.com ",
+  "phone": "+48 730 743 032",
+  "address": "Rzeszów, Poland",
+  "linkedin": "https://www.linkedin.com/in/daniel-he-a5a536397/",
+  "profile_summary": "Results-driven Senior Python Engineer with expertise in **Python**, **Django**, and **Django REST Framework**. Experienced in building scalable applications utilizing **Kafka**, **gRPC**, and **Celery** for effective messaging, along with data management using **PostgreSQL**, **Redis**, and **StarRocks**. Proven ability to design and implement RESTful APIs and establish CI/CD pipelines, enhancing deployment efficiency. Skilled in monitoring and maintaining application health using **Datadog**, **Prometheus**, and **Sentry**. Recognized for successfully delivering robust solutions within the ad tech industry and a strong commitment to optimizing performance through efficient architecture and clean code practices.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2016",
+      "location": "Beijing, China ",
+      "university": "Tsinghua University "
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "Britenet",
+      "from_date": "Feb 2023 ",
+      "to_date": "Present",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Developed **RESTful APIs** using **Django** and **Django REST Framework**, enhancing data accuracy by **40%** and ensuring secure integrations with **PostgreSQL** and **Redis**.\nImplemented asynchronous task management using **Celery** and messaging with **Kafka**, streamlining data processing and achieving a **50%** increase in operational efficiency.\nDesigned microservices architecture with **gRPC**, achieving **99%** success rate in service communications and reducing latency across components.\nBuilt monitoring solutions with **Datadog**, **Prometheus**, and **Sentry**, ensuring prompt detection of issues and system health insights that led to a **30%** reduction in downtime.\nEstablished CI/CD pipelines using **AWS**, significantly reducing deployment times by **80%** and improving the overall integration process.\nOptimized application performance on **AWS EKS (Kubernetes)**, maintaining **99.9%** uptime and effective handling of traffic spikes using **Redis** caching.\nImplemented a robust notification system with **RabbitMQ**, achieving **99%** timely alert delivery to improve user engagement and response rates."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Alibaba Group",
+      "from_date": "Oct 2020 ",
+      "to_date": "Dec 2022",
+      "location": "Hangzhou, China",
+      "responsibilities": "Utilized **Python** and **Django** to develop backend services, enhancing service efficiency and boosting performance metrics.\nImplemented **Django REST Framework** for building scalable **RESTful APIs**, improving data handling and application responsiveness.\nDesigned and integrated a real-time notification system using **Kafka** which achieved a **98%** timely alert rate for critical events affecting user experience.\nOptimized data processing workflows and messaging queues with **Celery** and **RabbitMQ**, successfully reducing processing times by **30%**.\nUtilized **AWS** services for deployment and infrastructure management, including using **AWS EC2** and **Kubernetes**, leading to a **50%** reduction in infrastructure setup time.\nSet up comprehensive monitoring and alerting systems using **Datadog** and **Prometheus**, which resulted in a **40%** decrease in downtime incidents.\nAutomated CI/CD pipelines utilizing **Jenkins** and **AWS CodePipeline**, ensuring a seamless deployment process with zero downtime during updates.\nManaged and scaled databases using **PostgreSQL** and **Redis**, enhancing data retrieval times and system performance, leading to a **25%** improvement in application speed."
+    },
+    {
+      "role": "Software Engineer ",
+      "company": "Huawei Technologies Co., Ltd",
+      "from_date": "May 2016 ",
+      "to_date": "Sep 2020",
+      "location": "Shenzhen, China ",
+      "responsibilities": "- Developed backend REST APIs utilizing **Python** and **Django** with **Django REST Framework**, enhancing system performance and reliability.\n- Implemented asynchronous task queues using **Celery** and **RabbitMQ**, achieving a **30%** improvement in task processing efficiency.\n- Leveraged **Kafka** for real-time data processing, significantly reducing latency and enhancing data flow reliability.\n- Designed and maintained scalable data architectures with **StarRocks**, effectively improving query response times by **50%**.\n- Monitored application performance and optimized system observability using tools like **Datadog**, **Prometheus**, and **Sentry**, contributing to a **20%** reduction in downtime.\n- Collaborated in Continuous Integration/Continuous Deployment (**CI/CD**) practices with **AWS** and **Kubernetes**, ensuring robust deployment processes with a rollout success rate of **95%**.\n- Improved database performance using **PostgreSQL** and caching mechanisms with **Redis**, resulting in overall application performance enhancements.\n- Ensured best practices in software development, maintaining code quality standards and reducing bugs through effective testing methodologies."
+    }
+  ],
+  "skills": " **Programming Languages** \n\t Python, SQL, \n\n **Backend Frameworks** \n\t Django, Django REST Framework, Spring Boot, Spring Security, Hibernate, Node.js, Express.js, JPA, Kafka, RabbitMQ, Celery, \n\n **Frontend Frameworks** \n\t React, Vue.js, Angular, Pixi.js, Redux, Next.js, React Router, Material-UI, Ant Design, D3.js, Webpack, Babel, Jest, \n\n **API Technologies** \n\t RESTful APIs, gRPC, API Gateway, \n\n **Serverless and Cloud Functions** \n\t AWS Lambda, \n\n **Databases** \n\t MySQL, PostgreSQL, Redis, MongoDB, StarRocks, \n\n **DevOps** \n\t Docker, Kubernetes (AWS EKS), Jenkins, GitHub Actions, Terraform, AWS CodePipeline, Datadog, Prometheus, Sentry, \n\n **Cloud & Infrastructure** \n\t AWS (EKS, RDS, CloudFront, S3), CloudWatch, ELK Stack, \n\n **Other** \n\t Microservices, CI/CD, Infrastructure as Code (IaC), Data structures and algorithms, Agile/Scrum methodologies, Ad tech",
+  "apply_company": "SplitMetrics"
+}

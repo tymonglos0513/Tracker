@@ -1,0 +1,47 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior Software Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-107978395/",
+  "profile_summary": "Results-oriented Senior Software Engineer with 8+ years in software engineering, specializing in **Python** and proficient in technologies such as **Node.js**, **PostgreSQL**, and **Linux**. I possess a strong foundation in building and maintaining APIs, ensuring high performance and security in application development. Experienced in implementing **CI/CD** pipelines, **Docker**, and **Kubernetes** for streamlined deployments and scalable solutions. My background includes expertise in email protocols such as **SMTP**, **IMAP**, and contributing to anti-abuse systems, as well as managing **Queue Management** and **Rate Limiting** functionalities. Adept at designing solutions tailored for diverse domains including e-commerce and healthcare, with a proven track record of optimizing system performance through advanced **Shell Scripting**, and meticulous **Email Analytics**. I leverage my comprehensive skill set to deliver robust software solutions that meet and exceed business requirements.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "Developed and optimized scalable **Python** applications to enhance the functionality and performance of email handling systems, ensuring high availability with **Docker** and **Kubernetes** deployments.\nDesigned, built, and maintained APIs to facilitate seamless integration and communication for email services, aligning with industry standards for secure data exchange.\nImplemented data storage solutions leveraging **PostgreSQL** to efficiently handle large datasets, optimizing queries with indexing and partitioning techniques for enhanced performance.\nConfigured and maintained **CI/CD** pipelines utilizing modern tools for automated code integration, testing, and deployments, resulting in **30%** reduction in release times.\nDeveloped and integrated **Anti-abuse Systems** to monitor and mitigate spam and abuse incidents, significantly improving the security of email services through effective threat detection strategies.\nIntegrated email analytics features, utilizing **SMTP**, **IMAP**, and advanced logging techniques for real-time monitoring and reporting of email performance, increase open rates by **25%**.\nManaged **Queue Management** using efficient message brokers, ensuring reliable and timely processing of email communications across environments.\nCreated shell scripts to automate routine tasks, enhancing operational efficiency in the deployment and maintenance of email server infrastructure.\nSupported cross-functional teams by providing technical guidance on **Linux** systems and email protocols (*Postfix*, *Dovecot*) to streamline application development and deployment processes.\nMentored junior engineers in developing robust **Python** applications, fostering best practices in version control, code quality, and agile methodologies.\nEnsured compliance with **SPF**, **DKIM**, and **DMARC** standards to enhance email delivery and authentication, maintaining a **99.9%** email deliverability rate.\nCollaborated with Networking teams to troubleshoot and optimize email delivery issues, enhancing user satisfaction and operational reliability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained scalable server applications using **Python** to enhance performance and reliability in email management solutions.\nImplemented RESTful APIs for integration between **Node.js** services and email protocols such as **SMTP**, **IMAP**, and **Postfix**, enabling seamless email communication and analytics.\nDesigned and managed cloud-based infrastructure for email services using **Docker** and **Kubernetes**, ensuring high availability and maintaining a **99.9%** uptime.\nConstructed modular and maintainable code through efficient **Shell Scripting** to automate repetitive system administration tasks and streamline deployment processes.\nConfigured secure email handling processes involving **DKIM**, **SPF**, and **DMARC** for preventing abuse and ensuring deliverability, resulting in a **15%** increase in successful email delivery rates.\nExecuted CI/CD pipelines with **Docker** and **Kubernetes**, enhancing deployment efficiency and reducing release cycles by **30%**.\nUtilized **PostgreSQL** to manage email data, optimizing queries that handled over **100,000** daily transactions, ensuring fast data retrieval and integrity.\nDeveloped anti-abuse systems and **Queue Management** processes to handle high volumes of email traffic, effectively reducing bounce rates by **25%**.\nCollaborated on **email analytics** projects, providing insights into user engagement and system performance through comprehensive reporting.\nImplemented rate-limiting strategies to prevent abuse, improving system security and service quality for all users.\nEstablished monitoring and logging solutions for email systems using custom scripts, enhancing visibility and traceability in line with best practices.\nParticipated in cross-functional teams to discuss enhancements and optimizations for existing email systems, contributing to overall team success."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Utilized **Python** and **Node.js** to design and optimize email-related services, enhancing the efficiency of **SMTP**, **IMAP**, and **DNS** configurations.\nDeveloped seamless **RESTful APIs** for email handling, ensuring high uptime and performance for **Postfix** and **Dovecot** servers.\nLeveraged **PostgreSQL** to manage transactional databases, improving query performance and reducing latency for email analytics.\nAutomated build and deployment processes using **CI/CD** pipelines, ensuring consistent delivery and updates for the email handling system.\nContainerized applications using **Docker** and orchestrated them with **Kubernetes** for scalable email service operations across multiple server environments.\nImplemented queue management strategies using **RabbitMQ** and **Kafka** to handle high-volume email transactions efficiently.\nWrote comprehensive tests using **Shell Scripting** alongside code to validate the functionality and detect issues in email processing systems.\nImplemented security measures including **SPF**, **DKIM**, and **DMARC** to enhance the authentication and deliverability of outgoing emails.\nConducted performance testing using **Apache JMeter** to simulate high traffic conditions and identify bottlenecks in email processing, leading to a **30%** improvement in service response times.\nOptimized application workflows for email bounce processing, improving the system’s efficiency in managing returned emails and maintaining sender reputation.\nCreated real-time email analytics dashboards using **Grafana** for monitoring deliverability rates and engagement metrics, enabling data-driven decision-making for marketing campaigns.\nDesigned and developed anti-abuse systems to safeguard the email infrastructure against spamming and phishing attacks, reducing incidents by over **50%**."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, Node.js\n\nBackend Frameworks:\n\tFastAPI, Django, Flask, Spring Boot\n\nFrontend Frameworks:\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\nAPI Technologies:\n\tREST & gRPC APIs, API\n\nServerless and Cloud Functions:\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\nDatabases:\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\nDevOps:\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\nCloud & Infrastructure:\n\tLinux, Shell Scripting, Networking\n\nOther:\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Postfix, Dovecot, SMTP, IMAP, DNS, SPF, DKIM, DMARC, Queue Management, Rate Limiting, Bounce Processing, Email Analytics, Anti-abuse Systems",
+  "apply_company": "Mission Inbox"
+}

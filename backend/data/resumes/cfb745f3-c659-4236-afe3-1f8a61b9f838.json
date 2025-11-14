@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Reliability Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Reliability Engineer with 13+ years of experience in delivering high-performance applications and systems. Proficient in **AWS**, **Terraform**, and monitoring tools such as **Cloudwatch** and **DataDog**, ensuring optimal system reliability and observability. Experienced in **Python** and DevOps practices, including CI/CD pipelines and infrastructure as code. Demonstrated expertise in AI and ML technologies, focusing on building predictive analytics systems and real-time processing solutions. Exceptional communicator with a strong background in incident response and compliance, aligning development with regulatory standards. Skilled in leveraging modern frameworks and technologies such as **React**, **Node.js**, **FastAPI**, and **Django** to contribute to cutting-edge applications in healthcare and financial sectors.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Reliability Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** to design and implement cloud-based solutions, ensuring high availability and scalability for critical services in a healthcare and fintech environment.\nDeveloped and maintained infrastructure as code using **Terraform** to provision and manage cloud resources efficiently across multiple environments.\nImplemented **OpenTelemetry** for observability, enabling detailed monitoring and tracing of services to enhance system reliability and performance analysis.\nEmployed **Cloudwatch** and **DataDog** for comprehensive incident response and monitoring, achieving a **99.9%** uptime for applications with rapid incident resolution.\nLed DevOps initiatives to enhance CI/CD pipelines, incorporating automated testing and deployment workflows to reduce release times by **40%**.\nCollaborated on AI and ML projects, deploying models for fraud detection and risk scoring, with a focus on optimizing for performance and compliance requirements.\nCommunicated effectively across teams to enhance collaborative problem-solving efforts, providing transparency during incident response processes.\nEngaged in continuous improvement practices, promoting a culture of proactive monitoring and observability to reduce recurring incidents and increase system reliability.\nIntegrated intelligent incident response tools, reducing average time to detect and resolve incidents by **25%** through actionable insights and analytics.\nImplemented robust communication frameworks for incident management, facilitating cross-team alignment and swift resolutions during system outages."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Leveraged **AWS** and **Terraform** to automate infrastructure deployment, ensuring reliability and scalability of financial platforms.\n- Utilized **Python** for developing robust monitoring solutions, enhancing observability and incident response processes across production systems.\n- Harnessed **OpenTelemetry** to instrument applications for tracing and metrics, significantly improving observability and performance analysis.\n- Implemented **Cloudwatch** and **DataDog** for proactive monitoring and incident response, ensuring stability and uptime across critical financial applications.\n- Collaborated with cross-functional teams, enhancing communication and ensuring that reliability objectives are met in line with business goals.\n- Designed and deployed a microservices architecture using Node.js (NestJS/Express) and Python (FastAPI, Django), modernizing core financial platforms for improved scalability and performance.\n- Built interactive front-end applications with React (18), Next.js, Vue 3, and TypeScript, enhancing user experience for financial tools and admin panels.\n- Delivered real-time analytics dashboards with React, D3.js, and Power BI Embedded, empowering operations teams with instant insights into transactions and anomalies.\n- Developed ETL pipelines for financial data ingestion using Python, Apache Airflow, and Azure Data Factory, supporting batch and real-time processing of over **1 million** transactions daily.\n- Created machine learning models for fraud detection using scikit-learn, XGBoost, and Azure ML, achieving a **20%** increase in detection accuracy.\n- Designed ML pipelines for real-time credit scoring and transaction classification, leveraging MLflow and Airflow for seamless model integration into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented observability strategies using **AWS CloudWatch** and **DataDog** to monitor system performance, diagnosing issues effectively to enhance incident response times by **30%**.\nUtilized **Python** alongside **Terraform** for Infrastructure as Code (IaC) to automate deployment processes, decreasing provisioning times by **50%** while ensuring scalable and reliable infrastructure.\nCollaborated with cross-functional teams to improve communication regarding system reliability, leveraging **OpenTelemetry** for tracing and performance metrics across microservices.\nEngineered and maintained resilient cloud architectures on **AWS**, incorporating DevOps best practices to support continuous integration and continuous deployment (CI/CD) pipelines, improving deployment frequency by **20%**.\nDeveloped and integrated AI and ML solutions to enhance system reliability, utilizing machine learning frameworks to predict outages and optimize resource allocation based on historical data.\nEstablished incident response protocols and led post-incident reviews, driving improvements that reduced service downtime by **15%**.\nCreated thorough documentation and conducted training sessions to promote a culture of reliability and observability across the engineering teams.\nActively communicated with stakeholders to align on reliability goals and performance metrics, ensuring a shared understanding of expectations and outcomes."
+    }
+  ],
+  "skills": " **Programming Languages:**\n \tPython\n\n **Backend Frameworks:**\n \tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n \tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n \tOpenTelemetry\n\n **Serverless and Cloud Functions:**\n \tAWS: Lambda\n\n **Databases:**\n \tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n \tDocker, Kubernetes, Terraform, GitHub Actions, GitLab CI/CD, CI/CD\n\n **Cloud & Infrastructure:**\n \tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database, Cloudwatch, DataDog\n\n **Other:**\n \tMLflow, Airflow, Kubeflow, Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, observability, incident response, communication, AI, ML",
+  "apply_company": "Robin AI"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior FullStack Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Full Stack Engineer with 8 years of experience, I excel in developing high-performance solutions leveraging **TypeScript**, **Node.js**, **React**, and cloud services like **AWS** and **Azure**. My skill set includes strong expertise in serverless architectures, including **EKS** and **SQS**, as well as experience with databases like **MongoDB**. I am proficient in implementing billing systems such as Credit Card Processing, Usage-Based Billing, Invoicing, and Sales Tax which ensure the seamless operation of our financial platforms.\nI have led projects that integrate cutting-edge technologies and methodologies to build secure applications compliant with standards like HIPAA and PCI DSS. My strengths lie in problem-solving and effective communication, ensuring successful teamwork and project outcomes. I have hands-on experience with AI/ML integration for servers, adept at crafting machine learning pipelines and MLOps workflows using tools such as **MLflow** and **Airflow**, enhancing real-time data processing capabilities.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior FullStack Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **TypeScript**, **Node.js**, and **React (17-18)** to architect and develop scalable, full-stack healthcare and financial platforms, ensuring compliance with regulatory standards including HIPAA and PCI DSS.\nLed the implementation of **serverless architectures** using **AWS Lambda** and **Azure Functions**, enhancing application performance and reducing costs by up to **30%**.\nDesigned and optimized **MongoDB** databases for large-scale data storage and retrieval, improving data access speeds by **40%**.\nCollaborated with cross-functional teams to integrate billing and invoicing solutions, implementing **Usage-Based Billing** and **Sales Tax** compliance measures, resulting in a **25%** reduction in processing times.\nEnhanced team productivity through effective problem-solving and communication, successfully leading projects that increased user engagement by **50%**.\nDeployed cloud-native applications using **EKS** and **AWS**, ensuring high availability and fault tolerance in mission-critical systems.\nDeveloped enterprise-level CI/CD pipelines with **GitHub Actions** and **CircleCI**, achieving consistent delivery and reducing deployment times by **60%**.\nIntegrated **SQS** for reliable messaging between microservices, facilitating smoother communication across components.\nEstablished robust test strategies using **Jest** and **Cypress** leading to a **70%** reduction in bug reports post-deployment.\nUtilized advanced search capabilities by integrating **Azure Cognitive Search** and **ElasticSearch**, enhancing the retrieval of unstructured health records, accommodating millions of documents.\nParticipated in agile ceremonies, demonstrating teamwork and collaboration to foster a productive environment, and achieve project milestones ahead of schedule."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Developed and maintained scalable software using **Node.js** (NestJS/Express) and **React** (18) to improve performance and functionality of financial platforms, increasing throughput by **30%**.\n- Engineered user-centric applications with **TypeScript** and modern frameworks like **Next.js** and **Vue 3**, enhancing user engagement and reducing load times by **25%**.\n- Implemented serverless architectures with **AWS** and **Azure** to streamline operations and reduce infrastructure costs, achieving a **40%** reduction in downtime.\n- Utilized **Amazon SQS** and integrated **Kafka** and **RabbitMQ** for asynchronous event-driven communication, improving real-time data processing capabilities for transactions and alerts by **50%**.\n- Created ETL pipelines leveraging **Apache Airflow** and **Azure Data Factory** for efficient data ingestion and transformation, processing **5TB** of financial data daily from multiple sources.\n- Developed machine learning solutions with **scikit-learn** and **XGBoost** to enhance fraud detection systems, successfully identifying **98%** of fraudulent transaction patterns.\n- Designed and implemented billing solutions incorporating **usage-based billing** models and **SalesTax compliance**, ensuring accurate invoicing and record-keeping practices.\n- Collaborated within cross-functional teams to solve complex problems, enhancing **team communication** and effectively delivering software enhancements on schedule.\n- Conducted audits and maintained proper **record keeping** to ensure compliance with financial regulations, achieving an **auditing success rate** of **100%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized scalable full-stack solutions for cloud-based applications utilizing **AWS**, **GCP**, and **Azure**, ensuring high availability and performance across various features, including billing and invoicing systems.\n• Engineered serverless architectures leveraging **EKS** and **SQS** for seamless transactional workflows such as credit card processing and usage-based billing, supporting **9** million transactions monthly.\n• Designed responsive user interfaces with **React** and **TypeScript** to enhance user experience and engagement while adhering to accessibility standards (WCAG 2.1).\n• Implemented microservices using **Node.js**, ensuring modular design for complex applications and improving the deployment cycle by **30%** through containerization techniques.\n• Utilized **MongoDB** for efficient data storage and retrieval processes, enabling reliable record-keeping and real-time analytics of user interactions, which increased customer retention rates by **15%**.\n• Managed financial operations including billing, metering, and auditing with a focus on compliance and accuracy to meet various regulatory standards such as GDPR.\n• Collaborated in cross-functional teams to integrate **AWS** billing systems, ensuring accurate invoicing and sales tax processing across diverse marketplaces.\n• Applied problem-solving skills to troubleshoot and resolve issues efficiently, fostered effective communication within the team to maintain smooth project workflows.\n• Led a team of developers in implementing efficient coding practices and guidelines, resulting in a **25%** reduction in code-related defects."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.JS\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Serverless, GCP\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tEKS, SQS\n\n**Other:**\n\tBilling, CreditCardProcessing, UsageBasedBilling, Metering, CSPMarketplaces, Invoicing, SalesTax, Auditing, RecordKeeping, ProblemSolving, Communication, Teamwork",
+  "apply_company": "ClickHouse"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Fullstack Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Fullstack Engineer with 8 years of experience, I excel in building distributed systems using **Java**, **C++**, and **C#** within agile environments. My proficiency in cloud technologies, particularly **AWS** and **Azure**, is complemented by extensive experience in developing **RESTful web services** and implementing robust CI/CD pipelines tailored for high-performance applications.\nI specialize in leveraging **AI** and **ML** capabilities to enhance user experience and develop intelligent systems. My background includes working with sophisticated tech stacks like **React**, **Node.js**, **FastAPI**, and **Django**, and I have effectively led teams to deliver enterprise-grade solutions that prioritize observability and compliance with industry standards like HIPAA and PCI DSS.\nAdditionally, I bring strong skills in scripting for automated processes and managing deployment pipelines, alongside a solid foundation in microservices architecture and event-driven systems. My hands-on experience extends to implementing MLOps workflows using **MLflow**, **Airflow**, and **Kubeflow**, ensuring the seamless integration of machine learning models into production.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Fullstack Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained **cloud**-based distributed systems leveraging **AWS** and **Azure**, while adhering to agile methodologies to enhance team collaboration and productivity.\n- Designed and implemented **restful web services** to ensure seamless communication across microservices, enhancing user experience and system reliability.\n- Built and deployed scalable applications using Java, C++, and C# within **.NET** frameworks, ensuring high availability and performance. \n- Engineered efficient continuous integration and deployment pipelines facilitating automated testing and release management, enhancing software delivery cycles by **30%**.\n- Integrated AI and ML-driven features into applications, optimizing user interactions such as smart dashboards and personalized recommendations.\n- Employed observability tools to monitor application performance, ensuring quick identification and resolution of system issues, achieving a **99.9% uptime**.\n- Collaborated with cross-functional teams to develop user-centric solutions, utilizing agile workflows to adapt to changing project requirements.\n- Leveraged scripting languages to automate repetitive tasks, increasing operational efficiency and reducing manual errors by **25%**.\n- Developed complex data pipelines for large datasets, facilitating easier access and analysis of data across various applications.\n- Championed the use of modern software development practices, resulting in a **40%** reduction in bug reports and improved codebase health."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Led the development of **distributed systems** and financial platforms by adopting a microservices-based architecture with **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing scalability and maintainability for high-volume transaction systems.\n• Employed agile methodologies to deliver dynamic, user-focused front-end applications using **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, incorporating **Redux Toolkit** and **Tailwind CSS** for responsive and performant user interfaces in financial dashboards and admin portals.\n• Developed real-time transaction monitoring and analytics dashboards utilizing **React**, **D3.js**, and **Power BI Embedded**, enabling operations teams to track financial activity and generate actionable insights, processing over **1000 transactions** per minute.\n• Integrated **Kafka**, **RabbitMQ**, and **Azure Service Bus** to establish a robust event-driven architecture, enabling asynchronous communication and real-time event processing for transactions and compliance workflows.\n• Built and orchestrated **ETL** pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, facilitating batch and real-time ingestion of financial data from over **5 internal** and **10 external** third-party sources.\n• Implemented **AI/ML**-powered fraud detection systems utilizing **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing transaction patterns to proactively flag suspicious activities in banking systems.\n• Created ML pipelines for credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, integrating model inference directly into backend services for real-time decision-making with an average prediction accuracy of **85%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Focused on **distributed systems** design and optimization for a global e-commerce platform, ensuring scalability and high availability using **Python** (FastAPI, Django) and **Node.js** (NestJS, Express).\nImplemented robust **cloud** solutions on **AWS** and **Azure** to enhance deployment pipelines and facilitate resource management for distributed applications.\nEngineered real-time features using WebSockets and event-driven architecture with **Kafka** and **RabbitMQ**, providing responsive order updates and dynamic inventory tracking for more than **100,000** concurrent users.\nDeveloped responsive frontend applications utilizing **React** (18), **Vue 3**, and **Angular**, enhanced by TypeScript, leading to a user experience improvement of **30%** across web and mobile platforms.\nUtilized **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** to ensure efficient, fault-tolerant distributed data storage, optimizing query performance and reducing latency by **25%**.\nIntegrated **AI** and **ML** recommendation engines using **scikit-learn**, **LightGBM**, and **TensorFlow**, which resulted in a **15%** increase in conversion rates through personalized product listings.\nEstablished continuous integration workflows and automated deployment pipelines, improving software delivery speed by **40%** and ensuring high standards of **observability** across all services.\nCreated and tested secure payment workflows with **Stripe**, **PayPal**, and **Razorpay**, adhering to PCI-compliance standards, and safeguarding sensitive data through tokenization.\nApplied **RBAC** and **OAuth 2.0** protocols to ensure secure access for users, enhancing compliance with **GDPR** regulations and protecting user data integrity across the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Java, C++, C#, JavaScript/TypeScript, .NET\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tRESTful Web Services\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), OCI\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tDistributed systems, AI, ML, MLflow, Airflow, Kubeflow, Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), continuous integration, deployment pipelines, observability, user experience, agile",
+  "apply_company": "Oracle"
+}

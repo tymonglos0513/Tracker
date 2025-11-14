@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Backend Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a highly skilled Backend Software Engineer with 8 years of experience, I specialize in designing and developing distributed systems using **Go**, **SQL Databases**, including **MySQL** and **PostgreSQL**. My expertise also includes extensive work with caching systems like **Redis**, and messaging systems such as **NSQ**, **NATS**, **Kafka**, and **RabbitMQ**. With a solid understanding of **Kubernetes** for orchestration and **AWS** for cloud solutions, I am adept at building scalable and reliable backend applications.\n\nMy experience encompasses developing event-driven architectures and implementing **gRPC** for efficient communication between microservices. I am focused on ensuring observability in my solutions, helping teams to monitor system performance effectively. Additionally, I have a strong foundation in building high-performance solutions for healthcare and financial sectors leveraging modern technologies like **Python**, **JavaScript**, and **TypeScript**. I've successfully integrated AI/ML capabilities using various frameworks and have led the deployment of enterprise-grade platforms aligned with compliance standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed scalable backend solutions in **Go** with an emphasis on **Distributed Systems**, ensuring high performance in complex applications across multiple servers.\nDesigned and implemented **SQL Databases** including **PostgreSQL** and **MySQL**, optimizing queries and ensuring data integrity for up to **1 million** records in financial transactions.\nImplemented **Caching Systems** like **Redis** to improve application responsiveness and manage state across diverse backend services.\nDeveloped and managed robust **Messaging Systems** using **Kafka** for real-time data streaming and processing, which facilitated efficient communication between microservices.\nDeployed containerized applications leveraging **Kubernetes** for orchestration, achieving automated scaling and deployment across **5 environments**.\nUtilized **AWS** cloud services for scalable storage solutions, compute resources, and data processing, enhancing application availability by **99.9%** uptime.\nImplemented **Event-driven Architectures** to facilitate asynchronous processing, improving system responsiveness and overall user experience.\nDesigned and implemented APIs using **gRPC** for high-performance communication between services, achieving response times of under **100ms**.\nIntegrated observability tools to monitor system performance, identify bottlenecks and enhance service reliability, providing actionable insights to stakeholders.\nCollaborated with cross-functional teams to ensure alignment of backend services with frontend applications, enhancing user experience and system efficiency."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Go** to develop scalable and efficient backend services in a distributed systems architecture, ensuring high performance and reliability for financial platforms.\nEngaged with **SQL Databases** such as **MySQL** and **PostgreSQL** for designing and optimizing complex database schemas and queries, enhancing data retrieval efficiency by **30%**.\nImplemented **Caching Systems** using **Redis** to boost application response times, achieving significant improvements in data access speed for users.\nDesigned and maintained messaging workflows utilizing **Kafka** and **RabbitMQ** to create robust event-driven architectures, facilitating asynchronous communication across services to decrease latency by **20%**.\nEmployed **Kubernetes** for container orchestration, ensuring efficient deployment, scaling, and management of applications in production environments, achieving **99.9%** uptime.\nDeveloped observability protocols using **gRPC** and logging frameworks, implementing monitoring and alerting systems that reduced incident response time by **40%**.\nWorked on ETL processes to integrate data from various sources into **ClickHouse** for analytics and reporting, utilizing advanced SQL queries to support large data operations with volume spikes of over **1 million** transactions daily.\nCreated API endpoints facilitating microservices communication, emphasizing security and performance, which improved service reliability for backend communications.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and maintained distributed systems with a primary focus on **Go** to enhance the scalability and reliability of backend services in a high-volume e-commerce environment.\nEngineered solutions with **PostgreSQL** and **MySQL** for robust SQL database management, ensuring efficient data storage and retrieval across platforms.\nImplemented **Redis** for caching systems, significantly improving application performance and reducing latency in high-traffic scenarios by up to **30%**.\nUtilized **Kafka** and **RabbitMQ** as messaging systems to facilitate real-time processing and event-driven architectures, enhancing responsiveness and transactional integrity across core features.\nContributed to container orchestration with **Kubernetes**, streamlining deployment processes and enabling **blue-green** deployments for risk mitigation.\nCollaborated with **AWS** cloud services to deploy scalable applications, achieving uptime of **99.9%** and disaster recovery plans ensuring business continuity.\nLeveraged **event-driven architectures** to support dynamic inventory management, allowing real-time updates and customer interaction improvements.\nEmployed **gRPC** for efficient inter-service communication, leading to reduced latency and faster API response times.\nFocused on observability practices, integrating tools for monitoring and logging to proactively address system performance and reliability issues.\nImplemented data solutions using **ClickHouse** to handle analytical workloads, enabling real-time data insights and reporting capabilities.\n"
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, JavaScript/TypeScript, Go\n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:** \n\tReact, Vue, Angular\n\n **API Technologies:** \n\tgRPC\n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:** \n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, ClickHouse\n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:** \n\tAWS, Azure\n\n **Other:** \n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Caching Systems, Messaging Systems (NSQ, NATS, Kafka, RabbitMQ), Event-driven Architectures, Observability"
+}

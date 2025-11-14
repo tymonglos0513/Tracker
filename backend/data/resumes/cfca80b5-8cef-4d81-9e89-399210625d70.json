@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Java Developer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a skilled Java Developer with 8 years of experience, I possess expertise in developing **RESTful APIs**, **GraphQL**, and leveraging **Spring Boot** for robust backend solutions. My experience includes SQL databases such as **PostgreSQL**, **MySQL**, and **NoSQL** variants like **MongoDB** and **Redis**, ensuring optimal data management within diverse applications. Proficient in modern CI/CD practices using **GitHub Actions**, **GitLab**, and **Azure DevOps**, I streamline development workflows and enhance deployment efficiency.\n\nI have a solid foundation in cloud services, including **AWS**, **Azure**, and **GCP**, paired with monitoring tools like **Prometheus** and **Grafana** for maintaining application performance. My ability to develop secure applications is reinforced by a strong understanding of **OAuth2**, **OIDC**, and compliance with **OWASP Top 10** standards.\n\nIn addition to my technical skills, I bring a strong Agile mindset and excel in team collaboration, mentoring junior developers, and conducting thorough code reviews. My experience in leading projects within the healthcare and financial sectors enables me to deliver high-performance solutions that are both scalable and reliable.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Java Developer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed robust **RESTful APIs** and services utilizing **Java** and **Spring Boot**, enhancing system performance and scalability.\n- Designed and implemented efficient **SQL** and **NoSQL** databases using **PostgreSQL** and **MongoDB**, ensuring data reliability and optimized access times for large sets of information up to **1 TB**.\n- Created real-time data processing solutions with message brokers like **Kafka** and **RabbitMQ**, achieving processing latencies under **100 ms**.\n- Established CI/CD pipelines using **GitHub Actions** and **Azure DevOps**, incorporating comprehensive testing strategies and security practices, facilitating multiple deployments per day.\n- Collaborated in Agile teams to foster a culture of continuous improvement, leveraging **Team Collaboration** and **Mentoring** skills, contributing to a **30%** increase in team productivity through effective code reviews.\n- Integrated **GraphQL** services for dynamic querying and improved client performance, handling complex request resolutions.\n- Developed advanced monitoring solutions using **Prometheus** and **Grafana**, achieving real-time insights to enhance application health and performance metrics.\n- Applied security best practices aligned with **OWASP Top 10**, implementing **OAuth2**, **OIDC**, and **JWT** for robust authentication and authorization mechanisms.\n- Created unit and integration tests with **JUnit 5** and **Testcontainers**, achieving over **90% test coverage** across all modules.\n- Validated systems through in-depth code reviews, ensuring adherence to best practice principles and architectural guidelines while mentoring junior developers on industry standards."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Developed and maintained **RESTful APIs** using **Java** and **Spring Boot**, ensuring robust and scalable backend services for high-volume transaction applications.\n- Implemented **GraphQL** solutions to enhance data retrieval efficiency, improving response times by **35%** in API calls.\n- Collaborated with cross-functional teams in an **Agile** environment to design, build, and deploy applications using **CI/CD** pipelines within **GitHub Actions** and **GitLab**.\n- Utilized **SQL** and **PostgreSQL** to design and optimize database schemas, resulting in an increase in query performance by **20%**.\n- Integrated messaging systems using **Kafka** and **RabbitMQ** to support real-time data processing and asynchronous workflows, enhancing system resilience by **40%**.\n- Enhanced application monitoring and logging capabilities using **Prometheus**, **Grafana**, and **ELK Stack**, improving incident response times by **50%**.\n- Applied **OAuth2**, **OIDC**, and **JWT** for secure authentication and authorization, ensuring compliance with **OWASP Top 10** security practices.\n- Led code reviews and mentoring sessions to promote best practices in software development and foster a culture of collaboration among team members.\n- Designed caching strategies utilizing **Redis** and **NoSQL** databases like **MongoDB** to improve data retrieval operations and application performance.\n- Developed and executed unit and integration tests using **JUnit 5** and **Testcontainers**, ensuring code quality and reliability throughout the development lifecycle."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and maintained robust **Java** applications utilizing **Spring Boot** frameworks, ensuring adherence to **RESTful APIs** principles for seamless integration with frontend systems.\nDesigned scalable data architectures with **SQL** databases such as **PostgreSQL** and **MySQL**, and utilized **NoSQL** technologies like **MongoDB** for efficient data retrieval across high-traffic applications.\nImplemented asynchronous messaging solutions using **Kafka** and **RabbitMQ**, enhancing system reliability and responsiveness, resulting in a **30%** reduction in latency for transactions across the e-commerce platform.\nEmployed advanced caching mechanisms with **Redis**, driving up performance metrics by **25%** through effective data management strategies for quick access to frequently used information.\nLed the CI/CD integration using **GitHub Actions**, successfully reducing deployment times by **40%** and ensuring continuous delivery across various environments.\nApplied **OAuth2** and **JWT** for secure user authentication, maintaining compliance with **OWASP Top 10** security standards and protecting sensitive data.\nDeveloped comprehensive unit and integration testing frameworks utilizing **JUnit 5** and **Testcontainers**, achieving a **90%** test coverage rate to ensure code quality and robustness.\nEnhanced team collaboration and knowledge sharing by conducting code reviews and mentoring junior developers, fostering an agile mindset and growth-oriented culture within the team.\nUtilized observability tools like **Prometheus** and **Grafana** for real-time system monitoring, enabling proactive identification and resolution of performance bottlenecks and ensuring optimal system health."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tJava, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tSpring Boot, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tRESTful APIs, GraphQL, OAuth2, OIDC, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, NoSQL, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAzure, GCP, Prometheus, Grafana, ELK\n\n**Other:**\n\tKafka, RabbitMQ, CI/CD, Agile Mindset, Team Collaboration, Mentoring, Code Review, TLS, OWASP Top 10, IAM fundamentals, Testcontainers, WireMock, MockServer, Pact"
+}

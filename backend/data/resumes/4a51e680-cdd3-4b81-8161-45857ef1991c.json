@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer (with overlap into ML Engineer)",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-driven Senior Software Engineer with 8 years of experience in developing scalable and high-performance applications, utilizing a diverse **tech stack** including **Python**, **Google Cloud Platform** (GKE, BigQuery, BigTable, GCS, Dataproc, VertexAI), **MongoDB**, **Redis**, **Spark**, **TensorFlow**, **Grafana**, **Sentry**, **Gitlab**, **Jira**, **Productboard**, and **PagerDuty**. Proficient in implementing **MLOps** practices with hands-on experience in **Kubeflow**, **Airflow**, and **Prefect**, I excel at creating machine learning pipelines and serving models in production environments.\n\nMy expertise in **CI/CD** automation and microservices architecture ensures the delivery of robust, secure applications in compliance with industry standards. I have successfully led projects integrating AI/ML capabilities within sectors such as healthcare and finance, delivering real-time analytics and intelligent automation solutions. My solid foundation in event-driven systems and a focus on continuous improvement position me well to contribute effectively as both a software and machine learning engineer.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer (with overlap into ML Engineer)",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and managed scalable full-stack applications leveraging **Python**, **MongoDB**, and **Redis**, focusing on **GKE** deployment with **CI/CD** methodologies for efficient delivery.\n- Enhanced machine learning processes for healthcare and financial applications, utilizing **TensorFlow**, **PyTorch**, and **sklearn** to integrate predictive analytics into services.\n- Designed and implemented data architecture strategies using **BigQuery**, **BigTable**, and **Dataproc** to optimize performance for large-scale data sets, supporting high-throughput data analysis.\n- Built robust workflows with **Airflow**, and **Kubeflow** for orchestrating machine learning pipelines, ensuring continuous integration and delivery of models to production at scale.\n- Positioned applications on **Google Cloud Platform (GCP)** by leveraging **GCS** for storage and **Grafana** for real-time data monitoring and visualization, streamlining operational insights.\n- Collaborated with inter-disciplinary teams using **Gitlab**, **Jira**, and **Productboard** to enhance project management and ensure alignment on product vision and goals through effective communication strategies.\n- Established best practices for MLOps, implementing version control and reproducibility using **DVC** and managed training workflows across development environments.\n- Integrated advanced analytics capabilities into existing services, improving alert systems through predictive modeling and monitoring tools such as **Sentry** for error tracking.\n- Led cross-functional initiatives, optimizing processes to reduce deployment times by up to **50%** and delivering applications ahead of **3 months** scheduled deadlines.\n- Ensured comprehensive testing coverage for applications, adopting processes using **PyTest** and automated testing frameworks to maintain high standards of quality across deployments."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Python** and **Google Cloud Platform** tools to design and implement scalable software solutions, enhancing performance by **30%** while maintaining high reliability and efficiency.\nDeveloped and maintained distributed applications utilizing **GKE** and **BigQuery**, optimizing data processing and storage for vast datasets, with an effective reduction in query response time by **50%**.\nImplemented CI/CD pipelines using **Gitlab** and **Airflow** to streamline deployment processes, achieving a deployment frequency increase of **75%** and reducing mean time to recovery (MTTR) to less than **1 hour**.\nArchitected and deployed machine learning solutions on **VertexAI** and **TensorFlow**, scaling models for real-time inference and improving accuracy in predictive tasks by leveraging **MLOps** practices.\nCreated and optimized ETL workflows using **Dataproc** and **MongoDB**, ensuring seamless data ingestion and transformation from diverse sources, resulting in a **40%** improvement in data processing speed.\nIntegrated real-time monitoring dashboards with **Grafana** and **Sentry**, enhancing visibility into system health and reducing incident response time by **20%**.\nConducted extensive research on anomaly detection and predictive analytics, employing **Sklearn** and **PyTorch** to develop state-of-the-art models for fraud detection in financial transactions.\nUtilized **Kubeflow** for managing ML workflows, ensuring reproducibility and scalability across multiple training runs, leading to a **60%** decrease in model training time."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized backend services utilizing **Python** along with **TensorFlow**, ensuring high availability, low latency, and scalability to support **10K+** daily transactions on the global e-commerce platform.\n• Engineered real-time features leveraging **Google Cloud Pub/Sub** and **Kafka** to handle real-time order updates, enhancing customer experience with a **15%** faster response time.\n• Designed and implemented data pipelines using **Dataproc** and **Airflow** for data processing, enabling seamless integration with **BigQuery** for analytics and reporting, resulting in a **30%** reduction in query execution times.\n• Built and maintained distributed databases utilizing **MongoDB**, **Redis**, and **GCS** for a fault-tolerant architecture, managing data for over **500K** SKUs with optimized caching strategies.\n• Integrated MLOps solutions using **Kubeflow** and **VertexAI** to streamline model deployment, facilitating A/B testing of AI-driven product recommendations which increased conversion rates by **25%**.\n• Implemented CI/CD practices via **GitLab** and **Jira**, ensuring robust version control and application delivery pipelines, achieving **30 deployments** per month with minimal downtime.\n• Developed data visualization dashboards using **Grafana** for real-time system performance tracking, significantly enhancing monitoring capabilities of critical services.\n• Managed scheduling and orchestration of batch jobs through **Prefect**, improving operational efficiency in data processing workflows by **20%**.\n• Enforced role-based access control (RBAC) and integrated **OAuth 2.0** to ensure secure data access and compliance with GDPR regulations, safeguarding user data integrity.\n• Implemented alerting systems with **PagerDuty** and **Sentry** for proactive issue resolution, reducing incident response time to under **1 hour**."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tNginx, Keycloak (OIDC, RBAC), JWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Google Cloud Platform, GKE\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose, Grafana, Sentry, Dataproc, VertexAI, BigQuery, BigTable, GCS\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, MLOps, Sklearn, PyTorch, Prefect, Jira, Productboard, PagerDuty, Spark"
+}

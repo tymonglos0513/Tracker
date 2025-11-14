@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Dynamic Senior Software Engineer with 8 years of comprehensive experience in building high-performance applications leveraging a robust tech stack including **AWS**, **Kubernetes**, **Jenkins**, **GitHub Actions**, **Terraform**, **Ansible**, **Apache Kafka**, **RabbitMQ**, **DataDog**, **PostgreSQL**, and **Apache Druid**. Proficient in modern programming languages such as **JavaScript**, **ReactJS**, **Elixir**, **Go**, and **Ruby**, I excel in full-stack development and system design across diverse sectors, with a focus on healthcare and finance. I have successfully led the development of enterprise-grade platforms that seamlessly incorporate AI/ML capabilities for enhanced predictive analytics and intelligent automation.\n\nMy background in microservices architecture and event-driven systems is complemented by expertise in CI/CD automation, ensuring the delivery of robust, secure applications that meet industry compliance standards like HIPAA and PCI DSS. Additionally, I am well-versed in implementing MLOps workflows with tools like MLflow and Airflow. Known for proactive ownership, strategic thinking, and cross-team collaboration, I bring a collaborative spirit and a commitment to excellence, ready to drive project success with effective rapport building.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implemented enterprise-level DevOps pipelines leveraging **GitHub Actions**, **Jenkins**, and **Terraform**, incorporating linting, testing, security scans, and multi-environment deployments for web and API services, enhancing deployment efficiency by **30%**.\n- Architected and developed scalable, full-stack solutions utilizing **ReactJS**, **Node.js**, and **PostgreSQL**, ensuring compliance with industry standards for healthcare and financial platforms, achieving a user satisfaction score of **95%**.\n- Led the transition to microservices architecture using **Kubernetes** and **AWS**, improving application resilience and scalability, which resulted in **50%** reduced downtime during peak operations.\n- Designed and maintained data pipelines using **Apache Kafka** and **RabbitMQ** for real-time data processing and integration, optimizing data workflow efficiency by **40%**.\n- Integrated advanced search capabilities using **ElasticSearch** and **Azure Cognitive Search** to manage and analyze millions of records, decreasing search response times to under **200ms**.\n- Collaborated with cross-functional teams to perform system design and project leadership on projects that utilized **Ansible** for configuration management, overseeing a team of **6** developers.\n- Developed complex data visualization dashboards using **D3.js** and **Power BI**, enhancing insights into transaction trends and operational KPIs, which led to improved decision-making processes.\n- Integrated machine learning models into applications for related healthcare and financial features, utilizing technologies like **Apache Druid** and delivering real-time predictive analytics that improved user engagement metrics by **15%**.\n- Engaged in proactive ownership of projects through strategic thinking and rapport building with stakeholders, resulting in enhanced collaboration and project efficiency.\n- Established robust testing strategies and frameworks such as **PyTest**, **Cypress**, and **Jest**, achieving a unit test coverage rate of **90%** across all developed applications for improved reliability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Led the development and modernization of financial platforms utilizing **Apache Kafka**, **RabbitMQ**, and **Azure Service Bus** to build a robust event-driven architecture, enhancing real-time event processing for transactions and compliance workflows.\n• Architected microservices-based solutions with **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), achieving a **30% increase** in scalability and throughput for high-volume transaction systems.\n• Developed dynamic, user-centered front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, employing **Redux Toolkit** and **Tailwind CSS** to create responsive UIs that improve user engagement.\n• Built and orchestrated ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory**, facilitating a **40% reduction** in data processing time for batch and real-time financial data ingestion.\n• Created real-time transaction monitoring dashboards leveraging **React**, **D3.js**, and **Power BI Embedded**, allowing operations teams to effectively visualize financial activity, detect anomalies, and derive actionable insights.\n• Implemented AI/ML-driven fraud detection systems using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, improving detection rates of suspicious activities by **25%**.\n• Developed ML pipelines for credit scoring and churn prediction with **MLflow** and **Airflow**, integrating model inference directly into backend services for timely decision-making.\n• Demonstrated proactive ownership and strategic thinking through successful project leadership, ensuring cross-team collaboration and fostering relationships to advance project goals."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Spearheaded the design and optimization of backend services for a global e-commerce platform, utilizing **Python (FastAPI, Django)** and **Node.js (NestJS, Express)** to ensure high availability and scalability across modules like checkout, cart, and order fulfillment.\n• Championed real-time feature implementation using **Apache Kafka** and **RabbitMQ**, resulting in responsive order updates and dynamic inventory tracking for over **10,000** active users.\n• Developed user-centric frontend applications with **React 18**, **Vue 3**, and **Angular**, boosting engagement rates by **30%** through enhanced user experiences on web and mobile platforms.\n• Leveraged **PostgreSQL**, **MongoDB**, **Cassandra**, and **Redis** to create a fault-tolerant data architecture, ensuring data access efficiency and performance for high-traffic workflows with <**100ms** response time.\n• Integrated AI/ML-based recommendation systems with **scikit-learn**, **LightGBM**, and **TensorFlow** to amplify conversion rates by optimizing search relevance via behavioral data-driven insights.\n• Implemented **Redis** caching to enhance application responsiveness, resulting in a **40%** reduction in read pressure on databases and improved response times.\n• Executed feature flags and blue-green deployments with **Kubernetes** and **LaunchDarkly**, facilitating controlled rollouts and risk mitigation during platform updates.\n• Designed responsive e-commerce interfaces with **Next.js**, **Vue 3 + Nuxt**, and HTML5/CSS3, achieving **90/100** on Google Lighthouse with a mobile-first strategy and accessibility compliance (WCAG 2.1).\n• Built secure payment infrastructure utilizing **Stripe**, **PayPal**, and **Razorpay**, adhering to PCI standards for secure handling of sensitive transaction data in over **100,000** transactions per month.\n• Applied role-based access control (RBAC) and **OAuth 2.0** for secure user management, ensuring GDPR compliance and robust data protection across customer accounts."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript, Elixir, Go, Ruby\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Amazon ElastiCache\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tDataDog, Nginx, Certbot, Linux\n\n **Other:**\n\tSystem Design, Project Leadership, Proactive Ownership, Cross-Team Collaboration, Strategic Thinking, Rapport Building, MLflow, Airflow, Kubeflow, Apache Kafka, RabbitMQ",
+  "apply_company": "Glia"
+}

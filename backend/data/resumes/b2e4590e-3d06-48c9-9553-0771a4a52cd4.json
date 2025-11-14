@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Cloud Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Cloud Engineer with 13+ years of experience in delivering high-performance applications within the healthcare and financial sectors. Highly skilled in **GCP**, **Terraform**, **Python**, and **Go**, with extensive knowledge of cloud-native systems, specifically on **GKE** and using **Cloud Armor** to enhance security measures. Experienced in implementing **VPC Service Controls**, **WAF**, and **Firewalls** to ensure compliance with **ISO 27001** and **DORA** standards.\n\nExpert in developing and deploying applications utilizing **CI/CD** pipelines and event-driven architectures, contributing to streamlined operations and efficiency. Proven ability in building AI/ML platforms focusing on predictive analytics and real-time processing, with strong MLOps proficiency using tools like **MLflow** and **Airflow**. Exceptional communicator with a robust background in compliance-driven development, adept at aligning technology solutions with regulatory standards.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Cloud Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented infrastructure solutions using **GCP** with **Terraform**, ensuring compliance with **ISO 27001** and best practices in cloud governance to support large-scale cloud deployments for both healthcare and fintech sectors.\nEngineered secure cloud environments, deploying **GKE** clusters and configuring **Firewalls**, **Cloud Armor**, and **WAF** to protect sensitive data and applications against external threats.\nManaged and optimized scalable cloud architectures, leveraging **VPC Service Controls** and advanced networking strategies to enhance data privacy and network security, contributing to the successful migration of **>99%** of legacy systems to cloud-native solutions.\nDeveloped automation workflows with **n8n**, facilitating seamless integration of multiple services and streamlining operational processes across cloud platforms.\nLed the implementation of industry standards and frameworks, aligning with **DORA** metrics to improve development and operational practices, achieving a **40%** reduction in deployment times.\nMonitored and maintained infrastructure health using **Falco** for runtime security and ensuring adherence to established security protocols, reducing incident response times by **35%**.\nCollaborated with cross-functional teams to deploy machine learning models using **GCP** services for risk scoring and anomaly detection, achieving a **20%** increase in prediction accuracy by integrating MLOps best practices.\nDefined and enforced testing and deployment strategies across cloud environments, utilizing CI/CD pipelines to maintain continuous integration and delivery efficiency for cloud applications.\n\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented infrastructure as code using **Terraform** for provisioning and managing cloud resources on **GCP**, ensuring compliance with **ISO 27001** standards.\nInstalled and configured **Cloud Armor** and **WAF** to enhance security posture, maintaining uptime and mitigating threats against applications with over **99.9%** availability.\nDesigned secure **VPC Service Controls** for sensitive data protection, facilitating structured access while aligning with **DORA** best practices.\nDeployed Kubernetes clusters on **GKE** for scalable application hosting, optimizing resource allocation and reducing costs by around **30%**.\nDeveloped automation workflows using **n8n** for streamlined operational processes, resulting in a **40%** reduction in manual tasks and improved efficiency.\nMonitored environment using **Falco** for real-time security alerting, ensuring prompt response to anomalous behavior in cloud infrastructure.\nContributed to disaster recovery planning and implementation strategies, achieving a recovery time objective (RTO) of under **4 hours** for critical systems.\nCollaborated with cross-functional teams to establish and refine DevSecOps practices, enhancing overall cloud security and compliance oversight."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and implemented cloud-based solutions on **GCP** using **Terraform** for automated infrastructure management, ensuring adherence to **ISO 27001** standards for security.\nOptimized and secured backend services using **Python** and **Go**, focusing on high availability, scalability, and compliance with best practices from **DORA** while managing cloud resources effectively.\nEngineered robust security measures leveraging **Cloud Armor**, **Firewalls**, and **VPC Service Controls** to protect against vulnerabilities and optimize application performance.\nManaged deployments in **GKE**, utilizing best deployment strategies and monitoring using **Falco** to ensure a secure application environment in line with industry standards.\nIntegrated workflow automation through **n8n** for streamlining operations and improving developer efficiency by reducing manual tasks across the deployment pipeline.\nDeveloped and maintained web application firewalls (**WAF**) to enhance application security and mitigate threats in real-time, significantly reducing incident response times by **30%**.\nImplemented disaster recovery strategies in cloud architecture, achieving a **99.9%** uptime SLA by employing multi-region strategies within **GCP**.\nCollaborated with cross-functional teams to establish best practices for cloud governance, ensuring compliance with regulatory requirements including data protection and security protocols.\nEnhanced system performance and security by automating scaling of cloud resources, leading to a **40%** reduction in operational costs while ensuring optimal resource utilization."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Go\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tOAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAzure: App Services, Blob Storage, SQL Database, GCP, Cloud Armor, Firewalls, VPC Service Controls, WAF, GKE, CloudFlare\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot, ISO 27001, DORA, Falco, n8n\n",
+  "apply_company": "Bit2Me"
+}

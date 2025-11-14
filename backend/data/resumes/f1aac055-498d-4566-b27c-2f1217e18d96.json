@@ -1,0 +1,55 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Java Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Results-driven Senior Java Engineer with 9+ years of experience specializing in **Java**, **SpringBoot**, and **microservices** architecture. Proficient in implementing **REST**ful services, utilizing **PostgreSQL** for database management, and leveraging message brokers like **RabbitMQ**. Demonstrated expertise in containerization and orchestration using **Docker** and **Kubernetes**, along with CI/CD practices, specifically with **GitHub Actions**. Skilled in cloud technologies and automation tools such as **Terraform**, **Retool**, and **Zapier**. Additionally, adept at collaborating with cross-functional teams, leading development initiatives, and optimizing performance for complex applications while applying strong analytical and problem-solving skills. With a solid foundation in **Python** frameworks like **FastAPI** and **Flask**, and experience with **SQLAlchemy** and **Celery**, I bring a versatile skill set to the dynamic field of software engineering.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Leveraged **Java** and **SpringBoot** to design and implement scalable microservices, enhancing system modularity and maintainability by **30%**.\nDeveloped and consumed **REST**ful APIs to facilitate seamless integration between microservices and external applications, improving response efficiency by **25%**.\nDesigned streamlined database schemas and optimized queries with **PostgreSQL**, achieving a **20%** reduction in average query execution times.\nUtilized **Redis** for efficient data caching, which decreased database load and improved application response times by **35%**.\nUtilized Docker for containerization, ensuring consistency across development and production environments, leading to a **40%** faster deployment cycle.\nImplemented **Kubernetes** for orchestration, enhancing the scalability and availability of microservices across clusters.\nInstituted CI/CD practices using **GitHub Actions**, significantly reducing deployment times and increasing deployment frequency by **50%**.\nIntegrated **RabbitMQ** for asynchronous messaging, which improved task processing efficiency and system resilience.\nCollaborated with UI/UX designers to enhance user interaction and overall experience, directly impacting user satisfaction positively.\nEmployed tools like **Terraform** for infrastructure as code, improving provisioning speed by **20%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Developed and maintained scalable microservices architecture using **SpringBoot** and **Docker**, enhancing application scalability by 20%.\nImplemented RESTful API services with **Java** and integrated with a **PostgreSQL** database, achieving real-time data access.\nUtilized **Redis** for session management, achieving a 30% increase in data retrieval speed through optimized caching techniques.\nDesigned and orchestrated CI/CD pipelines using **GitHub Actions**, reducing deployment times by **40%** and minimizing production errors.\nExecuted container orchestration with **Kubernetes** to deploy and manage services efficiently, improving system reliability.\nCollaborated with cross-functional teams using **RabbitMQ**, facilitating event-driven communication and increasing system performance.\nDeveloped complex data processing tasks with **Python** and **FastAPI**, leading to a 35% improvement in processing speed.\nImplemented automated testing strategies within the development workflow to ensure software quality, reducing bug rates by **25%**.\nOptimized SQL queries using **SQLAlchemy** for both **MySQL** and **PostgreSQL**, significantly enhancing data retrieval efficiency.\nMentored junior developers in **Java** development best practices and microservices architecture, fostering team growth and productivity."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Developed microservices using **Java** and **SpringBoot**, enhancing system modularity which led to a **30%** increase in application performance.\nImplemented RESTful APIs for seamless communication between services, improving data accessibility by **25%**.\nManaged PostgreSQL databases to optimize data retrieval processes, achieving a **40%** reduction in query response times.\nUtilized **Redis** for caching to accelerate data retrieval, enhancing the user experience by lowering load times to under **200ms**.\nContainerized applications using **Docker** and orchestrated deployment with **Kubernetes**, streamlining the deployment process and ensuring high availability.\nSet up CI/CD pipelines with **GitHubActions** to automate testing and deployment, increasing deployment frequency by **50%**.\nIntegrated **RabbitMQ** for asynchronous messaging, ensuring reliable communication between services with minimal latency.\nDesigned infrastructure as code using **Terraform**, facilitating rapid provisioning of development and production environments.\nCollaborated on a team employing Agile methodologies, participating in daily standups and code reviews to maintain project alignment and code quality.\nDocumented system architectures and APIs, enhancing team communication and improving project onboarding processes."
+    }
+  ],
+  "skills": "  **Programming Languages**\n\tJava, Python, TypeScript, C#, C++, Rust\n\n  **Backend Frameworks**\n\tSpringBoot, FastAPI, Flask, .NET, NestJS, ExpressJS, Microservices\n\n  **Frontend Frameworks**\n\tReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n  **API Technologies**\n\tREST, GraphQL\n\n  **Serverless and Cloud Functions**\n\tKNative, AWS, Azure\n\n  **Databases**\n\tPostgreSQL, MongoDB, MySQL, DynamoDB, CosmosDB, MSSQL Server\n\n  **DevOps**\n\tDocker, Kubernetes, CI/CD pipelines, GitHubActions, Terraform\n\n  **Cloud & Infrastructure**\n\tAWS, Azure\n\n  **Other**\n\tUX/UI Design, Git, GitHub, Redis, RabbitMQ, Apache Kafka, Celery, SQLAlchemy, NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Retool, Zapier, Ether.js, Web3.js, Blockchain, Solidity",
+  "apply_company": "Protolabs"
+}

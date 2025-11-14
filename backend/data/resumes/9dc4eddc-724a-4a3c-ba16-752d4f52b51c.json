@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Software Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-477994390/",
+  "profile_summary": "Detail-oriented Software Engineer with 9+ years of experience in developing and implementing high-performance applications. Proficient in **Python 3**, **FastAPI**, **PostgreSQL**, **Google Cloud Platform**, **Google BigQuery**, **ScyllaDB**, **Redis**, **RabbitMQ**, **Apache Kafka**, and **Google Pub/Sub**. Expertise in microservices architecture and distributed systems, complemented by a solid foundation in **ReactJS**, **NextJS**, **.NET**, and **C#**. Known for delivering robust solutions, enhancing development efficiency, and driving projects to successful completion through effective collaboration and leadership skills.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Apr 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Utilized **Python 3** and **FastAPI** to develop high-performance web applications, enhancing system response times by **30%**.\nDesigned and implemented database schemas and data access layers with **PostgreSQL** and **ScyllaDB**, ensuring data integrity and efficiency in querying, leading to a **25%** reduction in data retrieval times.\nIntegrated **RabbitMQ** for robust message queuing, resulting in improved application decoupling and system resilience.\nImplemented real-time data streaming solutions using **Apache Kafka** and **Google Pub/Sub**, enhancing data processing abilities and reducing latency by **40%**.\nDeployed cloud services on **Google Cloud Platform**, ensuring high availability and scalability of applications, with a **99.9%** uptime rate.\nEmployed **Redis** for caching strategies, resulting in a **35%** decrease in response times by efficiently managing frequently accessed data.\nDeveloped and optimized data pipelines with **Google BigQuery**, leveraging analytics to drive business decisions and enhance data-driven strategies.\nWorked collaboratively with cross-functional teams to define, design, and deliver new features, improving overall system functionality.\nMaintained comprehensive documentation for software systems, enabling better understanding and usability among team members and stakeholders.\nConducted code reviews and mentoring for junior developers to enhance team productivity and code quality."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Utilized **Python 3** and **FastAPI** to design and develop scalable backend services, enhancing application performance and modularity by **30%**.\nImplemented **PostgreSQL** for efficient data storage and access, leading to improved query performance and reliable data management.\nIntegrated **Redis** for caching solutions, reducing response times for user requests by **25%**, thereby improving overall application speed.\nDeveloped event-driven architecture using **RabbitMQ** and **Apache Kafka**, creating a robust messaging system that handles hundreds of simultaneous requests effectively.\nLeveraged **Google Cloud Platform** services, including **Google BigQuery**, to manage large datasets and perform data analytics, resulting in up to **35%** improvement in data processing speed.\nArchitected data flow strategies with **Google Pub/Sub** for seamless data integration across microservices.\nConducted thorough code reviews to ensure high code quality and maintainability, mentoring over **10** junior developers in best practices and advanced methodologies.\nCollaborated with cross-functional teams to gather requirements, ensuring timely delivery of system features aligned with business objectives.\nCreated interactive data visualizations using **D3.js** to facilitate project tracking and reporting, boosting stakeholder engagement by **15%**.\nImplemented CI/CD practices using tools like GitHub Actions to automate deployments, cutting deployment time by **40%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Implemented **FastAPI** for backend services, enhancing response time by **30%** and streamlining application performance.\nDeveloped scalable solutions using **Python 3**, fostering cleaner code and better maintainability across complex applications.\nUtilized **PostgreSQL** and **ScyllaDB** for efficient data storage and retrieval, achieving a **25%** reduction in query execution time.\nIntegrated data processing services with **Google BigQuery**, enabling quick analytics and reporting capabilities on large datasets.\nEmployed **RabbitMQ** for asynchronous message processing, effectively managing high-volume notification delivery during peak traffic.\nDesigned and deployed solutions on **Google Cloud Platform** to improve system scalability and reliability.\nEngaged in daily standups and code reviews to ensure alignment with project goals and adherence to coding standards, along with mentoring junior developers.\nDelivered extensive technical documentation to streamline onboarding and enhance team productivity by **15%**.\nCollaborated with cross-functional teams and third-party services using **Apache Kafka** and **Google Pub/Sub** for seamless data integration across platforms.\nParticipated in migration projects, updating legacy systems to support modern frameworks and improve overall performance."
+    }
+  ],
+  "skills": "Frontend Technologies: HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n\tBackend Technologies: NodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices, FastAPI\n\n\tAPI Technologies: RESTful API, GraphQL\n\n\tMessaging & Caching: Apache Kafka, RabbitMQ, Redis\n\n\tDatabase Systems: MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB, ScyllaDB, Google BigQuery\n\n\tServerless and Cloud Functions: Google Cloud Platform\n\n\tCloud & Infrastructure: AWS, Azure, CI/CD pipelines\n\n\tOther Skills: UX/UI Design, Git, GitHub, Python 3, Redux, Blockchain: Solidity, Ether.js, Web3.js, Ethereum, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest"
+}

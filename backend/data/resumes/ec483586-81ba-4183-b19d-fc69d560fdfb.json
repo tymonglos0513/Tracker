@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Intermediate Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-kotlinski-08ba40390/",
+  "profile_summary": "As an Intermediate Software Engineer with 8 years of experience, I bring expertise in **Ruby on Rails**, **AWS**, **Terraform**, **Docker**, **Kubernetes**, and **CI/CD** practices, ensuring robust and scalable application development. My technical skills also encompass **PostgreSQL**, **Typescript**, **JavaScript**, **GitHub Actions**, **GitLab CI**, and tools for observability such as **Datadog** and **Sentry**. I have a proven track record in automating workflows and processes, leveraging **CircleCI**, **ECS**, **Redis**, **Elasticsearch**, **Ansible**, and **Pulumi** for effective DevOps practices.\nI specialize in building high-performance solutions within the healthcare and financial sectors, with a strong foundation in microservices architecture and event-driven systems. I boast substantial cloud experience across **AWS** and **Azure**, having developed enterprise-grade platforms that incorporate AI/ML capabilities for real-time data processing and predictive analytics, while complying with standards such as HIPAA, PCI DSS, and SOC 2. My commitment to collaboration and effective communication drives my success in cross-functional teams.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Intermediate Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained robust applications using **Ruby on Rails**, ensuring high performance and scalability aligned with business needs.\n- Implemented CI/CD pipelines with **GitHub Actions**, **CircleCI**, and **AWS** services to automate testing and deployment processes, achieving a **30%** reduction in release times.\n- Leveraged **Docker** and **Kubernetes** for container orchestration, improving application reliability and enabling seamless scaling across multiple environments.\n- Integrated **PostgreSQL** and **Redis** for efficient data management and caching strategies, resulting in a **40%** improvement in data retrieval times.\n- Ensured observability across systems using **Datadog** and **Sentry** to monitor application performance and resolve issues proactively, enhancing user experience.\n- Collaborated with cross-functional teams to design and implement automation solutions leveraging **Terraform**, improving infrastructure management and reducing setup times by **25%**.\n- Developed and integrated backend services for financial applications using **Typescript** and **JavaScript**, employing best practices in code quality and performance.\n- Engaged in test-driven development, establishing comprehensive test strategies with tools like Jest and Cypress to maintain high-quality codebases.\n- Designed data pipelines using **Elasticsearch** to enhance search capabilities for structured and unstructured data, ensuring fast access and improved query performance.\n- Collaborated effectively with team members, fostering an environment of communication and collaboration that led to successful project deliveries and enhanced team performance.\n- Contributed to the continuous improvement of the development process by embracing automation and DevOps principles across all stages of software development."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Leveraged expertise in **Ruby on Rails** and **AWS** to develop scalable applications, enhancing reliability and performance for financial platforms with an increase in transaction throughput by **30%**.\nImplemented CI/CD pipelines utilizing **CircleCI** and **GitHub Actions** to streamline deployment processes, reducing deployment time by **40%** and increasing collaboration within the development team.\nOptimized database performance using **PostgreSQL** and **Redis**, improving query response times by **25%** while ensuring data integrity and availability for high-volume transactions.\nAdopted containerization using **Docker** and orchestration with **Kubernetes** to manage microservices deployments, ensuring high availability and easy scalability.\nEstablished observability practices integrating **Datadog** and **Sentry** to monitor application performance and error tracking, enhancing response times for critical alerts by **50%**.\nEngaged in automation initiatives leveraging **Terraform** and **Ansible** to provision and manage infrastructure as code, resulting in faster resource deployment and cost reduction.\nCollaborated effectively across cross-functional teams, enhancing communication around project expectations and deliverables, leading to improved project closure rate by **20%**.\nUtilized **Elasticsearch** for real-time search capabilities to support data analytics, providing deeper insights into user interactions and system performance."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Developed and optimized backend services using **Ruby on Rails** and **PostgreSQL** to ensure high availability, scalability, and low latency, supporting millions of transactions per week.\n- Implemented AWS infrastructure with **Terraform** for efficient deployment and management, drastically reducing deployment time by **30%**.\n- Utilized **Docker** containers and **Kubernetes** orchestration for microservices architecture, enhancing the efficiency of application delivery and scalability.\n- Established CI/CD pipelines using **CircleCI**, **GitHub Actions**, and **GitLab CI**, improving deployment frequency by **40%** and ensuring fast, reliable rollouts.\n- Enhanced application observability with tools like **Datadog** and **Sentry**, leading to a **25%** reduction in production errors via proactive monitoring and reporting.\n- Automated deployment processes with **Ansible** and **Pulumi**, resulting in streamlined updates and configuration management across environments.\n- Collaborated across teams to establish best practices for DevOps, enhancing communication and integration, which facilitated a **20%** increase in team productivity.\n- Implemented caching strategies using **Redis** for improved data access times, significantly optimizing application performance and responsiveness.\n- Leveraged **Elasticsearch** for efficient, real-time search functionalities across the platform, enhancing user experience by reducing search latency by **15%**.\n- Fostered a culture of collaboration and continuous feedback, ensuring all stakeholders are aligned on project goals and timelines."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript, Ruby\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Ruby on Rails\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Elasticsearch\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CircleCI, Terraform, Ansible, Helm, Pulumi\n\n **Cloud & Infrastructure:**\n\tAWS, Azure, Infrastructure as Code\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Datadog, Sentry, CI/CD, Automation, Observability, Collaboration, Communication"
+}

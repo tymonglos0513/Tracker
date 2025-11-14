@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Engineer (Python)",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-kotlinski-08ba40390/",
+  "profile_summary": "Dynamic Software Engineer with 8 years of comprehensive experience in **Python** development, specializing in creating RESTful APIs and designing robust microservices architecture. Proficient in **SQL** databases including **MySQL**, **PostgreSQL**, and **MS SQL**, I leverage modern **JavaScript** frameworks like **React** to deliver high-quality, high-performance solutions. Skilled in Agile methodologies, I integrate the principles of collaboration and communication to effectively work within teams.\n\nMy technical proficiency extends to container orchestration with **Docker** and **Kubernetes**, version control using **GitHub**, and CI/CD automation tools like **Travis CI** and **Jenkins**. I possess hands-on experience deploying applications on cloud platforms including **AWS** and **Azure**, ensuring seamless scalability and reliability. \n\nI am dedicated to delivering data-driven solutions, utilizing analytical skills and critical thinking to solve complex problems and advance project goals in the healthcare and financial sectors.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer (Python)",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed robust **RESTful APIs** using **Python** with cutting-edge frameworks, ensuring seamless integration and data exchange across various platforms.\n- Designed and implemented **microservices architecture** on cloud platforms using **Docker** and **Kubernetes**, achieving a **50%** improvement in deployment times and scalability.\n- Collaborated in an **Agile** environment, enhancing team collaboration and communication, leading to a **30%** increase in project delivery speed.\n- Managed data solutions using **PostgreSQL** and **MySQL**, implementing optimizations that reduced query times by **40%** for large-scale datasets.\n- Utilized **Redis** and **Memcached** for effective caching strategies, resulting in a **25%** reduction in response times for high-traffic applications.\n- Implemented CI/CD pipelines using **GitHub Actions**, integrating tools like **Travis CI** and **Jenkins** to enhance build and deployment processes, achieving **95%** automation for release management.\n- Leveraged **JavaScript** frameworks, specifically **React**, to create dynamic front-end applications that improved user engagement by **35%** through a responsive UI.\n- Applied analytical skills to troubleshoot issues in a Linux environment, increasing overall system reliability and reducing downtime by **20%**.\n- Fostered strong team communication and collaboration, ensuring alignment within cross-functional teams across diverse projects and timelines.\n- Developed efficient data processing solutions using **Kafka** and **RabbitMQ**, streamlining workflows and improving data throughput significantly.\n- Maintained rigorous testing protocols using **Jest** and **PyTest**, ensuring code quality across both front-end and back-end services, leading to a **15%** decrease in bugs post-release."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **RESTful APIs** to lead the development of scalable microservices architecture, enhancing transaction throughput by over **30%** for high-volume financial platforms.\nDesigned and developed dynamic web applications using **React (18)** and **JavaScript**, improving user engagement metrics by **20%** through responsive and performant interfaces.\nEngineered real-time analytics dashboards integrating **D3.js** and **Power BI Embedded**, allowing operations teams to reduce anomaly detection time by **40%**.\nImplemented an event-driven architecture through **Kafka**, **RabbitMQ**, and **Azure Service Bus**, strengthening asynchronous communication processes by **50%** for alerts and transactions.\nBuilt and orchestrated ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory**, streamlining data ingestion processes for over **1 million** financial records daily.\nDeveloped AI/ML-powered fraud detection systems using **scikit-learn** and **XGBoost**, proactively identifying suspicious activities with a **95%** detection accuracy rate.\nCreated integrated ML pipelines for credit scoring and transaction classification leveraging **MLflow** and **Airflow**, facilitating real-time decision-making in banking services and enhancing processing efficiency.\nCollaborated in teams following **Agile** methodologies, contributing to project completion ahead of schedule by **15%**, demonstrating exceptional **collaboration** and **communication** skills within cross-functional teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and optimized **RESTful APIs** using **Python** (FastAPI, Django), ensuring high availability and scalability for a global e-commerce platform, catering to over **1 million** users monthly.\nEngineered microservices architecture leveraging **Kafka** and **RabbitMQ** to facilitate real-time updates for order processing, enhancing user engagement with a reduced latency of **50%** for updates.\nUtilized **PostgreSQL**, **MySQL**, and **Redis** for robust data management, ensuring fault-tolerant access during peak traffic, with a reduction in database load by **30%** through efficient caching strategies.\nCollaborated in an **Agile** environment with cross-functional teams, enhancing communication and project delivery speed by **25%**, through effective sprint planning and retrospectives.\nContributed to the development of frontend applications using **React** (18) and **JavaScript**, improving overall page load times by **40%**, and enhancing application responsiveness across devices.\nImplemented **Docker** for containerization and **Kubernetes** for orchestration, facilitating seamless deployment pipelines, achieving a deployment frequency increase of **60%**.\nDesigned secure workflows integrating **Stripe** and **PayPal**, maintaining PCI compliance for transactional data handling while serving an average of **2,000** transactions daily.\nApplied role-based access control (RBAC) and **OAuth 2.0** strategies, ensuring robust security measures and GDPR compliance across customer and admin interactions.\nLeveraged analytical skills and critical thinking to troubleshoot performance bottlenecks, resulting in a **35%** improvement in application speed and reliability.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**  \n\tPython, JavaScript  \n\n **Backend Frameworks:**  \n\tFastAPI, Flask, Django  \n\n **Frontend Frameworks:**  \n\tReact, Vue, Angular, jQuery  \n\n **API Technologies:**  \n\tRESTful APIs  \n\n **Serverless and Cloud Functions:**  \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)  \n\n **Databases:**  \n\tPostgreSQL (Fintech), MySQL (Healthcare), MS SQL, MongoDB (Gaming), Redis, Memcached  \n\n **DevOps:**  \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Travis CI, Jenkins  \n\n **Cloud & Infrastructure:**  \n\tTerraform, Ansible, Helm, Docker Compose, GCP  \n\n **Other:**  \n\tMicroservices architecture, Agile, MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Analytical skills, Critical thinking, Collaboration, Communication  "
+}

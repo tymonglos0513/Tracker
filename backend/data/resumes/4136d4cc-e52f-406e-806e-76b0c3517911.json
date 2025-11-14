@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior IT Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-oriented Senior IT Engineer with over 10 years of experience in managing and implementing IT solutions, focusing on **Microsoft 365**, **Azure**, **Intune**, and **PowerShell** to enhance organizational efficiency and security. Proficient in leveraging **Microsoft Graph** for automation and integration with **Exchange Online**, **SharePoint**, and **OneDrive**. Skilled in establishing **RBAC**, **Conditional Access**, and **DLP** strategies to ensure compliance and data protection. Demonstrated expertise in **Endpoint Security** and **Microsoft Defender** for robust security solutions. Deep understanding of networking protocols including **TCP/IP**, **DNS**, and **HTTP**. Previously delivered high-impact projects as a Senior Backend Developer using **Python (FastAPI, Django, Flask)** and cloud services like **AWS** and **Azure** at renowned organizations such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior IT Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered backend services in **Python** using **FastAPI** to streamline document automation, user onboarding, and reporting workflows.\nDeveloped event-driven solutions with **Celery** and **Redis** to manage asynchronous processing for financial transaction requests, processing up to **500** transactions per second.\nDeployed microservices on **Azure App Services** and utilized **Terraform** to manage infrastructure as code, ensuring seamless cloud operations and achieving a **99.9%** uptime.\nCreated and maintained data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, ensuring timely and accurate data flow with a latency reduction of **30%**.\nLed security assessments and integrated **OAuth2** and **Azure AD B2C** for secure, scalable authentication systems, enhancing user security for over **1,000** users.\nCollaborated with cross-functional teams to address system integration challenges, ensure compliance with **SOC 2**, and oversee release strategies leveraging **Microsoft 365** and **PowerShell** for automation."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Azure** services to implement and manage secure user access through **Entra ID** and **Conditional Access**, ensuring compliance with industry standards like **SOC 2**.\nAutomated administrative tasks using **PowerShell**, enhancing efficiency in managing **Microsoft 365** environments, including **Exchange Online**, **SharePoint**, and **OneDrive**.\nDesigned and enforced role-based access control (RBAC) policies to safeguard sensitive information across applications and endpoints, facilitating smooth user communication and access management.\nEstablished endpoint security protocols leveraging tools like **Microsoft Defender** and **Intune** to protect organizational data and maintain compliance across **teams** and user devices.\nDeveloped and integrated dynamic Data Loss Prevention (DLP) solutions for safeguarding sensitive data in real-time, ensuring continuous monitoring of regulatory compliance.\nMonitored and maintained the integrity of network services with an emphasis on **TCP/IP**, **DNS**, and **HTTP** protocols, addressing any issues promptly to minimize downtime.\nCoordinated with cross-functional teams to promote successful project delivery and enhancements in system integration, focusing on user experience improvements with Microsoft products."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Implemented **Microsoft 365** solutions to enhance productivity and collaboration across teams, ensuring streamlined communication and document sharing.\nManaged and secured identities using **Entra ID**, facilitating user access control and enhancing overall security posture across the organization.\nConfigured and maintained **Azure** services, implementing **Conditional Access** policies to safeguard sensitive information and ensure compliance with regulatory standards.\nDeveloped automation scripts using **PowerShell** to improve efficiency in user management and resource provisioning across the IT infrastructure.\nIntegrated **Microsoft Graph** API to automate workflows and optimize interactions with **SharePoint**, **OneDrive**, and **Teams** for better file sharing and team collaboration.\nEnsured compliance with data protection measures, including **DLP** strategies, enhancing the organization’s ability to safeguard sensitive data and maintain **SOC 2** standards.\nArchitected endpoint security solutions leveraging **Intune** to manage and secure devices, achieving a reduction in security incidents by **20%** in **2023**.\nMonitored network performance and troubleshooting using **TCP/IP**, **DNS**, and **HTTP** protocols to maintain high standards of service availability and reliability.\nConducted effective user communication strategies to address IT issues and facilitated training sessions, leading to improved user satisfaction scores by **15%** over the last year."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microsoft Graph\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, PowerShell\n\n**Cloud & Infrastructure**\n\tMicrosoft 365, Entra ID, Conditional Access, RBAC, DLP, Intune, Exchange Online, SharePoint, OneDrive, Teams, Endpoint Security, Azure Policy, Microsoft Defender, SOC 2, TCP/IP, DNS, HTTP\n\n**Other**\n\tMicroservices, Kafka, PyTest, Git, User Communication",
+  "apply_company": "Ideamine Technologies (Acquired by Netrix Global)"
+}

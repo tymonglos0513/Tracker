@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior AI Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior AI Engineer with over 10 years of experience in developing scalable AI/ML solutions and financial platforms. Proficient in leveraging **Python** (including **LangChain**, **TensorFlow**, **PyTorch**) and cloud services such as **AWS** and **GCP** to build high-performance systems and enhance MLOps capabilities. Expertise in creating automated data pipelines with **Airflow**, implementing ETL/ELT processes, and utilizing **Kafka** for real-time data integration. Strong background in model monitoring and drift detection ensures the reliability of machine learning workflows. Proven ability to lead projects at top-tier organizations, including VISA, Sii Poland, and Reply Polska, complemented by a commitment to mentoring and effective communication.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and frameworks like **LangChain** to develop AI-driven solutions, optimizing processes and enhancing performance in line with ML principles.\nEngineered data pipelines for ETL processes employing **Apache Airflow** and **dbt**, ensuring efficiency in data management with **99%** uptime.\nDeveloped and implemented MLOps strategies for model monitoring and drift detection, ensuring model accuracy and reliability across deployments.\nLeveraged **AWS** and **GCP** services to enhance AI model deployment, achieving over **30%** reduction in deployment time through automation.\nCollaborated with cross-functional teams to design AI solutions integrating **TensorFlow** and **PyTorch**, driving innovative enhancements in product capabilities.\nImplemented CI/CD practices to streamline development workflows, increasing deployment frequency by **50%** while reducing release errors.\nMentored junior engineers, fostering a culture of learning and improving communication strategies across teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes.\n• Engineered data pipelines for the secure exchange of regulatory data, using **Apache Airflow** and **Azure Functions** to automate and streamline the data flow, handling over **1 million records** per month.\n• Created event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests with a response time improvement of **30%**.\n• Managed the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation, resulting in a **50%** reduction in provisioning time.\n• Performed security audits, ensuring compliance with industry standards, and integrated **OAuth2** and **Azure AD B2C** to manage authentication and secure access controls effectively.\n• Collaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management, contributing to a project delivery success rate of **95%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Leveraged **Python** and **Flask** to develop efficient backend services focused on trade execution and portfolio management, enhancing trading operations by **30%**.\nIntegrated **AWS** and **GCP** cloud services for robust account tracking systems, ensuring scalability and reliability in data storage.\nUtilized **TensorFlow** and **PyTorch** for implementing machine learning models, improving predictive accuracy of trading algorithms by **25%**.\nEngineered real-time data processing systems with **asyncio**, **WebSockets**, and **Redis**, enabling high-frequency transaction capabilities with responses under **100ms**.\nCollaborated with cross-functional teams to deliver REST APIs and WebSocket channels, improving communication and user experience across the platform by **15%**.\nEnsured compliance with regulatory standards such as MiFID II and GDPR during system architecture design, reinforcing data security protocols.\nImplemented CI/CD pipelines using **Airflow** and custom **ETL** processes, reducing deployment time by **40%** and streamlining QA workflows.\nIntroduced job queuing mechanisms with **Celery** and **RabbitMQ**, optimizing backend process management and improving task execution by **20%**.\nConducted mentoring sessions and knowledge sharing on **MLOps** practices and **drift detection** strategies with team members, fostering a learning-oriented environment."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, SQL, Bash, JavaScript\n\n**AI & ML Tools**\n\tTensorFlow, PyTorch, Pandas, NumPy, scikit-learn, Airflow, LangChain, MLOps\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**DevOps**\n\tAWS (EC2, S3, Lambda), Azure, Docker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices, Kafka\n\n**Serverless and Cloud Functions**\n\tAWS, GCP\n\n**Other**\n\tETL, ELT, drift detection, model monitoring, communication, mentoring",
+  "apply_company": "aPriori"
+}

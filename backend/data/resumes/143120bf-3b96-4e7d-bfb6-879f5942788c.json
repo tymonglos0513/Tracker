@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Solution Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Solution Engineer with 8 years of experience, I excel in implementing **DevOps** practices and building **Microservices** architectures that drive high-performance solutions. Proficient in **React** and leveraging tools like **vite** and **module federation**, I ensure modularity and scalability in development. My dedication to **Test Driven Development** and expertise in **CI/CD** processes, especially with **GitLab CI**, enable rapid delivery of robust applications.\n\nIncorporating **MLOps**, I have successfully developed and deployed machine learning models with the support of **AI** technologies, utilizing tools such as **MLflow**, **Airflow**, and **Kubeflow**. My experience extends into cloud environments with Amazon and other platforms, alongside familiarity with **GitHub Copilot** to enhance productivity.\n\nMoreover, I harness monitoring and observability tools such as **Prometheus**, **Kibana**, and **Grafana** for performance optimization. Coupled with knowledge in **Spring**, **Domain Driven Design**, and container orchestration with **OpenShift**, I am committed to delivering secure applications aligned with industry compliance standards. My technical prowess is further complemented by my strengths in leading the development of impactful enterprise-grade platforms, ensuring that solutions meet client needs in dynamic sectors like healthcare and finance.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Solution Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implemented enterprise-level **DevOps** practices using **GitHub Actions**, **GitLab CI**, and **Azure DevOps**, ensuring complex automated workflows and CI/CD pipelines for efficient deployment of applications and services.\n- Architected microservices-based ecosystems that enhanced application scalability and maintainability through **Docker** and **Kubernetes**, leading to a 30% reduction in deployment times.\n- Developed intuitive user interfaces using **React** (version 18) and integrated modern technologies like **vite** for faster build times and improved performance, resulting in a 25% boost in user engagement.\n- Utilized module federation architecture to create seamless integrations between microservices for efficient resource sharing across applications.\n- Spearheaded **Test Driven Development** (TDD) initiatives, employing tools such as **Jest** and **Cypress** to ensure robust and reliable front-end and back-end service performance.\n- Designed innovative **MLOps** pipelines with **MLflow** and integrated continuous validation and deployment of machine learning models which improved model accuracy by 15% in production.\n- Enhanced artificial intelligence capabilities in client applications by integrating real-time analytics and intelligent features using frameworks like **ChatGPT** and **Amazon Q Developer**.\n- Collaborated closely with cross-functional teams to utilize **Prometheus**, **Kibana**, and **Grafana** for monitoring and improving system performance and observability across all deployed services.\n- Applied **Domain Driven Design** principles to ensure alignment between technical architecture and business requirements, improving team productivity by over 20%.\n- Drove advancements in application capabilities through advanced data visualization tools, enhancing the reporting and analysis of key performance indicators (KPIs).\n- Facilitated knowledge sharing and mentoring within the team, particularly focusing on best practices in **DevOps**, **AI**, and microservices architecture to elevate team skills and project outcomes.\n- Ensured compliance with industry standards and security protocols, including PCI DSS and GDPR, through comprehensive testing and monitoring strategies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Implemented **DevOps** practices to streamline CI/CD pipelines with **GitLab CI**, achieving a deployment frequency increase by **30%** while reducing deployment failures.\n• Designed and developed a **microservice** architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django) for financial platforms, enhancing system scalability and throughput for **high-volume** transactions.\n• Built reusable UI components for dynamic front-end applications using **React** (v18), incorporating **module federation** for improved code sharing and reducing initial load times by **25%**.\n• Conducted **Test Driven Development (TDD)** methodologies to ensure high-quality deliverables in projects, increasing code coverage to **85%** across all services.\n• Integrated **Prometheus**, **Grafana**, and **Kibana** into the monitoring infrastructure, enabling real-time performance tracking and visualization, which improved system observability by **40%**.\n• Developed real-time transaction monitoring dashboards utilizing **D3.js** and **Power BI Embedded**, providing insights into financial activity, with anomaly detection capabilities enhancing operational efficiency.\n• Leveraged **Cloud Services** like **Azure Service Bus**, **Kafka**, and **RabbitMQ** to implement a robust event-driven architecture, optimizing real-time processing for compliance workflows and transactions.\n• Built ETL pipelines using **Apache Airflow** and **Azure Data Factory**, facilitating the processing of **1 million+** financial records daily from diverse sources for analytics.\n• Implemented **MLOps** practices for deploying AI/ML fraud detection systems using **scikit-learn** and **XGBoost**, improving fraud detection rates by **20%** through enhanced model training and deployment.\n• Created machine learning pipelines for credit scoring and transaction classification, integrating seamlessly with backend services for **real-time decision-making** using **MLflow** and **Airflow**.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented **CI/CD** practices using **GitLab CI** and **GitHub Copilot** to streamline development workflows and improve deployment efficiency by **50%**.\nDesigned and built microservices architecture with **Spring** and **Kotlin**, enhancing system modularity and scalability, resulting in a **30%** decrease in deployment times.\nDeveloped interactive web applications utilizing **React** (v18) and **Vite**, ensuring high performance and responsive design, achieving load times of under **1 second**.\nEmployed **Domain Driven Design** principles to create solutions that effectively meet business requirements, while allowing for efficient collaboration among teams.\nUtilized **MLOps** methodologies to streamline the deployment of machine learning models, improving the accuracy of AI-driven recommendations by **25%**.\nMonitored application performance and reliability using **Prometheus**, **Grafana**, and **Kibana** for comprehensive observability and actionable insights into system health.\nIntegrated **Amazon Q** and **ChatGPT** technologies to enhance user interaction and provide intelligent support, improving customer engagement metrics by more than **40%**.\nEnhanced the development process with **Test Driven Development**, increasing code coverage and reducing bugs in production by **35%**.\nLeveraged **OpenShift** for container orchestration, facilitating smooth deployments and management of application environments, significantly reducing operational overhead.\nConducted performance tuning and optimization initiatives, leading to a **50%** improvement in resource utilization across critical services."
+    }
+  ],
+  "skills": "**Backend Frameworks:**\n\tPython(FastAPI, Flask, Django)\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular), vite\n\n**API Technologies:**\n\tNone\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, GitLab CI, CI/CD, Prometheus, Kibana, Grafana, OpenShift\n\n**Cloud & Infrastructure:**\n\tNone\n\n**Other:**\n\tArtificial Intelligence & Machine Learning (MLflow, Airflow, Kubeflow), Authentication & Security (Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), Test Driven Development, Microservice, MLOps, AI, GitHub Copilot, Amazon Q Developer, ChatGPT, Spring, Domain Driven Design, Kotlin, module federation",
+  "apply_company": "Wavestone"
+}

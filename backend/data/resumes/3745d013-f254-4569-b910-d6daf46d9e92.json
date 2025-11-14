@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Backend Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As an experienced Backend Engineer with 8 years of expertise, I excel in **Backend Architecture**, API development, and **Databases** management, utilizing strongly typed languages, including **Python** and **TypeScript**. My solid foundations in relational and non-relational databases, alongside modern deployment strategies, enable me to create robust production backends that prioritize system security, compliant with standards such as HIPAA and PCI DSS. I have hands-on experience in **cloud deployment** across **Azure** and **AWS**, and I leverage **Containerisation** techniques to enhance application scalability and efficiency.\n\nI am adept at **automated testing**, ensuring code quality through rigorous testing frameworks, and I integrate **system observability** practices to monitor application performance effectively. My communication skills and collaborative approach allow me to work seamlessly within diverse teams to deliver enterprise-grade solutions. My additional strengths include building applications with **CI/CD automation**, implementing **Public Key Infrastructure**, and employing encryption and authentication mechanisms to safeguard sensitive data.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Focused on **Backend Architecture** by developing scalable, full-stack healthcare and financial platforms using **TypeScript** and **Python (FastAPI)**, while ensuring compliance with HIPAA, FHIR, GDPR, and financial regulatory standards (e.g., PCI DSS, SOX).\nImplemented robust **APIs** and **Databases**, utilizing **PostgreSQL**, **MongoDB**, and **Redis**, optimizing for large-scale healthcare and financial data ingestion and querying, handling requests from over **5,000** users daily.\nEnhanced **Automated Testing** strategies for backend services using **PyTest** and **Postman**, achieving **95%** code coverage and reducing bugs by **40%**.\nDeveloped production-ready backends with a focus on **System Observability** by integrating monitoring tools such as **Sentry** and **Firebase Crashlytics** to track performance and errors.\nEmployed **Modern Deployment Strategies** using **Docker** and **Kubernetes (AKS/EKS)** for seamless updates and scaling, improving deployment speed by **75%**.\nUtilized **Cloud Deployment** solutions on **AWS Lambda** and **Azure Functions** to ensure high availability and fault tolerance for critical applications.\nEngaged in **Containerisation** practices to enhance development and production consistency through **CI/CD pipelines** implemented with **GitHub Actions** and **Azure DevOps**.\nCollaborated cross-functionally, demonstrating strong **Communication Skills** to integrate and optimize machine learning models for backend services, achieving real-time processing capabilities.\nLed the design of data models using UML principles, focusing on both **Relational** and **Non-Relational Databases** to suit application requirements.\nImplemented security measures such as **Public Key Infrastructure**, **Encryption**, and **Authentication** protocols to safeguard sensitive healthcare and financial data against threats, leading to a **30%** decrease in security incidents."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Designed and implemented **back-end architecture** in line with best practices to ensure scalability and security for financial systems while utilizing **APIs** for seamless integration between services.\n• Built and maintained robust databases, both **relational** (SQL Server, PostgreSQL) and **non-relational** (MongoDB), ensuring optimal performance and data integrity for handling **over 10 million** transactions daily.\n• Developed automated testing frameworks leading to a **30%** reduction in bugs and improved deployment cycles through effective **automated testing** practices.\n• Managed production backends with high availability, adopting **modern deployment strategies** utilizing containers such as **Docker** and orchestration via **Kubernetes** for streamlined CI/CD pipelines.\n• Applied strong knowledge of **Internet networking concepts** to enhance system observability, troubleshooting issues across hundreds of microservices in **real-time**.\n• Spearheaded cloud deployment activities on **Azure**, leveraging services such as Azure Kubernetes Service (AKS) for reliable hosting and deployment of applications.\n• Implemented robust **system security** measures addressing **CVE** and **CWE** vulnerabilities, including **encryption** practices and strong **authentication** and **authorization** protocols to protect sensitive financial data.\n• Designed data models and frameworks using **UML** and engaged in **model-based engineering** to ensure alignment between system architecture and business requirements, improving documentation clarity by **50%**.\n• Collaborated with cross-functional teams to continuously improve system observability and communication strategies, which enhanced team productivity by **20%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Engineered robust **Backend Architecture** for a global e-commerce platform using **Python** (**FastAPI**, **Django**) and **Node.js** (**NestJS**, **Express**), ensuring high availability, low latency, and scalability across key modules such as checkout, cart, and order fulfillment.\n• Developed and managed **APIs** for seamless integration and communication between frontend and backend systems, enhancing user experience and operational efficiency.\n• Leveraged **Databases** like **MongoDB**, **PostgreSQL**, and **Cassandra** for distributed data storage, ensuring fast, fault-tolerant data access for high-traffic e-commerce workflows and significantly improving read performance by up to **80%**.\n• Designed and implemented automated testing frameworks, achieving a **95%** test coverage rate across critical components of the application to ensure system reliability.\n• Executed modern deployment strategies using **Kubernetes** and **Docker** for **Cloud Deployment**, facilitating efficient **Containerisation** and enhancing scalability during peak loads by up to **3x**.\n• Integrated **Public Key Infrastructure** for secure communications and **System Security** measures, including CVE and CWE mitigation strategies, to safeguard user data and transactions.\n• Established secure authentication and authorization protocols using **OAuth 2.0** and **RBAC**, ensuring compliance with GDPR and enhancing user data protection for over **1 million** users.\n• Created high-performance applications employing strongly typed languages like **TypeScript**, customizing **Data Model Design** for better maintainability and performance.\n• Utilized UML for **Model Based Engineering** to document system architecture and support effective communication across development teams.\n• Implemented **System Observability** practices, actively monitoring application performance and user interactions, leading to a **50%** reduction in downtime through proactive issue resolution.\n• Collaborated effectively with cross-functional teams by demonstrating exceptional **Communication Skills**, ensuring stakeholder alignment and prioritizing project deliverables."
+    }
+  ],
+  "skills": " **Backend Frameworks:**\n\tPython(FastAPI, Flask, Django)\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\tAPIs\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD & Infrastructure as Code: Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow\n\tAuthentication & Security: Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot\n\tAutomated Testing\n\tProduction Backends\n\tStrongly Typed Languages\n\tModern Deployment Strategies\n\tInternet Networking Concepts\n\tCloud Deployment\n\tContainerisation\n\tPublic Key Infrastructure\n\tSystem Security\n\tCVE\n\tCWE\n\tEncryption\n\tAuthentication\n\tAuthorisation\n\tModel Based Engineering\n\tData Model Design\n\tUML\n\tSystem Observability\n\tCommunication Skills"
+}

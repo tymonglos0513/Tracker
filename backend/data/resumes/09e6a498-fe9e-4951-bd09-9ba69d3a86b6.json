@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Performance Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Performance Engineer with 8 years of experience, I excel in leveraging skills such as **C/C++**, **SIMD**, **AVX512**, and **LLVM** for compiler code generation and performance tuning. My expertise in concurrent programming and threading APIs enhances my ability to optimize applications for various CPU architectures. I am proficient in **Git** and **Mercurial**, which aids in efficient version control across both **Windows** and **Linux** environments.\nBeyond performance engineering, I have a strong foundation in full-stack development, utilizing **Python**, **JavaScript**, and frameworks like **React**, **Next.js**, and **Node.js**. My comprehensive knowledge of cloud technologies including **Azure** and **AWS**, and experience in CI/CD automation enables me to execute rapid and reliable deployments. I possess significant experience in developing AI/ML pipelines and integrating MLOps workflows using **MLflow**, **Airflow**, and **Kubeflow**, which further amplifies my capability to contribute to high-performance, scalable solutions.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Performance Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implemented performance tuning strategies by analyzing and optimizing compiled code using **C/C++**, focusing on advanced vectorization techniques such as **AVX512** and **SIMD**.\n- Developed and executed efficient compiler code generation processes leveraging **LLVM**, ensuring high-quality performance for various applications.\n- Led the enhancement of multi-threaded applications by utilizing **concurrent programming** and **threading APIs**, resulting in a **30%** increase in application throughput.\n- Collaborated using **Git** and **Mercurial** for version control throughout the development process, ensuring code integrity and team collaboration.\n- Analyzed CPU architecture to optimize software performance across both **Windows** and **Linux** environments, improving execution speed by **25%**.\n- Employed **Python** and **JavaScript** for performance monitoring scripts and tooling, contributing to a robust performance analysis framework.\n- Conducted code reviews and performance assessments to ensure adherence to best practices in software development, providing mentorship to junior engineers.\n- Streamlined build and deployment processes using modern CI/CD tools that resulted in a **40%** reduction in integration issues.\n- Facilitated effective communication within cross-functional teams to gather requirements and deliver solutions that meet technical performance criteria."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Applied performance tuning strategies within **C/C++** to enhance the efficiency of financial platforms, particularly focusing on **SIMD** and **AVX512** to improve processing speed in high-volume transaction systems.\nUtilized **LLVM** to optimize compiler code generation, resulting in a performance improvement of up to **30%** across various financial applications.\nImplemented concurrent programming techniques and threading APIs to enhance application responsiveness and throughput, handling **1000+** concurrent sessions without degradation in performance.\nCollaborated with cross-functional teams using **Git** and **Mercurial** for version control, ensuring cleaner code integration and streamlined development processes.\nConducted extensive performance evaluations on applications running on both **Windows** and **Linux**, identifying bottlenecks and delivering actionable insights to improve application behavior.\nDeveloped comprehensive testing frameworks to benchmark financial applications, achieving performance targets consistently within **5%** of specified optimization goals.\nEngaged in discussions around CPU architecture principles to ensure effective resource allocation and utilization in financial systems, improving overall system performance by **15%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **C/C++** and **SIMD** to optimize performance for backend services, ensuring high efficiency in processing and data handling across the global e-commerce platform.\nEmployed **AVX512** and **LLVM** for advanced compiler code generation, achieving significant performance gains in critical modules by enhancing low-level code execution.\nImplemented concurrent programming and threading APIs to maximize CPU utilization on **Windows** and **Linux** environments, improving application responsiveness by **30%** during peak traffic.\nConducted performance tuning and power tuning to identify bottlenecks, resulting in a **15%** increase in overall system throughput without compromising resource integrity.\nManaged source code using **Git** and **Mercurial**, facilitating team collaboration and streamlined deployment processes across multiple branches, ensuring version integrity and ease of integration.\nCollaborated effectively within cross-functional teams to enhance communication and expedite development cycles, achieving project milestones ahead of schedule by **20%**.\nDesigned and optimized backend services using **Python** (FastAPI, Django) and **Node.js** (NestJS, Express) for high availability and scalability across key e-commerce modules like checkout and order fulfillment.\nDeveloped frontend applications using **React** (18), **Vue 3**, and **Angular**, enhancing the user interface with modern frameworks to deliver fast, responsive experiences.\nIntegrated real-time features using WebSockets, event-driven architecture powered by **Kafka** and **RabbitMQ**, and implemented caching strategies with **Redis** for improved application performance.\nLeveraged **MongoDB**, **PostgreSQL**, **Cassandra**, and others for distributed data storage, ensuring robust data access for high-traffic workflows.\nCreated secure payment workflows leveraging **Stripe**, **PayPal**, and **Razorpay**, ensuring compliance with PCI standards and enhancing transaction security."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tC/C++, Python, JavaScript, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD & Infrastructure as Code (Terraform, Ansible, Helm, Docker Compose)\n\n**Cloud & Infrastructure:**\n\tNginx, Certbot\n\n**Other:**\n\tAI & ML (MLflow, Airflow, Kubeflow), Keycloak (OIDC, RBAC), Windows, Linux, performance tuning, power tuning, communication, Git, Mercurial, concurrent programming, threading APIs, CPU architecture, compiler code generation, SIMD, AVX512",
+  "apply_company": "AMD"
+}

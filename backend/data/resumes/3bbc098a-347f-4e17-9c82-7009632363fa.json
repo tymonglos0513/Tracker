@@ -1,0 +1,47 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior Data Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-107978395/",
+  "profile_summary": "As a Senior Data Engineer with 8+ years in software engineering, I possess extensive expertise in **Python**, **SQL**, ETL/ELT processes, and data modeling, essential for building robust data solutions. I am proficient in utilizing **Azure Data Factory** and **Snowflake** to streamline data pipelines and ensure data integrity. My technical skills also encompass **DBT** for data transformation and version control with **Git**, ensuring efficient collaboration and deployment practices through CI/CD methodologies. I excel in system monitoring and debugging, which enables me to maintain high-quality data services while adhering to documentation standards. In addition to my technical capabilities, I have a strong background in creating high-performance solutions for e-commerce, financial, and healthcare sectors, with experience in *microservices architecture* and REST/gRPC API development.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "- Developed and optimized ETL and ELT processes using **Azure Data Factory**, **Snowflake**, and **DBT** to ensure efficient data modeling and processing for diverse datasets.\n- Implemented version control and CI/CD pipelines with **Git** to streamline development workflows, enhancing collaboration and deployment efficiency.\n- Utilized **SQL** for data querying and transformation, achieving significant performance improvements in data retrieval times of up to **30%** in reporting processes.\n- Created and documented data models and schemas, ensuring clear communication and understanding among cross-functional teams and stakeholders.\n- Led debugging efforts in data pipelines using advanced monitoring tools, resulting in a **25%** reduction in downtime and improved data reliability.\n- Collaborated with data scientists and analysts to define data requirements, ensuring data quality and relevance in analytics processes.\n- Engaged in regular communication with stakeholders to align data engineering initiatives with business objectives, fostering a collaborative environment.\n- Mentored junior engineers on data engineering best practices and tools, fostering growth and skill development within the team.\n- Designed and maintained data warehouse solutions with **Snowflake**, implementing efficient data storage and retrieval mechanisms for data-heavy applications.\n- Produced comprehensive documentation for data processes and systems, supporting transparency and ease of onboarding for new team members.\n- Conducted performance tuning of ETL jobs, achieving a **40%** improvement in processing time through optimized SQL queries and workflow adjustments.\n- Engaged in continuous learning of industry best practices in data engineering, actively bringing innovative ideas to the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "• Designed and implemented ETL processes using **Azure Data Factory**, **DBT**, and **Snowflake** to transform data into meaningful insights, improving data accessibility and analytical capabilities.\n• Developed data models and optimized SQL queries in **Python** for enhanced performance, handling over **1 million** records daily.\n• Managed version control and collaborated on code using **Git**, ensuring a robust CI/CD pipeline with **Azure DevOps** for streamlined integration and deployment.\n• Conducted monitoring and debugging of data pipelines to ensure data integrity and performance, achieving a **99.9%** uptime.\n• Created comprehensive documentation for data processes and architecture, facilitating clear communication with stakeholders and team members.\n• Developed and maintained data pipelines with **Python**, ensuring efficient data loading and transformation processes for various data sources, including **SQL** databases.\n• Collaborated on team projects, applying best communication practices to enhance project outcomes and align with business objectives.\n• Applied data modeling techniques to structure data effectively within **Snowflake**, optimizing storage and query performance.\n• Streamlined the ETL workflow by integrating with existing tools and services, leading to a **30%** reduction in processing time for large datasets.\n• Leveraged **CI/CD** pipelines to automate deployment for data applications, ensuring timely and efficient updates.\n• Improved monitoring processes by implementing performance tracking metrics, allowing for proactive issue resolution and optimizing data pipeline reliability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Utilized **Azure Data Factory**, **Snowflake**, and **DBT** for data modeling and ETL processes, successfully managing data workflows and enhancing data accessibility across the organization.\nEngineered and optimized data pipelines in **Python** to efficiently extract, transform, and load data, achieving a **50% improvement** in data processing speed and reliability.\nImplemented robust version control practices using **Git**, ensuring all data projects maintained organized and traceable codebases, enhancing collaboration among team members.\nDesigned and managed complex data models, resulting in a **30% reduction** in query times and improved overall system performance.\nDeveloped and maintained CI/CD pipelines using **GitHub Actions** and **Azure DevOps**, facilitating automated deployments and testing, leading to faster feature releases with **99% deployment success rate**.\nMonitored data flows and performance metrics through effective logging and debugging, using tools like **Sentry** and **Grafana**, which improved error detection and system health oversight.\nDocumented data processes, systems, and transformation workflows clearly to support team knowledge sharing and ensure compliance, resulting in a **40% reduction** in onboarding time for new engineers.\nCommunicated technical concepts effectively within and across teams, fostering better collaborations on complex data engineering projects.\nBuilt and maintained documentation for processes and data models, enhancing transparency and facilitating knowledge transfer within the team.\nConducted thorough testing of ETL processes, ensuring data integrity and compliance with business requirements.\nOptimized data workflows by integrating various data sources, enabling seamless data analysis for stakeholders."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, SQL\n\n **Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot\n\n **Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n **API Technologies:**\n\tREST & gRPC APIs\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Snowflake\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Version control (Git), CI/CD, Monitoring, Debugging, Documentation\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL), Azure Data Factory\n\n **Other:**\n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Data modeling, ETL, ELT, Communication",
+  "apply_company": "E.ON Digital Dialog d.o.o."
+}

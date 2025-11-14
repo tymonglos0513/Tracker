@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Solutions Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "Results-driven Senior Solutions Engineer with 8 years of extensive experience in **cloud** solutions and **DevOps** practices, adept at leveraging **hybrid clouds** and **virtualization** technologies. Proficient in ensuring **high availability** through robust infrastructure design and implementation strategies, contributing to seamless data **backup** and **storage** solutions. Specialized in integrating **artificial intelligence** functionalities to enhance system efficiency and automation.\n\nExperienced in full-stack development using **JavaScript**/**TypeScript**, **Python**, and **Flutter**, with a strong command of frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. I hold a proven track record of leading the development of enterprise-grade platforms within the healthcare and financial sectors and implementing **container technologies** for efficient application deployment. My expertise in crafting solutions that comply with industry standards, including HIPAA and PCI DSS, ensures secure and reliable operations.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Solutions Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and implemented **cloud**-based solutions ensuring **high availability** and **backup** strategies for healthcare and financial platforms, leveraging tools such as **AWS**, **Azure**, and **Kubernetes** (e.g., EKS/AKS).\nArchitected microservices using **container technologies** such as **Docker** to enhance scalability and reliability in application deployment, achieving a **30%** increase in system performance.\nDeveloped and maintained robust **storage** solutions with databases like **PostgreSQL** and **MongoDB**, optimizing support for **millions** of records and enabling efficient data retrieval for analytics.\nIntegrated **artificial intelligence** capabilities within applications, using ML frameworks like **TensorFlow** and **PyTorch**, which improved operational efficiency by **25%** through smart predictive analytics.\nLed the implementation of enterprise-level **DevOps** practices, utilizing tools such as **GitHub Actions** and **CircleCI** to streamline deployment processes, reducing release time by **40%**.\nConfigured and optimized **hybrid clouds** solutions to respond to dynamic workloads across multiple environments, ensuring compliance with standards such as HIPAA and GDPR.\nExecuted **backup** and disaster recovery strategies that ensured minimal downtime across various applications, achieving a **99.9%** uptime.\nCollaborated with cross-functional teams to enhance application architecture, employing **virtualization** techniques for optimized resource management and cost reduction.\nProduced detailed documentation and conducted training sessions on best practices for **cloud** infrastructure management, fostering a culture of innovation and continuous improvement among the engineering teams."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Designed and implemented **high availability** architectures for financial platforms utilizing **cloud** services such as Azure, enhancing system reliability and uptime by **99%**.\n• Leveraged **DevOps** practices to automate CI/CD pipelines, reducing deployment times by **50%** and improving overall software development efficiency.\n• Integrated **container technologies** like Docker and Kubernetes to streamline application deployment and management, while achieving scalability in a **hybrid cloud** environment.\n• Developed and modernized financial applications using a microservices-based architecture in **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing maintainability for systems processing over **1 million** transactions a day.\n• Built user-centric front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, applying **Redux Toolkit** and **Tailwind CSS** to design responsive interfaces for financial dashboards and admin portals.\n• Created real-time monitoring tools and analytics dashboards utilizing **React**, **D3.js**, and **Power BI Embedded**, allowing operations teams to visualize and analyze transaction flows effectively.\n• Established robust event-driven architectures with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, enabling real-time transaction processing and compliance notification workflows.\n• Engineered ETL pipelines utilizing **Python**, **Apache Airflow**, and **Azure Data Factory** for batch and real-time ingestion of **financial data**, handling inputs from internal and **third-party** sources.\n• Innovated AI/ML-driven fraud detection frameworks using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, resulting in a **30%** decrease in fraudulent transactions through advanced pattern analysis.\n• Developed machine learning pipelines for critical business operations such as credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, ensuring real-time decision-making capabilities embedded in backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Engineered high-availability solutions using **cloud** technologies, ensuring optimal service uptime and performance for a global e-commerce platform.\nDesigned and optimized backend microservices leveraging **container technologies** such as Docker and Kubernetes, achieving scalability and resilience across transaction-heavy modules like checkout and order fulfillment.\nImplemented comprehensive backup and storage strategies to safeguard critical data, utilizing solutions that support hybrid clouds for data redundancy and disaster recovery.\nLeveraged **artificial intelligence** techniques to enhance product recommendation systems, driving personalized shopping experiences and improving conversion rates based on user interactions.\nApplied **DevOps** practices to streamline the development lifecycle, integrating CI/CD pipelines for seamless deployment and minimal downtime during updates with effective rollback strategies.\nUtilized **virtualization** to optimize resource allocation, achieving a 25% cost reduction in infrastructure expenditure while maintaining service quality and availability.\nCreated robust and responsive user interfaces using **React (18)**, **Vue 3**, and **Angular**, ensuring a smooth customer journey on both web and mobile, with an emphasis on performance and accessibility compliance (WCAG 2.1).\nEngineered real-time features with **WebSockets**, and leveraged **Kafka** and **RabbitMQ** for event-driven architecture, ensuring instantaneous updates for orders and inventory across the platform.\nDeveloped secure payment processing systems integrating **Stripe**, **PayPal**, and **Razorpay**, implementing PCI-compliant workflows to protect sensitive transaction data.\nEstablished role-based access control (RBAC) and OAuth 2.0 protocols, ensuring robust security and GDPR compliance for customer and admin access.\n"
+    }
+  ],
+  "skills": "****Cloud & Infrastructure****\n\tcloud, virtualization, storage, backup, high_availability, hybrid_clouds\n\n****DevOps****\n\tDevOps, Docker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n****Programming Languages****\n\tPython, JavaScript, TypeScript\n\n****Backend Frameworks****\n\tFastAPI, Flask, Django\n\n****Frontend Frameworks****\n\tReact, Vue, Angular\n\n****API Technologies****\n\tNginx, Keycloak, JWT, OAuth2, Let’s Encrypt\n\n****Serverless and Cloud Functions****\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n****Databases****\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n****Other****\n\tMLflow, Airflow, Kubeflow, Terraform, Ansible, Helm, Docker Compose",
+  "apply_company": "NetApp"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior FullStack Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Full Stack Engineer with 8 years of experience, I possess strong expertise in **Python**, **APIs**, and **Cloud** services, which enables me to build high-performance back-end systems. My experience with **Kubernetes** aligns well with modern deployment practices, ensuring robust containerized applications. I have a solid understanding of **security fundamentals** which is crucial for developing secure applications in compliance with industry standards. My skills also extend to designing effective **test strategies** and leveraging **data structures** for optimized application performance.\n\nI specialize in full-stack development using **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django** technologies, and I have deep cloud experience across **Azure** and **AWS**. I have successfully led the development of enterprise-grade platforms integrating AI/ML capabilities for predictive analytics and real-time data processing. With a proven foundation in microservices architecture and event-driven systems, I build applications that meet rigorous compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Additionally, I bring hands-on experience in developing machine learning pipelines and implementing MLOps workflows utilizing tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior FullStack Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed robust back-end systems leveraging **Python** and **APIs** for scalable healthcare and financial platforms, ensuring reliability and performance.\n• Designed and implemented cloud solutions utilizing **Cloud** services, specifically **Kubernetes (AKS/EKS)** for container orchestration, enhancing application deployment scalability and management.\n• Ensured high standards of security by integrating **security fundamentals** throughout the development lifecycle and complying with regulations like HIPAA and PCI DSS.\n• Architected mobile applications that enhanced user engagement in fintech and healthcare using **Flutter** and **React Native**, achieving a 30% increase in user retention.\n• Created CI/CD pipelines with tools like **GitHub Actions** and **Azure DevOps**, which automated testing and deployment, reducing release times by 50% across multiple environments.\n• Optimized data structures within **PostgreSQL** and **MongoDB**, improving query performance by 40% for large datasets in healthcare applications.\n• Collaborated to design and develop RESTful APIs ensuring seamless integration and data exchange across diverse components of an application, leading to a 25% faster data flow.\n• Conducted extensive test design strategies utilizing **Jest** and **Cypress**, achieving over 95% code coverage and enhancing application stability.\n• Integrated payment solutions such as **Stripe** into applications, enhancing transactional security and facilitating a 20% increase in processed transactions.\n• Employed Kubernetes for orchestration of microservices, significantly reducing downtime and increasing deployment frequency by up to 80% during peak times.\n• Utilized advanced analytics tools with **Power BI** and **D3.js** for real-time financial data visualization, providing key insights driving strategic decisions.\n• Conducted training sessions on effective use of **data structures** and best practices in Python for junior developers, fostering an environment of continuous learning and improvement."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "● Developed and maintained robust **APIs** using **Python** (FastAPI, Django) as part of a microservices architecture, improving responsiveness and scalability for high-volume financial transaction platforms.\n● Leveraged **Cloud** technologies for efficient deployment and scaling of applications, ensuring reliability and enhancing performance in a fast-paced environment.\n● Collaborated in building and deploying containerized applications using **Kubernetes**, enabling seamless scaling and management of microservices across development and production environments.\n● Integrated **Stripe** for secure payment processing, optimizing the user experience in financial transactions through effective API management and implementation.\n● Applied solid knowledge of **Data Structures** to enhance system performance and optimize data handling in high-traffic scenarios, realizing a **25%** reduction in response times.\n● Conducted comprehensive **Test Design** to ensure code quality and security compliance, leveraging automated testing frameworks and peer code reviews, thus achieving **99%** test coverage across key components.\n● Emphasized **Security Fundamentals** while developing applications, implementing best practices to secure sensitive financial data and comply with regulatory standards.\n● Established monitoring and logging strategies for critical system components, utilizing **Kubernetes** and **Cloud** services to ensure operational excellence and rapid issue resolution, significantly reducing incident response times.\n● Participated in architectural discussions and led implementation efforts that resulted in a **30%** increase in system throughput, benefiting transaction processing for financial platforms."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** frameworks such as **FastAPI** and **Django** to design and optimize backend services for a global e-commerce platform, ensuring high availability and scalability across critical modules including checkout, cart, and order fulfillment.\nDeveloped and maintained **APIs** and **backend** services that support fast, reliable interactions for approximately **1M** users, maintaining low latency under **200ms** across transactions.\nImplemented cloud-native solutions using **Kubernetes**, enhancing deployment efficiency and application resilience, while driving infrastructure improvements leading to a **30%** reduction in downtime.\nBuilt secure payment workflows seamlessly integrated with **Stripe**, **PayPal**, and **Razorpay**, applying PCI compliance standards to safeguard sensitive data in over **500K** transactions annually.\nApplied security fundamentals including role-based access control (RBAC) and **OAuth 2.0**, guaranteeing GDPR compliance and protecting user data across the platform.\nUtilized **Redis** for caching product metadata and search results, improving application responsiveness by **40%** and significantly reducing read pressure on databases.\nEngineered real-time features using event-driven architecture powered by **Kafka** and **RabbitMQ**, facilitating dynamic inventory tracking and responsive customer support in real-time.\nDesigned and optimized frontend applications with **React (18)**, **Vue 3**, and **Angular**, ensuring fast, responsive user experiences optimized for both web and mobile platforms, utilizing **TypeScript** and **Redux Toolkit** for state management.\nDeveloped scalable data storage solutions utilizing **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra**, delivering fast, fault-tolerant data access to handle high-traffic e-commerce workflows.\nCreated responsive, SEO-friendly e-commerce UIs using **Next.js**, **Vue 3 + Nuxt**, and **HTML5/CSS3**, enhancing mobile-first engagement and ensuring compliance with accessibility standards (WCAG 2.1).\nImplemented feature flags and blue-green deployments using **LaunchDarkly** and **Kubernetes namespaces** to enable controlled rollouts and A/B testing during major platform updates."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Back-end\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tAPIs\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Cloud\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Stripe, Test Design, Security Fundamentals, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Data Structures",
+  "apply_company": "ElevenLabs"
+}

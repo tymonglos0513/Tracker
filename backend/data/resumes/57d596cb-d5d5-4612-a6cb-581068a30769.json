@@ -1,0 +1,47 @@
+{
+  "name": "Sebastian Lukasz Nowak",
+  "role_name": "Senior Solutions Engineer",
+  "email": "sebastiannowak425@outlook.com",
+  "phone": "+48 732 489 778",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/sebastian-nowak-756157396/",
+  "profile_summary": "As a Senior Solutions Engineer with 8 years of full-stack development experience, I possess deep expertise in **Python**, **SQL**, **AWS**, **Azure**, **Databricks**, and **Snowflake**, essential for building robust data solutions. I have a proven track record in data management and governance, leveraging **Data Lake**, **Data Warehouse**, **Data Mesh**, and **Data Vault** methodologies to design scalable architectures that optimize data accessibility and integrity.\nI excel in utilizing frameworks and tools for batch processing and stream processing, including **Spark**, **Hadoop**, **DBT**, **Talend**, and **Informatica**. My experience extends to developing advanced analytics solutions using techniques such as **linear regression**, **forecasting**, and **Natural Language Processing**. I employ modern approaches like **microservices architecture** and **CI/CD automation** to ensure high-quality code delivery.\nAdditionally, my background includes creating enterprise-grade applications compliant with critical standards like HIPAA and PCI DSS, ensuring security through effective **identity and access management**, **encryption**, and **disaster recovery** strategies. I've also integrated data-driven machine learning models using **PySpark** and **Streamlit** for real-time insights and decision-making.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "",
+      "from_year": "2001",
+      "to_year": "2006",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Solutions Engineer",
+      "company": "DeepInspire",
+      "from_date": "Oct 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and implemented data management solutions using **Snowflake**, **Teradata**, and **SQL Server**, ensuring compliance with data governance standards and optimizing data storage for scalability.\n- Architected enterprise data architecture frameworks including **Data Lake**, **Data Warehouse**, and **Data Mesh**, facilitating robust performance and data retrieval capabilities for over **100 TB** of healthcare and financial data.\n- Leveraged **Databricks** and **Spark** for stream and batch processing, enhancing data processing efficiency by over **50%**.\n- Designed, built, and optimized end-to-end ETL processes using **DBT**, **Talend**, and **Informatica**, ensuring high-quality data flows and adherence to the **Kimball** and **Data Vault** methodologies.\n- Implemented cloud-native solutions on **AWS** and **Azure**, facilitating **IaaS** and **PaaS** for data-driven applications, enhancing deployment speed and reducing time-to-market by **30%**.\n- Developed advanced data analytics and visualization tools using **PowerBI** and **Tableau**, driving actionable insights across multiple departments and improving reporting efficiency by **40%**.\n- Collaborated with cross-functional teams to establish robust data governance frameworks and best practices, ensuring compliance with industry standards and enhancing data quality.\n- Enhanced data security measures through effective implementation of encryption, identity and access management protocols, and disaster recovery strategies to protect sensitive data assets.\n- Created and maintained automated documentation of data architecture and workflows, fostering knowledge sharing and compliance within the organization.\n- Spearheaded initiatives to implement **Apache Iceberg** and **Delta Lake** for handling large-scale data transactions while maintaining batch and stream processing integrity."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Britenet",
+      "from_date": "Sep 2015",
+      "to_date": "Sep 2021",
+      "location": "Poland",
+      "responsibilities": "• Spearheaded the integration of **Snowflake**, **Databricks**, and **Azure** to enhance data warehouse efficiency, achieving a **30%** reduction in query response time for large datasets.\n• Designed and implemented **Hadoop** and **Spark** based solutions for batch and stream processing of financial data, improving processing times by up to **40%**.\n• Developed comprehensive data strategies employing **Data Mesh** and **Data Fabric** architectures to streamline data management and governance across financial platforms, leading to a **25%** increase in data accessibility.\n• Introduced advanced security measures including **Encryption** and **Identity and Access Management** to safeguard sensitive financial transactions and maintain compliance with data governance standards.\n• Collaborated on the overhaul of financial analytics using **Power BI** and **Tableau** for real-time reporting, resulting in enhanced decision-making capabilities across operations teams.\n• Built robust ETL pipelines utilizing **Apache Airflow** and **Python** for efficient data flow across systems, allowing for seamless integration of **Oracle** and **SQL Server** data sources.\n• Applied machine learning techniques for fraud detection using **Python**, resulting in proactive alerting and a **20%** decrease in fraud cases through automated monitoring systems.\n• Implemented **DevOps** practices to oversee CI/CD pipelines for data solutions, improving deployment times by **50%** and ensuring high-quality delivery of services.\n• Analyzed transactional data using advanced SQL techniques and **DBT**, improving forecasting accuracy and contributing to strategic business insights."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Binary Studio",
+      "from_date": "Jan 2007",
+      "to_date": "Aug 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Snowflake** and **Databricks** to design and manage **data warehouses**, ensuring efficient data integration and analytics for real-time decision-making in a global e-commerce platform.\nImplemented advanced data management strategies using **SQL Server** and **Oracle** for distributed data storage and retrieval, optimizing performance for over **1 million** transactions daily.\nEngineered and maintained **data governance** frameworks with a focus on **Data Lake** and **Data Warehouse** architectures, ensuring compliance with **GDPR** and managing **data quality** across various data sources.\nLeveraged **Spark** and **PySpark** in batch and stream processing scenarios, improving the data processing pipeline speed by **30%** while handling large datasets effectively.\nDeveloped ETL processes using **Talend** and **Informatica**, automating data ingestion from multiple sources and achieving data transformation efficiency by **25%**.\nApplied **data modeling techniques** including **Data Vault** and **Kimball**, creating scalable data models for quick and effective data analytics and reporting.\nCollaborated on architectural decisions and enhancements, incorporating **DevOps** practices to streamline deployment processes using **AWS** and **Azure** services, achieving a **50% reduction** in deployment time.\nImplemented security measures such as **encryption** and **identity access management** (IAM) for sensitive data protection, ensuring compliance with industry regulations and maintaining user trust.\nGenerated insights and visualizations using **Tableau** and **PowerBI**, enabling stakeholders to make data-driven decisions based on real-time analytics, which led to a **15% increase** in sales efficiency."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tREST, OIDC, JWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda, Azure App Services\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Snowflake, Teradata, Oracle, SQL Server, DataFrames\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL), IaaS, PaaS, Networking\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Spark, Databricks, Hadoop, SQL, Data Mesh, Data Vault, Data Fabric, Data Governance, Data Management, Enterprise Architecture, Data Lake, Data Warehouse, Medallion, Kimball, 3NF, Data Orchestration, batch processing, stream processing, replication, DBT, Talend, Informatica, Snowpark, PySpark, Parquet, Avro, Apache Iceberg, Delta Lake, Tableau, PowerBI, MicroStrategy, Thoughtspot, SAS, Streamlit, time series analysis, advanced SQL, linear regression, variance analysis, modeling, forecasting, classification, regression, clustering, dimensionality reduction, Natural Language Processing, Security, Encryption, Identity and Access Management, Disaster Recovery ",
+  "apply_company": "Snowflake"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior WebTest Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Experienced Senior WebTest Engineer with 13+ years in full-stack development and a strong focus on testing high-performance applications. Proficient in **TypeScript**, **Python**, and **React**, with hands-on experience using **Playwright**, **Selenium**, and **Django** for comprehensive application testing. Adept at leveraging **SQL Alchemy**, **PostgreSQL**, and **Redis** for backend development and testing environments.\n\nSkilled in cloud deployment and infrastructure management with **Azure**, **GCP**, **Heroku**, and utilizing **k8s**, **Terraform**, and **Helm** for seamless CI/CD and orchestration. Committed to Agile methodologies, enhancing team collaboration and project efficiency.\n\nSpecialized in AI/ML-powered platform integration for predictive analytics and real-time processing, ensuring compliance with industry standards such as HIPAA and PCI DSS. Proven track record in developing and maintaining robust microservices and event-driven architectures, while leading quality assurance initiatives across healthcare and financial sectors.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior WebTest Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented robust testing frameworks utilizing **Playwright**, **Selenium**, and **Jest** for automated testing of web applications, ensuring top-notch software quality across the stack.\nDeveloped test automation scripts in **TypeScript** and **Python** for functional and regression testing, increasing test coverage by **30%** and reducing manual testing efforts.\nCollaborated with cross-functional teams using **Agile** methodologies to define user stories, acceptance criteria, and to drive continuous improvements in software testing processes.\nDesigned and executed performance testing scenarios using **k8s** and **Celery**, identifying bottlenecks in the applications and improving response times by **25%**.\nCreated test cases and documentation aligned with the **OpenAPI** specifications to facilitate seamless integration and support communication between development and testing teams.\nLed the adoption of CI/CD practices by building **GitHub Actions** pipelines that automate build, test, and deployment processes, reducing release times by **50%**.\nManaged state in frontend applications developed with **React**, ensuring that all new features were rigorously tested before deployment.\nUtilized **PostgreSQL** and **Redis** for database testing and validation, ensuring data integrity and performance in high-traffic scenarios.\nConfigured cloud automation and infrastructure as code using **Terraform** and **Helm**, contributing to smoother deployments on platforms like **Azure** and **GCP**.\nActively participated in debugging sessions and code reviews, leveraging tools like **RabbitMQ** for messaging and communication between services.\nConducted exploratory testing sessions alongside automated tests to catch edge cases and improve overall product reliability.\nMentored junior engineers on best practices for testing in **Django** applications, bolstering team skill sets and knowledge-sharing efforts."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented automated testing frameworks using **Playwright** and **Selenium** for high-quality web applications, ensuring seamless user experiences across multiple platforms.\nUtilized **TypeScript** alongside front-end technologies such as **React** (18) to enhance code reliability and maintainability, facilitating rapid development cycles in an **Agile** environment.\nCollaborated with cross-functional teams to document API specifications using **OpenAPI**, improving communication and clarity for back-end and front-end integration processes.\nIntegrated background task processing with **Celery** and **RabbitMQ**, enhancing application responsiveness and enabling effective handling of asynchronous tasks for financial services.\nLeverage **Python** frameworks like **Django** and **SQL Alchemy** to develop robust back-end solutions, providing strong data handling capabilities with **PostgreSQL** and **Redis** for efficient data caching and storage.\nEmployed CI/CD pipelines using **GitHub Actions** to automate testing and deployment, achieving a 30% reduction in release times and ensuring consistent delivery of high-quality code.\nImplemented container orchestration with **k8s**, enabling dynamic scalability and management of microservices, improving availability and performance metrics in production environments.\nUtilized **Terraform** and **Helm** to manage infrastructure as code, leading to a more streamlined deployment process across various cloud services including **Azure** and **GCP**.\nFostered an environment of continuous improvement through regular retrospectives and feedback loops in alignment with **Agile** practices, enhancing team collaboration and delivery effectiveness."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Playwright** and **Selenium** for automated testing of web applications, ensuring comprehensive coverage and quality assurance for features developed in **React** and **Django**.\nDesigned and implemented testing strategies in **TypeScript** to enhance test suite efficiency, achieving a **20%** reduction in test execution time.\nCollaborated with development teams following **Agile** methodologies to ensure rapid feedback loops and continuous integration, utilizing **GitHub Actions** for CI/CD pipelines.\nManaged and executed test cases in a multitenant environment using **Docker** and **k8s**, ensuring isolation and scalability in testing workflows.\nConducted performance and load testing using **RabbitMQ** and **Celery**, monitoring system behavior under conditions simulating **1000+** concurrent users.\nIntegrated **OpenAPI** specifications for API testing, ensuring adherence to standardized practices and facilitating better collaboration between developers and testers.\nImproved database efficiency through SQL performance tuning in **PostgreSQL**, reducing query response times by up to **30%**.\nDeveloped scripts for data seeding and migration leveraging **SQLAlchemy**, ensuring a seamless testing environment that's reflective of production.\nEngaged in regular code reviews and maintained documentation of test strategies and methodologies using **Terraform** for infrastructure as code, contributing to a **15%** increase in team productivity.\nParticipated in cross-functional teams to strategize testing approaches for cloud deployments on **Azure**, **Heroku**, and **GCP**, ensuring platforms met highest standards of reliability and security."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, TypeScript\n\n**Frontend Frameworks:**\n\tReact\n\n**Backend Frameworks:**\n\tDjango\n\n**API Technologies:**\n\tOpenAPI\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, Azure: App Services, GCP, Heroku\n\n**Databases:**\n\tPostgreSQL, Redis\n\n**DevOps:**\n\tDocker, Kubernetes (k8s), GitHub Actions, Terraform, Helm\n\n**Other:**\n\tSelenium, Playwright, Celery, RabbitMQ, Agile",
+  "apply_company": "Sphera"
+}

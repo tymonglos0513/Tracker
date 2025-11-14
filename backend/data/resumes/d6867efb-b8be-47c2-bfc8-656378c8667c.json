@@ -1,0 +1,55 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior DevOps Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with over 9 years of comprehensive experience in cloud services and performance optimization. Proficient in **AWS**, **Docker**, **Kubernetes**, **GitLab**, **CI/CD**, and **Terraform** to implement efficient DevOps practices and streamline development processes. Strong background in observability tools including **Prometheus**, **Grafana**, and **InfluxDB** for monitoring and performance testing using **Locust**, **Gatling**, and **K6**. Well-versed in programming languages such as **Python**, **Bash**, and **Java** to enhance automation and system reliability. Additionally, I have a solid foundation in microservices architecture and distributed systems with practical experience in **Apache Kafka**, **RabbitMQ**, and **Redis**. Skilled in collaborating cross-functionally and leading development projects to elevate organizational performance.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Implemented CI/CD pipelines using **GitLab** and **Terraform**, enhancing deployment efficiency by **40%**.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration, ensuring high availability and scalability of applications.\nMonitored application performance and system health through **Prometheus** and **Grafana**, facilitating observability and proactive issue resolution.\nExecuted load testing with **Locust**, **Gatling**, and **K6**, optimizing system performance under varying loads, resulting in a performance improvement of **20%**.\nDeveloped automation scripts in **Bash** and **Python** to streamline operational workflows and enhance job efficiency.\nSpearheaded the adoption of AWS services, improving cloud resource management and reducing operational costs by **30%**.\nIntegrated metrics and logs into a **InfluxDB** to enhance data storage for observability and performance analytics.\nDesigned and developed a comprehensive monitoring solution that identifies bottlenecks, providing insights that lead to system enhancements.\nCollaborated with cross-functional teams to implement best practices in observability and performance testing, ensuring high-quality deliverables."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Implemented **CI/CD** pipelines using **GitLab** and **Docker**, resulting in a **30%** reduction in production deployment errors.\nConfigured and managed **AWS** cloud infrastructure to optimize application performance, leveraging **Terraform** for provisioning and managing resources.\nDeployed applications in **Kubernetes** environments, ensuring scalability and reliability of services while utilizing **Prometheus** and **Grafana** for monitoring and observability.\nDeveloped automation scripts in **Python** and **Bash** to enhance DevOps processes, leading to a **20%** improvement in team efficiency.\nConducted performance testing with tools such as **Locust**, **Gatling**, and **K6**, helping identify bottlenecks and improve service uptime by **15%**.\nLed initiatives for containerization using **Docker**, facilitating seamless application deployment across environments.\nExecuted database management practices with **InfluxDB** and traditional databases, optimizing data storage for enhanced access speed.\nCollaborated with development teams to integrate observability solutions, ensuring comprehensive monitoring of application performance across multiple avenues.\nMentored junior engineers on best practices for DevOps and cloud strategies, accelerating skill development and project delivery timelines.\nAnalyzed system architecture and performance metrics, driving continuous improvements in processes and technology adoption."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Implemented CI/CD pipelines using **GitLab** to increase deployment efficiency by **35%**.\nLeveraged **Docker** containers to standardize application environments, enhancing compatibility across development, testing, and production stages.\nConfigured orchestration of containerized applications with **Kubernetes**, scaling services to handle a **150%** increase in traffic during peak hours.\nUtilized **Terraform** for infrastructure as code management, ensuring consistent environment setup and reducing provisioning time by **40%**.\nIntegrated **AWS** services for scalable infrastructure solutions, ensuring high availability and security across deployments.\nConducted performance testing utilizing **Locust**, **Gatling**, and **K6**, identifying bottlenecks and improving system performance under load by **25%**.\nSet up monitoring solutions with **Prometheus**, **Grafana**, and **InfluxDB** to enhance observability and alerting, decreasing incident response time by **30%**.\nScripted automated tasks using **Python** and **Bash**, boosting operational throughput and reducing manual intervention.\nParticipated in code reviews and knowledge sharing sessions, promoting best practices and technical excellence across the team.\nProvided training and documentation for CI/CD processes, facilitating smoother onboarding of new team members."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tJava, Python, TypeScript, JavaScript\n\n**Backend Frameworks**\n\tNodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n\n**Frontend Frameworks**\n\tReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n**API Technologies**\n\tRESTful API, GraphQL\n\n**Serverless and Cloud Functions**\n\tAWS, Azure\n\n**Databases**\n\tMSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB\n\n**DevOps**\n\tDocker, Kubernetes, GitLab, CI/CD, Terraform, Prometheus, Grafana, InfluxDB, Locust, Gatling, K6\n\n**Cloud & Infrastructure**\n\tAWS, Azure\n\n**Other**\n\tUX/UI Design, Git, GitHub, Redis, Apache Kafka, RabbitMQ, Solidity, Ether.js, Web3.js, Ethereum, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Performance Testing, Observability, Bash",
+  "apply_company": "Sii Poland"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Rust Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Rust Engineer with 13+ years of experience in full stack development, focusing on high-performance applications in complex domains. Proficient in programming with **Rust**, incorporating **gRPC** for efficient service communication, and applying strong understanding of **cryptography** and **cybersecurity** principles. Experienced in database management and networking to ensure robust system performance.\n\nExpert in developing AI/ML-powered applications that enhance predictive analytics and automate processes. Skilled in **JavaScript/TypeScript**, **Python**, and **Flutter**, leveraging frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django** for both frontend and backend development. Adept at deploying cloud-native systems on **AWS** and **Azure**, implementing microservices, and establishing CI/CD pipelines.\n\nWell-versed in regulatory compliance and working within standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Strong foundation in MLOps, including model training, serving, and orchestration tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Rust Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed secure and efficient applications using **Rust**, ensuring robust **cryptography** practices and adherence to **cybersecurity** standards.\n• Engineered high-performance networked services utilizing **gRPC** for seamless communication between microservices.\n• Collaborated on the design and implementation of scalable database solutions that enhance data management and retrieval across various systems.\n• Contributed to the integration of **blockchain** technology for enhanced data integrity and transaction security in applications.\n• Leveraged advanced Rust features to deliver systems with improved concurrency and performance, achieving up to **30%** faster response times compared to previous implementations.\n• Designed cloud-native applications optimized for deployment on **AWS** and **Azure**, ensuring **99.9%** uptime and fault-tolerant architectures.\n• Built and maintained CI/CD pipelines enabling automated testing and deployments across **3** different environments, increasing delivery efficiency by **40%**.\n• Actively participated in code reviews and architectural discussions, leading to the successful adoption of best practices in **networking** and data security.\n• Enhanced legacy systems by incorporating modern Rust modules, resulting in a **50%** reduction in technical debt and improved maintainability.\n• Conducted security audits and vulnerability assessments to ensure compliance with industry standards and regulations."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Integrated advanced **Rust** frameworks and libraries to enhance the performance and security of financial applications.\nDeveloped and optimized **gRPC** services for seamless communication between microservices, ensuring efficient data transfer and minimal latency in high-traffic environments.\nImplemented robust **cryptography** protocols to safeguard sensitive financial transactions, improving compliance with industry standards and enhancing data protection.\nDesigned and maintained scalable **database** architectures tailored for high-volume transactions, ensuring data integrity and high availability.\nEngineered secure **networking** solutions to fortify application infrastructure against potential threats, promoting a safer user experience.\nContributed to innovative **blockchain** integrations, enhancing transactional transparency and security measures for financial operations.\nDrove initiatives in **cybersecurity**, implementing best practices to mitigate risks and fortify systems against cyber threats, achieving a **100%** compliance rate during security audits.\nModernized core financial platforms by migrating to microservices architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\nBuilt interactive front-end applications with **React** (18), **Vue** 3, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies.\nDesigned and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nDeveloped ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Rust** to develop high-performance backend services, focusing on optimized concurrent processing and memory safety for scalable applications.\nDesigned and implemented **gRPC** APIs for efficient communication between microservices, ensuring low-latency and high-throughput interactions across distributed systems.\nApplied best practices in **cryptography** to secure data transactions and user information, enhancing data integrity and confidentiality throughout the application.\nIntegrated robust **database** solutions, ensuring data persistence and high availability, utilizing technologies such as PostgreSQL and Redis for efficient data access and caching.\nImplemented network security protocols to safeguard against threats and vulnerabilities, enhancing overall application security posture in alignment with industry standards.\nConducted research and development on **blockchain** technologies to explore decentralized solutions and enhance transparency in transactions, innovative features, and auditing.\nPrioritized **cybersecurity** measures including secure coding practices, risk assessments, and vulnerability management, achieving compliance with relevant security regulations.\nEngineered real-time systems that leverage event-driven architecture, ensuring speeding delivery and updates for user transactions under typical load conditions handling **1000+** concurrent users.\nLed initiatives to document design patterns and standard operating procedures, leading to a **30%** reduction in onboarding time for new engineers.\nCollaborated in an agile environment, participating in **2-week** sprint cycles while utilizing version control with Git to track project evolution and streamline DevOps practices."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\tRust\n\n **Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\n **Frontend Frameworks:**\n\tJavaScript\n\tTypeScript\n\tReact\n\tVue\n\tAngular\n\n **API Technologies:**\n\tgRPC\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda\n\n **Databases:**\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\n **DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tKeycloak (OIDC, RBAC)\n\tOAuth2\n\tJWT\n\tNginx\n\tLet’s Encrypt\n\tCertbot\n\tcryptography\n\tnetworking\n\tblockchain\n\tcybersecurity",
+  "apply_company": "IOTA"
+}

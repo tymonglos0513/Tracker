@@ -1,0 +1,55 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Software Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Skilled in **Kubernetes**, **Go**, **Python**, **C++**, **Rust**, **C#**, and **Java**, with over 9 years of experience as a Senior Software Engineer. Proven expertise in backend development, particularly within microservices architecture and distributed systems. Hands-on experience with cloud-native tools such as **APIServer**, **Cluster Autoscaler**, **HPA**, **VPA**, and **Karpenter**, ensuring high observability and scalability of applications. Strong proficiency in both frontend and backend technologies, including **ReactJS**, **NextJS**, and the **.NET** stack. Demonstrated success in delivering robust solutions, optimizing performance, and leading cross-functional teams to achieve project goals.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "• Demonstrated **Scalability** and **Observability** by spearheading the design and development of a web-based customer management platform using **.NET 7** and **ReactJS**.\n• Achieved a **25%** improvement in user satisfaction through an enhanced user interface alongside collaboration with UX/UI designers.\n• Applied **Backend Development** principles by designing and implementing a microservices architecture using **.NET Core** to optimize system performance.\n• Integrated **RabbitMQ** for task queuing and **Apache Kafka** for real-time data streaming, significantly enhancing system resilience and throughput metrics.\n• Utilized **Redis** for caching frequently accessed data, leading to a **35%** reduction in database load and improved response times.\n• Developed and exposed RESTful APIs using **.NET**, linked with a **MongoDB** database to ensure seamless data transactions across services.\n• Implemented **CI/CD pipelines on Azure DevOps**, achieving a **40%** reduction in deployment times and enhancing development efficiency.\n• Optimized **MSSQL** database performance by refining queries and indexing methods, resulting in a **20%** decrease in average query execution time.\n• Created a sophisticated reporting engine utilizing **D3.js** and **Three.js** for interactive data visualizations, further enriching user engagement.\n• Established JWT-based authentication and authorization measures for robust application security."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Utilized **Kubernetes** for orchestration to enhance **scalability**, ensuring application performance under load through automated scaling and efficient resource management.\nDeveloped backend services in **Go** and **C#**, resulting in a 20% improvement in response times for critical APIs.\nImplemented observability strategies to monitor system performance and health metrics, leading to a 15% reduction in downtime by identifying bottlenecks.\nDesigned and constructed microservices architecture with **APIServer** and **Cluster Autoscaler**, enabling dynamic resource allocation and improving system reliability.\nOptimized deployment pipelines leveraging **GitHub Actions**, which led to a 40% decrease in release cycles from 10 days to **6 days**.\nCreated high-performing data processing services using **Python**, improving data handling efficiency by 30%.\nCollaborated with cross-functional teams to define system architecture and establish requirements, ensuring completion of projects within **3 months** from inception to deployment.\nConducted performance tuning on **PostgreSQL** databases, achieving up to a 50% increase in query execution speed.\nMentored junior developers in **C++** and **Rust**, fostering an environment of continuous learning and improving overall team capabilities.\nEngaged in open source community initiatives to share and acquire best practices in software development."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Utilized **Kubernetes** to orchestrate containerized applications, ensuring high **scalability** and effective resource management across multiple environments.\nDeveloped backend services in **Go** and **Python**, enhancing processing speed by **30%** and enabling smoother integration with existing systems.\nLeveraged **C#** expertise in the migration of legacy ASP.NET applications to **.NET Core**, resulting in a **15%** reduction in load times and improved system performance.\nImplemented observability solutions to monitor application health and performance, leading to proactive issue resolution and a **25%** decrease in downtime.\nDesigned and developed RESTful APIs with **C++** and **Rust**, fostering strong communication between frontend components and backend servers.\nCollaborated on scaling strategies with **Cluster Autoscaler** and **Karpenter**, optimizing resource allocation and ensuring system resilience under heavy traffic conditions.\nEnhanced development productivity by creating reusable components and libraries in **C#** as well as adopting open-source frameworks.\nEngaged in continuous integration and deployment practices using **DevOps** tools in **Azure**, streamlining the software release process and decreasing deployment times by **40%**.\nParticipated in code reviews and standups to promote adherence to coding standards and project timelines, ensuring team alignment on objectives.\nDocumented system architectures and technical processes to facilitate knowledge sharing and onboarding of new engineers."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t C++, Go, Java, Python, C#, Rust, TypeScript\n\n **Backend Frameworks**\n\t NodeJS, ExpressJS, NestJS, .NET, Microservices, Backend Development\n\n **Frontend Frameworks**\n\t HTML, CSS, JavaScript, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n **API Technologies**\n\t RESTful API, GraphQL, APIServer\n\n **Serverless and Cloud Functions**\n\t AWS, Azure, CI/CD pipelines\n\n **Databases**\n\t MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB\n\n **DevOps**\n\t Kubernetes, Cluster Autoscaler, HPA, VPA, Karpenter, Observability, Scalability, CI/CD pipelines\n\n **Cloud & Infrastructure**\n\t AWS, Azure\n\n **Other**\n\t UX/UI Design, Git, GitHub, Redux, Messaging & Caching: Apache Kafka, RabbitMQ, Redis, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Blockchain: Solidity, Ether.js, Web3.js, Ethereum, Open Source",
+  "apply_company": "Datadog"
+}

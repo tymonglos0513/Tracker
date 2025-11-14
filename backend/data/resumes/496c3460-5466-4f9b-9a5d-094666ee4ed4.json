@@ -1,0 +1,47 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior Software Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-107978395/",
+  "profile_summary": "As a Senior Software Engineer with over 8 years of experience, I excel in implementing robust testing frameworks such as **Playwright**, **REST Assured**, and performance testing tools like **k6**. I possess strong proficiency in **Docker** and CI/CD pipelines using **GitLab CI/CD**, ensuring efficient deployment and integration processes. My programming expertise includes **Java** and **TypeScript**, along with a solid understanding of SQL for database interactions. I apply various testing strategies, including **Boundary Value Analysis**, **Equivalence Partitioning**, and **Decision Tables**, to ensure comprehensive testing coverage and high-quality deliverables. My background in developing and optimizing applications spans across multiple domains, including e-commerce, finance, and healthcare. I am dedicated to effective **communication** and **collaboration**, leveraging excellent **time management** skills to meet project deadlines while maintaining high standards of software quality.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "- Utilized **REST Assured** and **Postman** for API testing to ensure seamless integration and performance of microservices in the cloud-native environment.\n- Developed test strategies employing **Boundary Value Analysis**, **Equivalence Partitioning**, and **Decision Tables** to validate the functionality and reliability of software solutions.\n- Implemented **k6** for performance testing of applications, aiding in identifying bottlenecks and optimizing resource usage under varying loads.\n- Configured **GitLab CI/CD** pipelines for automated testing and deployment of Python microservices, enhancing code delivery efficiency by over **30%**.\n- Managed containerization of applications using **Docker**, facilitating consistent development and production environments.\n- Improved backend performance and scalability of applications through the application of **SQL** optimizations in database queries.\n- Championed unit testing practices utilizing **JaCoCo** for code coverage analysis, ensuring a minimum coverage of **85%** in all critical components.\n- Engaged in effective **Communication** and **Collaboration** with cross-functional teams to drive project timelines and deliverables, focusing on agile methodologies.\n- Conducted comprehensive **State Transition Testing** and **Pairwise Testing** to enhance software resilience and functionality under varied conditions.\n- Emphasized **Time Management** in coordinating tasks within the team to meet critical deadlines, balancing multiple project requirements.\n- Mentored junior software engineers, imparting knowledge of testing frameworks and best practices, and fostering career development within the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "- Collaborated effectively within cross-functional teams to ensure timely project delivery and alignment with business objectives.\n- Managed the deployment and orchestration of **Docker** containers for microservices, enhancing application scalability and reducing environment inconsistencies.\n- Developed comprehensive testing strategies including **Boundary Value Analysis**, **Equivalence Partitioning**, and **Decision Tables** to ensure software quality and reliability.\n- Designed and implemented RESTful APIs utilizing **Java** and **TypeScript**, ensuring secure communication and integration across various components.\n- Established CI/CD pipelines using **GitLab CI/CD** for automated builds, testing, and deployment, reducing time-to-market by **30%**.\n- Conducted performance testing using **k6** to identify bottlenecks and improve application responsiveness.\n- Utilized **Postman** for API testing and verification, ensuring all endpoints meet functional requirements.\n- Employed **OWASP** guidelines to enhance security practices across software development, maintaining compliance with industry standards.\n- Led the application of **State Transition Testing** methods to thoroughly validate application behavior under various scenarios.\n- Implemented robust logging and monitoring solutions in applications to capture performance metrics, improving support response times by **25%**.\n- Enhanced team communication and collaboration with regular updates and reviews, ensuring alignment with quality assurance practices.\n- Developed automated test cases and coverage metrics with **JaCoCo** to ensure comprehensive test coverage and identify untested code.\n- Applied **Pairwise Testing** methods to optimize test case design, significantly reducing the number of test cases while maintaining coverage integrity.\n- Optimized SQL queries for data retrieval and management, ensuring efficient database interactions in application workflows.\n- Advanced time management skills to prioritize tasks effectively and meet tight deadlines while maintaining high-quality outputs."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "- Designed and optimized backend services for an e-commerce platform using **Python** (FastAPI, Django, Flask, SQLAlchemy), improving scalability and performance across checkout, cart, and order fulfillment modules.\n- Developed robust RESTful APIs in **Python** to handle high-volume transactions, ensuring seamless integration between frontend interfaces and backend systems for real-time customer interactions.\n- Conducted performance testing with **k6** and Apache JMeter, simulating real-world traffic to validate system stability and identify bottlenecks.\n- Automated builds, testing, and deployments utilizing **Docker**, ensuring consistent and reliable delivery of features within varied environments.\n- Leveraged **SQL** databases such as PostgreSQL, SQL Server, and MySQL with Python ORMs (SQLAlchemy, Django ORM) to design and manage transactional databases, improving query performance and reducing latency.\n- Implemented caching strategies with **Redis** in **Python** services, reducing database load by **30%** and improving response times for frequently accessed resources.\n- Developed unit and integration tests with **Postman** and automated frontend testing with **Playwright**, ensuring code quality and significantly reducing manual testing efforts.\n- Built dynamic frontends using **TypeScript** frameworks like **React** and **Angular**, applying modern state management with **Redux/NgRx** for smooth user experiences across devices.\n- Facilitated collaboration and communication among teams, enhancing agile practices and time management through effective project coordination.\n- Replaced legacy WCF services with **Python REST** and **gRPC** services, ensuring reliable communication between microservices and third-party systems.\n- Implemented observability in services using **Prometheus**, **Grafana**, and **Sentry** for performance tracking, error detection, and overall system health monitoring.\n- Designed and developed SEO-optimized websites integrated with **Python APIs** for cross-device accessibility, enhancing user engagement and satisfaction.\n- Performed boundary value analysis and equivalence partitioning testing strategies to ensure comprehensive test coverage and validation of application functionalities."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Java, TypeScript, SQL\n\n **Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot\n\n **Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n **API Technologies:**\n\tREST & gRPC APIs, REST Assured, Postman\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tSQLAlchemy, PostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, k6\n\n **Cloud & Infrastructure:**\n\tNginx, Certbot\n\n **Other:**\n\tPydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, OWASP, Boundary Value Analysis, Equivalence Partitioning, Decision Tables, State Transition Testing, Pairwise Testing, JaCoCo, Communication, Collaboration, Time Management",
+  "apply_company": "ProgressSoft Corporation"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Software Engineer with 8 years of full-stack development expertise, I prioritize leveraging **Golang**, **TypeScript**, **React**, **ReactNative**, and a robust backend with **MySQL** and **PostgreSQL**. My experience extends across cloud platforms such as **AWS**, utilizing **Docker** and **Kubernetes** for CI/CD processes to deliver scalable and efficient microservices architecture. I specialize in integrating AI and machine learning solutions, implementing observability tools like **Prometheus**, **Grafana**, **Datadog**, and **NewRelic** to enhance application performance and reliability.\n\nI have led successful projects that incorporate **OpenAI**, **LangChain**, and **HuggingFace**, deploying features that leverage advanced AI capabilities for enhanced user experiences. My solid foundation in software engineering ensures that I adhere to compliance frameworks while efficiently managing development workflows using **Git** and **GitLab**. My aim is to build high-performance, secure applications that not only meet but exceed industry standards.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Golang** and **TypeScript** to architect and develop robust, scalable software solutions, ensuring high performance and maintainability across applications.\nImplemented **AWS** cloud services to enhance infrastructure reliability and scalability for full-stack applications, leveraging **Docker** and **Kubernetes** for container orchestration and microservices deployment.\nDesigned and maintained data solutions using **PostgreSQL** and **MySQL** for optimal data storage and querying, handling large-scale data processing effectively.\nDeveloped advanced **machine learning** models integrated with applications to provide intelligent insights and features powered by **AI** technologies such as **OpenAI** and **HuggingFace**.\nIntegrated observability tools including **Prometheus**, **Grafana**, **Datadog**, and **NewRelic** to monitor application performance and troubleshoot issues in real-time, achieving a **99%** uptime metric for critical systems.\nEstablished CI/CD pipelines using **Git** and **GitLab**, implementing automated testing, security scans, and deployment strategies that reduced release times by **30%**.\nEngineered cross-platform applications with **React** and **React Native**, achieving seamless user experiences across diverse devices and platforms, ensuring style and functionality consistency.\nUtilized **Elasticsearch** for advanced search capabilities, facilitating real-time data retrieval across structured and unstructured datasets in healthcare and financial domains.\nLed collaborative efforts with data scientists to embed **NLP** models in applications for enhanced document analysis and anomaly detection, achieving significant improvements in processing accuracy.\nAuthored comprehensive testing strategies using various tools, ensuring comprehensive coverage of unit, integration, and end-to-end tests, directly contributing to a **40%** reduction in production defects."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Developed and maintained high-performance applications using **Golang** and **TypeScript**, ensuring code quality and scalability within cloud environments, achieving a throughput boost of **30%**.\n- Implemented CI/CD pipelines using **Docker**, **Kubernetes**, and **GitLab**, reducing deployment time by **50%** while enhancing observability through tools like **Prometheus** and **Grafana**. \n- Designed and optimized databases with **MySQL** and **PostgreSQL**, yielding an improvement in query performance by **40%** and supporting complex financial transactions.\n- Collaborated with cross-functional teams to build robust machine learning models utilizing **AI** technologies and frameworks such as **OpenAI** and **HuggingFace**, enabling smarter fraud detection and risk analysis systems.\n- Led the integration of real-time logging and monitoring solutions using **Datadog** and **NewRelic**, providing better insights into application performance and user behavior.\n- Enhanced front-end experiences utilizing **React** (version **18**), ensuring dynamic and responsive designs while integrating **React Native** for mobile applications to widen accessibility.\n- Spearheaded the development of RESTful APIs and microservices architectures leveraging **Golang** and **TypeScript**, standardizing communication protocols and accelerating development cycles.\n- Employed observability tools for proactive performance monitoring and anomaly detection, contributing to a **25%** reduction in downtimes across financial platforms."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and maintained scalable backend services using **Golang**, ensuring high availability and low latency across critical system components.\nIntegrated **AWS** services for scalable cloud architecture, optimizing resource allocation and cost management, resulting in a **30%** reduction in operational costs.\nConfigured and utilized **MySQL** and **PostgreSQL** databases for high-traffic workload management, improving query performance by **25%** through effective indexing and optimization strategies.\nImplemented observability practices using **Prometheus** and **Grafana**, providing real-time monitoring and alerting to enhance system stability and performance metrics across the application.\nEmployed **Docker** to create containerized applications, streamlining development and deployment processes across various environments, and ensuring consistency and scalability.\nManaged CI/CD pipelines using **GitLab** to automate code integration and delivery, reducing deployment times by **40%** and facilitating rapid iterations on product features.\nEnhanced the frontend experience using **React** and **TypeScript**, developing cross-platform applications that support both web and mobile environments, achieving **98%** mobile responsiveness in user interfaces.\nLeveraged **AI** and **Machine Learning** techniques powered by libraries like **OpenAI** and **HuggingFace** for data analysis, improving predictive accuracy in user behavior modeling and personalization strategies.\nUtilized **ElasticSearch** for advanced search functionalities, increasing search speed and relevancy, contributing to improved user engagement and satisfaction rates.\nParticipated in agile development practices, conducting code reviews and mentoring junior developers, fostering a collaborative and high-performance team environment."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tGolang, Python, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, ReactNative, Vue, Angular\n\n **API Technologies:**\n\tOpenAI, LangChain, HuggingFace\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL)\n\n **Other:**\n\tArtificial Intelligence, Machine Learning, MLflow, Airflow, Kubeflow, Observability, Prometheus, Grafana, Datadog, NewRelic, CI/CD, Git, Elasticsearch, Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot)",
+  "apply_company": "Sezzle"
+}

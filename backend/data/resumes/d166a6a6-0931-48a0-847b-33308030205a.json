@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Fullstack Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Full Stack Engineer with 8 years of experience, I excel in full-stack development leveraging **Python**, **Django**, **FastAPI**, **TypeScript**, **React**, and **PostgreSQL**. My expertise also includes proficiency in cloud operations utilizing **Kubernetes**, **Helm**, and monitoring with **Datadog**. I have successfully led teams in creating high-performance, enterprise-grade solutions in the healthcare and financial sectors, integrating AI capabilities for enhanced predictive analytics and intelligent automation.\nI possess strong technical leadership skills with a focus on code review and knowledge sharing, ensuring best practices and compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2 are met. Additionally, I have hands-on experience in microservices architecture and event-driven systems, complemented by expertise in implementing CI/CD automation processes. Fluent in English and capable of professional communication in German, I am committed to continuous learning and innovation in technology.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Fullstack Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **FastAPI** to architect and develop scalable, full-stack applications with a focus on healthcare and financial platforms, ensuring compliance with HIPAA and GDPR standards.\nEmployed **TypeScript** and front-end frameworks such as **React (17-18)** and **Material UI** to create responsive user interfaces that enhance user experience across various platforms.\nManaged databases effectively with **PostgreSQL**, optimizing for performance and scalability while facilitating large data sets for healthcare applications.\nLed team integration of **Kubernetes** for orchestrating containerized applications, contributing to deployment strategies with **Helm** and improving application reliability and scalability.\nExecuted code reviews and knowledge-sharing sessions, fostering a culture of technical leadership and collaboration among team members.\nDeveloped CI/CD pipelines using **Datadog** for monitoring applications, ensuring streamlined deployments and maintaining high availability across services.\nIntegrated AI functionalities into applications, harnessing machine learning frameworks to deliver smart dashboards and predictive analytics for end users.\nCommunicated effectively in both **English** and **German**, ensuring clear collaboration across diverse teams and stakeholders.\nCollaborated with DevOps teams to enhance cloud operations, leveraging best practices in **Cloud Ops** methodologies to improve operational efficiency.\nDelivered impactful project outcomes through mentoring junior developers and establishing sustainable testing strategies using frameworks relevant to the tech stack.\nRaised application quality by implementing rigorous code testing and review processes, utilizing modern testing libraries such as Jest and Cypress, achieving over **90% test coverage** in critical modules.\nPartook in technical discussions for feature planning, estimation, and architecture designs, aiding in defining project scope and timelines for over **15 successful projects** in the last fiscal year."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Utilized **Python** (Django, FastAPI) to develop and modernize financial platforms, enhancing scalability and maintainability for high-volume transaction systems.\n• Led the creation of dynamic user interfaces with **React** (18), **TypeScript**, and **Material UI**, improving frontend performance for financial dashboards and admin portals, achieving a user satisfaction rate increase of **30%**.\n• Integrated PostgreSQL for robust data management and compliance in financial applications, ensuring high availability and performance in data querying.\n• Implemented **Kubernetes** for orchestration of microservices, increasing deployment efficiency and reducing downtime by **25%**.\n• Established event-driven architectures by incorporating **Kafka**, enabling real-time processing of transactions and alerts, supporting compliance workflows.\n• Designed and developed ETL pipelines using **Apache Airflow** and **Azure Data Factory**, managing batch and real-time data ingestion with a processing capacity of **3TB** daily.\n• Applied AI and ML techniques with **scikit-learn** and **XGBoost** for developing fraud detection systems, increasing detection accuracy by **40%**.\n• Championed technical leadership through code reviews and knowledge sharing sessions, fostering a culture of continuous improvement and collaboration within the team.\n• Communicated effectively in both English and German to collaborate with international teams and enhance project outcomes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized backend services for a global e-commerce platform using **Python** (with **Django** and **FastAPI**), ensuring high availability, low latency, and scalability across 3 key modules like checkout, cart, and order fulfillment.\n• Engineered real-time features utilizing **WebSockets** and event-driven architecture with **Kafka** and **RabbitMQ**, enabling responsive order updates and dynamic inventory tracking.\n• Created engaging frontend applications using **React** (version **18**), **TypeScript**, and **Material UI**, delivering fast and responsive user experiences optimized for both web and mobile platforms.\n• Leveraged **PostgreSQL** for distributed data storage, ensuring fast, fault-tolerant data access for high-traffic workflows and caching frequently accessed resources using **Redis** to enhance performance.\n• Integrated AI features using **scikit-learn** and **TensorFlow** to personalize product listings and improve conversion rates based on real-time behavioral data.\n• Implemented **Kubernetes** for blue-green deployments, enabling controlled rollouts and risk mitigation during major platform updates.\n• Created responsive, SEO-friendly e-commerce UIs using **Next.js** and optimized for mobile-first engagement and accessibility compliance (WCAG 2.1).\n• Developed secure payment workflows integrated with **Stripe**, ensuring PCI-compliance and protection of sensitive data throughout transactions.\n• Applied role-based access control (RBAC) and **OAuth 2.0** for secure customer and admin access, maintaining GDPR compliance across the platform.\n• Engaged in technical leadership through active **code reviews**, **knowledge sharing**, and ensuring best practices in coding standards and team communication."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, TypeScript\n\n**Backend Frameworks:**\n\tDjango, FastAPI\n\n**Frontend Frameworks:**\n\tReact, Material UI, Bootstrap\n\n**API Technologies:**\n\n**Serverless and Cloud Functions:**\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Neo4j\n\n**DevOps:**\n\tKubernetes, Helm, Docker, GitHub Actions, GitLab CI/CD, Terraform, Ansible\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Cloud Ops\n\n**Other:**\n\tArtificial Intelligence, Machine Learning, Technical Leadership, Code Review, Knowledge Sharing, English Communication, German Communication, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Redis, MLflow, Airflow, Kubeflow, Datadog",
+  "apply_company": "lawpilots"
+}

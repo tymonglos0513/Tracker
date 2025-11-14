@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior DevOps Engineer with 13+ years of experience in Site Reliability Engineering (SRE) and DevOps practices, excelling in building and maintaining high-performance applications across healthcare and financial sectors. Proficient in **AWS**, **Azure**, and **OpenStack**, with extensive knowledge in **Linux**, **Networking**, and cloud-native deployments including **Kubernetes** and **Openshift**. Skilled in automation and configuration management using **Ansible**, **Chef**, and **Jenkins**, along with strong version control expertise in **Git** and artifact management using **Artifactory**.\n\nDemonstrated hands-on expertise in programming with **Python**, with exposure to **Golang**, **Ruby**, and **Scala** for various scripting and development tasks. Capable of implementing CI/CD pipelines for seamless integration and continuous delivery. Well-versed in compliance-driven development aligned with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Strong communication and problem-solving skills create effective collaborations and innovative solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implemented **DevOps** practices by designing and building CI/CD pipelines using **Jenkins**, **GitHub Actions**, and **CircleCI**, ensuring seamless code integration and deployment across **Linux** environments.\n- Utilized **Ansible** and **Chef** for configuration management, automating deployments, and system configuration across **AWS** and **Azure** cloud infrastructures.\n- Managed and optimized **Linux** server environments, ensuring high availability and scalability through **Kubernetes** and **OpenShift** orchestration.\n- Enhanced system reliability and performance by integrating **Docker** containers into the deployment process, facilitating microservices architecture transformation with a focus on fault tolerance and scalability.\n- Developed and maintained infrastructure as code using **Terraform**, achieving a **20%** reduction in provisioning time across cloud resources.\n- Collaborated with cross-functional teams to troubleshoot and resolve complex **networking** issues, achieving a **15%** improvement in system uptime metrics.\n- Leveraged **Python** scripts to automate routine tasks and streamline workflows, enhancing team productivity and reducing manual intervention by **30%**.\n- Conducted performance monitoring and logging using tools like **Prometheus** and **Grafana**, leading to an effective resolution of bottlenecks and improved system diagnostics.\n- Fostered effective communication within the team, leading to more efficient problem-solving and knowledge sharing across different levels of project execution.\n- Championed best practices for security measures across the stack, employing network segmentation and workload isolations to protect against vulnerabilities."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS** and **Azure** to modernize core financial platforms by migrating to microservices architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\nEmployed **DevOps** practices to streamline development workflows, integrating **Jenkins** for CI/CD processes in **Kubernetes** and **OpenShift** environments.\nBuilt interactive front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies.\nDesigned and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nDeveloped ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services.\nImplemented infrastructure as code (IaC) strategies with **Ansible** and **Chef**, ensuring consistent environments across deployments by managing configuration effectively.\nPracticed strong **communication** and **problem-solving** skills to coordinate with cross-functional teams, achieving a 30% reduction in deployment times across services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented SRE principles to enhance system reliability and performance, ensuring uptime of over **99.9%** for critical e-commerce services.\nManaged CI/CD processes using **Jenkins** and **Git**, enabling automated deployment pipelines that reduced release cycles by **30%**.\nConfigured and maintained container orchestration platforms like **Kubernetes** and **OpenShift**, improving application deployment efficiency and scaling capabilities.\nIntegrated infrastructure as code using **Ansible** and **Chef**, allowing for consistent server configurations and reducing setup time by **40%**.\nAdministered Linux servers, optimizing performance through system monitoring and resource management techniques.\nUtilized cloud services including **AWS**, **Azure**, and **OpenStack** for various deployment, storage, and networking solutions, enhancing overall system flexibility.\nCollaborated with development teams employing **Python** for automation scripting and workflow optimization, resolving issues faster through effective problem-solving.\nMaintained robust network configurations ensuring high security and seamless communication across services and teams.\nDeveloped and documented processes that improved operational transparency and team communication, contributing to a **15%** increase in overall team efficiency.\nEnsured high-quality code deployments by leveraging version control best practices and storage solutions like **Artifactory**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Golang, Ruby, Scala\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tOAuth2, JWT, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Ansible, Terraform, Chef\n\n**Cloud & Infrastructure:**\n\tOpenStack, Openshift\n\n**Other:**\n\tLinux, Networking, Communication, Problem-Solving, Artifactory",
+  "apply_company": "Blip"
+}

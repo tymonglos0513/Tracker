@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Backend Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Highly skilled Backend Engineer with over 10 years of expertise in **backend architecture**, **APIs**, and **databases**. Proven ability to design and develop **production backends** leveraging **strongly typed languages** like **Python** and **Django**, and adept in both **relational** and **non-relational databases**. Experience in implementing **automated testing** frameworks and utilizing modern **deployment strategies** to enhance system reliability and performance. Familiar with **internet networking concepts**, **containerization**, and security protocols including **public key infrastructure**, **encryption**, **authentication**, and **authorization**. Proficient in **model-based engineering** and **data model design**, utilizing tools such as **UML** for effective system visualization. Demonstrated ability to maintain **system observability**, track **performance metrics**, and conduct **error diagnostics** to ensure top performance. A flexible problem solver with strong communication skills, successfully collaborating across disciplines and adhering to **data residency requirements** and compliance frameworks like **SOC2**, **ISO 27001**, and **IEC62304**. Contributed significantly to high-impact projects for leading organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented **backend architecture** using **Python** and **FastAPI** to enhance user onboarding and reporting workflows, resulting in a **30%** increase in processing speed.\nDeveloped robust **APIs** and employed **event-driven solutions** with **Celery** and **Redis** to efficiently manage **asynchronous processing**, specifically handling over **1,000** financial transaction requests per day.\nUtilized **Azure App Services** for **modern deployment strategies** and leveraged **Terraform** for infrastructure as code, achieving **99.9%** uptime and streamlined cloud operations.\nEngineered and maintained efficient **data pipelines** using **Apache Airflow** and **Azure Functions**, ensuring compliance with regulatory data exchange standards and timely data delivery within **2 hours** of collection.\nConducted comprehensive security assessments and integrated **OAuth2** and **Azure AD B2C** to create robust authentication systems adhering to **ISO 27001** and **SOC2** standards.\nFacilitated collaboration with cross-functional teams to resolve system integration challenges, ensuring compliance with **IEC62304** for software lifecycle processes and overseeing inclusive release strategies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed robust **backend architecture** using **Python** and **FastAPI**, ensuring seamless integration of **APIs** and optimizing document workflows, including user onboarding and complex reporting processes.\n• Implemented event-driven microservices with **Celery** and **Redis**, facilitating efficient asynchronous processing of financial data and transaction requests to enhance performance metrics by **34%**.\n• Managed the deployment of production backends via **Azure App Services**, utilizing **Terraform** for infrastructure automation to maintain consistency across environments, achieving a deployment success rate of **99%**.\n• Engineered secure data pipelines for the compliant exchange of regulatory data, employing **Apache Airflow** and **Azure Functions** to automate data flows and meet data residency requirements while adhering to **SOC2** and **ISO 27001** standards.\n• Conducted thorough security audits, ensuring all systems met industry compliance standards; integrated **OAuth2** and **Azure AD B2C** for comprehensive authentication and authorization measures, reducing security vulnerabilities by **50%**.\n• Collaborated effectively with cross-functional teams to guarantee system observability, regulatory compliance, and successful releases, enhancing communication across disciplines to improve project delivery timelines by **20%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Designed and implemented **backend architecture** for trade execution, portfolio management, and account tracking using **Python**, **Flask**, and **PostgreSQL**, enhancing trading operations and achieving a **30%** increase in transaction efficiency.\n• Developed and maintained APIs, ensuring real-time data delivery through **WebSockets** and **Redis**, contributing to a reduction in latency by **50%** for high-frequency transactions.\n• Spearheaded automated testing procedures using **PyTest**, achieving a test coverage of **90%** and streamlining CI/CD processes for faster deployment cycles.\n• Collaborated with cross-functional teams to ensure compliance with regulatory standards such as **MiFID II** and **GDPR**, while maintaining high internal data security protocols.\n• Utilized modern deployment strategies and containerization techniques, enhancing flexibility and scalability of production backends.\n• Introduced robust job queuing and scheduling systems utilizing **Celery** and **RabbitMQ**, optimizing backend task execution and improving overall process management.\n• Engaged in comprehensive error diagnostics and performance metrics analysis, resulting in enhanced system observability and response times."
+    }
+  ],
+  "skills": "  **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n  **Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n  **API Technologies**\n\tREST/gRPC APIs, Microservices, APIs\n\n  **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, relational databases, non-relational databases\n\n  **DevOps**\n\tAWS (EC2, S3, Lambda), Azure, Docker, Kubernetes, GitHub Actions, Azure DevOps, modern deployment strategies, containerisation, system observability, performance metrics, error diagnostics\n\n  **Cloud & Infrastructure**\n\tAWS, Azure\n\n  **Other**\n\tautomated testing, production backends, backend architecture, strong typing languages, internet networking concepts, public key infrastructure, system security, encryption, authentication, authorisation, model based engineering, data model design, UML, flexibility with tools, communication across disciplines, experience in regulated industry, data residency requirements, knowledge of SOC2, knowledge of ISO 27001, IEC62304 compliance"
+}

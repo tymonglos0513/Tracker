@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior FullStack Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior FullStack Engineer with 10+ years of experience in Backend and Frontend development, specializing in creating robust **RESTful APIs** and high-performance applications using **Node.js**, **Express**, **React**, and **Next.js**. Proficient in leveraging modern frameworks and tools such as **TypeScript**, **Docker**, **Kubernetes**, and **Terraform** to optimize CI/CD pipelines and implement **serverless architectures**. Expertise in cloud services including **AWS**, ensuring reliable and scalable solutions. Adept at integrating AI/ML capabilities with a focus on **model APIs**, **LangChain**, and **Mastra AI**, while also skilled in data management using **PostgreSQL**, **MongoDB**, and **Redis**. Proven track record of successful project contributions at leading organizations, and committed to maintaining high standards of **authentication**, **error handling**, and **caching** strategies.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior FullStack Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered robust **RESTful APIs** and backend services using **Node.js** and **Express** to enhance user experiences and automate workflows, serving over **10K users** monthly.\nDeveloped and maintained microservices deployed with **Docker** and orchestrated with **Kubernetes**, achieving a **30%** reduction in deployment time.\nImplemented **CI/CD** pipelines utilizing **Terraform**, automating infrastructure deployment and scaling on **AWS**, resulting in a **40%** improvement in release frequency.\nCreated interactive front-end applications using **React**, **Next.js**, and state management with **Redux Toolkit**, improving performance by **25%** for data-heavy applications.\nIntegrated third-party services and APIs, including **GraphQL** queries and **WebSockets**, to enhance real-time data handling and user interaction features.\nLed the design and implementation of **authentication** mechanisms using **OAuth2** and **JWT**, ensuring secure access to sensitive data and APIs.\nUtilized **MongoDB** and **PostgreSQL** for data storage solutions, optimizing query performance through **drizzle** and **Prisma**, and enhanced data integrity by implementing comprehensive **error handling** strategies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Designed and implemented **RESTful APIs** using **Node.js** and **Express**, ensuring seamless communication between frontend and backend with low latency.\nDeveloped microservices and containerized applications with **Docker**, optimizing CI/CD pipelines for efficient deployment processes across **AWS** and **Azure**.\nEngineered state management solutions with **Redux Toolkit** and **Zustand** for responsive **React** applications, enhancing user interactions by **25%**.\nCreated highly scalable frontend applications using **Next.js** and **React**, leveraging **Tailwind** for efficient styling and **shadcn/ui** for improved user experience.\nIntegrated authentication mechanisms using **OAuth2** and **Azure AD B2C**, successfully implementing security measures that reduced vulnerabilities by **30%**.\nManaged databases using **PostgreSQL** and implemented caching strategies with **Redis** to improve data retrieval times by **40%**.\nCollaborated with cross-functional teams to drive project timelines and deliverables, facilitating **5** successful product launches in **2023**.\nUtilized **Terraform** for infrastructure as code, automating the deployment of environments and achieving setup efficiency improvements of **60%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **TypeScript**, **Node.js**, and **Express** to develop and maintain robust **RESTful APIs** for seamless integration between frontend and backend systems, improving data flow efficiency by **25%**.\nDesigned and implemented microservices using **Docker** and **Kubernetes**, significantly enhancing deployment processes and reducing downtime by **30%**.\nDeveloped dynamic user interfaces with **React**, **Next.js**, and state management solutions like **Redux Toolkit** and **Zustand**, resulting in a more responsive and user-friendly experience.\nIntegrated **PostgreSQL** and **MongoDB** for efficient data storage and retrieval, optimizing query performance and reducing response times by **40%**.\nImplemented **CI/CD** pipelines leveraging **Terraform** to automate deployments and infrastructure management, streamlining operations and decreasing deployment time by **50%**.\nExecuted data caching strategies using **Redis** and **BullMQ** to improve application speed and reduce server load, increasing data retrieval efficiency by **20%**.\nEnsured the application adhered to best practices in **authentication**, **error handling**, and **API architecture**, maintaining the highest standards of application security and reliability.\nCollaborated with cross-functional teams to integrate AI solutions using **LangChain**, **Mastra AI**, and **PGVector**, enhancing the application’s capabilities in handling data retrieval and embeddings.\nConducted thorough code reviews and testing using **PyTest** and mock servers to ensure code quality and robustness, achieving over **95%** test coverage in critical modules."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript, TypeScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery, Node.js, Express, Fastify, NestJS\n\n**Frontend Frameworks**\n\tReact, Next.js, React Query, Zustand, Redux Toolkit, Tailwind, shadcn/ui\n\n**API Technologies**\n\tREST/gRPC APIs, RESTful APIs, API architecture, GraphQL, Model APIs, WebSocket, Authentication, Error handling\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, Serverless architectures\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, Prisma, Drizzle\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, Terraform, CI/CD\n\n**Cloud & Infrastructure**\n\tAWS, Azure\n\n**Other**\n\tMicroservices, Kafka, AI/ML Tools (Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow), BullMQ, RabbitMQ, Caching, Rate limiting, Webhook handling, LLM fundamentals, Data chunking, Embeddings, Retrieval, Mastra AI, AI SDK, PGVector, Pinecone",
+  "apply_company": "Akveo"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a highly skilled Software Engineer with 8 years of experience, I possess a strong command of **Python**, alongside proficiency in **C++**, **Go**, and **Rust**. My background includes extensive expertise in **Linux** and **Linux OS architecture**, enabling me to develop and optimize robust solutions. I am adept in cloud security practices, ensuring applications are built to withstand security challenges. My experience with **Docker** and **Kubernetes** facilitates the delivery of scalable, containerized applications while adhering to best practices in CI/CD automation.\n\nWith a solid foundation in software development, I have designed and executed enterprise-grade solutions in the healthcare and financial sectors. I consistently focus on code quality and maintainability, employing best practices to enhance performance. My robust analytical and problem-solving skills, combined with a dedication to continuous improvement, drive successful project outcomes.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained complex software solutions using **C++**, **Rust**, and **Go**, contributing to robust and scalable application architectures within the healthcare and financial sectors.\nArchitected microservices-based applications utilizing **Docker** and **Kubernetes** to ensure seamless deployments and operations in cloud environments.\nImplemented **Linux OS architecture** principles to enhance system performance and reliability across deployments, ensuring adherence to enterprise-level security protocols.\nEngaged in **cloud security** practices to safeguard sensitive healthcare and financial data, aligning with compliance requirements.\nLed projects focusing on performance optimization and efficient resource utilization through advanced **eBPF** implementations in production workloads.\nDesigned and developed backend services in **Python** to support cross-platform mobile applications, ensuring responsiveness and reliability.\nCollaborated with cross-functional teams to integrate comprehensive testing strategies using tools such as Jest and PyTest, achieving **90%** test coverage across critical modules.\nFacilitated agile development processes through CI/CD pipeline implementations leveraging **Docker** and **Kubernetes**, enhancing deployment frequency and reliability.\nCollaborated with data engineering teams to optimize data processing pipelines using **Python** and **Linux** for data ingestion and analytics, handling over **1 million** records daily.\nDelivered feature enhancements that improved system functionality and user experience, achieving a **15%** increase in user satisfaction scores and minimizing response times by **30%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Docker** to build and support scalable software solutions, enhancing system performance and reliability in a high-volume transaction environment.\nDeveloped cloud-based applications with **Kubernetes** and **Linux** systems, ensuring secure deployment and management of containerized applications adhering to **Cloud Security** best practices.\nImplemented performance optimization techniques in **C++** and **Rust**, leading to a **25%** increase in processing speed and efficiency across critical systems.\nCollaborated on kernel development projects, leveraging **Linux OS architecture** to enhance system functionalities and ensure compatibility with evolving technology requirements.\nAdopted the principles of microservices architecture using **Go** to improve maintainability and scalability, achieving a **30%** reduction in system downtime and increased deployment frequency.\nIntegrated modern software development methodologies, ensuring compliance with best practices and quality standards, thus reducing bug rates by **15%** in production environments.\nDesigned and developed robust event-driven systems through the use of asynchronous programming in **Python** and **Kubernetes**, allowing for efficient handling of high-throughput events and notifications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Go** to develop and optimize software solutions, ensuring high performance, reliability, and maintainability across diverse applications.\nEmployed **Docker** and **Kubernetes** for containerization and orchestration, streamlining deployment processes and enhancing operational efficiency across **Linux** environments.\nImplemented **Linux OS architecture** knowledge to develop robust applications delivering consistent performance within server environments.\nArchitected backend systems with a focus on **C++** to enable efficient memory management and high-speed processing tailored for Linux-based applications.\nDeveloped and maintained secure software frameworks by applying techniques in **Cloud Security**, ensuring system integrity and user data protection while adhering to compliance standards.\nEngaged in **kernel development** to enhance system performance, scalability, and hardware interaction for mission-critical applications.\nCollaborated in a cross-functional team to deliver high-quality software products, achieving 99.9% uptime in production environments.\nMentored junior developers on best practices in **Rust**, **Docker**, and **eBPF**, fostering a culture of continuous improvement within the engineering team.\nContributed significantly to the architecture and design of modular, reusable code, reducing project completion time by 30% and optimizing software maintainability.\nLed the implementation of automated testing frameworks, enhancing code quality and reliability with a decrease in post-release defects by 25%."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, C++, Rust, Go\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD & Infrastructure as Code: Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tLinux, Linux OS architecture\n\n**Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow, Authentication & Security: Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, eBPF, Cloud Security, Kernel development, Software development"
+}

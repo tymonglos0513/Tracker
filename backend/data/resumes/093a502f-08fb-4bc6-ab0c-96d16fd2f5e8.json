@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior SRE Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior SRE Engineer with 13+ years of comprehensive experience in cloud-native environments, specializing in **AWS**, **Kubernetes**, and **Terraform** for effective infrastructure automation. Expertise in CI/CD practices and a robust understanding of security measures, ensuring resilient and secure system operations. Proficient in monitoring and observability tools such as **Datadog**, **Prometheus**, and **Grafana** to maintain high-performance applications in both healthcare and financial sectors.\n\nSkilled in full stack development with hands-on experience in **JavaScript/TypeScript**, **Python**, and **Flutter**, coupled with deep expertise in frontend frameworks like **React**, **Next.js**, **Vue**, and backend technologies such as **Node.js**, **FastAPI**, and **Django**. Proven ability to build AI/ML-powered platforms that facilitate predictive analytics and automation, alongside a strong background in MLOps using **MLflow**, **Airflow**, and **Kubeflow**. Well-versed in compliance-driven development, ensuring solutions align with HIPAA, FHIR, PCI DSS, and SOC 2 standards.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SRE Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Executed infrastructure automation strategies using **Terraform** to manage and provision cloud resources effectively, ensuring enhanced scalability and reliability across environments.\nUtilized **AWS** services and **Kubernetes** for container orchestration, enabling seamless deployment and management of applications, achieving a 99.99% uptime across production workloads.\nImplemented robust CI/CD pipelines integrating **GitHub Actions** and **Datadog** for monitoring, ensuring continuous integration and delivery of features with an automated deployment frequency of 20 times per week.\nMonitored system performance and reliability utilizing tools like **Prometheus** and **Grafana**, providing real-time insights and alerts, reducing incident response time by 30%.\nCollaborated on cross-functional teams to enforce security best practices within the infrastructure, securing applications against vulnerabilities and maintaining compliance with industry standards.\nDeveloped and maintained operational documentation for infrastructure processes and guidelines, aiding in the onboarding of new team members and ensuring operational continuity.\nProvided expert support in troubleshooting highly complex production systems, identifying root causes with a focus on performance optimization, which improved overall system efficiency by 25%.\nIntegrated advanced monitoring solutions to ensure infrastructure health and alerting, resulting in a significant decrease in service interruptions and consistency in user experience.\nExecuted thorough incident management processes, utilizing a well-defined escalation strategy to enhance team response times and issue resolution, achieving a mean time to recovery (MTTR) of under 2 hours.\nFacilitated knowledge sharing sessions on up-to-date **AWS** technologies, enhancing team skill sets and fostering a culture of continuous learning and improvement."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **infrastructure automation** strategies using **Terraform** for efficient resource provisioning on AWS, optimizing deployment workflows by **30%**.\nManaged and maintained **Kubernetes** clusters, improving application uptime and scalability, achieving a **99.9%** service level agreement (SLA) for production workloads.\nConfigured and utilized monitoring tools like **Datadog**, **Prometheus**, and **Grafana** to ensure system performance and reliability; reduced incident response time by **40%** through proactive alerts and dashboards.\nDesigned and executed CI/CD pipelines to automate application deployments across multiple environments, resulting in a **70%** reduction in deployment times.\nCreated and enforced security best practices, enhancing infrastructure security and compliance adherence, achieving **95%** compliance with industry security standards.\nCollaborated with cross-functional teams to improve system resilience, automating incident response plans, and refining disaster recovery strategies.\nUtilized programming skills in **Golang** for developing internal tools that improved the efficiency of operational tasks by **50%**.\nConducted regular performance tuning and optimization of cloud resources in **AWS**, resulting in **20%** cost savings on infrastructure expenses."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented and maintained **AWS** infrastructure for high-availability systems, utilizing **Terraform** for infrastructure as code, ensuring efficient deployment processes and resource management.\nEngineered CI/CD pipelines leveraging tools like **Datadog**, **Prometheus**, and **Grafana** to monitor system performance and streamline application delivery, achieving a deployment success rate of **98%** over **6 months**.\nUtilized **Kubernetes** for container orchestration, managing over **100** microservices across multiple environments, resulting in reduced downtime and improved scalability of services.\nDeveloped and enforced security best practices within the platform architecture, including **role-based access control (RBAC)** and **OAuth 2.0**, ensuring secure access management compliant with GDPR regulations.\nAutomated workflow processes through infrastructure automation tools, reducing manual intervention by **75%** and accelerating deployment cycles by **40%**.\nCollaborated on implementing best practices in **Golang** for backend service development, enhancing performance metrics and reducing latency in service requests by up to **30%**.\nConducted regular performance audits and system evaluations to proactively address potential bottlenecks, contributing to an overall system uptime of **99.9%**.\nDesigned monitoring and alerting systems that leverage **Prometheus** and **Grafana**, enabling real-time insights into system health and resource utilization.\nSupported incident response processes, contributing to a rapid resolution time that improved system reliability and user satisfaction ratings by **25%**.\nMentored junior engineers in best practices around **Kubernetes**, **security**, and **infrastructure automation** to ensure team agility and adherence to technical standards."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tGolang, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: RDS, S3, Azure: App Services, Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n**Monitoring & Logging:**\n\tDatadog, Prometheus, Grafana\n\n**Other:**\n\tAirflow, MLflow, Kubeflow, Nginx, Let’s Encrypt, Certbot, infrastructure automation",
+  "apply_company": "Mambu Payments"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Frontend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Senior Frontend Engineer with 13+ years of experience specializing in crafting high-performance applications within the healthcare and financial sectors. Proficient in **HTML**, **CSS**, **JavaScript**, **TypeScript**, and frameworks such as **Vue.js** and **Nuxt.js**. Demonstrated expertise in using **Vite** for optimized development workflows and implementing **Websockets** and **Fetch API** for real-time data handling.  \nSkilled in leveraging **Git** for version control, and implementing **Docker** and **Kubernetes** for container orchestration. Strong understanding of **CI/CD** processes using **Gitlab CI** and **Github Actions**, along with a commitment to best practices in **Unit tests** and performance optimization through **PWA** and **Service workers**. Also experienced in applying solid **Design patterns** and working with **Microfrontends** for scalable solutions. A proven track record in developing AI/ML-powered platforms and deploying cloud-native systems on **AWS** and **Azure**, ensuring compliance with industry standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Frontend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed responsive web applications utilizing **HTML**, **CSS**, and **JavaScript** frameworks including **Vue.js** and **TypeScript**, ensuring seamless user interfaces across devices for enhanced user experience.\n• Implemented CI/CD pipelines leveraging **GitHub Actions** for automated testing and deployment, improving release times by **30%**.\n• Collaborated on microfrontend architecture, employing design patterns to create modular applications that simplify maintenance and scalability.\n• Created and managed unit tests with **Jest** and **Cypress**, achieving a test coverage of over **85%** and ensuring code reliability and quality during integrations.\n• Utilized **Docker** and **Kubernetes** for containerization and orchestration of applications, facilitating smooth deployment processes and consistent environments across stages.\n• Enhanced application performance through **Websockets** and **Fetch API** for real-time data updates, crucial for user engagement in dynamic applications.\n• Conducted code reviews and implemented best practices in responsive design and PWA functionality, significantly improving site performance metrics by **25%**.\n• Designed component libraries using **Vue.js** and **Nuxt.js** that align with branding and accessibility standards, resulting in a consistent look and feel across all products.\n• Optimized build times with **Vite**, reducing initial load time by **40%** while ensuring high performance in production environments.\n• Actively engaged with cross-functional teams to gather requirements and provide technical guidance, leading to the successful launch of **5** major features in the last fiscal year."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **HTML**, **CSS**, **JavaScript**, and **TypeScript** to architect and develop robust user-facing applications, achieving a **50%** reduction in load time across platforms.\nImplemented modern frameworks including **Vue.js (3)** and **React (18)** with **Next.js** to enhance user experience, resulting in a **30%** increase in user engagement metrics.\nIntegrated RESTful services with **Docker** and **Kubernetes** to streamline deployment processes, reducing deployment times by **40%**.\nUtilized **Websockets** for real-time data updates in the UI, improving the responsiveness of applications during peak usage periods.\nApplied design patterns and best practices in **microfrontends** architecture to ensure scalable and maintainable codebase across multiple teams.\nConducted unit testing using frameworks compatible with **Git**, ensuring bug-free and performant releases, thus reducing post-launch issues by **25%**.\nCollaborated in **CI/CD** pipelines using **Gitlab CI** and **GitHub Actions** to automate testing and deployment, achieving consistent delivery of features and fixes.\nEnhanced user interactions through **PWA** features and service workers, resulting in an application experience akin to native apps on mobile platforms."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized frontend architectures using **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, and **Vue.js** (3) to create responsive, SEO-friendly e-commerce UIs, enhancing mobile-first engagement and accessibility compliance (WCAG 2.1).\nUtilized **Vue.js** with **Nuxt.js** to develop high-performance single-page applications (SPAs), achieving a **30%** improvement in load times across various devices.\nImplemented Progressive Web Applications (PWAs) with **service workers** and caching strategies, increasing engagement and reducing server load by **25%** through efficient resource management.\nEngineered real-time features using **WebSockets** to facilitate dynamic updates for shopping carts and order tracking, enhancing user interactivity and experience.\nCollaborated on CI/CD processes using **Gitlab CI** and **Github Actions**, reducing deployment times by **40%** and increasing the frequency of releases to support ongoing feature development.\nApplied best practices in **Git** version control for collaborative code management, maintaining orderly project workflows and enabling more effective team collaboration.\nDeveloped unit tests to ensure code reliability and project maintainability, achieving **95%** code coverage across critical application components.\nExplored microfrontend architectures to enhance code modularity and team scalability, allowing for incrementally upgradable components without affecting the overall application performance.\nAdministered role-based access control (RBAC) and OAuth 2.0 standards to safeguard sensitive user data and maintain compliance with GDPR throughout the frontend application.\nEngaged in design patterns and best practices for scalable web development, delivering maintainable and efficient code structures adaptable to future project requirements."
+    }
+  ],
+  "skills": "**Frontend Frameworks:**\n\tHTML, CSS, JavaScript, TypeScript, React, Vue, Angular, Vue.js, Nuxt.js, Vite, PWA, Service workers, Microfrontends\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Express\n\n**API Technologies:**\n\tWebsockets, Fetch API\n\n**Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Git\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**Cloud & Infrastructure:**\n\tAWS: RDS, S3, Azure: Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Design patterns, Unit tests"
+}

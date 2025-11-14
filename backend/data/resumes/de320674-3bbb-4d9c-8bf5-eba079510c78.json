@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Dynamic Software Engineer with over 10 years of experience in backend system development, specializing in high-performance APIs and scalable services. Proficient in **Python 3** and **FastAPI**, with a strong foundation in database management using **PostgreSQL**, **ScyllaDB**, and **Redis**. Experienced in message brokering with **RabbitMQ**, **Apache Kafka**, and **Google Pub/Sub**, as well as handling data analysis via **Google BigQuery**. Highly skilled in deploying applications on **Google Cloud Platform (GCP)** and creating cloud-native architectures. Versatile in designing and implementing automation tools and AI/ML pipelines, with a proven track record of delivering impactful solutions for industry leaders like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python 3** with **FastAPI** to engineer backend services, streamlining document automation, user onboarding, and reporting workflows.\nDesigned and implemented event-driven solutions leveraging **Celery** and **Redis** for managing asynchronous processing of over **1,000** financial transaction requests daily.\nDeployed and maintained **microservices** on **Azure App Services**, utilizing **Terraform** to ensure seamless infrastructure management as code, with an uptime of **99.9%**.\nDeveloped and maintained data pipelines for regulatory data exchange utilizing **Apache Airflow** and **Azure Functions**, facilitating timely and accurate processing of over **500** data transactions per hour.\nLed security assessments and successfully integrated **OAuth2** and **Azure AD B2C** to establish robust and scalable user authentication systems for **10,000+** users.\nCollaborated with cross-functional teams to resolve system integration challenges, ensure compliance with regulations, and oversee release strategies, improving deployment efficiency by **25%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed scalable backend systems using **Python 3** and **FastAPI** to automate document workflows, streamline user onboarding, and enhance complex reporting processes.\n• Engineered event-driven microservices employing **Celery** and **Redis**, facilitating asynchronous processing of **financial data** and transaction requests, achieving processing speed improvements by **30%**.\n• Orchestrated the deployment of microservices on **Azure App Services**, utilizing **Terraform** for infrastructure automation, resulting in consistent and scalable environments across **15+** deployments.\n• Constructed robust data pipelines for secure regulatory data exchange with **Apache Airflow** and **Azure Functions**, streamlining data flow by **40%** through task automation.\n• Conducted thorough security audits to ensure compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** to effectively manage authentication and enhance access controls for over **2,000** users.\n• Actively collaborated with cross-functional teams to ensure smooth system integration, adherence to regulatory compliance, and successful management of releases, maintaining a **95%** success rate in deployments."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python 3** to develop backend services for trade execution, portfolio management, and account tracking, enhancing trading operations and increasing processing efficiency by **25%**.\nEngineered real-time price feed processors with **Redis**, **asyncio**, and **WebSockets** to deliver up-to-the-minute trading data for high-frequency transactions, achieving latency reductions of up to **15ms**.\nCollaborated closely with frontend teams to deliver data through **REST APIs** and **WebSocket** channels, ensuring seamless user interaction with the platform and a **30%** reduction in response time.\nEnsured the platform met regulatory requirements, including **MiFID II** and **GDPR**, while adhering to internal data security protocols to maintain compliance and data integrity.\nImplemented comprehensive test suites with **PyTest**, **tox**, and mock servers, streamlining QA and CI processes, which improved development cycles by **20%**.\nIntroduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and process management for efficiency and reliability.\nLeveraged **Google Cloud Platform**, including **Google BigQuery** for data analysis and **ScyllaDB** for high throughput, ensuring the platform scales effectively with user demand."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+)\n\n**Backend Frameworks**\n\tFastAPI\n\tFlask\n\tDjango\n\tCelery\n\n**Frontend Frameworks**\n\tJavaScript\n\n**API Technologies**\n\tREST/gRPC APIs\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda)\n\tGoogle Cloud Platform\n\n**Databases**\n\tPostgreSQL\n\tMySQL\n\tMongoDB\n\tRedis\n\tScyllaDB\n\n**DevOps**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tAzure DevOps\n\n**Cloud & Infrastructure**\n\tApache Kafka\n\tRabbitMQ\n\tGoogle Pub/Sub\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow\n\tMicroservices\n\tCI/CD\n\tPyTest\n\tGit"
+}

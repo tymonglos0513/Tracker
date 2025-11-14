@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a proficient **DevOps Engineer** with 8 years of experience, I excel in managing cloud infrastructure on **AWS** through services such as **EKS**, **RDS**, **IAM**, **VPC**, and **S3**. My technical skills include proficiency in **Docker**, **Kubernetes**, and **Terraform**, as well as intermediate knowledge of **OpenTofu**, **Crossplane**, and **service mesh architectures** such as **Linkerd** and **Istio** for enhancing microservices. I have successfully implemented CI/CD pipelines using **GitLab** and **Flux**, ensuring efficient and secure deployment processes.\n\nIn addition to my DevOps skills, I bring a strong foundation in full-stack development leveraging **JavaScript/TypeScript**, **Python**, and **Flutter**. My experience includes building enterprise-grade applications in the healthcare and financial sectors, integrating AI/ML capabilities for predictive analytics. I am adept at crafting monitoring solutions using tools such as **Prometheus**, **Grafana**, and **CloudWatch**, and have utilized **Sentry** for application performance management. My background encompasses developing robust applications that comply with regulations like HIPAA and PCI DSS, alongside evolving MLOps workflows to enhance machine learning model delivery.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented enterprise-level DevOps pipelines integrating **GitLab**, **Docker**, **Kubernetes** (EKS), and **Terraform** to enhance application deployment and management efficiency.\nArchitected scalable infrastructure utilizing **AWS** services, including **RDS**, **IAM**, **VPC**, and **S3**, ensuring secure and cost-effective solutions across cloud environments.\nManaged container orchestration and microservices using **Docker**, **Kubernetes**, and service mesh architectures like **Linkerd** and **Istio** to ensure high availability and performance for multiple applications.\nEstablished monitoring and logging solutions with **Prometheus**, **Grafana**, and **CloudWatch** to deliver insights into system performance, application health, and resource utilization metrics.\nConfigured CI/CD pipelines with **GitLab** and **Flux**, automating testing, linting, and security scans for multi-environment deployments, increasing deployment frequency by **30%**.\nIntegrated **Sentry** for real-time error tracking and performance monitoring across applications to ensure optimal user experience.\nUtilized scripting with **Go** and **Bash** to automate routine tasks and streamline workflow processes, enhancing operational efficiency.\nDeveloped infrastructure as code (IaC) using **Terraform** and **OpenTofu** to provision, manage, and version cloud resources securely and predictably.\nCollaborated on implementing networking and security controls across multiple microservices to enhance compliance with industry standards.\nLeveraged cloud-native storage solutions and data management strategies, improving data retrieval times by **25%** across production systems.\nEnsured a high degree of automation and disaster recovery through effective configuration management and orchestration strategies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented and managed cloud infrastructure as code (IaC) using **Terraform** and **OpenTofu**, facilitating deployment and scaling of applications on **AWS** with services like **RDS**, **S3**, and **EKS** to support high availability and redundancy.\nDeveloped orchestration strategies with **Kubernetes** and **Docker**, improving deployment efficiency by **75%** through automated CI/CD pipelines integrated with **GitLab**.\nConfigured and monitored resource utilization and application performance metrics utilizing **Prometheus**, **Grafana**, and **CloudWatch**, decreasing latency by **30%** in production environments.\nEstablished networking and security controls within AWS environments, enabling secure access and compliance while managing **IAM** roles and **VPC** configurations for enhanced security protocols.\nImplemented service mesh architectures using **Linkerd** and **Istio** to streamline service-to-service communication, enabling observability and load balancing in distributed systems.\nDesigned and maintained logging and monitoring systems with **Sentry** to track application performance and errors, resolving issues **40%** faster than previous methods.\nAutomated incident response protocols using **Bash** scripts, significantly reducing manual intervention and minimizing downtime during critical failures.\nStandardized infrastructure management through tooling like **Flux**, providing GitOps capabilities that improved deployment reliability and traceability by **60%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented Infrastructure as Code (IaC) using **Terraform** and **OpenTofu** to automate cloud resource management across **AWS** (including **EKS**, **RDS**, **S3**, and **VPC**), improving deployment speed by **40%** and enhancing system reliability.\nManaged container orchestration with **Kubernetes**, ensuring seamless scaling of microservices through mastery of **Docker** and service mesh architectures like **Linkerd** and **Istio**.\nConfigured proactive monitoring and alerting systems using **Prometheus**, **Grafana**, and **CloudWatch** to maintain uptime over **99.9%** and optimize resource usage across all environments.\nExecuted CI/CD pipelines in **GitLab** and enabled deployment workflows with **Flux**, significantly reducing code integration times from several hours to mere minutes.\nDeveloped security protocols within **IAM** for controlled access management and ensured compliance with **GDPR** standards and robust data protection measures.\nStreamlined logging and error tracking processes with **Sentry**, achieving a **25%** reduction in operational issues through quick detection and resolution of incidents.\nGeneralized networking and security controls to enhance the organizational security posture, following best practices for access control and resource segregation.\nContributed to system resilience and scaling strategies by utilizing **Bash** scripting for automation and operational efficiencies, successfully decreasing manual workload by **30%**.\nEngaged in cross-functional team collaboration to improve deployment strategies, adopting **service mesh architectures** to optimize inter-service communications and monitoring effectiveness."
+    }
+  ],
+  "skills": " **Backend Frameworks:**\n\tPython(FastAPI, Flask, Django)\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), EKS, IAM, VPC\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, OpenTofu, Crossplane, Prometheus, Grafana, CloudWatch, Sentry, Flux\n\n **Cloud & Infrastructure:**\n\tNetworking and security controls, service mesh architectures, Linkerd, Istio\n\n **Other:**\n\tBash, Go, MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Helm, Docker Compose"
+}

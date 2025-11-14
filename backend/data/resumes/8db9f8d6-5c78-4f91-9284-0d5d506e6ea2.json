@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Data Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Data Engineer with 10+ years of experience in leveraging **AWS**, **SQL**, **Python**, and **R** to build and optimize data pipelines and backend systems. Proficient in utilizing **Fivetran**, **Databricks**, **Redshift**, and **Snowflake** to manage and analyze data effectively. Skilled in orchestrating workflows with **Airflow** and ensuring data integrity with formats like **JSON** and **Parquet**. Strong foundation in leveraging **HL7** standards for healthcare data and proficient in managing workflow orchestration with **Kafka**. Experienced in **Linux** environments and deploying with **Docker**. Demonstrated history of driving impactful projects at leading organizations, including VISA, Sii Poland, and Reply Polska, while maintaining a focus on scalable solutions and cloud-native technologies.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "• Engineered data integration solutions leveraging **Fivetran** and **Databricks** to automate workflows and enhance data accessibility.\n• Designed and implemented ETL processes utilizing **AWS**, **Redshift**, and **Snowflake** for efficient data storage and retrieval, ensuring optimal performance for large datasets of up to **10 TB**.\n• Developed and maintained data pipelines with **Apache Airflow** for workflow orchestration, achieving a **20%** reduction in processing time.\n• Collaborated with data analysts to create SQL queries for data manipulation and reporting, enhancing data insights for business decisions by **15%**.\n• Created scalable data models in **Python** and **R**, facilitating the integration of various data sources including **HL7** for healthcare data exchange.\n• Managed infrastructure as code using **Terraform** for provisioning on **AWS**, ensuring high availability and reducing deployment time by **30%**.\n• Implemented containerization practices with **Docker** to streamline application deployment and improve compatibility across different environments.\n• Conducted security assessments and established authentication systems with **OAuth2** and **Azure AD B2C**, enhancing system security and user management.\n• Collaborated with cross-functional teams to resolve system integration challenges and oversee release strategies, ensuring project goals are met on time."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Fivetran** and **Databricks** to perform efficient data integration and transformation, enhancing data accessibility by **30%**.\nDeveloped and maintained data pipelines using **Apache Airflow** and **Python**, facilitating automated workflows and ensuring a **20%** increase in data processing speed.\nImplemented robust cloud solutions on **AWS** and **Azure**, managing infrastructure as code using **Terraform** to ensure scalable and repeatable deployments.\nDesigned data models on **Redshift** and **Snowflake**, optimizing query performance and achieving a **15%** reduction in data retrieval time.\nCreated and managed data ingestion processes using **SQL** and **JSON** formats, ensuring seamless compatibility with various data sources.\nEngineered secure data exchange protocols, integrating **HL7** standards and enforcing compliance through regular security audits.\nCollaborated with cross-functional teams leveraging **Kafka** for efficient data streaming and **Docker** for containerization, resulting in improved integration and deployment workflows."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Designed and developed robust data pipelines utilizing **Python** and **SQL** for seamless integration and transformation of data across systems, leading to a **30%** increase in data processing efficiency.\nImplemented ETL processes with **Fivetran** and **Databricks** to automate data workflows, ensuring high-quality data is readily available for analytics and reporting.\nLeveraged **AWS** cloud services to deploy scalable and secure data solutions, achieving a **99.9%** uptime for mission-critical applications.\nUtilized **Snowflake** and **Redshift** for efficient storage and retrieval of large datasets, optimizing query performance by **25%** through strategic database design.\nCreated data orchestration workflows with **Apache Airflow** to automate ETL processes, enabling timely data delivery and reporting.\nDeveloped and maintained containerized applications using **Docker**, facilitating consistent deployment across multiple environments.\nConducted unit testing and data validation using **JSON** and **Parquet** formats to ensure data accuracy and integrity throughout the data pipeline.\nCollaborated with cross-functional teams to ensure the architecture aligns with business requirements and compliance standards, enhancing data governance and security measures."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, R, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, JSON\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda)\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, Redshift, Snowflake\n\n**DevOps**\n\tDocker, GitHub Actions, Azure DevOps, Terraform, CI/CD\n\n**Cloud & Infrastructure**\n\tAWS, Azure\n\n**Other**\n\tAirflow, Kafka, Microservices, PyTest, Git, Fivetran, Databricks, Linux, Parquet, HL7",
+  "apply_company": "ProblemShared"
+}

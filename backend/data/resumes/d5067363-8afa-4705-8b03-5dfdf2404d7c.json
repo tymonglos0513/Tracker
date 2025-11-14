@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Tech Lead - Backend, Frontend & Beyond",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Dynamic Tech Lead with 8 years of experience in backend and frontend development, specializing in building scalable internal tools and improving workflows. Proficient in developing robust authorization systems utilizing **RBAC**, **ABAC**, and **ReBAC** methodologies to enhance security. Experienced in full-stack development with **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**, ensuring efficient collaboration and clear system documentation across remote teams.\nMy expertise in cloud platforms such as **Azure** and **AWS** complements my skills in building high-performance solutions within the healthcare and financial sectors. I have led the development of comprehensive enterprise-grade applications that integrate AI/ML for predictive analytics and real-time data processing, all while adhering to compliance standards like HIPAA and PCI DSS. Additionally, I bring a solid foundation in microservices architecture and CI/CD automation, driving continuous improvement and fostering effective communication within cross-functional teams.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Tech Lead - Backend, Frontend & Beyond",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Spearheaded backend development by architecting and constructing secure authorization systems, implementing **RBAC**, **ABAC**, and **ReBAC** to ensure robust access control across applications.\n- Led frontend development initiatives, collaborating with UI/UX designers utilizing libraries and frameworks such as **React** (17-18) to enhance user experience in internal tool development.\n- Improved workflow efficiency by integrating CI/CD pipelines in both backend and front-end development processes, utilizing tools like **GitHub Actions**, **Azure DevOps**, and **CircleCI** for seamless deployments across environments.\n- Managed system documentation to ensure clear communication and understanding of technical processes among team members, enhancing organizational knowledge.\n- Fostered collaboration within multi-disciplinary teams, exercising effective communication skills in a remote working environment to drive project success.\n- Developed scalable applications leveraging **Python** with **FastAPI**, **Node.js**, and modern JavaScript frameworks, ensuring compliance with industry standards.\n- Designed and deployed enterprise-level DevOps strategies for backend services serving both **web** and **API**, incorporating security scans for robust application integrity.\n- Implemented comprehensive test strategies using **Jest**, **Cypress**, **PyTest**, and **Postman**, achieving 95% test coverage across applications and enhancing system reliability.\n- Utilized cloud-native architecture, integrating **PostgreSQL**, **MongoDB**, and **Redis** to optimize large-scale data storage and querying for efficient internal tools management.\n- Played a pivotal role in improving application workflows by integrating features powered by AI and machine learning for enhanced operational efficiency and decision-making.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed and implemented **authorization systems** using **RBAC**, **ABAC**, and **ReBAC**, ensuring secure access for users across the financial platform.\n• Collaborated with cross-functional teams to enhance **backend development** processes, driving improvements in system efficiency and reliability.\n• Spearheaded the **frontend development** of user-centric financial applications, utilizing **React (18)**, **Vue 3**, and **Next.js** for a seamless user experience.\n• Enhanced internal tools by refining workflows, leading to a **25%** increase in operational efficiency in financial monitoring.\n• Established comprehensive **system documentation** to support ongoing development and facilitate onboarding, increasing team productivity by **30%**.\n• Fostered a culture of effective **communication skills** and collaboration in a **remote working** environment, improving project delivery timelines.\n• Initiated and drove **workflow improvement** projects that reduced transaction processing times by **15%**, utilizing event-driven systems with **Kafka** and **RabbitMQ**.\n• Coordinated the deployment of technology solutions using **Azure Machine Learning** to leverage AI/ML for fraud detection, contributing to a **40%** decrease in fraudulent transactions.\n• Orchestrated ETL processes with **Apache Airflow** and **Azure Data Factory**, facilitating the data ingestion of over **1M transactions** monthly.\n• Led the creation of real-time dashboards with **D3.js** and **Power BI Embedded**, enabling the tracking of **10K+** transactions daily."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Led **backend development** initiatives, optimizing services for a global e-commerce platform utilizing **Python (FastAPI, Django)** and **Node.js (NestJS, Express)**, achieving **99.9% uptime** and ensuring scalability across critical modules such as checkout, cart, and order fulfillment.\n• Implemented **authorization systems** including **RBAC** to secure user access, ensuring platform-wide compliance with GDPR and enhancing data protection strategies.\n• Guided **frontend development** efforts by creating applications using **React (18)**, **Vue 3**, and **Angular**, resulting in **30% faster load times** and improved user engagement metrics across web and mobile platforms.\n• Spearheaded the integration of **real-time features** through **WebSockets** and event-driven architecture with **Kafka** and **RabbitMQ**, facilitating real-time customer support and dynamic inventory tracking, leading to a **20% improvement** in user satisfaction scores.\n• Developed and maintained internal tools aimed at **workflow improvement**, enhancing team productivity through better collaboration practices and streamlined communication.\n• Authored detailed **system documentation** for technical implementations, supporting ongoing maintenance and onboarding of team members in a remote working environment.\n• Cultivated strong **communication** and **organizational skills** within cross-functional teams to ensure alignment on project goals and timelines.\n• Executed **workflow enhancements** by leveraging **Redis** for caching and optimizing data access, significantly improving application responsiveness and reducing database load by **40%**.\n• Integrated AI-driven recommendation systems using **scikit-learn**, **LightGBM**, and **TensorFlow**, boosting **conversion rates** by tailoring experiences based on user behavior.\n• Collaborated in the secure management of payment workflows by implementing **Stripe**, **PayPal**, and **Razorpay**, ensuring compliance with PCI standards while minimizing transaction risks."
+    }
+  ],
+  "skills": " **API Technologies:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2\n\n**Backend Frameworks:**\n\tPython(FastAPI, Flask, Django), backend development\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular), frontend development\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow, authorization systems, internal tools development, workflow improvement, system documentation, collaboration, remote working, communication skills, organizational skills"
+}

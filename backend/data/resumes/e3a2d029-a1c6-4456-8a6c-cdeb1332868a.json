@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Devops Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior DevOps Engineer with 13+ years of experience specializing in cloud-native system deployment on **Azure** and **AWS**, with expertise in **Kubernetes**, **Terraform**, and **Azure DevOps**. Proficient in scripting with **Bash** and **PowerShell**, managing databases with **SQL**, and leveraging Azure services like **Service Bus**, **Azure App Services**, and **Azure Storage**. Skilled in implementing **CI/CD pipelines**, ensuring seamless software integration and delivery. \n\nAdditionally, adept in using **GitHub** for version control and maintaining Agile development practices. Strong background in delivering high-performance applications in the healthcare and financial industries, with thorough knowledge of compliance-driven development aligned with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Experienced in building AI/ML-powered platforms and managing MLOps workflows using tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Devops Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented DevOps practices using **Azure DevOps**, enhancing CI/CD pipelines with **GitHub Actions** and **CircleCI** for efficient software delivery across **Azure App Services** and on-premises environments.\nManaged infrastructure as code (IaC) utilizing **Terraform** and **Azure Bicep**, facilitating seamless deployment processes and environment consistency.\nOrchestrated containerized applications with **Kubernetes**, ensuring high availability and fault tolerance in production through optimized resource management.\nUtilized scripting languages like **Bash** and **PowerShell** to automate operational tasks and improve system efficiency.\nDesigned and maintained SQL databases in **Azure SQL** and other RDBMS, focusing on performance optimization and data integrity for Agile development.\nConfigured **Azure Service Bus** for reliable messaging between distributed services, while enabling integration with legacy systems.\nStreamlined deployment workflows through the use of **Azure Storage** and **Azure Private Link** for secure data access.\nFacilitated agile methodologies within the team, promoting iterative development and continuous feedback loops.\nConducted monitoring and logging setups using built-in **Azure Monitor** and third-party tools to ensure application performance and uptime.\nCollaborated with cross-functional teams to uphold best practices in CI/CD, enabling rapid deployment cycles with quality assurance at every stage.\nEstablished comprehensive documentation and knowledge-sharing resources to enhance team agility and minimize knowledge silos."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented infrastructure as code using **Terraform** and **Azure Bicep** for automated deployment of cloud resources in **Azure**, ensuring consistent and repeatable deployments across environments.\nManaged CI/CD pipelines in **Azure DevOps**, facilitating smooth integration and delivery processes to accelerate development cycles by **30%**.\nOrchestrated containerized applications with **Kubernetes**, improving resource utilization and reducing deployment times by **40%** in production environments.\nDeveloped and maintained scripts in **Bash** and **PowerShell** for automation of routine tasks, enhancing operational efficiency and reducing manual interventions by **25%**.\nAdministered **Azure App Services** and **Azure Storage** for hosting applications and managing data, ensuring robust performance and scalability.\nUtilized **SQL** for managing and querying databases, efficiently handling data transactions in high-availability scenarios, maintaining data integrity and performance.\nEnsured secure communication and data transfer by implementing **Azure Private Link** and **Service Bus** for handling sensitive operational data and ensuring compliance.\nCollaborated in Agile teams to continuously improve processes, contributing to sprint planning and retrospectives to enhance team productivity and delivery quality.\nEngaged in monitoring and troubleshooting of cloud resources, leveraging Azure Monitor and Log Analytics to proactively detect issues before impacting users."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Azure DevOps** and **GitHub** for continuous integration and deployment, streamlining project workflows and enhancing collaboration, resulting in a **30%** reduction in deployment time.\nImplemented **Kubernetes** for container orchestration, managing over **50** microservices, ensuring optimal resource allocation, and enabling automated scaling and load balancing.\nDeveloped Infrastructure as Code (IaC) using **Terraform** and **Azure Bicep** to provision and manage cloud resources, improving deployment consistency and reducing manual configuration errors by **40%**.\nAutomated application deployments and infrastructure management through **Bash** and **PowerShell** scripting, facilitating a more efficient operational environment.\nMonitored application performance and reliability through **Azure App Services** and **Azure Storage**, ensuring high availability and resilience in production environments.\nIntegrated message-driven architectures utilizing **Azure Service Bus** to foster communication between services, leading to reduced latency and improved data flow throughout the platform.\nConfigured secure access protocols and environmental settings using **Azure Private Link**, enhancing network security and data protection compliance.\nAdopted Agile methodologies to ensure timely project delivery and responsiveness to changing business needs, contributing to a **25%** increase in team productivity.\nFacilitated collaborative reviews and implemented feedback loops through **GitHub**, improving code quality and adherence to best practices.\nOrchestrated cloud resource scaling and management using **Pulumi**, enabling dynamic adjustments to resource allocations in response to user demand and traffic spikes."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tBash, PowerShell\n\n**Backend Frameworks:**\n\tPython: FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tAzure API Management\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Azure DevOps, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure: App Services, Blob Storage, SQL Database, Azure Storage, Azure Private Link, Azure Bicep, Pulumi\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Agile, Service Bus",
+  "apply_company": "Ascent"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Sebastian Lukasz Nowak",
+  "role_name": "Senior DevOps Engineer",
+  "email": "sebastiannowak425@outlook.com",
+  "phone": "+48 732 489 778",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/sebastian-nowak-756157396/",
+  "profile_summary": "As a seasoned Senior DevOps Engineer with 8 years of experience, I excel in implementing and managing DevSecOps practices, utilizing tools such as **Kubernetes**, **Terraform**, **GitLab CI**, **Ansible**, and **Docker** to ensure robust and secure application deployment. I have a comprehensive background in cloud solutions across **AWS** and **Azure**, integrating services like **AWS Lambda** and **Azure Functions** to deliver scalable applications that meet business needs.\nMy expertise includes advanced monitoring and observability using **Prometheus**, **Grafana**, and the **ELK** stack, paired with configuration management and continuous integration practices. I am adept in managing databases, including **PostgreSQL**, **MySQL**, and **DynamoDB**, and specialize in writing scripts in **Python** and **Bash** to automate workflows. Additionally, my experience with microservices architecture and CI/CD automation aligns well with compliance standards.\nBringing a strong technical foundation, I have successfully developed enterprise-grade solutions in the healthcare and financial sectors, leveraging my knowledge in frameworks such as **React**, **Next.js**, and **FastAPI**. I am committed to enhancing system reliability and performance while ensuring security protocols such as **mTLS** and implementing SLOs, SLIs, and SLAs.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "",
+      "from_year": "2001",
+      "to_year": "2006",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "DeepInspire",
+      "from_date": "Oct 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and maintained **Kubernetes** orchestration for scalable deployment processes across microservices, ensuring high availability and fault tolerance.\nDeveloped CI/CD pipelines using **GitLab CI** and automated deployment strategies with **Terraform** and **Ansible**, optimizing deployment times by **30%**.\nDesigned monitoring and logging solutions utilizing **Prometheus**, **Grafana**, and **ELK**, to provide insights into system performance and application health in real-time.\nArchitected and managed infrastructure on **AWS** and **Azure**, including **DynamoDB**, **PostgreSQL**, and **AWS Lambda**, resulting in reduced costs and improved performance by **25%**.\nImplemented **DevSecOps** practices to secure the build pipeline, incorporating security scans and compliance checks, leading to a decrease in vulnerabilities identified in production by **40%**.\nCollaborated with software development teams to ensure optimal performance of applications using **Docker** containers, enhancing build efficiencies and reducing environmental inconsistencies.\nDeployed service meshes using **Istio** and API management solutions with **Kong** to provide routing, security, and monitoring functionalities for microservices.\nIntegrated **OpenTelemetry** for distributed tracing, enabling improved debugging capabilities across multi-service applications with an increase in incident response time by **50%**.\nMaintained and optimized databases such as **MySQL**, **Cassandra**, and **Redshift** for performance and scalability, ensuring data consistency and high throughput.\nEstablished Service Level Objectives (SLOs), Service Level Indicators (SLIs), and Service Level Agreements (SLAs) to maintain operational performance metrics across teams.\nConducted regular infrastructure audits and health checks using **Bash** scripts and **Go**, proactively identifying potential issues and applying fixes to improve system resilience.\nLed knowledge-sharing sessions on **DevOps** best practices, tools, and **mTLS** configurations, enhancing team capabilities and fostering a culture of continuous improvement."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Britenet",
+      "from_date": "Sep 2015",
+      "to_date": "Sep 2021",
+      "location": "Poland",
+      "responsibilities": "- Implemented CI/CD pipelines using **GitLab CI** and **Docker**, enhancing deployment speed by **40%** and maintaining service reliability in production environments.\n- Configured and managed container orchestration using **Kubernetes**, facilitating seamless scaling and high availability for microservices-based applications.\n- Developed infrastructure as code solutions using **Terraform** to provision cloud resources on **AWS** and **Azure**, reducing deployment time by **30%** and ensuring infrastructure consistency.\n- Automated system configurations and deployments with **Ansible**, improving system provisioning efficiency and reducing manual intervention by **50%**.\n- Monitored system performance and health using **Prometheus** and **Grafana**, achieving a notable **25%** reduction in downtime through proactive identification of issues.\n- Integrated observability solutions using **OpenTelemetry** in cloud-native applications to ensure high system reliability and performance metrics tracking.\n- Employed **DevSecOps** principles to integrate security into the CI/CD pipeline, enhancing the security posture of cloud applications through automated testing and compliance checks.\n- Utilized **PostgreSQL** and **MySQL** for managing financial data, implementing optimized database queries that improved data retrieval performance by **20%**.\n- Established logging and monitoring with the **ELK** stack, providing transparent visibility into application performance and system anomalies.\n- Implemented application control with **APIGEE** and **Kong**, ensuring secure and efficient API management for financial applications.\n- Developed robust disaster recovery strategies utilizing **AWS Lambda** and **Azure Functions** to ensure business continuity during unforeseen events.\n- Collaborated with cross-functional teams to drive adoption of best practices for cloud migration and implementation of service-level objectives (SLOs) and indicators (SLIs) in financial systems."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Binary Studio",
+      "from_date": "Jan 2007",
+      "to_date": "Aug 2015",
+      "location": "UK",
+      "responsibilities": "Implemented infrastructure as code using **Terraform** for provisioning and managing cloud environments in **AWS** and **Azure**, ensuring a consistent and scalable deployment strategy for e-commerce applications across multiple regions.\nAutomated CI/CD pipelines with **GitLab CI**, facilitating continuous integration and delivery for various services written in **Python** and other languages, achieving deployments in under **5 minutes** with zero downtime.\nManaged container orchestration with **Kubernetes** and **Docker**, allowing for efficient application scaling and resource management, achieving a **30%** reduction in resource consumption by optimizing pod configurations.\nMonitored application performance and infrastructure health using **Prometheus** and **Grafana**, implementing SLOs and SLIs to meet business objectives and improve uptime to **99.9%**, enhancing user satisfaction.\nImplemented security best practices and DevSecOps methodologies using **Ansible**, **Vault**, and **mTLS**, ensuring compliance with industry standards and securing sensitive information within the e-commerce ecosystem.\nUtilized **ArgoCD** and **Flux** for continuous delivery and GitOps practices, enabling real-time synchronization of application states, which increased deployment frequency by **50%**.\nIntegrated logging and monitoring solutions using **ELK** and **OpenTelemetry**, streamlining debugging processes and providing actionable insights to reduce error resolution times by **40%**.\nFacilitated API management with **APIGEE** and **Kong**, optimizing traffic routing and enhancing application security through policy enforcement and rate limiting to safeguard against DDoS attacks.\nCollaborated with software engineering teams to design and implement microservices architecture, leveraging **Go**, **Ruby**, and various databases like **PostgreSQL** and **Cassandra**, significantly improving application modularity and scalability.\nEstablished regular security audits and vulnerability assessments using automated tools, leading to a **35%** decrease in security incidents and ensuring robust protection against data breaches."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Bash, Go, Ruby\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPIGEE, Kong, Istio\n\n**Serverless and Cloud Functions:**\n\tAWS Lambda, Azure Functions\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, DynamoDB, Cassandra, Redshift\n\n**DevOps:**\n\tDocker, Kubernetes, GitLab CI/CD, GitHub Actions, Terraform, Ansible, Helm, Docker Compose, ArgoCD, Flux, Prometheus, Grafana, ELK\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, Vault\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, DevSecOps, Linux, mTLS, SLOs, SLIs, SLAs",
+  "apply_company": "Adfinis"
+}

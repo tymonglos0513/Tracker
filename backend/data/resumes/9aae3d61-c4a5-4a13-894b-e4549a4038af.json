@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Fullstack Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Fullstack Engineer with 13+ years of experience in delivering high-performance applications across various industries, with a robust foundation in **Python**, **JavaScript**, and **TypeScript**. Demonstrated expertise in algorithmic solutions and software engineering practices, specializing in the development of AI/ML-powered platforms for predictive analytics and automation.\nProficient in both frontend and backend development utilizing **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Adept at implementing microservices and event-driven architectures, along with CI/CD pipelines for efficient software delivery.\nExperienced in deploying cloud-native systems on **AWS** and **Azure**, ensuring compliance with industry standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Possess strong communication skills and a solid background in MLOps, leveraging tools like **MLflow**, **Airflow**, and **Kubeflow** for model training, serving, and orchestration.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Fullstack Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **JavaScript** (including **TypeScript**) to engineer and develop robust full-stack applications in compliance with industry regulations such as HIPAA and GDPR, enhancing security and data integrity.\nCollaborated in a cross-functional environment, demonstrating exceptional **communication** skills to align technical solutions with business objectives and deliver high-quality software solutions.\nImplemented **AI** innovations by integrating machine learning models for predictive analytics, improving decision-making processes in healthcare and financial services.\nApplied advanced **software engineering practices** to design scalable systems, ensuring maintainability and performance across various platforms.\nDeveloped additional features using modern libraries and frameworks including **React** (versions **17-18**), **Next.js**, and **Vue 3** for dynamic and responsive user interfaces.\nEngineered CI/CD processes with **Fastlane** and **App Center**, achieving streamlined releases and robust application delivery for mobile platforms, reducing deployment time by **30%**.\nTransformed monolithic architecture into microservices leveraging **Docker** and **Kubernetes** (both **AKS** and **EKS**), resulting in a **40%** increase in application scalability and efficiency.\nCreated a reliable data pipeline using **PostgreSQL**, **MongoDB**, and implemented real-time analytics through **GraphQL**, capable of handling over **1 million** data entries daily.\nDelivered data visualization tools powered by **D3.js** and **Chart.js**, enabling comprehensive insights into operational KPIs and user engagement metrics, leading to a **25%** improvement in performance tracking.\nDeveloped and maintained automated testing frameworks using **Jest**, **Cypress**, and **Postman**, resulting in an improved code coverage metric of over **90%**.\nIncorporated **Elasticsearch** and **Azure Cognitive Search** to build high-performance search functionalities, facilitating rapid data retrieval from complex datasets.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **JavaScript** to enhance software engineering practices, ensuring the development of high-quality, maintainable code in line with regulatory requirements.\nImplemented algorithmic solutions to optimize processes, resulting in a **30%** increase in system efficiency.\nCommunicated effectively with cross-functional teams to align project goals, ensuring smooth collaboration and timely delivery of solutions.\nModernized core financial platforms by migrating to microservices architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing scalability and performance for **high-volume** transactional systems.\nBuilt interactive front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies.\nDesigned and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nDeveloped ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **JavaScript** to design and optimize backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability across key modules such as checkout, cart, and order fulfillment.\n\nImplemented algorithmic solutions leveraging **AI** and machine learning to enhance product recommendations, utilizing **scikit-learn**, **LightGBM**, and **TensorFlow** to improve search relevance and conversion rates based on real-time user data.\n\nEngineered real-time features using **WebSockets** and an event-driven architecture with **Kafka** and **RabbitMQ**, providing responsive order updates and dynamic inventory tracking for enhanced customer support.\n\nDeveloped robust frontend applications with **React (18)**, **Vue 3**, and **Angular**, reinforced with **TypeScript**, **Redux Toolkit**, and **Tailwind CSS**, to deliver fast and responsive user experiences on web and mobile platforms.\n\nEmployed databases like **MongoDB**, **PostgreSQL**, and **Redis** for distributed data storage, ensuring efficient, fault-tolerant data access, achieving up to **75%** improvement in performance for high-traffic e-commerce workflows.\n\nIntegrated **Redis** caching for critical data elements such as shopping cart sessions and frequently accessed search results, reducing database read pressure and improving application responsiveness by **40%**.\n\nImplemented feature flags and blue-green deployments using **LaunchDarkly** and **Kubernetes**, facilitating controlled rollouts, A/B testing, and risk mitigation during major updates to enhance software engineering practices.\n\nCreated responsive, SEO-friendly e-commerce interfaces utilizing **Next.js**, **Vue 3 + Nuxt**, and **HTML5/CSS3**, ensuring compliance with accessibility standards (WCAG 2.1) for enhanced mobile-first engagement.\n\nConstructed secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, applying tokenized transactions in compliance with PCI standards to securely handle sensitive information.\n\nUtilized role-based access control (RBAC) and **OAuth 2.0** to ensure secure user access and protect customer data, adhering to GDPR compliance throughout the platform."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tOAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot, Scripting, Algorithmic solutions, Software engineering practices, Communication, CI/CD",
+  "apply_company": "Turing"
+}

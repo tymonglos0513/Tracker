@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior DevOps Engineer with 13+ years of experience in delivering high-performance applications, specializing in **AWS**, **Terraform**, and **CI/CD** pipelines. Proficient in deploying and managing containerized applications using **Kubernetes** and experienced in implementing **GitOps** practices for streamlined development workflows. Skilled in scripting with **Bash** and **Groovy** to automate operational tasks. Experienced in robust cloud security frameworks, ensuring compliance with industry standards.\nIn addition to DevOps expertise, I bring hands-on knowledge of **Python** for backend development, and I am adept at building AI/ML-powered solutions using **FastAPI** and **Django**. A solid track record of developing applications for the healthcare and financial sectors, I am dedicated to creating reliable, compliant solutions while pushing the boundaries of innovation.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD strategies using **GitOps**, deploying pipelines with **Terraform** and **AWS** to automate services and infrastructure management across environments.\nManaged container orchestration with **Kubernetes (1.21)** to ensure availability, scalability, and operational efficiency in production environments.\nLeveraged scripting in **Bash** and **Groovy** for task automation and deployment workflows, enhancing overall productivity and reliability of deployments.\nEnsured **Cloud Security** best practices are integrated throughout the development and deployment processes, focusing on secure configurations and compliance with industry standards.\nDesigned, implemented, and maintained **AWS** infrastructure for various applications, optimizing for cost and performance, with a focus on enabling robust disaster recovery strategies.\nOversaw the deployment of containerized applications using **Docker**, orchestrated by **Kubernetes**, reducing deployment time by **30%**.\nCollaborated with cross-functional teams to implement **CI/CD** practices, resulting in a **40% reduction** in software release cycle time.\nDeveloped monitoring and alerting systems using **AWS CloudWatch** and **Prometheus**, achieving a **99.9%** uptime SLA for critical services.\nConducted regular security audits and implemented enhancements, ensuring a secure cloud environment aligned with compliance policies and frameworks.\nWorked on incident response and troubleshooting, leveraging strong analytical skills to resolve issues quickly and maintain operational continuity."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **AWS** infrastructure and services for scalable application deployments, improving system reliability by **30%**.\nUtilized **Terraform** for infrastructure as code, ensuring consistent environments and reducing setup time by **50%**.\nEmployed **CI/CD** pipelines to automate deployment processes, enhancing delivery speed and reducing errors by **25%**.\nManaged **Kubernetes** clusters for container orchestration, achieved optimal resource utilization leading to a **40%** decrease in operational costs.\nDeveloped scripts in **Bash** and **Groovy** for automating routine tasks, improving efficiency and system responsiveness.\nApplied **Cloud Security** practices to safeguard sensitive data handling within financial applications, achieving compliance with industry standards.\nCollaborated in cross-functional teams, enhancing communication between development and operations to streamline project deliveries.\nMonitored and optimized system performance, achieving a **99.9%** uptime rate in production environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** and **Terraform** to deploy and manage scalable infrastructure, ensuring continuous integration and delivery through **CI/CD** pipelines, enhancing deployment frequency by **40%**.\nImplemented **Kubernetes** for container orchestration, optimizing resource allocation and minimizing downtime during application rollouts, achieving an **uptime of 99.9%**.\nAutomated server provisioning and management via **GitOps**, significantly streamlining development workflows and reducing infrastructure-related errors by **30%**.\nDesigned scripts in **Bash** and **Groovy** to automate routine tasks, contributing to improved developer efficiency and reducing task completion time by an average of **25%**.\nDeveloped and optimized security protocols in accordance with **Cloud Security** best practices, ensuring compliance and safeguarding against vulnerabilities, effectively reducing security incidents by **15%**.\nCollaborated with development teams to integrate infrastructure as code (IaC) practices, enhancing overall system architecture and promoting agile development methodologies.\nConducted performance tuning and troubleshooting for cloud applications, applying industry best practices and monitoring tools to enhance system stability and performance.\nFacilitated knowledge sharing and training sessions on **CI/CD** practices and **Kubernetes** management, fostering a culture of continuous improvement and technical excellence among team members."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, Groovy, Bash\n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:** \n\tReact, Vue, Angular\n\n **API Technologies:** \n\tOAuth2, JWT\n\n **Serverless and Cloud Functions:** \n\tAWS Lambda\n\n **Databases:** \n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:** \n\tDocker, Kubernetes, Terraform, GitOps, CI/CD, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:** \n\tAWS: ECS, RDS, S3; Azure: App Services, Blob Storage, SQL Database\n\n **Other:** \n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot, Helm, Docker Compose",
+  "apply_company": "H2O.ai"
+}

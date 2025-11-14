@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Full-Stack Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Full Stack Developer with over 13 years of experience in crafting high-performance applications, uniquely qualified in implementing **gRPC**, **RESTful APIs**, and adept in working with various database systems including **PostgreSQL**, **MySQL**, and **Neo4j**. Proven ability to develop robust solutions with a focus on **Kubernetes** for container orchestration, alongside establishing **CI/CD** pipelines and employing clean coding practices. Strong capabilities in automation practices, data structures, and algorithms enhance application robustness.\n\nSkilled in languages such as JavaScript/TypeScript, Python, and Flutter, and hands-on expertise in both frontend and backend development using **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experienced in developing AI/ML-powered platforms for predictive analytics, automation, and real-time processing, while proficient in deploying cloud-native systems on **AWS** and **Azure**. Well-versed in compliance-driven development aligned with standards such as HIPAA, FHIR, PCI DSS, and SOC 2, complemented by a robust background in MLOps utilizing **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full-Stack Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained **RESTful APIs** and **gRPC** services to ensure seamless communication between front-end and back-end services.\n• Designed, implemented, and optimized databases using **PostgreSQL** and **MySQL** to enhance data retrieval efficiency and integrity.\n• Collaborated with cross-functional teams to establish **CI/CD** pipelines using cutting-edge tools, resulting in a **30% reduction** in deployment times.\n• Leveraged **Kubernetes** for orchestration of containerized applications, ensuring scalability and high availability with **99.9% uptime**.\n• Employed clean coding practices and strong knowledge of **data structures** and **algorithms** to write efficient, maintainable code, leading to a **25% increase** in system performance.\n• Implemented automation practices to streamline the development lifecycle, achieving enhanced testing coverage and code quality through rigorous testing frameworks.\n• Participated in code reviews and mentoring sessions to foster knowledge sharing and improve overall team productivity, contributing to an increase in team velocity by **15%**.\n• Conducted performance tuning and optimization across the tech stack, ensuring applications meet stringent stability and responsiveness requirements."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **RESTful APIs** and **gRPC** services to enhance communication and integration between front-end applications and back-end systems, improving response times by **40%**.\nUtilized **PostgreSQL** and **MySQL** for optimized database management, achieving data retrieval speeds that improved query efficiency by **30%**.\nEmployed **Kubernetes** for container orchestration, automating deployment processes and scaling applications for increased availability, achieving zero downtime during updates.\nDeveloped and maintained CI/CD pipelines using **automated practices** that reduced deployment time by **25%** while improving code quality through **clean coding** principles.\nApplied advanced **data structures** and **algorithms** in application coding to optimize overall performance and reduce latency in high-load scenarios.\nModernized core financial platforms by migrating to microservices architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\nBuilt interactive front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies.\nDesigned and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nDeveloped ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and optimized **RESTful APIs** and **gRPC** services for a global e-commerce platform, ensuring robust communication between the frontend and backend components, which improved data exchange efficiency by **30%**.\nUtilized **PostgreSQL** and **MySQL** for database management and data storage, ensuring secure and scalable access to customer and transaction data for over **1 million** active users, enhancing data retrieval speeds by **40%**.\nImplemented CI/CD pipelines to facilitate automated testing and deployment, reducing deployment times by **50%** and ensuring high-quality code through **clean coding** practices.\nApplied strong understanding of **data structures** and **algorithms** to enhance system performance while ensuring high availability and low latency across major functionalities like checkout and order processing.\nIntegrated **Kubernetes** for managing containerized applications, enabling seamless scaling and orchestration of microservices while maintaining high availability across different regions.\nCollaborated on automation practices to streamline development workflows, reducing manual efforts by **60%**, thus allowing for quicker feature releases.\nEnhanced application security by implementing RBAC and OAuth 2.0 for user access, ensuring compliance with GDPR standards for **200,000+** users.\nContributed to frontend development leveraging tech stacks such as React (18), Angular, and Vue 3 along with TypeScript and Tailwind CSS, resulting in a **25%** increase in web application performance and user engagement.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\tJavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\n**Frontend Frameworks:**\n\tReact\n\tVue\n\tAngular\n\n**API Technologies:**\n\tgRPC\n\tRESTful APIs\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\tAzure: App Services\n\n**Databases:**\n\tPostgreSQL\n\tMySQL\n\tMongoDB\n\tNeo4j\n\n**DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3\n\tAzure: Blob Storage, SQL Database\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n**Other:**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tKeycloak (OIDC, RBAC)\n\tOAuth2\n\tJWT\n\tNginx\n\tLet’s Encrypt\n\tCertbot\n\tRedis\n\tClean coding\n\tAutomation practices\n\tData structures\n\tAlgorithms\n"
+}

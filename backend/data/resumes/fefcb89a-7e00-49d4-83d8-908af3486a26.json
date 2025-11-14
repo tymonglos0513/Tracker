@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Interoperability Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As an experienced Interoperability Engineer with 8 years in full-stack development, I possess a strong command of HL7, FHIR, SPMS services, and modern integration tools like **Apache Camel** and **Mirth Connect**. My technical expertise encompasses programming languages such as **Java** and **Python**, and I have a proven track record in applying **CI/CD** methodologies to streamline deployment processes.\n\nI am well-versed in building robust **RESTful APIs** and utilizing both SQL (including **MySQL**, **PostgreSQL**) and NoSQL (like **MongoDB**) databases for data management. My cloud experience spans across major platforms including **AWS**, **Azure**, and **Google Cloud**. I leverage containerization technologies such as **Docker** and orchestration with **Kubernetes** for scalable application deployment.\n\nIn addition to my core interoperability skills, I have extensive experience with **Apache Kafka** for event streaming and monitoring tools like the **ELK Stack**, **Prometheus**, and **Grafana** for observability. I excel in creating and executing unit tests using **JUnit** and **Mockito** to ensure application reliability. My background includes developing enterprise-grade platforms with a focus on compliance standards such as HIPAA and PCI DSS, while continuously integrating AI/ML capabilities into applications for enhanced functionality.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Interoperability Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and integrated **HL7**, **FHIR**, and **SPMS services** for seamless healthcare data exchange among systems.\nDeveloped **RESTful APIs** using **Java** and **Spring Boot** to ensure interoperability and facilitate communication between diverse healthcare applications.\nDesigned and executed **CI/CD** pipelines for automated deployment using **Docker** and **Kubernetes**, enhancing development efficiency and system reliability.\nUtilized **Apache Camel** and **Mirth Connect** for efficient data transformation and routing between various healthcare data formats and systems.\nManaged data storage solutions utilizing both **SQL** (e.g., **PostgreSQL**, **MySQL**) and **NoSQL** (e.g., **MongoDB**) databases for healthcare applications, improving data accessibility and performance.\nImplemented distributed messaging for real-time data processing using **Apache Kafka**, enabling robust data integration workflows.\nConducted unit and integration testing using **JUnit** and **Mockito** to ensure high code quality and system reliability.\nDeveloped monitoring and logging solutions via **Prometheus**, **Grafana**, and the **ELK Stack** for real-time system observability and insights.\nBuilt cloud-native applications leveraging **AWS**, **Azure**, or **Google Cloud** services for scalability and fault tolerance with a deployment of **version 1.2.0**.\nConfigured **Confluent Schema Registry** to maintain data schema consistency across various services in the interoperability framework.\nCollaborated with various teams to troubleshoot and resolve interoperability issues, ensuring compliance with healthcare regulations and standards."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Designed and implemented **RESTful APIs** for interoperability solutions using **Java** and **Python**, ensuring seamless integration and communication between healthcare systems based on **HL7** and **FHIR** standards.\n• Developed and optimized microservices architectures with **Spring Boot** and **Apache Camel**, leading to a **30%** improvement in deployment speeds and system scalability.\n• Integrated **HL7** and **FHIR** specifications into existing systems using **Mirth Connect**, enhancing data exchange processes and interoperability between various health information systems.\n• Utilized **Docker** and **Kubernetes** for container orchestration, achieving a **25%** reduction in system downtimes through efficient resource management and CI/CD practices.\n• Implemented solutions that leverage **Apache Kafka** for real-time data streaming, improving data handling capabilities by processing **over 1 million** messages per day across multiple platforms.\n• Developed backend services with **PostgreSQL** and **MongoDB**, ensuring high performance and security for storing and retrieving patient data, leading to improved query times by **40%**.\n• Conducted automated testing using **JUnit** and **Mockito**, enhancing code quality by maintaining a **90%** test coverage across developed services.\n• Monitored system performance and reliability utilizing the **ELK Stack**, **Prometheus**, and **Grafana**, enabling proactive maintenance strategies based on real-time analytics and monitoring.\n• Successfully led a team to adopt **AWS**, **Azure**, and **Google Cloud** services for scalable and reliable deployment options, contributing to a **50%** reduction in infrastructure costs."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Enhanced data interchange across health services by designing and implementing **HL7** and **FHIR** protocols, ensuring seamless communication and data integrity between diverse systems.\nDeveloped and maintained robust **SPMS services** utilizing **Java** and **Python**, contributing to improved operational efficiency and accurate data tracking with **RESTful APIs**.\nOptimized data processing workflows using **Apache Camel** and **Mirth Connect**, enabling real-time data transformations and orchestrations with a focus on health information exchanges.\nCreated and tested scalable microservices with **Spring Boot**, ensuring that all services are compliant with industry standards and can handle increased loads during peak usage times.\nImplemented CI/CD practices, utilizing **Docker** and **Kubernetes** for automated deployments and orchestration, drastically reducing deployment times by **50%** and ensuring high availability.\nLeveraged **Apache Kafka** for real-time data streaming, ensuring reliable event-driven architectures, which improved data flow and response times by **30%**.\nUtilized **SQL** and **NoSQL** databases such as **PostgreSQL** and **MongoDB** for efficient data storage, retrieval, and management, ensuring data redundancy and availability across the platform.\nConducted unit testing and integration testing with **JUnit** and **Mockito**, improving overall code quality and reducing bug rates by **40%**.\nMonitored application performance and health using the **ELK Stack**, **Prometheus**, and **Grafana** to provide actionable insights and maintain compliance with health industry regulations.\nCollaborated with cross-functional teams to design secure, scalable, and compliant interoperability solutions by integrating with cloud services like **AWS**, **Azure**, and **Google Cloud**, ultimately enhancing service delivery and user experience."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Java, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Spring Boot\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tRESTful API, HL7, FHIR, Apache Camel, Mirth Connect\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Google Cloud\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, NoSQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tELK Stack, Prometheus, Grafana\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, JUnit, Mockito, Redis, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Apache Kafka, Confluent Schema Registry, CI/CD"
+}

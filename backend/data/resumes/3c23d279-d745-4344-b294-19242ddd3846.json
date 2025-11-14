@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "AI Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-118083397/",
+  "profile_summary": "AI Engineer with 10+ years of experience in developing and deploying scalable solutions using cutting-edge technologies. Proficient in **TypeScript**, **Python**, and **React**, with a deep understanding of **APIs** for seamless integration and **AWS** for cloud services. Skilled in LLM Production, **OCR**, image processing, and creating document pipelines that optimize workflows and enhance data retrieval. Experienced in leveraging **vector databases** and embedding techniques to improve machine learning models and AI applications.\nDemonstrated expertise in orchestration frameworks for streamlining processes and driving efficiency. A strong background in full-stack development, employing technologies like **Node.js**, **FastAPI**, **Django**, and **Flutter**, with a focus on delivering high-performance software solutions specifically in healthcare and finance.\nPassionate about integrating AI capabilities to build intelligent systems that leverage real-time analytics, automation, and machine learning, while ensuring compliance with industry standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable **LLM Production** solutions leveraging **Python** and **TypeScript** for data processing and API integration, ensuring high efficiency and performance in AI workloads.\n• Developed and maintained RESTful **APIs** for seamless interaction between AI models and client applications, focusing on **React** for dynamic frontend experiences.\n• Applied advanced data processing techniques using vector databases and embeddings to enhance the AI model's performance in various use cases, including document management and OCR.\n• Expertly orchestrated workflows using **orchestration frameworks** to streamline the deployment and management of AI models across multiple environments, improving turnaround times by **30%**.\n• Created and optimized document pipelines for effective data ingestion, featuring image processing capabilities to enhance AI understanding of complex documents.\n• Implemented real-time analytics for AI-driven applications, delivering insights and recommendations based on large datasets with metrics tracked for performance evaluation.\n• Developed cross-platform mobile applications incorporating AI features, ensuring compatibility with **AWS** services for backend processing and data storage.\n• Collaborated with data scientists to refine machine learning models, focusing on integration of **embeddings** and performance metrics for continuous improvement.\n• Oversaw the deployment and management of AI applications in production, achieving a **99.9%** uptime and ensuring robust performance under load.\n• Integrated advanced search capabilities using AI technologies to enhance user interaction with unstructured data, resulting in improved user satisfaction rates.\n• Conducted thorough testing and optimization of AI features ensuring compliance with industry standards and regulatory frameworks."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Designed and built LLM production models utilizing **Python** for effective deployment and integration with existing systems, driving advancements in AI capabilities.\nDeveloped APIs to facilitate seamless communication between different services and models, enhancing system interoperability and user experience in AI-driven applications.\nUtilized **TypeScript** to construct robust applications, ensuring type safety and optimizing performance across various components of the application stack.\nImplemented **React** for developing dynamic, user-centric interfaces that enable real-time interaction with AI-driven features such as document processing and image analysis.\nOrchestrated workflows using **orchestration frameworks** to automate model training, deployment, and monitoring processes, resulting in a 40% improvement in operational efficiency.\nLeveraged **vector databases** to optimize the storage and retrieval of high-dimensional data, significantly reducing query response time by 30%.\nIntegrated **AWS** services for scalable storage solutions and to enhance the deployment pipelines for machine learning models, ensuring high availability and reliability.\nDeveloped document pipelines using **OCR** technology, allowing for automated extraction and processing of relevant information from images and documents, increasing data entry speed by 50%.\nEngineered embedding models to improve the context understanding in natural language processing tasks, directly contributing to better predictive accuracy in AI solutions.\nApplied image processing techniques to enrich the data fed into machine learning models, enabling enhanced performance in feature detection and categorization tasks."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Engineered and optimized AI-driven production systems using **Python** and **TypeScript**, focusing on high efficiency in **LLM Production** with scalable APIs to handle large data processing effectively.\nDesigned robust data pipelines for document processing, leveraging **OCR** and **image processing** technologies to enhance data extraction accuracy and throughput in a production environment.\nImplemented scalable **embeddings** and **vector databases** for AI model storage, ensuring quick retrieval and inference, thus improving overall model response times by **30%**.\nAdopted **AWS** services for orchestrating workflows and managing infrastructure, leading to a **25%** reduction in operational costs due to optimized resource allocation.\nDeveloped modular and maintainable APIs using **React** and **TypeScript**, enhancing front-end interactions while ensuring seamless integration with backend services.\nUtilized orchestration frameworks for deploying and managing AI applications, which improved deployment frequencies by **40%** and reduced downtime risks.\nIntegrated and monitored real-time performance metrics of AI models, enabling rapid adjustments to enhance accuracy and efficiency for target user interactions.\nCollaborated with cross-functional teams to define needs for AI solutions, translating business requirements into technical specifications and capabilities.\nEnsured compliance with data privacy legislation (GDPR) while developing data handling and storage solutions, protecting user information throughout the system's operation."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, TypeScript\n\n**Frontend Frameworks:**\n\tReact\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**API Technologies:**\n\tAPIs\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Vector databases\n\n**Other:**\n\tLLM Production, Embeddings, OCR, Image processing, Document pipelines, Orchestration frameworks"
+}

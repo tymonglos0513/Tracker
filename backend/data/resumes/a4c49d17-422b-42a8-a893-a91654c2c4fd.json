@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Full Stack Developer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-kotlinski-08ba40390/",
+  "profile_summary": "As a Full Stack Developer with 8 years of experience, I possess strong skills in **gRPC**, **RESTful APIs**, **PostgreSQL**, **MySQL**, **Neo4j**, **Kubernetes**, and **CI/CD** practices. I excel at building high-performance solutions in the healthcare and financial sectors, utilizing modern **JavaScript/TypeScript**, **Python**, and **Flutter** technologies. My proficiency in full-stack development is bolstered by expertise in **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. \nI have a solid background in clean coding, automation practices, data structures, and algorithms, necessary for developing robust applications. Additionally, I have extensive cloud knowledge with **Azure** and **AWS**, and have successfully led enterprise-grade platform development that integrates AI/ML capabilities for predictive analytics, intelligent automation, and real-time data processing. \nWith experience in microservices architecture and event-driven systems, I prioritize compliance with standards like HIPAA, FHIR, PCI DSS, and SOC 2. I am also skilled in building machine learning pipelines and implementing MLOps workflows using tools such as **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Developer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained scalable, full-stack solutions with a focus on **PostgreSQL**, ensuring efficient data handling and integrity across applications.\n- Integrated **RESTful APIs** and **gRPC** services for seamless communication between microservices and front-end applications, enhancing system reliability and performance.\n- Employed **Kubernetes** to orchestrate and manage containerized applications, enabling efficient deployment and scaling of microservices in cloud environments.\n- Implemented robust **CI/CD** pipelines for streamlined development workflows, automating deployment processes and ensuring quality through continuous integration practices.\n- Employed clean coding techniques to produce high-quality code that adheres to best practices, enhancing readability and maintainability of both front-end and back-end services.\n- Designed and optimized data structures and algorithms for efficient data processing, improving performance metrics by up to **30%** in data-heavy applications.\n- Architected scalable healthcare and financial platforms using **TypeScript**, **Python (FastAPI)**, and modern front-end frameworks like **React (17-18)** and **Vue (3.x)**, ensuring compliance with regulatory standards (e.g., HIPAA, PCI DSS).\n- Developed cross-platform mobile applications using **Flutter** and **React Native**, optimizing user experiences across iOS and Android with seamless state management using **Provider** and **Redux**.\n- Led the re-architecture of monolithic applications into microservices using **Docker**, allowing for increased scalability and fault tolerance.\n- Designed cloud-native data architectures using **MongoDB** and **GraphQL**, optimizing large-scale data storage and querying.\n- Built MLOps pipelines utilizing **MLflow** and **Apache Airflow** for continuous training and deployment of machine learning models, enhancing model accuracy by **20%**.\n- Collaborated with data scientists, integrating NLP models using **spaCy** and **Hugging Face Transformers** into core applications via **RESTful APIs** for advanced document processing.\n- Established comprehensive test strategies using **Jest**, **Cypress**, and **Postman**, ensuring robust testing across unit, integration, and end-to-end levels for both web and API services."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and integrated **RESTful APIs** and **gRPC** services to streamline communication between front-end and back-end systems, enhancing application responsiveness and reliability by up to **30%**.\nUtilized **PostgreSQL** and **MySQL** for data management, ensuring efficient database architecture and optimal query performance with an emphasis on clean coding practices and efficient data structures.\nImplemented **Kubernetes** for container orchestration, achieving improved deployment strategies and reducing downtime during updates by **25%** through CI/CD automation practices.\nLed the design and development of robust, scalable financial platforms by adopting a microservices architecture with Node.js (NestJS/Express) and Python (FastAPI, Django), contributing to a **40%** increase in system throughput for high-volume transaction processing.\nBuilt dynamic front-end applications using **React (18)**, **Vue 3**, and **Next.js**, applying Redux Toolkit and **Tailwind CSS** to create engaging user interfaces that improved user satisfaction ratings by **15%**.\nOrchestrated real-time data processing using **RabbitMQ**, **Kafka**, and **Azure Service Bus**, facilitating an event-driven architecture that enhanced transaction monitoring efficiency and provided timely alerts to compliance issues.\nDeveloped ETL pipelines leveraging **Apache Airflow** and **Azure Data Factory**, allowing batch and real-time financial data ingestion, which improved reporting speed by **35%**.\nEngineered AI/ML solutions for fraud detection with **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, applying sophisticated algorithms that successfully flagged suspicious transactions, enhancing transaction security.\nCreated machine learning pipelines for credit scoring and churn prediction using **MLflow** and **Airflow**, integrating advanced analytics into backend services for swift real-time decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and optimized **RESTful APIs** and **gRPC** services, leveraging **PostgreSQL** and **MySQL** databases, ensuring robust and scalable backend solutions for a global e-commerce platform.\nEngineered clean coding standards and automation practices to maintain high quality in development, employing advanced **data structures** and algorithms to enhance performance across critical modules such as checkout and order fulfillment.\nImplemented **Kubernetes** for orchestration of microservices, facilitating seamless CI/CD pipelines that allowed for efficient deployment, testing, and maintenance of applications.\nIntegrated frontend applications utilizing **React** (18) and **Vue 3**, ensuring highly responsive user experiences through effective UI/UX strategies, while ensuring accessibility compliance (WCAG 2.1).\nOptimized database interactions with **PostgreSQL** and **Neo4j**, achieving up to **30% faster** query performance in high-traffic scenarios, while maintaining data integrity and responsiveness.\nAutomated deployment processes within **Kubernetes** environments, allowing for rapid iteration cycles and immediate rollback capabilities during feature releases.\nEnhanced system performance through the implementation of clean coding practices, reducing bug rates by **25%** and increasing code maintainability across various project modules.\nUtilized monitoring and logging tools to assess application health, achieving **99.9% uptime** under high load conditions, thereby ensuring reliability for end-user transactions.\nDeveloped secure, efficient workflows for payment integration using third-party services such as Stripe and PayPal, adhering to PCI compliance and best security practices."
+    }
+  ],
+  "skills": " **API Technologies:**\n\tgRPC, RESTful APIs\n\n **Databases:**\n\tPostgreSQL, MySQL, Neo4j\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Programming Languages:**\n\tPython (FastAPI, Flask, Django), JavaScript/TypeScript (React, Vue, Angular)\n\n **Other:**\n\tautomation practices, clean coding, data structures, algorithms, MLflow, Airflow, Kubeflow\n\n **Authentication & Security:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot"
+}

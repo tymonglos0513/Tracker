@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior DevOps Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Dynamic Senior DevOps Engineer with over 10 years of experience in building and managing robust cloud infrastructure and CI/CD pipelines. Proficient in utilizing **AWS**, **GCP**, **Terraform**, **Pulumi**, **Kubernetes**, **Service mesh**, and **GitHub Actions** to automate deployment and ensure high availability. Expertise in backend development with **Python** (FastAPI, Django, Flask), and networking principles, complemented by a strong understanding of monitoring solutions such as **Grafana** and observability tools like **OpenTelemetry**. Proven ability to collaborate with cross-functional teams on complex projects in top-tier organizations, including VISA, Sii Poland, and Reply Polska, driving efficiency and innovation.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Terraform** to manage infrastructure as code, ensuring seamless cloud operations across **AWS** and **GCP** environments.\nEngineered CI/CD pipelines with **GitHub Actions** to automate deployments, achieving a reduction in deployment time by **30%**.\nImplemented container orchestration with **Kubernetes** to enhance application resilience and scalability, overseeing more than **50** microservices.\nDeveloped and deployed applications in **Python** and **Go** with an emphasis on performance and reliability, improving response times by **15%**.\nIntegrated **OpenTelemetry** and **Grafana** for comprehensive monitoring and observability of deployed services, facilitating proactive system management.\nDesigned and configured service meshes with **Envoy** to enhance microservices communication, increasing operational efficiency.\nCollaborated with networking teams to optimize configurations for **DNS** and other network services, ensuring minimal downtime and high availability."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Applied expertise in **Terraform** to automate infrastructure deployment on **Azure App Services**, ensuring a consistent and scalable environment across **9** applications.\nEngineered robust CI/CD pipelines utilizing **GitHub Actions** to streamline the deployment process, reducing deployment time by **30%** and enhancing system reliability.\nImplemented monitoring solutions with **OpenTelemetry** and **Grafana**, achieving **99.9%** uptime by identifying and resolving performance issues in real-time.\nDeveloped event-driven microservices in **Python** and **FastAPI** for efficient handling of document workflows and reporting needs, enabling a **40%** increase in processing speed.\nManaged containerized deployments with **Kubernetes**, enhancing the scalability and reliability of microservice applications with a focus on resource optimization.\nCollaborated closely with cross-functional teams to ensure regulatory compliance and successful integration within a **GCP** and **AWS** multi-cloud environment.\nPerformed security audits and established secure access controls integrating **OAuth2** and **Azure AD B2C** across all platforms, ensuring strict adherence to industry security standards."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Leveraged **GCP** and **AWS** to implement cloud infrastructure solutions, ensuring high availability and scalability for backend services.\nUtilized **Terraform** and **Pulumi** for infrastructure as code (IaaS) deployments, achieving consistent environment setups across development, testing, and production with **99.9%** uptime.\nDesigned CI/CD pipelines using **github actions** to automate deployment processes, reducing deployment times by **50%** and increasing release frequency by **30%**.\nIntegrated **Kubernetes** for container orchestration, enhancing application management and resource utilization in dynamic environments.\nArchitected service mesh strategies with **Envoy** to improve microservices communication and observability, resulting in **40%** faster service response times.\nImplemented monitoring solutions using **OpenTelemetry** and **Grafana**, providing real-time insights and performance metrics that increased operational efficiency by **25%**.\nCollaborated with development teams to streamline networking and DNS services, improving latency and response times for user requests by **20%**.\nConducted thorough performance testing and troubleshooting using **Python** and **Go**, achieving optimal stability and reliability for deployed applications.\n"
+    }
+  ],
+  "skills": "bold: **Programming Languages**\n\tPython (3.8+), JavaScript, Go\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS, GCP, Azure, Lambda\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tKubernetes, Docker, GitHub Actions, Azure DevOps, CI/CD, Terraform, Pulumi, Argocd, Service mesh, Envoy, OpenTelemetry, Grafana\n\n**Cloud & Infrastructure**\n\tAWS (EC2, S3), IaaS\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, PyTest, Git, networking, dns",
+  "apply_company": "Burny Games"
+}

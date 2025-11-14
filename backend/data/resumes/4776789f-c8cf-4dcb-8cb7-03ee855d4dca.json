@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior FHIR Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a dedicated Senior FHIR Engineer with 8 years of full-stack development experience, I excel in leveraging **FHIR**, **HL7**, and **RESTful API** standards to deliver high-performance solutions specifically within the healthcare sector. I possess strong proficiency in **Java**, **C#**, and **Python**, coupled with proficient use of **JavaScript** frameworks including **React**, **Next.js**, and **Vue** for frontend development, as well as **Node.js** for backend services.\n\nMy cloud experience encompasses deploying applications on **Azure**, **AWS**, and **GCP**, ensuring robust and compliant solutions in line with HIPAA and FHIR standards. I have successfully integrated systems with **Epic EHR** and implemented **SMART on FHIR** for enhanced healthcare data accessibility. My solid foundation in microservices architecture, along with CI/CD automation, has enabled me to build secure applications while adapting to event-driven systems efficiently.\n\nAdditionally, I bring valuable insight into medical coding systems such as **SNOMED CT**, **LOINC**, **ICD-10**, **CPT**, and **RxNorm**, ensuring that technical implementations align with healthcare industry requirements. I am adept at developing machine learning pipelines and implementing MLOps workflows using tools like **MLflow**, **Airflow**, and **Kubeflow**, giving a competitive edge to my projects in predictive analytics and intelligent automation.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior FHIR Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Ensured compliance with healthcare standards including **FHIR**, **HL7**, and **HIPAA** while architecting and developing scalable, full-stack platforms using **Python** (FastAPI), **JavaScript**, and modern front-end frameworks including **React** (17-18) and **Next.js**.\nDeveloped and deployed cross-platform mobile applications leveraging **Flutter** and **React Native** for enhanced patient interaction and financial management across iOS and Android, implementing security protocols such as **OAuth 2.0**.\nDesigned and maintained robust **RESTful API** integrated with **Epic EHR** solutions to facilitate interoperability among healthcare applications and financial systems.\nArchitected microservices-based ecosystems using **Docker**, **Kubernetes** (AKS/EKS), and serverless architectures (e.g., **AWS Lambda**, **Azure Functions**) for improved scalability, achieving 99.9% uptime.\nImplemented data standards such as **SNOMED CT**, **LOINC**, **ICD-10**, **CPT**, and **RxNorm** in cloud-native data architecture leveraging **PostgreSQL**, **MongoDB**, and **GraphQL** to handle over **1 million** healthcare records efficiently.\nDeveloped machine learning models for patient risk prediction and anomaly detection in financial transactions using **Python** (scikit-learn, **TensorFlow**), integrated into backend systems for real-time predictions, achieving response times under **200ms**.\nBuilt MLOps pipelines using **MLflow** and **Apache Airflow** for continuous monitoring and deployment of models across environments, supporting multiple versions of models.\nIntegrated advanced analytical features including predictive alerts and financial dashboards into client applications, powered by hosted models on **Azure ML** and **AWS Sagemaker**.\nEstablished CI/CD pipelines using **GitHub Actions** and **CircleCI** to automate testing and deployment processes across various environments, resulting in a **40%** reduction in deployment time.\nDelivered actionable insights through complex financial data visualization tools using **D3.js**, **Chart.js**, and **Power BI Embedded**, transforming data into strategic recommendations for businesses.\nCollaborated closely with data science teams to implement **NLP models** for healthcare document parsing and financial anomaly detection, optimizing accuracy for a more seamless data integration.\nDeveloped comprehensive test strategies using **Jest**, **Cypress**, **PyTest**, and **Postman**, ensuring quality assurance across front-end and back-end services with a coverage of over **90%**.\nUtilized **Azure Cognitive Search** and **ElasticSearch** to enhance search functionalities across millions of structured and unstructured health records and financial documents, resulting in improved retrieval speeds."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **JavaScript** to lead the development and modernization of healthcare data interoperability platforms compliant with **FHIR** and **HL7** standards, enhancing data exchange capabilities by **50%**.\nEngineered and maintained **RESTful APIs** integral to integrating with **Epic EHR** systems, streamlining data access for healthcare applications and achieving a **40%** reduction in response times.\nDesigned and implemented secure authentication infrastructure using **OAuth 2.0**, ensuring compliance with **HIPAA** regulations and protecting sensitive health information for over **10,000** users.\nConstructed and optimized real-time data processing systems using **Azure** and **AWS**, enabling seamless data transfer between healthcare providers and third-party applications.\nDeveloped dynamic healthcare applications with **Java** and **C#**, using modern front-end frameworks to enhance user experience and accessibility for medical professionals by **30%**.\nIntegrated healthcare standard vocabularies including **SNOMED CT**, **LOINC**, **ICD-10**, **CPT**, and **RxNorm**, improving the accuracy of clinical coding and reporting by **25%**.\nImplemented analytics dashboards utilizing tools like **Power BI** and **D3.js** to visualize patient data trends, facilitating better decision-making across clinical teams.\nEstablished event-driven architecture using **Kafka** and **RabbitMQ** to ensure high reliability in communication between disparate healthcare services, enhancing system resilience and scalability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend services for healthcare applications using **Python** and **Java**, with a focus on building efficient **RESTful APIs** for **FHIR** interoperability, ensuring scalability and performance across critical modules.\nImplemented secure authentication mechanisms utilizing **OAuth 2.0** for role-based access control (RBAC) to protect sensitive patient data and maintain **HIPAA** compliance.\nEngineered solutions for managing healthcare data standards such as **HL7**, **SNOMED CT**, **LOINC**, **ICD-10**, and **CPT**, ensuring accurate and compliant data exchange across systems.\nDeveloped microservices architecture deployed on **AWS** and **Azure**, optimizing resource utilization and maintaining application availability with a focus on high throughput and low latency.\nConducted integration of **Epic EHR** systems utilizing **SMART on FHIR** specifications, enhancing patient data accessibility and usability in compliance with healthcare regulations.\nUtilized **JavaScript** frameworks for frontend development, providing engaging user experiences while ensuring compatibility and performance on both web and mobile platforms.\nExploited cloud services like **GCP** for efficient data storage and processing, ensuring reliable data access for real-time healthcare applications.\nCreated comprehensive unit and integration tests that improved code quality and reduced bugs by up to **30%** in production environments.\nPerformed quarterly reviews and optimizations, achieving a **25%** reduction in latency across FHIR API endpoints and maintaining stringent SLAs for healthcare operations.\nCollaborated with cross-functional teams to deliver healthcare technology solutions that meet both organizational objectives and regulatory requirements."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Java, JavaScript, TypeScript, C#\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tRESTful API, OAuth 2.0, SMART on FHIR\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **Other:**\n\tFHIR, HL7, Epic EHR, SNOMED CT, LOINC, ICD-10, CPT, RxNorm, HIPAA, MLflow, Airflow, Kubeflow\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose",
+  "apply_company": "Experis"
+}

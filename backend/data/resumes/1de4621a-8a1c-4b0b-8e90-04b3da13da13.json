@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Java Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Java Engineer with 8 years of experience, I specialize in developing robust RESTful APIs and cloud-native applications leveraging **Java**, **Spring Boot**, and container orchestration with **Docker** and **Kubernetes**. I have a strong background in database management using **PostgreSQL**, and my work includes building high-performance solutions in various sectors, ensuring optimal integration and functionality. \nI further enhance applications through my expertise in microservices architecture and event-driven systems, utilizing tools like **Apache Pulsar** for real-time data streaming. My commitment to CI/CD automation ensures frequent and reliable deployments, while adhering to compliance standards. \nIn addition, I possess experience in full-stack development with modern frameworks such as **React**, **Next.js**, and **Vue**, and I have utilized **Python** with **FastAPI** and **Django** for back-end solutions. I have successfully led enterprise-grade projects that incorporate AI/ML capabilities, focusing on predictive analytics and intelligent automation, and effectively developed MLOps workflows using tools like **MLflow** and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained robust **REST APIs** using **Java** and **Spring Boot**, ensuring high-performance and scalability for healthcare and financial applications.\nArchitected microservices-based architectures employing **Docker** and **Kubernetes** (including **EKS/AKS**), achieving 99.9% uptime and enhanced fault tolerance for enterprise-level deployments.\nDesigned and optimized data storage solutions leveraging **PostgreSQL** for efficient data retrieval and management, enabling seamless integration with existing systems and handling over **500,000** transactions daily.\nImplemented real-time data streaming and messaging capabilities using **Apache Pulsar** to facilitate efficient communication between services and improve overall system responsiveness by **30%**.\nLed the deployment of applications to cloud environments utilizing **Kubernetes**, achieving full compliance with HIPAA and GDPR regulations for sensitive healthcare and financial data.\nIntegrated automated CI/CD pipelines for build and release processes using tools such as **GitHub Actions** and **CircleCI**, resulting in a **50% reduction** in deployment time and enhanced development workflows.\nCollaborated with cross-functional teams to align software design with business requirements, achieving a **20% increase** in overall project efficiency and delivery times.\nConducted performance testing and optimizations that improved application response time by over **40%**, significantly enhancing user experience and satisfaction.\nMaintained high code quality through rigorous testing strategies including unit, integration, and functional tests using frameworks like **JUnit** and **Mockito**.\nMentored junior engineers and conducted code reviews to foster a culture of knowledge sharing, improving overall team performance and cohesion."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Designed and developed robust backend systems using **Java** and **Spring Boot**, ensuring high performance and scalability for financial applications, handling **9M+** user transactions daily.\nImplemented and deployed **REST API** services for seamless integration with front-end applications and third-party systems, achieving **99.9%** uptime and reducing response times by **50%**.\nLeveraged containerization technologies like **Docker** and **Kubernetes** for microservices management, enhancing deployment workflows and reducing deployment times by **75%**.\nUtilized **PostgreSQL** as the primary database, optimizing query performance and implementing efficient data storage solutions that supported multi-terabyte datasets.\nFacilitated real-time data processing and event streaming using **Apache Pulsar**, ensuring asynchronous communication across services and supporting event-driven architecture for transaction alerts and monitoring.\nCollaborated with cross-functional teams to enhance system architectures, improving maintainability and scalability of financial platforms to meet growing operational demands.\nManaged software development lifecycle best practices, including code reviews, CI/CD implementation, and agile methodologies, ensuring high-quality code delivery within tight deadlines."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and maintained robust **REST APIs** using **Java** and **Spring Boot** to serve high-traffic applications, achieving response times of under **200ms** in production environments.\nEngineered distributed event-driven architectures utilizing **Apache Pulsar**, enabling seamless communication between services with data processing rates of over **100,000 messages per second**.\nImplemented containerization using **Docker** and orchestrated deployments with **Kubernetes**, supporting blue-green deployments and maintaining a 99.9% uptime across services.\nDesigned and optimized **PostgreSQL** databases to manage transactional data effectively, successfully reducing query response times by **30%** through indexing and query optimization strategies.\nCollaborated with cross-functional teams to integrate scalable microservices that enhance system modularity, ensuring streamlined development processes with an average delivery time reduction of **25%** for new features.\nUtilized CI/CD practices to automate testing and deployment processes, leading to minimized downtime during updates and zero-impact rollouts for critical service enhancements.\nConducted performance tuning and optimizations across Java applications, effectively improving application throughput by up to **40%** while adhering to the latest coding standards and best practices in software development.\nParticipated in architecture reviews, contributing to high-level design discussions and ensuring solutions align with business objectives and technical requirements."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tJava, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tSpring Boot, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tREST API\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD & Infrastructure as Code, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "BlueSoft"
+}

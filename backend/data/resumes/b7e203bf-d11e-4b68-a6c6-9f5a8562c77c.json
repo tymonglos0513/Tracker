@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Engineer with 13+ years of experience in Full Stack Development, specializing in **Python**, **JavaScript**, **TypeScript**, and **PostgreSQL**. Proficient in both frontend and backend development with a strong command over **React**, **Node.js**, and **APIs**. Demonstrated expertise in data analysis, machine learning, and data mining, applying advanced techniques for enhanced data modeling and predictive analytics.\nSkilled in developing and implementing distributed systems, leveraging technologies to streamline infrastructure and tooling. Adept with **Linux** and **Git**, ensuring efficient version control and deployment processes. Strong background in healthcare and finance compliance-driven development, adhering to standards such as HIPAA and PCI DSS.\nCommitted to building high-performance applications and optimizing CI/CD pipelines in cloud environments, particularly on **AWS** and **Azure**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **JavaScript** (including **TypeScript**) to design and build robust full-stack platforms, ensuring compliance with industry standards such as HIPAA and GDPR in healthcare and fintech domains.\nDeveloped and maintained relational and NoSQL databases using **PostgreSQL** and integrated data modeling techniques to enhance data analysis capabilities for scalable applications.\nCollaborated on distributed systems architecture with a focus on backend development, implementing secure APIs to facilitate seamless front-end and back-end interactions.\nDesigned and delivered mobile applications for iOS and Android using **Flutter** and **React Native**, applying effective data mining and state management techniques with Provider and Redux.\nImplemented advanced ML solutions for risk scoring and fraud detection using frameworks such as **scikit-learn**, **PyTorch**, and **TensorFlow**, achieving significant accuracy improvements with integrated backend inference.\nCreated CI/CD pipelines utilizing **Git** and **Linux** as part of DevOps practices, which included automated testing workflows and diverse multi-environment deployments.\nExecuted MLOps workflows through **MLflow** and **Airflow**, managing model training schedules to improve overall machine learning model lifecycle.\nBuilt interactive dashboards and data visualization tools using **D3.js** and **Power BI Embedded**, facilitating analysis of key operational KPIs and financial trends with real-time data interaction.\nSpearheaded the migration of legacy systems to microservices utilizing **Docker** and **Kubernetes** (specifically on **AKS** and **EKS**), enhancing fault tolerance and scalability in deployments.\nDefined and reinforced testing strategies across applications using **Jest**, **Cypress**, and **PyTest** to ensure comprehensive coverage of unit to integration tests, enhancing software reliability.\nIntegrated intelligent search functionalities leveraging **Azure Cognitive Search** and **Elasticsearch** for optimized performance across diverse health and financial data structures."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Leveraged **Python** for backend development, enhancing financial applications with reliable APIs and robust data processing capabilities.\n- Utilized **PostgreSQL** for efficient data modeling and analysis, managing large datasets with complex queries to support real-time analytics.\n- Employed **Linux** for deploying and maintaining scalable applications, optimizing system performance in a distributed environment.\n- Implemented version control using **Git**, ensuring smooth collaboration and code integrity across multi-disciplinary teams.\n- Developed engaging front-end solutions using **JavaScript**, **TypeScript**, **React (18)**, and **Vue 3**, delivering user-friendly interfaces for financial tools and administration.\n- Designed and prototyped backend services with **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), migrating core financial systems to a microservices architecture that improved scalability and handling of **9 million** transactions per day.\n- Streamlined data processing with machine learning techniques using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling the proactive identification of fraud, resulting in a **15%** reduction in fraudulent activities.\n- Constructed ETL pipelines utilizing **Apache Airflow** and **Azure Data Factory** for smooth integration of internal and third-party financial data, supporting batch and real-time workflows.\n- Architected event-driven systems with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, enhancing system reliability for critical transaction workflows and compliance monitoring.\n- Integrated development tools and best practices to ensure code quality and performance consistency throughout the software development lifecycle."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** (FastAPI, Django) and **Node.js** (NestJS, Express) to develop and optimize backend services for a global e-commerce platform, maintaining high availability, low latency, and scalability across **9** critical modules such as checkout and order fulfillment.\nImplemented **PostgreSQL**, **MongoDB**, and **Redis** for distributed data storage solutions, ensuring reliability and fault tolerance while handling over **10,000** transactions per minute.\nEngineered real-time features leveraging **WebSockets**, **Kafka**, and **RabbitMQ**, facilitating dynamic inventory tracking and responsive order updates, significantly enhancing customer support interactions.\nCreated engaging frontend applications using **React** (18), **Vue 3**, and **Angular** with **TypeScript** and **Redux Toolkit**, achieving **15%** faster load times for web and mobile platforms.\nDeployed AI/ML-based recommendation engines with **scikit-learn**, **LightGBM**, and **TensorFlow**, improving product listing personalization and **20%** boost in conversion rates through advanced data analysis.\nExecuted Redis caching strategies for product metadata and shopping cart sessions, markedly reducing database load by **30%** and improving application responsiveness.\nManaged feature flags and blue-green deployments with **LaunchDarkly** and **Kubernetes**, allowing effective A/B testing for major updates without downtime or risk.\nDesigned responsive, SEO-friendly UIs utilizing **Next.js** and **HTML5/CSS3**, ensuring mobile-first engagement and compliance with WCAG 2.1 accessibility standards.\nDeveloped secure payment processes integrated with **Stripe**, **PayPal**, and **Razorpay**, prioritizing PCI compliance and tokenization for sensitive transactions.\nImplemented role-based access control (RBAC) and **OAuth 2.0** for secure access management, ensuring GDPR compliance and robust user data protection throughout the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tAPIs\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose, Linux\n\n **Other:**\n\tMachine Learning, MLflow, Airflow, Kubeflow, Data Analysis, Data Mining, Data Modeling, Distributed Systems, Tooling, Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "MixRank"
+}

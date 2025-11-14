@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Ambitious and results-driven Senior Software Engineer with 8 years of comprehensive experience in developing high-performance applications in cloud environments, specifically **AWS** and **Azure**. Expertise in designing and implementing APIs and integrations with various SaaS and PaaS providers, leveraging a wide array of technologies including **JavaScript**, **Node.js**, **HTML5**, and **Backbone.js**. Adept in creating RESTful and SOAP services, ensuring seamless data communication through protocols such as AJAX and WebSockets.\n\nProficient in utilizing front-end frameworks like **React**, **Vue**, and **Bootstrap**, and experienced in backend technologies including **FastAPI** and **Django** to establish robust enterprise solutions. Strong foundation in microservices architecture, employing CI/CD practices to enhance deployment efficiency and reduce time-to-market.\n\nNatural problem-solver with excellent communication and time management skills, I have successfully led cross-functional teams to deliver enterprise-grade platforms while ensuring compliance with industry standards such as HIPAA and PCI DSS. Skilled in real-time data processing and machine learning pipelines, making innovative use of tools like **MLflow** and **Airflow** to optimize performance and maintain scalability.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained APIs using **Node.js** and **Express.js**, ensuring efficient communication and integration between **back-end** and **front-end** services.\nUtilized **AWS** services for building and deploying **SaaS** applications, leveraging tools like **Lambda**, **DynamoDB**, and **S3** for scalable solutions.\nImplemented responsive **HTML5** and **JavaScript** interfaces, enhancing user experience through frameworks like **React** and **Vue.js**, achieving a **30%** increase in user engagement metrics.\noptimized UI/UX using **Bootstrap** and **jQuery** to deliver efficient and engaging web applications for a diverse user base.\nDesigned and deployed server-side applications using **FastAPI** and **Python**, achieving a **25%** improvement in application performance and scalability.\nLed the integration of **AJAX** and **WebSockets** for real-time data transmission, reducing latency and improving response times by **40%**.\nExecuted effective time management and problem-solving strategies to minimize project delivery times by **15%** through agile methodologies.\nCollaborated with cross-functional teams to build and maintain **DevOps** practices using tools like **GitHub Actions** and **CI/CD** pipelines, facilitating smoother deployments and reducing downtime.\nConducted thorough testing practices using **Postman** and **Jest**, ensuring high-quality code and minimizing bugs to less than **5%** in production environments.\nOversaw the full software development lifecycle, from concept to deployment, while ensuring alignment with business objectives and client needs regarding **CTI**, **SaaS**, and **PaaS** solutions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed **APIs** for financial platforms, enhancing accessibility and interoperability across various systems, leveraging **Node.js** (NestJS/Express) and **Python** (FastAPI, Django).\n• Designed and implemented user interfaces using **HTML5**, **JavaScript**, **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, significantly improving user experience for over **10,000** daily users.\n• Integrated **SaaS** and **PaaS** solutions, optimizing deployment processes and enhancing system scalability to support **1 million** transactions per day.\n• Established real-time data communication channels using **WebSockets**, **Kafka**, and **RabbitMQ**, enabling immediate alerts and compliance workflows for financial operations.\n• Built ETL workflows with **Apache Airflow** and **Azure Data Factory**, achieving **85%** reduction in data processing time for financial analytics and reporting.\n• Employed **AI/ML** algorithms for fraud detection using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, resulting in a **40%** decrease in fraudulent transaction rates.\n• Developed comprehensive ML pipelines using **MLflow** and **Airflow** for credit scoring and transaction classification, enhancing predictive capabilities and informed decision-making within financial systems.\n• Collaborated with teams to implement effective communication strategies addressing the integration of **Salesforce**, **MS Dynamics**, and various telecommunication systems including **Genesys** and **Avaya**, ensuring seamless interaction between platforms.\n• Demonstrated exceptional problem-solving and time management skills by delivering projects in alignment with **Agile** methodologies and strict timelines."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized **REST**ful APIs and **SOAP** services for backend functionality in a global e-commerce platform, enhancing user engagement and streamlining customer interactions.\n• Utilized **Node.js** alongside **JavaScript** frameworks such as **Express** and **NestJS** to create scalable server architectures, significantly improving system performance and reducing latency by **30%**.\n• Engineered robust communication features leveraging **WebSockets** and **AJAX**, facilitating real-time order tracking and customer support, which led to improved user satisfaction ratings by **25%**.\n• Implemented secure and adaptable **SaaS** solutions hosted on **AWS** and **Heroku**, enabling seamless integrations with third-party services like **Salesforce** and **Zendesk** for enhanced business processes.\n• Designed dynamic user interfaces utilizing **HTML5**, **CSS3**, **Bootstrap**, and **JavaScript** frameworks such as **React** and **Angular**, ensuring fast, responsive experiences that improved customer retention by **15%**.\n• Managed data storage and retrieval through **MongoDB**, **PostgreSQL**, and **Redis**, optimizing data access times by **40%** in high-traffic environments and maintaining system reliability.\n• Applied advanced algorithms in AI and ML using **scikit-learn** and **TensorFlow** for developing personalization features, resulting in increased conversion rates of **20%** through tailored recommendations.\n• Implemented caching strategies with **Redis** for product metadata and search results, significantly reducing database load and accelerating page load times.\n• Conducted A/B testing and controlled rollouts using **Kubernetes** and feature flags via **LaunchDarkly**, enhancing deployment strategies and minimizing downtime during updates.\n• Collaborated on secure payment transactions leveraging **Stripe**, **PayPal**, and **Razorpay**, ensuring compliance with PCI standards for safeguarding transactional data.\n• Enforced access control by implementing **OAuth 2.0** and **RBAC**, aligning with **GDPR** regulations to ensure data protection across the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular, jQuery, Backbone.js, Bootstrap, RequireJS, Ext JS, Marionette\n\n**API Technologies:**\n\tSOAP, REST, AJAX, WebSockets\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Oracle\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), Heroku, OpenShift\n\n**Other:**\n\tArtificial Intelligence, Machine Learning, MLflow, Airflow, Kubeflow, Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Communication, Problem-solving, Time management, SaaS, PaaS, Unix, Salesforce, MS Dynamics, NetSuite, Zendesk, Velocify, Genesys, Avaya, Cisco, Aspect",
+  "apply_company": "Five9"
+}

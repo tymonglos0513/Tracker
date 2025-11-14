@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Software Engineer with 10+ years of experience in high-performance software development, skilled in **Java**, **Kotlin**, **Groovy**, **Quarkus**, and **Spring Boot**. Proficient in building cloud-native applications using **AWS**, with hands-on expertise in **PostgreSQL**, **NodeJS**, **React**, and **Python**. Experienced in CI/CD automation using **Jenkins**, **Docker**, and infrastructure as code with **Terraform** and **Ansible**. Strong focus on delivering secure and scalable solutions that adhere to compliance standards. Proven track record in developing enterprise applications that integrate with real-time analytics, alongside a solid understanding of microservices architecture and event-driven systems. Additionally, brings practical experience in MLOps using tools such as **MLflow** and **Kubeflow**. Passionate about creating systems that drive impactful results while ensuring high technical quality.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed scalable applications and services using **Java**, **Kotlin**, and **Groovy** within **Spring Boot** and **Quarkus** frameworks, ensuring software quality and performance in high-demand environments.\n• Implemented cloud-based solutions leveraging **AWS**, incorporating services like **AWS Lambda** for serverless architectures, achieving cost efficiency and rapid deployment.\n• Built and managed containerized applications with **Docker**, enhancing the development lifecycle through continuous integration practices using **Jenkins**.\n• Designed RESTful APIs with **Node.js** and integrated client-facing applications using **React**, focusing on user-friendly and adaptive interfaces to meet customer needs in enterprise scenarios.\n• Established robust database solutions using **PostgreSQL**, optimizing for transaction processing and data integrity processes to support business operations.\n• Created DevOps pipelines using **Terraform** and **Ansible**, facilitating seamless infrastructure automation and configuration management across development, testing, and production stages.\n• Developed mobile applications with **Swift** and **SwiftUI**, ensuring efficient performance on iOS devices while adhering to Apple’s development guidelines and user experience conventions.\n• Employed comprehensive testing frameworks like **JUnit 5** and **Spock** for unit and integration testing, enhancing the reliability of applications before production release.\n• Collaborated with cross-functional teams to conduct code reviews and implement coding standards, leading to improved code maintainability and team knowledge sharing.\n• Achieved deployment of multiple microservices in **Docker** containers, ensuring high availability and fault tolerance across various environments.\n• Streamlined project delivery timelines by **30%** through the implementation of agile practices in daily stand-ups and sprint reviews, fostering better team collaboration.\n• Increased application performance by **25%** through system optimizations and code refactoring initiatives, driving user satisfaction and engagement."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "- Developed sophisticated financial software solutions using **Java**, **Kotlin**, and **Groovy**, applying **Spring Boot** for robust backend services and **Quarkus** for optimized performance on a microservices architecture.\n- Utilized **AWS** for scalable cloud infrastructure, ensuring high availability and reliability for financial applications, managed over **500,000** transactions daily.\n- Created and maintained databases using **PostgreSQL**, ensuring efficient data storage and retrieval for rapid transaction processing.\n- Automated CI/CD pipelines using **Jenkins** and **Docker**, significantly improving deployment efficiency and reducing release times by **30%**.\n- Orchestrated infrastructure as code with **Terraform** and **Ansible**, streamlining provisioning and configuration management across environments.\n- Developed and maintained user interfaces using **React**, enhancing user experience and engagement by implementing dynamic features for financial dashboards, with a focus on responsive design and performance.\n- Collaborated with cross-functional teams to integrate backend systems built on **Node.js** and **Python**, ensuring seamless connectivity and functionality across the tech stack.\n- Wrote unit tests utilizing **JUnit 5** and **Spock**, achieving an overall code coverage of **85%** to maintain high software quality and performance standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Developed and optimized microservices architecture using **Java** and **Kotlin** within **Quarkus** and **Spring Boot** frameworks to enhance performance, scalability, and maintainability of backend services.\nImplemented CI/CD pipelines using **Jenkins**, ensuring seamless deployment and automated testing, leveraging **JUnit 5** and **Spock** to achieve over **90%** test coverage.\nDesigned and maintained relational databases with **PostgreSQL**, executing queries and optimizations that improved data retrieval efficiency by **30%**.\nUtilized **Docker** for containerization of applications, streamlining deployment processes and ensuring consistency across development and production environments.\nManaged infrastructure as code (IaC) using **Terraform** to automate resource provisioning on **AWS**, achieving a **25%** reduction in deployment time while maintaining compliance with best practices.\nImplemented configuration management using **Ansible** to automate the setup and maintenance of server environments, increasing reliability and reducing manual errors.\nDeveloped robust and interactive UI components using **React** and **SwiftUI**, focusing on user experience and performance, resulting in a **40%** decrease in page load times.\nLeveraged **Node.js** for server-side logic, ensuring efficient handling of asynchronous operations for improved application responsiveness under high traffic conditions.\nParticipated in agile methodologies and code reviews, enhancing collaboration and ensuring high-quality software delivery in line with project timelines."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Kotlin, Groovy, SwiftUI, Swift, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Quarkus, Spring Boot\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure (App Services, Blob, SQL)\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, JUnit 5, Spock"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Java Developer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Java Developer with over 10 years of experience in delivering high-performance software solutions, with expertise in **Java 8+**, **Spring**, **Spring Boot**, and **Vert.x**. Proficient in building robust applications and services utilizing **Cucumber** for Behavior Driven Development (BDD) and adept in SQL for effective database management. Skilled in leveraging modern technologies such as **JavaScript/TypeScript**, **Python**, and **Flutter**, alongside frameworks like **React**, **Next.js**, and **Node.js** for comprehensive full stack development. Proven track record in developing cloud-native applications on **Azure** and **AWS**. Strong background in microservices architecture, event-driven systems, and CI/CD automation, ensuring secure and maintainable solutions that adhere to compliance standards. Practical experience in MLOps using tools like **MLflow**, **Airflow**, and **Kubeflow**, complementing strong analytical skills with a passion for driving impactful technological solutions.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Java Developer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed scalable backend solutions using **Java 8+**, **Spring**, and **Spring Boot** to meet diverse business requirements in healthcare and finance, ensuring high performance and availability.\n• Crafted and executed test cases following BDD principles with **Cucumber**, enhancing code quality and reducing bugs by **30%** prior to production.\n• Implemented SQL databases to manage and optimize data retrieval processes, leading to a **25%** increase in query performance for critical financial applications.\n• Engaged in collaborative development using **Vert.x** for reactive programming, which improved application responsiveness and reduced latency by up to **15%**.\n• Integrated CI/CD pipelines utilizing tools like Jenkins and GitHub Actions for seamless deployments, which reduced deployment time from **2 hours** to **15 minutes**.\n• Worked with cross-functional teams to integrate user feedback and enhance system functionalities, resulting in a **40%** increase in user satisfaction metrics.\n• Participated in code reviews and provided mentorship to junior developers, fostering a culture of continuous improvement and knowledge sharing.\n• Maintained software documentation and specifications to comply with regulatory standards, ensuring transparency and alignment with business goals."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java 8+**, **Spring**, and **Spring Boot** to develop scalable and efficient backend services tailored for high-volume transaction processing.\nImplemented **Vert.x** for reactive programming, enhancing application performance and responsiveness in financial platforms.\nDesigned and optimized SQL databases to ensure robust data integrity and fast retrieval times, managing large datasets effectively.\nPracticed Behavior-Driven Development (BDD) using **Cucumber**, ensuring high-quality code through automated testing and documentation.\nLed a team to modernize legacy systems, improving architecture resilience and maintainability with a target improvement in throughput by **30%**.\nCollaborated with cross-functional teams to integrate APIs supporting real-time transaction processing, achieving a **99.9%** uptime in production environments.\nContributed to the implementation of CI/CD pipelines, increasing deployment frequency by **50%**, minimizing release risks and facilitating quicker feature deliveries.\nMentored junior developers in using Java frameworks and best practices, resulting in improved code quality and team productivity."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Developed and maintained scalable backend services for a global e-commerce platform using **Java 8+** with **Spring Boot** and **Vert.x**, ensuring high availability and low latency across key modules such as checkout and order fulfillment.\nImplemented behavior-driven development (BDD) practices using **Cucumber** to enhance test automation and ensure quality across all levels of the application.\nEngineered real-time features that enhance customer experiences and order updates, driving engagement (achieving **95%** customer satisfaction ratings).\nDesigned and optimized relational databases using **SQL** to ensure fast, fault-tolerant data access for **over 200,000** daily transactions during peak traffic.\nCollaborated in a cross-functional team environment to ensure effective integration of frontend frameworks, contributing to a **30%** increase in application performance and responsiveness.\nIntegrated AI/ML-based elements within the application to optimize product listings, which achieved a **15%** improvement in conversion rates based on real-time behavioral data.\nImplemented feature flags and deployment strategies, achieving seamless rollouts and significantly reducing downtime during updates by **70%**.\nCreated secure payment workflows integrated with third-party payment processors ensuring PCI compliance while managing **over 50,000** transactions monthly.\nDeveloped comprehensive unit and integration tests in accordance with BDD principles, utilizing **Cucumber** to ensure enterprise-level quality and reliability of the codebase.\nApplied role-based access control (RBAC) and **OAuth 2.0** for secure access management, ensuring GDPR compliance and robust user data protection throughout the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava 8+, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tSpring, Spring Boot, FastAPI, Flask, Django, Vert.x\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tCucumber, BDD\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL), Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tAuthentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), MLflow, Airflow, Kubeflow"
+}

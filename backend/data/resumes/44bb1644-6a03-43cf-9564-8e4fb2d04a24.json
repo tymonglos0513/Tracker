@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Full Stack Developer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Full Stack Developer with over 10 years of experience, specializing in **Python** and adept at building robust backend systems and high-performing APIs. Proficient in utilizing web frameworks such as **FastAPI**, **Django**, and **Flask** for full stack development, along with cloud services like **AWS** and **Azure** to deliver scalable applications. Proven ability in project management and fostering collaboration in remote work environments. A history of impactful contributions at leading organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Developer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to engineer robust backend services through **FastAPI**, enhancing document automation, user onboarding, and reporting workflows.\nManaged full stack development with a focus on event-driven solutions utilizing **Celery** and **Redis** for efficient asynchronous processing of **financial transactions**.\nImplemented infrastructure as code using **Terraform** to deploy microservices on **Azure App Services**, achieving seamless operations in the cloud environment.\nDesigned and maintained data pipelines utilizing **Apache Airflow** and **Azure Functions** for regulatory data exchanges, ensuring accuracy and timeliness in data flow and processing involving **thousands of transactions**.\nConducted comprehensive security assessments and integrated **OAuth2** and **Azure AD B2C** for scalable authentication solutions, ensuring compliance with industry standards.\nFostered collaboration among cross-functional teams to tackle integration challenges and streamline release strategies, successfully managing up to **5 releases** per month."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** to develop robust backend systems integrating efficiently with **FastAPI** for automating document workflows, enhancing user onboarding by **30%**, and improving complex reporting processes.\nEngineered event-driven microservices with **Celery** and **Redis**, enabling asynchronous processing of financial data, achieving a **50%** reduction in transaction processing time.\nManaged the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation to maintain consistent and scalable environments, reducing deployment time by **40%**.\nDesigned and developed data pipelines for secure regulatory data exchange, employing **Apache Airflow** and **Azure Functions** to automate and streamline data flow, increasing data handling efficiency by **25%**.\nConducted comprehensive security audits to ensure compliance with industry standards, implementing **OAuth2** and **Azure AD B2C** for managing authentication and securing access controls, enhancing security posture by **35%**.\nFostered collaboration with cross-functional teams to ensure a smooth system integration process, regulatory compliance, and successful release management, effectively improving project delivery timelines by **20%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed scalable and efficient backend services using **Python**, **Flask**, and **PostgreSQL** for trade execution, portfolio management, and account tracking, improving trading operations by **30%**.\n• Engineered high-frequency real-time price feed processors with **asyncio**, **WebSockets**, and **Redis**, delivering critical trading data with latency under **100ms**.\n• Collaborated with frontend teams to implement robust data delivery through REST APIs and WebSocket channels, enhancing user experience and interaction with the platform by **20%**.\n• Ensured compliance with regulatory standards such as MiFID II and GDPR while following internal data security protocols, maintaining a secure environment for user data.\n• Implemented extensive test suites using **PyTest**, **tox**, and mock servers, streamlining QA and CI processes, resulting in a **15%** reduction in bugs during deployment.\n• Introduced job queuing and scheduling solutions using **Celery** and **RabbitMQ** to optimize backend task execution and effectively manage processes."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Git\n\n**Cloud & Infrastructure**\n\t\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Full Stack Development, Project Management, Remote Work Experience, Responsibility, Collaboration"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "Results-driven Software Engineer with 8 years of experience specializing in back-end and full-stack development using **Python**, **Node.js**, and **PostgreSQL**. Proficient in building and integrating APIs and maintaining Linux servers, I leverage a robust understanding of networking protocols including SMTP, IMAP, SPF, DKIM, and DMARC for comprehensive email handling solutions. My experience extends to implementing queue management systems, rate limiting, and bounce processing to optimize email analytics and anti-abuse systems.\n\nAdept in continuous integration and deployment (CI/CD) pipelines, I have hands-on expertise in containerization technologies such as **Docker** and **Kubernetes**, enhancing development efficiency and application scalability. I emphasize automation and system orchestration built on microservices architecture and event-driven systems, ensuring reliability and compliance with standards.\n\nAdditionally, I excel in shell scripting and support the swift deployment of solutions, showcasing a solid foundation in modern development methodologies. My passion for leveraging technology is further underscored by a history of driving innovative solutions in various sectors.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Node.js** to develop robust APIs for email management, integrating **Postfix**, **Dovecot**, and SMTP/IMAP protocols while ensuring secure email communication with **SPF**, **DKIM**, and **DMARC** configurations.\nImplemented Linux server infrastructure to host and manage applications, leveraging shell scripting for automation and efficiency in email processing tasks, resulting in a **30%** reduction in manual intervention.\nDesigned and maintained database solutions using **PostgreSQL** to store, query, and optimize email analytics data across **10M+** records, enhancing performance and reliability.\nArchitected and implemented scalable messaging systems with queue management strategies, ensuring high throughput and efficient processing rates with rate limiting mechanisms.\nLed the development and deployment of CI/CD pipelines utilizing **Docker** and **Kubernetes**, streamlining application deployment processes and achieving **95%** uptime in production environments.\nCollaborated with cross-functional teams to implement anti-abuse systems, reducing bounce rates by **25%** through sophisticated monitoring and processing algorithms.\nImplemented comprehensive logging and monitoring solutions to analyze email performance, and integrate feedback loops for continuous improvement.\nDeveloped documentation and best practices for email system architecture, fostering knowledge sharing among team members.\nConducted training sessions to enhance team understanding of email analytics and anti-abuse measures, leading to increased team efficiency and performance."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained APIs using **Python** and **Node.js** to support email processing applications, ensuring high performance and reliability while adhering to industry standards.\nLed integration of **Postfix**, **Dovecot** for managing SMTP and IMAP protocols, enhancing email delivery and security through effective configuration of **SPF**, **DKIM**, and **DMARC**.\nImplemented efficient **PostgreSQL** database solutions for email analytics and anti-abuse systems, optimizing queries to handle up to **100,000** transactions per second.\nDesigned robust queue management systems using tools like **RabbitMQ** and **Kafka** for efficient message handling and bounce processing, ensuring real-time data reliability and throughput.\nAutomated deployment processes through **Docker** and **Kubernetes**, establishing scalable CI/CD pipelines that decreased deployment time by **30%**.\nCreated monitoring solutions for Linux servers using shell scripting, improving operational efficiency by systematically analyzing email flow and server performance metrics.\nEmployed networking strategies to enhance system resilience, focusing on connection rates and rate limiting techniques to manage traffic efficiently while minimizing bounce rates.\nContributed to the development and optimization of anti-abuse systems, applying best practices in email delivery to ensure a robust security posture against spam and fraudulent activities."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and optimized backend services for high-performance email systems using **Python** and **Node.js**, ensuring seamless integration with email protocols such as **SMTP**, **IMAP**, and **DNS** while maintaining high availability and scalability. \nEngineered queue management systems to handle message delivery, implementing rate limiting and bounce processing strategies to enhance deliverability by **30%**. \nDesigned and maintained CI/CD pipelines utilizing **Docker** and **Kubernetes** for automated deployment processes, achieving deployment times reduced by **50%**. \nImplemented anti-abuse systems to enhance security and ensure compliance with industry standards through protocols like **SPF**, **DKIM**, and **DMARC**. \nBuilt robust APIs for email analytics, enhancing real-time processing capabilities by utilizing **PostgreSQL** for efficient data storage and retrieval under high-load conditions. \nConducted system monitoring and performance tuning on **Linux servers**, ensuring systems operated optimally and maintained an uptime of **99.9%**. \nUtilized shell scripting for automation of routine tasks, minimizing manual intervention and increasing team productivity by **25%**. \nCollaborated with cross-functional teams to troubleshoot and resolve email delivery issues, enhancing customer satisfaction through swift issue resolution. \nAdopted role-based access control (RBAC) for secure administration, ensuring user data protection and GDPR compliance throughout the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript, Node.js\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tAPI development\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD pipelines\n\n **Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose, Linux servers\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Postfix, Dovecot, SMTP, IMAP, DNS, SPF, DKIM, DMARC, shell scripting, networking, queue management systems, rate limiting, bounce processing, email analytics, anti-abuse systems"
+}

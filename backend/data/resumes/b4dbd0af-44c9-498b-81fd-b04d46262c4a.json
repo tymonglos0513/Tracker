@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Software Engineer with over 10 years of experience in backend development, specializing in building scalable microservices and high-performance APIs using **Python** (FastAPI, Django, Flask). Proficient in **Google Cloud Platform** services including **GKE**, **BigQuery**, **BigTable**, **GCS**, **Dataproc**, and **VertexAI** to implement cloud-native architectures. Experienced in leveraging **MongoDB**, **Redis**, and data processing frameworks like **Spark** and **TensorFlow** for robust MLOps and data handling. Skilled in **CI/CD pipelines**, **DevOps** practices, and Agile methodologies to enhance team collaboration and deliver automated solutions. Strong problem-solving and communication skills with a proven ability to contribute to impactful projects in leading organizations such as VISA, Sii Poland, and Reply Polska. Committed to continuous learning and passionate about integrating cutting-edge technologies, including **Kubeflow**, **Airflow**, and machine learning frameworks like **Scikit-learn** and **PyTorch**.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Developed and managed backend services using **Python** and **FastAPI** for document automation and user onboarding, enhancing user experiences across **9+** applications.\nEngineered event-driven architectures with **Celery** and **Redis** to handle asynchronous processing for over **500** financial transaction requests daily.\nDeployed and maintained microservices architecture on **Google Cloud Platform** using **GKE**, ensuring efficient operations across various services, managing infrastructure with **Terraform**.\nCreated and optimized data pipelines for regulatory data exchange using **Apache Airflow** and **Azure Functions**, achieving a **99%** accuracy rate in data flow and reporting.\nImplemented robust security measures through **OAuth2** and **Azure AD B2C**, establishing secure authentication for **10,000+** users, scalable to meet future growth.\nCollaborated with cross-functional teams employing **Agile** methodologies to resolve integration challenges, ensuring compliance with regulatory standards and overseeing seamless release strategies.\nUtilized tools such as **GitLab**, **Jira**, and **Grafana** for effective project management and real-time monitoring, boosting team collaboration and problem-solving capabilities."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "- Developed scalable and efficient backend systems using **Python** and **FastAPI** to automate document workflows and streamline user onboarding processes, enhancing user experience by **40%**.\n- Engineered event-driven microservices utilizing **Celery** and **Redis**, providing asynchronous processing for financial data and handling up to **1M** transaction requests daily.\n- Deployed microservices on **Azure App Services** and automated infrastructure management using **Terraform**, ensuring a consistent and scalable environment with deployment times reduced by **30%**.\n- Designed and developed secure data pipelines for regulatory compliance using **Apache Airflow** and **Azure Functions**, achieving a **50%** increase in data flow efficiency.\n- Conducted comprehensive security audits to ensure compliance with industry standards; integrated **OAuth2** and **Azure AD B2C** for robust authentication and secure access management across systems.\n- Actively collaborated with cross-functional teams to facilitate smooth system integration, maintain regulatory compliance, and manage successful product releases in an **Agile** development environment."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed backend services for trade execution, portfolio management, and account tracking using **Python**, **Flask**, and **PostgreSQL**, enhancing trading operations efficiency by **25%**.\n• Engineered real-time price feed processors utilizing **asyncio**, **WebSockets**, and **Redis**, providing up-to-the-minute trading data for high-frequency transactions, capable of processing **10,000** messages per second.\n• Collaborated closely with frontend teams to deliver data through **REST APIs** and **WebSocket** channels, ensuring smooth user interaction with the platform, resulting in a **15%** increase in user satisfaction.\n• Ensured the platform met regulatory requirements, including **MiFID II** and **GDPR**, while adhering to internal data security protocols to protect sensitive information.\n• Implemented comprehensive test suites with **PyTest**, **tox**, and mock servers, streamlining QA and CI processes for efficient development cycles, which reduced bug rates by **30%**.\n• Introduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and improving process management efficiency by **40%**."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython (3.8+)\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\tJavaScript\n\n**API Technologies**\n\tREST/gRPC APIs, API development\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Google Cloud Platform, GKE\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**Cloud & Infrastructure**\n\tAzure, Docker, Kubernetes, GitHub Actions, Azure DevOps, BigQuery, BigTable, GCS, Dataproc, VertexAI, Grafana\n\n**DevOps**\n\tCI/CD, Gitlab, CI/CD pipelines, MLOps, Agile, problem-solving, team collaboration, commitment to continuous learning\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, PyTorch, Kubeflow, Prefect, Kafka, Sentry, Jira, Productboard, PagerDuty, automating processes, continuous discovery, testing, communication skills, passion for new technologies"
+}

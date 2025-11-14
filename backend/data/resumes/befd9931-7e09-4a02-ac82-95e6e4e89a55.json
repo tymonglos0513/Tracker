@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience in software development, specializing in **AWS**, **Azure**, **Google Cloud**, **Kubernetes**, **Docker**, and **CI/CD** methodologies. Proficient in cloud-native application deployment and infrastructure management utilizing **Terraform**, **GitHub Actions**, and implementing **DevSecOps** practices. Experienced in designing and developing scalable microservices and event-driven APIs, as well as integrating compliance-driven development aligned with PCI DSS and SOC 2 standards.\n\nSkilled in programming languages including **Java** and **Python**, with a strong technical foundation in **NoSQL** databases and real-time data processing using **Kafka** and **Spark**. Well-versed in MLOps frameworks, employing tools such as MLflow, Airflow, and Kubeflow for model orchestration, training, and serving. Committed to Agile methodologies, utilizing **Jira** and **Confluence** for project management and collaboration. A proven track record of delivering high-performance applications across the healthcare and financial sectors, adept at leveraging **Flutter**, **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Leveraged **Java** and **Python** to design and develop full-stack platforms within healthcare and fintech sectors, ensuring compliance with critical regulations including HIPAA and GDPR.\nEngineered **microservices** architectures utilizing **Docker** and **Kubernetes (v1.20)** to facilitate scalable and fault-tolerant application deployments.\nImplemented **CI/CD** pipelines using **GitHub Actions** and **Terraform**, enhancing development workflows with automated testing and deployment processes.\nDesigned secure **REST** and **Event-driven APIs** for both iOS and Android mobile applications, utilizing **Flutter** and **React Native** to deliver engaging user experiences.\nDeveloped data solutions with **NoSQL** (MongoDB) and traditional databases (PostgreSQL), optimizing real-time data access and analytics capabilities across systems.\nOrchestrated **MLOps** workflows using **Azure** and **Google Cloud**, enabling robust model management and deployment processes for data-driven applications.\nIntegrated machine learning models for advanced analytics and risk assessment using frameworks like **TensorFlow** and **scikit-learn**, with applications deployed in production environments.\nEstablished and enforced robust security practices as part of **DevSecOps** initiatives, including automated security checks in CI/CD pipelines to safeguard cloud deployments.\nTeamed with cross-functional partners in an **Agile** environment, leveraging tools like **Jira** and **Confluence** for effective project management and transparency.\nExecuted advanced data visualization techniques using **D3.js** and **Power BI Embedded**, allowing stakeholders to analyze 9+ critical financial and operational KPIs in real-time.\nSimultaneously managed several projects with measurable impact, consistently improving deployment efficiency by **20%** and reducing legacy system overhead by **30%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained **microservices** architecture using **Python** (FastAPI/Django) and **Node.js** (NestJS/Express) to significantly enhance system scalability and performance, managing over **1M** transactions daily.\n• Utilized **React** (18), **Next.js**, and **TypeScript** to build responsive front-end applications that improved user engagement by **30%**, employing **Redux Toolkit** and **Tailwind CSS** for seamless UI development.\n• Created real-time analytics dashboards with **D3.js** and **Power BI Embedded**, equipping operations teams with insights for over **500K** transactions and detecting anomalies effectively.\n• Orchestrated an event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus** to facilitate asynchronous communication in workflows, achieving a **25%** reduction in processing time for critical operations like payments.\n• Designed ETL pipelines utilizing **Apache Airflow** and **Azure Data Factory** for ingesting financial data from diverse sources, capable of processing batch jobs in **under 10 minutes**.\n• Implemented machine learning models for fraud detection using **scikit-learn** and **XGBoost**, enabling proactive detection and reducing fraudulent transactions by **15%**.\n• Engineered ML pipelines for credit scoring and churn prediction using **MLflow** and **Airflow**, allowing for real-time model inference integrated into backend services, enhancing service response times by **20%**.\n• Actively participated in Agile methodologies with tools like **Jira** and **Confluence** to ensure timely project deliveries and improved team collaboration."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Java** to design and optimize backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nEngineered real-time features using **Kafka**, event-driven APIs, and WebSockets, enabling responsive order updates, dynamic inventory tracking, and real-time customer support.\nDeveloped backend services with microservices architecture, leveraging **Docker**, **Kubernetes**, and **AWS** for scalable deployment solutions.\nImplemented CI/CD pipelines using **GitHub Actions** and **Terraform**, improving deployment speed by **30%** and enhancing system reliability.\nLeveraged **MongoDB**, **PostgreSQL**, and other NoSQL databases for distributed data storage, ensuring high-performance capabilities for busy e-commerce workflows.\nApplied **MLOps** strategies to integrate AI-driven recommendation engines, optimizing product listings based on user behaviors and improving conversion rates by **15%**.\nCreated responsive, SEO-friendly e-commerce UIs using **React** and **Vue 3**, optimized for mobile-first engagement and accessibility compliance.\nDesigned and deployed a fully automated infrastructure using **Infrastructure-as-code** principles for rapid scaling and efficient resource management.\nEstablished role-based access control (RBAC) using **OAuth 2.0** for secure customer and admin access, ensuring compliance with **GDPR** regulations and safeguarding user data.\nImplemented DevSecOps principles to enhance security across deployment pipelines, reducing potential vulnerabilities by **40%**."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tJava, Python\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tREST, Event-driven APIs\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, NoSQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, Google Cloud\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, DevSecOps, SCADA, IoT, Microservices, Dataflow, Spark, Kafka, MLOps, Digital twins, Agile, Jira, Confluence",
+  "apply_company": "Outvise"
+}

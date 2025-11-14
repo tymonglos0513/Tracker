@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Senior Software Engineer with 10+ years of experience in delivering high-performance software solutions. Proficient in **GoLang**, **AWS**, **Azure**, and **GCP**, with hands-on expertise in building scalable applications using **Kubernetes**, **PostgreSQL**, and cloud services including **Cloud Object Storage** and **GCP Pub/Sub**. Skilled in leveraging **gRPC**, **REST**, and creating effective CI/CD pipelines with tools like **GitLab CI** and **ArgoCD**. Experienced in monitoring and observability through **Prometheus**, **Grafana**, **Loki**, and **Tempo**.\nBrings a strong background in full-stack development using technologies such as JavaScript/TypeScript, Python with frameworks like **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Dedicated to building secure, maintainable solutions adhering to compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Demonstrates practical experience in MLOps, developing ML pipelines, and deploying models with tools like **MLflow**, **Airflow**, and **Kubeflow**. Passionate about creating systems that drive significant real-world impact.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tDeveloped and maintained cloud-native applications utilizing **GoLang** and **Kubernetes**, ensuring high availability and scalability across **AWS**, **GCP**, and **Azure** environments.\n•\tImplemented CI/CD pipelines through **GitLab CI**, **ArgoCD**, and automated deployments, leading to a **30% reduction** in release cycle time.\n•\tDesigned data solutions using **PostgreSQL** and **Cloud Object Storage**, optimizing data storage and retrieval for performance and cost-efficiency, achieving **up to 50% faster** query responses.\n•\tIntegrated **GCP Pub/Sub** for real-time data processing, enabling seamless communication between microservices and improving event-driven architecture.\n•\tEmployed **gRPC** for efficient service-to-service communication, resulting in a **40% increase** in API performance and decreased latency.\n•\tImplemented monitoring and logging solutions using **Prometheus**, **Grafana**, and **Loki**, enhancing system observability and reducing incident response time by **25%**.\n•\tAdopted best practices in DevOps, automating testing and deployment with robust frameworks, streamlining processes, and establishing a culture of continuous improvement.\n•\tCollaborated with cross-functional teams to align product requirements with technical capabilities, ensuring deliverables meet business goals and project timelines.\n•\tConducted performance tuning and optimization for cloud-based applications, contributing to significant resource savings and improved application responsiveness across environments."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines utilizing **GitLab CI** and **ArgoCD** to enhance deployment efficiency by **30%**, automating processes and minimizing manual tasks.\nDeveloped robust microservices with **GoLang**, adhering to best practices in **REST** and **gRPC**, resulting in improved scalability and maintainability of applications handling over **10,000 concurrent users**.\nOrchestrated containerized applications using **Kubernetes**, optimizing resource allocation and ensuring seamless scalability during peak transaction periods, which led to a **25%** decrease in system downtime.\nManaged and optimized databases with **PostgreSQL**, achieving performance enhancements for data retrieval times by **40%** for financial transactions and analytics.\nLeveraged cloud services such as **AWS**, **GCP**, and **Azure** to deploy and maintain applications, ensuring high availability and reliable performance across multiple geographies.\nIntegrated monitoring and alerting solutions with **Prometheus**, **Grafana**, and **Loki**, maintaining system health and proactively identifying potential issues before impacting end-users.\nUtilized **Cloud Object Storage** for efficient data management and backup solutions, ensuring data retention for compliance with industry regulations.\nExecuted event-driven architecture enhancements using **GCP Pub/Sub**, supporting real-time data streaming and asynchronous processing for financial applications.\n\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Engineered and optimized scalable backend services for cloud-based applications using **GoLang**, ensuring high availability and performance across various modules focused on robust e-commerce solutions.\nDesigned and maintained cloud infrastructure on **AWS**, **GCP**, and **Azure**, implementing best practices for service deployment and architecture to support rapid development and deployment cycles.\nDeveloped APIs using **gRPC** and **REST** for efficient communication between microservices, contributing to the overall performance with a focus on minimizing latency to under **200ms** in response times.\nImplemented CI/CD pipelines using **GitLab CI** and **ArgoCD** which enhanced deployment efficiency by **30%**, facilitating smoother releases and frequent updates with minimal downtime.\nMonitored applications’ health and performance using **Prometheus**, **Grafana**, and **Loki**, establishing alerts and dashboards that improved response time to incidents by **40%**.\nUtilized **Kubernetes** for container orchestration, streamlining application deployment, scaling, and management, while achieving efficient use of resources and ensuring system resilience.\nIntegrated **Cloud Object Storage** solutions for effective data management, achieved **99.99%** availability for static resources, optimizing accessibility and cost.\nExecuted effective logging and tracing with **Tempo**, enabling quick troubleshooting which decreased mean time to resolution (MTTR) by **25%** for critical issues.\nCollaborated in a DevOps culture that integrated development and operations to enhance collaboration, resulting in improved project delivery timelines and successful alignment with business objectives.\nLed deployment strategies utilizing **GCP Pub/Sub** for event-driven architecture enhancements, allowing for a scalable interaction model that supports increased user loads during peak traffic.\nApplied best practices in version control and collaboration to push code updates efficiently, encouraging peer reviews and code quality improvements across tech stack implementations."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tGoLang, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tgRPC, REST\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, ArgoCD, CI/CD, Prometheus, Grafana, Loki, Tempo\n\n**Cloud & Infrastructure:**\n\tAWS, GCP, Azure, Cloud Object Storage\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Docker Compose"
+}

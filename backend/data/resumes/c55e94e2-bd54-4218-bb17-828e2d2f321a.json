@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "DevOps Engineer with 13+ years of experience adept in implementing CI/CD pipelines, utilizing tools such as **Jenkins**, **GitHub Actions**, and **Docker**. Extensive experience in automating infrastructure provisioning with **Terraform** and **AWS CloudFormation**, ensuring seamless deployment on **AWS** and **Kubernetes**. Proficient in source control using **Git** and optimizing workflows for efficient collaboration.\n\nIn my previous roles as a Full Stack Developer, I successfully delivered high-performance applications in the healthcare and financial industries using **JavaScript/TypeScript**, **Python**, **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experienced in building AI/ML-powered platforms that support predictive analytics, automation, and real-time processing, while ensuring compliance with HIPAA, FHIR, PCI DSS, and SOC 2 standards.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines using **GitHub Actions** and **Jenkins** to automate deployment workflows, achieving a **30%** reduction in release times.\nUtilized **Docker** for containerization and management of microservices, ensuring consistency across environments and contributing to a **40%** increase in deployment efficiency.\nManaged orchestration and scaling of applications on **Kubernetes**, leading to a **25%** improvement in system reliability and availability.\nDeveloped infrastructure as code solutions using **Terraform** and **AWS CloudFormation**, facilitating automated provisioning and configuration management, resulting in reduced manual setup errors by **50%**.\nCollaborated on version control with **Git**, streamlining team workflows and ensuring code integrity throughout the development and deployment cycles.\nLed initiatives to enhance security practices within the development lifecycle, integrating automated security checks into CI/CD pipelines to meet organizational compliance requirements.\nSupported scaling infrastructure and application performance, monitoring system health and utilizing metrics-driven insights to optimize resource allocation.\nDesigned and maintained service monitoring systems for proactive issue resolution, reducing downtime significantly across deployed services.\nConducted performance optimization and troubleshooting operations, ensuring high availability of applications in cloud environments, leveraging tools like **AWS** and **Docker** to maintain optimal performance.\nEngaged in continuous improvement of operational processes, utilizing industry best practices to foster efficiency and reliability in the DevOps practices."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **Terraform** and **AWS CloudFormation** to automate infrastructure provisioning, leading to a **30%** increase in deployment efficiency.\nConfigured continuous integration and deployment pipelines using **Jenkins** and **GitHub Actions**, reducing deployment times from hours to **15 minutes**.\nManaged container orchestration with **Docker** and **Kubernetes**, achieving scalability across **100+** microservices and enhancing system reliability.\nCollaborated with development teams to ensure smooth CI/CD workflows, improving the overall code deployment frequency by **40%**.\nUtilized **Git** for version control, ensuring seamless collaboration among **10+** team members and maintaining high code quality through effective branching strategies.\nEngaged with **AWS** services to optimize cloud resource utilization, resulting in a cost reduction of **25%** in monthly cloud expenses.\nDeveloped automated monitoring solutions to track application performance in real-time, ensuring an uptime of **99.9%** for critical services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Terraform** for infrastructure as code to streamline cloud resource provisioning on **AWS**, enhancing deployment speed by **30%**.\nImplemented **AWS CloudFormation** templates for consistent and repeatable setup of environments, achieving a **99%** reduction in manual errors during deployment.\nAutomated CI/CD pipelines using **Jenkins** and **GitHub Actions**, reducing deployment times from hours to minutes and ensuring high-quality code delivery.\nManaged container orchestration with **Docker** and **Kubernetes**, facilitating scalable application deployments and managing over **50** microservices to enhance system reliability and resource utilization.\nUtilized **Git** for version control, ensuring collaboration across teams and maintaining code integrity throughout the development lifecycle.\nMonitored application performance using cloud solutions on **AWS**, implementing efficient scaling strategies to maintain service uptime above **99.9%**.\nOptimized system performance through continuous integration and delivery processes, leading to a **40%** improvement in deployment frequency and reduced lead time for fixes.\nSupported application security practices by conducting regular audits of deployed services, enhancing the overall security posture in line with DevOps best practices."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\n**Frontend Frameworks:**\n\tReact\n\tVue\n\tAngular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\tAzure\n\n**Databases:**\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\n**DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tJenkins\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\tTerraform\n\tAWS CloudFormation\n\n**Other:**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tNginx\n\tLet’s Encrypt\n\tCertbot\n\tAnsible\n\tHelm\n\tDocker Compose\n"
+}

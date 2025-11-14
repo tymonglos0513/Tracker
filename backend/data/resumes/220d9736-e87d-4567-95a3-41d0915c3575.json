@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Backend Architect",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a dedicated Backend Architect with 8 years of experience, I excel in backend architecture, API development, and automated testing within highly regulated industries like healthcare and finance. My technical skill set encompasses strong proficiency in **modern deployment strategies**, **cloud services** (Azure, AWS), and **containerization** that ensures smooth integration and scalability of applications. I have a solid understanding of both **relational** and **non-relational databases**, enabling me to design robust data solutions that meet business requirements.\n\nI am adept at managing **internet networking concepts**, **server management**, and enhancing **system security** through established practices, including authentication and authorization protocols. My experience includes implementing compliance standards such as SOC 2, ISO 27001, and IEC62304, guaranteeing adherence to Data Residency requirements and ensuring application resilience against CVE and CWE vulnerabilities.\n\nIn addition to my backend expertise, I possess a strong foundation in building applications with **JavaScript/TypeScript**, **Python**, and **Flutter**. I utilize **microservices architecture**, along with tools like **MLflow**, **Airflow**, and **Kubeflow** for developing and deploying machine learning pipelines, yielding predictive analytics and intelligent automation. My commitment to effective communication across disciplines fosters collaboration, enhancing project outcomes and system observability. I aim to create elegant interfaces that are both flexible and capable of rapid scalability, underpinned by gold layer performance metrics and error diagnostics.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Architect",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Architected and developed scalable backend architectures for healthcare and financial platforms using **TypeScript**, **Python (FastAPI)**, and **Node.js**, ensuring compliance with industry regulations such as HIPAA, FHIR, GDPR, and **PCI DSS**.\nDesigned APIs and services focused on **modern deployment strategies** and system observability, leveraging **Docker** and **Kubernetes (AKS/EKS)** for containerization and microservices architecture.\nImplemented automated testing frameworks with **Jest** and **Cypress**, ensuring high-quality code through continuous testing processes across all applications, achieving a coverage of over **85%** in unit tests.\nOptimized relational and non-relational databases like **PostgreSQL**, **MongoDB**, and **Redis**, enhancing performance metrics and enabling rapid scalability to handle data ingestion for **millions** of health and financial records.\nLed the establishment of enterprise-level DevOps pipelines using **GitHub Actions** and **Azure DevOps**, successfully deploying applications in multiple environments with an efficiency increase of **30%**.\nDeveloped applications with a strong focus on security practices, implementing encryption, authentication, and authorization mechanisms to safeguard sensitive data according to **ISO 27001** and **SOC2** compliance.\nDesigned cloud services using **AWS Lambda** and **Azure Functions**, facilitating a serverless architecture that improved application responsiveness and reduced operational costs by **20%**.\nIntegrated automated error diagnostics and performance monitoring tools to provide system observability, enhancing overall application reliability and reducing downtime by **25%**.\nFostered communication across disciplines to facilitate collaboration with front-end developers and data scientists, ensuring cohesive development processes and timely project deliveries.\nUtilized frameworks for model-based engineering in developing innovative and elegant interfaces for client-facing applications, driving improved user engagement and satisfaction.\nCollaborated in implementing CI/CD processes that empowered flexibility with tools and maintained high standards of code quality, achieving quicker release cycles and lower incident rates in production environments.\nEstablished thorough knowledge on regulated industry experiences, including **CVE** and **CWE** awareness, to ensure a secure development lifecycle in compliance with required standards."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Designed and implemented backend architecture for scalable financial platforms using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django) to handle **9 million** transactions monthly, enhancing system maintainability and throughput.\n• Developed robust RESTful APIs and services for financial applications ensuring seamless integration with front-end and third-party services, focusing on high-performance and resilience.\n• Managed databases, utilizing both **relational** (MySQL/PostgreSQL) and **non-relational** (MongoDB) databases, ensuring optimal data storage solutions for various data access patterns.\n• Executed automated testing strategies leading to a **30%** reduction in deployment errors, ensuring high-quality code and system reliability.\n• Collaborated across disciplines to establish modern deployment strategies and cloud services, significantly improving deployment times by **50%** through CI/CD practices.\n• Ensured system security by implementing encryption protocols, authentication, and authorization measures in compliance with **ISO 27001** and **SOC2** standards, achieving safe data handling.\n• Leveraged containerization technologies like **Docker** and orchestration platforms (like **Kubernetes**) to enhance application deployment flexibility and scalability.\n• Provided system observability and implemented performance metrics to monitor the health of applications, leading to a **25%** improvement in error diagnostics.\n• Developed and maintained comprehensive documentation for APIs and services, facilitating collaboration across different teams and enhancing communication across disciplines.\n• Applied knowledge of CVE and CWE for ongoing software vulnerability management and system hardening in a regulated industry environment."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Designed and optimized **backend architecture** for a global e-commerce platform using **Python** (**FastAPI**, **Django**) and **Node.js** (**NestJS**, **Express**), ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\n• Developed robust **APIs** and services leveraging **WebSockets** with event-driven architecture powered by **Kafka** and **RabbitMQ**, enabling responsive order updates and dynamic inventory tracking.\n• Implemented various **databases** including **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data storage, ensuring fast and fault-tolerant access for high-traffic e-commerce workflows and enhancing performance by caching frequently accessed resources.\n• Engineered real-time applications with rich user interfaces using **React** (**18**), **Vue 3**, and **Angular**, while employing strongly typed languages like **TypeScript**, ensuring a fast, responsive experience on both web and mobile.\n• Integrated AI/ML recommendation engines using **scikit-learn**, **LightGBM**, and **TensorFlow** to personalize product listings, improve search relevance, and enhance conversion rates based on real-time behavioral data, achieving a conversion increase of up to **20%**.\n• Applied modern deployment strategies with **Kubernetes** for blue-green deployments and feature flags using **LaunchDarkly**, facilitating controlled rollouts and A/B testing across platforms.\n• Built secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, implementing PCI-compliant handling of sensitive data to ensure transaction security.\n• Established role-based access control (**RBAC**) and **OAuth 2.0** for secure customer and admin access, ensuring compliance with GDPR and safeguarding user data throughout the platform.\n• Executed automated testing protocols to ensure system reliability and observability, continuously improving **access performance metrics** and error diagnostics for regulatory compliance, including **SOC2**, **ISO 27001**, and **IEC62304**.\n• Maintained flexibility with tools and technology to communicate effectively across disciplines, ensuring rapid scalability and adherence to **Data Residency** requirements."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:** \n\tReact, Vue, Angular\n\n **API Technologies:** \n\tAPIs, authentication, authorization\n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda), Azure (App Services), cloud services\n\n **Databases:** \n\tPostgreSQL, MySQL, MongoDB, Redis, relational databases, non-relational databases\n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, modern deployment strategies, containerisation\n\n **Cloud & Infrastructure:** \n\tserver management, system observability, flexibility with tools\n\n **Other:** \n\tautomated testing, internet networking concepts, communication across disciplines, strong typing, system security, CVE knowledge, CWE knowledge, encryption, error diagnostics, rapid scalability, Model Based Engineering, regulated industry experience, Data Residency requirements, SOC2 knowledge, ISO 27001 knowledge, IEC62304 compliance, gold layer performance metrics, elegant interfaces, Let’s Encrypt, Nginx, Certbot, MLflow, Airflow, Kubeflow"
+}

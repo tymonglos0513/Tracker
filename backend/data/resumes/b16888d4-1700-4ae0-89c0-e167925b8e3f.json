@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "AI Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As an AI Engineer with 8 years of experience, I specialize in leveraging **AI/ML** and **LLMs** to build innovative solutions for complex challenges in healthcare and finance. My technical skills include **Python**, **LangChain**, **Hugging Face Transformers**, and the **OpenAI API**, complemented by robust expertise in developing REST and GraphQL APIs with **FastAPI**. I excel in microservices architecture, enabling seamless integration of predictive analytics capabilities using **RAG pipelines** and **vector databases**. \n\nMy experience encompasses extensive work in **Azure**, **AWS**, and **GCP**, ensuring scalable cloud solutions. I am proficient in containerization using **Docker** and orchestration with **Kubernetes** to streamline deployments. My commitment to data privacy and security is reflected in my adherence to compliance standards such as HIPAA and PCI DSS. \n\nIn addition to my technical acumen, I have a solid foundation in documentation and communication, which allows me to effectively convey complex concepts and collaborate with cross-functional teams. I am passionate about advancing AI deployment strategies and implementing MLOps workflows that drive operational excellence.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and implemented AI/ML solutions leveraging **Python**, **scikit-learn**, **TensorFlow**, and **PyTorch** to address use cases such as patient risk prediction and financial fraud detection, enhancing data-driven decision-making in healthcare and finance.\nIntegrated language models using **Hugging Face Transformers** and **LangChain** to develop intelligent applications that provide personalized health recommendations and smart financial dashboards.\nEstablished API endpoints using **FastAPI** for seamless integration with client-facing applications, ensuring high performance and compliance with regulations such as HIPAA and GDPR.\nArchitected and deployed microservices in containerized environments using **Docker** and **Kubernetes** to support scalable AI solutions, achieving **99.9%** uptime and high availability.\nDeveloped and maintained RAG pipelines for efficient retrieval augmented generation, enhancing the responsiveness of AI applications through optimized data handling.\nImplemented secure data handling and compliance strategies across AI deployments, ensuring adherence to privacy laws and regulations, including data encryption and access controls.\nCollaborated with cross-functional teams to document AI model performance, compliance measures, and deployment processes, using clear communication to facilitate knowledge sharing.\nBuilt and integrated vector databases for efficient similarity searches, supporting advanced AI functionalities across healthcare and financial applications.\nImplemented enterprise-grade security measures into AI deployment workflows using **Azure**, **AWS**, and **GCP**, including container security and compliance checks.\nDesigned and executed testing strategies using Jest, Cypress, and **Postman**, ensuring robust functionality and compliance of AI systems across all stages of development.\nUtilized **GraphQL** for data retrieval efficiency, enhancing the performance of AI applications in handling complex queries from healthcare and financial databases.\nContinuously monitored and improved AI model performance and system security through automated pipelines integrated with **Azure DevOps** and **GitHub Actions**, achieving **90%** reduction in deployment time."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed and integrated AI/ML solutions using **Python** and frameworks like **scikit-learn** and **XGBoost** to create proactive fraud detection systems analyzing transaction patterns for financial institutions.\n• Designed and deployed **REST** and **GraphQL** APIs for seamless integration of AI models into existing financial platforms, enhancing communication between microservices and the front-end components.\n• Implemented **FastAPI** for high-performance backend frameworks, utilizing **microservices** architecture to ensure scalability and maintainability across various components of high-volume transaction systems.\n• Leveraged **Hugging Face Transformers** and **OpenAI API** for integrating advanced **AI/ML** models in applications, focused on user behavior and transaction analysis to improve detection capabilities.\n• Established robust **RAG pipelines** in conjunction with **Vector databases** for optimized data retrieval and processing, directly enhancing the efficiency of AI-driven applications.\n• Employed containerization with **Docker** and orchestration using **Kubernetes** to streamline deployment workflows for AI applications, ensuring consistent environments and scalability.\n• Collaborated with cross-functional teams to ensure compliance with **data privacy** and **security** regulations in AI deployments, including documentation of procedures and communication of findings.\n• Conducted prompt engineering to refine AI outputs and improve model responses tailored to financial analytics, enhancing user experience in applications.\n• Developed comprehensive documentation for AI systems to facilitate knowledge transfer and support compliance with industry standards, improving overall project effectiveness."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Engineered AI/ML models using **Python**, **Hugging Face Transformers**, and **LangChain**, optimizing performance for real-time data analysis and prediction, achieving an efficiency improvement of over **30%** in processing speed.\n- Developed scalable APIs with **FastAPI** and **REST** principles, facilitating seamless integration between various microservices and enhancing system modularity.\n- Implemented and maintained **AI deployment** pipelines using **Docker** and **Kubernetes**, ensuring consistent application performance and operational reliability across **3** cloud environments: **Azure**, **AWS**, and **GCP**.\n- Designed and integrated **RAG pipelines** for retrieving and generating meaningful insights, leveraging advanced algorithms to improve search accuracy and response times by **20%**.\n- Applied data privacy and security protocols, including **OAuth 2.0** for secure access control and compliance with GDPR, safeguarding sensitive user data throughout the platform.\n- Established comprehensive documentation practices for AI models and solutions, enhancing team communication effectiveness and maintaining **100%** audit readiness for compliance investigations.\n- Collaborated in cross-functional teams, utilizing clear communication to capture requirements and provide regular updates on AI feature development and deployment progress, improving project delivery times by **15%**.\n- Conducted prompt engineering for enhanced model performance, employing iterative testing measures to refine responses and adapt to customer needs effectively.\n- Integrated AI-driven features into existing applications, improving user engagement and overall experience, directly impacting conversion rates positively by **18%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **AI/ML Technologies:**\n\tAI/ML, LLMs, LangChain, Hugging Face Transformers, OpenAI API, Prompt engineering, RAG pipelines, AI deployment\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Microservices\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tAPIs, REST, GraphQL\n\n **Serverless and Cloud Functions:**\n\tAWS, Azure, GCP, Lambda, App Services\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Vector databases\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL)\n\n **Other:**\n\tDocumentation, Communication, Data privacy, Security, Compliance, Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot)"
+}

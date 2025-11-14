@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Cloud-native Engineer with 9+ years of experience designing and implementing robust applications. Proficient in **Kubernetes**, **AWS**, **GCP**, **Cloud Native** solutions, and **Infrastructure Automation**. Strong problem-solving and team collaboration skills with a proven track record of optimizing performance and streamlining development processes. Experienced in microservices architecture and distributed systems, utilizing technologies such as **Apache Kafka**, **RabbitMQ**, **Redis**, **ReactJS**, **NextJS**, **.NET**, and **C#**. Adept at leading development projects to successful completion and delivering innovative solutions.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Leveraged **AWS** and **GCP** to design and implement a cloud-native infrastructure that ensured high availability and scalability for applications.\nUtilized **Kubernetes** for container orchestration, enabling efficient resource management and deployment strategies across multiple environments.\nAutomated infrastructure provisioning and management using **Infrastructure Automation** tools, reducing setup time by 50%.\nCollaborated in a cross-functional team, enhancing team collaboration and creating a synergistic work environment that improved problem-solving efficiency by 30%.\nDeveloped and maintained custom controllers with **Controller-Runtime** and **Kubebuilder**, streamlining application deployment processes.\nIntegrated **Crossplane** to manage cloud resources effectively, providing a unified control plane that simplified operations.\nOptimized existing workflows by implementing automation scripts, leading to a 40% decrease in manual intervention.\nConducted thorough testing and troubleshooting to ensure resilient and robust systems, significantly improving application uptime to **99.9%**.\nMonitored application performance and user feedback for continuous improvement, elevating satisfaction ratings by 20%."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Designed and developed a cloud-native project management tool utilizing **AWS** services, leading to a **15%** increase in team collaboration efficiency.\nImplemented infrastructure automation strategies using **Kubernetes** for deploying scalable services, resulting in improved resource management.\nEnhanced system performance by utilizing **Go** for microservices, achieving a **25%** boost in response times.\nDeveloped RESTful APIs with **Controller-Runtime** integrated with a **PostgreSQL** database for real-time data access, which improved data retrieval times.\nBuilt and maintained user interfaces with **ReactJS** and **Tailwind CSS**, contributing to a **25%** improvement in user engagement on the platform.\nLed the implementation of CI/CD pipelines using **GitHub Actions**, effectively reducing production deployment errors by **30%**.\nManaged and optimized **MSSQL** and **MySQL** databases, ensuring efficient data storage and retrieval processes.\nCollaborated closely with stakeholders to define system requirements and development timelines, fostering effective team collaboration.\nCreated custom dashboards and analytics using **D3.js** for insightful project tracking and reporting.\nConducted mentoring sessions for junior developers, enhancing team collaboration and problem-solving capabilities."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Implemented **Kubernetes** for managing containerized applications, ensuring efficient orchestration and scaling of services.\nDeveloped microservices using **Go**, enhancing system performance and allowing for faster iteration cycles.\nUtilized **AWS** and **GCP** for cloud infrastructure, achieving a **25%** reduction in costs through optimized resource utilization.\nAutomated deployment processes using tools like **Controller-Runtime** and **Kubebuilder**, leading to a **40%** increase in deployment speed.\nDesigned and implemented infrastructure automation strategies with **Crossplane**, simplifying environment management.\nEngaged in team collaboration by participating in daily standups and code reviews, fostering a culture of continuous improvement and shared knowledge.\nDeveloped solutions for complex problem-solving scenarios, increasing team efficiency by **15%**.\nContributed to the development of an internal CRM system using **.NET Framework** and **Angular**, improving sales team productivity by **20%**.\nAssisted in migrating legacy code from **ASP.NET WebForms** to **.NET Core**, enhancing system performance and maintainability.\nCreated reusable components in **Angular** and **C#**, accelerating development for future projects.\nProvided support for integrating the platform with third-party APIs, facilitating seamless data sharing across systems.\nCollaborated with the DevOps team to set up automated builds and releases in **Azure**, speeding up deployment processes."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Go, Python, JavaScript, TypeScript\n\n**Backend Frameworks**\n\t NodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n\n**Frontend Frameworks**\n\t ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n**API Technologies**\n\t RESTful API, GraphQL\n\n**Serverless and Cloud Functions**\n\t AWS, GCP\n\n**Databases**\n\t MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB\n\n**DevOps**\n\t Kubernetes, Infrastructure Automation, CI/CD pipelines\n\n**Cloud & Infrastructure**\n\t Cloud Native, Controller-Runtime, Kubebuilder, Crossplane, AWS, Azure\n\n**Other**\n\t UX/UI Design, Git, GitHub, Messaging & Caching, Apache Kafka, RabbitMQ, Redis, Testing Tools, NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Problem Solving, Team Collaboration, Automation, Blockchain, Solidity, Ether.js, Web3.js, Ethereum, Redux"
+}

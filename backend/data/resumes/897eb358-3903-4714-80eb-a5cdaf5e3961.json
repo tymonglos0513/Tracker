@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Data Engineer II",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Data Engineer with over 10 years of experience in building robust data pipelines, efficient data storage solutions, and automated reporting systems. Proficient in deploying **cloud-native tools** and orchestrating **data workflows** while ensuring seamless **data ingestion**, **transformation**, and **delivery**. Adept at implementing **automated testing** protocols to enhance data integrity. Strong collaboration skills, having successfully delivered large-scale projects for leading companies like VISA, Sii Poland, and Reply Polska. Technically skilled in Python (**FastAPI**, **Django**, **Flask**) and cloud platforms such as **AWS** and **Azure**, leveraging these technologies to create high-performing services that meet organizational needs.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer II",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "• Designed and implemented **data pipelines** for regulatory data exchange using **Apache Airflow** and **Azure Functions**, ensuring accurate and timely data flow, processing over **100 million** records monthly.\n• Developed **data storage solutions** and managed **data workflows** to streamline reporting systems while enhancing performance by **30%**.\n• Utilized **cloud-native tools** such as **Azure App Services** for deploying microservices, contributing to a scalable architecture handling up to **5,000** concurrent users.\n• Automated testing procedures to validate integrity and reliability of **data transformation** and **data ingestion** processes, achieving a **99%** success rate on deployments.\n• Collaborated with cross-functional teams to address system integration challenges, ensuring compliance with data governance regulations and effective **data delivery** strategies.\n• Integrated advanced collaboration practices to enhance communication across teams, leading to a reduction in project timelines by **25%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Focused on developing **data pipelines** for efficient **data ingestion**, **data transformation**, and **data delivery** across various platforms.\nEngineered backend systems using **Python** and **FastAPI** to streamline **data workflows**, automating document handling processes and enhancing the **reporting systems**.\nCreated and maintained event-driven microservices with **Celery** and **Redis**, improved asynchronous processing of financial data, optimizing transaction requests by over **30%**.\nManaged deployment strategies of microservices on **Azure App Services**, utilizing **Terraform** for infrastructure automation, achieving consistent scalability for applications.\nDesigned and implemented secure data pipelines for the exchange of regulatory data with the help of **Apache Airflow** and **Azure Functions**, reducing data flow processing times by **25%**.\nConducted comprehensive security audits, ensuring compliance with industry standards, and integrated **OAuth2** and **Azure AD B2C** protocols to effectively manage authentication and secure access controls.\nCollaborated with cross-functional teams, improving system integration and ensuring regulatory compliance during the release management process, participating in over **15** successful project launches."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed and maintained **data pipelines** for trade execution, portfolio management, and account tracking using **Python**, **Flask**, and **PostgreSQL**, improving trading operations by 30%.\nEngineered **data storage solutions** through real-time price feed processors utilizing **asyncio**, **WebSockets**, and **Redis**, delivering trading data updates every **10 milliseconds** to cater to high-frequency transactions.\nFacilitated seamless **data workflows** by collaborating with frontend teams to expose data via **REST APIs** and **WebSocket channels**, ensuring a smooth user experience with a system performance improvement of 25%.\nEnsured compliance with regulatory standards such as **MiFID II** and **GDPR**, while implementing robust **data architecture** to uphold internal security protocols and safeguarding sensitive data.\nImplemented and automated **testing systems** using **PyTest**, **tox**, and mock servers, which reduced QA cycles by up to **40%**, enhancing development efficiency.\nIntroduced effective **data delivery** methodologies through job queuing and scheduling solutions using **Celery** and **RabbitMQ**, optimizing backend task execution with a reported speed increase of **15%**."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n **Frontend Frameworks**\n\t\n\n **API Technologies**\n\tREST/gRPC APIs\n\n **Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n **Cloud & Infrastructure**\n\tcloud-native tools\n\n **Other**\n\tdata pipelines, data storage solutions, reporting systems, automated testing, data workflows, data ingestion, data transformation, data delivery, collaboration, data architecture, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Microservices, Kafka, PyTest, Git"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Data Engineer with 8 years of experience, I specialize in designing and implementing ETL and ELT pipelines to manage and process large datasets effectively. My technical expertise encompasses **Python**, **pandas**, **SQL**, and **PySpark**, which enables me to build robust data models and ensure data quality across projects. I have hands-on experience with data lakes and data warehouses, leveraging technologies like **Apache NiFi** and **Kafka** for real-time data streaming and processing.\nAdditionally, I am proficient in containerization and orchestration with **Docker** and **Kubernetes**, facilitating seamless deployment and management of data workflows. My background in microservices architecture and CI/CD automation enhances my ability to deliver scalable and maintainable data solutions.\nI also have a proven track record in integrating machine learning capabilities into data pipelines, allowing for advanced analytics and intelligent insights. My work is underpinned by compliance with data privacy standards and best practices.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented robust data engineering solutions leveraging **Python**, while employing **pandas** for data manipulation and analysis across large healthcare and financial datasets.\nDesigned and optimized **SQL** queries to enable efficient data retrieval from complex data models, enhancing data accessibility and quality.\nArchitected ETL and ELT pipelines utilizing **Apache NiFi** and **Kafka** for seamless data ingestion and stream processing, ensuring data integrity and timeliness.\nCreated scalable data storage solutions within **Data Lakes** and **Data Warehouses**, optimizing data architecture for performance and cost.\nApplied **PySpark** for processing and transformation of large datasets, enabling efficient data workflows that meet business needs.\nEnhanced data quality through rigorous data modeling and validation techniques, streamlining analytic processes and reporting.\nContainerized applications and services using **Docker** for isolated development environments, boosting collaboration and deployment consistency.\nManaged orchestration of containerized workloads with **Kubernetes** to ensure high availability and efficient resource utilization in data processing tasks.\nDeveloped solutions using **Apache Hudi** for managing storage and processing of large-scale data streams on-the-fly, improving data freshness.\nImplemented storage management frameworks like **Ozone** to enhance data governance and accessibility within cloud-native applications.\nCollaborated with cross-functional teams to ensure alignment of data architecture with business reporting and analytics needs, achieving a **20%** reduction in data processing time.\nEstablished data quality frameworks and monitoring systems, reducing data errors by **15%** over a **6-month** period, resulting in more reliable analytics outputs."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **pandas** to develop data processing scripts that ensure high data quality and integrity in ETL operations, achieving a **99.9%** accuracy rate in data ingestion.\nEngineered robust **ETL** pipelines using **Apache NiFi** and **Kafka**, facilitating real-time data processing and transfer between systems, reducing data latency by **30%**.\nEmployed **SQL** for data querying and manipulation across **Data Lakes** and **Data Warehouses**, optimizing query performance and enabling insightful data analytics.\nImplemented **Docker** and **Kubernetes** for containerization and orchestration of data services, allowing for consistent deployment and scaling of applications.\nDeveloped and maintained data models that improved the efficiency of data retrieval by **25%**, utilizing industry best practices in **Data Modeling**.\nInitiated processes for **Data Quality** assessments, ensuring continuous data validation and integrity checks to uphold data standards for reporting and analysis.\nApplied **PySpark** to process large datasets, enhancing processing times by analyzing and transforming data through distributed computing.\nConducted workshops on best practices in **ELT** processes, aligning teams towards a more streamlined data integration strategy, which drove a **40%** increase in team productivity.\nLeveraged **Apache Hudi** for near real-time data ingestion and storage, enabling effective handling of large-scale transactional data.\nIntegrated **Ozone** for optimized cloud-based data storage solutions that supported high availability and fault tolerance for critical data pipelines."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **pandas** to design and implement innovative ETL processes for data extraction, transformation, and loading, enhancing data pipeline efficiency by **30%**.\nDeveloped data modeling solutions that ensured optimal data quality and integrity within **Data Lakes** and **Data Warehouses**, improving query performance by **50%**.\nOptimized data workflows with **Apache NiFi** and **Kafka**, facilitating real-time data ingestion and processing for large-scale data pipelines that handle **millions** of weekly transactions.\nEngineered scalable data processing jobs using **PySpark**, successfully processing over **1TB** of data daily to provide actionable insights for stakeholders.\nImplemented containerized solutions with **Docker** and orchestrated them with **Kubernetes**, achieving seamless deployment and scalability in cloud environments while reducing operational costs by **20%**.\nMaintained stringent data quality standards and performed regular auditing to ensure compliance with business requirements and regulatory standards.\nDesigned and executed robust data transformation workflows for integrating disparate data sources, using **ETL** and **ELT** strategies to prepare data for advanced analytics.\nImplemented Apache Hudi and Ozone for efficient data lake management, significantly reducing data duplication and improving the overall storage efficiency by **35%**.\nCollaborated with cross-functional teams to gather requirements and provide insights, enabling data-driven decision-making across departments."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, pandas, SQL\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tApache NiFi, Kafka, PySpark, Data Lakes, Data Warehouses, ETL, ELT, Data Quality, Data Modeling, Apache Hudi, Ozone\n\n**Other:**\n\tMLflow, Airflow, Kubeflow",
+  "apply_company": "ZABEL"
+}

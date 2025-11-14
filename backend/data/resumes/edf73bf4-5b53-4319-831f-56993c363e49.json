@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Python Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Python Engineer with 10+ years of experience specializing in **Python**, **Django**, **Flask**, and **FastAPI** for creating secure and scalable backend solutions. Proven expertise in **Microservices** architecture, leveraging **Design Patterns** and **Best Practices** to deliver maintainable systems. Proficient in implementing **Infrastructure as Code** using **Terraform**, **Ansible**, and **CloudFormation** to streamline deployment processes across cloud platforms like **AWS**, **Azure**, and **Google Cloud**.\nExtensive experience with **Docker** and **Kubernetes** for containerization and orchestration, alongside continuous integration and deployment (CI/CD) practices using **Jenkins**, **GitLab CI/CD**, and **GitHub Actions**. Strong command of **Linux** and shell scripting in **Bash** for efficient system management. Adept at utilizing monitoring and logging solutions such as **Prometheus**, **Grafana**, and the **ELK Stack** to ensure system reliability and performance.\nDemonstrated history of building data-driven applications with relational databases (**PostgreSQL**, **MySQL**) and NoSQL options (**MongoDB**, **Redis**). Passionate about employing innovative technology to solve complex problems and deliver impactful solutions in healthcare and finance.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tDeveloped scalable microservices using **Python**, employing frameworks such as **FastAPI** and **Django**, ensuring adherence to best practices and design patterns for robust software development.\n•\tImplemented Infrastructure as Code (IaC) using **Terraform** and **CloudFormation** for seamless deployment in cloud environments like **AWS** and **Azure**, improving deployment efficiency by **30%**.\n•\tDesigned and maintained cloud-native databases with **PostgreSQL** and **MongoDB**, optimizing performance for data ingestion and queries, handling **millions** of records efficiently.\n•\tLed the transition of monolithic applications to a microservices architecture using **Docker** and **Kubernetes**, enhancing system scalability and reducing downtime by **25%**.\n•\tCreated CI/CD pipelines using **GitHub Actions** and **GitLab CI/CD**, implementing automated testing and deployment processes, reducing release cycle time by **40%**.\n•\tBuilt and integrated RESTful APIs in both **Flask** and **FastAPI** for data-driven applications in healthcare, ensuring compliance with industry-specific regulations.\n•\tUtilized observability tools like **Prometheus** and **Grafana** to monitor microservices performance and optimize resource utilization, resulting in improved response times by **20%**.\n•\tConducted code reviews and established coding standards to advance best practices within the team, mentoring junior engineers to grow their skills in cloud technologies and Python frameworks.\n•\tCollaborated with cross-functional teams to align development efforts with business goals and deliver high-quality software that meets both technical and user needs.\n•\tEnsured the implementation of security practices across applications and infrastructure to protect sensitive data and maintain compliance with regulations, enhancing application security posture."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Led the development of **cloud-based** financial platforms with a focus on **microservices** architecture utilizing **Python** frameworks such as **Django** and **FastAPI**, enhancing system scalability by over **30%**.\n• Designed and implemented **CI/CD** pipelines using **Jenkins**, **GitLab CI/CD**, and **GitHub Actions**, resulting in a **40%** reduction in deployment time for finance applications.\n• Built dynamic applications employing **React** (18), **Vue 3**, and **Next.js** with **TypeScript**, ensuring the front-end was responsive and performant, achieving user satisfaction ratings above **95%**.\n• Developed analytical dashboards using **D3.js** and integrated with **Power BI Embedded**, allowing operations teams to perform real-time transaction analysis with data processing times reduced by **25%**.\n• Established event-driven architectures with **Kafka**, **RabbitMQ**, and **Azure Service Bus** to improve asynchronous communications and transaction processing, achieving near real-time performance.\n• Built and orchestrated ETL pipelines using **Apache Airflow**, **Azure Data Factory**, and **Python**, streamlining financial data ingestion from **5+** internal and third-party sources.\n• Developed and optimized AI/ML systems for fraud detection utilizing **scikit-learn** and **XGBoost**, identifying suspicious activities with an accuracy rate exceeding **90%**.\n• Created ML pipelines for credit scoring and transaction classification, utilizing **MLflow** and **Airflow** to integrate model inference seamlessly into backend services for real-time decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** (including **Django**, **Flask**, and **FastAPI**) to design and optimize microservices for a global e-commerce platform, achieving **99.9%** uptime and reducing latency to under **200ms** for checkout and order fulfillment modules.\nEmployed **Infrastructure as Code** principles using **Terraform** and **Ansible** to manage cloud resources efficiently across **AWS**, enhancing deployment consistency and scalability.\nImplemented **CI/CD** pipelines with **Jenkins**, **GitLab CI/CD**, and **GitHub Actions**, automating deployment processes to reduce deployment time by **30%**.\nDeveloped secure and resilient backend architectures following design patterns and best practices, implementing **Docker** containers and orchestrating with **Kubernetes** to ensure high availability.\nApplied advanced data storage solutions using **PostgreSQL**, **MongoDB**, and **Redis**, and improved data retrieval speeds by **50%** for high-traffic e-commerce workflows.\nMonitored application performance and reliability through **Prometheus** and **Grafana**, achieving actionable insights that led to a **25%** reduction in downtime.\nOptimized backend processing flows using secure coding practices, ensuring compliance with GDPR and securing user data through **role-based access control (RBAC)** and **OAuth 2.0**.\nCollaborated with frontend teams to integrate seamless user experiences across web applications built with **React** and **Vue 3**, ensuring fast load times and optimized for mobile engagement.\nImplemented automated testing frameworks and performance monitoring, achieving a **95%** test coverage on critical components to ensure high code quality and reliability."
+    }
+  ],
+  "skills": "**Programming Languages**:\n\tPython, JavaScript/TypeScript\n\n**Backend Frameworks**:\n\tFastAPI, Flask, Django, Microservices\n\n**Frontend Frameworks**:\n\tReact, Vue, Angular\n\n**API Technologies**:\n\t\n\n**Serverless and Cloud Functions**:\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Google Cloud\n\n**Databases**:\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**:\n\tDocker, Kubernetes, Jenkins, GitLab CI/CD, GitHub Actions, CI/CD\n\n**Cloud & Infrastructure**:\n\tTerraform, Ansible, Infrastructure as Code, CloudFormation, Linux, Bash\n\n**Other**:\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Design Patterns, Best Practices, Prometheus, Grafana, ELK Stack",
+  "apply_company": "Robert Walters"
+}

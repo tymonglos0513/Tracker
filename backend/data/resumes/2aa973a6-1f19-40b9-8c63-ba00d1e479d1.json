@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Engineer with 8 years of experience, I excel in CI/CD practices and cloud solutions, particularly with **Azure DevOps**, **AWS**, and **Terraform**. My technical prowess includes proficiency with **RDS**, **Oracle**, **MySQL**, and a strong understanding of **Linux** systems, enabling me to build and manage high-performance applications effectively. I am adept at leveraging tools such as **Git**, **SaltStack**, **CloudTrail**, and **Lambda** to ensure robust infrastructure and seamless deployment processes. \n \nIn my previous roles, I've developed enterprise-grade platforms, implementing microservices architecture and event-driven systems to enhance application scalability and performance. My deep knowledge in developing secure applications compliant with standards like HIPAA and PCI DSS complements my hands-on experience in **Python** and **Groovy** for scripting automation tasks. I am also well-versed in Agile methodologies, problem-solving, and collaboration, ensuring successful project delivery and team objectives. \n \nThrough my experience, I have integrated intelligent automation and real-time data processing with **MLflow**, **Airflow**, and **Kubeflow**, bringing a valuable edge to the healthcare and financial sectors.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented **CI/CD** pipelines using **Azure DevOps** and **GitHub Actions**, ensuring automation and efficiency in the deployment processes across **9** distinct environments.\n- Developed scalable back-end services using **Python** and **FastAPI**, focusing on high-performance and secure applications following **Agile** methodologies.\n- Leveraged **AWS Lambda** for serverless architecture, enhancing system resiliency and optimizing resource allocation for a **24/7** operational environment.\n- Utilized **Terraform** for infrastructure as code, managing cloud resources in **AWS** and ensuring seamless deployment of applications.\n- Engineered data storage solutions with **RDS**, **PostgreSQL**, and **MongoDB**, handling over **1 million** data transactions daily while ensuring low latency.\n- Applied **Git** for version control and collaboration, maintaining an organized codebase that supports team contributions across various **Python** and **Ruby** projects.\n- Engaged in incident management using **JIRA** and **Remedy**, facilitating communication and collaboration among cross-functional teams during critical outages and ensuring timely resolutions.\n- Developed monitoring and logging systems using **Elastic** stack technologies (**Logstash**, **Kibana**) to analyze system performance and application behavior reliably.\n- Actively participated in disaster recovery planning and execution, ensuring system integrity and data availability with minimal downtime during incidents.\n- Collaborated closely with teams to implement problem-solving strategies for technical challenges, utilizing effective communication to convey complex ideas clearly across diverse audiences.\n- Contributed to open-source communities by sharing knowledge in **bash** scripting and automation practices to enhance project scalability and efficiency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS**, **Azure**, and **Git** to implement CI/CD pipelines, enhancing deployment efficiency and reducing time-to-market by **30%**.\nEmployed **Terraform** for infrastructure as code, ensuring scalable and repeatable deployments across environments, achieving a **99.9%** uptime.\nManaged relational databases such as **MySQL** and **Oracle**, optimizing queries for performance improvements that resulted in a **40%** decrease in response time for key transactions.\nLed modernization of financial platforms with a microservices architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), improving system scalability and throughput by **25%**.\nDeveloped user-focused front-end applications using **React** (18), **Vue 3**, and **Next.js** leveraging **TypeScript**, with responsive designs built using **Tailwind CSS**.\nImplemented robust event-driven systems with **Kafka**, **RabbitMQ**, and **Azure Service Bus** for real-time processing, enhancing transaction monitoring capabilities.\nOrchestrated ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory**, facilitating seamless data ingestion from **3+** internal and third-party sources.\nApplied AI/ML techniques for fraud detection utilizing **scikit-learn** and **XGBoost**, resulting in a **50%** increase in detected suspicious transactions.\nCreated and managed ML pipelines for credit scoring and churn prediction integrated directly into backend systems, enhancing decision-making speed significantly."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Implemented CI/CD pipelines using **Azure DevOps**, streamlining deployment processes and enhancing code quality across teams, resulting in a **30% reduction** in deployment time.\n- Utilized Git for version control and collaboration, ensuring efficient team workflows and code integrity throughout the software development lifecycle.\n- Leveraged **Terraform** for infrastructure as code, automating the provisioning of cloud resources on **AWS** and ensuring consistent environments for development and production.\n- Developed scalable backend services in **Python** with a focus on **problem-solving** and **collaboration**, achieving **99.9% uptime** for critical e-commerce functionalities.\n- Employed **MySQL** and **RDS** for database management, optimizing query performance and enabling disaster recovery strategies that reduced downtime during failures by **40%**.\n- Integrated logging and monitoring solutions using **Kibana**, **Logstash**, and **Elastic** to enhance operational visibility and facilitate rapid troubleshooting with a **70%** decrease in issue resolution time.\n- Applied Agile methodologies in project management, enhancing team **communication** and efficiency, and ensuring timely delivery of project milestones within the **2-week sprints**.\n- Ensured system security and compliance by implementing role-based access control (RBAC) and utilizing **OAuth 2.0**, securing sensitive data for both admin and customer access.\n- Created automation scripts using **Python**, **Perl**, and **bash**, enhancing system management and operational efficiency.\n- Participated in disaster recovery planning and executed tests that improved overall system reliability and availability across all services, aligning with business continuity requirements."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript, TypeScript, Perl, Groovy, Ruby, bash\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda, ECS), Azure (App Services)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Oracle, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, Azure DevOps\n\n**Cloud & Infrastructure:**\n\tRDS, CloudTrail, System Manager, Disaster Recovery, Linux\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot, Kibana, JIRA, Remedy, Logstash, Elastic, Tuxedo, Agile, problem-solving, communication, collaboration",
+  "apply_company": "CSG"
+}

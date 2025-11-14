@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-driven Senior Software Engineer with 13+ years of experience in building high-performance applications across the healthcare and financial sectors. Proficient in **JavaScript**, **TypeScript**, **Node.js**, **React**, and **Express**. Experienced with database management using **MongoDB**, **Redis**, and **PostgreSQL**. Solid background in **Linux**, **Docker**, **Kubernetes**, and **GCP**, ensuring robust deployment of cloud-native systems. Adept in implementing **DevOps** practices, including **CI/CD**, **Automated Testing**, and version control with **GitHub**. Knowledgeable in security practices to ensure application compliance and integrity.\n\nSkilled in both frontend and backend development with expertise in **FastAPI** and **Django**. Proven ability to develop AI/ML-powered platforms for predictive analytics and automation. Well-versed in compliance-driven development, aligning solutions with industry standards like HIPAA, FHIR, PCI DSS, and SOC 2. Strong background in MLOps and orchestration using tools such as **MLflow** and **Airflow**, ensuring efficient model training and deployment.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed full-stack applications utilizing **JavaScript**, **TypeScript**, **Node.js**, and **React (17–18)**, ensuring adherence to robust security practices across all platforms.\n• Designed RESTful services and integrated with **MongoDB**, **PostgreSQL**, and **Redis** to facilitate efficient data management and CRUD operations.\n• Implemented **Docker** containers for environment consistency and leveraged **Kubernetes** for orchestrating deployments, improving system reliability by **40%**.\n• Automated CI/CD pipelines using **GitHub** Actions and **Docker**, achieving a **30%** reduction in deployment time through efficient release processes.\n• Engaged in continuous automated testing using tools like Jest and Cypress, ensuring code quality and reducing bugs by **25%** through comprehensive test coverage.\n• Enhanced system performance and monitoring with **Prometheus** and built logging mechanisms for error tracing and observability in production environments.\n• Contributed to a culture of DevOps, advocating for best practices that included version control and continuous integration.\n• Collaborated with cross-functional teams to deliver all software components on schedule, maintaining a project success rate of **95%**.\n• Conducted reviews of code and architecture to ensure compliance with security practices and performance standards, leading to a more efficient and secure codebase.\n• Actively participated in Linux environment configuration and maintenance, ensuring optimal system performance and uptime."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Leveraged **JavaScript**, **TypeScript**, and **Node.js** (NestJS/Express) to modernize core financial platforms by migrating to microservices architecture, enhancing scalability and performance for high-volume transactional systems.\n• Developed interactive front-end applications using **React** (v18), **Vue 3**, **Next.js**, and **TypeScript**, integrating **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels.\n• Delivered real-time analytics dashboards with **React** and **D3.js**, complemented by **Power BI Embedded** to provide operations teams with instant insights into transaction patterns, enhancing decision-making.\n• Engineered an event-driven architecture utilizing **Kafka**, **RabbitMQ**, and **Azure Service Bus** for robust asynchronous communication across payment workflows, alerts, and compliance with a 99% uptime.\n• Developed ETL pipelines for financial data ingestion from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing to handle over **1M** transactions daily.\n• Built and deployed machine learning models for fraud detection utilizing **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activities based on behavior and transaction patterns.\n• Created machine learning pipelines for real-time credit scoring, churn prediction, and transaction classification, utilizing **MLflow** and **Airflow** to seamlessly integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Engineered robust backend services for a global e-commerce platform leveraging **Node.js** (including **Express**), **JavaScript**, and **TypeScript**, ensuring high availability and low latency, effectively managing crucial modules such as checkout and order fulfillment.\nOptimized database interactions through **MongoDB**, **PostgreSQL**, and **Redis** to ensure fault-tolerant data access and improved application performance, handling up to **10,000** concurrent users.\nImplemented continuous integration and deployment (CI/CD) pipelines with **Docker**, ensuring smooth updates and efficient orchestration on **Kubernetes**, leading to a **50%** reduction in deployment time.\nEmployed extensive logging and monitoring solutions utilizing **Prometheus** to enhance system reliability and performance monitoring.\nExecuted comprehensive automated testing routines to maintain high-quality code standards, improving bug detection rates by **30%** before production.\nDesigned user-friendly frontend applications with **React** (v18) and integrated dynamic components to deliver engaging web experiences, conforming to mobile-first strategies.\nEstablished DevOps best practices to streamline workflows and improve collaboration between development and operations teams, resulting in a **40%** improvement in deployment frequency.\nApplied security practices such as role-based access control (RBAC) and OAuth 2.0 to protect user data and ensure regulatory compliance, achieving **100%** adherence to GDPR requirements.\nLeveraged cloud services on **GCP** to improve scalability and resource allocation, effectively managing resources based on traffic demands.\nCollaborated in an Agile environment, participating in sprint planning and retrospectives to continuously improve processes and product quality."
+    }
+  ],
+  "skills": "****Programming Languages:****\n\tJavaScript, TypeScript, Python\n\n****Backend Frameworks:****\n\tFastAPI, Flask, Django, Node.js, Express\n\n****Frontend Frameworks:****\n\tReact, Vue, Angular\n\n****API Technologies:****\n\t\n\n****Serverless and Cloud Functions:****\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n****Databases:****\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n****DevOps:****\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, CI/CD, Prometheus\n\n****Cloud & Infrastructure:****\n\tAWS, Azure, Linux\n\n****Other:****\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow, Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Security Practices, Automated Testing",
+  "apply_company": "Digital Science"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Accomplished Senior Engineer with 10+ years of experience in full-stack development, specializing in creating dynamic and high-performing applications. Proficient in **React**, **TypeScript**, **Next.js**, **SCSS**, and adept at backend technologies including **Python** and **REST** APIs. Skilled in utilizing **GraphQL** for efficient data fetching and implementing **CI/CD** pipelines with **GitHub Actions**, while leveraging **AWS** for cloud solutions. Known for driving successful projects through collaboration and effective problem-solving, with a proven background in building scalable financial platforms and AI/ML pipelines at industry leaders such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Developed full-stack applications using **React**, **TypeScript**, and **Next.js**, enhancing user experience and satisfaction by over **25%**.\nEngineered RESTful and GraphQL APIs in **Python** to facilitate seamless communication between frontend and backend systems, improving data retrieval speed by **30%**.\nImplemented CI/CD pipelines using **GitHub Actions** to automate testing and deployment, reducing release times by **20%**.\nEngineered backend services in **Python** using **FastAPI** to streamline document automation, user onboarding, and reporting workflows.\nDeveloped event-driven solutions with **Celery** and **Redis** to manage asynchronous processing for financial transaction requests.\nDeployed microservices on **Azure App Services** and utilized **Terraform** to manage infrastructure as code, ensuring seamless cloud operations.\nCreated and maintained data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, ensuring timely and accurate data flow.\nLed security assessments and integrated **OAuth2** and **Azure AD B2C** for secure, scalable authentication systems.\nCollaborated with cross-functional teams to address system integration challenges, ensure compliance, and oversee release strategies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **React**, **TypeScript**, and **Next.js** to develop user-centric frontend solutions, resulting in a 30% improvement in user engagement.\nLeveraged **Python** and **FastAPI** for backend development, automating document workflows and enhancing report generation accuracy by 25%.\nImplemented **REST** and **GraphQL** APIs for efficient data retrieval and manipulation, achieving a response time reduction of 40%.\nDesigned and executed **CI/CD** pipelines using **GitHub Actions**, facilitating seamless deployment cycles and reducing deployment time by 50%.\nCreated event-driven microservices with **Celery** and **Redis** to handle asynchronous tasks, improving processing efficiency for financial transactions by 60%.\nManaged deployment using **AWS** and **Azure**, employing **Terraform** for infrastructure automation to ensure scalability across environments.\nEngineered data pipelines with **Apache Airflow** and **Azure Functions**, enhancing the accuracy of regulatory data exchange and automating processes by 70%.\nConducted security audits, achieving 100% compliance with industry standards, and implemented **OAuth2** and **Azure AD B2C** for robust authentication and access control.\nSpearheaded collaboration with cross-functional teams to ensure regulatory compliance and successful integration of new features, resulting in a 50% reduction in integration issues."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed robust backend services for trade execution, ensuring compatibility with **Python**, **Flask**, and **PostgreSQL** to enhance trading operations.\n• Engineered real-time price feed processors utilizing **asyncio**, **WebSockets**, and **Redis** to deliver up-to-the-minute trading data, accommodating up to **100k transactions** per second for high-frequency transactions.\n• Collaborated closely with frontend teams, delivering data through **REST APIs** and **WebSocket channels**, enhancing seamless user interaction with the platform.\n• Ensured compliance with regulatory requirements such as **MiFID II** and **GDPR**, adhering to internal data security protocols and maintaining integrity of **99%** uptime.\n• Implemented comprehensive test suites with **PyTest**, **tox**, and mock servers, streamlining QA and CI/CD processes, increasing test coverage by **50%**.\n• Introduced job queuing and scheduling solutions using **Celery** and **RabbitMQ**, optimizing backend task execution and refining process management, reducing task latency by **30%**.\n• Actively contributed to full-stack development by integrating **React**, **TypeScript**, and **Next.js** with a focus on enhancing user experience and visual design through **SCSS**.\n• Participated in A/B testing initiatives aimed at improving overall system performance and user engagement through data-driven problem-solving and collaboration."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, JavaScript, SQL, TypeScript\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n **Frontend Frameworks**\n\tReact, Next.js, SCSS\n\n **API Technologies**\n\tREST, GraphQL\n\n **Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda)\n\n **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n **Cloud & Infrastructure**\n\tAWS, Azure\n\n **Other**\n\tfull-stack development, A/B testing, problem-solving, collaboration, Microservices, Kafka, PyTest, Git"
+}

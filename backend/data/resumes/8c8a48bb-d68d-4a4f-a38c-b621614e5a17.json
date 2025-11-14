@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a proficient Software Engineer with 8 years of experience, I excel in developing scalable microservices architectures, leveraging **Golang**, **Amazon DynamoDB**, **Aurora**, and **Apache Flink** to deliver high-performance SaaS solutions. My technical expertise includes **Concurrency**, **Goroutines**, and **Channels**, ensuring efficient processing and responsiveness in application design. I am proficient in implementing robust **Unit Testing** and **Integration Testing** methods, alongside debugging and performance profiling techniques.\n\nAdditionally, my strong foundation in cloud technologies harnesses services like **AWS** and **Azure**, underpinning my experience with **CI/CD** pipelines through tools such as **CloudBees** and **Jenkins**. I have a proven track record in collaborative environments, emphasizing articulate communication and approachability, alongside leading cross-functional teams to drive projects to successful completion. My background extends into software development with **Java**, **Python**, and machine learning processes, enhancing enterprise-grade platforms with seamless integration of AI/ML capabilities.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented scalable **microservices** architectures supporting healthcare and financial applications using **Golang**, ensuring high concurrency through efficient usage of **Goroutines** and **Channels**.\n- Developed **SaaS** solutions that leverage cloud databases like **Amazon DynamoDB**, **Aurora**, and **Snowflake** for optimized data storage and retrieval, enhancing performance by **30%**.\n- Applied robust **unit testing** and **integration testing** methodologies utilizing tools such as **Jest**, **Cypress**, and **PyTest**, achieving a **95%** test coverage across services, leading to a **20%** reduction in production bugs.\n- Implemented advanced debugging and performance profiling techniques to identify and resolve issues in the system architecture, boosting response time by **25%**.\n- Collaborated with cross-functional teams to articulate technical requirements ensuring effective communication and fostering an approachable atmosphere.\n- Established CI/CD pipelines using **CloudBees** and **Jenkins**, streamlining the deployment process which decreased release times by **40%** and improved software delivery accuracy.\n- Architected cloud-native data solutions to handle real-time data processing using **Apache Flink** and **Kafka**, supporting high-volume transaction processing with zero downtime.\n- Integrated policy languages like **Rego** and **Cedar** into system security frameworks, ensuring compliance with industry regulations.\n- Mentored junior engineers on best practices in **microservices** development and deployment, facilitating a collaborative learning environment."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Golang** to develop scalable microservices, incorporating **Concurrency** and **Goroutines** to enhance application performance and manage high volumes of transactions efficiently.\nDesigned and implemented **SaaS** solutions that leverage cloud services, particularly focusing on **Amazon DynamoDB** and **Aurora**, achieving a **50%** increase in data retrieval speed compared to legacy systems.\nConducted thorough **Unit Testing** and **Integration Testing** to ensure code reliability, resulting in a **99%** bug-free release cycle over **6 months**.\nCollaborated across departments to articulate technical requirements and progress, fostering a culture of openness and **approachability** to improve project outcomes.\nLed code reviews and provided mentorship on best practices in **Debugging** and **Performance Profiling**, improving team productivity and code quality by **30%**.\nEmployed policy languages such as **Rego** and **Cedar** to enhance security measures in application development, ensuring compliance and protecting sensitive data.\nIntegrated **Kafka** and **Apache Flink** to facilitate real-time data streaming and processing, enabling quick insights and actions for financial services.\nImplemented continuous integration and delivery (CI/CD) pipelines with **CloudBees** and **Jenkins**, reducing deployment times by **40%** and increasing deployment frequency across projects.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Engineered cloud-native **microservices** using **Golang**, focusing on performance profiling and debugging to ensure high efficiency and reliability in a **SaaS** environment.\n- Developed and executed unit and integration testing protocols for distributed systems, enhancing software reliability and reducing production issues by more than **30%**.\n- Utilized **Concurrency** features such as **Goroutines** and **Channels** to implement asynchronous processing, improving system responsiveness and scalability across multiple modules.\n- Integrated and managed **Amazon DynamoDB** and **Aurora** as cloud databases to facilitate rapid data access and storage solutions, accommodating workloads with over **1 million** transactions per day.\n- Processed and analyzed streams of data using **Apache Flink** and **Kafka**, allowing for real-time data processing capabilities that improved event handling times by **25%**.\n- Collaborated effectively with cross-functional teams, demonstrating articulate communication and approachability to foster a positive working environment and achieve project goals.\n- Designed and implemented CI/CD pipelines using **CloudBees** and **Jenkins**, streamlining deployment processes and reducing release cycle times by **40%**.\n- Developed clear policies using **Policy Languages** such as **Rego** and **Cedar**, enhancing security governance and compliance frameworks for the software solutions.\n- Actively participated in code reviews and debugging sessions, contributing to overall team knowledge sharing and best practices, thereby reducing critical bugs reported in production by **15%**.\n- Engaged in collaborative projects that required frequent communication with stakeholders to pinpoint project expectations and facilitate better outcomes."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tGolang, Java, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Microservices\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Amazon DynamoDB, Aurora, Cloud Databases, Snowflake\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, CI/CD, CloudBees, Jenkins\n\n**Cloud & Infrastructure:**\n\tNginx, Certbot\n\n**Other:**\n\tUnit Testing, Integration Testing, Debugging, Performance Profiling, Collaboration, Articulate Communication, Approachability, MLflow, Airflow, Kubeflow, Channels, Concurrency, Policy Languages, Rego, Cedar, Apache Flink, Kafka"
+}

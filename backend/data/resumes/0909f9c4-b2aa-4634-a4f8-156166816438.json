@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Python Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-driven Senior Python Engineer with 13+ years of experience in developing high-performance applications within the healthcare and financial sectors. Proficient in **Python**, with extensive experience using **Django**, **Flask**, and **FastAPI** for backend development, alongside a strong command of **MongoDB**, **PostgreSQL**, and **Redis** for database management. Adept in CI/CD practices and deployment strategies on cloud platforms like **AWS**. Skilled in containerization and orchestration using **Docker** and **Kubernetes**. \n\nDemonstrated expertise in building cloud-native systems and implementing microservices and event-driven architectures. Proven track record of compliance-driven development with standards including HIPAA and PCI DSS. Strong background in Agile methodologies, adept at collaborative working through tools such as **JIRA**, **Confluence**, and **Slack**. Passionate about integrating AI/ML into applications for predictive analytics and automation, leveraging tools like **MLflow** and **Airflow**. Committed to delivering solutions that not only meet technical requirements but also align with business objectives.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained full-stack applications leveraging **Python** frameworks such as **FastAPI** and **Flask**, ensuring high performance and scalability for both healthcare and fintech domains.\n• Utilized **PostgreSQL** and **MongoDB** for data management, ensuring optimally structured databases capable of handling up to **10,000** transactions per minute.\n• Implemented CI/CD workflows utilizing tools such as **Git**, **Docker**, and **Kubernetes** for automated testing and deployment, reducing release times by **30%**.\n• Designed microservices architecture for applications, enhancing modularity and maintainability, while deploying on **AWS** environments for efficient resource management.\n• Managed monitoring and logging solutions with **Grafana** and the **ELK Stack**, resulting in improved system observability and a **25%** reduction in downtime.\n• Supported real-time data processing and analytics leveraging **Redis** and **RabbitMQ** for messaging queues, catering to systems requiring immediate data responses.\n• Engaged in Agile practices, using tools such as **JIRA** and **Confluence** for project management, maintaining an average sprint velocity of **40** story points.\n• Spearheaded the integration of innovative solutions such as **Terraform** for infrastructure as code, streamlining the setup and management of cloud resources.\n• Collaborated with cross-functional teams to deliver secure applications adhering to industry regulations, such as HIPAA and GDPR, ensuring compliance across all deployments.\n• Established robust testing strategies using tools like **PyTest**, ensuring reliability across the application stack by achieving over **90%** test coverage."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** (including **Django**, **Flask**, and **FastAPI**) to modernize core financial platforms by migrating to a microservices architecture, enhancing scalability and performance for high-volume transactional systems.\nEmployed **Docker** and **Kubernetes** to streamline the development process and implement Continuous Integration/Continuous Deployment (CI/CD) strategies, improving deployment efficiency by **30%**.\nConstructed interactive front-end applications using **React** (version **18**), **Vue 3**, **Next.js**, and **TypeScript**, incorporating **Redux Toolkit** and **Tailwind CSS** for responsive interfaces tailored for financial tools and admin panels.\nDelivered real-time analytics dashboards via **D3.js** and **Power BI Embedded**, empowering operations teams with instantaneous insights into transactions and anomalies, reducing incident response time by **40%**.\nDesigned and deployed an event-driven architecture with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring seamless asynchronous communication across critical workflows including payments and compliance.\nDeveloped efficient ETL pipelines leveraging **Python**, **Apache Airflow**, and **Azure Data Factory** for ingesting financial data from both internal and third-party sources, facilitating batch and real-time processing.\nBuilt and deployed machine learning models for fraud detection utilizing **scikit-learn**, **XGBoost**, and **Azure ML**, enabling the identification of suspicious activities based on user behavior and transaction patterns.\nImplemented ML pipelines for real-time credit scoring and churn prediction, harnessing **MLflow** and **Airflow** to integrate model inference directly into backend services, enhancing predictive accuracy by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** frameworks such as **Django** and **FastAPI** to design and optimize backend services for a global e-commerce platform, achieving **99.9%** uptime and scalability across modules like checkout, cart, and order fulfillment.\nEngineered real-time features leveraging **RabbitMQ** and **Kafka** to facilitate responsive order updates and inventory tracking, meeting user demand with real-time customer support functionalities.\nDeveloped frontend applications using **React 18**, **Vue 3**, and **Angular**, employing **TypeScript**, **Redux Toolkit**, and **Tailwind CSS** to ensure fast loading times and responsive designs on web and mobile platforms.\nEmployed **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data management, enhancing performance with fault-tolerant architecture capable of handling **100,000** simultaneous users during peak traffic.\nImplemented AI/ML-powered recommendation systems using **scikit-learn**, **LightGBM**, and **TensorFlow** to personalize user experiences, driving a **15%** increase in conversion rates.\nOptimized application performance by utilizing **Redis** for caching frequently accessed data, resulting in a **40%** reduction in response time and improved user satisfaction.\nOrchestrated feature flags and blue-green deployments through **Kubernetes** to enable smooth rollouts and A/B testing, mitigating risk during major updates.\nCreated responsive, SEO-optimized e-commerce UIs using **Next.js**, focused on mobile-first designs that comply with accessibility standards (WCAG 2.1).\nDesigned secure payment integrations with **Stripe**, **PayPal**, and **Razorpay** employing tokenization strategies in line with PCI DSS guidelines, protecting sensitive customer data effectively.\nEnforced role-based access control (RBAC) and **OAuth 2.0** strategies to secure user data, ensuring GDPR compliance throughout the platform."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, CherryPy\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tRabbitMQ\n\n**Serverless and Cloud Functions:**\n\tAWS\n\n**Databases:**\n\tMongoDB, PostgreSQL\n\n**DevOps:**\n\tDocker, Kubernetes, Git, CI/CD, Terraform\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, GitHub Actions, GitLab CI/CD, Redis, Nginx, Let’s Encrypt, Certbot, Ansible, Helm, Docker Compose, Vault, Grafana, ELK Stack, New Relic, JIRA, Confluence, Slack, Miro, Agile",
+  "apply_company": "YouGov"
+}

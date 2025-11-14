@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-kotlinski-08ba40390/",
+  "profile_summary": "As a proficient Software Engineer with 8 years of experience, I excel in developing high-performance solutions, leveraging a strong tech stack including **Python**, **FastAPI**, and expertise in **Postgres**. My background includes implementing **AI** and **ML** strategies, along with hands-on experience in **Golang**, and **Java**, emphasizing **Clean Architecture** and Domain-Driven Design (DDD).\n\nI specialize in scalable microservices architecture, utilizing **Kubernetes** and **Kafka** to ensure robust event-driven applications. I am skilled in CI/CD practices, exemplified through **GitLab CI** and Agile methodologies, ensuring streamlined development processes through Test-Driven Development (TDD). My previous roles encompassed leading the integration of intelligent automation and real-time data processing solutions while adhering to compliance standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained robust backend services using **Python** and **FastAPI**, ensuring adherence to **TDD** and enabling seamless integration with various data sources.\n- Engineered scalable microservices using **Kubernetes** and **Docker**, adhering to **DDD** principles to support flexible system architecture.\n- Designed and implemented data storage solutions with **Postgres**, optimizing for both performance and reliability in software solutions.\n- Integrated advanced **AI** and **ML** functionalities into applications to enhance decision-making processes and user experience.\n- Utilized **GitLab CI** for automating deployment processes and ensuring high code quality through continuous integration practices.\n- Crafted and optimized complex algorithms for real-time data processing and analytics, improving system responsiveness by over **30%**.\n- Led Agile methodology adoption within the team, boosting productivity and delivery speeds across multiple projects by **25%**.\n- Collaborated with cross-functional teams to implement robust testing strategies using **TDD**, leading to a **40%** reduction in production bugs.\n- Ensured systems met compliance standards while integrating modern software architectures, thus reducing time-to-market for features by approximately **20%**.\n- Participated in code reviews and pair programming sessions, fostering a knowledge-sharing environment and enhancing overall team skills."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to enhance software architecture, maintaining a modern development workflow using **GitLab CI** for continuous integration and deployment practices.\nImplemented **AI** and **ML** algorithms to improve software functionalities, ensuring high-quality software delivery through **TDD** methodologies and Agile practices.\nEngineered scalable microservices leveraging **Golang** and **C#**, aligning with **DDD** and **Clean Architecture** principles to produce efficient and maintainable code across a range of applications.\nApplied **Postgres** as the primary database solution, optimizing queries to handle **9 million**+ transactions daily with reduced latency.\nEstablished seamless data workflows by integrating **Kafka** for event streaming and implementing real-time processing with **Kubernetes** for container orchestration, enhancing responsiveness and operational efficiency.\nExecuted testing and quality assurance protocols that reduced bugs by **40%**, enhancing overall system reliability through thorough validation and revision cycles.\nCollaborated in cross-functional teams to align product development with user needs, driving a **30%** increase in user satisfaction ratings post-deployment.\nDesigned adaptable solutions for financial transactions, ensuring rigorous compliance with industry standards, and established frameworks for future development scalability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and optimized backend microservices for high-performance applications using **Python** with **FastAPI** and **Django**, prioritizing maintainability and scalability across various systems, affecting **over 100,000** users daily.\nEngineered distributed systems employing **Kafka** for event-driven architecture, enhancing asynchronous processing to ensure low-latency transaction handling, and improving overall system responsiveness by **30%**.\nDesigned and built APIs and services in **Golang** and **Java**, adhering to **DDD** and **Clean Architecture** principles to facilitate clean separation of concerns and code reusability.\nLed the integration of **AI** and **ML** solutions into production workflows, utilizing libraries such as **scikit-learn** and **LightGBM**, resulting in a **25%** increase in recommendation accuracy and user engagement.\nImplemented **Postgres** and **Redis** for effective data storage and caching strategies, achieving a **40%** reduction in database query times and improved application load performance.\nCreated automated deployment pipelines utilizing **Kubernetes**, enabling continuous integration/continuous deployment with **GitLab CI**, enhancing deployment speeds by **50%**.\nPracticed **TDD** within an **Agile** framework, contributing to code quality and reducing bug rates by **15%** during production phases.\nUtilized container orchestration with **Helm** for efficient management of application configurations and streamlined application updates.\nEngaged in collaborative scrum teams, conducting regular sprint planning and reviews to ensure alignment with project goals and delivery timelines."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Golang, C#, Java, Kotlin\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\tN/A\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm\n\n **Cloud & Infrastructure:**\n\tN/A\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Kafka, TDD, Agile, DDD, Clean Architecture, AI, ML, LangChain"
+}

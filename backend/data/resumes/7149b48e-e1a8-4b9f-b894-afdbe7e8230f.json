@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior DevSecOps Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior DevSecOps Engineer with over 10 years of experience in designing and delivering secure backend systems. Proficient in implementing **AWS** cloud solutions, orchestrating **Kubernetes** environments, and leveraging **CI/CD** strategies, with a focus on **Infrastructure-as-Code** methodologies. Expertise in security automation compliant with **PCI DSS**, **PSD2**, and **GDPR** standards. Skilled in programming with **Python** and familiar with **Kotlin**, **TypeScript**, and **Golang** for developing high-performing APIs and leveraging **JVM** strategies. A track record of contributing to impactful projects for leading firms such as VISA, Sii Poland, and Reply Polska, showcasing exceptional problem-solving capabilities and commitment to delivering scalable, robust, and compliant applications.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevSecOps Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS** for cloud services, implementing **Kubernetes** orchestration for scalable deployment and management of containerized applications.\nDesigned and maintained CI/CD pipelines to enable rapid integrations and deployments, improving release efficiency by up to **50%**.\nEngineered backend services in **Python** using **FastAPI** to automate workflows for document handling, user onboarding, and reporting.\nDeveloped event-driven solutions with **Celery** and **Redis** to process financial transactions asynchronously, achieving request handling reductions of over **30%**.\nDeployed microservices using **Terraform** for Infrastructure-as-Code on **Azure App Services**, ensuring robust cloud operations.\nCreated and maintained data pipelines for regulatory compliance using **Apache Airflow** and **Azure Functions**, ensuring data integrity in line with **GDPR**, **PCI DSS**, and **PSD2**.\nLed security assessments, integrating **OAuth2** and **Azure AD B2C** to enhance application security and scalability for user authentication.\nCollaborated with cross-functional teams to solve system integration challenges and maintain compliance with industry standards, driving innovation in security automation."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **AWS** and **Kubernetes** to implement **CI/CD** pipelines, achieving a deployment frequency increase of **40%** while maintaining high standards of quality and security.\nEmployed **Infrastructure-as-Code** principles with **Terraform** to automate the provisioning and maintenance of cloud resources, reducing infrastructure setup time by **30%**.\nDeveloped and maintained secure backend systems using **Python** and **Golang**, focusing on security automation techniques to comply with **PCI DSS**, **PSD2**, and **GDPR** standards.\nCreated event-driven microservices that integrate with existing infrastructure, addressing complex security requirements and enhancing scalability.\nConducted regular security audits and assessments, contributing to a **25%** reduction in vulnerabilities by integrating security best practices throughout the development lifecycle.\nCollaborated with cross-functional teams to streamline operational workflows, ensuring compliance with industry standards and successful project delivery.\n"
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **AWS** cloud services to deploy and manage scalable backend systems for trade execution and portfolio management.\nImplemented **Kubernetes** for orchestrating containerized applications, ensuring seamless deployment and monitoring of services across the trading platform.\nEngineered CI/CD pipelines using GitLab CI and **Infrastructure-as-Code** tools like Terraform to automate deployment and infrastructure management, resulting in a **40%** reduction in deployment time.\nDeveloped secure backend services using **Python**, ensuring compliance with regulatory frameworks including **GDPR** and **PCI DSS** for safe handling of sensitive trading data.\nCreated real-time data processing systems with **asyncio**, **WebSockets**, and **Redis**, enabling high-frequency transaction processing with minimal latency, processing up to **10,000** transactions per second.\nCollaborated with frontend teams to deliver RESTful APIs, facilitating smooth client interactions with the application and improving user experience by **25%**.\nConducted security automation practices to safeguard backend services and infrastructure, adhering to industry standards for data protection.\nStreamlined QA and CI processes by implementing comprehensive test suites with **PyTest**, enhancing code quality and stability by reducing bugs by **30%** during production rollout."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, Kotlin, TypeScript, Golang\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\tInfrastructure-as-Code\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Security Automation, Kafka, Git, PCI DSS, PSD2, GDPR",
+  "apply_company": "Pleo"
+}

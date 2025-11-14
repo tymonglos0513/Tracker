@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Software Engineer with 8 years of experience, I possess a robust skill set focused on **backend development**, **system design**, and **database management** tailored for high-performance applications in the healthcare and financial sectors. I specialize in creating **real-time** and **batch-processing** systems leveraging technologies such as **JavaScript**, **TypeScript**, **Python**, and **Flutter**. \nMy full-stack capabilities include proficiency in **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**, complemented by extensive knowledge in cloud services including **Azure** and **AWS**. I have successfully led the development of enterprise-grade applications that incorporate AI/ML features for enhanced analytics and automation.\nI am well-versed in **data modeling** and have a solid foundation in **microservices architecture** and **CI/CD automation**, ensuring that the solutions I deliver meet compliance standards like HIPAA, FHIR, PCI DSS, and SOC 2. Additionally, I bring significant hands-on experience in developing machine learning pipelines and implementing MLOps workflows using tools such as **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed robust **backend** systems with a focus on **databases** such as PostgreSQL and MongoDB to support scalable healthcare and financial platforms.\n- Architected real-time processing applications, ensuring low-latency communication and efficient **data modeling** for high availability and fault tolerance.\n- Designed and implemented batch-processing solutions for large-scale data ingestion, optimizing data storage and retrieval for healthcare and financial data operations.\n- Collaborated on system design strategies, utilizing **Docker** and **Kubernetes (AKS/EKS)** for deploying microservices architectures, enhancing scalability and performance.\n- Integrated advanced databases and storage solutions, ensuring smooth transition and version control across environments, which improved deployment speed by **30%**.\n- Led the development of cloud-native applications, leveraging **AWS Lambda** and **Azure Functions** to enhance real-time data processing and reduce operational costs by **25%**.\n- Developed and maintained CI/CD pipelines using **GitHub Actions** and **Azure DevOps**, streamlining deployment processes to achieve multi-environment support, reducing deployment time from days to hours.\n- Optimized data retrieval processes by establishing advanced search features using **ElasticSearch** and **Azure Cognitive Search**, allowing for efficient access to millions of records.\n- Implemented comprehensive testing strategies using **Jest** and **Cypress**, achieving a **95%** test coverage across both backend and frontend components, ensuring high-quality software delivery.\n- Built, maintained, and enhanced visualization tools for financial insights using **D3.js** and **Power BI Embedded**, allowing stakeholders to gain actionable insights into transaction trends and operational KPIs.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Designed and implemented **system design** strategies for high-volume transaction systems, ensuring reliability and efficiency in **backend** processes by adopting a microservices-based architecture using **Node.js** (**NestJS/Express**) and **Python** (**FastAPI**, **Django**).\n- Developed and maintained **real-time** transaction monitoring applications that utilize **React** (18) and **D3.js**, enhancing visibility for operations teams through dynamic dashboards to track and analyze **batch-processing** and financial activities.\n- Integrated with multiple **databases** and established a robust event-driven architecture with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, facilitating real-time event processing for alerts and compliance workflows, achieving a 40% increase in transaction processing speed.\n- Built and orchestrated **ETL pipelines** using **Python**, **Apache Airflow**, and **Azure Data Factory**, enabling the efficient **batch-processing** and ingestion of financial data, which supported the successful migration of **100 TB** of data to cloud storage.\n- Spearheaded the development of advanced ML models for fraud detection and transaction classification using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, resulting in an **85%** accuracy rate in flagging suspicious activities.\n- Created robust **data modeling** frameworks that support credit scoring and churn prediction, directly integrating model inference with backend services to enable real-time decision-making, significantly improving user engagement metrics by **30%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Designed and optimized backend services using **Python (FastAPI, Django)** and **Node.js (NestJS, Express)** to enhance system design and ensure high availability across key modules like checkout, cart, and order fulfillment, achieving **99.9% uptime**.\n• Engineered real-time features with **WebSockets** and event-driven architecture using **Kafka** and **RabbitMQ**, enabling responsive order updates and dynamic inventory tracking, which improved order processing times by **30%**.\n• Developed scalable databases including **MongoDB, PostgreSQL, Redis, and Cassandra** for efficient data modeling, resulting in fast, fault-tolerant access to data even during peak traffic periods (over **1 million transactions per day**).\n• Created seamless integration of AI/ML-based recommendation engines employing **scikit-learn, LightGBM, and TensorFlow**, leading to a **15% increase** in conversion rates through personalized product listings.\n• Implemented performance enhancements with Redis caching for shopping cart sessions and frequent queries, reducing read pressure on databases by **40%**.\n• Applied system design principles with feature flags using **LaunchDarkly** and blue-green deployments on **Kubernetes**, facilitating controlled rollouts which minimized deployment risks.\n• Built responsive UIs for e-commerce platforms using **Next.js, Vue 3 + Nuxt, and HTML5/CSS3**, ensuring optimized mobile experiences that comply with accessibility standards (WCAG 2.1).\n• Developed secure payment workflows with **Stripe, PayPal, and Razorpay**, utilizing tokenized transactions and achieving PCI compliance for handling sensitive customer data.\n• Enforced role-based access control (RBAC) and OAuth 2.0 protocols to secure customer and admin access, ensuring compliance with **GDPR** and enhancing user data protection."
+    }
+  ],
+  "skills": " **Backend Frameworks:**\n\tPython(FastAPI, Flask, Django)\n\n **Programming Languages:**\n\tJavaScript/TypeScript\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **Other:**\n\treal-time, batch-processing, system design, data modeling",
+  "apply_company": "Yahoo"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Golang Developer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Senior Golang Developer with over 10 years of experience in delivering high-performance software solutions, leveraging **Golang**, **Kubernetes**, and **OpenStack-like SDK**. Proficient in building robust CI/CD pipelines and implementing observability tools such as **Prometheus** and **Grafana** for enhanced system monitoring. Experienced in utilizing **Terraform** for infrastructure as code and **Helm** for managing Kubernetes applications, ensuring streamlined deployment processes.\n\nDemonstrated expertise in agile methodologies, enabling rapid delivery of enterprise-level applications. Versatile with a tech stack that includes **JavaScript/TypeScript**, **Python**, and **Flutter**, and extensive hands-on experience with **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Adept at leading the development of solutions embedding AI/ML capabilities for real-time analytics and automation, while maintaining the integrity of secure and compliant systems. Practical knowledge in MLOps, managing production workflows with tools like **MLflow**, **Airflow**, and **Kubeflow**. Passionate about creating impactful systems that balance technical excellence with real-world usability.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Developer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed robust and scalable applications using **Golang** for backend services, ensuring high performance and responsiveness in healthcare and finance domains.\n• Implemented CI/CD pipelines with **Terraform**, **Helm**, and **Kubernetes** for efficient deployment and management of microservices across multiple environments, enhancing the development lifecycle.\n• Utilized observability tools like **Prometheus** and **Grafana** to monitor application performance and system health, enabling proactive incident management and troubleshooting.\n• Led agile development teams, adopting **Agile methodologies** to prioritize deliverables and iteratively produce high-quality software that meets user needs and compliance standards.\n• Designed and deployed containerized applications on **OpenShift** and managed orchestration using **Kubernetes** (version **1.21**), ensuring efficient resource allocation and scaling based on real-time demand.\n• Collaborated to integrate **OpenStack-like SDK** for cloud functionalities, enhancing application flexibility and deployment options in diverse environments.\n• Achieved a **30%** reduction in deployment time through automation and optimization of CI/CD processes across multiple projects.\n• Mentored junior developers on best practices for **Golang** programming and container orchestration, fostering skills development and knowledge sharing within the team.\n• Tracked and mitigated incidents through comprehensive monitoring and alerting using **Prometheus**, contributing to maintaining an uptime of **99.9%** for critical systems.\n• Developed efficient testing strategies leveraging tools like **Jest** and **Cypress**, covering **95%** of code with automated tests, ensuring robust quality assurance across all services."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines to streamline deployment processes, ensuring continuous integration and delivery for software projects using **Golang** and **Kubernetes**.\nDeveloped and maintained large-scale microservices and cloud-based applications using **Golang**, optimizing system performance and uptime through **OpenShift** and **Kubernetes** orchestration.\nLeveraged observability tools such as **Prometheus** and **Grafana** to monitor application health and performance, providing real-time insights into system operations and user interactions.\nDesigned infrastructure as code (IaC) using **Terraform** to automate the provisioning and management of cloud resources, enhancing deployment consistency and efficiency across multiple environments.\nCollaborated in an Agile environment, facilitating sprint planning and stand-ups to ensure timely delivery of high-quality software, contributing to a 20% increase in project velocity.\nEnhanced system resiliency by implementing service discovery and load balancing with **Helm**, achieving a 99.9% uptime in production environments.\nUtilized **Gophercloud** to interact with OpenStack-like cloud services, driving improvements in infrastructure management and deployment capabilities.\nDocumented and optimized existing backend services for compatibility with emerging technologies and development frameworks, resulting in a **30%** reduction in response time across applications.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Developed and maintained robust backend systems using **Golang**, ensuring high-performance functionality and scalability tailored for complex applications.\nDesigned and implemented **Kubernetes** solutions for seamless container orchestration and deployment, improving uptime by **30%** across multiple services.\nAutomated CI/CD pipelines leveraging **Terraform** and **Helm** to streamline deployment processes and enhance team productivity, reducing deployment times by **50%**.\nUtilized observability tools such as **Prometheus** and **Grafana** to monitor system performance, enabling proactive issue resolution and maintaining system reliability at over **99.9%** uptime.\nLed Agile methodologies within the team to improve project delivery, incorporating regular retrospectives and scrum practices that increased delivery speed by **40%**.\nEngineered integrations with **OpenStack-like SDKs** for cloud resource management and enhanced operational efficiency in large-scale deployments.\nWorked alongside cross-functional teams to ensure seamless communication and alignment on project goals, significantly improving team collaboration and output.\nParticipated in architecture reviews and code quality assessments to maintain high standards throughout the development lifecycle, reinforcing best practices in coding and design patterns."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript, Golang\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD pipelines, Helm, Terraform, Ansible\n\n**Cloud & Infrastructure:**\n\tOpenShift, OpenStack-like SDK, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Observability tools, Prometheus, Grafana, Agile methodologies, Nginx, Certbot"
+}

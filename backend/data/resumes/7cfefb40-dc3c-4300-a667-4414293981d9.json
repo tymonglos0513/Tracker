@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior DevOps Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-oriented Senior DevOps Engineer with over 10 years of expertise in cloud infrastructure and backend systems, specializing in tools such as **Terraform**, **Puppet**, **Ansible**, and **Bash**. Proficient in managing and automating cloud resources across **AWS**, **GCP**, and **Azure**, ensuring high performance and scalability within financial platforms and AI/ML pipelines. Experienced in deploying and maintaining applications within **Linux** environments while leveraging **Python**, **Ruby**, and various databases including **MySQL**, **MariaDB**, and **AWS RDS** to build resilient backend solutions. Proven track record of enhancing system reliability and efficiency, significantly contributing to major projects at prestigious organizations including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Terraform** for infrastructure as code, managing deployments and ensuring efficient cloud operations on **Azure**.\nEngineered backend services in **Python** using **FastAPI** to automate document workflows and enhance user onboarding processes, improving efficiency by **30%**.\nDeveloped event-driven solutions with **Celery** and **Redis** to manage asynchronous processing, reducing transaction request processing time by **25%**.\nCreated and maintained data pipelines with **Apache Airflow** and **Azure Functions** to facilitate timely and accurate regulatory data exchange, meeting compliance deadlines by **98%**.\nLed security assessments, integrating **OAuth2** and **Azure AD B2C** to implement secure authentication systems, adhering to **PCI-DSS** compliance standards.\nCollaborated with cross-functional teams to resolve system integration challenges and oversee release strategies, improving deployment frequency by **50%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes. \n• Created event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests. \n• Managed the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation to maintain consistent and scalable environments. \n• Engineered data pipelines for the secure exchange of regulatory data, using **Apache Airflow** and **Azure Functions** to automate and streamline the data flow. \n• Performed security audits, ensuring compliance with industry standards, and integrated **OAuth2** and **Azure AD B2C** to manage authentication and secure access controls. \n• Collaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management. \n• Implemented infrastructure as code (IaC) using **Terraform** with version **1.0.0** to streamline deployment processes. \n• Automated monitoring and alerts using **AWS CloudWatch**, reducing incident response time by **30%**. \n• Utilized **Jenkins** for CI/CD pipelines, improving deployment frequency by **50%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Implemented infrastructure as code using **Terraform**, enabling consistent and reliable deployments across environments and reducing provisioning times by **30%**.\nAutomated configuration management tasks utilizing **Ansible** and **Puppet**, achieving a **40%** reduction in system configuration errors.\nManaged cloud resources across **AWS**, **GCP**, and **Azure**, optimizing cost and performance for various applications and achieving a savings of **20%** in operational expenses.\nDeveloped CI/CD pipelines with **Jenkins** and version control strategies using **GIT**, resulting in a **50%** increase in deployment frequency.\nEnsured system stability and performance while configuring and managing database systems including **MySQL**, **MariaDB**, and **AWS RDS**, reducing downtime incidents by **25%**.\nCollaborated with development teams to integrate robust monitoring solutions and automate deployment processes, enhancing deployment backouts by **90%**.\nMaintained compliance with industry standards including **PCI-DSS**, ensuring data security and technology hygiene across the infrastructure.\nEnhanced Linux system performance through fine-tuning and scripting in **Bash**, improving server response times by **15%**."
+    }
+  ],
+  "skills": "Programming Languages: \n\t**Python**, **Bash**, SQL, JavaScript, **Ruby**\n\n**Backend Frameworks:** \n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks:** \n\t\n\n**API Technologies:** \n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions:** \n\t**AWS (EC2, S3, Lambda)**, **GCP**, **Azure**, AWS RDS, AWS Aurora, Cloud Spanner\n\n**Databases:** \n\t**PostgreSQL**, **MySQL**, MariaDB, Galera, MongoDB, Redis\n\n**DevOps:** \n\t**Docker**, **Kubernetes**, **Terraform**, **Puppet**, **Ansible**, Jenkins, **GitHub Actions**, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure:** \n\t**AWS**, Azure, VMWare, Linux\n\n**Other:** \n\t**Kafka**, **AI/ML Tools**: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, **PCI-DSS**, PyTest, Git",
+  "apply_company": "emerchantpay"
+}

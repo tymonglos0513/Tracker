@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Fullstack Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Results-driven Full Stack Developer with 13+ years of experience specializing in building high-performance applications, particularly in compliance-driven environments such as healthcare and finance. Proficient in **JavaScript**, **Node.js**, and **Vue.js**, with a solid foundation in **CSS** and **Angular**. Experienced in leveraging **Docker**, **Jenkins**, and **Gulp** for CI/CD processes, and deploying applications on **NGinx**. Strong capabilities in automated testing frameworks enhance delivery quality and speed. \n\nSkilled in cloud-native system deployment on platforms such as **AWS** and **Azure**, and implementing microservices and event-driven architectures. Proven expertise in developing AI/ML-powered solutions for predictive analytics using **FastAPI**, **Django**, and orchestration tools like **MLflow** and **Airflow**. \n\nWell-versed in compliance adherence, ensuring all projects align with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Demonstrates exceptional analytical thinking, problem-solving, and collaborative communication skills, along with a recognized ownership mentality in project management.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Fullstack Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed full-stack applications leveraging **JavaScript**, **Node.js**, and **Vue.js**, ensuring seamless integration and user experience across platforms.\n• Implemented **Docker** for containerization, optimizing development and deployment processes while enhancing scalability and maintainability.\n• Collaborated using **GitHub Copilot** and **JetBrains IDEs**, streamlining coding processes and improving developer productivity across teams.\n• Led initiatives in **automated testing** using industry best practices to enhance software reliability and performance.\n• Employed **analytical thinking** to troubleshoot complex software issues, contributing to effective problem solving.\n• Fostered effective **communication** and **collaboration** within cross-functional teams to drive project success.\n• Managed integration workflows using **Jenkins** and **Gulp**, enhancing CI/CD practices and reducing deployment times by **30%**.\n• Developed and maintained server configurations using **NGinx**, optimizing load balancing and ensuring high availability of applications.\n• Ensured compliance and adherence to coding standards, fostering a culture of **ownership** within the team to enhance code quality.\n• Enhanced user interfaces and experiences with **CSS** customizations, tailored to meet project specifications and client needs.\n• Drove the integration of third-party tools like **Veeva**, **Cvent**, and **Marketo**, streamlining workflows and improving marketing outreach.\n• Championed the use of intelligent coding assistants, such as **Tabnine** and **Cursor**, to accelerate development cycles and enhance code quality.\n• Spearheaded problem-solving discussions, utilizing teamwork and collaboration to overcome obstacles that impacted project timelines."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **JavaScript** technologies including **Node.js** and **Vue.js** to modernize core financial platforms with a microservices architecture, resulting in a **40%** enhancement in scalability and performance for high-volume transactional systems.\nLeveraged **React (18)**, **Next.js**, and **TypeScript** to build interactive front-end applications that achieved a **30%** increase in user engagement through sleek, responsive design using **Redux Toolkit** and **Tailwind CSS**.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, facilitating operations teams to gain instant insights into transactions and anomalies, reducing response times by **50%**.\nDesigned and deployed a robust event-driven architecture with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring seamless asynchronous communication across critical workflows such as payments and alerts, enhancing reliability in services by **70%**.\nDeveloped effective ETL pipelines for ingesting financial data from various sources utilizing **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing, and improving data availability by **60%**.\nBuilt and deployed machine learning models for fraud detection with **scikit-learn**, **XGBoost**, and **Azure ML**, enabling the proactive detection of suspicious activities based on user behavior and transaction patterns, which reduced fraud incidents by **25%**.\nCreated comprehensive ML pipelines for real-time credit scoring, churn prediction, and transaction classification leveraging **MLflow** and **Airflow** to ensure model inference was integrated smoothly into backend services, improving decision-making accuracy by **35%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **JavaScript**, **Node.js**, **Vue.js**, and **Angular** to build and maintain responsive and dynamic frontend applications, ensuring a seamless user experience across both web and mobile platforms.\nLeveraged **Docker** and **Jenkins** for efficient CI/CD pipeline automation, enhancing deployment processes and reducing release times by **30%**.\nImplemented comprehensive **automated testing** strategies across all applications for both frontend and backend functionalities, ensuring code quality and stability for **99%** uptime.\nCollaborated effectively with cross-functional teams to drive solutions-oriented development, demonstrating strong **communication** and **collaboration** skills.\nEmployed advanced **CSS** techniques and frameworks, including **Tailwind CSS**, to craft visually appealing e-commerce interfaces that comply with accessibility standards (WCAG **2.1**).\nEnsured robust version control management using **GitHub Copilot**, improving code efficiency and fostering team collaboration through shared repositories.\nAnalyzed system performance metrics, applying **analytical thinking** to identify and resolve potential bottlenecks, enhancing application performance by **25%** for high-traffic scenarios.\nDesigned and optimized backend services using **FastAPI** and **Django**, delivering low latency and high availability for services like checkout and order fulfillment.\nIntegrated third-party platforms like **Marketo** and **Cvent** for enhanced marketing automation, improving customer engagement rates by leveraging data-driven insights.\nFostered a culture of **ownership** within the team to ensure accountability and proactive problem-solving throughout the application lifecycle."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJavaScript, Python, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular, CSS\n\n **API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Gulp, NGinx, Veeva, Cvent, Marketo, GitHub Copilot, Tabnine, JetBrains IDEs, Cursor, Trae, Qodo, automated testing, analytical thinking, communication, collaboration, problem solving, ownership"
+}

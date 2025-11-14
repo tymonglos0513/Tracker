@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "Results-driven Senior Software Engineer with 8 years of extensive experience in full stack development, leveraging a robust skill set including **JavaScript**, **TypeScript**, **React**, **Node.js**, and **AWS** technologies such as **Lambda**, **ECS**, **Fargate**, **API Gateway**, and **S3**. Proficient in building scalable microservices and designing **RESTful APIs** that enhance application performance and reliability, I possess strong expertise in CI/CD processes, automated testing, and production observability in cloud-native environments. \nMy background in data modeling with **SQL**, along with proficiency in both relational and non-relational databases, ensures effective management of data-driven applications. Adept at utilizing AWS tools like **QuickSight**, **Athena**, **Glue**, and **Lake Formation**, I drive insights through data analytics and reporting. I am committed to performance optimization within B2B SaaS solutions, contributing to seamless user experiences and operational efficiencies. \nIn addition to my technical prowess, I bring excellent communication skills and a proven track record in delivering enterprise-grade applications, and I excel at collaborating with cross-functional teams to achieve project deliverables.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed scalable, full-stack applications utilizing **JavaScript**, **TypeScript**, and **Node.js**, ensuring high performance through **Microservices** architecture and **RESTful APIs** in compliance with industry standards.\nArchitected and built cloud-based solutions using **AWS** services including **Lambda**, **ECS**, **Fargate**, **API Gateway**, and **S3** for efficient data processing and deployment, achieving a 30% increase in system performance.\nImplemented CI/CD pipelines leveraging **Terraform** and **AWS CloudFormation** for infrastructure as code, ensuring reliable deployments with automated testing phases enhancing deployment frequency by 40%.\nDesigned and modeled data in **Relational** and **Non-relational Databases**, optimizing query performance for large datasets, using **PostgreSQL** and **MongoDB** with a focus on data retrieval speed resulting in 50% faster access times.\nConducted production observability practices with tools like **CloudWatch** to monitor application performance, ensuring operational excellence and alerting on critical issues within minutes.\nIntegrated real-time data visualization features using **AWS QuickSight** and **dbt**, enabling stakeholders to derive insights efficiently from complex datasets resulting in actionable business decisions.\nManaged the migration of legacy systems to **microservices** with container orchestration using **Docker** and **Kubernetes**, significantly improving system reliability and scalability to handle up to 100,000 concurrent users.\nCollaborated effectively with cross-functional teams to define clear communication guidelines and successful project timelines, leading projects to completion two weeks ahead of schedule.\nEstablished robust automated testing frameworks with **Jest** and **Cypress**, ensuring full coverage across front-end and backend services, which reduced bug occurrences in production by 20%.\nLed initiatives to enhance performance optimization in applications, employing caching strategies and responsive coding practices, leading to a 50% reduction in load times for client-facing services."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained microservices-based architectures using **Node.js** (Express/Koa) and **JavaScript**/**TypeScript**, enhancing the scalability and performance of financial platforms with **over 90%** increase in throughput for high-volume transactions.\n• Designed responsive and dynamic front-end applications with **React** (18) and **Vue 3**, employing **Tailwind CSS** and **Redux Toolkit** to deliver user-friendly interfaces, achieving a **30%** reduction in load times.\n• Constructed real-time analytics dashboards using **React**, **D3.js**, and **Power BI Embedded**, facilitating operational teams in monitoring financial activities, leading to a **40%** improvement in anomaly detection efficiency.\n• Integrated event-driven architecture components such as **Kafka**, **RabbitMQ**, and **Azure Service Bus**, supporting robust asynchronous communication for transaction processing, and compliance workflows, improving event handling capabilities by **50%**.\n• Developed and orchestrated ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory**, streamlining financial data ingestion processes, which increased data processing speed by **60%** for both batch and real-time scenarios.\n• Implemented AI/ML-driven fraud detection systems utilizing **scikit-learn** and **XGBoost**, where predictive algorithms identified suspicious transaction patterns, reducing fraud incidents by **70%**.\n• Created ML pipelines for credit scoring, churn prediction, and transaction classification, integrating model inference in backend services and enhancing real-time decision-making capabilities by **35%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized **RESTful APIs** for seamless integration with e-commerce functionalities using **Node.js** (Express) and **JavaScript**, ensuring a high-performance backend architecture supporting over **1M** transactions monthly.\n• Designed scalable microservices architecture leveraging **AWS Lambda** and **ECS** for efficient deployment and management, achieving a **95%** uptime and rapid scaling during peak traffic events.\n• Implemented CI/CD pipelines with **Terraform** and **AWS CloudFormation**, automating deployments to reduce release times by **40%** and enhancing production observability through **CloudWatch** monitoring.\n• Leveraged **SQL** and **NoSQL** databases, specifically **PostgreSQL** and **MongoDB**, for effective data modeling and storage, facilitating quick access to inventory data with response times under **200ms**.\n• Enhanced application performance and reliability by integrating **AWS S3** for storage optimization and **AWS Fargate** for container management, reducing infrastructure costs by **30%**.\n• Collaborated using **TypeScript** within frontend tools like **React** and **Next.js**, enriching user interfaces and improving maintainability across the entire application.\n• Ensured security best practices by utilizing **OAuth 2.0** for authorizations, which safeguarded user data and compliance with GDPR regulations in the platform handling **2M**+ user records.\n• Utilized **Automated Testing** frameworks to maintain high code quality, achieving a test coverage rate of **85%**, which led to a reduction in production bugs by **50%**.\n• Engaged effectively with product stakeholders to elucidate technical capabilities in the B2B SaaS domain, leveraging strong communication skills to tailor solutions that met business requirements."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJavaScript, TypeScript, Python\n\n**Backend Frameworks:**\n\tNode.js, Express, FastAPI, Flask, Django, Koa\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tRESTful APIs, Microservices, API Gateway\n\n**Serverless and Cloud Functions:**\n\tAWS Lambda, Azure App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, Non-relational Databases, Relational Databases\n\n**DevOps:**\n\tDocker, Kubernetes, CI/CD, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, S3, CloudWatch, SNS, SQS, EventBridge), Azure (Blob, SQL), AWS QuickSight, dbt, Athena, Glue, Lake Formation, CDK\n\n**Other:**\n\tAuthentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), MLflow, Airflow, Kubeflow, Automated Testing, Production Observability, Performance Optimization, B2B SaaS, Communication Skills",
+  "apply_company": "Safeguard Global"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Backend Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a seasoned Senior Backend Engineer with 8 years of experience, I have honed my skills in building robust and secure back-end systems specializing in **Java**, **Spring Boot**, and **Spring Core**. I excel in designing RESTful APIs and implementing **Spring Security** features, including **OAuth2** and **JWT** for secure authentication. My expertise in **CI/CD** practices ensures seamless integration and deployment processes, while my proficiency in **Azure**, particularly **Azure DevOps**, and **Kubernetes** enhances application scalability and management.\n\nI bring a strong foundation in software architecture patterns such as Dependency Injection and Inversion of Control, along with a commitment to adhering to security best practices outlined by **OWASP**. My background includes extensive experience with database management and data access strategies using **SQL** and **Cosmos DB**. Additionally, I've contributed to developing enterprise-level solutions in healthcare and finance sectors, focusing on microservices and event-driven system architectures. Leveraging my knowledge of cloud technologies and back-end frameworks, I aim to deliver high-performance solutions that meet compliance standards.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed RESTful APIs using **Java**, **Spring Boot**, and **Spring Data Access** to support scalable back-end systems, ensuring robust security through **Spring Security** with **OAuth2** and **JWT** authentication methods.\n- Implemented CI/CD pipelines leveraging **Azure DevOps** for automated testing, deployment, and monitoring of back-end applications across multiple environments.\n- Optimized database interaction using **SQL**, ensuring efficient access and manipulation of relational data while integrating with **Cosmos DB** for NoSQL solutions.\n- Applied **Kubernetes** for container orchestration, contributing to the deployment and scaling of services in a microservices architecture that enhanced application reliability.\n- Engaged in Dependency Injection and Inversion of Control practices to ensure clean code and maintainable software architecture across existing and new projects.\n- Integrated security best practices in accordance with **OWASP** guidelines, significantly reducing vulnerabilities in web services and data access layers.\n- Collaborated with front-end teams to design seamless user experiences through well-documented and structured API endpoints, facilitating easy integration between client and server applications.\n- Conducted performance tuning exercises, leading to a reduction of response times by up to **30%** across API endpoints.\n- Participated in code reviews and mentorship of junior engineers, enhancing team productivity and code quality through shared knowledge and best practices.\n- Monitored application performance metrics, enabling proactive troubleshooting and reducing downtime to less than **1%** over a review period."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained RESTful APIs using **Java** and **Spring Boot** to ensure high-performance backend services tailored for financial applications.\nImplemented **Spring Security** with **OAuth2** and **JWT** for secure user authentication and authorization processes, enhancing the overall security posture of applications.\nUtilized **Spring Data Access** to facilitate integration with **SQL** and **Cosmos DB**, streamlining data access and manipulation for scalable database interactions.\nDesigned and executed CI/CD pipelines employing **Azure DevOps** to automate build, test, and deployment processes, resulting in a deployment frequency increase of 30%.\nManaged container orchestration using **Kubernetes** to ensure seamless deployment and scaling of applications in a cloud environment, achieving 99.9% uptime.\nIncorporated **OWASP** best practices in the development lifecycle to mitigate security vulnerabilities and ensure compliance with industry standards.\nFostered collaboration with cross-functional teams to deliver high-quality code, reducing bug reports by 25% through effective design reviews and pair programming.\nAchieved a 40% reduction in application response time by optimizing backend processes and employing caching strategies with **Spring Cache**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend services using **Java**, specifically leveraging **Spring Boot** and **Spring Core**, ensuring high availability and scalability for critical e-commerce functionalities, achieving a downtime reduction of over **20%**.\nEngineered microservices architecture with **RESTful APIs** to handle checkout, cart management, and order processing, with seamless data integration and transaction processing flow.\nImplemented secure user authentication and authorization through **Spring Security** and **OAuth2**, enhancing the platform’s security posture and achieving compliance with **GDPR**.\nDeveloped highly efficient database access layers using **Spring Data Access** for both SQL and **Cosmos DB**, maintaining low latency data access for over **1 million** daily transactions.\nEstablished CI/CD pipelines using **Azure DevOps**, reducing deployment cycles by **30%**, and ensuring consistent build quality and quick rollbacks during production failures.\nUtilized **Kubernetes** for container orchestration, significantly improving resource utilization and deployment flexibility across multiple environments.\nIncorporated **OWASP** best practices in the application architecture to enhance security measures against vulnerabilities, directly improving the platform's security audit scores by **25%**.\nImplemented dependency injection and inversion of control in service components, promoting testing and maintenance efficiencies across codebases.\nExecuted Aspect-Oriented Programming techniques to facilitate cross-cutting concerns such as logging, exception handling, and transaction management, improving code maintainability by **15%**."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tJava, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tSpring Boot, Spring Core, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tRESTful APIs, OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Azure DevOps\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Cosmos DB\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tOWASP, Nginx, Certbot\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Dependency Injection, Inversion of Control, Aspect-Oriented Programming, Spring Data Access, Spring Security",
+  "apply_company": "Halian"
+}

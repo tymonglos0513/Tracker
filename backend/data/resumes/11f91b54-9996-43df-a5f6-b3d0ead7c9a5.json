@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a proficient Data Engineer with 8 years of experience, I excel in leveraging technologies like **Python**, **SQL**, **DBT**, and **Snowflake** to build data pipelines and optimize data architecture. My technical expertise extends to modern cloud solutions and orchestration tools such as **Terraform**, **Airflow**, **Prefect**, **Docker**, and **Kubernetes**, ensuring smooth CI/CD processes and robust data management systems. \nI have a strong background in developing enterprise-grade platforms and integrating advanced data processing capabilities, including real-time analytics and machine learning pipelines. I pride myself on my ability to create secure and efficient applications, while adhering to compliance standards. My hands-on experience also includes implementing MLOps workflows and deploying ML models, contributing to enhanced decision-making in the healthcare and financial sectors.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** to build and optimize data pipelines for large-scale healthcare and financial applications, ensuring efficient data processing and storage in **SQL** databases such as **PostgreSQL** and **Snowflake**.\nImplemented robust **data architecture** practices using **Databricks** for data transformation and modeling, enhancing data accessibility and analytics capabilities.\nDesigned and maintained CI/CD pipelines leveraging **Airflow** and **Terraform**, streamlining deployment processes and managing infrastructure as code for **Docker** and **Kubernetes**-based environments.\nCollaborated with cross-functional teams to identify data requirements, ensuring seamless integration between raw data sources and analytics platforms.\nExecuted automation strategies for data ingestion, transformation, and reporting, reducing manual effort by over **30%**.\nEnhanced data reporting and visualization capabilities through integration with tools like **Tableau** and **Power BI**, providing stakeholders with actionable insights.\nMonitored and optimized performance of ETL workflows, achieving data processing speeds improved by **25%**.\nEnsured compliance with data governance and privacy standards in cloud-hosted solutions.\nConducted thorough testing and validation of data pipelines, establishing unit and integration tests with **DBT** for high data quality and reliability.\nEmployed **Airflow** and **Prefect** for orchestration of complex workflows, enabling better monitoring and visibility into data processes.\nEducated team members on best practices in data engineering and the use of cloud services, fostering a culture of data-driven decision making.\nFacilitated data migrations to cloud platforms, ensuring minimal downtime and robust data synchronization across systems."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed scalable data architectures leveraging **Python** and **SQL**, implementing solutions with **Snowflake** and **Databricks** to ensure efficient storage and retrieval of financial data.\nUtilized **Airflow** and **Prefect** for orchestrating ETL pipelines, effectively managing workflows and automating data ingestion processes at a pace of over **100,000 transactions** per hour.\nImplemented CI/CD practices using **Docker** and **Kubernetes**, facilitating seamless deployment and scaling of data solutions across cloud environments, leading to a **30% reduction** in deployment time.\nDesigned and executed data transformation processes using **DBT**, improving data quality and accessibility for analytics teams and reducing query times by **25%**.\nCollaborated on cloud-based solutions utilizing **Terraform** for infrastructure as code, ensuring a reliable and repeatable deployment process for data services.\nArchitected high-performance data integration workflows, actively supporting real-time analytics by efficiently connecting various data sources and systems.\nDemonstrated best practices in software development and data engineering principles, ensuring high code quality and maintainability throughout the project lifecycle."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Designed and optimized data pipelines and architecture to enhance cloud data processing using **Python**, **SQL**, and **DBT** for efficient data transformation and integration.\nDeveloped and managed data workflows leveraging **Airflow** and **Prefect** to ensure reliable execution of tasks, achieving up to **90%** efficiency in job scheduling and monitoring.\nUtilized **Snowflake** for scalable data warehousing solutions, resulting in a **50%** improvement in data retrieval times across analytics queries.\nImplemented infrastructure as code using **Terraform** to provision resources, ensuring reproducibility and faster deployment cycles for data infrastructure.\nContainerized applications and services deploying using **Docker**, streamlining development and production processes while achieving consistent environment setups across **Kubernetes** clusters.\nArchitected and maintained high-performance **data architecture** strategies capable of handling queries for **up to 10TB** of data daily, ensuring data integrity and availability across various scenarios.\nExecuted CI/CD practices to automate testing and deployment routines, reducing manual errors and shortening release cycles by **30%**.\nCollaborated closely with cross-functional teams to ensure data democratization and accessibility, contributing to a **20%** increase in team engagement with data tools and platforms.\nStreamlined data ingestion processes, enhancing load times and distributing processing workloads effectively to ensure **near real-time** data accessibility for analysts and data scientists."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython\n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:** \n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:** \n\t\n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:** \n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL, Snowflake\n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, CI/CD\n\n **Cloud & Infrastructure:** \n\tCloud, data architecture\n\n **Other:** \n\tMLflow, Airflow, Kubeflow, DBT, Prefect, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Python Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a skilled Senior Python Engineer with 8 years of experience, I excel in building scalable architecture and model inference APIs using **Python**, **FastAPI**, and **React**. My technical expertise encompasses cloud services like **AWS**, including **ECS** and **Fargate**, as well as containerization with **Docker** and CI/CD automation, ensuring efficient deployment of high-performance solutions. I have a deep understanding of **ML** and **NLP**, and I have successfully integrated these capabilities into applications aligned with compliance standards.\nThroughout my career, I have led the development of enterprise-grade platforms in the healthcare and financial sectors, leveraging advanced **data processing** techniques and serving machine learning models in production. My strong foundation in microservices architecture and event-driven systems allows me to design robust and secure applications, while my hands-on experience with tools like MLflow, Airflow, and Kubeflow enables me to implement effective MLOps workflows.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and developed scalable architectures using **Python** and **FastAPI** to create robust backend services, ensuring high performance and efficiency for healthcare and financial platforms.\nImplemented CI/CD pipelines utilizing **Docker** and **AWS** services like ECS and Fargate, facilitating seamless deployment processes, automated testing, and continuous integration across various applications.\nDesigned and deployed machine learning (ML) models for specific use cases, focusing on model inference APIs integrated into the backend systems, ensuring real-time data processing for patient risk prediction and financial fraud detection.\nUtilized **React** to develop dynamic front-end components, ensuring smooth user experiences across platforms, while collaborating with cross-functional teams to integrate user feedback into iterative design. \nExecuted data processing strategies to manage the ingestion and storage of large datasets, employing **PostgreSQL** and **MongoDB** for structured and unstructured data effective management.\nDeveloped NLP features within applications using Python libraries to enhance healthcare document parsing and financial anomaly detection capabilities, significantly improving the accuracy of services.\nEstablished enterprise-level DevOps strategies with **CI/CD** tools, integrating security scans and performance checks to maintain high-quality delivery standards and optimize deployment workflows.\nArchitected and executed re-architecture initiatives by transitioning monolithic applications to microservices, leveraging **Docker** to encapsulate services for scalability and reliability across environments.\nDesigned and implemented advanced data visualization tools using **D3.js** and **Chart.js**, providing real-time insights into key financial metrics and healthcare outcomes, facilitating business intelligence decisions.\nIncorporated efficient testing strategies utilizing tools like Jest and PyTest, ensuring full coverage of unit, integration, and E2E tests for robust application development.\nIntegrated cloud-based services such as **AWS** and **Azure**, optimizing cloud infrastructure setups for enhanced accessibility and performance of healthcare and fintech applications.\nCollaborated closely with data scientists to enhance model deployment processes, using **ML** technologies to ensure validated outputs through continuous evaluation and adjustment."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** with **FastAPI** to develop scalable microservices architecture, enhancing throughput and maintainability for high-volume transaction systems by over **30%**.\nDesigned and implemented dynamic, responsive front-end applications using **React (18)** and **TypeScript**, achieving a **25%** increase in user engagement through optimized performance and user experience.\nDeveloped and maintained real-time transaction monitoring dashboards with **React**, employing **D3.js** and **Power BI Embedded** to provide critical analytics and actionable insights, facilitating anomaly detection with a **95%** accuracy rate.\nIntegrated **Kafka**, **RabbitMQ**, and **Azure Service Bus** for a resilient event-driven architecture, streamlining asynchronous communication processes and reducing transaction processing time by **20%**.\nBuilt and orchestrated ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, successfully processing and ingesting data from both internal and third-party sources with a pipeline efficiency of **80%**.\nImplemented AI/ML-based fraud detection systems using **scikit-learn** and **XGBoost**, leveraging **Azure Machine Learning** to analyze transaction patterns, resulting in a proactive flagging of suspicious activities in banking systems, achieving a **99%** detection accuracy.\nCreated ML pipelines for credit scoring and transaction classification using **MLflow** and **Airflow**, integrating model inference APIs directly into backend services to enhance real-time decision-making capabilities."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed highly scalable architecture using **Python** (FastAPI) and **React** to ensure robust performance and availability for all e-commerce functionalities.\n• Implemented containerized microservices with **Docker** and orchestrated deployments using **AWS ECS** and **Fargate**, achieving 99.9% uptime across the infrastructure.\n• Leveraged machine learning techniques for personalized customer experiences by integrating **ML** model inference APIs, enhancing product recommendations based on user data and behavior.\n• Established CI/CD pipelines to automate testing and deployment processes, reducing time-to-market for new features by **30%**.\n• Designed and integrated **data processing** solutions to manage high-velocity transaction data, ensuring low latency and real-time analytics for e-commerce operations.\n• Built and maintained a continuous feedback loop for model improvements leveraging user interactions, driving an overall **20%** increase in engagement metrics.\n• Developed real-time features utilizing event-driven technology to capture user interactions, improving response times for customer inquiries by **50%**.\n• Enhanced web applications for mobile-first engagement using **React** and modern CSS frameworks, resulting in improved customer retention rates by **15%**.\n• Applied **NLP** techniques for advanced search functionalities, increasing search result relevance and boosting conversion rates by **25%**.\n• Managed secure payment processing through integration with platforms like Stripe and PayPal, ensuring compliance with payment and data protection standards."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tmodel inference APIs\n\n**Serverless and Cloud Functions:**\n\tAWS Lambda, Fargate\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, S3), Azure (App Services, Blob, SQL)\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Authentication & Security (Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), data processing, scalable architecture, NLP",
+  "apply_company": "W3Global"
+}

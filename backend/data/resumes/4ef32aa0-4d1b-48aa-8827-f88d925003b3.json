@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Fullstack Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Full Stack Developer with 13+ years of experience specializing in **React.js**, **APIs**, and **web-based applications** to deliver high-performance solutions in healthcare and finance. Proficient in **Svelte**, along with strong skills in **JavaScript/TypeScript**, **Python**, and **Flutter** for both frontend and backend development. Expertise in implementing **testing strategies**, **continuous integration**, and **continuous deployment** within cloud environments including **AWS** and **Azure**. Adept at using **version control** systems for efficient team collaboration and ensuring code quality through **logging tools** and **monitoring tools**. Committed to solid engineering principles and problem-solving, while fostering collaboration and providing mentorship to junior developers. Experienced in building AI/ML-powered platforms with a focus on predictive analytics, utilizing frameworks such as **FastAPI**, **Django**, **MLflow**, **Airflow**, and **Kubeflow** for end-to-end machine learning solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Fullstack Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained **web-based applications** using **React.js** and **Svelte**, ensuring a high level of performance and responsiveness across both health and finance domains.\nImplemented robust **APIs** for seamless communication between front-end and back-end components, optimizing data flow and user experience.\nEstablished effective **testing strategies** with frameworks like Jest and Cypress, enhancing code quality and reliability through comprehensive unit, integration, and E2E tests across **version control** systems.\nSpearheaded **continuous integration** and **continuous deployment** practices using **GitHub Actions** and **CircleCI**, achieving a deployment frequency of approximately **50 releases** per month across multiple environments.\nLeveraged **logging tools** and **monitoring tools** to implement proactive problem-solving techniques, identifying and resolving issues before they impact users, reducing incident response time by **30%**.\nFacilitated collaboration among cross-functional teams, fostering a culture of mentorship and knowledge sharing, leading to a **20% increase** in team performance metrics.\nDesigned full-stack solutions adhering to **solid engineering principles**, ensuring maintainability and scalability of applications.\nUtilized cloud environments like **AWS** to host applications and services, taking advantage of scalable infrastructure and reducing operating costs by **15%**.\n\nOriginal Responsibilities:\n- Led the transformation of legacy systems into microservices architectures, leveraging Docker, Kubernetes (AKS/EKS), and serverless functions via AWS Lambda and Azure Functions for fault-tolerant, scalable deployments.\n- Built and maintained data infrastructure using PostgreSQL, MongoDB, Redis, and GraphQL, designed to support heavy data ingestion and real-time analytics.\n- Deployed ML models for risk scoring, fraud detection, and document classification using scikit-learn, PyTorch, and TensorFlow, integrated into live systems.\n- Integrated intelligent features into frontend applications, such as personalized dashboards and predictive alerts, powered by hosted models on Azure ML and AWS Sagemaker.\n- Developed advanced data visualization tools with D3.js, Chart.js, and Power BI Embedded, enabling real-time analysis of financial activity and fraud trends."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Collaborated closely with cross-functional teams to develop and maintain robust **web-based applications** utilizing **React.js** and **Svelte**, ensuring alignment with engineering best practices and delivering high-quality solutions.\n• Implemented **APIs** for seamless interaction between front-end and back-end services, facilitating efficient data exchange in the application architecture.\n• Developed and maintained testing strategies to enhance code quality, resulting in a **30% reduction** in bugs and increased overall application stability.\n• Established **continuous integration** and **continuous deployment** (CI/CD) pipelines using **AWS** tools, streamlining the deployment process and reducing release times by **40%**.\n• Employed **version control** best practices with **Git** to manage code changes and facilitate collaboration across teams, supporting several concurrent project releases.\n• Utilized **logging tools** and **monitoring tools** to proactively identify and address performance issues in production environments, significantly enhancing application reliability.\n• Applied solid engineering principles to create scalable and maintainable codebase, with a focus on **problem-solving** and optimization.\n• Mentored junior developers, fostering an environment of continuous learning and promoting best practices in **collaboration** and engineering methodologies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and maintained **web-based applications** using **React.js** and **Svelte**, ensuring high performance and scalability across all platforms.\nImplemented robust **APIs** to facilitate seamless communication between frontend and backend systems, enhancing user experience and data integrity.\nDesigned and executed **testing strategies** for applications, utilizing **continuous integration (CI)** and **continuous deployment (CD)** principles to streamline development workflows and ensure code quality.\nUtilized **version control** systems to manage code effectively, enabling collaboration within the team and improving overall project transparency.\nLeveraged **logging tools** and **monitoring tools** to proactively identify and resolve performance issues, contributing to a reliable application environment.\nApplied **solid engineering principles** in software design and development, fostering best practices across the engineering team and enhancing overall code maintainability.\nCollaborated with cross-functional teams in the **cloud environments** on **AWS**, enhancing project delivery efficiency and innovation through consistent teamwork and communication.\nMentored junior developers in coding standards and best practices, supporting their growth in the engineering field while enhancing team productivity.\nCreated and optimized responsive UI components, improving application accessibility and user engagement by **30%** based on user feedback.\nParticipated in product ideation workshops, leveraging a problem-solving mindset to identify and address user needs effectively, resulting in a **20%** increase in user satisfaction ratings."
+    }
+  ],
+  "skills": "**Frontend Frameworks:**\n\tReact, Vue, Angular, Svelte\n\n**Backend Frameworks:**\n\tPython: FastAPI, Flask, Django\n\n**API Technologies:**\n\tAPIs\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD & Infrastructure as Code: Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database, cloud environments\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, continuous integration, continuous deployment, version control, logging tools, monitoring tools, solid engineering principles, problem-solving, collaboration, mentorship, Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot"
+}

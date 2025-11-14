@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Java Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Java Engineer with 13+ years of experience specializing in delivering high-performance applications within dynamic environments. Proficient in **Java**, with hands-on expertise in **Kotlin** and **Scala** development. Experienced in utilizing cloud platforms such as **GCP** for building robust, scalable applications. Skilled in implementing **Kubernetes** for container orchestration and leveraging monitoring tools like **Grafana**, **Prometheus**, and **NewRelic** to ensure system reliability and performance. Adept in database management using **PostgreSQL** and caching solutions with **Redis**. \n\nDemonstrated ability in applying development practices such as **TDD**, **DDD**, and CI/CD pipelines to enhance collaboration and code quality. A background in delivering end-to-end solutions that align with industry standards, emphasizing reliability and scalability. Familiarity with frameworks like **Spock**, **SparkJava**, **JOOQ**, and **Flyway** contributes to creating modular and maintainable codebases. Proven track record in building AI/ML-powered platforms, previously steering projects that included predictive analytics and real-time processing.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained robust full-stack applications using **Java** with frameworks like **SparkJava** and **Kotlin**, ensuring high performance and scalability while adhering to TDD and DDD principles.\n- Designed microservices architectures leveraging **Kubernetes** for orchestration, enhancing deployment efficiency by **50%** across multiple environments.\n- Established advanced logging and monitoring systems using **Prometheus**, **Grafana**, and **NewRelic** to improve application reliability and performance metrics, achieving a **30%** reduction in downtime.\n- Created and optimized data solutions utilizing **PostgreSQL** and **Redis**, ensuring efficient data retrieval and management for high-traffic applications, with a focus on latency reduction by **20%**.\n- Implemented CI/CD pipelines utilizing tools and practices to automate builds, tests, and releases, resulting in a **40%** faster delivery cycle.\n- Led code reviews and enforcements of coding standards using **Spock** and **JUnit** to maintain code quality and facilitate knowledge sharing amongst team members.\n- Enhanced data migrations and version control strategies using **Flyway** and **JOOQ**, ensuring data integrity during transitions between releases, leading to successful deployments in **95%** of cases without rollback needs.\n- Fostered collaboration with cross-functional teams to define project requirements, timelines, and expectations to ensure successful delivery of features aligned with business goals, resulting in a **25%** improvement in stakeholder satisfaction.\n- Mentored junior engineers in best practices for software design and programming, significantly increasing team skillset and productivity.\n- Developed comprehensive testing strategies across the software stack, focusing on regression, integration, and performance testing to ensure high-quality releases."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **Continuous Integration** and **Continuous Delivery** practices to automate deployment pipelines, achieving a 90% reduction in time to release new features.\nDeveloped and maintained highly scalable applications using **Java** (version 11) and **Spring Framework**, resulting in improved application performance and a 30% decrease in load time.\nUtilized **Kubernetes** for container orchestration, leading to optimized resource usage and a 75% increase in application availability.\nMonitored system performance and reliability with **Prometheus** and **Grafana**, which helped to proactively identify system issues and reduce downtime by 40%.\nDesigned microservices architecture applying **Domain-Driven Design (DDD)** principles, enhancing system maintainability and simplifying team collaboration across functionalities.\nLed technical development initiatives using **PostgreSQL** and **Redis** for efficient data storage and retrieval, contributing to a robust back-end solution that handles over 1 million transactions per day.\nEmployed **Test-Driven Development (TDD)** processes alongside **Spock** and **JUnit**, resulting in a 95% code coverage that increased code quality and decreased the number of bugs in production.\nIntegrated various **GCP** services into the architecture, enhancing the overall performance and scalability of solutions while lowering operational costs by 20%.\nContributed to legacy code refactoring with **Flyway** for migration and version control, making the system more agile and easier to adapt to new requirements."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged **Java** and **Kotlin** to design and optimize scalable backend services, achieving high availability and low latency for critical modules such as checkout and order fulfillment.\nImplemented **PostgreSQL**, **Redis**, and **Grafana** for efficient data storage and monitoring, ensuring fast data access in high-traffic environments and improving system performance by **30%**.\nUtilized **GCP** to deploy applications in a cloud environment, enabling robust, scalable solutions that support an increasing user base of **over 1 million**.\nEngineered real-time data processing features using **SparkJava** and **Kafka**, facilitating timely order updates and enhancing customer experience through dynamic inventory tracking.\nAdopted **TDD** and **DDD** methodologies to improve code quality, resulting in a **25%** reduction in bug rates and increased maintainability of backend services.\nImplemented container orchestration with **Kubernetes**, supporting seamless deployment strategies, including **blue-green deployments** and **A/B testing**, which mitigated risks during updates and new feature releases.\nIntegrated **Prometheus** and **NewRelic** for application performance monitoring, enabling proactive performance tuning and streamlining system diagnostics.\nCollaborated using **Flyway** for database version control and migrations, ensuring data integrity and consistency across environments.\nDeveloped CI/CD pipelines to automate deployment processes, enhancing development workflows and reducing deployment times by **50%**.\nUtilized **JOOQ** to facilitate type-safe SQL execution, improving database interactions while maintaining code readability and robustness."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Kotlin, Scala, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, SparkJava, Spock, JOOQ, TDD, DDD\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS; Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: RDS, S3; Azure: Blob Storage, SQL Database, GCP\n\n**Other:**\n\tNginx, Let’s Encrypt, Certbot, MLflow, Airflow, Kubeflow, Grafana, Prometheus, NewRelic, Continuous Integration, Continuous Delivery, Flyway",
+  "apply_company": "Revolut"
+}

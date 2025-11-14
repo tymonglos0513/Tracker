@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Backend Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a dedicated Senior Backend Engineer with 8 years of experience, I specialize in utilizing **Python**, **Django**, and **Django REST Framework** to develop high-performance, scalable, and secure backend solutions. My technical expertise encompasses **Celery** for asynchronous task management, **PostgreSQL** for robust database solutions, and performance monitoring using tools such as **Sentry**, **Datadog**, and **Grafana**. I am well-versed in building efficient APIs adhering to **OpenAPI** standards while implementing **Kubernetes** for container orchestration and managing caching solutions for optimal performance. \nFurthermore, my complementary skills in **Elasticsearch** and **ClickHouse** empower me to handle large datasets and facilitate advanced querying capabilities. I bring a strong foundation in microservices architecture, CI/CD automation, and cloud technologies, ensuring the delivery of compliant applications aligned with industry standards. My passion also extends to profiling tools for performance tuning, enabling the integration of machine learning components when relevant.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed robust backend solutions using **Python** and **Django**, including the **Django REST Framework** to create and maintain APIs for scalable applications.\nImplemented asynchronous processing using **Celery** to enhance system performance and improve response times in high-demand environments.\nDesigned and optimized data storage solutions utilizing **PostgreSQL** and **ClickHouse**, ensuring efficient querying and retrieval for large-scale data operations.\nIncorporated **Sentry** and **Datadog** for monitoring and error tracking, achieving a reduction in incident response times by **30%**.\nUtilized **Grafana** for live performance monitoring and visualization, allowing for real-time insights into application health and metrics.\nManaged containerized applications via **Kubernetes**, implementing best practices for deployment, scaling, and orchestration to support high availability.\nAdopted caching strategies using **Elasticsearch** to significantly increase data retrieval speeds and enhance user experience by **50%**.\nEngaged in profiling tools to identify bottlenecks and improve application performance, leading to a **20%** increase in request throughput.\nDeveloped comprehensive API documentation using **OpenAPI**, facilitating easier integration and communication with frontend and third-party systems.\nParticipated in collaborative code reviews and maintained a robust version control system using **Git**, enhancing code quality and team productivity.\nIntegrated advanced logging mechanisms to track and resolve issues swiftly, thereby improving overall system reliability.\nLed the implementation of best practices in software development, ensuring adherence to coding standards and design patterns across the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** alongside **Django** and **Django REST Framework** to implement scalable backend solutions for financial applications, enhancing system performance and reliability.\nEmployed **PostgreSQL** for efficient data management and storage, optimizing query performance by up to **30%** through indexing and query optimization strategies.\nImplemented **Celery** for asynchronous processing, allowing for the concurrent execution of background tasks and increasing system throughput.\nMonitored application performance using **Sentry**, **Datadog**, and **Grafana**, successfully reducing system downtime by **20%** through proactive incident management and logging.\nContributed to the improvements in observability and logging by integrating **OpenAPI** specifications, facilitating streamlined communication between frontend and backend services.\nUtilized **Git** for version control, ensuring collaborative development and maintaining code quality throughout the lifecycle of multiple projects.\nDesigned and optimized caching strategies that reduced load times for frequently accessed data by up to **25%**, utilizing various caching solutions.\nEnhanced user experience through effective profiling tools, leading to a **15%** increase in overall application performance and responsiveness.\nCollaborated with cross-functional teams to ensure smooth deployment of applications in **Kubernetes** clusters, ensuring scalable and robust infrastructure.\nPerformed rigorous testing and debugging of backend services to ensure reliability and maintainability in high-stakes financial environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Django** to design and optimize robust backend services for a global e-commerce platform, achieving **99.9%** uptime and supporting high traffic with low latency.\nDeveloped RESTful APIs using **Django REST Framework** and implemented **Celery** for asynchronous processing, resulting in a **30%** reduction in response times across core modules like checkout and order fulfillment.\nImplemented caching strategies that improved application performance by up to **40%**, leveraging technologies such as **Redis** for storing frequently accessed data.\nUtilized **PostgreSQL** for efficient database management, optimizing queries to streamline data retrieval for high-traffic user sessions, processing over **1 million** records per day.\nEmployed **Sentry** and **Datadog** for application performance monitoring and error tracking, enabling a proactive approach to identifying and resolving issues in real-time.\nLeveraged **Kubernetes** for orchestrating containerized microservices, enhancing the deployment process and ensuring system resilience during scale-up scenarios by enabling blue-green deployments.\nIntegrated **Elasticsearch** for advanced search functionalities, increasing search response accuracy by **25%** and improving overall user experience.\nConducted profiling using **profiling tools** to identify performance bottlenecks, resulting in enhanced system efficiency and a **15%** decrease in resource consumption.\nWorked collaboratively with frontend teams to ensure seamless integration of **APIs** and alignment with client-side frameworks, promoting a cohesive development approach.\nUtilized **Git** for version control and collaboration, ensuring impeccable code quality and streamlined team contributions in a fast-paced environment."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tDjango, FastAPI, Flask, Django REST Framework, Celery\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tOpenAPI\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, ClickHouse, Elasticsearch\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Sentry, Datadog, Grafana, Git, Caching, Asynchronous Processing, Profiling Tools",
+  "apply_company": "Search Atlas"
+}

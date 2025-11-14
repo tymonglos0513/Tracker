@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Data Engineer with 13+ years of experience specializing in building robust data pipelines and analytics solutions. Proficient in **Python**, **SQL**, and **AWS**, with strong familiarity in **Azure** and **GCP**. Skilled in implementing **Docker**, **Terraform**, and orchestrating workflows with **Airflow**, **Prefect**, and **Dagster**. Experienced in working with data processing frameworks such as **Spark**, **Dask**, and **Beam**, while ensuring data integrity through **Data Quality Checks** and **Anomaly Detection**.\n\nDemonstrated ability to deploy cloud-native systems and optimize performance with a focus on cost management and monitoring. Well-versed in leveraging **APIs** for seamless integrations and maintaining version control throughout development processes. A seasoned Full Stack Developer with a robust portfolio in the healthcare and financial sectors, adept at creating high-performance applications with technologies such as **React**, **Next.js**, **Node.js**, **FastAPI**, and **Django**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** to design and implement data pipelines for scalable data processing and transformation, ensuring data quality and integrity while adhering to **SQL** standards.\nDeveloped robust ETL processes leveraging **AWS**, **GCP**, and **Azure** services to seamlessly integrate and move data across multiple platforms and systems.\nBuilt containerized applications using **Docker** to ensure consistent environments during local development and production deployment.\nImplemented workflow orchestration with **Airflow** to manage and schedule jobs efficiently, optimizing task dependencies and resource allocation for improved performance.\nEmployed **Terraform** for infrastructure as code (IaC) to provision resources dynamically, maintaining version control, and enabling consistent environments across all stages of deployment.\nExecuted data quality checks to monitor the integrity of datasets, applying **Anomaly Detection** techniques to flag irregularities and ensure operational continuity.\nDesigned monitoring and observability solutions to track performance metrics of data pipelines, utilizing appropriate tools for real-time insights.\nCollaborated with cross-functional teams to develop and expose efficient **APIs**, enhancing data accessibility while ensuring secure access management through **IAM** practices.\nImplemented cost management strategies to optimize cloud expenditure, leveraging cloud-native tools and practices.\nExecuted version control best practices in data engineering workflows to maintain clarity and consistency in all codebases.\nUtilized advanced data processing frameworks and libraries such as **Spark**, **Dask**, and **Beam** to enhance processing capabilities on large datasets, resulting in accelerated data insights.\nConducted thorough documentation and validation of data architecture and pipelines to ensure clarity for future expansions and maintenance."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** for developing and optimizing ETL pipelines to ensure seamless data processing from internal and third-party sources, implementing **Airflow** for orchestration and enhancing data quality checks.\nEngineered real-time data processing solutions on **AWS** and **Azure**, ensuring high reliability and scalability across critical workflows using containerization with **Docker**.\nApplied principles of monitoring and observability to identify and address system anomalies, resulting in a **30%** increase in performance metrics.\nImplemented **SQL** for data querying and transformations, ensuring efficient retrieval of data for analytics and reporting purposes.\nDesigned data pipelines for machine learning model integration, leveraging **Azure** and **GCP** services to enhance capabilities in anomaly detection and fraud prevention.\nManaged infrastructure as code using **Terraform**, streamlining deployment processes and achieving a **40% reduction** in provisioning time.\nCreated APIs to facilitate communication between data services and applications, employing version control to maintain consistency and reliability in deployments.\nExecuted advanced data processing techniques using **Spark** and **Dask**, accelerating data handling tasks and supporting both batch and real-time analytics with an average processing time of **2 hours** for large datasets."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged **Python** for data processing, implementing **SQL** queries and **APIs** to enhance data retrieval and manipulation for efficient data workflows.\nDesigned and maintained scalable data pipelines using **Apache Beam** and **Spark** for transforming and moving large datasets securely across the platform, ensuring high **data quality checks** and efficient processing with **Dask** and **Delta** formats.\nImplemented **Docker** containerization for deployment of data services, ensuring consistency across development, testing, and production environments and facilitating version control best practices.\nMonitored data pipelines and workflows using tools like **Airflow** and **Prefect**, ensuring observability and timely anomaly detection to maintain data integrity and reliability across processes.\nUtilized cloud services such as **AWS**, **GCP**, and **Azure** for data storage and management, optimizing cost and resource allocation according to workload patterns.\nDeveloped and executed ETL processes, ensuring that data is accurate and timely for analytical use, thereby enhancing decision-making capabilities.\nApplied **Terraform** for infrastructure as code, maintaining version control of cloud resources and streamlining the deployment process for data solutions.\nConducted rigorous **data quality checks** and established **IAM** controls to ensure secure and compliant data access across varied user roles and permissions.\nDesigned monitoring dashboards with **observability** tools, allowing for proactive management of data pipelines and infrastructure performance metrics.\nImplemented robust cost management strategies to optimize cloud expenditures while maintaining high performance and availability of data services."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, SQL\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPIs\n\n**Serverless and Cloud Functions:**\n\tAWS, GCP, Azure\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, Terraform, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Prefect, Dagster, Spark, Dask, Beam, Parquet, Delta, Iceberg, Monitoring, Observability, IAM, Data Quality Checks, Anomaly Detection, Version Control, Cost Management, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Helm, Docker Compose"
+}

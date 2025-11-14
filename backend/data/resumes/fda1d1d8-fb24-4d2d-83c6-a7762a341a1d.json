@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Full Stack Developer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "As a seasoned Full Stack Developer with 8+ years of experience, I excel in developing applications using the **MERN stack**, emphasizing **Node.js**, **Express.js**, and **ReactJS**. I have a strong background in building **REST-APIs** and leveraging **Redux**, **Redux-Saga**, and **Reselect** for state management. My technical expertise includes performance optimization with effective **database performance tuning** strategies and implementing **test-driven development** practices using tools like **Jest** and **Mocha**. Additionally, I am proficient in version control with **Git** and **GitLab**, and utilize project management tools such as **Jira** for agile methodologies. I am skilled in integrating **Social Network APIs**, as well as implementing CI/CD pipelines with **GitLab CI** and monitoring solutions with the **ELK Stack**. Beyond technical skills, I have successfully designed enterprise solutions across sectors, delivered projects on time, and fostered a collaborative team environment.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Developer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "Developed and maintained scalable applications utilizing the **MERN stack** (MongoDB, Express.js, ReactJS, Node.js), enhancing performance and user experience for web-based platforms.\nDesigned and implemented **REST-APIs** with **Node.js** and **Express.js**, ensuring optimized interactions between frontend and backend systems, achieving response times under **200ms**.\nUtilized **Redis** for caching strategies, improving data retrieval times by up to **50%** and enhancing application responsiveness.\nConducted database performance tuning for MongoDB, ensuring efficient handling of data queries for applications with over **1M** daily users.\nImplemented **test driven development** practices using **Jest** and **Mocha**, achieving a code coverage of over **85%** and reducing bugs significantly in production.\nCollaborated using **Git** and **GitLab CI** for version control and continuous integration, streamlining development workflows across multiple branches and reducing deployment times by **30%**.\nManaged asynchronous messaging and event-driven architecture with **RabbitMQ**, ensuring reliable communication between microservices and improving overall application scalability.\nDeveloped user interfaces with **ReactJS**, utilizing advanced state management libraries like **Redux** and **Redux-Saga** for effective data flow and improved user interactions.\nEmployed **Styled Components** to enhance the UI design, ensuring a consistent look and feel across applications while also simplifying CSS management.\nCreated and maintained integration with various **Social Network APIs**, facilitating user authentication and innovative features that increased user engagement by **25%**.\nConfigured **ELK Stack** for logging and monitoring, enabling real-time insights into application performance and quickly identifying issues before they affect end-users.\nParticipated actively in Agile practices using **Jira**, facilitating sprint planning and retrospectives to drive continuous improvement across development teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained dynamic, user-centric applications using the **MERN stack** (MongoDB, Express.js, ReactJS, Node.js) to ensure a responsive and efficient user interface, leveraging **Redux** for state management and **Styled Components** for styling.\nImplemented robust **REST-APIs** for seamless communication between front-end and backend services, ensuring performance and scalability of applications.\nOptimized database performance for MongoDB, maintaining high availability and reliability, and enhanced application responsiveness through effective **Redis** caching strategies.\nBuilt message queues and handled asynchronous processing using **RabbitMQ**, improving transaction efficiency and application responsiveness.\nApplied **test driven development** principles, utilizing **Jest** and **Mocha** to ensure high-quality code and functionality through automated unit testing.\nManaged version control and collaboration processes through **Git** and **GitLab**, ensuring effective project management and code quality across teams.\nUtilized **ELK Stack** for centralized logging and performance monitoring, allowing for comprehensive application insights and rapid issue resolution.\nLeveraged **Jira** for agile project management, facilitating clear tracking of project progress and team collaboration.\nDesigned and executed integration tests to maintain application integrity and performance, ensuring the delivery of high-quality software.\nEngaged in database performance tuning strategies to optimize the data layer, resulting in a **50%** improvement in query execution times.\nContributed to CI/CD pipelines via **GitLab CI** to automate deployment processes, improving release cycles and code integration efficiencies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Developed and optimized full-stack applications using **MERN stack** (MongoDB, Express.js, ReactJS, Node.js) to enhance overall performance and user engagement in dynamic environments.\nDesigned and implemented **REST APIs** with **Node.js** and **Express.js** to facilitate seamless communication between frontend and backend systems, improving efficiency and user interactions.\nLeveraged **Redis** as an in-memory data structure store to improve database performance and speed up response times, reducing access latency by **50%**.\nUtilized **ReactJS** and **Styled Components** for building responsive user interfaces, promoting a modern user experience with clean and maintainable code.\nImplemented state management solutions using **Redux** and **Redux-Saga** to efficiently handle side effects and maintain consistent application state across complex UI components.\nAdopted test-driven development practices with **Jest** and **Mocha**, writing unit and integration tests to ensure code quality and reliability.\nParticipated in Agile development practices using tools like **Jira** to manage tasks and workflows, increasing team productivity by **30%**.\nAutomated CI/CD pipelines in **GitLab CI** to ensure rapid and reliable deployment cycles, reducing deployment time by **40%**.\nEngaged in database performance tuning projects enhancing response time for complex queries by **60%**, leading to improved application efficiency.\nBuilt scalable applications with a focus on user experience by leveraging **social network APIs** for enhanced functionality and integration.\nUtilized **Git** for version control, facilitating collaborative coding and enhancing software development practices within the team.\nConducted performance testing and optimization strategies ensuring applications can handle peak loads effectively, validated through stress testing frameworks like **locust**.\nDesigned and integrated real-time features using **RabbitMQ** for managing queues, enhancing chat functionality and notifications, improving user engagement metrics by **25%**.\nImplemented observability using the **ELK Stack** for logging and monitoring, ensuring application stability and performance monitoring across deployed services."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Django, Flask, Node.js, Express.js, Spring Boot\n\n **Frontend Frameworks:**\n\tAngular (1–16), React (15–18), ReactJS, Next.js, Vue.js (2/3), Blazor, Redux, Redux-Saga, Reselect, Styled Components\n\n **API Technologies:**\n\tREST & gRPC APIs, REST-APIs, Social Network APIs\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Git, GitLab, GitLab CI, ELK Stack\n\n **Cloud & Infrastructure:**\n\tNginx, Certbot\n\n **Other:**\n\tSQLAlchemy, Pydantic, Celery, JWT, OAuth2, Keycloak (OIDC, RBAC), RabbitMQ, database performance tuning, test driven development, Jest, Mocha, Jira"
+}

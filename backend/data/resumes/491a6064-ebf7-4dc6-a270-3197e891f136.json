@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Java Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Java Engineer with 13+ years of experience specializing in the development of high-performance applications, particularly within the healthcare and financial sectors. Proficient in **Java** and **Spring Boot**, with hands-on expertise in **Quarkus** and **Micronaut** for building robust back-end solutions. Experienced in database management using **MySQL** and **MariaDB**, along with caching strategies utilizing **Redis**.\n\nSkilled in creating RESTful APIs with **HTTP**, and proficient in documentation with **Swagger** and **OpenAPI** standards. Adept at implementing best practices using **JUnit** and **Mockito** for effective unit testing.\n\nFamiliar with Agile methodologies such as Kanban and SCRUM, enabling efficient workflow and collaboration. Additionally, experienced in AI/ML platform development, leveraging **Python** and **Flutter** for innovative front-end applications, while remaining compliant with key regulations including HIPAA, FHIR, and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and built scalable applications utilizing **Java** with **Spring Boot** and **Quarkus**, ensuring adherence to RESTful APIs and implementing **OpenAPI** documentation for seamless integration.\nDeveloped and maintained MySQL and MariaDB databases, optimizing queries and ensuring efficient data retrieval and storage for high-performance applications.\nImplemented robust testing strategies using **JUnit** and **Mockito**, achieving **95%** test coverage and maintaining code quality across all microservices.\nLeveraged **Redis** for caching strategies, improving application response times by up to **50%** in high-traffic environments.\nCollaborated within an Agile framework applying **SCRUM** and **Kanban** methodologies, enhancing team productivity and project visibility.\nDesigned RESTful interfaces with comprehensive API documentation using **Swagger** to facilitate smooth integration for third-party developers.\nArchitected microservices using **Micronaut** to reduce startup time by **40%** and allow for efficient deployment and scaling of services.\nDeveloped and integrated CI/CD pipelines for Java applications using popular tools, achieving automated deployments with **Docker** and managing service orchestration with Kubernetes.\nUtilized HTTP protocols to enhance communication between microservices, ensuring secure and efficient data handling across the application ecosystem.\nActively participated in code reviews and architecture discussions, providing mentorship to junior developers and helping shape coding standards and best practices."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Implemented RESTful APIs using **Java** with **Spring Boot**, ensuring high performance and scalability for applications handling over **10,000** concurrent users.\n- Designed and developed microservices architecture, applying knowledge of **Quarkus** and **Micronaut** to optimize system resource utilization and response times.\n- Conducted unit testing and integration testing with **JUnit** and **Mockito**, achieving a code coverage rate of **85%**, which improved code reliability and maintainability.\n- Integrated caching mechanisms using **Redis**, resulting in a **50%** reduction in database load and improved application response times.\n- Collaborated with cross-functional teams using **Kanban** and **SCRUM** methodologies to ensure timely project deliveries and adapt to changing requirements effectively.\n- Documented APIs using **Swagger** and **OpenAPI**, enhancing API usability for both internal and external developers.\n- Developed data persistence strategies utilizing **MySQL** and **MariaDB**, ensuring robust and scalable database solutions for managing financial data.\n- Participated in code reviews and contributed to best practices, mentoring junior developers to enhance team productivity and skill levels."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Engineered robust backend services for high-performance applications utilizing **Java** with **Spring Boot**, ensuring seamless integration with business requirements and providing scalability across various modules.\nDeveloped and maintained RESTful APIs compliant with **HTTP** standards, utilizing **OpenAPI** and **Swagger** documentation tools for enhanced clarity and streamlined communication with frontend teams.\nImplemented effective caching strategies with **Redis** to optimize data retrieval times, significantly enhancing application responsiveness during peak traffic periods.\nConducted unit testing and behavior-driven development (BDD) practices using **JUnit** and **Mockito** to ensure code quality, achieving a **95% test coverage** across critical services.\nParticipated in Agile methodologies practicing **SCRUM** and **Kanban**, leading bi-weekly sprint planning and retrospectives to ensure continuous improvement and efficient team collaboration.\nCollaborated on database design and management projects using **MySQL** and **MariaDB**, optimizing queries that resulted in performance improvements of up to **30%**.\nContributed to microservice architectures through the implementation of frameworks such as **Quarkus** and **Micronaut**, enabling swift and efficient service deployment in a cloud environment.\nDesigned comprehensive documentation and specifications for API endpoints, facilitating easier onboarding for new developers and maintaining consistency throughout the project.\nEmployed proactive monitoring and debugging strategies to maintain system health and availability, ensuring a **99.9% uptime** across services, thus supporting business continuity.\nCreated user-friendly interfaces using Frontend frameworks to enhance user experience, integrating them seamlessly with backend services to uphold high operational standards."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tJava, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tSpring Boot, Quarkus, Micronaut, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tHTTP, REST, Swagger, OpenAPI\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tMySQL, MariaDB, PostgreSQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, JUnit, Mockito, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Kanban, SCRUM",
+  "apply_company": "LUMASERV"
+}

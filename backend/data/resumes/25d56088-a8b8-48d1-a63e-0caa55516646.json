@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior FullStack Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-driven Senior Full Stack Engineer with 13+ years of experience in building high-performance applications, particularly in the healthcare and financial sectors. Proficient in **TypeScript**, **JavaScript**, and **Node.js**, with extensive expertise in developing and deploying **serverless** applications on **AWS** using tools like **API Gateway**, **S3**, **EventBridge**, and **RDS**. Skilled in implementing event-driven architectures and designing microservices with a strong focus on scalability and efficiency.\n\nExperienced in integrating **AI** solutions, including **LLM** technologies, for predictive analytics and automation, coupled with a robust background in compliant-driven development aligned with standards such as HIPAA and PCI DSS. Adept in using **Terraform** and **CloudFormation** for infrastructure as code, as well as orchestrating deployment pipelines for continuous integration and delivery. Strong analytical and problem-solving abilities, combined with hands-on experience in monitoring and testing applications to ensure reliability and performance.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior FullStack Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and built scalable full-stack platforms for healthcare and fintech utilizing **Node.js**, **TypeScript**, and implementing secure APIs to meet strict compliance standards including HIPAA and GDPR.\nLeveraged **AWS services** such as **S3**, **RDS**, and **DynamoDB** to enhance data accessibility and optimize backend processes for real-time analytics.\nIntegrated serverless architectures using **AWS Lambda**, **API Gateway**, and **EventBridge** for efficient event-driven functionalities and reduced operational overhead.\nCreated CI/CD pipelines employing modern tools like **Terraform** and **AWS CDK**, ensuring automated deployment processes and infrastructure as code principles with versioning for better visibility.\nImplemented robust and scalable data storage solutions using **PostgreSQL** and **NoSQL** databases, adhering to best practices for data integrity and performance.\nCollaborated with cross-functional teams to develop intelligent features such as AI-driven predictive health alerts, utilizing **Langfuse** and prompt engineering to enhance user experience.\nDefined comprehensive testing strategies using tools like **Jest** and **Cypress** to ensure code quality and optimal functionality across the application stack.\nMonitored application performance and operational health using sophisticated monitoring strategies to ensure high availability and swift identification of anomalies.\nLed the deployment of machine learning models for enhanced risk assessment through integration with **AWS** and **monitoring frameworks** ensuring seamless transition from development to production environments.\nDeveloped and maintained detailed documentation of architectures and workflows, emphasizing transparency and team collaboration, while adhering to version control best practices."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Node.js** (NestJS/Express) and **Python** (FastAPI, Django) to modernize core financial platforms by migrating to microservices architecture, enhancing scalability and performance for high-volume transactional systems.\n\nDeveloped robust serverless applications using **AWS** technologies, such as **API Gateway**, **S3**, **DynamoDB**, and **RDS**, to optimize resource management and reduce operational costs by **30%**.\n\nBuilt dynamic front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, implementing **Redux Toolkit** and **Tailwind CSS** for responsive design that improved user engagement by **25%**.\n\nDelivered real-time analytics dashboards using **D3.js** and **Power BI Embedded**, providing operations teams with immediate insights into transactions and anomalies, leading to a **40%** increase in operational efficiency.\n\nDesigned and deployed an event-driven architecture leveraging **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring efficient asynchronous communication across essential workflows such as payments, alerts, and compliance, resulting in processing improvements of **50%**.\n\nDeveloped ETL pipelines utilizing **Python**, **Apache Airflow**, and **Azure Data Factory** for ingesting financial data from both internal and third-party sources, capable of handling **1M+** transactions per day with support for batch and real-time processing.\n\nDeployed machine learning models for fraud detection employing **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity, improving fraud detection rates by **20%** based on user behavior and transaction patterns.\n\nCreated ML pipelines focused on real-time credit scoring, churn prediction, and transaction classification, using **MLflow** and **Airflow** to seamlessly integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** services such as **S3**, **RDS**, and **DynamoDB** to architect and manage scalable backend infrastructure for high-performance web applications, achieving up to **99.9%** uptime and improving response times by **30%**.\nEngineered and deployed **Serverless** architectures and **API Gateway** integrations, streamlining microservices and enhancing application performance while reducing costs by approximately **25%**.\nDeveloped robust applications using **Node.js** (including **TypeScript**), ensuring maintainability and scalability of code with over **90%** test coverage through automated testing frameworks.\nImplemented real-time features and event-driven workflows using AWS **EventBridge**, maintaining system responsiveness and reliability across services.\nDesigned, built, and executed CI/CD pipelines using **Terraform** and **AWS CDK**, improving deployment speed and reducing the average time to market for new features by **40%**.\nEngaged in prompt engineering strategies for optimizing interactions with **LLM** applications to enhance user engagement and analytics accuracy.\nAdministered databases like **PostgreSQL** and **NoSQL** databases for effective data persistence, enabling efficient query performance with over **1 million** transactions processed monthly.\nConducted extensive monitoring and testing to ensure system integrity and performance, employing tools and practices aligned with best industry standards.\nSpearheaded efforts in implementing secure access protocols utilizing **IAM** roles and **OAuth 2.0**, reinforcing platform security and compliance with regulations such as GDPR.\nCollaborated on deploying features using container orchestration tools, significantly improving application scalability and allowing seamless feature rollouts."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI Gateway, EventBridge\n\n**Serverless and Cloud Functions:**\n\tAWS Lambda, Serverless\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, DynamoDB\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, IAM, CloudFormation, AWS CDK, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tAI, MLflow, Airflow, Kubeflow, LLM, Langfuse, Prompt Engineering, Testing, Monitoring, Deployment, Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "Spectrum.Life"
+}

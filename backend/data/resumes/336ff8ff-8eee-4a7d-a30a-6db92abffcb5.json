@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Software Engineer bringing 8 years of experience, I possess a strong foundation in **AWS**, **CI/CD**, **Docker**, and **GitHub**, essential for building and deploying enterprise solutions. My extensive background includes developing robust client-server architectures and distributed systems, ensuring performance and scalability in high-demand environments. I am adept at leveraging **Spring**, **Hibernate**, and **Spring Boot** for backend development, complemented by proficiency in database management.\n\nI have a proven track record in leading development initiatives in the healthcare and financial sectors, focusing on compliance with standards such as HIPAA and PCI DSS. Although my core expertise lies outside Java technologies, I thrive in dynamic environments where I implement **DevOps** practices to enhance productivity. My experience also includes exposure to **GenAI** tools, ensuring innovative solution delivery. My original strengths in full-stack development with **JavaScript/TypeScript**, **React**, **Node.js**, and cloud services like **Azure** round out my skill set, enabling me to create high-performance applications tailored to the unique needs of each project.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and deployed enterprise-level applications utilizing **Java**, **Spring**, and **Hibernate** to enhance overall system performance and maintainability.\n• Established CI/CD pipelines leveraging tools such as **GitHub Actions**, ensuring streamlined, automated deployments and integration processes across both web and API services.\n• Implemented Docker for containerization of applications, facilitating consistent and reliable deployments in development, testing, and production environments.\n• Designed and implemented client-server architecture, ensuring scalable and efficient communication between front-end and back-end systems.\n• Collaborated on distributed systems strategies to enhance system scalability and resilience, utilizing AWS for cloud-based deployments.\n• Developed and maintained cloud-native databases optimized for performance and security, focusing on high-availability architectures using AWS services.\n• Architected systems built with a microservices approach, leveraging **Docker** and **AWS** in combination with Spring Boot for seamless integration and scalability.\n• Integrated GenAI tools into client applications, enhancing user experience through advanced AI-driven insights and features.\n• Engaged in DevOps practices including security scans, testing, and version control leveraging modern tools in AWS and **GitHub**.\n• Designed and executed comprehensive software testing strategies, incorporating unit, integration, and E2E checks to ensure application reliability.\n• Implemented real-time monitoring and error analytics systems, significantly reducing downtime and improving the overall user experience.\n• Fostered strong collaborative efforts within cross-functional teams, aligning development processes with business goals to deliver impactful software solutions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Spring Boot** frameworks to develop and modernize financial platforms, enhancing scalability and maintainability to support up to **10,000** transactions per minute.\nEmployed **AWS** cloud services for scalable deployments, ensuring high availability and reliability in client-server architectures for financial applications.\nImplemented CI/CD practices using **GitHub** and **Docker**, reducing deployment times by **30%** and minimizing downtime interruptions during updates.\nDesigned and maintained robust databases, optimizing data querying processes which improved transaction speeds by **25%** for high-volume systems.\nFocused on distributed systems architecture to increase throughput and efficiency, allowing seamless user interactions with financial platforms.\nLed the integration of **Hibernate** for efficient database interactions, reducing data retrieval times by **40%**.\nCollaborated closely with team members on DevOps practices to streamline development processes and ensure continuous integration and delivery of features.\nActively engaged in utilizing Generative AI tools to enhance development processes and create innovative solutions for banking applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend services for a global e-commerce platform leveraging **Java** and **Spring Boot**, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment for over **1 million users**.\nEngineered real-time features using **client-server architecture** and event-driven systems, improving order update responsiveness by **75%** through the use of **AWS** services.\nImplemented CI/CD pipelines using **GitHub** and **Docker**, streamlining deployment processes and reducing rollout times by **50%**.\nDeveloped scalable and distributed database solutions integrating **AWS** managed databases such as **PostgreSQL** and **MongoDB**, ensuring data integrity and availability during peak transactional loads exceeding **10,000 transactions per minute**.\nApplied DevOps practices to monitor system performance using **AWS CloudWatch**, achieving a **99.9%** system uptime across all services.\nCreated and managed secure deployment environments utilizing **Docker** containers orchestrated with Kubernetes, enabling efficient use of resources and reducing application deployment times by **60%**.\nIntegrated GenAl tools for enhancing system capabilities and improving data processing times, maximizing throughput and effectiveness in data handling tasks.\nImplemented robust security protocols using **OAuth 2.0** for secure user access management, ensuring the protection of user data and compliance with regulations like GDPR.\nCollaborated in cross-functional teams to design maintainable codebases, applying strong principles of **distributed systems** that improved software reliability and maintainability by **30%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Python, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tSpring, Spring Boot, FastAPI, Flask, Django, Hibernate\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tOpenID Connect (OIDC), RBAC, JWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tArtificial Intelligence, Machine Learning, MLflow, Airflow, Kubeflow, Let’s Encrypt, Nginx, Certbot, client-server architecture, distributed systems, GenAI tools",
+  "apply_company": "Grupo TECDATA Engineering"
+}

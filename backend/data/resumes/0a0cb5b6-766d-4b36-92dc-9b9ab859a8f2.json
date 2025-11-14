@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Fullstack Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Fullstack Engineer with 8 years of comprehensive experience, I specialize in leveraging **AWS** services such as **Lambda**, **API Gateway**, **S3**, **EventBridge**, **RDS**, **DynamoDB**, and utilization of **AWS CDK**, **CloudFormation**, and **Terraform** to build high-performance applications. My solid expertise in **Node.js**, and **TypeScript** allows me to create robust applications with seamless functionality.\nI also have a strong foundation in integrating **AI** solutions, focusing on **LLM design**, model evaluation, and working with tools like **Langfuse**. My full-stack development experience covers modern frameworks such as **React**, **Next.js**, and **Vue**, alongside back-end technologies like **FastAPI** and **Django**.\nAdditionally, I bring extensive experience in cloud architecture across **Azure** and **AWS**, leading the development of enterprise-grade platforms that incorporate AI and ML capabilities for intelligent automation and real-time data processing. With a commitment to implementing microservices architecture, event-driven systems, and CI/CD automation, I ensure that all applications are robust, secure, and compliant with standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Fullstack Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and implemented scalable, full-stack applications leveraging **Node.js**, **TypeScript**, and various cloud services in the **AWS** ecosystem including **AWS Lambda**, **API Gateway**, **S3**, **RDS**, and **DynamoDB** to enhance performance and reduce latency.\nArchitected and maintained cloud-native data solutions using **PostgreSQL** and **NoSQL** databases, optimizing for data storage and retrieval for applications handling up to **1M** transactions daily.\nCreated and deployed machine learning models focused on AI-driven features, ensuring robust **LLM** design and evaluation for use cases such as financial fraud detection, integrating powerful APIs tailored for analytics and predictions.\nImplemented CI/CD pipelines utilizing Terraform and CloudFormation for efficient management of infrastructure as code across various environments, facilitating deployment and updates in less than **30 minutes**.\nEnabled real-time data processing and analytics features in financial applications, successfully integrating advanced AI functionalities with **AWS CDK** and model serving through robust APIs to support dynamic user needs.\nCollaborated with cross-functional teams to identify and design innovative **AI** solutions using **Langfuse** and other relevant technologies, enhancing user experience through personalized recommendations delivered via secure back-end services.\nDeveloped comprehensive testing strategies using modern frameworks to ensure high-quality delivery of both front-end and back-end code, capable of handling extensive user interactions and data processing without compromising performance.\nIntegrated advanced search capabilities through the implementation of **ElasticSearch**, improving data discoverability and user experience across millions of health records and complex financial datasets.\nLeveraged data visualization libraries and tools to present analytical insights effectively, supporting business decision-making with dashboards that incorporate real-time data metrics and trends.\nConducted regular performance evaluations and audits of deployed models and APIs to maintain and improve systems' efficiency, security, and compliance with regulatory standards."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Node.js** and **TypeScript** to lead the development of scalable, maintainable financial platforms, adopting a microservices architecture that improved throughput by **30%** for transaction systems.\nEmployed **AWS** tools such as **Lambda**, **API Gateway**, and **RDS** to create high-performing, dynamic front-end applications using React (**v18**), enhancing user engagement and reducing load times by **25%**.\nDeveloped real-time transaction monitoring dashboards with **Power BI Embedded** and **D3.js**, enabling operation teams to view and analyze financial data, resulting in a **40%** increase in anomaly detection.\nIntegrated **AWS EventBridge** and message brokers like Kafka and RabbitMQ to establish an event-driven system capable of processing over **10,000** transactions per minute, improving compliance response times.\nDesigned and implemented ETL pipelines with **Apache Airflow** and **Azure Data Factory** to ingest and transform financial data from diverse sources, reducing processing time by **50%**.\nDeveloped ML-powered fraud detection systems using **scikit-learn** and **XGBoost**, analyzing patterns and ensuring suspicious activities are flagged with **90%** accuracy.\nCreated Machine Learning pipelines for real-time credit scoring and transaction classification using **MLflow**, contributing to a **15%** reduction in false-positive rates in transaction processing."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** services including **Lambda**, **API Gateway**, **S3**, **EventBridge**, and **RDS** to architect scalable backend solutions, enhancing system performance by **30%**.\nDeveloped and deployed **Node.js** microservices with TypeScript, ensuring modularity and maintainability across applications catered to a user base exceeding **1 million**.\nIntegrated **PostgreSQL** and **NoSQL** solutions to manage large data volumes, optimizing queries for an efficiency gain of up to **25%** in data retrieval times.\nDesigned responsive front-end applications using **React 18**, **Vue 3**, and **Angular**, achieving cross-platform compatibility and improved UI engagement metrics by **40%**.\nImplemented real-time functionalities utilizing **WebSockets** and event-driven architectures with **Kafka** and **RabbitMQ**, resulting in enhanced order tracking and real-time updates for users.\nLeveraged **Terraform** and **CloudFormation** for infrastructure as code (IaC) practices, streamlining deployment processes and reducing setup times by **50%**.\nExecuted feature flags management and blue-green deployments with **LaunchDarkly**, mitigating deployment risks and enabling A/B testing for new features, leading to a **15%** increase in user retention.\nEngineered AI-driven recommendation systems using tools like **scikit-learn** and **TensorFlow**, tailoring user experiences based on engaging behavioral patterns and increasing conversion rates by **20%**.\nEstablished secure payment processes integrated with **Stripe**, **PayPal**, and **Razorpay**, ensuring compliance with PCI standards and enhancing transactional security measures.\nApplied RBAC and **OAuth 2.0** in user access management, safeguarding user information and maintaining GDPR compliance throughout application platforms."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI Gateway, AWS Lambda\n\n**Serverless and Cloud Functions:**\n\tAWS Lambda, EventBridge\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, DynamoDB\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), AWS CDK, CloudFormation\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, NoSQL, LLM, Langfuse, LLM design, model evaluation",
+  "apply_company": "Spectrum.Life"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Full Stack Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-118083397/",
+  "profile_summary": "Full Stack Engineer with 10+ years of experience specializing in **React**, **Node.js**, **TypeScript**, and **microservices architecture**. Adept at designing and implementing robust APIs and cloud-native applications across **AWS**, **Azure**, and **GCP** environments. Proficient in **Kubernetes**, **DevOps practices**, and **CI/CD** methodologies, leveraging **GitOps**, **Docker**, and database technologies like **BigQuery**, **ClickHouse**, and **Firestore** for efficient deployment and scaling.\n\nDemonstrated ability in cloud billing models and cost optimization, ensuring effective cloud commitment management. Strong collaboration and communication skills that enhance team dynamics and contribute to successful project delivery. Passionate about building secure, maintainable solutions that adhere to compliance standards in industries such as healthcare and finance, and focused on driving real-world impact through innovative technology.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable, full-stack solutions leveraging **React** (17–18), **Node.js**, and **TypeScript**, adhering to regulatory standards such as HIPAA and GDPR to ensure secure healthcare and financial applications.\n• Developed microservices architecture utilizing **Docker** and **Kubernetes** to enhance application scalability and reliability, supporting deployment on **AWS** and **Azure** cloud platforms.\n• Created robust APIs with a focus on optimal performance in **cloud-native environments** and engaged in cost optimization strategies aligned with cloud billing models.\n• Integrated and maintained databases such as **PostgreSQL**, **MongoDB**, and **Redis**, optimizing querying processes for large-scale data handling, ensuring efficient data storage and retrieval.\n• Spearheaded enterprise-level DevOps practices using CI/CD tools like **GitHub Actions** and **Azure DevOps**, streamlining deployments across **cloud** environments with effective **GitOps** workflows.\n• Deployed advanced data visualization tools utilizing **D3.js** and **Chart.js** for real-time transaction insights, ensuring that operations align with financial KPIs and trends.\n• Collaborated closely with cross-functional teams, demonstrating strong **communication** and **collaboration skills** to integrate cutting-edge features, including AI-driven dashboards into client-facing applications.\n• Established comprehensive testing strategies using tools like **Jest**, **Cypress**, and **Postman**, ensuring software quality across all environments through effective unit and integration testing.\n• Implemented machine learning features into applications with cloud-based services, including **AWS**, enabling predictive analytics and smart notifications tailored for healthcare and finance avenues.\n• Engaged in continuous improvement processes for application architectures, boosting performance and scalability to support high availability in **cloud-native** deployments."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Go** and **Node.js** (NestJS/Express) to lead the development of microservices architecture, enhancing system scalability and maintainability for high-volume transactions, resulting in throughput improvements of over **25%**.\nDesigned and developed interactive web applications leveraging **React** (18) and **TypeScript**, incorporating RESTful API design and managing state with Redux Toolkit, which improved user engagement metrics by **30%**.\nImplemented cloud-native solutions using **AWS** and **Azure**, optimizing cloud billing models that led to a **15%** reduction in operational costs through effective cost management strategies.\nOrchestrated **Kubernetes** deployments to improve application performance resilience and leverage DevOps practices for continuous integration and delivery (CI/CD), achieving deployment success rates of **98%**.\nBuilt ETL pipelines with **Apache Airflow** and **Azure Data Factory**, enabling efficient data ingestion from multiple sources, reaching processing speeds of up to **10TB** daily.\nDeveloped robust databases using **BigQuery** and **ClickHouse**, ensuring high performance for data retrieval and analytics.\nEnhanced collaboration and communication across teams by implementing GitOps practices, streamlining version control processes and improving development workflow efficiency.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Developed and maintained microservices architecture using **Go** and **Node.js** (NestJS), ensuring robust API design for seamless integration and delivery across cloud-native environments like **AWS**, **GCP**, and **Azure**.\nEngineered responsive frontend applications utilizing **React** (18) and **TypeScript**, focusing on delivering high-quality user experiences while ensuring compliance with accessibility standards (WCAG 2.1).\nImplemented CI/CD pipelines with **Docker** and **Kubernetes**, facilitating efficient deployment processes, rollback capabilities, and streamlined collaboration between development and operations teams.\nOptimized cost management strategies and cloud billing models for multi-cloud deployments, achieving up to **30%** cost savings through effective resource allocation and utilization monitoring.\nEnsured database scalability by working with multiple databases like **Firestore**, **BigQuery**, and **ClickHouse** to support high-traffic scenarios, improving query performance by at least **40%**.\nCollaborated closely with cross-functional teams leveraging **DevOps practices** to enhance communication skills and ensure smooth product delivery, resulting in reduced project timelines by **25%**.\nIntegrated GitOps strategies for managing infrastructure as code, enabling better version control and deployment strategies while maintaining system reliability.\nParticipated in implementing role-based access control (RBAC) and OAuth 2.0 protocols to guarantee secure data access for both customers and administrators, ensuring GDPR compliance throughout the project lifecycle."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Go, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI design, Microservices architecture\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, BigQuery, ClickHouse, Firestore\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, GitOps\n\n**Cloud & Infrastructure:**\n\tCloud-native environments, Cloud billing models, Cost optimization, Cloud commitment management\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Communication skills, Collaboration skills"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-kotlinski-08ba40390/",
+  "profile_summary": "Results-driven Data Engineer with 8 years of experience in designing, building, and optimizing data pipelines leveraging a modern tech stack that includes **Python**, **SQL**, **Docker**, **Kubernetes**, and version control tools like **Git**, **GitHub**, and **GitLab**. Adept at using data orchestration and integration tools such as **dbt**, **Dagster**, **Airbyte**, **Fivetran**, **Stitch**, and **Prefect** to streamline and enhance data workflows.\n\nI excel in implementing CI/CD processes to automate data integration and ensuring high-quality data availability. My extensive experience in full-stack development and cloud services such as **Azure** and **AWS** has equipped me with a comprehensive understanding of data architecture and an ability to work across both backend and frontend systems. Additionally, my proficiency in building AI/ML solutions enhances my capability to deliver predictive analytics and real-time data processing in highly regulated environments, adhering to compliance standards like HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **SQL** for data manipulation and querying, ensuring the integrity and efficiency of database operations in various projects.\nDeveloped ETL pipelines using **dbt** and **Airbyte** to streamline data processing workflows, enhancing data quality and accessibility.\nImplemented orchestration strategies with **Dagster** and **Prefect** to automate and schedule data workflows, ensuring consistent and reliable data delivery.\nContainerized applications using **Docker** and managed deployments on **Kubernetes** to improve scalability and resource management across environments.\nCollaborated with version control systems such as **Git**, **GitHub**, and **GitLab** to maintain code quality and facilitate collaborative development.\nDesigned, built, and maintained robust data architectures centered around **PostgreSQL** and **MongoDB**, ensuring optimal performance for large datasets.\nContributed to data pipeline efficiencies by integrating **Fivetran** and **Stitch** for seamless data extraction and loading processes.\nExecuted performance tuning and optimization for large-scale data ingestion and processing tasks, achieving up to **75%** reduction in processing times.\nLed the integration of **Docker** containers for consistent environment management, reducing deployment discrepancies by up to **50%**.\nMonitored data pipeline health using built-in observability tools to maintain SLAs, achieving an uptime of over **99.9%**.\nWorked collaboratively with teams to enhance the robustness of systems through thorough testing strategies integrating various testing frameworks such as **pytest** and **Postman**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **SQL** to design and optimize complex queries, enhancing data retrieval speeds by **30%** within large financial datasets.\nDeveloped ETL processes using **Python**, **dbt**, and **Airbyte** to ensure seamless data integration from various sources, achieving a data load efficiency increase of **50%**.\nImplemented orchestration frameworks such as **Dagster** and **Prefect** to manage workflows and streamline data processing, ensuring over **99%** uptime for data pipelines.\nLeveraged **Docker** and **Kubernetes** for containerization and orchestration of microservices, improving deployment speed by **40%** and ensuring scalability of data services.\nCollaborated with version control systems like **Git**, **GitHub**, and **GitLab** to maintain code quality and facilitate team collaboration, contributing to a **20%** reduction in code conflicts.\nIntegrated data ingestion tools like **Fivetran** and **Stitch** to automate data pipeline setups, reducing manual intervention and error rates by **25%**.\nConducted performance tuning and monitoring of data workflows using **Apache Airflow**, optimizing tasks completion time by **35%** and ensuring timely data availability for analytics.\nWorked closely with data scientists to build machine learning models and pipelines, enabling data-driven decision making in financial services, and improving prediction accuracy for churn by **15%** through effective data handling.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **SQL** for efficient data querying and management across multiple database systems, ensuring accuracy in data processing for analytics purposes.\nDeveloped data pipelines leveraging **dbt**, **Dagster**, and **Airbyte** for robust data transformation and extraction processes, aligning with best practices for data engineering.\nCollaborated with cross-functional teams using **Git**, **GitHub**, and **GitLab** for version control, ensuring seamless project management and code integration.\nContainerized applications and services using **Docker** to enhance deployment efficiency and consistency across development and production environments.\nOrchestrated container deployment and management using **Kubernetes**, ensuring high availability and scalability of data processing services.\nStreamlined data integration with ETL/ELT processes utilizing **Fivetran** and **Stitch**, optimizing data flow from various sources into data warehouses.\nDesigned and implemented efficient workflows using **Prefect** for task orchestration and monitoring, contributing to improved data pipeline reliability.\nGathered and analyzed storage efficiency metrics, achieving a reduction in processing time by **35%** across key projects.\nMonitored system performance, identifying bottlenecks that reduce data retrieval times by an average of **20%** through optimization strategies.\nImplemented proactive solutions that improved data accuracy rates to **99.9%**, aligning with industry standards for data integrity."
+    }
+  ],
+  "skills": "### **Programming Languages**\n\tPython\n\n### **Backend Frameworks**\n\tFastAPI, Flask, Django\n\n### **Frontend Frameworks**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n### **API Technologies**\n\t\n\n### **Serverless and Cloud Functions**\n\tAWS (ECS, Lambda), Azure (App Services)\n\n### **Databases**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL\n\n### **DevOps**\n\tDocker, Kubernetes, Git, GitHub, GitLab, GitHub Actions, GitLab CI/CD\n\n### **Cloud & Infrastructure**\n\tTerraform, Ansible, Helm, Docker Compose\n\n### **Other**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Dagster, Airbyte, Fivetran, Stitch, Prefect"
+}

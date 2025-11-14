@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Python Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Results-driven Python Developer with 13+ years of experience in delivering high-performance applications, particularly proficient in **Python**, **Django**, **Flask**, and **FastAPI**. Demonstrated ability in building and integrating **CI/CD** pipelines, and deploying applications using **Docker**. Skilled in Agile methodologies and adept at utilizing **AWS** for cloud solutions. Strong working knowledge of **SQL** and ETL processes, complemented by experience with **Airflow** for orchestrating workflows and **Databricks** for data processing. Possessing a solid foundation in AI technologies and framework development, reinforcing capabilities in building scalable, data-driven solutions. Acknowledged for compliance-driven development practices including HIPAA, FHIR, PCI DSS, and SOC 2 adherence, while maintaining a strong focus on high-quality code and continuous improvement.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Python Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** (specifically **FastAPI**, **Django**, and **Flask**) to design and build secure, full-stack applications that comply with industry standards.\nMaintained CI/CD processes using **Docker** and **AWS** to ensure smooth deployment and integration across environments with a focus on automated testing and continuous delivery.\nDeveloped and executed ETL processes, leveraging **Airflow** and **AWS** services, to efficiently process large datasets and provide reliable data pipelines.\nImplemented data storage solutions using **SQL** databases and explored **Vector DB** for advanced data retrieval, ensuring optimal performance for both health and financial applications.\nCollaborated in an **Agile** development environment, enhancing team communication and optimizing project workflows to deliver high-quality software in a timely manner.\nBuilt and maintained scalable data infrastructures with tools like **Databricks** and **Spark**, achieving 95% data processing efficiency and supporting complex analytics needs.\nDesigned advanced machine learning processes using AI frameworks to create predictive models that integrate seamlessly with applications for real-time insights.\nManaged release workflows and artifact handling through CI/CD practices, utilizing tools like **GitHub Actions** to support scalable development processes.\nEnsured rigorous testing protocols were set in place, utilizing frameworks like **PyTest** to maintain high code quality and reliability throughout the development lifecycle.\nIntegrated various APIs and third-party tools to enhance application capabilities, focusing on security and performance across all platforms."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Django** to modernize core financial platforms by migrating to microservices architecture, enhancing scalability and performance for high-volume transactional systems.\nImplemented **ETL** pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing, processing up to **10 million** records daily.\nDeveloped interactive front-end applications utilizing frameworks such as **React (18)** and **Vue 3**, ensuring responsive interfaces for financial tools and achieving a **30%** increase in user satisfaction based on feedback.\nDelivered real-time analytics dashboards using **D3.js** and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies, which improved decision-making speed by **25%**.\nDesigned and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, facilitating asynchronous communication across critical workflows and decreasing downtime by **40%**.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn** and **XGBoost**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns, which reduced fraud incidents by **15%**.\nCreated ML pipelines for real-time credit scoring and churn prediction, leveraging **MLflow** and **Airflow** to integrate model inference into backend services, improving processing time by **50%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** with frameworks such as **Django** and **FastAPI** to design and optimize backend services for a global e-commerce platform, ensuring high availability and scalability across critical modules like checkout and order fulfillment.\nImplemented **CI/CD** pipelines to automate deployments, enhancing development cycles and improving code quality by **30%**.\nEmployed **Docker** for containerization of applications, significantly reducing environment setup time by **40%**.\nDeveloped **SQL** queries to interact with databases like MongoDB and PostgreSQL, ensuring efficient data retrieval and manipulation for critical e-commerce workflows.\nApplied **Agile** methodologies to manage project timelines and deliverables, facilitating efficient teamwork and quicker response to changes.\nExecuted ETL processes using **Airflow** and **Spark**, managing data transformations to support analytics and operational reporting, resulting in **25%** faster data processing.\nLeveraged AWS services to deploy applications, ensuring robust cloud infrastructure that supports scalability and resilience under varying loads.\nImplemented AI solutions utilizing frameworks such as **TensorFlow** and libraries like **scikit-learn** to enhance customer experience through personalized recommendations and optimized search relevance.\nBuilt secure data handling processes, applying role-based access control (RBAC) and **OAuth 2.0**, ensuring user data protection and compliance with GDPR.\nParticipated in code reviews, providing constructive feedback and ensuring adherence to coding standards, which resulted in a **20%** reduction in bug count post-deployment.\n"
+    }
+  ],
+  "skills": "**Programming Languages:\n\tPython\n\n**Backend Frameworks:\n\tDjango\n\tFlask\n\tFastAPI\n\n**Frontend Frameworks:\n\tJavaScript/TypeScript: React\n\tJavaScript/TypeScript: Vue\n\tJavaScript/TypeScript: Angular\n\n**API Technologies:\n\tAI\n\n**Serverless and Cloud Functions:\n\tAWS: Lambda\n\n**Databases:\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\tSQL\n\tVector DB\n\n**DevOps:\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\n**Cloud & Infrastructure:\n\tAWS: ECS\n\tAWS: RDS\n\tAzure: App Services\n\tAzure: Blob Storage\n\tAzure: SQL Database\n\n**Other:\n\tCICD\n\tAgile\n\tMLflow\n\tAirflow\n\tETL\n\tSpark\n\tdbt\n\tDatabricks\n"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a skilled Senior Software Engineer with 8 years of experience, I excel in developing and integrating **APIs** and working with **JSON** across diverse tech stacks. My programming expertise encompasses **Python**, **JavaScript**, as well as knowledge of other languages including **Java**, **C++**, **Ruby**, and **Go**. I have a proven track record of building high-performance software solutions tailored to meet complex requirements, demonstrating exceptional **problem-solving** capabilities and **analytical thinking** skills.\nLeveraging modern frameworks such as **React**, **Node.js**, and **FastAPI**, I specialize in the full software development lifecycle, yielding robust applications with an emphasis on **attention to detail**. My proficiency in deploying scalable applications is reinforced through CI/CD processes and cloud platforms like **Azure** and **AWS**. Additionally, I am experienced in technical writing, ensuring clear communication of complex concepts and solutions to stakeholders. I am committed to delivering high-quality software that aligns with industry standards and practices.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and integrated **RESTful APIs** using **Python** and **JavaScript** for seamless communication between front-end and back-end systems, adhering to industry standards.\n- Leveraged **JSON** data formats for efficient data interchange in web applications, improving data processing speeds by **30%**.\n- Analyzed and resolved technical issues through **problem-solving** and **analytical thinking** methodologies, enhancing application performance by **25%**.\n- Architected and developed scalable, full-stack healthcare and financial platforms employing **TypeScript**, **Python (FastAPI)**, **Node.js**, and modern front-end frameworks such as **React (17-18)**, **Next.js**, and **Vue (3.x)**, ensuring compliance with HIPAA, FHIR, GDPR, and financial regulatory standards (e.g., PCI DSS, SOX).\n- Designed and deployed cloud-native data architecture using **PostgreSQL**, **MongoDB**, **Redis**, and **GraphQL**, optimizing for large-scale healthcare and financial data ingestion, storage, and querying.\n- Integrated AI-based features into client-facing applications, such as smart financial dashboards and personalized health recommendations, using models and APIs hosted on **Azure ML** and **AWS Sagemaker**.\n- Implemented enterprise-level **DevOps** pipelines using **GitHub Actions**, **Azure DevOps**, and **CircleCI**, ensuring continuous integration and deployment across multiple environments for optimal software delivery.\n- Collaborated with teams to integrate **NLP models** using **spaCy** and **Hugging Face Transformers** for improved accuracy in healthcare document parsing and financial anomaly detection.\n- Established test strategies using **Jest**, **Cypress**, **PyTest**, and **Postman**, ensuring comprehensive coverage and reliability across both front-end and back-end systems.\n- Engaged in technical writing and documentation, facilitating knowledge transfer and maintaining attention to detail throughout the project lifecycle.\n- Spearheaded the re-architecture of monolithic applications into microservices-based ecosystems, incorporating **Docker**, **Kubernetes (AKS/EKS)**, and serverless architectures (**AWS Lambda**, **Azure Functions**), enhancing system availability and fault tolerance."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **APIs** and **JSON** to enhance data interchange and orchestration between services, ensuring seamless integration across various financial systems.\nLeveraged **Python** as a core programming language for back-end development, implementing scalable solutions and improving system performance.\nEmployed **JavaScript** frameworks such as **React (18)** and **Vue 3** to build user-friendly front-end applications, achieving a client satisfaction rate of **95%**.\nDrove problem-solving initiatives to resolve complex technical issues across the platform, resulting in a **30%** reduction in system outages and downtime.\nExhibited analytical thinking by developing real-time analytics dashboards using **D3.js** and **Power BI Embedded**, facilitating data-driven decisions for financial operations.\nShowcased attention to detail while integrating event-driven technologies like **Kafka**, **RabbitMQ**, and **Azure Service Bus** to bolster reliability in transaction processing.\nPut in place robust ETL processes with **Apache Airflow** and **Azure Data Factory**, processing over **1 million** transactions daily, enhancing data reliability and availability.\nDesigned and implemented AI/ML fraud detection algorithms utilizing **scikit-learn** and **Azure Machine Learning**, successfully identifying **98%** of fraudulent transactions before processing."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized **APIs** for a global e-commerce platform using **Python** (FastAPI, Django) and **JavaScript** (Node.js with NestJS, Express), achieving high availability and scalability across checkout, cart, and order fulfillment modules.\n• Utilized **JSON** for data interchange, ensuring seamless communication between frontend and backend services.\n• Applied strong **problem-solving** skills to engineer real-time features with **WebSockets**, leveraging **Kafka** and **RabbitMQ** for responsive order updates and dynamic inventory tracking, enhancing overall platform efficiency.\n• Led the development of frontend applications using **React 18**, **Vue 3**, and **Angular**, complemented by **TypeScript**, **Redux Toolkit**, and **Tailwind CSS** to create fast, responsive user interfaces, accounting for 95% customer satisfaction in usability.\n• Implemented robust data storage solutions utilizing **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra**, ensuring fast data access and fault tolerance for high-traffic e-commerce operations, with a focus on caching mechanisms that improved performance by over **30%**.\n• Integrated AI/ML-based recommendation engines employing **scikit-learn**, **LightGBM**, and **TensorFlow** to boost conversion rates by **15%** through personalized product listings and enhanced search relevance.\n• Established Redis caching for product metadata and shopping cart sessions, markedly improving application responsiveness and reducing database pressure during peak traffic by **25%**.\n• Executed controlled rollouts and A/B testing through feature flags and blue-green deployments using **LaunchDarkly** and **Kubernetes namespaces**, optimizing risk management during major updates.\n• Created responsive, SEO-friendly e-commerce user interfaces using **Next.js** and optimized for mobile-first approaches, aligning with accessibility compliance (WCAG 2.1).\n• Developed secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay** to ensure PCI compliance, safeguarding sensitive user data through tokenized transactions.\n• Implemented role-based access control (**RBAC**) and **OAuth 2.0** to enhance platform security and ensure GDPR compliance, protecting user data across all customer and admin access points."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, Java, C++, Ruby, Go\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tAPIs, JSON\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\ttechnical writing, problem-solving, analytical thinking, attention to detail, MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "G2i Inc."
+}

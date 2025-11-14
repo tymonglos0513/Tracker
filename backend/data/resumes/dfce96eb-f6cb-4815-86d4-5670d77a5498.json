@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "DevOps Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "DevOps Engineer with 10+ years of experience in delivering high-performance software solutions, particularly in healthcare and finance. Expert in containerization and orchestration technologies such as **Docker** and **Kubernetes**, alongside strong proficiency in **PowerShell**, **Python**, and **SQL**. Demonstrated capability in Continuous Integration/Continuous Deployment (CI/CD) practices using tools like **Jenkins** and **TeamCity**. Versatile in deploying and managing cloud infrastructure on **Azure** and **AWS**, while utilizing **Terraform** and **Ansible** for infrastructure as code (IaC) implementation. Skilled in monitoring and logging systems with tools like **Zabbix**, **Grafana**, **Graylog**, and **PRTG**. Experienced with Unix-like and Windows Server environments, plus version control through **Git** and **SVN**. Brings a comprehensive understanding of microservices architecture and event-driven systems, with a focus on building secure and maintainable solutions compliant with industry standards. Passionate about driving operational excellence and leveraging technology to create impactful systems.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable DevOps solutions using **Kubernetes** and **Docker**, ensuring streamlined deployment processes and optimized resource management for applications in healthcare and finance.\n• Developed and maintained CI/CD pipelines with **Jenkins** and **TeamCity**, incorporating automated testing and deployment strategies that increased release velocity by **40%** and reduced errors by **25%**.\n• Managed cloud infrastructure on **Azure** and **AWS**, leveraging IaaS and PaaS services to optimize system performance, achieving an uptime of **99.9%**.\n• Utilized **PowerShell** and **Terraform** for infrastructure as code, automating environment provisioning and management, which reduced manual configuration time by **50%**.\n• Integrated monitoring and logging solutions using **Grafana**, **Zabbix**, and **Graylog**, empowering teams with real-time insights into application performance and resource status to minimize downtime.\n• Implemented security measures in compliance with regulations like HIPAA and GDPR, applying best practices in system configuration and user management across **Unix-like** and **Windows Server** environments.\n• Collaborated with development teams to automate deployment processes using **Ansible** and scripting in **Groovy**, enhancing the consistency of application releases.\n• Conducted system performance tuning and troubleshooting across distributed systems ensuring high availability and scalability under demanding workloads.\n• Documented and communicated operational procedures and architecture diagrams, ensuring clear understanding among team members and stakeholders for all DevOps practices.\n• Provided technical support and mentoring to junior team members regarding best practices in version control using **Git** and **SVN**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Kubernetes** and **Docker** to manage containerized applications, enhancing deployment efficiency and scalability for financial platforms.\nImplemented CI/CD pipelines using **Jenkins** and **TeamCity** to automate testing and deployment processes, resulting in a **30%** reduction in time-to-market for new features.\nDeveloped and maintained infrastructure as code using **Terraform** and **Ansible**, ensuring consistent environment configurations across **Azure** and **AWS** cloud services.\nMonitored system performance and reliability with tools like **Zabbix**, **Grafana**, and **PRTG**, proactively addressing issues and maintaining a **99.9%** uptime across all services.\nExecuted routine maintenance tasks through **PowerShell** scripts on **Windows Server** and **Unix-like** systems, automating server management and ensuring optimal performance.\nCollaborated with development teams to deploy microservices using **Istio**, improving service-to-service communication and traffic management in the cloud environment.\nManaged version control for projects using **Git** and **SVN**, ensuring proper configuration management and collaboration between development teams.\nIntegrated logging and monitoring solutions with **Graylog**, enabling swift identification and resolution of system anomalies, thereby enhancing overall operational efficiency.\nEngaged in continuous learning and adaptation of emerging technologies, applying new practices to maintain robust and secure systems in the ever-evolving financial technology landscape."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Implemented container orchestration and deployment strategies using **Kubernetes** and **Docker** to enhance infrastructure scalability and reliability for e-commerce applications.\nAutomated CI/CD processes with **Jenkins** and **TeamCity**, streamlining code integration and deployment pipelines for over **15** microservices to ensure rapid and safe releases.\nManaged cloud infrastructure with **Azure** and **AWS**, achieving a **99.9%** uptime and optimizing resource utilization through automated scaling and provisioning.\nMonitored system performance and application health using **Zabbix**, **Grafana**, and **PRTG**, ensuring **100%** availability of critical services during peak traffic periods.\nUtilized **PowerShell** and scripting for infrastructure management and automation tasks, improving operational efficiency by reducing manual intervention by **40%**.\nOrchestrated configuration management and deployment of applications via **Terraform** and **Ansible**, achieving consistent environment replication across development, testing, and production.\nImplemented security best practices with role-based access control (RBAC), safeguarding sensitive data and ensuring compliance with industry standards like GDPR across cloud environments.\nCollaborated closely with cross-functional teams to support application deployment and infrastructure maintenance, enhancing teamwork and project delivery time by **30%**.\nMaintained source code versioning and collaboration using **Git** and **SVN**, ensuring a streamlined development workflow and code integrity across **5** major projects.\nProvided support and troubleshooting for both **Unix-like** and **Windows Server** environments, maintaining optimal server performance and application reliability."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, PowerShell, C#\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tNone\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, TeamCity, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL), Zabbix, Grafana, Graylog, PRTG, Unix-like, Windows Server, IIS\n\n**Other:**\n\tAuthentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), MLflow, Airflow, Kubeflow, Istio, Git, SVN"
+}

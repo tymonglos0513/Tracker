@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "R&D Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Skilled R&D Engineer with over 10 years of experience in developing and optimizing backend systems and real-time services. Proficient in **Python** (specifically **FastAPI**, **Django**, and **Flask**) and experienced with **AI/LLM pipelines** to create scalable APIs and automation tools. Demonstrated expertise in **SDLC**, **Git**, and **CI/CD** processes, emphasizing cloud deployment on **AWS** and **Azure**. Solid background in collaborating with cross-functional teams and top-tier organizations like VISA, Sii Poland, and Reply Polska, ensuring effective delivery of projects. Excellent communicator, fluent in English, and dedicated to leveraging cutting-edge technologies to drive innovation.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "R&D Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to engineer backend services for document automation, onboarding, and reporting workflows, improving process efficiencies by **30%**.\nDeveloped real-time services with **Celery** and **Redis**, managing asynchronous processing of financial transaction requests, reducing processing times by **50%**.\nDeployed microservices on **Azure App Services** and utilized **Terraform** for infrastructure as code, enhancing deployment speed by **40%** and ensuring seamless cloud operations.\nDesigned and maintained AI/LLM pipelines within the data flow processes, optimizing regulatory data exchange through integration with **Apache Airflow** and **Azure Functions**, achieving a **95%** data accuracy rate.\nConducted security assessments and integrated **OAuth2** alongside **Azure AD B2C**, generating secure and scalable authentication systems suitable for an expanding user base.\nCollaborated effectively with cross-functional teams to tackle system integration challenges, ensuring compliance with industry standards and overseeing adherence to a structured **SDLC**.\nImplemented **Git** for version control and managed CI/CD processes, fostering a collaborative environment that expedited releases and improved project delivery timelines."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed scalable **APIs** and backend systems in **Python** with **FastAPI** to automate document workflows and enhance user onboarding processes.\n• Engineered AI/LLM pipelines utilizing **FastAPI** for real-time services to facilitate complex reporting, delivering results with up to **95%** efficiency.\n• Created event-driven microservices using **Celery** and **Redis**, achieving asynchronous processing of financial data with a response time reduction of **30%**.\n• Managed deployment of microservices on **Azure App Services**, applying **Terraform** for infrastructure automation, improving scalability and consistency across **3** production environments.\n• Designed and implemented secure data pipelines for regulatory compliance, utilizing **Apache Airflow** and **Azure Functions** to automate data flow, resulting in a **20%** reduction in manual tasks.\n• Conducted thorough security audits ensuring compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for secure access management, reducing unauthorized access incidents by **15%**.\n• Collaborated effectively with cross-functional teams to ensure smooth system integration and successful release management, enhancing product delivery timelines by **25%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed AI/LLM pipelines using **Python** and **FastAPI** to enhance backend services for trade execution, portfolio management, and account tracking, improving efficiency by **30%**.\n• Engineered real-time services with **asyncio**, **WebSockets**, and **Redis** to provide real-time price feeds for high-frequency transactions, achieving latency reduction by **15%**.\n• Created and integrated robust **APIs** with frontend technologies such as **React** and **Next.js**, ensuring seamless data delivery and enhancing user experience by **25%**.\n• Adhered to SDLC best practices and ensured compliance with regulatory requirements including MiFID II and GDPR, while maintaining internal data security protocols.\n• Implemented comprehensive test suites with **PyTest** and **tox**, streamlining QA processes and improving release cycle time by **20%** through CI/CD practices.\n• Introduced job queuing and scheduling using **Celery** and **RabbitMQ**, optimizing backend task execution and enhancing processing efficiency by handling over **10,000** tasks daily.\n• Utilized **Git** for version control and collaboration among team members, improving code quality and reducing conflicts during development."
+    }
+  ],
+  "skills": "Programming Languages:\n\t**Python**, SQL, Bash, JavaScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks:**\n\t**React**, **Next.js**\n\n**API Technologies:**\n\t**APIs**, REST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions:**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure:**\n\t**cloud deployment**\n\n**Other:**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, real-time services, SDLC, **English communication**, PyTest, Git"
+}

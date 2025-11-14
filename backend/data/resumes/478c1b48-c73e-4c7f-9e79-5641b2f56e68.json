@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "MLOps Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "MLOps Engineer with 10+ years of full stack development experience, specializing in **Python** and **machine learning** applications. Adept at creating robust ML pipelines and managing production workflows using tools like **Docker**, **Kubernetes**, **Airflow**, and **Prefect**. Proficient in cloud platforms including **AWS**, **GCP**, and **Azure**, enabling efficient deployment of machine learning models and scalable solutions. Strong understanding of **CI/CD** practices and version control with **Git**, ensuring continuous integration and delivery of high-quality software. \n \nDemonstrated expertise in developing cloud-native applications with a modern tech stack comprising **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experienced in leading the design of enterprise platforms that incorporate AI/ML capabilities for enhanced analytics, automation, and decision-making. Committed to building secure, maintainable systems compliant with standards such as HIPAA, FHIR, PCI DSS, and SOC 2, while also passionate about leveraging technology for tangible business impacts.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "MLOps Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable **MLOps** solutions focusing on **machine learning** workflows to support healthcare and finance sectors using **Python** and **PyTorch**.\n• Developed and maintained CI/CD pipelines utilizing **Docker** and **Kubernetes** for efficient deployment and orchestration of machine learning models across diverse environments.\n• Enabled automated monitoring and scaling of applications through integration with **AWS**, **GCP**, and **Azure** cloud services, promoting high availability and fault tolerance.\n• Collaboratively built and optimized **data pipelines** using **Airflow** to facilitate continuous training and deployment of machine learning models, ensuring version control and reproducibility.\n• Leveraged **Git** for source code management and versioning, streamlining collaboration and ensuring a robust CI/CD process for model updates and deployments.\n• Established monitoring systems for deployed machine learning models to track performance and retrain models using feedback mechanisms, ensuring accuracy and reliability in predictions.\n• Implemented security best practices for data handling and model deployment, aligning with industry standards and regulations in healthcare and finance.\n• Developed and integrated advanced search capabilities using **Azure Cognitive Search** to improve accessibility of datasets for training and inference in machine learning applications.\n• Collaborated closely with cross-functional teams, enhancing model integration into production systems and ensuring consistent performance metrics and user insights."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Docker** to create and deploy machine learning models, ensuring seamless integration within production environments for enhanced model performance and reliability.\nImplemented CI/CD pipelines leveraging **Git** and **Airflow** to automate the deployment process, reducing deployment times by **40%** and increasing workflow consistency for MLOps practices.\nDesigned and developed data ingestion and preprocessing workflows using **Azure** and **Airflow**, handling batch and real-time data streams with an efficiency boost of **30%** in data processing.\nOrchestrated the deployment of machine learning models using **Kubernetes**, allowing for scalable and efficient resource utilization across cloud environments such as **AWS** and **GCP**.\nCollaborated with data scientists to implement machine learning algorithms with **PyTorch**, focusing on predictive modeling and real-time analytics for improved business insights.\nDeveloped and maintained documentation and training materials for MLOps processes, improving team onboarding efficiency and knowledge transfer by **25%**.\nEnsured compliance with data governance and security standards throughout model lifecycle management, using **Azure** services for secure data storage and processing.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Implemented machine learning pipelines using **Python** and **PyTorch**, integrating models within production systems for seamless scaling and deployment.\nLeveraged **Docker** for containerization and managed orchestration with **Kubernetes**, ensuring consistency across development, testing, and production environments.\nDesigned and developed CI/CD workflows using **Git**, automating the deployment of machine learning models and enhancing release velocity by **30%**.\nUtilized cloud services like **AWS**, **GCP**, and **Azure** for hosting machine learning applications, ensuring high availability and elasticity to handle varying traffic loads of up to **100,000** concurrent users.\nDeveloped data workflows using **Prefect** and **Airflow**, scheduling and monitoring batch and stream processing jobs for efficient data pipeline management across diverse environments.\nCollaborated with cross-functional teams to define and refine machine learning requirements, leading to a **25%** increase in model accuracy through iterative development and feedback.\nIntegrated version control for machine learning models, ensuring reproducibility and traceability of model versions with data lineage.\nEnhanced model deployment processes by implementing testing frameworks and monitoring solutions, contributing to a **40%** reduction in model drift incidents.\nOptimized data access processes by designing and implementing robust data storage solutions, achieving retrieval speeds improved by **50%** compared to previous implementations.\nEnsured compliance with industry standards and best practices for data privacy and security, particularly focusing on GDPR requirements."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, \n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, \n\n**Frontend Frameworks:**\n\tJavaScript, TypeScript, React, Vue, Angular, \n\n**API Technologies:**\n\tNginx, JWT, OAuth2, Keycloak (OIDC, RBAC), \n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure, \n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, \n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose, \n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), GCP, \n\n**Other:**\n\tMLflow, Airflow, Prefect, machine learning, PyTorch"
+}

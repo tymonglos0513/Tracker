@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Results-driven Software Engineer with 10+ years of experience developing high-performance software solutions in healthcare and finance. Proficient in **TypeScript**, **AWS**, **Terraform**, **Git**, and **CI/CD** practices, leveraging tools like **CircleCI** for automated deployment. Skilled in testing frameworks such as **Jest** and **Vitest** for maintaining code quality. Adept in both **SQL** and **NoSQL** databases, including **Postgres**, **DynamoDB**, and **Redis**, ensuring robust data management. Familiar with Agile methodologies including **Scrum** and **Kanban**, promoting efficient project execution. Strong expertise in **React** and **Python**, combined with experience in developing scalable applications using microservices and CI/CD automation.\n\nIn addition to technical proficiencies, brings hands-on experience in AI/ML system integration, with MLOps capabilities, managing ML pipelines and workflows utilizing tools like **MLflow**, **Airflow**, and **Kubeflow**. A proven leader in orchestrating complex enterprise projects that meet HIPAA, FHIR, PCI DSS, and SOC 2 compliance standards. Committed to creating impactful systems that not only perform optimally but also address real-world challenges.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable, full-stack solutions utilizing **TypeScript**, **Python**, and **React** (17–18), adhering to Agile methodologies including Kanban and Scrum for enhanced project management.\n• Developed CI/CD pipelines with **CircleCI** and **Git**, ensuring seamless deployment and version control across multiple environments.\n• Managed cloud infrastructure on **AWS** and integrated services using **Terraform** to facilitate efficient resource provisioning and management.\n• Designed and maintained both SQL (using **Postgres** and **DynamoDB**) and NoSQL data architectures (**Redis**), optimizing for large-scale data processing and storage needs.\n• Led the deployment of real-time applications focused on financial analysis and patient data management, utilizing **Python** and modern frameworks effectively to enhance user experience.\n• Established rigorous testing strategies employing **Jest** and **Vitest**, ensuring robust quality assurance measures across all application layers.\n• Collaborated closely with cross-functional teams to integrate advanced data visualization tools such as **D3.js** and **Power BI**, delivering critical business insights from real-time data.\n• Developed APIs for enhanced data accessibility, ensuring seamless integration of **AWS** services and enhancing performance across client-facing applications.\n• Conducted thorough code reviews and maintained high coding standards, leveraging tools such as **GitHub** for collaboration and versioning.\n• Utilized **Wireshark** for performance analysis and troubleshooting, ensuring the integrity and speed of application networks."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained scalable web applications using **React (18)** and **TypeScript**, leveraging **Redux Toolkit** for state management and **Tailwind CSS** for enhanced UI responsiveness, resulting in a **30%** increase in user engagement.\n• Implemented CI/CD pipelines using **CircleCI** and **Terraform**, automating deployments across **AWS** environments and improving deployment efficiency by **40%**.\n• Orchestrated data management strategies employing both **SQL** and **NoSQL** databases, including **Postgres** and **DynamoDB**, optimizing data retrieval times by **25%**.\n• Adopted **Agile** methodologies such as **Scrum** and **Kanban**, facilitating cross-functional collaboration and delivering project iterations in **two-week sprints**.\n• Integrated unit testing frameworks like **Jest** and **Vitest** to ensure robust code quality and maintainability, achieving a **90%** code coverage across applications.\n• Utilized **Python** for backend service development, with expertise in using **FastAPI** and **Django** to support transaction processing systems designed to handle over **1 million** transactions per day.\n• Worked closely with cross-functional teams to implement robust logging and monitoring practices, leveraging tools like **Wireshark** for network traffic analysis and performance optimization."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Typescript** for developing robust and high-performance applications, ensuring code quality through testing frameworks like **Jest** and **Vitest**.\nImplemented **AWS** services for scalable cloud infrastructure, using **Terraform** for resource provisioning and management, resulting in a **30%** reduction in deployment time.\nDeveloped CI/CD pipelines with **CircleCI**, enabling automated testing and deployment processes that improved release frequency by **40%**.\nDesigned and optimized backend APIs using **Python** with frameworks like FastAPI and Django, which enhanced application performance and reliability in handling up to **10,000** concurrent users.\nEngineered real-time data handling features utilizing **Redis** for caching and support for high-volume workloads, boosting application response times by **50%**.\nCollaborated in Agile methodologies with Kanban and Scrum practices, facilitating regular sprints and enhancing team productivity and communication.\nIntegrated various database technologies, including **Postgres** and **NoSQL** solutions like **DynamoDB** to ensure optimal data management across diverse application needs.\nContributed to the development of responsive user interfaces with **React** (version 18) while adhering to high accessibility standards and SEO best practices.\nWorked on data security enhancements, employing role-based access control (RBAC) and OAuth 2.0 to secure application resources and user data integrity.\nEngaged in effective version control and collaboration using **Git**, streamlining code management and team contributions."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Typescript, C, C#, Rust\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, DynamoDB, SQL, NoSQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, CircleCI\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot, CI/CD, Agile, Kanban, Scrum, Wireshark, Jest, Vitest"
+}

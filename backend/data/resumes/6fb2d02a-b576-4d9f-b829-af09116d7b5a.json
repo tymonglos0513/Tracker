@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior System Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior System Engineer with 13+ years of experience in delivering robust applications, focusing on cloud technologies and performance optimizations. Proficient in **AWS** and **Azure** for deploying cloud-native systems, alongside expertise in **CI/CD**, **DevOps**, and **API** integrations utilizing **gRPC** and **ReST** protocols. Skilled in implementing **Kubernetes**, **GitOps**, and monitoring solutions to enhance system performance and security.\nDemonstrated ability to build scalable architectures, including experience with microservices and event-driven systems leveraging **gRPC** and **OpenFlow** technologies. Background in compliance-driven development ensures alignment with industry standards. Original strengths include versatility in programming languages using **JavaScript/TypeScript**, **Python**, and **Flutter**, and advanced backend frameworks such as **Node.js**, **Django**, and **FastAPI**. Adept at constructing AI/ML-powered platforms to support analytics and real-time processing, while also well-versed in MLOps using **MLflow**, **Airflow** and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior System Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and designed scalable **Cloud**-based systems ensuring high performance and security for applications, implementing **Infrastructure as Code** using tools like **Terraform** and **CloudFormation**.\n- Implemented CI/CD pipelines with **GitOps** principles, enhancing deployment frequency and reducing lead time for changes, utilizing **Jenkins**, **GitHub Actions**, and **CircleCI**.\n- Deployed containerized applications with **Kubernetes** and orchestrated services for **VMaaS** and **BMaaS** solutions, managing over **100** microservices in production.\n- Ensured robust API development using **gRPC** and **ReST** standards, creating over **20** microservices APIs compliant with industry security protocols.\n- Conducted performance monitoring and logging of applications leveraging **Telemetry** and monitoring tools, ensuring a response time under **100ms** for user queries.\n- Designed effective **DevOps** workflows that enabled continuous integration and testing, achieving a reduction of bugs in production by **30%**.\n- Integrated advanced security measures in system architectures, addressing security compliance with standards such as HIPAA and PCI DSS.\n- Collaborated in a cross-functional team to enhance network performance employing **SDN** principles and protocols like **OpenFlow**.\n- Participated in the migration of legacy systems to cloud infrastructures on **AWS** and **Azure**, optimizing resource utilization, and achieving a cost reduction of **25%** in relation to on-premise solutions.\n- Continuously evaluated and implemented new technologies and processes to improve system efficiency and reliability, reporting improvements through performance metrics."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Applied **cloud** technologies such as **AWS** and **Azure** to enhance deployment strategies and improve operational efficiency in system engineering.\nExecuted CI/CD pipelines using **GitOps**, incorporating automated testing and deployment practices to ensure seamless integration and delivery across services.\nUtilized **API** and **gRPC** for developing and integrating system services, ensuring robust and efficient communication between various components.\nImplemented **Kubernetes** for orchestration of containerized applications, improving scalability and management of multiple services across cloud environments.\nDesigned monitoring solutions utilizing **Telemetry** and **Monitoring** tools to maintain high performance and security across systems, reducing downtime by **30%**.\nConducted performance tuning and security assessments, leading to a **25%** improvement in system responsiveness while maintaining compliance with industry standards.\nCollaborated on virtualized network environments using **Open Virtual Switch** and **VMaaS**, enhancing overall infrastructure flexibility and efficiency.\nDeployed SDN solutions to streamline network management processes, ensuring optimal resource allocation and reducing operational costs by **15%**.\nPioneered strategies for data flow management including **RDMA**, **InfiniBand**, and **RoCE** technologies, achieving **50%** faster data transfers in high-demand scenarios."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented **CI/CD** pipelines to automate deployment processes and streamline updates for cloud-based systems, improving deployment efficiency by **30%**.\nDesigned and managed scalable **Cloud** infrastructure using **AWS** and **Azure**, optimizing resource utilization and reducing costs by **25%** while ensuring high availability across services.\nDeveloped and optimized **API** endpoints using **gRPC** and **ReST** for seamless communication between microservices, enhancing system interoperability and response times.\nLeveraged **Kubernetes** for container orchestration, managing service deployments, scaling operations, and ensuring effective load balancing across the architecture, resulting in **40%** improvement in service reliability.\nIntegrated **Telemetry** and **Monitoring** solutions to maintain the health of the infrastructure and services, reducing downtime incidents by **15%** through proactive performance adjustments.\nExecuted security best practices including **role-based access control (RBAC)** and **OAuth 2.0** to safeguard sensitive data and maintain compliance with **GDPR** regulations throughout the system.\nUtilized **OpenFlow** and **Open Virtual Switch** to enhance **SDN** capabilities, allowing for more dynamic network configurations and improved data flow management.\nEmployed **VMaaS** and **BMaaS** strategies to optimize resource allocation for virtual and bare-metal servers in a multi-tenant environment, thereby increasing operational efficiency.\nCollaborated in cross-functional DevOps teams, leveraging **GitOps** methodologies to maintain version control and streamline operational processes, leading to improved transparency and traceability of changes."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**Backend Frameworks:**\n\tFlask\n\tDjango\n\n**Frontend Frameworks:**\n\tReact\n\tVue\n\tAngular\n\n**API Technologies:**\n\tAPI\n\tgRPC\n\tReST\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\n**DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tCI/CD\n\tGitOps\n\n**Cloud & Infrastructure:**\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\tTelemetry\n\tMonitoring\n\tPerformance\n\n**Other:**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tKeycloak (OIDC, RBAC)\n\tOAuth2\n\tJWT\n\tNginx\n\tLet’s Encrypt\n\tCertbot\n\tSDN\n\tVMaaS\n\tBMaaS\n\tOpenFlow\n\tOpen Virtual Switch\n\tRDMA\n\tInfiniBand\n\tRoCE\n\tCNI\n\tSecurity",
+  "apply_company": "NVIDIA"
+}

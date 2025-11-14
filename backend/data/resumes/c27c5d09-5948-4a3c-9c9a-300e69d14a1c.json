@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Data Engineer with 13+ years of experience in developing robust data solutions within the healthcare and financial sectors. Proficient in **SQL**, **PostgreSQL**, **ClickHouse**, and **Snowflake**, with comprehensive skills in ETL and ELT processes. Experienced in using **Apache Airflow** for workflow automation and orchestration, alongside tools like **dbt** and **Airbyte** for data transformation and integration.\nStrong capability in data modeling and schema design, ensuring optimal performance and scalability for analytics platforms. Familiar with business intelligence tools such as **Power BI** and **Looker**, enhancing data visualization and reporting capabilities.\nAs a Full Stack Developer, adept in **JavaScript/TypeScript**, **Python**, and **Flutter**, with hands-on experience in both frontend and backend development utilizing **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Proven track record in building AI/ML-powered platforms for predictive analytics, deploying cloud-native systems on **AWS** and **Azure**, and implementing microservices and CI/CD pipelines, while ensuring compliance with standards like HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed ETL and ELT processes utilizing **Apache Airflow**, ensuring seamless data ingestion and transformation workflows for large datasets in **PostgreSQL** and **Snowflake**.\n- Designed and implemented data models and schema for efficient storage and retrieval in **PostgreSQL**, supporting complex analytical queries and reporting.\n- Employed **dbt** for data transformation workflows, promoting modular and reusable code across multiple data pipelines.\n- Facilitated real-time analytics and reporting in **Power BI** and **Looker**, enabling stakeholders to make data-driven decisions based on up-to-date financial and operational KPIs.\n- Led architecture decisions in data pipeline design, focusing on performance optimizations by leveraging **ClickHouse** for high-speed analytics.\n- Integrated data from various sources into a centralized data warehouse using **Airbyte**, ensuring conformity and quality standards throughout the data lifecycle.\n- Collaborated with cross-functional teams to gather requirements and provide analytical insights, fostering a culture of data-driven analytics across departments.\n- Presented findings and performance metrics to stakeholders, driving discussions around data modeling and business intelligence strategies.\n- Managed and optimized data solutions, contributing to a **30%** increase in report generation efficiency and reducing data processing times by **20%**.\n- Conducted regular data quality assessments, ensuring high data integrity and compliance with industry standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Developed and optimized ETL pipelines for ingesting financial data from internal and third-party sources using **Apache Airflow**, **Python**, and **Azure Data Factory**, supporting both batch and **real-time** processing across **multiple** datasets.\n- Leveraged **SQL**, **PostgreSQL**, and **ClickHouse** to perform complex data queries and analysis, enabling enhanced decision-making and reporting capabilities.\n- Implemented data modeling and schema design strategies to ensure data integrity and performance for high-volume transactional systems.\n- Utilized **Snowflake** for cloud-based data warehousing, streamlining data management and access for analytics teams.\n- Generated insightful reports and dashboards using **Power BI** and **Looker**, providing stakeholders with actionable insights based on **updated** financial data.\n- Collaborated with cross-functional teams to develop and maintain high-quality data pipelines, ensuring adherence to best practices and performance standards.\n- Played a key role in transitioning legacy systems to modern architectures, enhancing system scalability and efficiency in line with business needs."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **SQL**, **PostgreSQL**, and **ClickHouse** for efficient data manipulation and storage, designing optimized schemas and ETL pipelines for scalable data solutions across the organization.\nDeveloped and maintained robust ETL processes using **Apache Airflow** and **dbt**, enabling seamless data transitions and timely reporting for analytics purposes.\nImplemented data integration strategies using **Airbyte** to ensure accurate and efficient data ingestion from various sources, enhancing data reliability for analysis.\nCreated insightful dashboards and visualizations through **Power BI** and **Looker**, empowering stakeholders with real-time data insights for informed decision-making.\nApplied data modeling techniques to define clear and efficient schemas, improving data integrity and reducing redundancy across our databases.\nCollaborated with cross-functional teams to gather requirements and translate them into technical specifications for data architecture and schema design, ensuring alignment with business goals.\nDesigned and executed complex SQL queries for data analysis and reporting, maintaining a high performance across **Snowflake** and other cloud-based data warehousing solutions.\nAnalyzed and optimized data workflows, reducing ETL processing time by **30%** and enhancing overall system performance.\nEstablished best practices for data quality and governance, achieving a **99.9%** accuracy rate in reporting metrics across multiple projects."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **Backend Frameworks:**\n\tApache Airflow\n\n **Frontend Frameworks:**\n\t\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Databases:**\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\tClickHouse\n\tSnowflake\n\n **DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow\n\tKubeflow\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot\n\tETL\n\tELT\n\tdbt\n\tAirbyte\n\tPower BI\n\tLooker\n\tdata modeling\n\tschema design",
+  "apply_company": "Corsearch"
+}

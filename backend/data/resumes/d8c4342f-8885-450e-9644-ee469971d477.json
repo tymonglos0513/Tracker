@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Results-oriented Senior Software Engineer with over 10 years of experience in backend development, specializing in **Python**, **Google Cloud Platform**, **GKE**, **BigQuery**, **BigTable**, **GCS**, **Dataproc**, **VertexAI**, **MongoDB**, **Redis**, **Spark**, **TensorFlow**, and **Grafana**. Expert in designing and delivering scalable **API Development**, **Data Pipelines**, and automation tools. Proven track record in **MLOps** and **Machine Learning**, including **Model Training** and **Model Deployment**. Demonstrated ability to improve processes using **CI/CD**, **Agile** methodologies, and effective project management with tools like **Gitlab**, **Jira**, and **PagerDuty**. Successfully contributed to high-impact projects at leading organizations such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to enhance API Development and streamline backend services leveraging **FastAPI** for efficient document automation and user onboarding, improving workflow efficiency by **30%**.\nEngineered data pipelines integrating **MongoDB** and **Redis** for real-time data exchange, achieving a **25%** reduction in data processing time for financial transactions.\nDeveloped event-driven architectures using **Celery** and **Redis** to handle asynchronous processing, enhancing system reliability for over **1,000** concurrent financial transaction requests.\nDeployed cloud-native microservices on **Google Cloud Platform** (GCP) specifically **GKE** ensuring robust scalability, with infrastructure managed by **Terraform** for seamless deployments across **5** different environments.\nCreated and maintained data flows utilizing **Apache Airflow**, integrating with **BigQuery** and **BigTable** for regulatory compliance and timely data delivery, maintaining a **99.9%** accuracy in data processing.\nLed security enhancements by integrating **OAuth2** and **Azure AD B2C** for robust authentication frameworks within applications, focusing on high-security standards for user data protection.\nCollaborated in an Agile environment with cross-functional teams to tackle system integration challenges, ensuring compliance and managed release strategies using **Jira** and **Gitlab**, reducing deployment times by **40%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes.\n• Engineered data pipelines for secure data exchange utilizing **Apache Airflow** and **Azure Functions** to automate and streamline the data flow, resulting in an efficiency improvement of **30%**.\n• Collaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management, utilizing tools like **Gitlab** and **Jira** for project tracking.\n• Managed deployment on **Azure App Services**, leveraging **Terraform** for infrastructure automation, achieving a consistently replicable environment across **5** different stages of development.\n• Created event-driven microservices with **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests, decreasing response time by **25%**.\n• Conducted security audits and integrated **OAuth2** and **Azure AD B2C** for secure access controls and authentication, ensuring compliance with industry standards.\n• Implemented CI/CD pipelines to enhance deployment processes, incorporating **DevOps** practices to improve release frequencies by **40%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed backend services for trade execution, portfolio management, and account tracking using **Python**, **Flask**, and **PostgreSQL** to enhance trading operations.\n• Engineered real-time price feed processors with **asyncio**, **WebSockets**, and **Redis** to deliver up-to-the-minute trading data for high-frequency transactions.\n• Collaborated closely with frontend teams to deliver data through **REST APIs** and **WebSocket** channels, ensuring smooth user interaction with the platform.\n• Ensured the platform met regulatory requirements, including MiFID II and GDPR, while adhering to internal data security protocols.\n• Implemented comprehensive test suites with **PyTest**, **tox**, and mock servers, streamlining QA and CI processes for efficient development cycles.\n• Introduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and process management.\n• Utilized cloud services such as **Google Cloud Platform**, **BigQuery**, and **GKE** to improve data handling processes, achieving a **30%** increase in efficiency.\n• Employed **Grafana** and **Sentry** for monitoring and alerting, reducing incident response time by **25%**.\n• Applied **Machine Learning** techniques for trade performance analysis, resulting in a **15%** improvement in prediction accuracy."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, API Development\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, Google Cloud Platform, GKE, VertexAI\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, BigQuery, BigTable\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, Gitlab, CI/CD\n\n**Cloud & Infrastructure**\n\tGrafana, Sentry, Jira, Productboard, PagerDuty\n\n**Other**\n\tKafka, Airflow, MLflow, Pandas, NumPy, scikit-learn, TensorFlow, MLOps, Machine Learning, Data Pipelines, Model Training, Model Deployment, A/B Testing, Agile"
+}

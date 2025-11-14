@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Staff Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Staff Engineer with 8 years of experience, I excel in **cloud migration** and **infrastructure monitoring**, ensuring performance efficiency and robust system architecture across various projects in the healthcare and financial sectors. My expertise in **data storage engines** and **data visualization** allows me to create seamless solutions, integrating **JavaScript/TypeScript**, **Python**, and **Flutter** into high-performance applications.\nPossessing a strong foundation in **microservices architecture** and event-driven systems, I leverage technologies like **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django** to build scalable systems. My deep experience with **cloud services** such as **Azure** and **AWS** ensures efficient deployment and management of enterprise-grade platforms. I am skilled in leading teams, offering **technical leadership**, and fostering collaboration to drive innovative projects forward.\nFurthermore, I specialize in implementing **MLOps workflows** using tools such as **MLflow**, **Airflow**, and **Kubeflow**, developing machine learning pipelines, and serving models in production. I am committed to delivering applications that comply with standards like HIPAA, FHIR, PCI DSS, and SOC 2 while excelling in communication skills to bridge technical and non-technical stakeholders.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Staff Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Oversaw **system architecture** and designed scalable, full-stack healthcare and financial platforms using **TypeScript**, **Python (FastAPI)**, **Node.js**, and modern front-end frameworks including **React (17-18)**, **Next.js**, and **Vue (3.x)**, ensuring compliance with HIPAA and financial regulatory standards (e.g., PCI DSS, SOX).\n- Conducted **cloud migration** of applications to **AWS** and **Azure**, enhancing reliability and performance, achieving **99.9% uptime** through comprehensive monitoring strategies.\n- Developed complex **data storage engines** utilizing **PostgreSQL**, **MongoDB**, and **Redis** for storing and querying large-scale healthcare and financial data, improving data retrieval times by **30%**.\n- Implemented **data visualization** tools using **D3.js**, **Chart.js**, and **Power BI Embedded**, providing real-time insights and operational KPIs that informed key business decisions.\n- Collaborated with cross-functional teams to enhance **performance efficiency** and quality through test strategies, utilizing tools like **Jest**, **Cypress**, and **Postman** for comprehensive coverage across services.\n- Provided **technical leadership** by leading the re-architecture of monolithic applications into microservices-based ecosystems with **Docker** and **Kubernetes (AKS/EKS)**, resulting in a **25%** reduction in deployment times.\n- Established and maintained a CI/CD infrastructure with **GitHub Actions** and **Azure DevOps**, streamlining deployments across multiple environments for web and API services.\n- Facilitated **infrastructure monitoring** and performance profiling, integrating tools such as **Firebase Crashlytics** and **Sentry** to ensure the integrity and reliability of mobile applications developed with **Flutter** and **React Native**.\n- Fostered strong **collaboration** and communication among team members to drive innovation in project execution, ensuring all stakeholder requirements and timelines were met.\n- Integrated advanced **virtual runtime profiling** techniques to monitor system performance, leading to proactive management and resolution of potential issues before they affected users."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Demonstrated technical leadership in developing and modernizing financial platforms, implementing a microservices-based architecture with **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), resulting in a scalability improvement of **30%** and enhanced system throughput for high-volume transactions.\n• Utilized **data visualization** techniques to design dynamic, user-centric front-end applications using **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, leveraging **Redux Toolkit** and **Tailwind CSS** to create responsive and performant interfaces for financial dashboards and admin portals.\n• Developed real-time transaction monitoring and analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, enabling operations teams to track financial activity and generate actionable insights, achieving a detection rate increase of **25%** for anomalies.\n• Integrated messaging systems using **Kafka**, **RabbitMQ**, and **Azure Service Bus** to establish a robust event-driven architecture, ensuring efficient asynchronous communication and real-time processing for transactions, alerts, and compliance workflows.\n• Orchestrated ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory**, facilitating batch and real-time financial data ingestion from internal and third-party sources, improving data processing time by **40%**.\n• Implemented AI/ML-driven fraud detection systems utilizing **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, which analyzed transaction patterns to identify suspicious activities proactively, reducing fraudulent transaction rates by **20%**.\n• Created ML pipelines for credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, integrating model inference directly into backend services to enhance real-time decision-making capabilities."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Demonstrated expertise in **system architecture** by designing and optimizing backend services for a global e-commerce platform using **Python (FastAPI, Django)** and **Node.js (NestJS, Express)**, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\n• Led **technical leadership** initiatives by engineering real-time features using **WebSockets** and an event-driven architecture powered by **Kafka** and **RabbitMQ**, enabling responsive order updates, dynamic inventory tracking, and real-time customer support.\n• Enhanced **performance efficiency** by developing frontend applications using **React (18)**, **Vue 3**, and **Angular**, integrated with **TypeScript**, **Redux Toolkit**, and **Tailwind CSS**, delivering fast, responsive user experiences on both web and mobile platforms.\n• Utilized strong expertise in **data storage engine** by leveraging **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data storage, ensuring fast, fault-tolerant data access for high-traffic e-commerce workflows and caching frequently accessed resources, resulting in a **30%** increase in performance gains.\n• Integrated AI/ML-based recommendation engines using **scikit-learn**, **LightGBM**, and **TensorFlow** to personalize product listings, optimize search relevance, and improve conversion rates based on real-time behavioral data, showing a **15%** boost in customer engagement.\n• Implemented **infrastructure monitoring** and **virtual runtime profiling** through Redis caching for product metadata, shopping cart sessions, and search results, significantly improving application responsiveness and reducing read pressure on databases by **25%**.\n• Facilitated effective **collaboration** and communication within the team by implementing feature flags and blue-green deployments using **LaunchDarkly** and **Kubernetes** namespaces, enabling controlled rollouts, A/B testing, and risk mitigation during major platform updates.\n• Created responsive, SEO-friendly e-commerce UIs using **Next.js**, **Vue 3 + Nuxt**, and **HTML5/CSS3**, optimized for mobile-first engagement and accessibility compliance (WCAG 2.1), resulting in a **20%** increase in organic traffic.\n• Built secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, applying tokenized transactions and PCI-compliant handling of sensitive data, delivering a secure shopping experience to customers.\n• Applied **role-based access control (RBAC)** and **OAuth 2.0** for secure customer and admin access, ensuring GDPR compliance and user data protection throughout the platform."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tCloud migration, infrastructure monitoring\n\n**Other:**\n\tData visualization, data storage engine, system architecture, virtual runtime profiling, performance efficiency, technical leadership, collaboration, communication skills, MLflow, Airflow, Kubeflow, Keycloak, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Datadog"
+}

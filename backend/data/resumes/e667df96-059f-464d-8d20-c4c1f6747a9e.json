@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Data Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Data Engineer with over 10 years of experience in delivering high-quality data solutions and backend systems, specializing in data transformation and integration for financial platforms. Proficient in **SQL**, **dbt**, and cloud data warehousing with **Snowflake**. Expertise in utilizing **SAP** and **Salesforce** to optimize data workflows and enhance reporting capabilities. Strong skills in **CI/CD** pipelines and version control utilizing **Git**. Committed to delivering data-driven insights with tools like **Power BI** while ensuring thorough **documentation**. Previous accomplishments include developing high-performing APIs and automation tools leveraging technologies such as **Python (FastAPI, Django, Flask)** and managing scalable cloud architectures on **AWS** and **Azure**.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized SQL and **Snowflake** for efficient data modeling and processing, optimizing query performance by **30%**.\nDeveloped and maintained documentation for data workflows and processes to ensure clarity and compliance.\nCollaborated with cross-functional teams integrating **SAP** and **Salesforce** systems to streamline data ingestion and reporting.\nEngineered backend services in **Python** using **FastAPI** to support data transformation and ETL processes.\nCreated data pipelines and automated reporting solutions leveraging **dbt** to enhance analytics capabilities.\nImplemented **Git** for version control and adhered to CI-CD practices to facilitate seamless deployment and testing of data solutions.\nDesigned interactive dashboards and reports using **Power BI** to provide insights and facilitate data-driven decision-making for stakeholders."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Utilized **SQL** and **Snowflake** to develop robust data models and optimize data pipelines, leading to a **20%** reduction in processing time.\n• Employed **dbt** for data transformation to enhance data accuracy and reliability, contributing to improved analytics performance.\n• Integrated **Salesforce** data into workflows, facilitating improved data governance and reporting capabilities through **Power BI**, boosting visualization insights by **30%**.\n• Implemented CI/CD processes with **Git** to streamline code deployment, resulting in a **15%** increase in deployment frequency.\n• Ensured thorough documentation processes for data workflows, enhancing team understanding and support for system changes.\n• Collaborated with stakeholders to effectively utilize **SAP** data in analytical frameworks, ensuring comprehensive data coverage and enhanced reporting capabilities."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **SQL** and **dbt** to model data transformations and manage ETL processes, ensuring efficient data pipeline development and maintenance for analytics.\nDeveloped and integrated data workflows with **Snowflake** for optimized storage and retrieval, supporting business intelligence needs.\nCollaborated with cross-functional teams, including stakeholders using **Salesforce** and **Power BI**, to determine data requirements and ensure alignment with business needs.\nImplemented version control practices leveraging **Git**, enhancing collaboration within the development team while maintaining code integrity.\nDesigned and maintained CI-CD pipelines to automate data integration processes, reducing deployment time by **30%**.\nCreated thorough documentation to support data models and workflows, facilitating knowledge transfer among team members and ensuring best practices are followed.\nMonitored data processes and improved execution times by **25%**, enhancing efficiency in data handling and reporting tasks."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n **Frontend Frameworks**\n\t\n\n **API Technologies**\n\tREST/gRPC APIs, Microservices\n\n **Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, Snowflake\n\n **DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n **Cloud & Infrastructure**\n\t\n\n **Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, dbt, SAP, Salesforce, Power BI, documentation"
+}

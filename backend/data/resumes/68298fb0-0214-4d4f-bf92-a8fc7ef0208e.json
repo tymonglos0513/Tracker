@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Data Engineer with 13+ years of experience in designing and implementing high-performance data pipelines and analytics solutions across healthcare and financial sectors. Proficient in **Python**, **SQL**, **NoSQL**, and hands-on expertise with tools such as **DBT**, **ETL**, and **Spark** for data processing and transformation. Skilled in cloud services including **AWS** and **Azure**, with a strong foundation in CI/CD principles and Infrastructure as Code (IaC). Demonstrated ability to ensure high-quality code through rigorous **unit testing** and **integration testing** within **AGILE** methodologies.\nExperienced in building AI/ML-driven platforms for advanced analytics and real-time processing, leveraging tools like **Django** and **FastAPI**. Proven track record in compliance-driven development, aligning solutions with HIPAA, FHIR, PCI DSS, and SOC 2 standards, and fostering team collaboration to enhance project delivery.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Scala** to develop robust data pipelines and ETL processes, ensuring data integrity and consistency across systems.\nImplemented **AWS** and **Azure** cloud services for scalable data storage and processing on **Snowflake** and **Spark**, managing millions of records for efficient querying and analysis.\nDesigned CI/CD workflows tailored for data deployments using **DBT** and integrated with **GitHub Actions** and **CircleCI** to streamline testing and deployment processes, achieving a **30%** reduction in release times.\nCreated and maintained both SQL and **NoSQL** databases, optimizing query performance for faster data retrieval and supporting complex analytical workloads.\nCollaborated with cross-functional teams in an **AGILE** environment to define project requirements and ensure alignment with business goals, maintaining a **95%** team collaboration satisfaction rate.\nConducted rigorous unit testing and integration testing using **PyTest** to validate data processing logic and ensure the reliability of data transformation workflows.\nImplemented Infrastructure as Code (IaC) practices to automate the provisioning of cloud resources, enhancing development speed and minimizing manual intervention.\nLed the migration of existing data platforms into a modern data architecture adhering to best practices, which resulted in a **40%** improvement in data accessibility and retrieval times.\nDeveloped documentation for data models and processes, enhancing team knowledge sharing and reducing onboarding time for new team members by **25%**.\nIntegrated data monitoring and alerting tools to proactively manage data pipeline failures or anomalies, maintaining operational excellence across data systems."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Developed and optimized ETL processes by leveraging **Python**, **SQL**, and **Snowflake**, facilitating efficient data integration from internal and third-party sources to support **4** major financial analytics projects.\n• Implemented **CI/CD** pipelines that enhanced deployment efficiency by **30%**, utilizing integrated tools for automated testing and deployment.\n• Collaborated with cross-functional teams in an **AGILE** environment, aligning data engineering processes with business goals to ensure timely delivery of analytics features.\n• Built and maintained data models with **DBT** and managed data transformation workflows using **Apache Airflow**, promoting consistency and reliability in reporting results.\n• Designed scalable data solutions using **Azure** and **AWS** cloud services, improving system performance metrics by **50%** through optimized data access and storage strategies.\n• Conducted unit testing and integration testing to ensure code quality, improving the system reliability by **20%** across production environments.\n• Applied data processing frameworks like **Spark** to manage large datasets efficiently, enhancing data processing performance and speed.\n• Promoted team collaboration and knowledge sharing sessions to establish best practices in data engineering and foster innovation among team members.\n• Actively participated in code reviews and provided mentorship to junior engineers, strengthening team capabilities and ensuring adherence to coding standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged **Python** for data processing and ETL pipelines, collaborating closely with cross-functional teams to extract, transform, and load data efficiently, ensuring data integrity and quality across systems.\nDesigned automated testing frameworks using unit testing and integration testing methodologies to enhance software reliability and performance, achieving a **95%** test coverage and reducing the number of production incidents by **30%**.\nImplemented data workflows using **AWS** and **Azure** cloud services for scalable data storage and processing, managing a data lake solution in **Snowflake** for analytical reporting and insights.\nUtilized **SQL** and **NoSQL** databases, including **PostgreSQL** and **MongoDB**, for seamless data retrieval and storage, optimizing query performance, which led to **40%** faster data access for analytical queries.\nDeveloped data transformation frameworks using **DBT** for managing transformation logic, enabling seamless data visualizations and analytics across different business units.\nAdopted CI/CD pipelines to streamline deployment processes, enhancing team collaboration and ensuring that changes are delivered to production safely and efficiently, leading to a **50%** reduction in deployment times.\nContributed to code quality and maintainability through code reviews and adherence to best practices in Agile environments, fostering a culture of continuous improvement within the team.\nExecuted Infrastructure as Code (IaC) strategies to automate infrastructure provisioning and management, enhancing deployment efficiency and consistency.\nConfigured and maintained data processing workflows using **Spark** for big data analytics, improving data processing speeds and allowing for real-time data insights.\nWorked with data governance and compliance frameworks to ensure adherence to **GDPR** standards and user data protection across all data engineering activities."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Scala\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tNginx, Let’s Encrypt, Certbot\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Snowflake, SQL, NoSQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose, IaC\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, ETL, DBT, unit testing, integration testing, team collaboration, AGILE",
+  "apply_company": "Plain Concepts"
+}

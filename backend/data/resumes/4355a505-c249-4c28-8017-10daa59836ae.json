@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Data Engineer with 13+ years of experience in delivering data-driven solutions for the healthcare and financial industries. Proficient in **SQL**, with extensive hands-on expertise in **dbt**, **Snowflake**, and integrating data from **SAP** and **Salesforce**. Skilled in utilizing **Power BI** for insightful data visualization and analytics. Experienced in implementing **CI/CD** processes for data pipelines, ensuring robust and scalable solutions.\nStrong collaboration and communication skills, demonstrating effective **teamwork** in cross-functional environments. Proven ability in **documentation** of complex systems and processes to ensure clarity and compliance. Additionally, proficient in full stack development with expertise in **JavaScript/TypeScript**, **Python**, **Flutter**, **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**, enhancing capabilities to create effective data solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **SQL** for complex queries and data transformations, ensuring optimal performance in data warehousing with **Snowflake** for scalable analysis across multiple projects.\nImplemented **dbt** to manage data transformations effectively, collaborating with cross-functional teams to ensure data integrity and accuracy.\nCreated comprehensive documentation for data pipelines and architecture, promoting clear communication and knowledge sharing among team members and stakeholders.\nDesigned and built ETL processes to integrate with **SAP** and **Salesforce**, automating data flows and improving data accessibility by **30%**.\nDeveloped and maintained **Power BI** dashboards, enabling real-time data visualization and insights for operational improvements, which led to a **20%** increase in decision-making speed.\nStreamlined CI/CD processes for data applications using **Git** and other tools, resulting in a **50%** reduction in deployment time and enhanced code quality.\nFostered effective teamwork by collaborating with data scientists and analysts to ensure all data solutions meet business requirements and technical specifications.\nExecuted best practices in data management and governance, ensuring compliance with data regulations and internal policies, enhancing overall data quality and security."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **SQL** for efficient data querying and analysis within **Snowflake** to manage large datasets and optimize data warehousing solutions.\nEmployed **dbt** to transform raw data into a structured format, enhancing data quality and accessibility for analytical needs.\nIntegrated **SAP** and **Salesforce** data sources to streamline ETL processes and ensure seamless data flow across platforms, improving cross-departmental reporting capabilities.\nCollaborated in a team-focused environment, emphasizing effective **documentation** practices to maintain a shared understanding of project updates and technical specifications.\nImplemented **CI-CD** pipelines to automate deployment processes, ensuring rapid feature delivery and minimizing downtime.\nParticipated in regular team meetings to foster **teamwork**, align project objectives, and share knowledge on best practices in data engineering.\n\nModernized core financial platforms by migrating to microservices architecture using Node.js (NestJS/Express) and Python (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\nBuilt interactive front-end applications with React (18), Vue 3, Next.js, and TypeScript, utilizing Redux Toolkit and Tailwind CSS to create sleek, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with React, D3.js, and **Power BI** Embedded, providing operations teams with instant insights into transactions and anomalies.\nDesigned and deployed a robust event-driven architecture using Kafka, RabbitMQ, and Azure Service Bus, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nDeveloped ETL pipelines for ingesting financial data from internal and third-party sources using Python, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging MLflow and **Airflow** to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Conducted thorough data modeling and transformation processes utilizing **SQL** and **dbt** to ensure the reliability and quality of data for analytic purposes across various platforms.\nManaged and optimized data workflows in **Snowflake**, ensuring efficient data retrieval and storage, which increased query performance by **25%**.\nCollaborated effectively within cross-functional teams, applying strong **teamwork** skills to deliver cohesive solutions that integrate with **Salesforce** and **SAP**, enhancing business intelligence initiatives.\nDocumented data engineering processes and architecture, creating comprehensive references that improved onboarding processes and knowledge sharing within the team by **30%**.\nLeveraged **Power BI** for data visualization, crafting interactive dashboards that facilitate decision-making processes and help stakeholders understand complex datasets.\nUtilized **Git** for version control in a collaborative environment, streamlining code management and ensuring consistently documented changes.\nImplemented **CI-CD** pipelines to automate data deployment processes, reducing deployment time by **40%** and enhancing delivery efficiency.\nSupported data integrity efforts through comprehensive documentation practices, ensuring clarity and accountability across team projects."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, Snowflake\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI-CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS: RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, SAP, Salesforce, Power BI, Git, teamwork, documentation"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "DevOps Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "DevOps Engineer with 10+ years of experience in delivering high-performance software solutions for the healthcare and finance sectors. Proficient in essential DevOps tools and technologies such as **Google Cloud Platform (GCP)**, **AWS**, **Terraform**, **Kubernetes**, **Helm**, **Docker**, **CI/CD**, **CircleCI**, and **Jenkins**, coupled with strong database expertise in **SQL**, **NoSQL**, **Cloud SQL**, **RDS**, and **MongoDB**. Experienced in executing cloud security practices and implementing network administration strategies, with a solid understanding of agile development methodologies.\nDemonstrated ability to build and deploy cloud-native applications, while integrating automation and monitoring solutions leveraging **Prometheus**, **Grafana**, and **Datadog**. Recognized for leading the development of enterprise platforms with a focus on compliance standards including HIPAA, FHIR, PCI DSS, and SOC 2. Additionally, possesses hands-on expertise in writing scripts using **Bash** and managing MLOps pipelines with tools like **MLflow**, **Airflow**, and **Kubeflow**. Driven to create secure, scalable, and maintainable systems that achieve real-world impact.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented CI/CD pipelines using **CircleCI**, **Jenkins**, and **GitHub Actions**, ensuring seamless integration and delivery for applications across multiple environments.\n• Deployed scalable applications in cloud environments such as **AWS** and **Google Cloud Platform (GCP)**, leveraging **Terraform** for infrastructure as code.\n• Managed container orchestration using **Kubernetes** and **Docker**, enhancing application reliability and scalability while reducing deployment times by up to **40%**.\n• Utilized **SQL** and **NoSQL** databases for managing data, ensuring optimal performance and security through **RDS** and **MongoDB**.\n• Developed monitoring solutions with **Prometheus**, **Grafana**, and **Datadog** to maintain uptime and performance, reducing incident response time by **25%**.\n• Implemented cloud security best practices across all environments, safeguarding sensitive data and ensuring compliance with industry regulations.\n• Collaborated in an agile development environment, participating in sprints and leveraging tools like **Bash** for automation tasks and infrastructure management.\n• Enhanced application performance through troubleshooting and optimizing networking and cloud infrastructure, achieving system performance improvements of up to **30%**.\n• Automated backup and recovery processes using cloud services, ensuring data resilience and business continuity.\n• Participated in regular code reviews and contributed to the documentation of processes, improving team efficiency and knowledge sharing."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Google Cloud Platform (GCP)** and **AWS** for deploying scalable applications and managing cloud resources effectively, ensuring 99.9% uptime for production environments.\nImplemented Infrastructure as Code with **Terraform** to provision and manage cloud infrastructure, reducing deployment time by **30%** and enhancing system reliability.\nContainerized applications using **Docker**, orchestrated with **Kubernetes** and managed packages with **Helm**, leading to a **25%** increase in deployment efficiency and streamlined CI/CD workflows using **CircleCI** and **Jenkins**.\nManaged databases with **SQL**, **NoSQL**, and **Cloud SQL** services, ensuring performance optimization for data management needs and enhancing query performance by **40%**.\nMonitored system performance and health using **Prometheus**, **Grafana**, and **Datadog**, resulting in timely alerts and reducing incident response time by **50%**.\nEnsured cloud security measures were implemented effectively across all services, adhering to best practices and maintaining compliance with industry standards.\nApplied networking and security strategies to enhance infrastructure resilience, focusing on continuous improvement in cloud-based solutions while collaborating with development teams in an **agile development** environment.\nDiagnosed and troubleshot network administration issues across cloud environments, ensuring seamless connectivity and data flow.\nDeveloped efficient CI/CD pipelines leading to faster feature deployments, managing flash storage solutions, and optimizing data processing for **high-volume transactions**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "- Developed and managed CI/CD pipelines using **CircleCI** and **Jenkins**, ensuring smooth deployment processes and effective version control across all projects.\n- Leveraged **Google Cloud Platform (GCP)** and **AWS** for scalable cloud infrastructure, enhancing service availability and performance across multiple environments.\n- Utilized **Terraform** for infrastructure as code to automate provisioning and management of cloud resources, promoting consistent and repeatable deployments across **Kubernetes** clusters.\n- Implemented containerization strategies with **Docker** and **Kubernetes**, optimizing application deployment and scaling operations seamlessly, supporting up to **100+ instances** across **5 regions**.\n- Integrated monitoring and logging solutions using **Prometheus**, **Grafana**, and **Datadog**, enhancing system visibility and performance metrics reports by over **30%** for rapid identification of issues.\n- Administered databases including **MongoDB**, **Cloud SQL**, and **RDS**, ensuring effective data management and fault tolerance for over **1 million** customer transactions monthly.\n- Tested and improved cloud security protocols and network administration strategies, achieving compliance with industry standards and increasing the security posture by **40%**.\n- Conducted agile development practices, promoting iterative progress and flexibility in project management, and contributing to team sprints that increased delivery speed by **25%**.\n- Provided advanced support for **Bash** scripting to automate repetitive tasks and streamline operational workflows, significantly reducing manual intervention and error rates.\n- Collaborated across cross-functional teams to implement role-based access control (RBAC) and **OAuth 2.0**, securing sensitive data and ensuring compliance with GDPR guidelines."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks**\n\tReact, Vue, Angular\n\n **API Technologies**\n\tKong\n\n **Serverless and Cloud Functions**\n\tAWS (ECS, Lambda, RDS, S3), Google Cloud Platform (GCP), Azure (App Services, Blob, SQL)\n\n **Databases**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Cloud SQL, NoSQL, SQL\n\n **DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, CircleCI, Jenkins, CI/CD\n\n **Cloud & Infrastructure**\n\tAWS, Azure, Google Cloud Platform (GCP), network administration, cloud security\n\n **Other**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Prometheus, Grafana, Datadog, agile development, Bash"
+}

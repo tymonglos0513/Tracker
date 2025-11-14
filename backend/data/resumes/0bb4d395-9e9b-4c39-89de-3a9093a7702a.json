@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of proven expertise in developing high-performance applications in the healthcare and financial sectors. Proficient in **Java**, **Kotlin**, **Python**, **Flutter**, **React**, **Next.js**, and cloud technologies including **AWS**. Demonstrated experience in designing **RESTful APIs** and building **distributed systems** that optimize performance and scalability. Adept at implementing **CI/CD** pipelines and improving software quality through **test automation** strategies. Experienced in fostering team collaboration through effective **code review** processes and mentoring, ensuring knowledge sharing and team growth.\n\nHands-on expertise extends to deploying applications using **Kubernetes** and monitoring with **ELK**, **Prometheus**, and **Sentry**. Strong background in AI/ML, particularly in **NLP** and **LLMs** with frameworks such as **Langgraph** and **CrewAI**. Committed to aligning solutions with industry standards such as HIPAA, FHIR, PCI DSS, and SOC 2 for compliance-driven development.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and built full-stack platforms using **Python**, **Java**, and **Kotlin** adhering to industry standards in healthcare and fintech domains, ensuring compliance with regulatory frameworks including HIPAA and GDPR.\n\n- Developed scalable applications utilizing **Flutter**, **React** (17–18), and **Next.js**, creating intuitive user interfaces that enhance user engagement.\n- Executed mobile app development for iOS and Android platforms, leveraging **Flutter** and integrating native modules to boost performance and interactivity.\n- Automated CI/CD processes using **GitHub Actions** and **CircleCI**, leading to a **30% decrease** in deployment time by incorporating test automation and extensive release workflows.\n- Transformed monolithic systems into microservices using **Kubernetes** (AKS/EKS) and **AWS Lambda**, resulting in a **50% improvement** in system reliability and fault tolerance.\n- Built and maintained databases with **PostgreSQL**, **MongoDB**, and implemented **RESTful APIs** for efficient data retrieval and manipulation, achieving a **40% reduction** in query response times.\n- Deployed machine learning models utilizing **scikit-learn**, **PyTorch**, and **TensorFlow** for applications such as fraud detection and risk assessment, integrated seamlessly into production environments.\n- Implemented MLOps strategies with **DVC** and **MLflow**, managing model lifecycles to streamline training and validation across **3** environments.\n- Integrated analytics features into applications using **Prometheus** for monitoring and **ELK** stack for logging, enabling timely responses to financial and operational KPIs.\n- Developed comprehensive data visualization tools with **D3.js** and **Chart.js**, enhancing users’ ability to analyze real-time metrics and trends.\n- Collaborated with cross-functional teams to deploy NLP models using **spaCy** and **Hugging Face Transformers**, facilitating advanced text processing capabilities in applications.\n- Championed testing efforts across the stack using **Jest**, **Cypress**, and **PyTest**, ensuring high code quality through robust unit and end-to-end testing strategies.\n- Integrated advanced search functionalities using **Elasticsearch** and **Azure Cognitive Search**, boosting search efficiency across vast datasets in health and finance sectors."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Java** and **Kotlin** to optimize distributed systems, improving application performance by **30%** through efficient code restructuring and refactoring.\nDeveloped robust RESTful APIs using **Python (FastAPI, Django)**, facilitating seamless integration with **PostgreSQL** and **MySQL** databases which improved data retrieval speed by **25%**.\nUtilized **React (18)** and **Next.js** to build responsive front-end applications, contributing to an enhanced user experience with a decrease in bounce rates by **15%**.\nImplemented CI/CD pipelines with **AWS** and **Kubernetes**, streamlining deployment processes and reducing deployment times by **40%**.\nConducted extensive code reviews and provided mentorship to junior developers, fostering a collaborative team environment and improving overall code quality.\nEmployed **ELK** stack and **Prometheus** for monitoring system performance and troubleshooting issues, maintaining application uptime of **99.9%**.\nIntegrated **Flutter** for cross-platform mobile development that led to improved user engagement and increased app downloads by **50%**.\nImplemented test automation frameworks for ensuring code reliability, achieving a testing coverage of **85%** in critical modules.\nDrove data-driven decision making in project management, utilizing insights from user behavior and transaction patterns to enhance product features and functionality."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized backend services for a global e-commerce platform utilizing **Python** and **Java**, ensuring high availability and low latency across essential modules like checkout and order fulfillment.\n• Designed and implemented **RESTful APIs** and **Distributed Systems** for real-time features using **Kubernetes** and **AWS**, ensuring scalability as the platform grows to handle **9 million** monthly users.\n• Built frontend applications with **React** and **Next.js**  utilizing state management through **Redux Toolkit**, ensuring fast user experiences across web and mobile platforms.\n• Managed databases like **PostgreSQL** and **MongoDB**, achieving significant performance improvements in data access speeds by **30%** through optimized queries and caching.\n• Integrated real-time analytics and monitoring using **Prometheus** and **Sentry** to proactively identify performance bottlenecks, reducing error rates by **25%** over **6 months**.\n• Collaborated with cross-functional teams, mentoring junior developers in **Test Automation** and **CI/CD** processes, fostering a culture of quality and efficiency within the team environment.\n• Applied machine learning algorithms for personalized recommendations using NLP techniques and **TensorFlow**, which led to a **15%** increase in conversion rates on the e-commerce platform.\n• Implemented caching strategies using **Redis** to improve application responsiveness, achieving a speed increase for product loading times of **40%**.\n• Conducted thorough **Code Reviews** and troubleshooting sessions to maintain high code quality and ensure adherence to security standards and **GDPR** compliance throughout the application.\n• Spearheaded the adoption of agile development methodologies within the team, enhancing **Team Collaboration** and reducing product delivery timelines by **20%**.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Kotlin, Python\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular, Next.js, Flutter\n\n **API Technologies:**\n\tRESTful APIs\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAzure: App Services, Blob Storage, SQL Database, ELK, Prometheus, Sentry\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, NLP, LLMs, Langgraph, CrewAI, Multi-agent Systems, Data-driven Decision Making, Code Review, Mentoring, Team Collaboration, Troubleshooting",
+  "apply_company": "QuintoAndar"
+}

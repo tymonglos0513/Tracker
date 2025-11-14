@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Platform Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-477994390/",
+  "profile_summary": "Results-driven Platform Engineer with 9+ years of experience in developing and deploying scalable applications using **Python**, **Django**, **FastAPI**, and **RESTful APIs**. Demonstrated expertise in leveraging cloud technologies including **AWS** and **IaaS**, as well as infrastructure automation tools such as **Terraform**, **CloudFormation**, and **Pulumi**. Proficient in database management with **SQL**, **PostgreSQL**, **NoSQL**, and **MongoDB**, and experienced in containerization and orchestration with **Docker** and **Kubernetes**. Adept in implementing CI/CD pipelines and automated testing, alongside observability tools like **Datadog**, **Prometheus**, and **Grafana** for performance monitoring. Renowned for optimizing development processes and ensuring robust, high-quality software delivery. Strong interpersonal skills facilitate effective collaboration across teams for successful project completion.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Platform Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Apr 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Designed and developed high-performance web applications utilizing **Django** and **FastAPI**, achieving a **30%** increase in user engagement.\nCreated and maintained **RESTful APIs** for seamless data interaction across services, ensuring compatibility with both **SQL** and **NoSQL** databases, specifically **PostgreSQL** and **MongoDB**.\nImplemented containerization strategies using **Docker** and orchestrated deployments via **Kubernetes**, enhancing the scalability of applications by up to **50%**.\nCollaborated in creating CI/CD pipelines with **AWS CodePipeline** and **Terraform**, reducing overall deployment time by **40%**.\nUtilized **Redis** to effectively manage caching, improving response times and reducing database load by **25%**.\nIntegrated observability tools, including **Datadog** and **Prometheus**, to continuously monitor application performance and reliability, leading to a **15%** reduction in downtime.\nDeveloped robust application architecture leveraging IaaS solutions on **AWS**, boosting operational efficiency.\nUtilized **Celery** for asynchronous task management and implemented **WebSockets** for real-time communication features, enhancing user experience.\nWorked closely with UX/UI teams to revamp interfaces, contributing to a significant improvement in the overall design and usability of the platform.\nEmployed automated testing strategies to ensure software quality and reliability across all phases of application development."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Designed and developed a cloud-based project management tool using **React** and **Django**, leading to a **15%** increase in team collaboration efficiency.\nCreated a microservices architecture with **RabbitMQ** for task orchestration and **Kafka** for handling event-driven data streams, enhancing system scalability.\nIntegrated **Redis** as a caching layer to reduce latency in frequent API calls, resulting in a **25%** boost in system performance.\nDeveloped RESTful APIs with **Django** and integrated with a **PostgreSQL** database for real-time data access, managing large data sets effectively.\nBuilt and maintained **React** components, resulting in a **25%** improvement in user engagement on the platform.\nLed the effort to implement CI/CD pipelines using **GitHub Actions**, reducing production deployment errors by **30%**.\nManaged **MSSQL** and **MongoDB** databases for data storage and retrieval, optimizing queries for better performance.\nCollaborated closely with stakeholders to define system requirements and development timelines, ensuring timely project delivery.\nCreated custom charts and graphs using **D3.js** for interactive project status tracking and reporting.\nConducted code reviews and mentorship sessions with junior developers, enhancing team productivity with clear guidance."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Utilized **Python** and **Django** to develop scalable web applications, optimizing backend performance by up to **30%**.\nImplemented **FastAPI** for high-performance RESTful APIs, achieving response times of under **200ms**.\nDesigned and managed relational databases using **PostgreSQL** and NoSQL solutions with **MongoDB**, resulting in improved data retrieval efficiency by **25%**.\nLeveraged **Redis** for caching mechanisms, reducing database load during peak hours.\nCollaborated with the DevOps team to establish CI/CD pipelines using **Docker** and **Kubernetes**, enhancing deployment speed by **40%**.\nEmployed **AWS** services for IaaS deployments, ensuring high availability and scalability of applications across multiple environments.\nImplemented infrastructure as code with tools like **Terraform** and **Pulumi**, improving infrastructure deployment times by **50%**.\nIntroduced observability tools such as **Datadog** and **Prometheus** for monitoring application health, leading to quicker response times for system issues.\nDeveloped automated testing frameworks that decreased bug rates in production by **15%**.\nParticipated in architecture reviews and code critiques to maintain quality standards and best practices across the development team."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python, TypeScript, JavaScript\n\n **Backend Frameworks**\n\t Django, FastAPI, NodeJS, ExpressJS, NestJS, C#, .NET\n\n **Frontend Frameworks**\n\t ReactJS, React Native, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, Flutter, Chakra UI, TailwindCSS\n\n **API Technologies**\n\t RESTful APIs, GraphQL, WebSockets\n\n **Serverless and Cloud Functions**\n\t AWS, Azure, IaaS, Docker, Kubernetes, Pulumi, Terraform, CloudFormation\n\n **Databases**\n\t PostgreSQL, MongoDB, MSSQL Server, MySQL, DynamoDB, CosmosDB, NoSQL, SQL, Redis\n\n **DevOps**\n\t CI/CD pipelines, DevOps tools, automated testing, observability tools, Datadog, Prometheus, Grafana\n\n **Cloud & Infrastructure**\n\t AWS, Azure, IaaS\n\n **Other**\n\t UX/UI Design, Git, GitHub, NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Solidity, Ether.js, Web3.js, Ethereum, Microservices, Apache Kafka, RabbitMQ, Celery, streaming, large language models, function calling"
+}

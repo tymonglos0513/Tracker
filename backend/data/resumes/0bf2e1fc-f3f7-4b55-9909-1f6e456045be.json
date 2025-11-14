@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Quality Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Quality Engineer with a robust expertise in **AWS** and **EKS**, dedicated to ensuring high availability and reliability of cloud-native systems through effective utilization of **Kubernetes** and **Istio**. Proficient in monitoring and performance optimization using tools like **Prometheus**, **CloudWatch**, and **HoneyComb**. Skilled in implementing **GitOps** strategies for enhancing deployment workflows and ensuring stability in CI/CD processes.\n\nBringing over 13 years of experience in full-stack development across healthcare and financial sectors, leveraging my skills in **JavaScript/TypeScript**, **Python**, and **Flutter**. Proven proficiency in building scalable applications with **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experienced in developing AI/ML-powered platforms, implementing microservices, and ensuring compliance with industry standards such as HIPAA and PCI DSS. Strong background in MLOps, focusing on model training and orchestration using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Quality Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and managed **Kubernetes** clusters for deploying applications in a scalable and reliable manner, ensuring operational excellence and high availability across multiple environments.\nUtilized **AWS** services including **EKS** for container orchestration and **CloudWatch** for monitoring system health and performance, leading to a **30%** reduction in downtime incidents.\nApplied **GitOps** principles to manage infrastructure as code, streamlining the deployment process and enhancing collaboration with development teams.\nConducted **Chaos Engineering** experiments to proactively identify and resolve potential weaknesses in production systems, improving system resilience and reducing recovery time by **25%**.\nSet up observability tools like **Prometheus** and **HoneyComb** to achieve proactive monitoring, analytics, and alerting for production applications, enhancing response times to incidents by **15%**.\nDeveloped and integrated automated testing frameworks to enhance the quality assurance process, ensuring high code quality and adherence to standards across 100% of deployed applications.\nCollaborated on reducing deployment times by **40%** through the implementation of CI/CD strategies and optimizations in DevOps practices.\nActively participated in cross-functional teams to design and enforce best practices in performance testing, usability, and security, ensuring all releases meet strict compliance and quality standards.\nLeveraged insights from data analytics tools within the Kubernetes environment to inform capacity planning and enhance application performance continuously."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **Kubernetes** orchestration for deploying and managing containerized applications, ensuring high availability and scalability for critical financial services.\nUtilized **AWS** services, including **EKS**, to run Kubernetes clusters, enhancing deployment efficiency and operational resilience.\nAdopted **GitOps** practices to streamline CI/CD processes, improving deployment frequency by **30%** and reducing errors in production.\nConducted **Chaos Engineering** experiments to identify vulnerabilities in the system, boosting overall reliability by addressing potential failure scenarios proactively.\nMonitored system health and performance using **Prometheus** and **CloudWatch**, leading to a **25%** reduction in downtime and improved response times for user transactions.\nUtilized **HoneyComb** for detailed observability into production systems, enabling rapid troubleshooting and enhancing service stability.\nCollaborated with teams to implement **Istio** for service mesh management, providing secure and consistent communication between services while improving observability and traffic control.\nIntegrated **Karpenter** for efficient resource provisioning and cost management in cloud environments, reducing operational costs by **15%** while maintaining performance efficiency.\nExecuted performance testing and optimization strategies across platforms to enhance transaction throughput by **40%**, ensuring systems could handle increasing volumes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented **Kubernetes** for container orchestration, ensuring efficient deployment, scaling, and management of application services, enhancing system reliability by **30%**.\nUtilized **AWS EKS** for streamlined application deployment and management, improving operational efficiency and reducing deployment times by **40%**.\nApplied **GitOps** principles to automate and manage infrastructure changes, ensuring consistent environments and reducing human error by **25%**.\nPracticed **Chaos Engineering** to proactively identify and resolve system weaknesses, leading to a **15%** increase in overall system resilience.\nMonitored application performance using tools such as **Prometheus** and **CloudWatch**, enabling data-driven performance tuning and reducing average response times by **20%**.\nLeveraged **HoneyComb** for observability insights, facilitating quicker identification of bottlenecks and improving resolution times by **35%**.\nEnsured seamless service interaction with **Istio** for enhanced service mesh capabilities, improving service reliability and security within the e-commerce architecture.\nDesigned and executed comprehensive testing strategies to validate application performance, security, and user experience, ensuring that **99.5%** of user transactions proceeded without error.\nCollaborated with cross-functional teams to integrate robust quality assurance practices within CI/CD pipelines, decreasing defect leak rates by **15%** in production.\nUtilized agile methodologies to manage projects effectively, leading team sprints that delivered high-quality features consistently within **2-week** cycles."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**Backend Frameworks:**\n\tFlask\n\tDjango\n\n**Frontend Frameworks:**\n\tReact\n\tVue\n\tAngular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tChaos Engineering\n\tEKS\n\tGitOps\n\tIstio\n\tHoneyComb\n\tCloudWatch\n\tPrometheus\n\tKarpenter",
+  "apply_company": "RLDatix"
+}

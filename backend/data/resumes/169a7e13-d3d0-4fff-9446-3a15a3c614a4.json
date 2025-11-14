@@ -1,0 +1,47 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior Software Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-107978395/",
+  "profile_summary": "As a Senior Software Engineer with over 8 years of experience, I excel in **Python** and have a strong foundation in **Go**, **Java**, and modern software development practices. My expertise includes utilizing containers and orchestration with **Docker** and **Kubernetes**, and driving efficiencies through **Infrastructure-as-Code** strategies. I am adept at designing **event-driven architecture** and implementing complex **ETL** processes while employing **message queuing** systems for optimal data handling. With solid skills in data correlation and complex relationship modeling, I efficiently manage **Graph databases** and leverage technologies such as **CEL** and **JSONPath**. I also have experience with **GenAI** and **LLM**, enhancing development processes through AI-assisted coding. Alongside my core competencies, I specialize in crafting high-performance solutions in diverse sectors, leveraging tools like **FastAPI**, **Django**, and cloud services such as **AWS** and **Azure**. My commitment to best practices in **microservices architecture** and API development ensures the delivery of secure and efficient applications that align with business goals.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "- Developed scalable and efficient solutions using **Python** and **Go** to enhance application performance and optimize workflows.\n- Designed and implemented **ETL** pipelines for data ingestion and transformation, improving data processing efficiency by **30%**.\n- Integrated **Kubernetes** and **Docker** into the deployment process, increasing application scalability and reliability in production environments.\n- Architected and maintained event-driven architectures utilizing **message queuing** with tools such as **Kafka** and **RabbitMQ** for streamlined data communication.\n- Established **Infrastructure-as-code** practices using tools like Terraform, reducing deployment times by **40%** and minimizing configuration drift.\n- Collaborated on complex relationship modeling in applications, leveraging **JSONPath** for efficient data correlation across services.\n- Guided initiatives in **AI-assisted coding** and **GenAI** to enhance developer productivity and optimize code quality.\n- Championed the adoption of **graph databases**, enhancing data retrieval speeds for complex queries by an estimated **25%**.\n- Facilitated cross-functional collaboration on projects, mentoring junior engineers in best practices for **Python** and **Go** development.\n- Designed and deployed secure microservices combined with CI/CD workflows to ensure consistent and reliable application releases.\n- Implemented observability strategies using modern monitoring tools to proactively identify and resolve issues within deployed services.\n- Promoted agile methodologies, ensuring timely deliverables while maintaining high standards of software quality and performance."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained robust backend applications using **Python** with frameworks such as **FastAPI**, **Django**, and **Flask**, contributing to a **30%** improvement in system performance and scalability.\nDesigned, implemented, and optimized **ETL** pipelines for efficient data processing and integration, significantly enhancing data ingestion rates by **50%**.\nLed the transition to containerized applications by configuring and managing **Kubernetes** clusters, ensuring **100%** uptime through effective auto-scaling and rolling updates.\nImplemented high-throughput, **event-driven architecture** using **Kafka** and **RabbitMQ**, improving system responsiveness and reducing latency in data transactions by **40%**.\nUtilized **Docker** for creating, deploying, and running applications in containers, enhancing deployment consistency and isolation.\nDeveloped complex data correlation and relationship models using **JSONPath** and **Graph databases**, enabling efficient data retrieval and management.\nLeveraged **Infrastructure-as-code** strategies to automate cloud infrastructure deployments, resulting in a **60%** reduction in provisioning times.\nApplied **AI-assisted coding** techniques, enhancing development efficiency and reducing code errors.\nIntegrated **message queuing** solutions to facilitate communication between microservices, enhancing modularity and system decoupling.\nContributed to the establishment of CI/CD pipelines using **Azure DevOps** and **GitHub Actions** for seamless deployment and integration, achieving **80%** automation in release processes.\nDesigned and implemented secure authentication and authorization systems utilizing protocols like OAuth and tokenization to uphold data integrity.\nDeveloped and maintained comprehensive unit and integration tests using frameworks such as PyTest to ensure the reliability of backend services.\nPioneered best practices in software engineering, including the adherence to coding standards and the implementation of static analysis routines to enhance code quality."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Utilized **Go** and **Python** to design, develop, and optimize backend services, enhancing application performance and scalability across various modules.\nImplemented **Docker** for containerization of applications, streamlining deployments across multiple environments and ensuring reliability in production releases.\nLeveraged **Kubernetes** for orchestration, managing deployment, scaling, and operations of application containers.\nDeveloped **ETL** processes to transform data efficiently, ensuring smooth data flow for high-volume transactions and reporting tasks.\nArchitected event-driven microservices using **message queuing** technologies such as RabbitMQ and Kafka, improving responsiveness and throughput for critical operations like order processing and inventory updates.\nApplied **Infrastructure-as-code** principles using tools such as Terraform to automate infrastructure deployment, improving deployment speed by **30%**.\nImplemented complex relationship modeling to support business requirements, optimizing data retrieval through **JSONPath** and **Graph databases** strategies.\nIntegrated **AI-assisted coding** techniques to enhance code quality and automate repetitive coding tasks, significantly reducing development time by **25%**.\nManaged and optimized backend processes with robust **data correlation** techniques, efficiently dealing with transactions exceeding **100,000** per day.\nCollaborated with cross-functional teams to integrate and validate new features, ensuring alignment with business goals and user expectations.\nConducted performance testing with tools like JMeter, identifying bottlenecks within the applications and optimizing for peak traffic loads of over **500 concurrent users**.\nUtilized **GenAI** for enhancing user experience, providing intelligent suggestions and streamlined workflows within the application.\nEnsured high-quality code through rigorous unit and integration testing in **Python**, following best practices to maintain a codebase with less than **5%** defect rate.\nDeveloped real-time data streaming solutions for immediate user feedback, leveraging **event-driven architecture** principles to enhance interactivity in applications."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tGo, Python, Java\n\n **Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot\n\n **Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n **API Technologies:**\n\tREST & gRPC APIs, JWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Graph databases\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL), Infrastructure-as-code\n\n **Other:**\n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot, ETL, Event-driven architecture, Message queuing, Data correlation, Complex relationship modeling, CEL, JSONPath, GenAI, LLM, AI-assisted coding",
+  "apply_company": "CrowdStrike"
+}

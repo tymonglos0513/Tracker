@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior SREngineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Site Reliability Engineer with 13+ years of experience in observability, DevOps practices, and automating high-performance applications within the healthcare and financial sectors. Proficient in **Kubernetes**, **AWS**, **Terraform**, and observability tools such as **Prometheus** and **Grafana** for system monitoring and performance enhancement. Adept at implementing GitOps practices and building robust CI/CD pipelines using **GitHub Actions**. \nSkilled in multiple programming languages including **Python**, **Java**, and **C++**, with a strong foundation in microservices and event-driven architectures. Experienced in driving compliance with regulatory standards and building AI/ML-powered solutions utilizing **MLflow** and **Kubeflow** for model orchestration. Excellent communication and collaboration skills, dedicated to delivering reliable and efficient system performance.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SREngineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented **Observability** strategies using **Prometheus** and **Grafana** to monitor system performance and reliability across production environments, enhancing incident response times by **30%**.\nDeveloped and managed **DevOps** pipelines with **GitHub Actions** and **Terraform**, ensuring streamlined code deployment and infrastructure management in a **multi-cloud** architecture with **AWS**.\nConducted **GitOps** practices to maintain consistency and traceability in deployments, leveraging tools like **ArgoCD** for automated rollouts and rollback strategies.\nLed improvements in infrastructure resiliency by transitioning to containerized applications using **Kubernetes** and **Calico**, achieving an uptick in system uptime to **99.9%**.\nAutomated monitoring and logging systems utilizing the **ELK Stack** and **Splunk**, significantly reducing the time to detect and resolve incidents by **40%**.\nCollaborated with cross-functional teams to enhance **C**, **C++**, **Java**, **Python**, and **Go** application performance and reliability milestones, guiding improvements that resulted in a **25%** increase in throughput.\nDesigned and maintained CI/CD workflows for scalable applications, integrating **automation** tools that improved team productivity by automating **70%** of manual tasks.\nFacilitated strong communication across teams to foster collaborative solutions and effective resource sharing, instrumental in transitioning to cloud-based services.\nDrove training sessions on **Python** best practices, equipping team members with **Python** development skills that led to the reduction of bugs in production by **33%**.\nEvaluated existing systems for vulnerabilities and proposed suitable enhancements to bolster security compliance, ensuring adherence to industry standards and protocols."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Implemented **DevOps** practices by automating deployments and enhancing observability using tools such as **Prometheus**, **Grafana**, and **ELK Stack**, resulting in a 30% increase in system reliability.\n• Utilized **GitOps** methodologies for managing infrastructure as code with **Terraform**, **Terragrunt**, and **ArgoCD**, streamlining the deployment process by reducing time to production by 50%.\n• Developed robust CI/CD pipelines leveraging **GitHub Actions** for efficient integration and delivery, ensuring smooth application updates on a bi-weekly basis.\n• Monitored system performance and logs with **Splunk** and real-time metrics using **Prometheus**, achieving a 40% faster incident response time.\n• Collaborated with cross-functional teams to implement disaster recovery strategies, improving system resilience and availability to **99.9%** uptime.\n• Designed and executed automated testing frameworks ensuring software quality and reducing regression defects by **15%** in releases.\n• Led initiatives to transition applications to cloud-based environments, utilizing **AWS** services for scalable infrastructure, improving performance under high loads by **35%**.\n• Mentored junior engineers on **Python**, **Go**, and **Java** programming languages to enhance team development capabilities and foster knowledge sharing."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented observability solutions using **Prometheus**, **Grafana**, and **ELK Stack** for monitoring system performance and service reliability, enhancing proactive incident response by **85%**.\nDeveloped and maintained CI/CD pipelines utilizing **GitOps** principles with **GitHub Actions** to automate deployments, resulting in a **30%** reduction in deployment times across environments.\nDesigned automation scripts using **Python** and shell scripting to streamline infrastructure management on **AWS**, achieving improved efficiency and reduction in manual intervention by **70%**.\nCollaborated with cross-functional teams to improve communication practices, ensuring smooth project workflows and timely project deliveries, enhancing team productivity by **40%**.\nManaged Kubernetes clusters and implemented **Calico** for networking, including lifecycle operations and scaling, to boost operational effectiveness for cloud deployments.\nEngaged in configuration management and infrastructure as code practices using **Terraform** and **Terragrunt**, ensuring consistent and repeatable infrastructure setups across environments.\nConducted performance tuning and capacity planning for applications and infrastructure using **Python**, leading to improved system responsiveness and reduced latency by **50%**.\nParticipated in the development of microservices and backend services using **Python**, ensuring the implementation of best practices in code quality and maintainability.\nUtilized **Docker** for containerization of applications, resulting in improved scalability and isolation of services across diverse environments.\nEnsured comprehensive security practices were applied through role-based access control (RBAC) and OAuth integration, maintaining secure access for customer and admin interfaces."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, C, C++, Java, Go, Perl, Ruby\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tOAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS: RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Observability, GitOps, Prometheus, Grafana, ELK Stack, Splunk, Calico, ArgoCD, Packer, Automation, Communication, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot, Terraform, Terragrunt",
+  "apply_company": "Chainlink Labs"
+}

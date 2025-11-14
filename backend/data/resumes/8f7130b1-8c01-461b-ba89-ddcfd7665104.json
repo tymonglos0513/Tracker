@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "DevOps Engineer with 13+ years of experience in delivering high-performance applications, currently specializing in CI/CD pipelines, cloud deployment, and infrastructure management. Skilled in **AWS**, **Azure**, **Docker**, **Kubernetes**, and **Terraform**, with proven ability to implement robust solutions leveraging **Ansible**, **Jenkins**, and **TeamCity**. Proficient in scripting languages such as **PowerShell** and **Python**, and experienced with database technologies including **SQL**. Talented in monitoring and logging solutions using **Zabbix**, **Grafana**, and **Graylog**, ensuring system reliability and performance. \nAdditionally, I bring extensive knowledge of AI/ML-powered platforms and compliance-driven development, aligning with standards such as HIPAA and PCI DSS, alongside a strong background in MLOps using modern orchestration tools. My technical prowess is complemented by 13 years of engaging effectively with cross-functional teams in high-stakes environments like healthcare and finance.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and maintained robust **DevOps** pipelines using **Jenkins**, **TeamCity**, and **Git**, ensuring continuous integration and delivery processes for multiple projects.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration of applications, enhancing scalability and fault-tolerance across **AWS** and **Azure** environments.\nMonitored system health and performance through **Zabbix**, **Grafana**, and **PRTG**, ensuring high availability and rapid response to incidents, with downtime reduced by **30%**.\nAutomated provisioning and infrastructure management using **Terraform** and **Ansible**, leading to a **40%** decrease in deployment times and improved consistency in environments.\nDeveloped and managed CI/CD workflows for applications utilizing **Azure** and **AWS**, ensuring secure and efficient deployment across **10+** environments.\nConducted thorough system performance analysis and logging through **Graylog** and custom **PowerShell** scripts, resulting in a **25%** improvement in system diagnostics and troubleshooting processes.\nCollaborated with development teams to implement best practices for source control with **Git** and **SVN**, promoting code quality and collaboration through enforced pull request reviews.\nDesigned infrastructure as code strategies resulting in reproducible deployments and rapid rollbacks using **8+** standard templates, increasing deployment efficiency by **50%**.\nEnsured application performance and stability through proactive log monitoring and alerting mechanisms, reducing critical incident response time by **20%** through the integration of observability tools.\nMaintained databases using **SQL** and developed scripts in **Groovy** for automated operations, improving database query performance by **15%** through optimization strategies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Automated deployment processes and managed CI/CD pipelines using **Jenkins** and **TeamCity**, streamlining the delivery of applications and reducing deployment time by **50%**.\nEmployed **Docker** and **Kubernetes** for container orchestration, optimizing resource utilization and enhancing the scalability of microservices across multiple environments.\nMonitored system performance and reliability utilizing **Zabbix** and **Grafana**, achieving a reduction in downtime by **30%** through proactive alerting and incident management.\nImplemented Infrastructure as Code (IaC) using **Terraform** and **Ansible** to provision resources on **Azure** and **AWS**, ensuring consistent environments and improving deployment speed by **40%**.\nMigrated legacy applications to cloud infrastructure, leveraging skills in **C#**, **Groovy**, and **PowerShell** for seamless integration and configuration management.\nDeveloped and maintained monitoring and logging solutions using **Graylog** and **PRTG**, providing real-time insights into system health and performance metrics.\nCreated and managed databases using **SQL** and integrated them with automated scripts for data backup and recovery, ensuring data integrity and availability for high-volume transactions.\nCollaborated with development teams to enhance operational efficiency through best practices in version control with **Git** and **SVN**, facilitating smoother code integration and deployment workflows.\nEnsured system security and compliance by implementing various monitoring solutions, tracking unauthorized access attempts, and conducting regular vulnerability assessments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented monitoring solutions using **Zabbix**, **Grafana**, and **Graylog** to ensure system reliability and performance optimization, providing real-time insights into application health metrics.\nAutomated deployment pipelines with **Jenkins** and **TeamCity**, enabling continuous integration and delivery for over **50** microservices, thus significantly reducing deployment times by **30%**.\nUtilized **Docker** and **Kubernetes** for container orchestration, achieving optimized resource utilization and seamless scaling of applications across an **AWS** and **Azure** hybrid cloud environment.\nDeveloped infrastructure as code using **Terraform** and **Ansible**, maintaining version control for reproducibility, which increased setup speed by **40%**.\nConducted SQL database administration using **PostgreSQL** and implemented backups and monitoring strategies with **PRTG**, ensuring data integrity and minimizing downtime for critical databases.\nAuthenticated users and managed secure access levels using **RBAC** and **OAuth 2.0**, reinforcing compliance with **GDPR** regulations across the platform.\nIntegrated logging and diagnostics utilizing **PowerShell** scripts enhancing operational visibility and incident response times by achieving a **15%** improvement in Mean Time to Recovery (MTTR).\nCollaborated with the development team to utilize **Python** and **Groovy** for automation scripts, decreasing manual intervention and accelerating the delivery of services to end-users by **25%**.\nManaged version control with **Git** and **SVN** for consistent and reliable source code management across multiple team members.\nOptimized IIS configurations for high traffic using **Docker**, ensuring seamless service delivery and availability during peak loads."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Groovy, C#, SQL\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, TeamCity\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, Terraform, Ansible\n\n**Other:**\n\tZabbix, Grafana, Graylog, PRTG, PowerShell, Istio, Git, SVN, IIS, Nginx, Let’s Encrypt, Certbot, MLflow, Airflow, Kubeflow, Helm, Docker Compose"
+}

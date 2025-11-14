@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Python Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Python Engineer with 10+ years of experience in high-performance software solutions, proficient in **Python**, **TypeScript**, and adept in cloud services such as **AWS**, **Azure**, and **GCP**. Skilled in building robust applications using **Docker** and **Kubernetes**, with expertise in implementing event-driven architectures utilizing **Kafka**, **Pub/Sub**, and **AWS MSK**. Demonstrated ability to lead the development of scalable platforms that leverage modern frameworks and libraries, while ensuring compliance with industry standards. Proven track record of deploying cloud-native applications with a focus on automation, real-time analytics, and intelligent decision-making.\nAdditionally, brings practical experience in MLOps, encompassing the development of ML pipelines and managing workflows with tools like **MLflow** and **Airflow**. Committed to delivering secure, maintainable solutions that not only meet technical requirements but also positively impact business outcomes.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable, full-stack solutions using **Python**, ensuring high performance and maintainability while adhering to regulatory standards.\n• Developed microservices architecture leveraging **Docker** and **Kubernetes** for deployment, achieving high availability and fault tolerance in production environments.\n• Utilized cloud services such as **AWS** and **Azure** for building and deploying applications, improving system scalability and reliability.\n• Built and maintained robust data architecture with efficient data ingestion and querying, optimized for large-scale applications in healthcare and finance.\n• Integrated event-driven architectures with **Kafka** and **AWS MSK**, enhancing data flow and processing capabilities across services.\n• Collaborated with cross-functional teams to improve system design and development processes, leading to a 30% increase in application delivery speed.\n• Established and implemented CI/CD pipelines using **AWS**, effectively reducing deployment times by **50%** and improving code quality through automated testing.\n• Delivered financial analysis tools utilizing **Python**, enabling real-time insights into transactional data with significant reduction in query times.\n• Designed unit, integration, and performance test strategies enhancing code reliability and reducing bug rates by **40%** through frameworks like Jest and PyTest.\n• Engaged in continuous learning and development on emerging technologies, implementing best practices around **Azure Cognitive Services** and **GCP** for intelligent application enhancements."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **TypeScript** to spearhead the development and modernization of financial platforms, implementing a microservices-based architecture with **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), leading to a **30%** increase in scalability and reliability for high-volume transaction systems.\nDesigned and developed dynamic, user-centric front-end applications with **React (18)**, **Vue 3**, **Next.js**, and **TypeScript**, while integrating **Redux Toolkit** and **Tailwind CSS** to enhance performance and responsiveness of a **50%** increase in user engagement.\nEngineered real-time transaction monitoring and analytics dashboards utilizing **React**, **D3.js**, and **Power BI Embedded**, which enabled operations teams to efficiently track financial activity with a reduction in report generation time by **40%**.\nIntegrated **Kafka**, **RabbitMQ**, and **Azure Service Bus** to architect a robust event-driven system, permitting efficient asynchronous communication and facilitating real-time event processing,\nDevised and managed ETL pipelines leveraging **Python**, **Apache Airflow**, and **Azure Data Factory** for seamless batch and real-time data ingestion from **10+** internal and third-party sources.\nDeveloped AI/ML-powered fraud detection mechanisms using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, resulting in a **25%** decrease in fraudulent transaction occurrences by analyzing transaction patterns and user behavior.\nCreated ML pipelines for credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, embedding model inference directly into backend services to enable real-time decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** (FastAPI, Django) to design and optimize backend services for a global e-commerce platform, achieving **99.9%** uptime and scalability for key modules like checkout and order fulfillment.\nImplemented **Docker** containers and **Kubernetes** orchestration for efficient deployment and management of microservices, resulting in a **40%** reduction in deployment times and improved team collaboration.\nLeveraged **AWS** and **GCP** cloud services for scalable infrastructure, processing over **1 million** orders monthly, ensuring high availability and low latency.\nEngineered real-time features using **Kafka** and event-driven architecture, enabling immediate order updates, dynamic inventory tracking, and real-time customer support, achieving a **30%** increase in customer satisfaction.\nDeveloped responsive frontend applications with **TypeScript**, React (18), and Vue 3, delivering mobile-first user experiences and achieving a **25%** faster load time across devices.\nManaged distributed data storage with **MongoDB**, **PostgreSQL**, and **Redis**, improving data access speeds by **50%** for high-traffic e-commerce workflows and effectively caching frequently accessed resources.\nIntegrated AI/ML recommendation engines using **TensorFlow** and **scikit-learn**, increasing conversion rates by **15%** through personalized product listings based on real-time behavioral analysis.\nImplemented Redis caching layers for product metadata and shopping cart sessions, improving application responsiveness and reducing database read load by **60%**.\nConducted feature flagging and blue-green deployments with **LaunchDarkly**, enabling controlled rollouts and A/B testing while minimizing risk during major platform updates.\nCreated engaging, SEO-friendly UI using **Next.js**, Vue 3 + Nuxt, and HTML5/CSS3, ensuring compliance with accessibility standards (WCAG 2.1) and optimizing for mobile engagement.\nBuilt secure payment processes integrated with **Stripe** and **PayPal**, applying PCI-compliant measures for secure transaction handling.\nApplied role-based access control (RBAC) with **OAuth 2.0** to ensure secure access for users and admins, maintaining GDPR compliance and protecting user data throughout the platform."
+    }
+  ],
+  "skills": " \n**Programming Languages:**\n\tPython, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKafka, Pub/Sub, AWS MSK, Confluent Cloud, Azure Events\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, GCP, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Invisible Agency"
+}

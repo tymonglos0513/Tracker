@@ -1,0 +1,46 @@
+{
+  "name": "Andrzej Ito",
+  "role_name": "MLOps Engineer",
+  "email": "andrzej.ito@outlook.com",
+  "phone": "+48 732 126 371",
+  "address": "Rzeszów, Poland",
+  "linkedin": "https://www.linkedin.com/in/andrzej-ito-2872a4391/",
+  "profile_summary": "As an MLOps Engineer with over 9 years of experience, I specialize in leveraging **MLOps** practices and tools to deliver scalable software solutions. I have hands-on expertise with **AWS SageMaker**, **AWS Fargate**, **AWS ECS**, **AWS Bedrock**, and **Snowflake**, coupled with proficiency in **dbt**, **Prefect**, **Python**, **FastAPI**, and **MLflow**. My skillset extends to managing containerized applications using **Docker** and **Kubernetes**, implementing **CI/CD** pipelines through **GitHub Actions** and **Jenkins**, and enhancing observability with **Prometheus** and **Grafana**. I have a proven track record of leading cross-functional teams, mentoring junior engineers, and driving projects that prioritize user experience, performance, and innovation. Currently, I am focused on enhancing accessibility and promoting technical excellence in every initiative I undertake.",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "category": "Computer Science",
+      "from_year": "2010",
+      "to_year": "2014",
+      "location": "Osaka, Japan",
+      "university": "Osaka University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "MLOps Engineer",
+      "company": "Allegro.pl",
+      "from_date": "08/2023",
+      "to_date": "",
+      "location": "Poznan, Poland",
+      "responsibilities": "• Implemented **MLOps** practices to streamline machine learning workflows and enhance deployment capabilities utilizing **AWS SageMaker**, **AWS Fargate**, and **AWS ECS**.  \n• Developed and maintained data pipelines with **Prefect** and **Airflow** ensuring efficient execution of tasks for machine learning models.  \n• Integrated monitoring solutions using **Prometheus** and **Grafana** for real-time performance tracking of ML models.  \n• Designed CI/CD processes leveraging **Docker** and **Kubernetes** for scalable deployments, ensuring 99.9% uptime in production environments.  \n• Automated workflows using **MLflow** for tracking experiments and model versions, delivering insights for 5+ machine learning projects.  \n• Utilized **Snowflake** and **dbt** for data warehousing and transformation, leading to a 40% increase in reporting speed.  \n• Managed version control and collaboration through **GitHub Actions**, ensuring seamless integration and delivery cycles.  \n• Implemented comprehensive testing strategies for deployment scripts using **Jenkins**, improving deployment accuracy by 30%.  \n• Enhanced application scalability and performance through the effective use of microservices architecture and **FastAPI** for serving ML models."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Paypay Corporation",
+      "from_date": "05/2017",
+      "to_date": "07/2023",
+      "location": "Tokyo, Japan",
+      "responsibilities": "• Implemented **AWS SageMaker** for deploying machine learning models ensuring scalable and robust production workflows.\n• Developed and managed workflows with **Airflow** and **Prefect** for orchestrating ML pipelines.\n• Utilized **Snowflake** for data warehousing, ensuring efficient data storage and retrieval for model training.\n• Built and deployed containerized applications using **Docker** and orchestrated with **Kubernetes** for seamless scalability across **AWS Fargate** and **AWS ECS**.\n• Created and maintained CI/CD pipelines using **GitHub Actions** and **Jenkins** for automating deployment processes with over **90%** success rate in continuous integration.\n• Employed **MLflow** for tracking experiments and managing the ML lifecycle, enhancing collaboration and reproducibility for over **15** models.\n• Integrated monitoring tools such as **Prometheus** and **Grafana** for system observability and conducted weekly performance reviews based on collected metrics.\n• Ensured reproducibility and documentation of ML workflows using **dbt** and automated ETL processes, improving data accessibility for analysts by **80%**.\n• Collaborated with cross-functional teams to implement real-time data processing pipelines, enhancing decision-making speed by **30%**."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Fujitsu Ltd",
+      "from_date": "06/2014",
+      "to_date": "04/2017",
+      "location": "Tokyo, Japan",
+      "responsibilities": "• Developed and maintained robust MLOps pipelines using **AWS SageMaker**, **AWS Fargate**, and **AWS ECS** for scalable model deployment and management.  \n• Utilized **Python** and **FastAPI** to create RESTful APIs for machine learning model integration.  \n• Implemented CI/CD strategies using **GitHub Actions** and **Jenkins** to streamline deployment workflows, resulting in a 30% increase in deployment speed.  \n• Leveraged **Docker** and **Kubernetes** for container orchestration, ensuring consistent runtime environments across development and production.  \n• Designed data workflows using **dbt** and orchestrated data pipelines with **Airflow** for enhanced data transformation processes.  \n• Integrated monitoring solutions like **Prometheus** and **Grafana** to track model performance, achieving a 20% reduction in downtime and error rates.  \n• Collaborated with data engineering teams to connect with **Snowflake** for efficient data management and retrieval.  \n• Employed **MLflow** for tracking experiments and managing model versions, improving the model tracking process by 40%.  \n• Implemented data validation techniques using **EvidentlyAI**, ensuring high-quality data input for machine learning models."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tJava, C++, C#, Python, Kotlin\n\n**Backend Frameworks**\n\tSpring, Spring Boot, Hibernate, Struts, JPA, FastAPI\n\n**Frontend Frameworks**\n\tReact, Vue, Angular\n\n**API Technologies**\n\tREST APIs, SOAP, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS SageMaker, AWS Fargate, AWS ECS, AWS Bedrock, Docker, Kubernetes, MLflow, Prefect, Airflow\n\n**Databases**\n\tMS SQL Server, Oracle, MongoDB, PostgreSQL, Redis, Snowflake\n\n**DevOps**\n\tGitHub Actions, Jenkins, CI/CD, Rabbit MQ, Prometheus, Grafana\n\n**Cloud & Infrastructure**\n\tMLOps, dbt, EvidentlyAI"
+}

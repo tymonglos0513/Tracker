@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior AI Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior AI Engineer with over 10 years of experience in leveraging **Python** to design and implement high-performance backend systems for financial platforms, AI/ML pipelines, and cloud-native architectures. Proficient in **AWS**, **Docker**, and CI/CD processes, with a strong understanding of scalability, automation, and Infrastructure as Code (IaC). Expertise in **Generative AI**, **Prompt Engineering**, and developing robust APIs that facilitate high availability. Recognized for strong problem-solving and critical thinking skills, and effective communication within top-tier organizations like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop and engineer backend services, enhancing scalability and performance for document automation, user onboarding, and reporting workflows.\nLeveraged **Celery** and **Redis** for implementing event-driven solutions, optimizing asynchronous processing for financial transaction requests with a throughput of **1000+** transactions per minute.\nDeployed microservices architectures on **Azure App Services**, leveraging **Terraform** for Infrastructure as Code (IaC) to ensure cloud operations follow a consistent version control practice, reducing deployment times by **30%**.\nDesigned and maintained data pipelines using **Apache Airflow** and **Azure Functions**, facilitating regulatory data exchange and achieving a **95%** timely delivery rate.\nConducted thorough security assessments and integrated **OAuth2** and **Azure AD B2C** for robust, scalable authentication systems, enhancing user security protocols by **50%**.\nCollaborated with cross-functional teams to address system integration challenges and ensure compliance with regulatory standards, overseeing release strategies that contributed to a **40%** increase in project delivery efficiency."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop backend systems that enhance automation and user onboarding processes, ensuring scalability to handle **1000+** document workflows.\nImplemented **Docker** to containerize applications, facilitating smoother deployments and improving scaling capabilities by **200%**.\nEmployed **Git** for version control and collaborated in cross-functional teams to streamline integration and maintain high code quality through CI/CD best practices.\nDesigned and deployed cloud-based solutions on **AWS** and **Azure**, utilizing **Terraform** for Infrastructure as Code (IaC) to automate infrastructure management across **10+** environments.\nDeveloped event-driven **microservices** with **Celery** and **Redis**, achieving efficient asynchronous processing for over **500,000** financial data transactions.\nEngineered robust data pipelines incorporating **Apache Airflow** and **Azure Functions**, automating data workflows and ensuring regulatory compliance with industry standards.\nConducted security audits and integrated **OAuth2** and **Azure AD B2C** for enhanced authentication security, addressing vulnerabilities and maintaining best practices.\nLeveraged **Generative AI** and LLM techniques for prompt engineering solutions, providing innovative approaches to complex problem-solving and enhancing AI functionalities."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed backend services for trade execution and account tracking utilizing **Python** and **Flask** to enhance trading operations, achieving a 30% reduction in processing time.\nEngineered real-time price feed processors using **asyncio**, **WebSockets**, and **Redis** to deliver crucial trading data for high-frequency transactions, processing over **1 million** updates per day.\nCollaborated with frontend teams by implementing REST APIs and WebSocket channels to ensure seamless user interactions with the platform, improving user satisfaction metrics by **25%**.\nAdhered to regulatory standards like MiFID II and GDPR, while implementing **CI/CD** pipelines for continuous improvements and updates without service interruptions.\nImplemented comprehensive test suites utilizing **PyTest** and **tox**, accelerating QA processes and enabling the release of 10+ new features per month.\nIntroduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and reducing processing delays by **40%**.\nUtilized **Docker** for containerization, streamlining the deployment process and enhancing the scalability of applications in a cloud environment with **AWS** support."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n **Frontend Frameworks**\n\t\n\n **API Technologies**\n\tREST/gRPC APIs, Microservices\n\n **Serverless and Cloud Functions**\n\tAWS, Lambda\n\n **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps**\n\tDocker, CI/CD, Git, GitHub Actions, Azure DevOps\n\n **Cloud & Infrastructure**\n\tAWS, Azure\n\n **Other**\n\tAI, LLM, Generative AI, Problem-Solving, Critical Thinking, Scalability, Communication, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, IaC, PyTest",
+  "apply_company": "dLocal"
+}

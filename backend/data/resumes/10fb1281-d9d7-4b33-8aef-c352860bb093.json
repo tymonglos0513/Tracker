@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "Results-driven Senior Software Engineer with 8 years of comprehensive experience in full-stack development and a strong proficiency in **Python**, focusing on building scalable and efficient solutions. I’m well-versed in various programming languages including **Go**, **C++**, and **C#**, as well as leveraging modern cloud technologies for optimized performance. My technical toolkit includes **Kubernetes** for container orchestration and deployment, alongside developing APIs and services that meet enterprise architecture standards. \nIn my previous roles, I have successfully led the development of high-performance applications across diverse industries, strategically utilizing cloud environments like **Azure** and **AWS**. My background encompasses expertise in **microservices architecture**, deployable systems with **event-driven** capabilities, and robust CI/CD automation processes.\nAdditionally, I possess a solid foundation in AI/ML integration, developing machine learning pipelines and utilizing tools like **MLflow** and **Airflow** to enhance software capabilities for predictive analytics. I excel in implementing secure systems adhering to compliance standards, leveraging my deep understanding of regulatory requirements.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented Kubernetes orchestration for scalable and resilient application deployments, focusing on **Cluster Autoscaler** and **Karpenter** to optimize resource management.\n• Developed and maintained backend services using **Python** (FastAPI) to handle high-traffic APIs, ensuring high availability and performance across multiple microservices.\n• Built and managed Kubernetes controllers to automate operational tasks and enhance application lifecycle management, resulting in a **30%** increase in deployment efficiency.\n• Leveraged **Go** for microservices development, emphasizing concurrent processing for high-load applications.\n• Collaborated with cross-functional teams to create robust solutions using **C#**, **Java**, and **C++**, focusing on system integration and API development.\n• Designed and implemented volume management solutions in **Kubernetes** environments to ensure effective storage utilization and data persistence across microservices.\n• Optimized application resource allocation using **Horizontal Pod Autoscaler (HPA)** and **Vertical Pod Autoscaler (VPA)**, improving system performance by **25%** during peak usage.\n• Conducted code reviews and mentored junior engineers on best practices in containerization and microservices architecture, enhancing team skill levels.\n• Implemented CI/CD pipelines with Azure DevOps and GitHub Actions for continuous integration and deployment of applications in **Kubernetes** clusters, reducing release cycles by **40%**.\n• Ensured compliance with security best practices for API gateways and microservices, focusing on authentication and authorization strategies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Kubernetes** for container orchestration and deployment strategies, enhancing application scalability and reliability across **microservices** architectures in high-traffic environments.\nDeveloped backend services using **Go**, optimizing performance and latency for financial platforms, leading to a throughput improvement by **25%** in transaction processing.\nUtilized **Python** and **C++** for building robust algorithms and systems, ensuring high performance and efficiency in analytics processes with a reduction of processing time by **30%**.\nDesigned and implemented API servers, employing controllers effectively to manage service requests and resources with a focus on maintaining responsiveness under high loads.\nIntegrated **Kubernetes** features such as **HPA** (Horizontal Pod Autoscaler) and **Cluster Autoscaler** to manage resource allocation dynamically, ensuring optimal performance and uptime.\nCollaborated on cross-functional teams to enhance systems using **Rust** for memory safety without compromising performance, contributing to a codebase that reduced memory leaks and application crashes by **20%**.\nSupported the implementation of CI/CD processes using **Java** tools to automate testing, integration, and deployment pipelines, decreasing time-to-market for new features by **15%**.\nEngaged in regular code reviews and mentoring sessions, fostering a culture of continuous improvement and shared knowledge within the engineering team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Kubernetes** to manage containerized applications efficiently, implementing **Cluster Autoscaler** and Karpenter for optimal resource allocation, significantly improving scalability across the platform.\nDesigned and developed backend services in **Go** and **Python** with frameworks such as FastAPI and Django, ensuring high availability and low latency in critical services.\nImplemented efficient API servers and managed controllers, maintaining robust communication channels and data integrity across various system components.\nCreated comprehensive volumes to streamline data storage and Spring Boot applications, optimizing read and write operations and improving overall system performance.\nEnhanced application reliability through Horizontal Pod Autoscaler (HPA) and Vertical Pod Autoscaler (VPA), effectively balancing workloads under varying traffic conditions.\nLeveraged advanced programming skills in **Rust**, **C++**, and **C#** to develop modular and maintainable code, driving improvements in application performance by an impressive **30%**.\nFacilitated cross-functional collaboration with teams to maintain and optimize **Java**-based services, ensuring seamless integration and deployment processes, resulting in a **15%** increase in deployment frequency.\nConducted code reviews and implemented best practices in software development, helping to mentor junior developers and elevate team performance metrics by **25%**.\nActively participated in agile ceremonies and contributed to strategic planning, ensuring project deliverables aligned with business objectives and user needs."
+    }
+  ],
+  "skills": "**Programming Languages:** \n\tPython, Go, C++, Rust, C#, Java\n\n**Backend Frameworks:** \n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:** \n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:** \n\tAPIServer, controllers\n\n**Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:** \n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:** \n\tNginx, Certbot\n\n**Other:** \n\tMLflow, Airflow, Kubeflow, Authentication & Security (Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt)",
+  "apply_company": "Datadog"
+}

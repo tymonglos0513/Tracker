@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Python Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-driven Python Engineer with 8 years of comprehensive experience in developing robust applications, specializing in **Python**, **Django**, **AWS**, **CI/CD**, and **Kubernetes**. My technical expertise includes designing and implementing **REST APIs** and **GraphQL** services, alongside effective database design and SQL utilization. I have a solid foundation in design patterns such as SOLID and DRY, risk mitigation strategies, and automated testing methodologies, ensuring code quality through rigorous **code reviews** and **test strategies**. I am adept at managing technical debt and fostering compliance with industry standards.\n\nIn addition to my technical skills, my proficiencies in **Git**, mentorship, and strong communication capabilities have enabled me to lead teams effectively.  Experienced in collaborating on projects involving event-driven architectures and microservices, I am passionate about leveraging technology to drive innovation and efficiency in the development process.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Python Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python (FastAPI)** and **Django** to architect and develop scalable, back-end solutions for healthcare and financial platforms, ensuring adherence to **SOLID** principles and **DRY** methodology.\nDesigned and implemented **SQL** database systems, optimizing data architecture for performance and efficiency to handle large-scale data ingestion and querying.\nDeveloped and maintained CI/CD pipelines utilizing **AWS**, integrating automated testing and deployment strategies for both web applications and API services.\nLed initiatives in Kubernetes for container orchestration, enhancing deployment efficiency and scalability through **microservices** architecture.\nImplemented robust **GraphQL** and **REST API** services, adhering to best practices in **design patterns** and facilitating seamless communication between front-end and back-end systems.\nConducted rigorous **automated testing** and established comprehensive test strategies using tools such as **Jest** and **Cypress** to ensure code quality and reduce **technical debt**.\nProvided mentorship and guidance in **code reviews**, promoting best practices in sustainable coding and risk mitigation across development teams.\nCommunicated effectively with cross-functional teams to align project goals and deliver timely feedback during all phases of the software development lifecycle.\nManaged the integration of third-party services and APIs, ensuring smooth handoff between systems and enhancing application capabilities.\nFostered a culture of continuous improvement and adherence to **KISS** (Keep It Simple, Stupid) principles to streamline processes and enhance product performance."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Django** to develop and modernize financial platforms, emphasizing the use of **REST API** and design patterns to enhance scalability and efficiency.\nImplemented CI/CD pipelines to automate deployment processes, ensuring consistent and reliable delivery of software using **Git** for version control.\nDesigned and optimized **SQL** databases, focusing on robust Database Design principles to enhance data integrity and performance for high-volume financial applications.\nApplied best practices in software engineering including **SOLID**, **DRY**, and **KISS** principles to maintain clean, maintainable code and reduce technical debt across projects.\nContributed to the development of a microservices-based architecture utilizing **Kubernetes** for container orchestration, achieving a 30% increase in deployment speed and flexibility.\nConducted code reviews and provided mentorship to junior developers, ensuring adherence to coding standards and fostering a culture of knowledge sharing and continuous improvement.\nCollaborated with cross-functional teams, leveraging strong communication skills to facilitate project alignment and risk mitigation strategies throughout the software development lifecycle.\nEngaged in automated testing practices to ensure the reliability of applications and reduce bugs by 40% in production environments, further solidifying the testing strategy.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** (including **Django**) to design and optimize backend services for a global e-commerce platform, ensuring high availability and low latency across key modules, contributing to a **25%** improvement in response times.\nImplemented **SQL** database designs and managed **AWS** resources, enabling seamless integration with **Kubernetes** for scalable deployment strategies.\nDeveloped and maintained CI/CD pipelines, resulting in a **30%** increase in deployment efficiency and reduced rollbacks through rigorous **Automated Testing** and effective **Code Reviews**.\nEmployed design principles such as **SOLID**, **DRY**, and **KISS** within the development process, which enhanced code maintainability and minimized **Technical Debt**.\nExecuted effective data access strategies and RESTful APIs, significantly improving data retrieval speeds and optimizing overall application performance to handle **2,000+** concurrent users.\nMentored junior developers and facilitated team communication, enhancing the development workflow and fostering a culture of continuous improvement.\nDesigned and executed rigorous **Test Strategies** to ensure robust application performance and ease of maintenance, directly reducing production bugs by **20%**.\nManaged risk mitigation processes by integrating **feature flags** and deploying via controlled rollouts, using platforms like **LaunchDarkly** to perform A/B testing effectively.\nApplied **GraphQL** for efficient data retrieval processes, improving data handling capabilities as part of microservices architecture.\nDiligently contributed to **Database Design** initiatives ensuring fast data access with minimal latency, achieving a **15%** reduction in database lookup times."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tDjango, FastAPI, Flask\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tGraphQL, REST API\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, SQL, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL)\n\n **Other:**\n\tAuthentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), Design Patterns, SOLID, DRY, KISS, IoC, Automated Testing, Test Strategy, Code Reviews, Database Design, Technical Debt Management, Risk Mitigation, Communication Skills, Mentorship"
+}

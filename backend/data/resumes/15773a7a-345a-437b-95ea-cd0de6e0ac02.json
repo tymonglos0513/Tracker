@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Data Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Data Engineer with over 10 years of experience in crafting and optimizing data pipelines, integrating ETL and ELT processes, and ensuring data quality across platforms. Proficient in **Python**, **pandas**, **SQL**, **Apache NiFi**, **Kafka**, **PySpark**, **Docker**, **Kubernetes**, and leveraging cloud services such as **AWS** and **Azure** to build scalable data solutions. Extensive experience with **Data Lakes**, **Data Warehouses**, and modern data orchestration tools like **Airbyte** and **Fivetran**. Recognized for developing high-impact analytics solutions and enhancing data visualization efforts. Proven success at leading organizations like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to develop robust data processing frameworks, ensuring high performance and scalability.\nImplemented ETL/ELT processes, leveraging **Apache Airflow** and **Azure Functions** to build efficient data pipelines that deliver timely insights.\nEmployed **Docker** and **Kubernetes** for containerization and orchestration of data microservices, enhancing deployment consistency and reliability across **Azure App Services**.\nApplied **SQL** for complex data querying and manipulation, ensuring data integrity and optimizing performance in **Data Lakes** and **Data Warehouses**.\nIncorporated **pandas** for data manipulation and analysis to improve data quality checks, contributing to overall data integrity.\nDeveloped event-driven architectures using **Kafka** for real-time data streaming, thereby boosting response time for analytics workflows.\nCreated and maintained data visualization dashboards to present analytical findings seamlessly, enhancing user experience and decision-making processes.\nCollaborated with cross-functional teams to implement best practices in data governance and compliance, ensuring alignment with regulatory standards.\nLed the integration of **Graph databases** for improved data relationships and analysis, supporting advanced analytics initiatives."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **pandas** to develop robust backend systems for automating document workflows, enhancing user onboarding, and executing complex reporting processes.\nDesigned and implemented event-driven microservices with **Celery** and **Redis** to facilitate asynchronous processing of financial data, reaching **99.9%** uptime for transaction requests.\nOversaw the deployment of microservices on **Azure App Services**, employing **Terraform** for infrastructure automation, achieving scalable environments across **15** deployments.\nConstructed efficient data pipelines for secure regulatory data exchange, utilizing **Apache Airflow** and **Azure Functions** to automate data flow, reducing processing time by **30%**.\nConducted thorough security audits to ensure compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for secure authentication and access controls, enhancing security protocols by **25%**.\nCollaborated with cross-functional teams, ensuring smooth system integration and regulatory compliance, leading to the successful management of **3 major releases** per year."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed data ingestion and processing solutions leveraging **Python** and **Apache NiFi** to automate ETL and ELT processes for large datasets, improving overall data quality and accessibility across the organization.\n• Implemented data transformation workflows using **PySpark** and **pandas**, optimizing data storage and retrieval operations to handle **10TB** of data daily.\n• Architected and managed data pipelines utilizing **Kafka** for real-time data streaming, ensuring efficient and reliable data flow in the ingestion process.\n• Designed and maintained data lakes and warehouses, employing **SQL** to perform complex queries and analytics on structured and unstructured data.\n• Employed **Docker** and **Kubernetes** for containerization and orchestration of data services, resulting in a **40%** reduction in deployment time and improved scalability.\n• Conducted data quality checks and implemented data governance strategies utilizing **Airbyte** and **Fivetran** for seamless data integration and monitoring.\n• Produced interactive data visualizations and reporting tools using **Graph databases** to facilitate analytics for stakeholders, ensuring data-driven decision-making.\n• Established automated testing frameworks with **PyTest** and integrated CI/CD pipelines to enhance project delivery speed and reliability.\n• Collaborated across teams to fulfill project milestones and adherence to data compliance standards such as GDPR and MiFID II, ensuring legal and regulatory obligations are met."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices, Kafka\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, Docker, Kubernetes\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, Graph databases\n\n**DevOps**\n\tGitHub Actions, Azure DevOps, CI/CD, PyTest, Docker, Kubernetes\n\n**Cloud & Infrastructure**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Other**\n\tPandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Apache NiFi, PySpark, Data Lakes, Data Warehouses, Data Quality Checks, ETL, ELT, Data Visualization, Airbyte, Fivetran, Apache Hudi, Ozone",
+  "apply_company": "ZABEL"
+}

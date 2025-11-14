@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior SREngineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior SREngineer with over 10 years of experience in observability, distributed systems, and cloud infrastructure. Proficient in **GitOps**, **Kubernetes**, **Terraform**, and **AWS**, and experienced in real-time systems and automation tools. Skilled in programming with **Python**, **C**, **C++**, **Java**, **Go**, **Perl**, and **Ruby**. Demonstrated ability to create high-performing APIs and scalable solutions while leveraging observability tools such as **Prometheus**, **Grafana**, and the **ELK Stack**. Strong communication skills and a history of impactful contributions at leading organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SREngineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Implemented **observability** solutions using **Prometheus** and **Grafana** to monitor backend services, enhancing system reliability by **30%**.\nEmployed **GitOps** strategies to streamline deployments and version control processes for infrastructure as code using **Terraform** and **Terragrunt**, improving deployment speed by **40%**.\nEngineered backend services in **Python** with **FastAPI** for document automation, user onboarding, and reporting workflows, influencing a **25%** reduction in processing time.\nDeveloped and maintained **distributed systems** using **Celery** and **Redis** for managing asynchronous processing of financial transaction requests.\nDeployed microservices architecture on **Azure** App Services and established robust cloud infrastructure practices for scalability.\nCreated and managed data exchange pipelines with **Apache Airflow** and **Azure Functions**, ensuring regulatory compliance and timely data flow, achieving **100% accuracy** in data reporting.\nLed security assessments integrating **OAuth2** and **Azure AD B2C** for secure authentication, resulting in enhanced security protocols.\nCollaborated with cross-functional teams to resolve system integration issues, drive compliance, and oversee effective **release strategies**, enhancing team communication and coordination."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "- Designed and implemented observability strategies using **Prometheus**, **Grafana**, and **ELK Stack** to monitor system performance, ensuring a **99.9% uptime** across services.\n- Utilized **Terraform** and **GitOps** principles for infrastructure automation, deploying microservices on **Azure App Services** with consistent environments maintained through **Terraform v1.0**.\n- Developed backend solutions in **Python** and **FastAPI** to automate document workflows, significantly improving user onboarding by reducing processing time by **30%**.\n- Architected and managed event-driven microservices employing **Celery** and **Redis**, facilitating the asynchronous processing of financial data with latency reduced to **200ms**.\n- Engineered data pipelines that securely exchange regulatory data through the combination of **Apache Airflow** and **Azure Functions**, streamlining data flow and decreasing data exchange errors by **25%**.\n- Conducted thorough security audits, achieving compliance with industry standards by integrating **OAuth2** and **Azure AD B2C** for robust authentication and access control.\n- Collaborated with cross-functional teams ensuring seamless system integration, enhancing regulatory compliance, and driving successful release management efforts."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "- Developed and maintained **real-time systems** for trade execution, portfolio management, and account tracking using **Python** and **Flask**, enhancing trading operations by 30%.\n- Engineered **real-time price feed processors** with **asyncio**, **WebSockets**, and **Redis**, delivering up-to-the-minute trading data for over **2000** high-frequency transactions per second.\n- Collaborated with frontend teams to deliver data via **REST APIs** and **WebSocket channels**, ensuring an optimal user experience across the platform.\n- Ensured compliance with regulatory requirements such as **MiFID II** and **GDPR**, while implementing internal data security protocols that mitigated risks by **25%**.\n- Implemented comprehensive test suites with **PyTest**, **tox**, and **mock servers**, streamlining QA and CI processes, resulting in a **40%** reduction in bug incidence during development cycles.\n- Introduced job queuing and scheduling solutions using **Celery** and **RabbitMQ**, optimizing backend task execution which improved processing efficiency by **50%**.\n- Leveraged **observability** tools like **Prometheus** and **Grafana** to monitor system performance and reliability, aligning practices with **DevOps** and **SRE** methodologies.\n- Utilized **GitOps** principles in code deployment processes, enhancing version control and collaboration through **GitHub Actions**."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tC, C++, Java, Go, Perl, Ruby, Python, SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, GitOps, CI/CD, ArgoCD, Terraform, Terragrunt\n\n**Cloud & Infrastructure**\n\tAWS (EC2, S3), Azure, cloud infrastructure\n\n**Other**\n\tObservability, Prometheus, Grafana, ELK Stack, Splunk, real-time systems, distributed systems, DevOps, SRE, strong communication",
+  "apply_company": "Chainlink Labs"
+}

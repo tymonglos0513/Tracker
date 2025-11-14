@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a seasoned Senior DevOps Engineer, I possess extensive experience in **Kubernetes**, **Docker**, **Terraform**, **Ansible**, and CI/CD automation with **GitLab CI** and **GitHub Actions**. My technical prowess includes deep familiarity with **AWS** and **Azure** cloud services, coupled with capabilities in **networking**, **security**, and **scripting** using **Python**, **Bash**, and **Go**. I have hands-on experience working with databases such as **PostgreSQL**, **MySQL**, **DynamoDB**, **Cassandra**, and **Redshift**. \nWith over 8 years of full-stack development experience, I have successfully built high-performance solutions in the healthcare and financial sectors utilizing a range of technologies including **JavaScript/TypeScript**, **Flutter**, **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. I excel in creating enterprise-grade platforms with integrated AI/ML capabilities, predictive analytics, intelligent automation, and real-time data processing. \nMy solid foundation in microservices architecture, event-driven systems, and DevSecOps practices drives me to develop secure applications adhering to compliance standards like HIPAA, FHIR, PCI DSS, and SOC 2. Additionally, I have expertise in developing machine learning pipelines and implementing MLOps workflows using tools such as **MLflow**, **Airflow**, and **Kubeflow**, ensuring efficient machine learning model deployment in production.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented enterprise-level **DevOps CI/CD pipelines** using **GitHub Actions**, ensuring automated testing, security scans, and multi-environment deployments for both web and API services across **3** distinct platforms.\n- Led the migration and orchestration of services using **Kubernetes** and **Docker**, optimizing resource utilization and enhancing deployment strategies for **9** applications within the healthcare and financial sectors.\n- Developed and maintained **infrastructure as code** using **Terraform**, improving deployment efficiency and reducing configuration drift for **10+** cloud resources.\n- Managed application logs and monitoring utilizing **Prometheus** and **Grafana**, enabling real-time system oversight and alerting for **99.9%** uptime across deployed services.\n- Implemented advanced networking solutions and managed **DNS** configurations for secure and efficient cloud operations on **AWS** and **Azure**, aligning with existing security protocols.\n- Automated infrastructure provisioning and application configuration management through **Ansible**, reducing manual deployment times by over **50%**.\n- Developed and enforced security practices aligning with **DevSecOps** principles, integrating static code analysis tools and vulnerability scanning to enhance overall system integrity.\n- Optimized relational and NoSQL database performance and configuration, utilizing **PostgreSQL**, **MySQL**, and **DynamoDB**, managing and querying data efficiently on a large scale, serving up to **1 million queries daily**.\n- Implemented detailed monitoring and logging solutions using the **ELK stack** (Elasticsearch, Logstash, Kibana), ensuring comprehensive visibility into application health and performance across all layers.\n- Collaborated with software engineers to integrate **API gateways** such as **Kong** and **Istio**, enhancing service mesh communications and routing capabilities for microservices architecture.\n- Established GitOps practices through **ArgoCD** and **Flux**, improving the deployment cycle speed and ensuring a more consistent release process.\n- Effectively documented workflows and architectural decisions, contributing to team knowledge sharing and optimizing onboarding processes for **5 new team members**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines using **GitLab CI**, **GitHub Actions**, and **AWS** tools to ensure seamless integration and delivery of application updates, achieving a deployment frequency of **10+ releases** per week.\nManaged container orchestration with **Kubernetes** and **Docker**, improving deployment efficiency and reliability by reducing downtime by **30%**.\nAutomated infrastructure provisioning and management using **Terraform**, enabling consistent environments across multiple cloud platforms (**AWS** and **Azure**).\nMonitored system performance with **Prometheus** and **Grafana**, optimizing resource utilization and response times by tracking up to **5 million metrics** daily.\nDeveloped security-driven practices under **DevSecOps**, implementing tools such as **OpenTelemetry** and **Vault** to enhance the security posture of the deployment pipelines.\nConfigured event-driven architecture with **Kafka**, ensuring high-throughput message processing for transactional systems, handling over **100,000 messages per second**.\nPerformed database management with **PostgreSQL** and **MySQL**, optimizing queries to improve retrieval times by **40%** for high-traffic applications.\nImplemented logging and monitoring solutions utilizing **ELK Stack**, enhancing incident response time and enabling proactive system maintenance by analyzing over **1 million logs** per day.\nLeveraged **Python** and **Bash scripting** to automate system maintenance tasks, reducing manual effort by **50%** and improving operational efficiency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented and maintained CI/CD pipelines using **GitLab CI** and **GitHub Actions**, promoting seamless deployment processes and ensuring rapid delivery of features and updates.\nManaged container orchestration and deployment strategies using **Kubernetes**, optimizing infrastructure management and scaling for cloud-based environments like **AWS** and **Azure**.\nConfigured and managed infrastructure as code with **Terraform**, ensuring consistency and reliability in the provisioning and management of cloud resources.\nUtilized monitoring tools such as **Prometheus** and **Grafana** to ensure system reliability and performance, achieving an uptime of **99.9%** across production services.\nDeveloped secure, efficient microservice APIs leveraging **API gateways** like **Kong** and **APIGEE**, enhancing service communication and implementing traffic management strategies.\nImplemented traffic observation and tracing using **OpenTelemetry**, improving service reliability and response times by **30%** through data-driven insights.\nDesigned and executed automated operational scripts in **Bash** and **Python**, increasing productivity and consistency across deployment processes by reducing manual intervention by **50%**.\nLeveraged **Docker** for containerization, shortening development cycles and enabling environment consistency, resulting in a **40%** reduction in deployment issues.\nCollaborated on DevSecOps initiatives, integrating security best practices into the development lifecycle, ensuring compliance with **ITIL** and improving incident response times.\nDeveloped and maintained configuration management with **Ansible**, facilitating automated deployments and configuration changes across environments, reducing setup time by **60%**.\nImplemented robust data security measures, including **RBAC** and **Vault**, ensuring secure storage and retrieval of sensitive information across applications, leading to GDPR compliance achievements."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Go, Ruby, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tAPI gateways, APIGEE, Kong, Istio\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda, Azure Functions\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, DynamoDB, Cassandra, Redshift\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, GitOps, ArgoCD, Flux\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Other:**\n\tMachine Learning, MLflow, Airflow, Kubeflow, Redis, Prometheus, Grafana, ELK, OpenTelemetry, networking, security, DNS, scripting, Linux, DevSecOps, ITIL, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Adfinis"
+}

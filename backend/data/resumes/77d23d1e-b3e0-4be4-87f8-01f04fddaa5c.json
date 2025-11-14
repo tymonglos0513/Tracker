@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Machine Learning Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Machine Learning Engineer with 10+ years of experience in developing high-performance software solutions, leveraging expertise in **Python** and advanced technologies such as **LLMs** and **Generative AI**. Demonstrated proficiency in application architecture, distributed computing, and building secure, maintainable microservices frameworks. Hands-on experience with **AWS** and **Public Cloud Certification**, focusing on cloud-native applications and deployment strategies. Skilled in **DevOps**, continuous integration with **Jenkins**, and version control using **GIT**, ensuring robust application security and compliance. Excels in agile methodologies such as **Scrum** and **Kanban** to lead efficient teams. Adept in using modern data storage solutions, including columnar and vector databases, to optimize machine learning workflows. Passionate about building technology solutions that drive real-world impact, combining a strong technical foundation with practical experience in MLOps, utilizing tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Machine Learning Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Leveraged **Python** for building and deploying machine learning models focused on LLMs and Generative AI, enhancing model performance for applications in healthcare and finance.\n• Architected and implemented application infrastructures with a focus on microservices, ensuring distributed computing capabilities that support large-scale data processing.\n• Employed advanced DevOps practices including continuous integration and delivery using **Git** and **Jenkins**, alongside automated testing strategies to ensure application security and reliability.\n• Designed and operated cloud-native solutions on **AWS** and other public cloud platforms, optimizing application performance and scalability in a regulated environment.\n• Integrated advanced search capabilities using **Elasticsearch** and **vector databases** to enhance data accessibility within healthcare records and financial documents.\n• Collaborated in an Agile environment, utilizing methodologies such as Scrum and Kanban to achieve project milestones effectively.\n• Developed robust data pipelines to implement applications benefiting from columnar databases, improving the efficiency of data storage and retrieval.\n• Designed and maintained scalable architectures using Docker and Kubernetes for seamless deployment and management in cloud environments.\n• Executed enterprise-level strategies for MLOps adopting best practices for continuous training and validation of ML models across various environments.\n• Enhanced applications security through rigorous implementation of security practices within the development lifecycle and administered deployment reviews to secure APIs."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Implemented robust **application architecture** and optimized **microservices** development by leveraging **Python** and **Node.js** (NestJS/Express), enhancing the scalability and maintainability of financial platforms to support **high-volume transaction systems**.\nDesigned and developed dynamic user-centric interfaces utilizing **React** (18) and **Next.js**, while ensuring responsive functionality with **Redux Toolkit** and **Tailwind CSS** for enhanced user experience in financial dashboards and admin portals.\nExecuted data engineering practices by building efficient ETL pipelines using **Apache Airflow** and **Azure Data Factory** for seamless ingestion of financial data, accommodating **batch** and **real-time** processing from both internal and third-party sources.\nDeveloped and deployed **AI/ML-powered fraud detection systems** with **scikit-learn** and **XGBoost** to analyze transaction patterns, successfully flagging suspicious activities and enhancing **application security** within banking systems.\nIntegrated advanced **DevOps practices** utilizing **GIT** and **Jenkins** to ensure continuous integration and deployment across all financial applications, promoting efficiency and reliability in development cycles.\nEstablished a robust event-driven architecture with **Kafka**, **RabbitMQ**, and **Azure Service Bus** to support asynchronous communication and real-time processing of transactions and alerts, crucial for compliance workflows.\nCreated ML pipelines for tasks such as credit scoring and churn prediction using **MLflow**, embedding model inference directly into backend services to facilitate **real-time decision-making**.\nEmploying **agile methodologies** including **Scrum** and **Kanban** to maintain high productivity and adaptability in project delivery, aligning with business goals and requirements."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Leveraged **Python** for developing and optimizing machine learning models and backend services, ensuring robust application architecture and high performance in handling large datasets.\nEmployed **DevOps** practices utilizing **Jenkins** and **GIT** for continuous integration and deployment, ensuring seamless updates and scalability in a cloud environment.\nUtilized **AWS** for deploying machine learning solutions on a reliable infrastructure, focusing on low-latency access and distributed computing capabilities.\nImplemented microservices architecture for enhanced application security and maintainability, ensuring separation of concerns across model training and inference modules.\nDeveloped applications with a focus on **Generative AI** capabilities, enhancing user interactions through large language models (**LLMs**) and real-time data processing.\nApplied agile methodologies, including **Scrum** and **Kanban**, to streamline project management and improve collaboration within cross-functional teams, significantly reducing delivery times by **30%**.\nConducted security assessments and integrated application security best practices to protect data, ensuring compliance with GDPR and industry standards.\nDesigned a robust system architecture leveraging **columnar databases** to optimize data retrieval and analysis speed, improving query performance by **40%**.\nImplemented strategic feature rollouts and application enhancements using **DevOps certifications** principles, resulting in more efficient workflows and reduced failure rates during deployment.\nEstablished collaboration frameworks for data scientists and engineers, promoting the adoption of machine learning features across cloud services and ensuring consistent data governance."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, columnar databases, vector databases\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose, continuous integration, DevOps Certifications\n\n**Cloud & Infrastructure:**\n\tPublic Cloud Certification\n\n**Other:**\n\tArtificial Intelligence & Machine Learning (MLflow, Airflow, Kubeflow), GIT, application architecture, distributed computing, application security, microservices, agile methodologies (Scrum, Kanban), Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot)"
+}

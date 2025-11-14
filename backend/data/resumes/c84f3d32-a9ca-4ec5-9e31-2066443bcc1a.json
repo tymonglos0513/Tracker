@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior SRE Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-oriented Senior SRE Engineer with over 10 years of experience in the financial sector and advanced expertise in **AWS**, **Python**, **Terraform**, **OpenTelemetry**, **Cloudwatch**, and **DataDog**. Proven ability to enhance system observability and automate infrastructure, ensuring high availability and performance of critical backend systems. Proficient in developing AI-driven solutions and implementing observability strategies. Successfully contributed to large-scale projects for industry leaders like VISA, Sii Poland, and Reply Polska, showcasing a blend of technical acumen and leadership in delivering robust cloud-native architectures.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SRE Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented robust observability solutions using **OpenTelemetry** and **DataDog** to monitor and optimize system performance.\nAutomated infrastructure provisioning and management with **Terraform**, enhancing deployment efficiency by **30%**.\nDeveloped backend services in **Python** to ensure scalable and high-performance applications aligned with SRE practices.\nStreamlined CI/CD pipelines for efficient release management, contributing to a **50%** reduction in deployment times.\nLeveraged **AWS** services to optimize cloud resource usage, resulting in a **20%** cost savings on cloud expenditures.\nIntegrated **Cloudwatch** for effective monitoring and alerting, proactively minimizing downtime and enhancing system reliability.\nEmployed AI-driven techniques to automate incident response, improving incident resolution time by **40%**.\nCollaborated with development teams to enforce automation best practices and integrate observability features into new services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Developed scalable and reliable backend systems using **Python** and **FastAPI** to enhance automation of document workflows and streamline user onboarding processes.\nImplemented robust observability strategies with **OpenTelemetry** and **DataDog**, improving monitoring and performance tracking of services by **40%**.\nAutomated infrastructure management using **Terraform**, ensuring consistent deployment of microservices on **AWS**, enhancing reliability by maintaining a **99.9% uptime**.\nEngineered data pipelines for secure regulatory data exchange, utilizing **Apache Airflow** and **AWS Lambda** for real-time data processing, achieving processing speeds of up to **500 records per second**.\nExecuted security audits and integrated advanced authentication protocols with **OAuth2** and **Azure AD B2C**, securing access controls and maintaining compliance with industry standards.\nCollaborated effectively with cross-functional teams, driving system integrations and managing successful releases that increased project delivery efficiency by **30%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **AWS** for deploying and managing backend services, ensuring scalability and reliability in trade execution and account tracking.\nDeveloped robust automation solutions in **Python** to enhance trading operations, leveraging frameworks such as **Flask** and **PostgreSQL** for efficient data management.\nImplemented observability protocols with **OpenTelemetry** and **CloudWatch**, achieving a **95% uptime** for critical trading applications by monitoring performance and resource utilization.\nStreamlined data processing with **Redis** for real-time price feeds, implementing resilient job scheduling with **Celery** and **RabbitMQ** to handle over **1,000** transactions per second.\nCollaborated with cross-functional teams to expose backend services via REST APIs and WebSocket channels, improving user interaction with a response time reduction of **30%**.\nEnsured compliance with regulatory standards including MiFID II and GDPR while maintaining internal security measures across all deployed services.\nEnhanced quality assurance procedures by introducing automated test suites using **PyTest** and **tox**, accelerating the release cycles by **40%** through efficient CI processes."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python\n\n **Backend Frameworks**\n\t FastAPI, Flask, Django, Celery, automation\n\n **Frontend Frameworks**\n\t \n\n **API Technologies**\n\t REST/gRPC APIs, observability\n\n **Serverless and Cloud Functions**\n\t AWS (EC2, S3, Lambda), Cloudwatch\n\n **Databases**\n\t PostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps**\n\t Docker, Kubernetes, GitHub Actions, Azure DevOps, Terraform, DataDog\n\n **Cloud & Infrastructure**\n\t AWS\n\n **Other**\n\t AI, AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Git, CI/CD, Kafka, PyTest",
+  "apply_company": "Robin AI"
+}

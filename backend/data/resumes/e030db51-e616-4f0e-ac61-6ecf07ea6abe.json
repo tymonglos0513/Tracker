@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Backend Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Backend Developer with 13+ years of experience in delivering high-performance applications, particularly within the healthcare and financial sectors. Expert in **Java**, **Kotlin**, **Spring Framework**, and proficient with **Postgresql** and **MySQL**. Demonstrated skills in building robust **microservices** architectures, utilizing **AWS** for cloud deployment, and applying best practices for **unit testing** and **integration testing**. Strong collaborative experience in **Scrum** environments.\nAdditionally, I have extensive knowledge in **Python** and have successfully worked on AI/ML technologies, enhancing platforms with predictive analytics and real-time processing. Proven track record in compliance-driven development, adhering to standards such as HIPAA and PCI DSS, along with experience in CI/CD methodologies.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Java** and **Kotlin** to develop backend services within a microservices architecture, ensuring high performance and scalability across applications.\nImplemented rapid application development using the **Spring Framework** to create robust APIs supporting various functionalities.\nDesigned and optimized database schemas in **PostgreSQL** and **MySQL** to enhance data integrity and retrieval efficiency, handling over **1 million** transactions daily.\nManaged source control with **Git**, facilitating collaborative coding practices and version control across multiple development teams.\nConducted unit testing and integration testing to ensure code quality and reliability, achieving a **95% code coverage** in all critical services.\nApplied **Gradle** for build automation to streamline deployment processes and maintain consistency across development environments.\nParticipated in an agile **Scrum** team, contributing to sprint planning and retrospectives to continuously improve development practices and team dynamics.\nDeveloped and deployed CI/CD pipelines for seamless integration and delivery, reducing release times by **30%** through automation.\nEngaged with cross-functional teams to design, implement, and test features, providing solutions that meet business objectives in a fast-paced environment."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Developed and maintained microservices using **Java** and **Kotlin** within the **Spring Framework**, ensuring modular architecture and efficient functionality.\n- Implemented robust integrations with **PostgreSQL** and **MySQL** databases, optimizing data access and storage techniques for enhanced performance in financial applications.\n- Leveraged **Git** for version control and collaboration, managing over **50** active repositories while employing **Gradle** for streamlined build automation.\n- Conducted unit testing and integration testing, achieving a code coverage of over **80%** to ensure high reliability and minimize defects in production systems.\n- Collaborated in an Agile environment, participating in **Scrum** meetings to discuss progress, roadblocks, and adapt project priorities effectively.\n- Executed migration strategies to transition legacy systems to cloud infrastructure using **AWS**, improving system scalability and disaster recovery processes.\n- Modernized core financial platforms by migrating to microservices architecture using **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, enhancing scalability and performance for high-volume transactional systems.\n- Developed interactive front-end applications with **React (18)**, **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels.\n- Delivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies.\n- Designed and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\n- Developed ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing.\n- Built and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\n- Created ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Java** and **Kotlin** to design and optimize backend services for a robust microservices architecture, ensuring high availability and scalability for e-commerce functionalities.\nImplemented the **Spring Framework** for building RESTful APIs that power checkout, cart, and order fulfillment systems, maintaining low latency across services.\nIntegrated **PostgreSQL** and **MySQL** for efficient data storage solutions, optimizing queries for high-traffic scenarios and improving read performance by implementing caching strategies.\nExecuted end-to-end unit and integration testing, ensuring code quality and reliability through test frameworks compatible with **Python** and other tech stacks.\nApplied **Git** for version control, managing code repositories and collaborating within an agile Scrum environment effectively.\nEmployed **AWS** cloud services for deployment and hosting, leveraging scalable resources to manage application demands across various modules.\nAdopted CI/CD practices using **Gradle**, enabling seamless integration and delivery of new features while maintaining system stability.\nTransformed legacy monoliths into microservices, enhancing maintainability and team collaboration while meeting strict performance metrics.\nParticipated in regular Scrum meetings, contributing to sprint planning, reviews, and retrospectives to continuously improve development processes."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Kotlin, Python, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tSpring Framework, FastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tOAuth2, JWT, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, Azure: App Services\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, Git, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS RDS, S3, Azure SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Gradle, microservices, unit testing, integration testing, Scrum, Nginx, Let’s Encrypt, Certbot"
+}

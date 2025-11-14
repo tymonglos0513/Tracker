@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior CloudNative Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior CloudNative Engineer with over 13 years of experience in developing high-performance, cloud-native applications. Proficient in implementing **microservices**, **containers**, and **Kubernetes** architecture, ensuring scalable and reliable solutions. Skilled in utilizing **Golang** for backend development, enhancing distributed systems performance and automating processes with **developer tools**. Experienced in aligning development practices with **cloud-native** concepts and open-source technologies, significantly boosting productivity and efficiency.\n\nPossesses strong expertise in **JavaScript/TypeScript**, **Python**, and **Flutter**, with hands-on experience in frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Adept in building AI/ML-powered platforms for predictive analytics and real-time processing. Proficient in deploying applications on **AWS** and **Azure**, alongside managing **CI/CD pipelines** for continuous integration and delivery.\n\nWell-versed in compliance-driven development, adhering to standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Strong background in **MLOps**, including model training and orchestration using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior CloudNative Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and built microservices architectures leveraging **Kubernetes** to ensure scalable and fault-tolerant deployments across **cloud-native** environments.\n- Implemented containerization strategies using **containers** to enhance the portability and manageability of applications, ensuring compliance with **CNCF** standards.\n- Developed and maintained distributed systems with **automation** tools, improving deployment efficiencies by over **30%**.\n- Collaborated with development teams to integrate **Golang** for backend services, optimizing performance in high-load scenarios handling up to **10,000** concurrent connections.\n- Led the transformation and modernization of legacy platforms into cloud-native solutions supporting key healthcare and fintech functionalities with significant uptime improvements of over **99.9%**.\n- Integrated open-source developer tools into CI/CD pipelines, reducing deployment times by **25%** while ensuring security and compliance across environments.\n- Enhanced data infrastructure management by utilizing **cloud-native** approaches with **containers** for streamlined operations, resulting in a dramatic increase in deployment frequency.\n- Conducted performance tuning and optimization of distributed systems, successfully handling a data load increase of **50%** without compromising service availability.\n- Championed best practices for developer tools and automation processes to support rapid development cycles and increase team productivity by **40%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Kubernetes** and **containers** to orchestrate microservices, enhancing cloud-native applications by improving scalability and deployment efficiency.\nEngineered distributed systems with **Golang**, focusing on automation to streamline development processes and improve productivity across teams.\nDesigned and implemented cloud-native solutions aligned with **CNCF** standards, promoting best practices in modern software architecture.\nDeployed developer tools for better integration and continuous deployment of applications, ensuring code quality and performance in high-traffic environments.\nImplemented an effective microservices architecture, leveraging **Node.js** (NestJS/Express) and **Python** (FastAPI, Django) to modernize financial platforms and enhance system performance under high-load conditions.\nBuilt interactive front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies.\nDesigned and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nDeveloped ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented **Kubernetes** for orchestrating containerized applications, ensuring high availability and scalable microservices architecture across the e-commerce platform.\nLeveraged **container** technology to create automation tools, streamlining deployments and reducing release cycle time by **30%** through continuous integration and continuous deployment (CI/CD) practices.\nEngineered a cloud-native architecture based on **Golang**, focusing on building resilient and efficient **microservices** that interacted seamlessly for key functionalities like checkout, cart, and order fulfillment, achieving a **40%** reduction in latency.\nEmployed **CNCF** standards to maintain infrastructural consistency and improve developer productivity through standardized workflows and tooling, enhancing team collaboration.\nOptimized distributed systems leveraging **cloud-native** principles to ensure fault tolerance and scale dynamically in response to user demand, handling peak loads with ease.\nDesigned and optimized backend services utilizing **Python** (FastAPI, Django) and **Node.js** (NestJS, Express), ensuring robust and maintainable codebases.\nIntegrated AI/ML solutions to boost search relevance and conversion rates, utilizing **scikit-learn**, **LightGBM**, and **TensorFlow**, improving personalized product experience and user engagement metrics by **25%**.\nEnhanced application performance by implementing **Redis** caching for optimizing access to product metadata and user sessions, resulting in a **50%** reduction in database read pressure.\nDeveloped responsive, SEO-friendly UIs using **Next.js**, **Vue 3 + Nuxt**, HTML5/CSS3, optimized for mobile-first design, adhering to accessibility standards (WCAG 2.1).\nSecured application interactions with payment processors like **Stripe**, **PayPal**, ensuring PCI compliance and contributing to a **15%** increase in successful transaction rates through robust security mechanisms."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tGolang, Python, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tOAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tcloud-native, CNCF, developer tools, automation, distributed systems, open-source\n\n **Other:**\n\tKeycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot, MLflow, Airflow, Kubeflow, microservices, containers",
+  "apply_company": "vCluster"
+}

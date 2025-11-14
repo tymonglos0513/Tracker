@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Java Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Skilled Senior Java Engineer with over 10 years of experience specializing in creating scalable, high-performing backend systems. Expertise in **Java**, **Spring Boot**, and **REST API** development, complemented by hands-on experience with **PostgreSQL**, **Docker**, **Kubernetes**, and **Apache Pulsar**. Proven ability to design and deliver efficient cloud-native architectures and automation tools, resulting in optimized performance and reliability. Successfully contributed to impactful projects at leading organizations such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered robust REST APIs using **Java** and **Spring Boot** to streamline document automation, user onboarding, and reporting workflows.\nDeveloped event-driven solutions leveraging **Apache Pulsar** for managing asynchronous processing of financial transaction requests.\nDeployed microservices using **Docker** and **Kubernetes** for enhanced scalability and reliability, ensuring operational efficiency.\nCreated and maintained data pipelines with **PostgreSQL** to ensure timely and accurate data flow for regulatory data exchange.\nLed security assessments and integrated OAuth2 and Azure AD B2C for secure, scalable authentication systems in compliance with industry standards.\nCollaborated with cross-functional teams to address system integration challenges, ensuring compliance, and overseeing release strategies with a focus on high-quality deliverables, achieving a **95%** on-time project completion rate."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed REST APIs and backend systems utilizing **Java** and **Spring Boot** to facilitate efficient document workflows, improving user onboarding processes by **30%**.\n• Leveraged **PostgreSQL** for robust data management, ensuring data integrity and reducing latency in transaction processing by **25%**.\n• Designed and implemented event-driven architectures with **Apache Pulsar** to enable seamless asynchronous data handling, enhancing overall system responsiveness.\n• Utilized **Docker** and **Kubernetes** for containerization and orchestration, improving deployment efficiency and consistency across different environments by **40%**.\n• Conducted security audits and implemented best practices for API authentication using OAuth2, ensuring compliance with governance standards and securing access controls.\n• Collaborated with cross-functional teams to drive successful release management and system integration, resulting in a **15%** decrease in deployment-related issues."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed robust REST APIs for backend services focused on trade execution and portfolio management, utilizing **Java** and **Spring Boot** to enhance trading operations.\nEngineered scalable data processing solutions with **Apache Pulsar**, ensuring real-time data streaming capabilities for high-frequency transactions.\nDesigned and maintained **PostgreSQL** databases to facilitate efficient account tracking and data integrity, achieving performance improvements by **30%** in query response times.\nCollaborated with cross-functional teams to integrate frontend platforms with backend services, ensuring seamless data flow and user engagement.\nImplemented containerization strategies utilizing **Docker** and orchestrated deployment with **Kubernetes** to streamline application management in production environments.\nEnsured adherence to regulatory requirements, including MiFID II and GDPR, by applying internal data security best practices and conducting regular audits.\nEstablished automated CI/CD pipelines using **JUnit** for testing, improving deployment frequency by **40%** and reducing lead time for changes significantly.\nIntroduced job scheduling and management through **Celery** and message queue systems like **RabbitMQ**, optimizing task execution across the platform."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tJava, Python (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tSpring Boot, FastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST API, REST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda)\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\tAzure\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Apache Pulsar, Kafka, PyTest, Git",
+  "apply_company": "BlueSoft"
+}

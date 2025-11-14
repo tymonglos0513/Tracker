@@ -1,0 +1,47 @@
+{
+  "name": "Andrzej Ito",
+  "role_name": "Senior SRE Engineer",
+  "email": "andrzej.ito@outlook.com",
+  "phone": "+48 732 126 371",
+  "address": "Rzeszów, Poland",
+  "linkedin": "https://www.linkedin.com/in/andrzej-ito-2872a4391/",
+  "profile_summary": "As a Senior SRE Engineer with over 9 years of experience, I specialize in cloud infrastructure management and automation, proficient in **GCP**, **GKE**, **Docker**, **Kubernetes**, and **Helm**. I excel in implementing CI/CD pipelines using **Bitbucket Pipelines**, **ArgoCD**, and **Terraform**, while ensuring high availability through **HPA** and **KEDA**. My expertise extends to programming in **Python**, **GoLang**, and **Java**, alongside strong command over **Linux** (Debian, Ubuntu) environments. I have a solid background in monitoring and observability with tools like **Prometheus**, **Grafana**, and **OpenTelemetry**, and data persistence using **PostgreSQL** and **Elasticsearch**. I have successfully led cross-functional teams, mentored junior engineers, and driven projects that enhance performance, user experience, and accessibility. My commitment to technical excellence is matched by my ability to deliver innovative software solutions that meet complex user needs.",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "category": "Computer Science",
+      "from_year": "2010",
+      "to_year": "2014",
+      "location": "Osaka, Japan",
+      "university": "Osaka University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SRE Engineer",
+      "company": "Allegro.pl",
+      "from_date": "08/2023",
+      "to_date": "",
+      "location": "Poznan, Poland",
+      "responsibilities": "• Lead the development of key services within **Java** cloud-based applications, focusing on **Microservices Architecture**, **REST API design**, and **CI/CD** practices to ensure efficient deployment across environments.\n• Designed and developed a **Hybrid Single Page Application** using **Java**, **Spring Boot**, **React 17**, and **Redux 4.2.1**, enhancing dynamic user interactions.\n• Implemented robust state management in React applications with **Redux**, while utilizing **React Router** and **Redux Thunk** for seamless navigation and asynchronous actions.\n• Developed user interfaces leveraging **React HOC**, **Flux**, and **Redux**, fostering a rich and engaging user experience in single-page applications.\n• Optimized front-end development with **Angular 14**, **HTML5**, **CSS**, and **Bootstrap**, resulting in user-friendly web pages that achieve a responsive design for **9** different device types.\n• Hands-on experience in **Core Java**, incorporating **Multithreading**, **Concurrency**, **File Handling I/O**, **Generics**, and data structures to enhance backend performance and reliability.\n• Collaborated on backend services using **Node.js** and **MongoDB**, managing dependencies through **npm** in a web server staging environment to ensure application consistency.\n• Leveraged **PostgreSQL** for RDBMS implementation and development, achieving performance improvements in data retrieval operations by **30%** over **MySQL**.\n• Automated Docker image deployment using **Jenkins** and **Ansible**, enabling continuous delivery to dev/FQT and production environments, significantly reducing rollout times by **40%**."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Paypay Corporation",
+      "from_date": "05/2017",
+      "to_date": "07/2023",
+      "location": "Tokyo, Japan",
+      "responsibilities": "- Developed infrastructure as code (IaC) using **Terraform** for automated deployment and scaling of applications on **GCP** and **GKE**.\n- Implemented CI/CD pipelines with **Bitbucket Pipelines** for streamlined code delivery and integration, reducing deployment time by **30%**.\n- Managed container orchestration using **Kubernetes** and **Docker**, achieving a **99.9%** availability rate for production services.\n- Utilized **Prometheus** and **Grafana** for monitoring system performance and application metrics, leading to a **25%** improvement in incident response time.\n- Developed custom monitoring dashboards with **Grafana** Mimir to visualize application health and performance metrics in real-time.\n- Streamlined logging using **Elasticsearch** and **Loki** for efficient log management and troubleshooting, enhancing issue resolution speed by **40%**.\n- Automated system health checks using **OpenTelemetry** and configured **Jaeger** for distributed tracing, identifying latency issues effectively.\n- Leveraged **Redis** for session management, providing faster access to stored data and reducing database load by **20%**.\n- Implemented API gateways and service mesh patterns with **Istio** to manage microservices traffic and improve security.\n- Designed and maintained high-availability setups with **Load Balancers**, ensuring continuous service during maintenance or unexpected faults.\n- Scripting and automation of repetitive tasks using **Python** and **Bash**, improving team efficiency by **15%**.\n- Managed configuration secrets securely with **SOPS** integrated with **Okta** for secure access control management."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Fujitsu Ltd",
+      "from_date": "06/2014",
+      "to_date": "04/2017",
+      "location": "Tokyo, Japan",
+      "responsibilities": "• Designed and implemented scalable cloud-native applications utilizing **GCP**, **GKE**, and container orchestration with **Kubernetes** to enhance system reliability and performance.\n• Developed and maintained CI/CD pipelines using **Bitbucket Pipelines** and **ArgoCD**, resulting in a 30% reduction in deployment time.\n• Employed infrastructure as code principles with **Terraform** to manage environment provisioning, improving consistency and speed of deployments by 25%.\n• Monitored application performance and logging through **Prometheus**, **Grafana**, and **OpenTelemetry**, achieving a 40% increase in system visibility and troubleshooting efficiency.\n• Created and optimized microservices in **GoLang** and **Java**, leveraging **Docker** for containerization and enhancing application portability.\n• Configured and utilized **Redis** and **PostgreSQL** for data storage solutions, improving data retrieval speeds by 50% through efficient caching strategies.\n• Implemented security measures using **Okta** for identity management and **SOPS** for managing sensitive data, enhancing overall system security posture.\n• Conducted performance tuning and troubleshooting of applications running on **Linux** systems (specifically **Debian** and **Ubuntu**), ensuring high availability and reliable operation.\n• Integrated various third-party tools such as **Kafka** for real-time data streaming and **Nginx** for efficient load balancing, ensuring optimal application responsiveness.\n• Applied best practices in logging and monitoring with **Grafana Tempo** and **Jaeger**, streamlining application debugging processes and reducing mean time to recovery (MTTR) by 20%."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tJava, C++, C#, Python, GoLang\n\n **Backend Frameworks**\n\tSpring, Spring Boot, Hibernate, Struts, JPA, Kotlin, Node.js\n\n **Frontend Frameworks**\n\tReact, Vue, Angular\n\n **API Technologies**\n\tREST APIs, SOAP, Microservices\n\n **Serverless and Cloud Functions**\n\tGCP, GKE, Docker, Kubernetes, Helm\n\n **Databases**\n\tSQL, PLSQL, MS SQL Server, Oracle, MongoDB, PostgreSQL, Redis, Elasticsearch\n\n **DevOps**\n\tLinux, Debian, Ubuntu, Prometheus, Grafana, Grafana Mimir, OpenTelemetry, Kafka, Nginx, CI/CD, Bitbucket, Terraform, SOPS, Okta, HPA, KEDA, Bitbucket Pipelines, ArgoCD, Jaeger, Grafana Tempo, Loki, Trivy, Istio\n\n **Cloud & Infrastructure**\n\tHTTP, DNS, SSH, TCP/IP, Firewall, Load Balancers, LAN, WAN\n\n **Other**\n\tSOLID, DRY, LINQ",
+  "apply_company": "ICEO Venture Builder"
+}

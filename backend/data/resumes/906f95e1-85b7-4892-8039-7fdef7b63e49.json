@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Data Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Data Engineer with 10+ years of experience in **data engineering**, specializing in constructing robust **data pipelines**, **ETL**, **data warehousing**, and **data lakehouse** solutions. Proficient in developing **real-time streaming** and **batch processing** systems, leveraging platforms like **Apache Spark** and **Kafka** to ensure effective data flow and quality. Skilled in deploying and managing cloud environments on **Google Cloud**, **AWS**, and **Microsoft Azure**, with comprehensive knowledge of **data governance** and **data lineage** practices to ensure compliance and integrity. \n\nExperienced in full stack development with a strong foundation in **JavaScript/TypeScript**, **Python**, and **Flutter**, utilizing frameworks including **React**, **Node.js**, **FastAPI**, and **Django** for application building. An advocate for CI/CD automation and microservices architecture, delivering high-performance software solutions in sectors like healthcare and finance. Committed to driving impactful solutions while emphasizing security and maintainability, backed by strong analytical skills and a passion for shaping intelligent systems.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tDesigned and implemented **data pipelines** for large-scale **data engineering** projects in healthcare and finance, ensuring data quality and governance, while adhering to compliance standards like HIPAA and GDPR.\n•\tBuilt and maintained **ETL** processes in **AWS** and **Google Cloud** using tools such as Apache Spark and Kafka, optimizing for performance and scalability in data warehousing solutions.\n•\tArchitected a **data lakehouse** architecture to facilitate batch processing and real-time streaming of diverse data sources, improving the accessibility and efficiency of data retrieval by **30%**.\n•\tLed the development of **real-time streaming** applications, utilizing **Kafka** for data ingestion and **AWS Lambda** for real-time processing, which enhanced operational insights and decision-making speed.\n•\tCollaborated with cross-functional teams to monitor data lineage and maintain data integrity through **data quality** frameworks, enabling reliable data operations and analytics.\n•\tEstablished robust **data governance** policies that led to an increase in compliance adherence rates by **25%**, ensuring secure and auditable data practices.\n•\tDeveloped and deployed scalable **data warehouses** and maintained **data pipelines** using **Azure** services, which supported analytical workloads and improved query performance by **40%**.\n•\tImplemented batch processing workflows leveraging **Apache Spark** to handle terabytes of data effectively, reinforcing the backbone of data-driven applications.\n•\tCreated comprehensive documentation for data models, ETL workflows, and governance processes, facilitating better collaboration across **data engineering** teams.\n•\tLeveraged cloud services across **AWS** and **Microsoft Azure** to integrate machine learning pipelines that support predictive analytics in health and financial contexts, significantly enhancing output accuracy."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented **ETL** pipelines for data ingestion and transformation leveraging **Apache Airflow** and **Azure Data Factory**, ensuring efficient **data processing** from both internal and third-party sources.\nConstructed a **data lakehouse** architecture using **Google Cloud** and **Microsoft Azure**, thus enhancing **data warehousing** capabilities for scalable storage and querying of large datasets, resulting in a **30% increase** in query performance.\nManaged real-time streaming and batch processing workflows by integrating **Kafka** for data ingestion and ensuring high data quality and governance across all data pipelines, achieving **95% data accuracy** in analytics outputs.\nEnhanced **data lineage** capabilities by implementing thorough tracking and documentation of data flow throughout the ecosystem, facilitating better compliance and audit processes.\nCollaborated with cross-functional teams to define and optimize **data governance** frameworks, establishing best practices for data usage and compliance in financial applications.\nIntegrated advanced analytics and reporting solutions into financial systems using tools such as **Power BI Embedded** and **Apache Spark**, resulting in improved decision-making driven by real-time insights.\nUtilized strong problem-solving skills to troubleshoot and optimize existing data workflows, thereby decreasing data retrieval times by **40%** and improving overall system performance."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Engineered and maintained ETL processes for data pipelines, ensuring data quality and governance across diverse sources, utilizing **Apache Spark** for large-scale data transformations.\nDesigned data lakehouse architectures in **Google Cloud** and **AWS**, optimizing data warehousing solutions to enhance analytics performance and scalability.\nImplemented real-time streaming solutions using **Kafka**, enabling efficient processing of high-velocity data streams and ensuring timely insights from transactional data.\nDeveloped batch processing jobs to ingest and process large datasets, supporting reporting and analytical workloads with a focus on data lineage and transparency.\nApplied data governance practices to ensure compliance and data integrity across workflows, leveraging best practices for data quality in collaboration with stakeholders.\nUtilized **Microsoft Azure** to deploy cloud-based solutions, streamlining data access and improving collaboration across teams with efficient cloud management.\nDesigned and optimized data pipeline workflows to facilitate real-time analytics, achieving processing latencies of less than **1 second** for key business metrics.\nMonitored and maintained the performance of data systems, achieving uptime metrics of **99.9%** through proactive maintenance and support.\nCollaborated with cross-functional teams to develop data insights, mapping user behaviors and improving data-driven decision-making through analytics.\nExecuted migration of legacy databases to cloud-based platforms, reducing storage costs by up to **30%** while enhancing data retrieval speeds."
+    }
+  ],
+  "skills": "****Programming Languages:****\n\tPython, JavaScript, TypeScript\n\n****Backend Frameworks:****\n\tFastAPI, Flask, Django\n\n****Frontend Frameworks:****\n\tReact, Vue, Angular\n\n****API Technologies:****\n\tJWT, OAuth2\n\n****Serverless and Cloud Functions:****\n\tAWS (Lambda), Azure\n\n****Databases:****\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n****DevOps:****\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm\n\n****Cloud & Infrastructure:****\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), Google Cloud\n\n****Other:****\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot, Apache Spark, Kafka, ETL, data engineering, data warehousing, data pipelines, data lakehouse, real-time streaming, batch processing, data quality, data governance, data lineage",
+  "apply_company": "Emerge"
+}

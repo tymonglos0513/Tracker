@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Backend Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As an accomplished Backend Engineer with 8 years of full-stack development experience, I excel in creating high-performance applications using **Node.js**, **TypeScript**, **Fastify**, and **PostgreSQL**. My technical expertise includes hands-on proficiency with **Zod**, **Redis**, and containerization tools like **Docker**, which I leverage to build robust backend systems. I have a strong background in implementing **CI/CD** automation and infrastructure management with **Terraform**. \nIn addition to my core backend skills, I bring experience in A/B testing, data manipulation with **Pandas**, and advanced analytics utilizing **Polars**. I have developed enterprise-grade platforms within the healthcare and financial sectors, ensuring compliance with critical standards such as HIPAA and PCI DSS. With a solid grasp of microservices architecture and event-driven systems, I am committed to delivering secure, scalable, and efficient applications.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained robust backend systems using **Node.js**, **TypeScript**, and **Fastify** to ensure high performance and scalability.\n- Implemented scalable database solutions with **PostgreSQL** and **Redis**, optimizing for data storage and retrieval efficiency in applications.\n- Designed and managed CI/CD pipelines leveraging **Docker** to automate deployment processes, enhance workflow efficiency, and ensure seamless integration across environments.\n- Automated infrastructure provisioning and management using **Terraform**, contributing to reliable and reproducible development environments.\n- Conducted **A/B testing** to evaluate feature performance and user engagement, driving informed decision-making for product improvements.\n- Utilized data analysis libraries such as **Polars** and **Pandas** for effective data manipulation, analysis, and insightful reporting.\n- Created and deployed microservices architecture, enabling modular development and improving maintainability of complex applications.\n- Optimized backend services for high availability and resilience, ensuring minimal downtime and robust performance during peak loads.\n- Collaborated with frontend teams to define clear API contracts, enhancing the integration process and overall user experience in applications.\n- Established testing strategies to ensure code quality and reliability, significantly reducing bugs and improving deployment confidence."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Node.js** with **Fastify** to develop and maintain robust backend services, ensuring high performance and scalability in financial applications.\nEmployed **TypeScript** to enhance code quality and maintainability, resulting in a **35%** reduction in runtime errors and improved developer experience.\nImplemented **PostgreSQL** as the primary database solution, optimizing query performance and ensuring data integrity for transaction data with a **20%** increase in read/write efficiency.\nLeveraged **Docker** for containerization of applications, facilitating easy deployment and isolation, which reduced deployment time by **50%**.\nEstablished CI/CD pipelines to automate testing and deployment processes, improving deployment frequency by **60%** and maintaining high code quality through continuous integration practices.\nApplied infrastructure as code principles using **Terraform** to manage cloud resources efficiently, enabling infrastructure scaling with less manual intervention.\nConducted A/B testing to evaluate feature performance and user engagement, leading to data-driven decisions that enhanced product functionality.\nUtilized **Redis** for caching frequently accessed data, reducing latency in data retrieval processes, thereby improving application response times by **40%**.\nAnalyzed large datasets using **Pandas** and **Polars** to derive insights related to user behavior, contributing to strategic improvements and feature development."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and optimized backend services leveraging **Node.js** and **TypeScript** (utilizing **Fastify** and **Zod**) for robust and scalable solutions in alignment with business requirements.\nUtilized **PostgreSQL** and **Redis** for efficient data storage and caching, ensuring data integrity and fast access times during peak traffic, handling up to **100,000** concurrent users.\nImplemented CI/CD pipelines using **Docker** to streamline deployment processes, achieving deployment frequency of **multiple times per day** while ensuring zero downtime.\nEngineered A/B testing strategies using **Terraform** for controlled experiments, enhancing user engagement and increasing conversion rates by up to **30%** through data-driven decision making.\nOptimized data manipulation and analysis with **Polars** and **Pandas**, leading to a **50% reduction** in data processing time and enhancing information retrieval speeds.\nCollaborated with cross-functional teams to define, design, and deliver innovative solutions that leverage data-driven insights and messaging systems, contributing to a **30%** improvement in system performance.\nDemonstrated adherence to Agile methodologies and best practices, achieving project milestones consistently within budget and ahead of deadlines.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js, Fastify\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tZod\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, A/B testing, Polars, Pandas, Kysely"
+}

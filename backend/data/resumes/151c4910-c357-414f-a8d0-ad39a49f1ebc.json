@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Platform Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Platform Engineer with 8 years of extensive experience in deploying and managing cloud-based infrastructures using **AWS**, **Azure**, and **Google Cloud**. Proficient in implementing **Kubernetes**, **Docker**, and **Terraform** for container orchestration and infrastructure as code, enhancing deployment efficiency and system resilience. Expertise in CI/CD practices utilizing **Jenkins**, **ArgoCD**, and GitOps methodologies to streamline software delivery and automation processes.\n\nExperienced in monitoring applications and ensuring system performance with tools like **Grafana**, **Prometheus**, **Loki**, **Mimir**, **ElasticSearch**, and **Kibana**. Strong background in Agile and Kanban methodologies to foster team collaboration and improve project delivery timelines. Bringing a solid foundation in networking, including DNS and VPN configurations, ensuring secure and efficient communications.\n\nAs a Full Stack Developer, I have a proven track record of building high-performance solutions in the healthcare and financial sectors using modern **JavaScript**/**TypeScript**, **Python**, and **Flutter** technologies. I have led the development of enterprise-grade platforms integrating AI and ML capabilities for predictive analytics and real-time data processing, alongside experience in compliance standards like HIPAA, FHIR, PCI DSS, and SOC 2.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Platform Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Kubernetes** and **Docker** to architect and manage scalable, cloud-native infrastructures for healthcare and financial platforms, ensuring high availability and fault tolerance in multi-cloud environments including **AWS**, **Azure**, and **Google Cloud**.\nImplemented **CI/CD** pipelines using **Jenkins** and **GitOps** tools, enhancing software deployment processes with automated testing, security scans, and multi-environment support.\nEmployed **Terraform** for Infrastructure as Code (IaC), allowing for consistent and repeatable deployment configurations across different environments.\nDeveloped and deployed microservices-based applications, leveraging **Helm** for application management within **Kubernetes** orchestrated environments, streamlining application lifecycles with versioned releases.\nIntegrated **Grafana**, **Prometheus**, and **Loki** for consolidated monitoring and logging solutions, ensuring real-time insights into application performance and operational metrics.\nLed cross-functional teams following **Agile** methodologies to deliver responsive solutions that meet healthcare and financial regulatory standards, including compliance with HIPAA and PCI DSS.\nManaged cloud deployment strategies and networking configurations, including **DNS** and **VPN** setups, to ensure secure and reliable access to services.\nEnhanced application performance through automation strategies and DevOps practices, utilizing tools like **ArgoCD** for continuous delivery workflows that support operational efficiency.\nDesigned and maintained extensive logging and monitoring systems integrated with **ElasticSearch** and **Kibana**, providing detailed analytics across application services and user interactions.\nCollaborated with teams to continuously improve existing systems through Agile Kanban practices, driving efficiencies and reducing bottlenecks in the development cycle."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented **Infrastructure as Code** solutions utilizing **Terraform** for automated provisioning and management of cloud resources in **AWS**, **Azure**, and **Google Cloud**, achieving a deployment time reduction of **40%**.\nLed containerization of applications with **Docker** and orchestration using **Kubernetes**, improving application reliability and scalability in production environments, managing over **50** microservices efficiently.\nDeveloped CI/CD pipelines with **Jenkins** and **ArgoCD**, ensuring streamlined deployments and enhancing code delivery speed by **30%** through automated build and test processes.\nMonitored system health and performance metrics using **Grafana**, **Prometheus**, and **Loki**, enabling proactive incident response and system optimization across **200+** services.\nImplemented logging and observability strategies with **ElasticSearch** and **Kibana**, providing comprehensive insight into application performance for teams.\nExecuted Agile methodologies, including **Kanban** framework for project management, leading cross-functional teams to deliver high-quality software under tight deadlines, resulting in a **25%** reduction in cycle time.\nEstablished networking protocols including **DNS** and **VPN** solutions to ensure secure and reliable communication across all deployed environments, safeguarding sensitive financial data.\nAutomated routine tasks and processes, enhancing operational efficiency and reducing manual effort by **50%**, promoting a culture of continuous improvement within the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented and managed **Kubernetes** for container orchestration, ensuring streamlined deployment and scaling of services for a high-availability e-commerce platform across **AWS**, **Azure**, and **Google Cloud** environments.\nUtilized **Docker** for packaging applications, establishing consistent development, testing, and production environments that adhere to CI/CD best practices.\nAutomated infrastructure provisioning and management using **Terraform**, achieving faster deployment cycles and reducing manual errors across platforms.\nEmployed **Helm** for managing Kubernetes applications, simplifying deployment through templated configurations and enhancing version control.\nDeveloped and monitored CI/CD pipelines using **Jenkins** and **ArgoCD**, facilitating continuous integration and deployment across 15+ microservices while maintaining system reliability.\nUtilized **Grafana**, **Prometheus**, and **ElasticSearch** for system monitoring and performance tuning, improving application uptime to 99.9% by implementing proactive monitoring strategies.\nDesigned and implemented robust logging solutions with **Loki** and **Kibana**, streamlining operational insights and optimization efforts by correlating log data with system performance metrics.\nLed process improvements through **Agile** methodologies and **Kanban**, resulting in a 20% increase in team productivity and faster turnaround times for project deliverables.\nConfigured and managed networking components like **DNS** and VPN systems to ensure secure and reliable connectivity between distributed services.\nEstablished role-based access control (RBAC) and implemented security best practices to protect sensitive user data while ensuring seamless integration across 10+ APIs and microservices."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython (FastAPI, Flask, Django), JavaScript/TypeScript (React, Vue, Angular)\n\n**Backend Frameworks:**\n\t\n\n**Frontend Frameworks:**\n\t\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Google Cloud\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Helm, Jenkins, ArgoCD, GitOps, CI/CD, Automation\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, Google Cloud, Terraform, Ansible, Infrastructure as Code, Grafana, Prometheus, Loki, Mimir, ElasticSearch, Kibana, Networking, DNS, VPN\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Agile, Kanban",
+  "apply_company": "HiveMQ"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior MLOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior MLOps Engineer with 13+ years of experience specializing in **Python**, **MLOps**, and **Data Engineering**. Proficient in developing robust **Docker** and **Kubernetes** solutions for scalable machine learning operation workflows. Expertise in pipeline orchestration utilizing **Airflow** and **Dagster** to enhance data processing efficiency and reliability. Strong foundation in **Distributed Computing**, applying advanced **Data Structures** and **Algorithms** to optimize system performance.\nDemonstrated ability to build AI/ML-powered platforms that leverage predictive analytics, automation, and real-time data processing. Versatile in utilizing technologies such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django** for full stack development across diverse applications in the healthcare and financial sectors. Proven track record in deploying cloud-native systems on **AWS** and **Azure**, along with a solid understanding of CI/CD pipelines and microservices architecture. Committed to compliance-driven development, aligning solutions with industry standards such as HIPAA and PCI DSS while fostering strong **Team Collaboration**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior MLOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Leveraged **Python** and **MLOps** principles to design and implement workflows for model training, validation, and deployment pipelines using **Airflow** and **Dagster**.\n• Developed and maintained scalable data engineering practices, employing **Docker** and **Kubernetes** to orchestrate distributed computing environments.\n• Spearheaded the integration of data structures and algorithms into machine learning models to optimize processing and enhance performance metrics by **30%**.\n• Collaborated with cross-functional teams to ensure seamless deployment of ML models, facilitating team collaboration and knowledge sharing throughout the development lifecycle.\n• Constructed CI/CD pipelines to streamline project workflows, enhancing automation and reducing deployment times by **40%**.\n• Enforced best practices for code quality and testing using tools like **PyTest** and end-to-end testing frameworks, ensuring reliability and maintainability of the codebase.\n• Executed projects using advanced data engineering approaches, handling large datasets efficiently to support real-time analytics and machine learning functionalities.\n• Championed the migration of legacy applications to modern architectures, improving application scalability and fault tolerance through containerization.\n• Guided the implementation of constituent tools and technologies aligned with the tech stack, driving operational efficiency and innovative solutions within the team.\n• Provided mentorship and leadership to junior engineers in the adoption of best practices for **Distributed Computing** and **Data Engineering** methodologies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nDesigned and implemented scalable data workflows using **Apache Airflow** and **Azure Data Factory** for ingesting financial data, supporting both batch (up to **50M records**) and real-time processing.\nModernized core financial platforms by migrating to microservices architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\nUtilized containerization with **Docker** and orchestration with **Kubernetes** to deploy and manage applications, ensuring smooth and scalable deployments across environments.\nExecuted real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, delivering insights into transactions for operations teams with **instant response times under 1 second**.\nEngineered event-driven architecture utilizing **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring efficient communication across workflows such as payments and alerts while supporting up to **100 concurrent connections**.\nCollaborated effectively with cross-functional teams, demonstrating strong teamwork and communication skills in a fast-paced environment."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized data pipelines for machine learning workflows using **Python** and **Docker**, ensuring seamless integration and deployment across different stages of the MLOps lifecycle.\nEngineered scalable data processing solutions utilizing **Kubernetes** for orchestration of containerized applications, optimizing resource allocation and enhancing system reliability.\nDeveloped and managed CI/CD pipelines employing **Airflow** and **Dagster** for efficient workflow management, ensuring timely execution of ML model training and deployment processes.\nImplemented robust machine learning models leveraging data engineering frameworks, ensuring high-performance data handling and effective application of algorithms and data structures.\nCollaborated with cross-functional teams to facilitate team collaboration and streamline MLOps processes, improving project deliverables by **30%**.\nApplied distributed computing techniques to process and analyze large datasets, providing insights that enhanced model accuracy by **15%**.\nManaged secure and compliant data handling practices, ensuring adherence to GDPR regulations while implementing effective role-based access control (RBAC).\nMonitored system performance metrics, achieving an uptime of **99.9%** across deployed applications, significantly reducing downtime and improving user experience.\nFostering a culture of innovation, participated in knowledge-sharing sessions on best practices in MLOps and data engineering, mentoring junior engineers on **Python** development and ML concepts."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript\n\tReact\n\tVue\n\tAngular\n\n **API Technologies:**\n\tKeycloak (OIDC, RBAC)\n\tOAuth2\n\tJWT\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Databases:**\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\n **DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n **Other:**\n\tMLOps\n\tData Engineering\n\tPipeline Orchestrators\n\tDagster\n\tAirflow\n\tDistributed Computing\n\tMachine Learning\n\tData Structures\n\tAlgorithms\n\tTeam Collaboration",
+  "apply_company": "Fetcherr"
+}

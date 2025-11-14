@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Engineer with 8 years of experience, I possess a strong foundation in **C#**, **Java**, and cloud platforms including **AWS**, **GCP**, and **Azure**. My proficiency in **microservices** architecture and event-driven systems is complemented by hands-on experience with ** CI/CD** pipelines, ensuring robust software delivery through best practices such as **TDD**, and principles like **SOLID** and **DRY**. I thrive in **Agile** environments, utilizing methodologies like **Kanban** to enhance team collaboration and project efficiency.\n\nI have a proven track record in leading full-stack development projects, utilizing **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django** while delivering high-performance solutions across healthcare and financial sectors. My experience also includes the integration of AI/ML capabilities for predictive analytics and real-time data processing. I am well-versed in developing machine learning pipelines and MLOps workflows, utilizing tools such as **MLflow**, **Airflow**, and **Kubeflow**. Strong communication and leadership skills enable me to guide teams in creating secure applications compliant with standards like HIPAA, FHIR, PCI DSS, and SOC 2.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed microservices architectures using **C#**, ensuring alignment with **Agile** methodologies and best practices such as **SOLID** and **DRY** principles, while leading cross-functional teams.\n- Delivered robust CI/CD pipelines leveraging **AWS** and **Azure** services, ensuring automated testing and deployment workflows to enhance software quality and delivery speed.\n- Spearheaded the implementation of event-driven architecture using **Kafka** to facilitate seamless communication between services, enhancing the scalability and resilience of applications.\n- Engaged in TDD practices to maintain code quality using modern tools and frameworks, leading to a **30% reduction** in production bugs.\n- Collaborated closely with team members using **Kanban** for streamlined project management, improving communication and project throughput.\n- Architected and maintained cloud environments on **GCP** and **AWS**, optimizing application performance and cost management strategies, contributing to a **25% decrease** in operational costs.\n- Led efforts to integrate AI/ML features into products to enhance user engagement and satisfaction, utilizing tools and libraries that align with the latest technological advancements.\n- Managed cross-platform mobile application development using **C#** and modern frameworks, ensuring a consistent user experience across both iOS and Android environments.\n- Established and monitored metrics for application performance and reliability, facilitating the proactive identification and resolution of potential issues.\n- Mentored junior engineers on best coding practices and system architecture concepts, fostering an environment of continuous learning and improvement.\n- Executed clear and concise documentation of system architectures and processes to ensure knowledge transfer and alignment among stakeholders."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **C#**, **Java**, and **Azure** to lead the development and modernization of financial platforms, implementing a microservices-based architecture that enhanced scalability, maintainability, and throughput for systems processing **9+ million** transactions daily.\nApplied **Agile** methodologies to drive collaboration and ensure timely project delivery, improving team productivity by **30%** through effective **communication** and **leadership** skills.\nEngaged in **TDD** practices to enhance software quality and reduce bugs by **25%**, ensuring that all code adhered to **SOLID** and **DRY** principles during development.\nDesigned and developed robust event-driven systems, integrating **Kafka** for asynchronous communication and real-time event processing, which increased system responsiveness by **40%**.\nCreated scalable ETL pipelines utilizing **Python**, **Apache Airflow**, and **Azure Data Factory**, achieving batch and real-time data ingestion from varied sources, processing **2TB** of financial data weekly.\nImplemented fraud detection systems powered by **AI/ML** techniques like **scikit-learn** and **XGBoost**, improving anomaly detection rates by **20%** in transaction patterns and user behaviors.\nCollaborated using **CI/CD** practices to streamline deployments and reduce time to production, facilitating faster iteration cycles and effective version control.\nParticipated in code reviews and mentorship sessions, fostering a culture of continuous improvement among team members and ensuring adherence to best practices in software development."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Collaborated in an **Agile** team to design and implement **microservices** architecture using **C#** and **Java**, ensuring seamless integration and scalability across the platform.\n• Leveraged **AWS**, **GCP**, and **Azure** for cloud infrastructure management, resulting in a **30%** reduction in deployment times and increased system reliability.\n• Developed and maintained CI/CD pipelines to automate deployment processes, achieving **99.9%** uptime and improving code delivery efficiency.\n• Utilized **Kafka** for real-time data streaming and messaging, enabling enhanced communication between services, with a focus on scalability and fault tolerance in service interactions.\n• Applied **TDD** principles in feature development to maintain high code quality and reduce bug rates by **40%** in production-ready releases.\n• Championed SOLID and DRY principles to create maintainable, efficient codebases, enhancing collaboration within the team and streamlining code reviews.\n• Provided leadership and mentorship to junior engineers, fostering a culture of continuous improvement and knowledge sharing within the team.\n• Effectively communicated technical concepts and participated in code reviews to enhance team collaboration and adherence to best practices, while maintaining a focus on project deadlines.\n• Implemented a Kanban workflow to optimize task management and streamline project execution, resulting in a **25%** improvement in delivery timelines."
+    }
+  ],
+  "skills": "Programming Languages:\n\tC#, Java, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, microservices, SOA\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKafka\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, GCP\n\n**Other:**\n\tMachine Learning (MLflow, Airflow, Kubeflow), Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), TDD, Agile, SOLID, DRY, Kanban, communication, leadership",
+  "apply_company": "The Difference Engine"
+}

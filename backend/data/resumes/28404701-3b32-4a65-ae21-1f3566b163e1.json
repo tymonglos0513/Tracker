@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Full Stack Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Full Stack Engineer with 10+ years of experience specializing in **Node.js**, **Python**, and **React**. Proven expertise in API development and database design, with a strong focus on CI/CD practices. Demonstrated ability to optimize performance and implement security best practices while ensuring reliability improvements in high-performance software solutions. Skilled in mentoring team members and fostering collaborative teamwork to achieve project goals. Proficient in modern frameworks and libraries including **FastAPI**, **Django**, and **Flutter**, with hands-on experience delivering cloud-native applications on **Azure** and **AWS**. Strong background in building enterprise platforms that integrate AI/ML capabilities for enhanced analytics and automation. Passionate about developing secure and maintainable solutions that comply with critical standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable, full-stack solutions using **Node.js**, **Python** (FastAPI), and **React** (17–18), ensuring high performance and security best practices while adhering to regulatory standards like HIPAA, FHIR, GDPR, PCI DSS, and SOX.\n• Developed APIs for cross-platform mobile apps built with **Flutter** and **React Native**, achieving smooth user experiences on both iOS and Android; integrated native modules and managed state using Provider and Redux.\n• Led the re-architecture of monolithic applications into microservices-based ecosystems utilizing **Docker** and **Kubernetes** (AKS/EKS), enhancing reliability improvements and enabling high availability.\n• Designed and maintained cloud-native data architecture with **PostgreSQL**, **MongoDB**, **Redis**, and **GraphQL**, optimizing for large-scale data ingestion and performance across **2 million** healthcare and financial records.\n• Developed and deployed machine learning models with **Python** (scikit-learn, PyTorch, TensorFlow) for applications such as patient risk prediction, integrating them into the backend for real-time inference.\n• Established MLOps pipelines using **MLflow**, **DVC**, and **Apache Airflow** to ensure continuous validation and deployment of models across **3 environments**: development, staging, and production.\n• Integrated AI-based features into client-facing applications utilizing APIs hosted on **Azure ML** and **AWS Sagemaker**, delivering personalized recommendations and predictive alerts, impacting over **50,000** users.\n• Implemented enterprise-level CI/CD pipelines with **GitHub Actions**, **Azure DevOps**, and **CircleCI**, covering security scans and multi-environment deployments for both web and API services, reducing deployment times by **40%**.\n• Developed complex data visualization tools using **D3.js**, **Chart.js**, and **Power BI Embedded**, providing real-time insights into financial transaction trends and improving operational KPIs by **30%**.\n• Collaborated with data scientists to embed NLP models using **spaCy** and **Hugging Face Transformers** into core services, enhancing document parsing capabilities for healthcare and finance.\n• Established robust test strategies with **Jest**, **Cypress**, **PyTest**, and **Postman**, ensuring comprehensive unit, integration, E2E, and contract testing across both frontend and backend services.  \n• Integrated **Azure Cognitive Search** and **ElasticSearch** to enhance search functionality across a dataset of millions, improving retrieval speed and relevance for users."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Node.js** (NestJS/Express) and **Python** (FastAPI, Django) for **API development**, modernizing financial platforms through a microservices-based architecture, resulting in enhanced scalability and maintainability for systems handling up to **1 million transactions** per day.\nUtilized **React** (18), alongside **TypeScript** and **Next.js**, to build dynamic front-end applications, applying **Redux Toolkit** and **Tailwind CSS** for creating responsive interfaces that decreased load times by **30%** for financial dashboards and admin portals.\nDesigned and implemented real-time transaction monitoring dashboards using **React**, **D3.js**, and **Power BI Embedded**, enabling operations teams to generate actionable insights from financial activity data, significantly improving detection of anomalies by **40%**.\nEstablished a robust event-driven architecture with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, enhancing communication and processing efficiency in transaction workflows, and supporting **real-time events** for alerts and compliance with security best practices.\nOrchestrated ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, optimizing the batch and real-time ingestion of financial data from both internal and third-party sources, improving data retrieval speed by **25%**.\nIntegrated AI/ML techniques utilizing **scikit-learn**, **XGBoost**, and **Azure Machine Learning** for developing fraud detection systems, analyzing transaction patterns to proactively flag suspicious activities, reducing fraud incidents by **15%**. \nCreated and deployed ML pipelines for credit scoring and transaction classification using **MLflow** and **Airflow**, ensuring seamless integration of model inference directly into backend services for quicker decision-making and improved accuracy.\nMentored junior developers while promoting **collaborative teamwork** and continuous training, enhancing team performance and fostering a culture of knowledge sharing across the tech stack."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized robust backend services utilizing **Node.js** (NestJS, Express) and **Python** (FastAPI, Django) to enhance API development and ensure high performance across the platform.\n• Championed performance optimization techniques, implementing **WebSockets**, **Kafka**, and **RabbitMQ** for real-time order updates and dynamic features, achieving a **75%** reduction in response time for key services.\n• Constructed dynamic frontend systems employing **React** (version 18) and integrated best practices for **API development**, ensuring seamless user interactions and robust data handling.\n• Designed and implemented efficient **database** architectures using **MongoDB**, **PostgreSQL**, and **Redis**, scaling storage solutions to manage over **1 million** transactions per day while maintaining low latency.\n• Spearheaded CI/CD pipelines to facilitate reliable software deployments, increasing the team’s delivery capacity by **40%** and minimizing downtime during updates.\n• Mentored junior developers in **Node.js** and **Python**, promoting best practices in coding and facilitating collaborative teamwork to enhance project outcomes.\n• Prioritized security best practices by integrating **OAuth 2.0** and conducting regular audits to ensure compliance with GDPR standards, safeguarding sensitive customer data.\n• Optimized application reliability through proactive performance monitoring, achieving a **99.9%** uptime for critical services and reducing incident resolution times.\n• Engaged in collaborative teamwork with cross-functional teams to refine processes and improve product reliability, contributing to overall project success and team cohesion.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Node.js, Go\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI development\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Database design\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Mentoring, Collaborative teamwork, Performance optimization, Security best practices, Reliability improvements"
+}

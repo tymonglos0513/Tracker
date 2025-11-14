@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior AI Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As an accomplished Senior AI Engineer with 8 years of experience, I specialize in leveraging **Python**, **AWS**, **GCP**, **TensorFlow**, and **PyTorch** to develop high-performance AI solutions. My adeptness in **MLOps**, including **Airflow** and **Kafka**, aligns with the demands for implementing robust machine learning pipelines and ensuring model monitoring and drift detection. I possess strong experience in **CI/CD** practices and ETL/ELT processes, facilitating seamless deployment and integration within complex environments.\nAdditionally, I have a proven track record of building enterprise-grade applications that integrate AI/ML capabilities for real-time data processing and predictive analytics. My skills extend to collaborating across teams, fostering mentorship, and maintaining compliance with industry standards like HIPAA and PCI DSS. I thrive in event-driven systems and possess hands-on experience with tools such as **LangChain**, **Temporal**, and **dbt**, ensuring innovative solutions that meet client needs.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Led the implementation of **MLOps** strategies utilizing **AWS**, **GCP**, and **Airflow** for continuous training, validation, and deployment of AI models in production environments.\nArchitected and developed machine learning models using **Python**, **TensorFlow**, **PyTorch**, and **LangChain** for applications such as patient risk prediction and financial fraud detection, achieving a **95%** accuracy rate in predictive analytics.\nIntegrated **drift detection** and **model monitoring** within existing frameworks, enhancing model reliability and responsiveness over **6 months** across multiple platforms.\nDesigned and deployed automated **CI/CD** pipelines utilizing **GitHub Actions** and **CircleCI**, leading to a **40%** increase in deployment efficiency for both web and API services.\nCollaborated with cross-functional teams to deliver **ETL/ELT** processes for large-scale data ingestion and processing, ensuring seamless integration with existing data architectures.\nFacilitated mentorship sessions focused on **communication** and **collaboration** skills, improving team synergy by **30%** as measured by project efficiency.\nDelivered real-time insights into financial data visualization using **Kafka** and extensive database solutions, successfully reducing analysis time from **days** to **hours**.\nEstablished robust testing frameworks utilizing **dbt** and advanced techniques in **drift detection**, ensuring all models are performance-optimized and aligned with business objectives.\nStreamlined workflows and data pipelines, resulting in enhanced organizational efficiency and significant time-savings on redundant tasks."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Airflow** to develop and maintain ETL pipelines, enhancing data ingestion efficiency by **40%** for financial datasets from diverse sources, ensuring seamless integration across systems.\nEmployed machine learning frameworks such as **TensorFlow**, **PyTorch**, and **scikit-learn** to develop AI/ML-powered models for fraud detection, achieving a **90%** accuracy rate in identifying suspicious transactions, which significantly reduced false positives.\nImplemented robust communication and collaboration practices within cross-functional teams, resulting in a **25%** increase in project delivery speed and enhanced stakeholder engagement.\nDesigned and executed machine learning operations (MLOps) strategies, focusing on **drift detection** and **model monitoring**, ensuring continuous performance improvement for deployed models in production environments.\nMentored junior data engineers and software developers in best practices for building scalable machine learning models and data architecture, fostering a collaborative learning environment that emphasized growth and innovation.\nLeveraged **Kafka** for real-time data processing, establishing an event-driven architecture that facilitated real-time analytics and compliance workflows, leading to significant operational improvements.\nDeveloped production-grade machine learning pipelines for credit scoring and transaction classification, integrating seamlessly with backend services for timely and data-driven decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Leveraged **Python** and **TensorFlow** to design and optimize machine learning workflows for AI-driven applications, ensuring high performance and scalability across model training and deployment processes.\nUtilized **AWS** and **GCP** cloud services to manage and deploy AI models, achieving a 50% reduction in deployment time through effective CI/CD pipelines.\nImplemented **MLOps** practices alongside **Airflow** for orchestrating data workflows, achieving **30%** faster data processing times and streamlined ETL/ELT operations for training datasets.\nIntegrated **Kafka** for real-time data streaming, enabling timely model retraining and updates based on live user interactions, thus enhancing the model's adaptability.\nApplied **PyTorch** for building and validating deep learning models, including implementing drift detection mechanisms that improved accuracy by **15%** over historical benchmarks.\nCollaborated in cross-functional teams to develop robust AI solutions, fostering effective communication and knowledge sharing to enhance team productivity and project success.\nMentored junior data scientists and engineers in best practices for AI/ML development, contributing to the team's continuous learning and skill advancement.\nMonitored model performance using established metrics and dashboards, maintaining constant vigilance over model effectiveness and ensuring alignment with user needs and compliance standards.\nAdvanced model monitoring practices using **Temporal** to automate workflow execution and enhance efficiency in model lifecycle management.\nUtilized **LangChain** for building and deploying language models, enabling innovative NLP solutions that cater to user-specific interactions and behaviors."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), GCP\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS, Azure (App Services, Blob, SQL)\n\n **Other:**\n\tTensorFlow, PyTorch, LangChain, MLOps, LLMOps, Airflow, Temporal, dbt, Kafka, ETL, ELT, drift detection, model monitoring, communication, collaboration, mentorship",
+  "apply_company": "aPriori Technologies"
+}

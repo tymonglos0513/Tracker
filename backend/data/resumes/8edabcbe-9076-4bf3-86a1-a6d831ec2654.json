@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Data Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Data Engineer with 10+ years of experience in Data Engineering, Data Warehousing, and ETL/ELT processes. Proficient in **Python** and experienced in utilizing **dbt**, **Snowflake**, and **Databricks** for effective data modeling and pipeline development. Strong background in cloud services with expertise in **AWS** and infrastructure automation using **Terraform** and **CloudFormation**. Proven history of delivering high-impact projects in fast-paced environments, leveraging knowledge in Customer Data Platforms to drive data-driven decision-making. Previous roles include significant contributions to financial platforms, AI/ML pipelines, and developing high-performing backend systems.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Architected and engineered data pipelines leveraging **Python** and **dbt** to enhance **Data Engineering** processes and ensure efficient ETL and ELT workflows.\nDesigned and developed scalable **Data Warehousing** solutions using **Snowflake** for robust data storage and retrieval, processing **10TB** of data monthly.\nImplemented data modeling techniques to optimize data schemas and improve query performance by **25%**, ensuring data integrity and accuracy.\nAutomated data workflows using **Apache Airflow** and **Terraform**, adhering to best practices in **Infrastructure as Code**, with deployment times reduced by **30%**.\nUtilized **Azure** and **AWS** services to build reliable cloud solutions, facilitating the seamless integration of **Customer Data Platforms**.\nCollaborated with stakeholders to address data quality issues and implement comprehensive monitoring strategies, decreasing data discrepancies by **40%**.\nLed the adoption of agile methodologies within cross-functional teams, which improved delivery times and enhanced team communication."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **dbt** for developing robust ETL and ELT processes, ensuring efficient data processing and analytics across projects.\nDesigned and implemented data models on **Snowflake** to optimize storage and retrieval, enhancing data accessibility by **30%**.\nEngaged in data warehousing strategies using **Databricks**, significantly improving data transformation cycles by **25%**.\nAutomated infrastructure deployment with **Terraform**, achieving consistent and scalable environments with a reduction in manual configuration time by **40%**.\nCollaborated on cross-functional teams, aligning data strategies with business objectives, resulting in a **15%** increase in project efficiency and output.\nExecuted security measures, including the integration of authentication protocols like OAuth2, to ensure compliance with industry standards during data management practices.\nLeveraged **AWS** services for comprehensive data engineering solutions, enabling seamless integration of customer data platforms while ensuring high data integrity and security."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Executed **ETL** and **ELT** processes by designing and implementing data pipelines for trade execution and portfolio management using **Python** and **PostgreSQL**, enhancing data accessibility by **30%**.\nDeveloped effective **Data Models** to support trade operations and ensure data integrity while leveraging tools like **dbt** and **Snowflake** for structured data warehousing.\nEngineered real-time data processing solutions using **asyncio** and **Redis**, delivering up-to-the-minute transaction data to stakeholders with latency reduced by **20%**.\nCollaborated with cross-functional teams to integrate and manage the flow of customer data within **Cloud Platforms** such as **AWS** ensuring seamless data access and compliance with internal data security protocols.\nImplemented Infrastructure as Code solutions utilizing **Terraform** and **CloudFormation**, reducing environment setup time by **50%**.\nDeveloped and maintained comprehensive data quality testing frameworks with **PyTest**, enhancing data reliability while streamlining CI workflows with tools like **tox** and mock servers.\nOptimized backend task scheduling and job queuing with **Celery** and **RabbitMQ**, improving task execution efficiency in data engineering processes by **40%**."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, Snowflake\n\n**Cloud & Infrastructure**\n\tAWS (EC2, S3, Lambda), Azure, Docker, Kubernetes, GitHub Actions, Azure DevOps, Infrastructure as Code, Terraform, CloudFormation\n\n**Other**\n\tData Engineering, Data Warehousing, ETL, ELT, Data Modeling, dbt, Databricks, Customer Data Platforms, Kafka, CI/CD, PyTest, Git, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow",
+  "apply_company": "Olo"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior CloudSecurity Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Driven Senior Cloud Security Engineer with over 10 years of comprehensive experience in designing secure and scalable backend systems, specializing in **GCP**, **Terraform**, **Python**, and **Go**. Proficient in implementing robust security measures utilizing **Cloud Armor**, **Firewalls**, **WAF**, and **GKE** to protect cloud infrastructures. Experienced in enforcing security compliance with standards like **ISO 27001** and applying practices aligned with **DORA**. Proven ability to develop high-performing APIs and automation tools while delivering impactful solutions for leading organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior CloudSecurity Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Terraform** to manage infrastructure as code, enhancing cloud operations on **GCP** with an emphasis on scalability and security best practices.\nEngineered backend services in **Python** to streamline document automation and workflows while ensuring compliance with **ISO 27001** guidelines.\nDeveloped event-driven solutions with **Go**, **Celery**, and **Redis** to efficiently manage asynchronous processing for critical transaction requests.\nEmployed **Cloud Armor** and **Firewalls** to secure applications and data against unauthorized access, improving system security posture.\nDeployed microservices architecture on **GKE** and successfully configured **VPC Service Controls** for advanced security and network control.\nImplemented **WAF** strategies to protect web applications from common threats, enhancing overall application security.\nCreated and maintained agile data pipelines for regulatory data exchange using **n8n** and **Apache Airflow** to ensure accurate and timely data flow with an emphasis on critical compliance efforts.\nConducted security assessments and integrated robust authentication systems using OAuth2 and Azure AD B2C, promoting secure user access\nCollaborated with cross-functional teams to address system integration challenges, ensuring compliance with **DORA** metrics and overseeing release strategies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Terraform** for infrastructure automation, ensuring consistent, scalable deployments across cloud environments, specifically in **GCP**.\nEngineered data pipelines that adhere to **ISO 27001** standards for secure data exchange, incorporating best practices in cloud security and compliance.\nImplemented security measures including **Cloud Armor**, **Firewalls**, and **WAF** to protect cloud resources, achieving a **99.9%** uptime for critical applications.\nDeveloped backend systems in **Python** for automated workflows and microservices, enhancing user onboarding processes and efficiency.\nCreated event-driven microservices using **Go**, **Celery**, and **Redis**, which enabled asynchronous processing of more than **500** transaction requests per minute.\nManaged secure deployments of microservices on **Google Kubernetes Engine (GKE)**, leveraging **VPC Service Controls** to fortify network security and compliance.\nConducted security audits aligned with **DORA** to ensure robust compliance frameworks are in place, enhancing security posture and minimizing vulnerabilities in the deployment pipeline.\nCollaborated with cross-functional teams to drive integration projects that improved system resilience and regulatory compliance, contributing to a **30%** reduction in incident response time."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **GCP** to deploy and manage cloud infrastructure, ensuring compliance with **ISO 27001** and enhancing the security posture of applications.\nImplemented **Terraform** to automate infrastructure provisioning, resulting in a **30%** reduction in deployment time and improved consistency across environments.\nDeveloped and maintained secure **VPC Service Controls** and **Firewalls** to protect sensitive data and applications from external threats, achieving **99.9%** uptime in security protocols.\nEngineered security measures suite using **Cloud Armor** and **WAF** to defend against DDoS attacks and web vulnerabilities, decreasing potential attack vectors by **25%**.\nCollaborated with cross-functional teams to integrate **Falco IDS** for real-time threat detection and response in cloud environments, enhancing incident response times.\nCreated workflows using **n8n** for automation of security processes, improving operational efficiency and compliance tracking.\nMonitored and optimized cloud security frameworks with **GKE** and **DORA** practices, ensuring continuous improvement and security best practices across development pipelines."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python, Go\n\n **Backend Frameworks**\n\t FastAPI, Flask, Django, Celery\n\n **Frontend Frameworks**\n\t JavaScript\n\n **API Technologies**\n\t REST/gRPC APIs, Microservices, Kafka\n\n **Serverless and Cloud Functions**\n\t AWS (EC2, S3, Lambda), GCP, Cloud Armor, Firewalls, WAF\n\n **Databases**\n\t PostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps**\n\t Docker, Kubernetes, GitHub Actions, Azure DevOps, Terraform, DORA\n\n **Cloud & Infrastructure**\n\t GKE, VPC Service Controls, ISO 27001\n\n **Other**\n\t AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, CI/CD, PyTest, Git, n8n, Falco IDS",
+  "apply_company": "Bit2Me"
+}

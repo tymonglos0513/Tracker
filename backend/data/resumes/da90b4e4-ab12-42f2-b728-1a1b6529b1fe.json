@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Operations Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-oriented Senior Operations Engineer with over 10 years of experience in cloud infrastructure and backend systems. Expertise in **AWS**, **Terraform**, **Ansible**, **Kubernetes**, and **CI/CD** methodologies, proficient in deploying and managing scalable environments with a focus on *Infrastructure as Code* and *Cloud Security*. Skilled in monitoring and incident response strategies using **Prometheus**, **Grafana**, and **CloudWatch** while implementing automation tools and developing high-performing APIs. A proven contributor to transformative projects at leading companies like VISA, Sii Poland, and Reply Polska, known for delivering impactful solutions and enhancing operational efficiency.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Operations Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Implemented Infrastructure as Code (IaC) strategies using **Terraform** to automate deployments and ensure consistent environments across **AWS** and **Azure** platforms, reducing deployment time by **40%**.\nUtilized CI/CD pipelines through **GitLab CI** and **Argo CD**, facilitating seamless integration and deployment processes with a **95%** success rate on deployments.\nManaged container orchestration using **Kubernetes** to optimize application resource usage and improve operational efficiencies by **30%**.\nConfigured monitoring and alerting systems with **Prometheus** and **Grafana**, ensuring system health and performance metrics are tracked effectively, which improved incident response times by **50%**.\nConducted security audits and automated compliance checks with **Ansible**, improving cloud security posture and compliance adherence to industry standards.\nLed incident response efforts to resolve production issues, collaborating with cross-functional teams to enhance resilience and reliability.\nDeveloped deployment scripts and Helm charts to streamline application rollouts and configuration management across multiple environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Implemented **AWS** solutions to enhance cloud security and infrastructure resilience, ensuring optimal performance and compliance.\nAutomated infrastructure management using **Terraform** and **Ansible**, promoting Infrastructure as Code (IaC) practices for **CI/CD** workflows.\nUtilized **Kubernetes** to orchestrate container deployments, enhancing scalability and reliability for backend systems.\nEstablished monitoring and alerting frameworks using **Prometheus** and **Grafana**, improving incident response times by **30%**.\nLed continuous integration and deployment pipelines through **GitLab CI**, ensuring seamless application updates and version control.\nDesigned and implemented release management strategies using **Helm** and **Argo CD**, facilitating efficient deployment processes.\nConducted rigorous security audits identifying vulnerabilities in cloud infrastructures, mitigating risks effectively and ensuring alignment with industry standards."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Implemented **Cloud Security** measures to safeguard sensitive trading data, ensuring compliance with regulatory standards such as MiFID II and GDPR.\nUtilized **Infrastructure as Code** principles through **Terraform** to automate deployment and management of backend services, enhancing operational efficiency by 30%.\nDesigned and maintained CI/CD pipelines using **GitLab CI** to automate testing and deployment processes, resulting in a 25% reduction in deployment times.\nDeveloped backend services for trade execution, portfolio management, and account tracking using **Python**, **Flask**, and **PostgreSQL**, enhancing trading operations significantly.\nEngineered real-time price feed processors with **asyncio**, **WebSockets**, and **Redis** to deliver up-to-the-minute trading data for high-frequency transactions, achieving lower latency by 15%.\nCollaborated closely with frontend teams to deliver data through REST APIs and WebSocket channels, ensuring smooth user interaction with the platform.\nImplemented comprehensive test suites with **PyTest**, **tox**, and mock servers, streamlining QA and CI processes for efficient development cycles.\nIntroduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and process management."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\t FastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t \n\n**API Technologies**\n\t REST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\t AWS (EC2, S3, Lambda)\n\n**Databases**\n\t PostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\t Docker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, GitLab CI, Terraform, Ansible, Helm, Argo CD, Prometheus, Grafana, CloudWatch, Infrastructure as Code, Cloud Security, Incident Response\n\n**Cloud & Infrastructure**\n\t AWS (EC2, S3, Lambda), Azure\n\n**Other**\n\t AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, PyTest, Git",
+  "apply_company": "Pagestreet"
+}

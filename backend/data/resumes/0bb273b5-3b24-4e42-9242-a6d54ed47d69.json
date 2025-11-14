@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior FullStack Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Full Stack Engineer with 8 years of experience, I excel in developing high-performance solutions leveraging modern **TypeScript**, **React**, **Next.js**, and **Node.js** technologies. My extensive technical toolkit includes **Docker**, **AWS**, and **PostgreSQL**, enabling me to create scalable applications that align with industry standards. I am proficient in building robust **RESTful APIs** and implementing **CI/CD** practices to enhance deployment efficiency.\n\nIn my previous roles, I led the design of enterprise-grade platforms, incorporating AI solutions with **OpenAI**, **LangChain**, and **Mastra AI** for intelligent automation and real-time data processing. My strong knowledge in microservices architecture and event-driven systems ensures high reliability and maintainability.\n\nI possess a solid understanding of **Prisma**, **Redis**, and message queue services such as **RabbitMQ** and **BullMQ**, enhancing application responsiveness. Furthermore, my experience with **WebSockets** and frameworks like **NestJS** and **Fastify** allows me to build rich, interactive web applications. I also have hands-on expertise in LLM fundamentals and data retrieval techniques using **PGVector** and **Pinecone**, further enriching the applications I develop.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior FullStack Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Architected and developed scalable, full-stack platforms utilizing **TypeScript**, **Node.js**, **React** (17-18), and **Next.js**, ensuring compliance with healthcare and financial regulatory standards (e.g., HIPAA, FHIR, PCI DSS).\n• Designed RESTful APIs and integrated real-time communication using **WebSockets**, enhancing user interactions and data flow across applications.\n• Implemented CI/CD pipelines using **Docker**, enabling efficient build, test, and deployment processes while achieving a deployment frequency of **5/week** across multiple environments.\n• Developed cross-platform mobile applications with **React Native**, incorporating **Redux Toolkit** for state management, increasing user satisfaction scores by **30%**.\n• Built and maintained cloud-native data solutions using **PostgreSQL** and **Redis**, optimizing data ingress and retrieval processes to handle over **1 million** records daily.\n• Established a robust API architecture with **Node.js** and **Express**, leading to a **40%** reduction in backend response times through optimized query handling.\n• Leveraged **Fastlane** and **App Center** for mobile-specific CI/CD workflows, ensuring high-quality releases with automated testing and monitoring integration.\n• Designed enterprise-level DevOps strategies using **GitHub Actions** and **Azure DevOps**, integrating security scans and optimizing deployment times by **50%**.\n• Collaborated with data scientists to deploy **LLM fundamentals** and models from **OpenAI** and **LangChain** for innovative application features, such as predictive insights in financial tools.\n• Visualized complex data trends using **D3.js** and **Power BI Embedded**, facilitating real-time insights that enhanced decision-making capabilities for stakeholders.\n• Integrated advanced search capabilities with **ElasticSearch**, improving search speed and accuracy across millions of documents by **70%**.\n• Established comprehensive testing strategies utilizing **Jest**, **Cypress**, and **Postman**, ensuring reliable releases and maintaining a code coverage of **90%** across the codebase."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **TypeScript** and **Node.js** (NestJS/Express) to build scalable and maintainable RESTful APIs for high-traffic financial platforms, improving performance by **25%**.\nImplemented **Docker** for containerization and simplified deployment processes across cloud environments, achieving a **30%** reduction in deployment time.\nDesigned and developed dynamic front-end applications with **React** (18), **Next.js**, and **Tailwind CSS** to enhance the user experience, resulting in a **40%** increase in user engagement through responsive and interactive financial dashboards.\nLeveraged **React Query** and **Zustand** for state management to optimize data fetching and application performance in real-time financial applications.\nEstablished efficient CI/CD pipelines to automate testing and deployment processes, increasing code deployment frequency by **50%** and enhancing overall software quality.\nIntegrated real-time messaging services using **WebSockets** for immediate updates on financial transactions and alerts, enhancing system responsiveness and user satisfaction.\nConstructed and optimized ETL pipelines utilizing **Apache Airflow** and **AWS** services for managing data workflows and ensuring reliable ingestion from multiple data sources.\nImplemented AI/ML algorithms with tools like **scikit-learn** and **Azure Machine Learning** for real-time fraud detection, improving identification of suspicious activities by **35%**.\nCollaborated with cross-functional teams to ensure the efficient architecture and integration of databases such as **PostgreSQL** and caching mechanisms like **Redis**, ensuring data accessibility and performance in financial applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained robust **RESTful APIs** utilizing **Node.js** (NestJS, Express) and **Python** (FastAPI, Django), ensuring seamless integration and high performance across diverse e-commerce services.\n• Implemented efficient state management by integrating **Redux Toolkit** and **Zustand** within **React** (v18) and **Next.js** applications, resulting in improved application responsiveness and user experience.\n• Architected and deployed scalable microservices on **AWS** using **Docker** and orchestrated CI/CD pipelines to facilitate streamlined development and deployment processes.\n• Leveraged **PostgreSQL**, **Redis**, and **RabbitMQ** for resilient data management and asynchronous processing, effectively handling over **10,000** concurrent transactions during peak sales events.\n• Designed data-driven solutions incorporating **AI** technologies such as **OpenAI**, **LangChain**, and **Mastra AI**, leading to a **25%** increase in user engagement through personalized recommendations based on real-time behaviors.\n• Optimized frontend performance by implementing **Tailwind** and **shadcn/ui**, alongside **React Query**, to enhance data fetching strategies and improve mobile-first user experiences.\n• Coordinated efforts for feature releases employing **feature flags** and **blue-green deployments** using **LaunchDarkly**, ensuring risk mitigation and A/B testing possibilities.\n• Enhanced application security through the implementation of **role-based access control (RBAC)** and **OAuth 2.0**, guaranteeing user data privacy and compliance with **GDPR** regulations.\n• Built responsive UI components for e-commerce platforms using **HTML5**/**CSS3** and JavaScript frameworks, optimizing for accessibility following **WCAG 2.1** standards.\n• Integrated gateway services with **Stripe**, **PayPal**, and **Razorpay**, ensuring that transaction processing was both **PCI-compliant** and secure during financial transactions."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tJavaScript/TypeScript, Python\n\n **Frontend Frameworks:** \n\tReact, Next.js, Vue, Angular, React Query, Zustand, Redux Toolkit, shadcn/ui, Tailwind\n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django, Node.js, Express, Fastify, NestJS\n\n **API Technologies:** \n\tRESTful APIs, API architecture, OpenAI, LangChain, Mastra AI, LLM fundamentals, BullMQ, RabbitMQ\n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:** \n\tPostgreSQL, MySQL, MongoDB, Redis, PGVector, Pinecone, Prisma, Drizzle\n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:** \n\tAWS, Azure, Infrastructure as Code\n\n **Other:** \n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, RAG",
+  "apply_company": "Akveo"
+}

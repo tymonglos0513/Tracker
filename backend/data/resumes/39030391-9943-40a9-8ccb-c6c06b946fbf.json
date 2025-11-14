@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior ML Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-oriented Senior ML Engineer with over 10 years of experience in machine learning (ML) applications, specializing in speech synthesis and text-to-speech (TTS) technologies. Proficient in leveraging **Python**, **PyTorch**, and orchestration tools such as **Kubernetes** and **Docker** to develop and deploy high-performance ML models. Skilled in utilizing frameworks like **Kubeflow**, **MLflow**, and **Weights & Biases** for streamlined ML workflows. Experienced in managing data with **PostgreSQL**, **Kafka**, and **Redis**, and optimizing ML inference through **ONNX** and **TensorRT**. Proven track record of delivering innovative solutions at leading organizations such as VISA, Sii Poland, and Reply Polska, with a focus on scalable cloud-native architectures.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Python** and **PyTorch** to develop machine learning models for speech synthesis and text-to-speech (TTS) applications, enhancing user interaction and engagement.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration of machine learning services, improving deployment efficiency by **75%**.\nEngineered scalable data processing pipelines with **Kafka** and **Redis** for real-time data streaming and caching, ensuring low-latency responses and reliability under load.\nImplemented model tracking and experiment management using **MLflow** and **Weights & Biases**, allowing for reproducibility and optimization of model performance.\nManaged deployments on cloud platforms using **Ray** and **Kubeflow**, coordinating distributed training of models and improving training speeds by **50%**.\nConducted performance optimizations using **ONNX** and **TensorRT**, processing inference tasks with **40%** faster speeds without sacrificing accuracy.\nCollaborated with cross-functional teams to integrate ML solutions into existing workflows, ensuring compliance with data privacy regulations and enhancing system capabilities."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** to develop backend systems that automate document workflows, enhancing efficiency and streamlining user onboarding.\nImplemented **ML** algorithms and models using **PyTorch** to support advanced features in speech synthesis and TTS technology.\nConstructed event-driven microservices with **Celery** and **Redis**, facilitating the asynchronous processing of large datasets and transaction requests, leading to a 30% reduction in processing time.\nDeployed microservices on **Azure App Services**, employing **Terraform** for infrastructure automation, ensuring a reliable and scalable environment for applications.\nDesigned and executed data pipelines for secure regulatory data exchange, leveraging **Apache Airflow** and **Azure Functions** to automate and optimize data workflows, achieving a 40% increase in processing efficiency.\nConducted comprehensive security audits for systems while integrating **OAuth2** and **Azure AD B2C** to enhance authentication protocols and secure access controls, ensuring compliance with industry standards.\nCollaborated with cross-functional teams to guarantee seamless system integration and regulatory compliance, successfully managing releases of up to **5 major updates** per year."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Leveraged **Python** and **PostgreSQL** to develop backend services that support machine learning workflows, optimizing data storage for predictive modeling and analysis.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration of ML services, ensuring scalability and deployment efficiency across **v1.0** applications.\nImplemented asynchronous data processing for real-time ML inference utilizing **Redis** and **Kafka**, enhancing the performance of predictive analytics systems by **30%**.\nCollaborated effectively with cross-functional teams to streamline model serving through REST APIs, ensuring seamless integration with frontend solutions that feature **TTS** capabilities.\nConducted rigorous testing and validation using frameworks like PyTest for ML models, contributing to more robust deployment pipelines while meeting **99.9%** uptime standards.\nExecuted machine learning projects with frameworks such as **PyTorch**, **Ray**, and **Kubeflow**, enhancing model training efficiency and deployment speed, achieving up to **50%** reduction in training times.\nStreamlined data handling processes by integrating **Parquet** format for efficient storage and retrieval, which increased overall data processing performance by **25%**."
+    }
+  ],
+  "skills": " **Programming Languages** \n\t Python, SQL, Bash, JavaScript\n\n **Backend Frameworks** \n\t FastAPI, Flask, Django, Celery\n\n **Frontend Frameworks** \n\t \n\n **API Technologies** \n\t REST/gRPC APIs, Microservices, Kafka\n\n **Serverless and Cloud Functions** \n\t AWS (EC2, S3, Lambda), Azure, Docker, Kubernetes\n\n **Databases** \n\t PostgreSQL, MySQL, MongoDB, Redis, Parquet\n\n **DevOps** \n\t GitHub Actions, Azure DevOps, CI/CD, PyTest\n\n **Cloud & Infrastructure** \n\t \n\n **Other** \n\t AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, PyTorch, Ray, Kubeflow, Weights & Biases, ONNX, TensorRT",
+  "apply_company": "Telnyx"
+}

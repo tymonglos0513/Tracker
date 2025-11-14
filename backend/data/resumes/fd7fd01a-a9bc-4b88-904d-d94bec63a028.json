@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Software Engineer with extensive expertise in **Python**, **Node.js**, and **API development**, leveraging over 13 years of experience in delivering robust applications across various domains. Proficient in database management with **PostgreSQL** and adept in cloud infrastructure and development using **Docker**, **Kubernetes**, and **CI/CD pipelines**. Experienced in Linux environments and skilled in **shell scripting**, ensuring high-performance and scalable solutions. \nPassionate about building secure and efficient systems with a strong understanding of email protocols such as **SMTP**, **IMAP**, as well as experience with various email technologies including **Postfix**, **Dovecot**, and compliance mechanisms like **SPF**, **DKIM**, and **DMARC**. Demonstrated ability to handle queue management systems and implement rate limiting and bounce processing strategies. Committed to developing high-quality software, utilizing agile methodologies, and aligning technical solutions with industry standards.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Node.js** for developing robust applications, ensuring seamless **API development** to enhance functionality and user experience.\nImplemented and managed **PostgreSQL** databases, optimizing performance and ensuring data integrity across applications.\nDesigned and established **CI/CD pipelines** to streamline deployment processes, enabling consistent integration and delivery of applications.\nEmployed **Docker** and **Kubernetes** to containerize and orchestrate applications, ensuring scalability and efficient resource management in production environments.\nDeveloped shell scripts for automated **Linux** system tasks, improving operational efficiencies and decreasing response times to issues.\nIntegrated secure MTA mechanisms using **Postfix**, **Dovecot**, and implemented protocols like **SPF**, **DKIM**, and **DMARC** for email verification to enhance security standards.\nMaintained and monitored DNS settings to ensure reliable message delivery and compliance with email best practices.\nImplemented rate limiting and bounce processing strategies to manage email flow efficiently and reduce spam.\nCollaborated with teams to manage queue management systems effectively, ensuring high availability and reliability of messaging services.\nEnhanced application performance and reliability through rigorous testing strategies across the stack, ensuring unit tests and integration tests were conducted thoroughly."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained robust APIs using **Python** and **Node.js**, ensuring high availability and performance for email handling systems and backend services in **SMTP**, **IMAP**, and **PostgreSQL** environments.\nImplemented email protocols and security measures including **Postfix**, **Dovecot**, **SPF**, **DKIM**, and **DMARC**, improving email deliverability by over **30%**.\nManaged **Linux** server environments and utilized shell scripting to automate routine tasks, achieving a **25%** reduction in manual efforts.\nDesigned and developed **CI/CD pipelines** using **Docker** and **Kubernetes**, facilitating seamless integration and deployment processes, leading to a **40%** faster deployment cycle.\nOptimized queue management systems through effective **rate limiting** and **bounce processing**, enhancing email processing efficiency under high loads by **50%**.\nCollaborated in a cross-functional team to ensure system robustness, effectively troubleshooting issues across the email infrastructure and databases.\nUtilized a combination of **Azure** and **API development** techniques to create reliable data flows and inter-service communications, bolstering system resilience."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Developed and optimized backend services using **Python** and **Node.js**, ensuring high performance and scalability for email delivery systems and backend functionalities.\n- Designed efficient **API development** protocols that utilized **PostgreSQL** for data storage, ensuring fast, reliable access for MTA (Mail Transfer Agent) operations and customer interactions.\n- Implemented robust **queue management systems** to manage email delivery tasks, enhancing throughput and reliability in message handling with technologies such as **Kafka** and **RabbitMQ**.\n- Ensured compliance with email security standards by integrating **SPF**, **DKIM**, and **DMARC** for secure email transmission, safeguarding user data and minimizing spam risks.\n- Developed CI/CD pipelines using **Docker** and **Kubernetes** for streamlined deployment processes, facilitating faster rollout of features and updates in a controlled environment.\n- Utilized **Linux** environments and **shell scripting** to automate system maintenance tasks, improving operational efficiency in server management.\n- Incorporated **rate limiting** strategies to protect email services from abuse while ensuring smooth delivery processes during peak loads.\n- Conducted **bounce processing** to maintain list hygiene and optimize deliverability rates, using statistical methods to enhance user engagement.\n- Leveraged **DNS** configurations for effective domain management, ensuring efficient email routing and compliance with industry standards.\n- Worked with **IMAP** and **SMTP** integrations to provide seamless email capabilities, ensuring robust connectivity and reliability for users."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Node.js\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tAPI development, OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, Linux\n\n**Other:**\n\tPostfix, Dovecot, MTA, SPF, DKIM, DMARC, DNS, SMTP, IMAP, shell scripting, queue management systems, rate limiting, bounce processing, CI/CD pipelines"
+}

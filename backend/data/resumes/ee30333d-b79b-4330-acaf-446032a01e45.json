@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Quality Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Results-driven Senior Quality Engineer with over 10 years of experience in ensuring software quality through advanced methodologies in distributed systems and performance tuning. Proficient in implementing and managing tools such as **Kubernetes**, **EKS**, **Chaos Engineering**, **Chaos Mesh**, **Litmus**, **AWS Fault Injection Simulator**, and **Karpenter** to enhance system reliability and resilience. Skilled in monitoring and observability using **HoneyComb**, **CloudWatch**, and **Prometheus** to ensure optimal performance and timely issue resolution.\n\nOriginally a Full Stack Developer, I bring a robust technical background in modern technologies including **JavaScript/TypeScript**, **Python**, and **Flutter**, with comprehensive experience in frameworks like **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Adept at building cloud-native applications on **AWS** and **Azure**, I have contributed to the development of enterprise platforms utilizing AI/ML for enhanced operational efficiency and intelligent decision-making. My expertise also extends to microservices architecture, event-driven systems, and CI/CD automation, ensuring solutions are secure, maintainable, and compliant with industry standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Passionate about enhancing software stability and user experience, I am committed to delivering high-impact solutions.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Quality Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and executed robust chaos engineering experiments using **Chaos Mesh**, **Litmus**, and **AWS Fault Injection Simulator** to enhance the resilience of distributed systems in production environments.\n• Implemented performance tuning strategies for high-load applications, monitoring system health with **Prometheus** and **CloudWatch**, ensuring minimal downtime and optimal responsiveness.\n• Collaborated on **Kubernetes** configurations and managed deployments in AWS **EKS**, leveraging **Karpenter** for efficient scaling and resource management.\n• Integrated advanced logging and monitoring solutions utilizing **HoneyComb** to derive actionable insights into application performance and anomalies.\n• Employed **GitOps** practices to streamline deployment workflows and maintain consistency across environments for all development activities.\n• Ensured high availability and recovery strategies for microservices deployed in **Kubernetes** clusters, enhancing fault tolerance across distributed systems.\n• Conducted automated testing and validation of chaos experiments, ensuring system resilience before critical launches with rigorous test coverage strategies.\n• Collaboratively refined incident response procedures through chaos engineering methodologies to minimize impact during production issues, achieving a 90% reduction in incident recovery time over a six-month period."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Implemented chaos engineering principles using **Chaos Mesh** and **Litmus** to enhance system resilience and reliability within distributed systems, ensuring optimal performance in production environments.\nLed the deployment of microservices on **Kubernetes** and **EKS**, improving system scalability and uptime while facilitating GitOps practices for streamlined CI/CD workflows.\nMonitored system health and performance using **CloudWatch**, **Prometheus**, and **HoneyComb**, achieving an overall performance tuning improvement of **30%** through proactive issue resolution and optimization.\nUtilized **AWS Fault Injection Simulator** to conduct latency and failure scenario tests, validating the robustness of systems under various adverse conditions and enhancing incident response protocols.\nCoordinated chaos experiments to identify system weaknesses and implemented corrective measures, contributing to a **25%** reduction in incident tickets and improved operational efficiency.\nCollaborated with cross-functional teams to enhance distributed system architectures with **Istio** for service mesh management, optimizing microservice interactions and resilience.\nLeveraged **Karpenter** for automatic scaling in cloud environments, ensuring resource efficiency and cost-effectiveness in handling ephemeral workloads.\nEngaged in performance tuning of existing systems, directly contributing to projects that improved system response times by an average of **40%**.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Implemented **Kubernetes** orchestration and **EKS** for deploying and managing scalable microservices, ensuring high availability and resilience across backend systems.\nApplied **Chaos Engineering** principles using **Chaos Mesh** and **Litmus** to test and enhance the fault tolerance of distributed systems, simulating failures in **AWS** environments and improving overall system robustness.\nLeveraged **AWS Fault Injection Simulator** for conducting controlled experiments that identify weaknesses in performance tuning under variable load conditions, contributing to enhanced stability and reliability.\nDesigned and maintained observability solutions utilizing **CloudWatch**, **Prometheus**, and **HoneyComb** to monitor application performance, track latency anomalies, and drive continuous improvement in system health metrics.\nContributed to **GitOps** practices for automating deployment pipelines and infrastructure management, ensuring consistent application delivery with reduced manual intervention.\nEstablished **Network Policies** and **ALB** configurations for secure service communication while enhancing application performance across distributed environments.\nCollaborated with cross-functional teams to troubleshoot and resolve performance issues in **distributed systems**, optimizing resource utilization and response times by **30%**.\nEngaged in testing strategies aligning with **AWS** cloud solutions to support existing CI/CD pipelines, ensuring rapid and reliable deployment of application updates.\nActively participated in team retrospectives focused on **performance tuning**, identifying bottlenecks and proposing solutions that led to a **25%** reduction in latency across key services.\nMaintained comprehensive documentation of processes and system architectures, ensuring knowledge sharing, compliance, and adherence to best practices across the engineering team.\n"
+    }
+  ],
+  "skills": "****Programming Languages****\n\tPython, JavaScript/TypeScript\n\n****Backend Frameworks****\n\tFastAPI, Flask, Django\n\n****Frontend Frameworks****\n\tReact, Vue, Angular\n\n****API Technologies****\n\tKeycloak (OIDC, RBAC), JWT, OAuth2\n\n****Serverless and Cloud Functions****\n\tAWS (Lambda), Azure (App Services)\n\n****Databases****\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n****DevOps****\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, GitOps\n\n****Cloud & Infrastructure****\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL), EKS, Chaos Engineering, Chaos Mesh, Litmus, AWS Fault Injection Simulator, Karpenter, ALB, Istio, CloudWatch, HoneyComb, Prometheus, Performance Tuning, Distributed Systems\n\n****Other****\n\tMLflow, Airflow, Kubeflow, Nginx, Certbot",
+  "apply_company": "RLDatix"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a Senior Software Engineer with 8 years of experience, I specialize in designing and implementing robust APIs and authentication/authorization strategies. I excel in ensuring safety compliance and scalability while managing event flows, background jobs, and technical architecture. My technical strategy is fortified by hands-on experience with **Ruby on Rails** and implementing webhooks, along with caching mechanisms and schema evolution practices.\n\nI have a proven track record in fostering collaboration through tools like **Slack** and **Microsoft Teams**, conducting code reviews, and providing mentorship to junior developers. I am adept in observability techniques to ensure system reliability and security across applications. My expertise extends to utilizing **JavaScript/TypeScript**, **Python**, and **Flutter**, while leveraging modern frameworks such as **React**, **Next.js**, and **Node.js**. Additionally, I possess deep cloud experience with **Azure** and **AWS** and have a strong foundation in CI/CD automation and microservices architecture. I have led projects integrating AI/ML capabilities for dynamic and predictive analytics, successfully deploying machine learning pipelines using tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and maintained robust **APIs** ensuring high availability and fault tolerance in compliance with safety standards and regulations.\nArchitected applications using **Ruby on Rails** focusing on scalable architecture, caching strategies, and schema evolution to meet evolving business needs.\nCollaborated with cross-functional teams via **Slack** and **Microsoft Teams**, promoting effective communication and agile practices for project development.\nDesigned and executed **background jobs** and event flows to streamline processes, ensuring smooth operation under rate limits and retry mechanisms.\nConducted comprehensive **code reviews** fostering best practices in **security** and observability, enhancing overall application integrity and resilience.\nMentored junior developers on **Authentication/Authorization** frameworks, promoting a culture of knowledge sharing and continuous improvement.\nEnsured adherence to **Technical Strategy** by establishing clear patterns for **safety compliance**, allowing seamless integration of critical business logic within applications.\nDeveloped and managed complex system architectures, improving performance and robustness of platforms serving **financial** and **healthcare** applications.\nLed initiatives for observability implementation, enabling real-time monitoring and logging across all services, resulting in a **30%** reduction in incident response times.\nOptimized application performance through effective **caching** techniques, reducing load times by up to **50%** across key user paths.\nEstablished event-driven architecture supporting high transaction volumes, with proven success in managing over **1000** concurrent users.\nContributed to the integration of machine learning models with real-time inference services, enhancing user experiences and enabling predictive capabilities in applications."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented robust **APIs** and integrated **Webhooks** to facilitate seamless communication between various financial platforms, enhancing application interconnectivity and user experience.\nProvided technical leadership in architecture decisions, ensuring adherence to industry best practices for **Safety Compliance** and **Security**, while performing comprehensive **Code Reviews** to maintain code quality and stability.\nCollaborated with cross-functional teams utilizing **Slack** and **Microsoft Teams** for effective communication and project management, ensuring timely delivery of software updates and feature enhancements.\nDeveloped **Background Jobs** and managed **Event Flows** to guarantee reliability and performance in transaction processing systems, achieving a throughput improvement of **30%** in high-volume environments.\nImplemented strategies for **Caching**, **Rate Limits**, and **Retries** to optimize API performance, foiling potential performance bottlenecks and ensuring maximum uptime for critical services.\nConducted **Mentorship** sessions for junior developers, fostering a culture of knowledge-sharing and collaboration to enhance team capabilities and promote innovative solutions within the development process.\nExecuted schema evolution techniques to adapt database structures without service disruption, ensuring continual alignment with changing business requirements.\nUtilized observability tools and practices to enhance system monitoring and diagnosis, enabling the identification of issues preemptively before affecting end-user experience.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Engineered and optimized APIs and backend services using **Ruby on Rails**, ensuring secure and scalable architectures in adherence to **safety compliance** and **security** best practices across systems.\n• Developed robust **authentication/authorization** mechanisms, implementing **OAuth 2.0** for secure access to customer and admin interfaces, resulting in enhanced data protection and **GDPR compliance**.\n• Designed multiple **event flows** for seamless integration of **webhooks** in real-time workflows, allowing efficient communication and data syncing between different software applications.\n• Managed background jobs using **Sidekiq** and implemented **retry strategies** with **Idempotency** ensuring reliable message processing without data duplication for high transaction volumes.\n• Streamlined real-time collaboration via **Slack** and **Microsoft Teams**, integrating notifications and task updates to enhance team efficiency and project visibility.\n• Introduced **caching** strategies that improved application response times by over **30%**, leveraging technologies like Redis to minimize database read pressure during high-traffic scenarios.\n• Conducted **code reviews** to ensure high-quality code standards while providing **mentorship** to junior developers, fostering their growth and adherence to best practices in software development.\n• Created and maintained observability practices by implementing logging and monitoring tools, enabling quick identification and resolution of production issues.\n• Designed scalable architectures for e-commerce applications, ensuring optimal performance while accommodating evolving **schema evolution** requirements for a growing user base.\n• Led the technical strategy for multiple projects, aligning development efforts with business objectives and ensuring the successful delivery of software solutions."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript, Ruby\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Ruby on Rails\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tAPIs, Webhooks, Rate Limits, Retries, Idempotency, Event Flows\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Caching, Safety Compliance, Technical Strategy, Architecture, Observability, Security, Code Reviews, Mentorship"
+}

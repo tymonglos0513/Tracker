@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Accomplished Senior Engineer with 8 years of experience in software engineering and programming, specializing in distributed systems, microservices, and cloud infrastructure. Proficient in both backend and frontend development leveraging **Java**, **JavaScript/TypeScript**, and **Python** to create high-performance solutions for the healthcare and financial sectors. Skilled in utilizing **AWS**, **Azure**, and **Kubernetes** to deploy robust applications and streamline CI/CD processes. Expert in implementing advanced algorithms and data structures to enhance application performance. \n\nDemonstrated ability to integrate AI and ML capabilities into enterprise applications, including the development of machine learning pipelines and MLOps workflows using **MLflow**, **Airflow**, and **Kubeflow**. I possess a strong foundation in building secure applications compliant with HIPAA, FHIR, PCI DSS, and SOC 2 standards. A strategic communicator, I excel in leading cross-functional teams to deliver innovative, data-driven solutions.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Demonstrated strong **software engineering** skills by architecting and developing scalable, full-stack healthcare and financial platforms using **TypeScript**, **Python (FastAPI)**, **Node.js**, and modern front-end frameworks such as **React (17-18)**, **Next.js**, and **Vue (3.x)** while ensuring compliance with HIPAA, FHIR, GDPR, and financial regulations (e.g., PCI DSS, SOX).\n• Applied **programming** expertise to develop and deploy cross-platform mobile applications using **Flutter** and **React Native**, enhancing user experiences in healthcare and fintech on both iOS and Android platforms with native module integration and state management via **Provider** and **Redux**.\n• Leveraged **distributed systems** and **microservices** principles by leading the re-architecture of monolithic applications into microservices-based ecosystems, utilizing **Docker**, **Kubernetes (AKS/EKS)**, and serverless architectures like **AWS Lambda** and **Azure Functions** for high availability and fault tolerance.\n• Designed and maintained cloud-native data architecture using **PostgreSQL**, **MongoDB**, **Redis**, and **GraphQL**, optimizing for large-scale healthcare and financial data ingestion, storage, and querying within a data structure framework.\n• Integrated **big data** technologies in the deployment of machine learning models for patient risk prediction, financial fraud detection, and document classification using **Python (scikit-learn, PyTorch, TensorFlow)**, facilitating real-time inference services in the backend.\n• Built MLOps pipelines utilizing **MLflow**, **DVC**, and **Apache Airflow** for streamlined continuous training, validation, versioning, and deployment of models across both development and production environments.\n• Implemented enterprise-level **DevOps** pipelines using **GitHub Actions**, **Azure DevOps**, and **CircleCI**, infusing best practices such as linting, testing, security scans, and multi-environment deployments into web and API services, ensuring robust software quality.\n• Developed complex financial data visualization tools with **D3.js**, **Chart.js**, and **Power BI Embedded**, generating real-time insights into transaction trends, fraud detection, and operational KPIs through interactive interfaces.\n• Collaborated on integrating NLP models (utilizing **spaCy**, **Hugging Face Transformers**) within healthcare and financial services, providing embedded RESTful APIs for document parsing and anomaly detection.\n• Established comprehensive test strategies employing **Jest**, **Cypress**, **PyTest**, and **Postman**, ensuring robust testing coverage for unit, integration, E2E, and contract testing across all services.\n• Enhanced search capabilities across millions of unstructured and structured health records and financial documents by integrating **Azure Cognitive Search** and **ElasticSearch**, facilitating advanced querying and retrieval functionality."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Applied software engineering principles to craft and maintain scalable, maintainable financial platforms, utilizing **Node.js** (NestJS/Express) and **Python** (FastAPI, Django) within a microservices architecture.\n• Enhanced performance and user experience by developing dynamic front-end applications using **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, highlighting **Redux Toolkit** and **Tailwind CSS** for responsive design, reaching an increase of up to **30%** in user engagement.\n• Designed and implemented real-time analytics dashboards leveraging **React**, **D3.js**, and **Power BI Embedded**, enabling operations teams to monitor over **10,000** transactions per hour and detect anomalies instantly.\n• Established a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, facilitating efficient asynchronous communication processes, with an improvement of **40%** in transaction response times.\n• Developed ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, managing the ingestion of large datasets from multiple sources, processing over **5TB** of data daily.\n• Implemented advanced AI/ML techniques for fraud detection leveraging **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, achieving a **25%** reduction in false positives by analyzing user behaviors effectively.\n• Built ML pipelines for various predictive analyses such as credit scoring and churn prediction using **MLflow** and **Airflow**, ensuring real-time model inference integrated with backend services, increasing decision-making speed by **50%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Led **software engineering** initiatives by designing and optimizing backend services for a global e-commerce platform using **Python (FastAPI, Django)** and **Node.js (NestJS, Express)**, ensuring high availability and scalability across key modules like checkout, cart, and order fulfillment.\n• Engineered real-time features with **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ**, significantly improving order updates and dynamic inventory tracking for over **1 million** users.\n• Developed responsive frontend applications leveraging **React (18)**, **Vue 3**, and **Angular**, enhanced with **TypeScript**, significantly boosting user experience for **over 500,000** monthly active users.\n• Utilized **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data storage, providing fault-tolerant data access and improving data retrieval speeds by **30%** in high-traffic scenarios.\n• Integrated AI/ML-driven recommendation engines using **scikit-learn**, **LightGBM**, and **TensorFlow**, achieving a **15%** increase in conversion rates through personalized product listings based on real-time behavioral data.\n• Improved application responsiveness by implementing **Redis** caching for product metadata and shopping cart sessions, reducing database read pressure by **40%**.\n• Managed feature flags and blue-green deployments with **LaunchDarkly** and **Kubernetes**, enabling controlled rollouts for over **10 major releases**, A/B testing, and enhanced risk mitigation.\n• Created responsive e-commerce UIs utilizing **Next.js**, **Vue 3 + Nuxt**, and **HTML5/CSS3**, optimizing for mobile-first engagement and accessibility compliance (WCAG 2.1).\n• Developed secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, achieving full PCI compliance for handling sensitive data transactions.\n• Applied **role-based access control (RBAC)** and **OAuth 2.0** protocols, ensuring GDPR compliance and enhancing user data protection throughout the platform."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, Java, JavaScript, TypeScript\n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django, Microservices\n\n **Frontend Frameworks:** \n\tReact, Vue, Angular\n\n **API Technologies:** \n\tJWT, OAuth2\n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda), Azure (App Services)\n\n **Databases:** \n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:** \n\tAWS, Azure, cloud infrastructure\n\n **Other:** \n\tdata structures, algorithms, distributed systems, big data, Apache Flink, ML, AI, software engineering, communication",
+  "apply_company": "Toughbyte"
+}

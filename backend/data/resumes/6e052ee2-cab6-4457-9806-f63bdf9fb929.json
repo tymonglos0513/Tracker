@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-driven Senior Backend Engineer with 13+ years of expertise in designing and delivering high-performance backend solutions in compliance-driven environments. Proficient in **Python**, **Django**, and **Django REST**, with strong skills in implementing **Celery** for asynchronous task management and utilizing **PostgreSQL** for robust database management. Experienced in deploying applications with monitoring tools like **Sentry**, **Datadog**, and **Grafana** to ensure system reliability and performance.\nExpert in developing microservices architecture and utilizing **Kubernetes** for container orchestration, ensuring seamless scalability and deployment. Skilled in version control with **Git** and familiar with data processing using **ClickHouse** and **Elasticsearch**.\nAdept at aligning solutions with industry standards such as HIPAA and PCI DSS, and bridging the gap between operations and development teams through effective MLOps practices.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained backend systems using **Python** and **Django**, ensuring robust functionality and integration with modern frameworks.\n- Designed RESTful APIs with **Django REST** to support seamless communication between clients and servers.\n- Implemented asynchronous task queues with **Celery**, enhancing performance and responsiveness of backend services.\n- Built and managed databases using **PostgreSQL** to efficiently handle data storage, retrieval, and integrity for up to **5,000** concurrent users.\n- Configured and monitored production systems using **Sentry** and **Datadog** for real-time error tracking and performance metrics, resolving issues swiftly to maintain uptime above **99.9%**.\n- Developed visualization dashboards with **Grafana** for monitoring performance metrics and operational health, facilitating data-driven decision-making.\n- Conducted deployment strategies utilizing **Git** version control to manage code efficiently across multiple environments.\n- Integrated logging and monitoring solutions to maintain optimal system performance and reliability, achieving a **15%** increase in response times.\n- Built and executed complex SQL queries on **ClickHouse** and **Elasticsearch**, allowing for rapid data analysis and querying.\n- Collaborated with cross-functional teams to define and document APIs using **OpenAPI**, enhancing the clarity and accessibility of integration points for both developers and stakeholders.\n- Deployed cloud-native applications using **Kubernetes** to orchestrate microservices, ensuring scalability and ease of management for new deployments. \n- Mentored junior developers in best practices and design patterns, promoting code quality and team efficiency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained backend systems utilizing **Python**, **Django**, and **Django REST** frameworks to ensure robust and scalable architecture for financial applications.\nImplemented asynchronous task management with **Celery**, enhancing system performance and reliability for transaction processing.\nManaged database solutions using **PostgreSQL** and **ClickHouse**, optimizing data retrieval and analytics for high-volume financial transactions.\nIntegrated monitoring and alerting systems with **Sentry**, **Datadog**, and **Grafana** for proactive system health checks and performance optimization.\nCollaborated on version control using **Git**, ensuring efficient code management and collaboration across development teams.\nDesigned and documented RESTful APIs in accordance with **OpenAPI** specifications, enabling seamless integration with front-end applications and third-party services.\nOrchestrated containerization and deployment in **Kubernetes**, achieving a smoother deployment process for new features and updates.\nModernized core financial platforms by migrating to microservices architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\nBuilt interactive front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies.\nDesigned and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nDeveloped ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Developed and optimized backend services using **Python** and **Django** for a global e-commerce platform, ensuring high availability and scalability across critical modules.\n- Utilized **Django REST** to create RESTful APIs, enhancing data delivery and interaction for frontend applications and enabling a seamless user experience.\n- Implemented **PostgreSQL** for distributed data storage, ensuring fast and fault-tolerant access to data for high-traffic e-commerce workflows, achieving a **30% reduction** in data retrieval times.\n- Employed **Celery** for managing asynchronous tasks, significantly improving background processing efficiency and task management workflows.\n- Integrated **Sentry**, **Datadog**, and **Grafana** for proactive monitoring and logging, achieving a **40% decrease** in downtime through efficient error tracking and performance monitoring.\n- Leveraged **Git** for version control, ensuring smooth collaboration among team members and maintaining a clean deployment pipeline.\n- Established an event-driven architecture using **Kafka** and **RabbitMQ** to support real-time features, resulting in timely order updates and improved customer engagement metrics by over **25%**.\n- Designed and implemented feature flags and blue-green deployments using **Kubernetes**, allowing for controlled rollouts and improved risk mitigation during deployment processes.\n- Optimized application performance by integrating advanced logging and monitoring tools, leading to a **20% improvement** in application response times and reliability.\n- Participated in code reviews and knowledge-sharing sessions to enhance team skills and code quality, aligning with industry best practices."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tDjango, FastAPI, Flask, Django REST, Celery\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tOpenAPI\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, S3; Azure: App Services\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, ClickHouse\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Sentry, Datadog, Grafana, Git\n\n **Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose, Azure: Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Elasticsearch",
+  "apply_company": "Search Atlas"
+}

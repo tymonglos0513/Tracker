@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a skilled Software Engineer with 8 years of experience, I excel in **cloud-based architecture** and **distributed systems**, leveraging modern technologies such as **Go**, **Kubernetes**, and automated testing practices to deliver high-quality code. My proficiency in **library development** and implementing **Site Reliability Engineering** principles equips me to design and build robust solutions that prioritize system reliability and performance.\n\nI have a proven track record in developing scalable applications with a focus on **NeuralSearch**, **keyword search**, and **vector search** functionalities, ensuring seamless integration and enhanced user experiences. My strong problem-solving capabilities, combined with effective communication skills, enable me to collaborate successfully across multifunctional teams.\n\nAdditionally, I possess expertise in **JavaScript/TypeScript**, **Python**, and **Flutter**, along with a deep understanding of enterprise-grade platform development and compliance standards. I have effectively utilized tools such as **MLflow**, **Airflow**, and **Kubeflow** in my projects, advancing my knowledge in machine learning pipelines and MLOps workflows.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and implemented **cloud-based architecture** for scalable healthcare and financial platforms while ensuring **high code quality** through rigorous **automated testing**.\n- Leveraged **Kubernetes** for orchestrating microservices within a **distributed systems** framework, enhancing deployment consistency and resiliency.\n- Collaborated with cross-functional teams to integrate **NeuralSearch**, **keyword search**, and **vector search** capabilities, enriching data retrieval processes.\n- Employed **Go** for developing efficient backend services, focusing on performance optimization and robust solutions to complex problems.\n- Architected and deployed scalable, full-stack platforms leveraging TypeScript, Python (**FastAPI**), and modern front-end frameworks like **React (17-18)** and **Vue (3.x)**.\n- Crafted and optimized mobile applications using **Flutter** and **React Native** for both iOS and Android, achieving a delivery milestone with over **100,000+ downloads**.\n- Designed and implemented CI/CD pipelines utilizing **Fastlane** and **App Center**, automating testing and release management in **3** different environments.\n- Re-engineered monolithic applications into **microservices-based** ecosystems, utilizing **Docker** for containerization and ensuring **99.9% uptime** through redundancy strategies.\n- Maintained and optimized cloud-native data architectures using **PostgreSQL**, **MongoDB**, and **Redis**, successfully managing data for **over 1 million** transactions monthly.\n- Developed and deployed predictive machine learning models using Python libraries including **scikit-learn**, **PyTorch**, and **TensorFlow**, improving risk prediction accuracy by **25%**.\n- Built and maintained MLOps pipelines with **MLflow**, **DVC**, and **Apache Airflow**, enabling continuous model integration and deployment.\n- Integrated AI-driven features into applications, enhancing user experience with personalized recommendations and alerts, resulting in a **30% increased user engagement**.\n- Established and upheld enterprise-level DevOps practices using **GitHub Actions** and **Azure DevOps**, facilitating secure and efficient workflows for web and API services.\n- Created complex financial data visualization tools with **D3.js**, **Chart.js**, and **Power BI Embedded**, providing critical insights into transactional data and operational metrics.\n- Partnered with data scientists to incorporate NLP capabilities using **spaCy** and **Hugging Face Transformers**, improving document processing efficiency by **40%**.\n- Developed advanced search functionalities using **Azure Cognitive Search** and **ElasticSearch**, enhancing query capabilities across millions of documents."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented cloud-based architecture and distributed systems for enhanced scalability and robustness, ensuring high throughput and maintainability in financial platforms.\nDeveloped and maintained high-code quality libraries using **Go** and **Kubernetes**, fostering robust solutions within the financial technology ecosystem.\nExecuted automated testing strategies to guarantee reliability and performance of applications, aligning with the principles of Site Reliability Engineering (SRE).\nCommunicated technical concepts effectively across cross-functional teams, enhancing collaboration on projects focused on distributed systems and cloud technologies.\nUtilized problem-solving skills to troubleshoot complex system issues, optimizing performance using a combination of **Node.js** (NestJS/Express), **Python** (FastAPI, Django) and **React** (18), ensuring the stability of high-volume transaction systems.\nCreated machine learning models for keyword search and vector search, integrating these capabilities into distributed systems for enhanced search functionality and fraud detection.\nLed the modernization of transaction monitoring systems by leveraging event-driven architectures, integrating tools such as Kafka and RabbitMQ to support real-time processing and analytics.\nMaintained high standards of code quality and automated testing, achieving upwards of **95%** test coverage across projects and increasing deployment frequency by **30%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented **distributed systems** and **cloud-based architecture** for a global e-commerce platform, ensuring high availability and scalability across critical modules, leading to a **20% increase in uptime**.\nEngineered and optimized backend services using **Go**, **Python** (FastAPI, Django), and **Node.js** (NestJS, Express), achieving **low latency** results with less than **100ms** response times for checkout and order processing.\nDesigned and developed automated testing frameworks to ensure high code quality, resulting in a **30% reduction** in post-deployment bugs and increased reliability of the applications.\nApplied **Kubernetes** for container orchestration, facilitating seamless deployment strategies and high availability through automated scaling across **5** microservices on the platform.\nEnhanced search capabilities by integrating **NeuralSearch**, **keyword search**, and **vector search** mechanisms, significantly optimizing search relevance and improving user engagement by **25%**.\nCommunicated effectively with cross-functional teams to facilitate problem-solving and design discussions, fostering a culture of collaboration that resulted in **3 major product iterations** in the last quarter.\nDeveloped and maintained a robust library for e-commerce functionalities, which streamlined integration processes and reduced development time by **15%**.\nEnsured site reliability engineering practices were in place, maintaining critical system health with appropriate monitoring and alerts, thus improving incident response times by **40%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript, Go\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tSite Reliability Engineering, cloud-based architecture, problem-solving, high code quality\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, distributed systems, NeuralSearch, keyword search, vector search, library development, automated testing, communication, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot"
+}

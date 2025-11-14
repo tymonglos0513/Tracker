@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Software Engineer with over 8 years of experience, I specialize in **AWS** cloud services, leveraging **TypeScript**, **React**, and **Microservices** architecture to build high-performance solutions, particularly within the healthcare and financial sectors. I possess extensive skills in implementing **CI/CD** pipelines and Infrastructure as Code (**IaC**) practices to streamline deployment processes. My tech stack includes **React Native**, **GraphQL**, and testing frameworks such as **Jest**, **Cypress**, and **Backstop**, ensuring robust application performance and reliability.\nI have a proven track record of leading the development of enterprise-grade platforms, integrating AI/ML capabilities for enhanced predictive analytics and intelligent automation. With a strong background in Agile methodologies, I excel at collaborating with cross-functional teams to deliver secure applications that meet compliance standards like HIPAA, FHIR, PCI DSS, and SOC 2. Additionally, my hands-on experience with machine learning pipelines and MLOps workflows, utilizing tools like MLflow, Airflow, and Kubeflow, further strengthens my capabilities in delivering innovative technology solutions.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and developed scalable, full-stack healthcare and financial platforms utilizing **TypeScript**, **React** (17-18), and **Node.js** with a focus on microservices architecture to enhance system modularity and maintenance.\n- Enhanced deployment pipeline efficiency through robust **CI/CD** practices using tools such as **GitHub Actions** and **Azure DevOps**, ensuring seamless integration and delivery across multiple environments.\n- Architected mobile applications with **React Native** and **Flutter**, achieving a consistent user experience on both iOS and Android platforms with state management strategies using Provider and Redux.\n- Improved application reliability and speed with automated testing frameworks including **Jest**, **Cypress**, and Backstop, facilitating comprehensive coverage of unit, integration, and E2E testing processes.\n- Engaged in microservices design, successfully migrating legacy systems into cloud-native solutions employing **Docker** and **Kubernetes** (AKS/EKS), resulting in enhanced scalability and fault tolerance.\n- Developed and implemented data APIs with **GraphQL** to efficiently manage and query healthcare and financial data, optimizing performance for large datasets.\n- Integrated agile methodologies into workflow processes, collaborating with cross-functional teams to deliver high-impact features and improvements on time.\n- Established enterprise-wide DevOps practices using **CircleCI** and infrastructure as code (IaC) strategies to automate provisioning and management of cloud resources in **AWS** environments.\n- Analyzed and visualized complex financial data trends using **D3.js** and **Power BI Embedded**, delivering actionable insights for decision-making and operational performance.\n- Collaborated with data scientists to successfully deploy NLP models for document processing, employing **RESTful APIs** to ensure smooth integration into healthcare and financial applications.\n- Designed cloud-native database solutions leveraging **PostgreSQL** and **MongoDB**, achieving seamless data ingestion and efficient querying mechanisms.\n- Achieved enterprise-level search capabilities by integrating **Azure Cognitive Search** and **ElasticSearch**, improving access to substantial data repositories."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed scalable microservices architectures leveraging **Node.js (NestJS/Express)** and **Python (FastAPI, Django)** to enhance system throughput by over **30%** for financial platforms.\n• Utilized **TypeScript** with modern JS frameworks such as **React (18)**, **Vue 3**, and **Next.js** to build dynamic, user-centric applications, improving user engagement metrics by **25%**.\n• Integrated CI/CD pipelines with **Jest** and **Cypress** for testing and deploying applications, streamlining workflows and reducing deployment times by **40%**.\n• Designed RESTful APIs for transaction processing and analytics, utilizing **React** and **D3.js** for real-time dashboards to provide actionable insights for operations teams.\n• Built an event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus** to support asynchronous transactions, enhancing system reliability during peak loads by **50%**.\n• Orchestrated ETL processes with **Python**, **Apache Airflow**, and **Azure Data Factory** for data ingestion, maintaining data accuracy and latency of less than **1 hour** from source to dashboard.\n• Implemented fraud detection mechanisms using **scikit-learn** and **XGBoost**, successfully identifying fraudulent patterns with over **85% accuracy** in transaction analysis.\n• Developed ML pipelines for credit scoring and customer churn predictions, utilizing **MLflow** for model management, enabling the integration of real-time decision-making capabilities into financial services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Ensured robust **AWS** infrastructure for backend services, leveraging **IaC** tools to maintain high availability and automated deployments.\n- Developed scalable microservices architecture using **React** (18), **TypeScript**, and **Node.js** frameworks, focusing on **REST** APIs to enhance system interoperability and performance.\n- Automated testing and quality assurance processes using **Jest** and **Cypress**, achieving a testing coverage of **90%** for critical application components.\n- Implemented CI/CD pipelines for seamless integration and deployment, reducing deployment times by **40%** and enhancing overall code stability.\n- Applied Agile methodologies in team development, contributing to efficient sprint planning and execution, improving team velocity by **25%**.\n- Collaborated with frontend teams to integrate responsive designs using **React Native** for mobile applications, ensuring cross-platform compatibility and user engagement.\n- Integrated **GraphQL** for efficient data retrieval, optimizing backend queries and improving response times by **30%**.\n- Enhanced application scalability and maintainability through the adoption of microservices, resulting in a **50%** reduction in response times under high load conditions.\n- Engaged in DevOps practices to synchronize development and operations teams, facilitating continuous feedback loops and fostering a culture of high performance.\n- Contributed to a **10%** increase in system uptime and reliability through the implementation of robust monitoring and alerting tools."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular, React Native\n\n**API Technologies:**\n\tREST, GraphQL\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda), Azure (App Services)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (RDS, S3), Azure (Blob, SQL)\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Jest, Cypress, Backstop, Microservices, Agile",
+  "apply_company": "Hargreaves Lansdown"
+}

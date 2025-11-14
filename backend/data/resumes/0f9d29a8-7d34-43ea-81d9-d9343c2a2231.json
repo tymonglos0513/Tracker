@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior SREngineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-driven Senior Site Reliability Engineer with 13+ years of hands-on experience in developing robust, high-performance applications in the healthcare and financial industries. Proficient in **AWS**, **Python**, and **Terraform**, with a strong focus on **DevOps** practices and methodologies. Skilled in implementing **observability** solutions utilizing tools such as **OpenTelemetry**, **Cloudwatch**, and **DataDog** to enhance system monitoring and performance.\nDemonstrated expertise in building AI/ML-powered platforms that leverage predictive analytics and real-time processing, aligning with industry standards in compliance-driven development such as HIPAA and PCI DSS. Extensive experience in deploying cloud-native systems and managing CI/CD pipelines, ensuring efficient delivery and reliability of applications. Well-versed in the principles of MLOps, including model training, serving, and orchestration using tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SREngineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained observability frameworks leveraging **AWS CloudWatch**, **OpenTelemetry**, and **DataDog** to monitor and ensure high availability of systems.\n- Employed **Python** for automating DevOps processes and building infrastructure as code with **Terraform**, establishing reliable deployment strategies for complex environments.\n- Designed CI/CD pipelines integrating **AWS** services, resulting in a **50%** reduction in deployment time and increased system uptime.\n- Managed the operational aspects of machine learning deployments, focusing on performance monitoring and observability to fine-tune AI/ML models, contributing to a **30%** improvement in prediction accuracy.\n- Collaborated with cross-functional teams to implement robust DevOps practices, reducing incident response time by **40%** through proactive monitoring and alerting systems.\n- Optimized application performance using metrics from **AWS CloudWatch** and **OpenTelemetry**, contributing to enhanced system reliability and user experience.\n- Implemented proactive server health checks and scalable cloud infrastructure using **AWS**, ensuring a fault-tolerant environment capable of handling **up to 10,000** simultaneous users.\n- Engaged in automated testing and deployment processes, improved code quality through **observability** tools like **DataDog**, ensuring all services comply with operational standards.\n- Led the integration of AI-driven monitoring tools to enhance data analysis capabilities, utilizing ML insights for predictive maintenance and operational optimization."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented and managed observability solutions using **CloudWatch** and **DataDog**, enhancing monitoring and alerting for production environments.\nDeveloped robust infrastructure as code using **Terraform** to provision and manage AWS resources, achieving cost reduction by **15%** through improved resource allocation.\nUtilized **Python** for automating DevOps processes, significantly reducing deployment times by **30%** while ensuring high availability of applications.\nCreated and maintained AI and ML models to improve system reliability and performance, leveraging frameworks such as **scikit-learn** and **XGBoost**.\nCollaborated with cross-functional teams to ensure smooth deployment processes and continuous integration, enhancing the software delivery lifecycle.\nEmployed **OpenTelemetry** for distributed tracing, significantly identifying performance bottlenecks and improving service response times by **25%**.\nDesigned and enhanced architecture for high availability and scalability using **AWS** services, optimizing the infrastructure to handle peak loads of up to **1,000,000** concurrent users.\nLed incident response efforts and created post-mortem documentation to analyze and improve operational procedures, driving a culture of continuous improvement."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** services for infrastructure management and application deployment, ensuring high availability and resilience in production environments.\nDeveloped and automated reliable service monitoring and observability solutions using **OpenTelemetry**, **CloudWatch**, and **DataDog**, which led to a **40%** increase in issue detection speed.\nDesigned backend services using **Python** (FastAPI, Django) and integrated AI/ML algorithms to enhance system performance and support predictive maintenance, improving uptime by **25%**.\nImplemented **Terraform** for infrastructure as code provisioning, allowing streamlined deployments across development and production stacks, which reduced setup time by **30%**.\nEngineered real-time features using event-driven architecture with **Kafka** and RabbitMQ to enhance system responsiveness, directly improving customer experience in high-traffic situations.\nApplied agile methodologies and DevOps practices to enhance CI/CD processes, reducing deployment time from **2 hours** to **15 minutes**.\nCreated and maintained comprehensive documentation for services health checks and performance metrics to ensure optimal observability and transparency in operations.\nIntegrated advanced machine learning models using TensorFlow and scikit-learn for workload efficiencies, leading to enhanced system learning capabilities and resource management.\nManaged service orchestration and containerization strategies using Kubernetes, ensuring scalable and efficient workloads under varying demand; successfully supported **5000+** concurrent users.\nApplied robust monitoring practices and proactive alerting mechanisms, enabling the team to address issues before impacting users, resulting in a **99.9%** service uptime."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tOpenTelemetry, OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Cloudwatch, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot, DataDog, AI, ML, observability",
+  "apply_company": "Robin AI"
+}

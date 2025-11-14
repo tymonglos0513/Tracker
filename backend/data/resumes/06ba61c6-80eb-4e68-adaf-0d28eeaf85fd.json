@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Backend Engineer with 13+ years of experience specializing in backend development and delivering robust, high-performance applications. Proficient in **Python**, **FastAPI**, and experienced with **Kubernetes**, **GitLab CI**, and **Postgres**. Demonstrated expertise in designing systems using **Clean Architecture**, **DDD** (Domain-Driven Design), and implementing **TDD** (Test-Driven Development) methodologies.\nSkilled in integrating **AI/ML** capabilities into applications and applying **Agile** practices to enhance development efficiency. Proven track record in deploying cloud systems on necessary platforms, with a solid understanding of microservices and event-driven architectures, as well as familiarity with tools like **Kafka**. Committed to ensuring compliance with industry standards and enhancing operational workflows.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed robust backend systems leveraging **Python (FastAPI)** and **Postgres** to ensure high-performance applications.\nImplemented microservices architecture using **Kubernetes** for container orchestration and management, improving deployment efficiency by **40%**.\nUtilized **GitLab CI** pipelines to support continuous integration and continuous delivery (CI/CD), enhancing code reliability with automated testing processes that ensure thorough TDD principles implementation.\nCollaborated with cross-functional teams employing Agile methodologies to drive initiatives focused on solution architecture and design principles such as DDD and Clean Architecture.\nIntegrated message queuing with **Kafka** to enhance system resilience and scalability, successfully reducing data processing latency by **30%**.\nLeveraged AI and ML frameworks to develop application features that predict user behaviors and optimize performance, facilitating a more personalized user experience.\nConducted comprehensive code reviews and established testing strategies that improved code coverage to **95%**, ensuring high-quality standards and maintainability.\nDesigned data flow systems to support real-time analytics and batch processing, aligning with critical business goals in line with Agile delivery cycles.\nParticipated in knowledge-sharing sessions, promoting best practices in backend development and fostering team growth in core technologies such as **Golang**, **C#**, and **Java**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Python** and **FastAPI** to modernize core financial platforms by migrating to microservices architecture, improving scalability and performance for high-volume transactional systems.\nEmployed **Kafka** for building a robust event-driven architecture, ensuring efficient asynchronous communication across critical workflows, including payments and compliance.\nDeveloped and optimized ETL pipelines to ingest financial data using **Python**, **Apache Airflow**, and **Azure Data Factory**, enabling both batch and real-time processing for over **1 million** transactions daily.\nImplemented automated testing and **TDD** methodologies within the backend services to enhance code quality and reduce system errors by **30%**.\nUtilized **GitLab CI** for continuous integration and deployment, successfully reducing deployment times by **40%** across multiple environments.\nDesigned backend services following **DDD** and **Clean Architecture** principles, ensuring maintainable and scalable codebase solutions and facilitating a **25%** reduction in feature delivery time.\nParticipated in Agile development processes, contributing to sprint planning and retrospectives to continuously improve team productivity and collaboration.\nIntegrated machine learning frameworks using **scikit-learn** and **MLflow** for fraud detection, enhancing accuracy rates by **15%** in identifying suspicious activity among users."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** with frameworks such as **FastAPI** and involved in **Agile** methodologies to design and optimize backend services for a global e-commerce platform, achieving **99.99% uptime**, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nBuilt robust and efficient real-time features using **Kafka**, ensuring responsive order updates and inventory tracking to support a **100,000+ daily transactions** environment.\nCollaborated closely with frontend teams while employing a **Clean Architecture** approach for seamless integration, thereby improving deployment time by **30%** for full-stack development.\nManaged distributed data storage and optimized performance using **PostgreSQL** while leveraging techniques such as **TDD** for quality assurance, securing **10%** faster data access under high-load conditions.\nImplemented machine learning models for personalized recommendations, leveraging AI technologies to enhance user engagement, contributing to a **15%** lift in conversion rates.\nEnhanced backend performance through Redis caching strategies, obtaining **2x faster** read responses, significantly alleviating database bottleneck issues.\nEffectively managed deployments using **Kubernetes** and **GitLab CI**, facilitating a **40%** reduction in deployment-related downtimes using feature flags.\nApplied **DDD** principles to create maintainable and scalable backend architectures, leading to improved developer experience and code quality.\nCollaborated on documentation and adoption of best practices in coding and testing, achieving a **20%** increase in overall team productivity and fewer workflow interruptions."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Golang, C#, Java, Kotlin\n\n **Backend Frameworks:**\n\tFastAPI\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tLangChain\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming)\n\n **DevOps:**\n\tDocker, Kubernetes, GitLab CI/CD, GitHub Actions\n\n **Cloud & Infrastructure:**\n\tAWS: RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Kafka, Redis, Terraform, Ansible, Helm, Clean Architecture, TDD, Agile, OAuth2, JWT, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "TripleTen"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior DevOps Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with over 10 years of experience in automating and optimizing backend systems within financial platforms and cloud-native architectures. Proficient in **GCP**, **Kubernetes**, **Docker**, **Terraform**, **Linux**, **Bash**, **Jenkins**, and **Grafana** for seamless deployment and monitoring of applications. Demonstrated expertise in **Cloud Monitoring**, **PostgreSQL**, **MongoDB**, and **Redis**, ensuring high system reliability and performance. Strong understanding of SRE principles, including **Incident Management**, **Error Budgets**, **SLI**, and **SLO** metrics in Agile environments. Exceptional ability to enhance operational efficiency while collaborating with cross-functional teams, contributing to the successful delivery of impactful projects at renowned organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Implemented robust infrastructure as code using **Terraform** to manage deployments and facilitate seamless operations across **GCP** and **Kubernetes** environments.\nContainerized applications with **Docker** to improve deployment efficiency and streamline CI/CD processes with **Jenkins**.\nAutomated system monitoring and reporting through **Grafana** and **Cloud Monitoring**, ensuring high availability and performance metrics adherence with SLIs and SLOs.\nDeveloped and maintained backend services in **Python**, optimizing operations and data flow through **PostgreSQL** and **MongoDB**.\nUtilized **Linux** and **Bash** scripts for system automation, monitoring, and incident management, achieving a 90% reduction in response times for alerting and operations.\nEngaged in Agile methodologies to enhance team workflows, employing error budgets and incident management strategies that resulted in 95% system uptime across all services.\nLed the integration of **Redis** for improved caching mechanisms, reducing latency by 30% in data retrieval processes.\nFostered cross-functional collaboration to ensure compliance and security measures are met, leveraging SRE principles for ongoing system reliability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Terraform** for infrastructure automation and environment management, ensuring a scalable and consistent deployment of microservices on Azure App Services.\nImplemented container orchestration using **Kubernetes** and **Docker** for efficient deployment and management of services across various environments.\nDeveloped robust backend systems in **Python** and **FastAPI**, automating document workflows and enhancing user onboarding processes with a focus on scalability and reliability.\nCreated event-driven microservices with **Celery** and **Redis**, improving the asynchronous processing of over **500K** financial data transactions per month.\nEngineered data pipelines employing **Apache Airflow** and **Azure Functions** for seamless automation and secure exchange of regulatory data, increasing efficiency by **30%**.\nPerformed comprehensive security audits to enforce compliance with industry standards, incorporating **OAuth2** and **Azure AD B2C** for secure user authentication and access controls.\nLed incident management processes, applying **SLI**, **SLO**, and **Error Budgets** best practices to minimize downtimes and enhance service reliability.\nCollaborated effectively with cross-functional teams in an **Agile** environment to facilitate smooth system integration and ensure successful release management."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed backend services utilizing **Python**, **PostgreSQL**, and **Flask** for trade execution, portfolio management, and account tracking, enhancing operational efficiency by **30%**.\n• Engineered real-time price feed processors using **asyncio**, **WebSockets**, and **Redis**, delivering up-to-the-minute trading data supporting high-frequency transactions with a latency drop of **15%**.\n• Collaborated with frontend teams to ensure data delivery through REST APIs and WebSocket channels, improving user interaction and satisfaction ratings by **20%**.\n• Ensured compliance with regulatory requirements, including MiFID II and GDPR, while following internal security protocols and minimizing compliance-related risks.\n• Implemented comprehensive test suites with **PyTest**, **tox**, and mock servers, streamlining QA and CI processes, resulting in a **25%** reduction in development cycles.\n• Introduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and improving overall process management.\n• Utilized **GCP**, **Docker**, **Kubernetes**, and **Terraform** for deploying scalable solutions, enhancing operational efficiency and reducing deployment times by **40%**.\n• Implemented **Linux** and **Bash** scripting for automated operational tasks, contributing to increased system reliability and performance.\n• Utilized **Jenkins**, **Grafana**, and **Cloud Monitoring** tools for robust incident management and error budget adherence, ensuring SLI and SLO targets were met consistently."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, Bash, SQL, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), GCP\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, Jenkins, GitHub Actions, Azure DevOps, Terraform\n\n**Cloud & Infrastructure**\n\tAWS, GCP, Azure, Grafana, Cloud Monitoring, Linux\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, CI/CD, PyTest, Agile, SRE, Incident Management, Error Budgets, SLI, SLO",
+  "apply_company": "Digital Science"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Solutions Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Solutions Engineer with 8 years of experience, I possess in-depth knowledge of data management technologies and frameworks, including **Snowflake**, **Teradata**, **Spark**, **Databricks**, **Hadoop**, **Oracle**, **SQL Server**, and **DBT**. I have a strong focus on data governance, architecture, and the implementation of Data Mesh, Data Vault, and Data Fabric strategies, ensuring compliance with industry standards and robust data management practices.\nMy technical expertise extends to cloud platforms such as **AWS** and **Azure**, leveraging **IaaS** and **PaaS** for scalable enterprise solutions. I am proficient in advanced **SQL** queries and the application of machine learning techniques employing **Python**, **PySpark**, and **Snowpark** for data processing and analytics.\nWith a solid foundation in microservices architecture and orchestration, accompanied by my experience in **DevOps** practices, I have successfully led initiatives that optimized data workflows and enhanced platform performance. My ability to translate complex data insights into actionable business strategies is complemented by a hands-on approach to building and deploying advanced analytical models utilizing tools like **Tableau**, **PowerBI**, and **Streamlit**.\nI am dedicated to delivering innovative solutions that drive efficiency and value across healthcare and financial sectors, integrating AI/ML capabilities for predictive analytics and intelligent automation.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Solutions Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": " - Utilized **Snowflake** and **Teradata** to architect and develop a comprehensive Data Warehouse solution, ensuring optimal performance in data retrieval and management for healthcare and financial platforms.\n- Employed **Apache Spark** and **Databricks** for large-scale data processing and analysis, enabling efficient data ingestion and transformation across various formats and sources.\n- Implemented **Hadoop** for distributed storage and processing of vast amounts of healthcare data, enhancing data accessibility and scalability.\n- Designed and maintained **Data Lake** architectures, optimizing storage and query performance through **Data Vault** and **Medallion** modeling strategies.\n- Ensured robust **Data Governance** and compliance with regulations by establishing protocols around **Data Management** and security best practices, focusing on **Encryption** and **Identity and Access Management**.\n- Led cross-team collaborations to implement **Data Mesh** principles for decentralized data ownership, improving data quality and inter-team workflows.\n- Developed advanced analytics frameworks utilizing **Python** and **SQL**, embedding linear regression, forecasting, and clustering capabilities for actionable insights.\n- Integrated **DataFrames**, **Avro**, and **Delta Lake** within processing pipelines for effective data handling and versioning throughout its lifecycle.\n- Implemented **Orchestration** strategies to streamline workflows using tools like **DBT**, **Talend**, and **Informatica** for automated and efficient data transformation processes.\n- Utilized BI tools like **Tableau**, **PowerBI**, and **MicroStrategy** to create dynamic dashboards, facilitating real-time decision-making through effective data visualization.\n- Strengthened disaster recovery and business continuity plans leveraging **AWS** and **Azure** solutions, including **IaaS** and **PaaS** services, ensuring high availability of critical systems.\n- Delivered robust models for **Natural Language Processing** applications leveraging various Language Models to enhance data parsing and anomaly detection in healthcare and finance contexts."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Led the development of scalable data architectures incorporating **Snowflake**, **Teradata**, and **Data Lake** strategies, enhancing data management and accessibility for enterprise-level applications.\n• Designed and implemented ETL pipelines utilizing **Apache Airflow**, **DBT**, and **Talend**, achieving efficient batch and real-time data processing, which improved data flow and reduced latency by up to **30%**.\n• Developed analytical frameworks using **Spark** and **Databricks** for processing large datasets, streamlining operations and enabling real-time insights with a processing capacity of over **1 million** transactions per minute.\n• Established robust data governance practices aligned with **Data Mesh** and **Data Vault** methodologies, facilitating compliance and enhancing data quality across business units.\n• Implemented machine learning models with **Python**, **PySpark**, and **scikit-learn** to perform advanced analytics including forecasting and classification, increasing predictive accuracy and efficiency in reporting by **25%**.\n• Created data visualization dashboards using **Tableau** and **Power BI**, providing actionable insights for stakeholders and improving decision-making processes across financial services.\n• Leveraged **AWS** and **Azure** cloud services for infrastructure and application deployment, ensuring optimized performance and security while reducing operational costs by **15%**.\n• Conducted regular audits and performance analyses leading to strategic recommendations in **IaaS** and **PaaS** deployment, bolstering disaster recovery and data encryption protocols to safeguard sensitive information."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Engineered data management solutions leveraging **Snowflake**, **Databricks**, and **Hadoop**, optimizing enterprise architecture for data lake and data warehouse initiatives, ensuring high performance for analytics workloads.\n• Developed and maintained ETL processes using **DBT**, **Talend**, and **Informatica**, enhancing data governance and data mesh strategies to provide high-quality, reliable datasets for analytical use cases.\n• Implemented advanced data modeling techniques including **Data Vault**, **Kimball**, and **3NF** to support robust reporting infrastructures and analytical frameworks, critical for key business decisions.\n• Utilized **AWS** and **Azure** services to deploy IaaS and PaaS solutions, ensuring secure and scalable cloud infrastructure aligned with business needs.\n• Executed data orchestration and pipeline automation utilizing **Apache Spark**, **PySpark**, and **Python**, ensuring seamless data flow and transformations across various data sources.\n• Applied advanced SQL techniques and implemented analytical models such as linear regression, variance analysis, and time series analysis using tools like **Tableau**, **PowerBI**, and **MicroStrategy** for impactful data visualization and insights.\n• Developed and optimized security protocols around networking and data encryption in compliance with GDPR and identity and access management best practices, ensuring data integrity and protection.\n• Collaborated closely with cross-functional teams to define and manage disaster recovery strategies, ensuring data resilience and business continuity across operations.\n• Led efforts in machine learning feature engineering and deployment, utilizing tools for natural language processing, classification, and clustering to derive actionable insights from large datasets."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Snowflake, Teradata, Oracle, SQL Server\n\n **Big Data Technologies:**\n\tSpark, Databricks, Hadoop, Snowpark, PySpark, DataFrames, Avro, Apache Iceberg, Delta Lake\n\n **Data Management:**\n\tData Mesh, Data Vault, Data Fabric, Data Governance, Data Lake, Data Warehouse, Medallion, Kimball, 3NF\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, IaaS, PaaS, Disaster Recovery\n\n **Cloud & Infrastructure:**\n\tNetworking, Security, Encryption, Identity and Access Management\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Tableau, PowerBI, MicroStrategy, Thoughtspot, SAS, Streamlit, time series analysis, Advanced SQL, modeling, forecasting, classification, regression, clustering, dimensionality reduction, Natural Language Processing, Language Models, variance analysis",
+  "apply_company": "Snowflake"
+}

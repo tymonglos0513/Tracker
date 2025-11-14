@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Golang Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Golang Engineer with 13+ years of experience in building high-performance applications, particularly in the healthcare and financial sectors. Proficient in **Golang**, **TypeScript**, **Postgres**, and modern frameworks such as **Vue** and **React**. Extensive expertise in developing and deploying asynchronous workflows and **cloud-native deployments** using **Docker** and **Kubernetes**. Demonstrated success in implementing **REST APIs**, **CI/CD** pipelines, and designing distributed systems to enhance application reliability and efficiency. \nStrong background in leading teams through collaborative programming and mentoring junior developers while ensuring adherence to industry standards. Proven track record of aligning solutions with compliance requirements such as HIPAA, FHIR, PCI DSS, and SOC 2. Highly skilled in utilizing **Node.js**, **FastAPI**, and **Django** for backend development, as well as **AI/ML** integration using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained cloud-native applications using **Golang** in conjunction with **TypeScript** for robust backend services, ensuring asynchronous workflows and efficient **REST APIs**.\n- Designed UI architectures leveraging **React** and **Vue** for engaging and responsive user experiences that met business and user requirements.\n- Implemented **CI/CD** pipelines utilizing tools such as GitHub Actions and Jenkins to automate testing, integration, and deployment for distributed systems, achieving a deployment frequency of **30+** times per month.\n- Led the transformation of monolithic applications into microservices utilizing **Docker** and **Kubernetes** for effective orchestration, enhancing scalability and reliability by **40%**.\n- Collaborated with cross-functional teams to define service design principles and ensure high levels of stakeholder communication and collaboration, resulting in a **25%** reduction in project delays.\n- Mentored junior engineers on best practices in **Golang** and **Postgres**, facilitating knowledge sharing and promoting a culture of continuous learning among team members.\n- Developed and optimized database schemas using **Postgres** for enhanced performance, enabling query optimizations that improved data retrieval times by **50%**.\n- Designed and implemented highly available and fault-tolerant system architectures, achieving uptime of **99.99%** for critical services during peak usage.\n- Introduced advanced debugging and monitoring strategies to systematically identify performance bottlenecks within asynchronous workflows.\n- Engaged in leadership activities, promoting a collaborative environment through regular team meetings and feedback sessions that encouraged open communication.\n- Conducted code reviews and implemented robust testing strategies to ensure high-quality deliverables while maintaining responsibility for architecture and design decisions."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Golang** for building high-performance distributed systems, ensuring robust service design and interaction with **Postgres** databases for data persistence and retrieval.\nImplemented **TypeScript** in developing scalable and maintainable UI architectures within front-end applications using **React (18)** and **Vue 3**, enhancing user experience for financial tools.\nLeveraged **Docker** and **Kubernetes** for containerization and orchestration of applications, improving deployment efficiency and reliability by **40%**.\nDesigned and integrated **REST APIs** for seamless communication between microservices, aligning with asynchronous workflows to support large-scale transactional systems.\nEstablished CI/CD pipelines to automate deployment processes, reducing deployment times by **30%** and ensuring consistent delivery of features and updates.\nLed mentoring sessions to enhance team skills in cloud-native deployments and development best practices, fostering a culture of collaboration and knowledge sharing.\nDeveloped event-driven solutions utilizing **Kafka** and **RabbitMQ** for asynchronous communication across distributed systems, facilitating real-time data processing.\nContributed to the development of ETL processes using **Python**, integrating with **Apache Airflow** for workflow orchestration and data ingestion from various sources, thereby supporting both batch and real-time analytics.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed scalable backend services for a global e-commerce platform using **Golang**, focusing on high availability and performance across critical modules such as checkout and order fulfillment.\nDesigned and implemented robust **REST APIs** to facilitate seamless communication between frontend and backend, enhancing overall system responsiveness.\nEngineered distributed systems leveraging **Docker** and **Kubernetes** for cloud-native deployments, ensuring efficient orchestration and service management.\nCollaborated with the frontend team to create user interfaces using **React (18)** and **Vue 3**, utilizing **TypeScript** for type safety and improved development efficiency.\nLed the development of CI/CD pipelines to streamline the deployment process, significantly reducing deployment times by **30%** and increasing overall software reliability.\nMentored junior developers in best practices for **asynchronous workflows** and **UI architectures**, fostering a collaborative environment that improved team productivity.\nImplemented a feature flagging system to support controlled rollouts and A/B testing for new features, enhancing user experience and deployment agility.\nOptimized performance by integrating **Postgres** for relational data storage, ensuring efficient handling of data transactions and compliance with GDPR standards.\nUtilized **Vue** and **React** frameworks for building responsive e-commerce UIs, ensuring accessibility compliance (WCAG 2.1) for diverse user experiences.\nIntegrated CI/CD strategies that improved the efficiency of code delivery and reduced bugs in production by **25%**.\n"
+    }
+  ],
+  "skills": "**Programming Languages**\n\tGolang, TypeScript, Python\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks**\n\tReact, Vue, Angular\n\n**API Technologies**\n\tREST APIs\n\n**Serverless and Cloud Functions**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\tCI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure**\n\tcloud-native deployments\n\n**Other**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot\n\tdistributed systems, service design, UI architectures, asynchronous workflows, mentoring, communication, collaboration, leadership",
+  "apply_company": "Threecolts"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Software Engineer with 8 years of experience in developing high-performance solutions utilizing **Golang**, **Node.js**, **Redis**, **ClickHouse**, and **TypeScript**. Proven expertise in building scalable microservices architectures and real-time analytics applications alongside proficiency with **PHP**, **Laravel**, and **Vue3**. I have effectively managed technical projects by employing CI/CD practices via **GitHub Actions** and orchestrating containerized applications with **Docker** and **Kubernetes**.\n\nMy strong background includes leading teams and guiding project development while adhering to high compliance standards in areas like ***fraud detection***, ***data aggregation***, and real-time data processing. I bring familiarity with cloud platforms, monitoring tools like **Prometheus** and **Grafana**, and robust experience deploying applications in production environments following best practices and utilizing tools such as **Nginx**, **Kafka**, and **SSP/DSP** frameworks. I am committed to delivering innovative solutions that enhance operational efficiency and drive successful outcomes.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Node.js** and **TypeScript** to architect and develop scalable microservices for healthcare and financial platforms, ensuring compliance with industry standards.\nImplemented and maintained CI/CD pipelines using **GitHub Actions** for automated testing, security scans, and deployment, enhancing development efficiency by **25%**.\nDesigned and implemented data aggregation processes utilizing **MongoDB** and **Redis** to optimize the storage and retrieval of large-scale data, achieving response times below **200ms**.\nEmployed **Docker** and **Kubernetes** for container orchestration to improve application scalability and manageability, facilitating over **100%** increase in deployment frequency.\nLed the design and deployment of **real-time analytics** systems for fraud detection using **Kafka** and **Prometheus**, reducing false positive rates by **15%**.\nManaged cloud architecture with **Ubuntu**, ensuring high availability and performance of applications across multiple environments.\nCollaborated on the development of user interfaces using **Vue3**, enabling seamless user experiences for financial applications.\nApplied **ETL** processes to improve data quality and integrity across various systems, driving better decision-making and insights.\nImplemented advanced monitoring and visualization solutions using **Grafana** and **Nginx** to track application performance and health metrics.\nLeveraged **Microservices** architecture to break down monolithic applications, improving team agility and reducing time to market by **30%**.\nProvided technical leadership and mentorship to junior developers, fostering team collaboration and knowledge sharing, which improved team performance metrics significantly.\nConducted regular code reviews and enforced best practices for code quality and security, leading to improved maintainability and reduced bugs in production.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Designed and implemented microservices architecture using **Node.js** and **Golang**, enhancing system scalability and maintainability for financial platforms with a transaction throughput increase of **40%**.\n• Developed ETL pipelines utilizing **Apache Airflow** and **Docker** for batch processing and real-time data ingestion from internal and third-party sources, handling over **1 million records** monthly.\n• Integrated real-time analytics systems with **ClickHouse**, supporting operations in monitoring transactions with a response time improvement to under **5 seconds**.\n• Established event-driven communication using **Kafka** and **RabbitMQ**, allowing for seamless processing of over **10,000 events per minute** in transaction and compliance workflows.\n• Led technical teams in the creation of user-centric applications leveraging **React (18)**, **Vue 3**, and **TypeScript** with a focus on responsive design, increasing user engagement metrics by **30%**.\n• Employed **Redis** for caching strategies and improved database query response times by **50%**, supporting high-volume financial applications.\n• Championed fraud detection implementation using advanced ML techniques and **scikit-learn**, identifying suspicious patterns with a detection rate improvement of **25%**.\n• Spearheaded technical leadership initiatives, driving team efficiency, mentoring junior developers, and improving project delivery timelines by **20%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Engineered backend services using **Golang** and **Node.js** (NestJS, Express), focusing on performance optimization and scalability across critical systems such as order management and user authentication for a high-traffic e-commerce platform.\n• Developed microservices architecture to ensure modularity and maintainability, facilitated by **Docker** and **Kubernetes**, effectively enabling deployment processes with **GitHub Actions**.\n• Implemented real-time analytics features utilizing **Kafka** for event-driven data processing, resulting in immediate updates for inventory and orders across the platform, with an average response time improvement of **35%**.\n• Designed and managed data storage solutions using **MongoDB**, **MySQL**, and **ClickHouse**, ensuring data durability and fast access under heavy load conditions, reducing query times by up to **50%**.\n• Leveraged **Redis** for high-performance caching strategies, significantly enhancing responsiveness for user sessions and product searches, leading to a **20%** increase in user engagement metrics.\n• Applied technical leadership in team management and development processes, including the establishment of agile practices and CI/CD workflows with **GitHub Actions** for efficient project delivery.\n• Developed applications with a focus on frontend technologies like **Vue 3** and **TypeScript**, ensuring a seamless user experience by optimizing performance and reducing load times to under **2 seconds**.  \n• Worked extensively with monitoring tools like **Prometheus** and **Grafana** to gather system metrics and ensure uptime, proactively addressing potential issues before they impact users.\n• Collaborated across teams to integrate fraud detection mechanisms and data aggregation techniques, improving transaction security and reducing fraudulent transaction occurrences by **15%**.\n• Enforced security best practices by implementing OAuth 2.0 and RBAC, ensuring that both customer and admin access are tightly controlled and adhere to GDPR compliance."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tGolang, JavaScript/TypeScript, PHP, Python\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js, Laravel\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular, Vue3\n\n**API Technologies:**\n\tOpenRTB, DSP, SSP, Kafka, Prebid\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), ClickHouse\n\n**Caching:**\n\tRedis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tUbuntu, Nginx, Certbot, SSH, Prometheus, Grafana\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Microservices, ETL, Real-time analytics, Bash, Technical leadership, Team management, Fraud detection, Data aggregation",
+  "apply_company": "Luna Media"
+}

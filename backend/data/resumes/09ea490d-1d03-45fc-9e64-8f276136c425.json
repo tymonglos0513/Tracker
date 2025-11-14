@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Software Engineer with 8 years of experience, I excel in implementing high-performance solutions using **C**, **C++**, **Python**, and **Golang**, alongside robust expertise in **Linux** and **multithreading** techniques. Proficient in **AWS**, **Azure**, and **GCP**, I leverage cloud technologies for efficient application deployment, utilizing **Terraform** for infrastructure as code. My experience includes implementing **microservices** architecture and optimizing **containers** for scalable applications, alongside working with **NFV** and **network segmentation** strategies.\n\nI have a comprehensive background in developing enterprise-grade platforms that emphasize **multicore** processing and **DPDK** for enhanced data throughput, while ensuring compliance with industry standards like PCI DSS. My strong foundation in **CI/CD** pipelines boosts development speed and reliability. Additionally, I bring valuable experience in building machine learning workflows and integrating advanced analytics, making me well-equipped to contribute effectively to your team's goals.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and implemented scalable microservices architectures using **Python** and **Golang** to enhance application performance and maintainability in a multi-core environment.\n• Designed and deployed CI/CD pipelines utilizing **AWS**, **Azure**, and **GCP** for seamless integration and continuous delivery, ensuring rapid deployment cycles and improved collaboration.\n• Employed virtualization technologies and **containers** to optimize resource utilization and streamline application deployment processes across multiple environments.\n• Architected robust networking solutions incorporating **Multithreading** and **Network Segmentation** strategies, leveraging **DPDK** to enhance packet processing capabilities.\n• Integrated **NFV** (Network Functions Virtualization) to deploy network services more efficiently, reducing costs and improving service agility.\n• Utilized **Terraform** for infrastructure as code, automating the provisioning and management of cloud resources, achieving consistency and compliance.\n• Collaborated on performance tuning initiatives using **Linux** systems to bolster application speed and efficiency under varying load conditions.\n• Conducted in-depth testing strategies with modern testing frameworks, ensuring code reliability and application security across both front-end and back-end services.\n• Implemented data protection solutions and protocols, including **IPSec**, to secure communication channels in sensitive application areas.\n• Provided mentorship and guidance to junior engineers, fostering a culture of continuous learning and improvement within the development team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** for developing scalable microservices, enabling efficient resource management and performance optimization in multi-core environments.\nLeveraged cloud services such as **AWS**, **Azure**, and **GCP** to enhance application deployment and scalability, achieving a **30%** reduction in downtime.\nImplemented **CI/CD** pipelines to automate the software development lifecycle, resulting in a **40%** decrease in release times.\nDesigned and developed network segmentation solutions using **Linux** and **Virtualization**, improving security by isolating critical infrastructures within the financial platforms.\nDeveloped and optimized resource allocation strategies in **Multithreading** and **Multicore** architectures, enhancing system throughput for high-volume transaction processing by **50%**.\nEngineered robust event-driven architectures with **Docker** and **Kubernetes** for managing containerized applications, ensuring seamless scalability and rapid deployment cycles.\nUtilized **Terraform** for infrastructure as code (IaC) to streamline provisioning processes, enabling rapid setup of foundational cloud resources with versioning and repeatability.\nCollaborated with cross-functional teams to integrate **Multicast Routing** and **Path Selection** algorithms, optimizing data routing efficiency across distributed financial applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Golang** in developing high-performance backend services for diverse applications, focusing on multithreading and multicores for enhanced scalability and efficiency.\nEngineered cloud-based solutions using **AWS**, **Azure**, and **GCP** to ensure seamless deployment and integration of services, enhancing operational agility and reducing downtime by **30%**.\nImplemented **CI/CD** pipelines using **Terraform** for consistent deployments and infrastructure automation, achieving deployment efficiency improvements of **40%**.\nDesigned microservices architecture to promote modularity and code reusability, facilitating a **10%** increase in development speed and reducing technical debt.\nDeveloped and maintained high-throughput applications leveraging **Linux** environments, optimizing for performance through effective resource management and **network segmentation** strategies.\nApplied **DPDK** to process packets at high speed, significantly improving the efficiency of data traffic handling.\nIntegrated containerization technology to streamline development workflows, ensuring consistent environments across all stages of application life cycle.\nExecuted robust security measures through **IPSec**, role-based access control (RBAC), and microservices isolation, achieving over **99.9%** uptime and adherence to compliance standards.\nCollaborated with cross-functional teams to enhance product features and resolve issues, fostering a culture of continuous improvement and collaborative problem-solving."
+    }
+  ],
+  "skills": "Programming Languages:\n\tC, C++, Golang, Python\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose, Linux, Virtualization, Containers, Microservices, NFV, Network Segmentation, Path Selection\n\n**Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow, Authentication & Security: Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Multithreading, Multicore, DPDK, DPI, IPSec",
+  "apply_company": "Arista Networks"
+}

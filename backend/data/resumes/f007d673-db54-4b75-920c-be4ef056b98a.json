@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience in building high-performance applications, leveraging a strong skill set in **Python**, **TypeScript**, and **APIs**. Adept with **Relational Databases** including **Postgres**, and proficient in utilizing **Infrastructure as Code** strategies, specifically **CloudFormation**, to streamline deployment processes on **AWS**. \nExpert in data management solutions including **Data Warehousing** and **Data Lakes**, with a focus on optimizing data storage and retrieval for analytics. Strong advocate for functional programming principles, ensuring clean, maintainable code that adheres to best practices. \nExperienced in developing applications in diverse environments, particularly in healthcare and finance, and skilled in utilizing frameworks such as **React**, **Node.js**, and **Django**. \nWell-versed in building AI/ML-powered solutions with a solid grounding in MLOps strategies, model training, serving, and orchestration using tools like **MLflow** and **Airflow**. Proven ability to implement cloud-native systems and microservices, enhancing application performance and scalability.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed robust applications utilizing **Python** and **TypeScript** to enhance healthcare and fintech platforms ensuring high performance and reliability.\n• Designed and optimized **PostgreSQL** databases to ensure efficient data storage and retrieval, handling multiple terabytes of transactions for seamless operations.\n• Implemented **APIs** for smooth integration between systems, adhering to best practices in **Functional Programming** and ensuring data integrity.\n• Leveraged Infrastructure as Code principles using **CloudFormation** to automate deployments across **AWS**, managing multiple environments efficiently.\n• Built and maintained scalable data lakes and warehouses, supporting analytics and machine learning operations for data-driven decision-making.\n• Executed CI/CD pipelines for regular updates and feature releases, enhancing application uptime by **99.9%** through the use of **GitHub Actions** and automated testing frameworks.\n• Actively participated in code reviews and maintained documentation, ensuring maintainability and knowledge transfer across engineering teams.\n• Collaborated with cross-functional teams to drive the migration of legacy systems into a microservices architecture utilizing **AWS** services and facilitating a transition from monolithic applications.\n• Enhanced application performance and reduced user wait times by implementing advanced caching strategies incorporating **Redis** and data indexing techniques.\n• Conducted performance testing and optimization, achieving a **30%** reduction in load times for critical financial applications, ultimately improving user satisfaction.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Python** and **TypeScript** to modernize core financial platforms, migrating to microservices architecture with frameworks like **Node.js (NestJS/Express)** and **FastAPI**, improving scalability and performance for high-volume transactional systems.\n\nDesigned and implemented robust **APIs** to ensure seamless integration with relational databases, specifically **Postgres**, achieving a **30%** increase in system efficiency.\n\nUtilized **Infrastructure as Code** principles to manage deployments using **CloudFormation**, enabling rapid provisioning and management of cloud resources.\n\nDeveloped advanced data solutions, including **Data Warehousing** and **Data Lakes**, to consolidate and analyze vast amounts of financial data, achieving a **25% reduction** in data retrieval time.\n\nBuilt interactive front-end applications using **React (18)** and **Next.js**, enhancing user engagement and experience in tools and admin panels, leading to a **15% increase** in user satisfaction ratings.\n\nCreated real-time analytics dashboards integrating **D3.js** and **Power BI Embedded**, providing stakeholders with instant insights and facilitating informed decision-making.\n\nDesigned and deployed an event-driven architecture with technologies like **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring robust asynchronous communication across critical workflows, including payments and compliance notifications.\n\nDeveloped ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory** for effective data ingestion from internal and third-party sources, enabling both batch and real-time processing capabilities.\n\nBuilt and deployed machine learning models for fraud detection utilizing **scikit-learn**, **XGBoost**, and **Azure ML**, achieving proactive detection of suspicious activities based on user behavior patterns.\n\nCreated ML pipelines for real-time credit scoring and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference seamlessly into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** frameworks (FastAPI, Django) to design and optimize backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment, achieving an uptime of **99.9%**.\nDeveloped and maintained **Postgres** as a relational database solution, ensuring robust data handling for high-traffic e-commerce workflows, with response times improved by **40%** through optimized queries.\nImplemented **Infrastructure as Code** using **CloudFormation** to streamline deployment processes, enabling automated infrastructure setup and updates, which increased deployment efficiency by **30%**.\nEngineered real-time features using WebSockets and event-driven architecture powered by Kafka and RabbitMQ for responsive order updates, dynamic inventory tracking, and high-quality customer support.\nContributed to frontend application development using **TypeScript**, React (18), and Angular, delivering fast, responsive user experiences on both web and mobile platforms, showcasing improvements in load times of up to **50%**.\nLeveraged **Data Warehousing** techniques to enhance data analysis processes, ensuring timely access to critical business insights and reporting capabilities.\nIntegrated AI/ML-based recommendation engines using scikit-learn and LightGBM, personalizing product listings, optimizing search relevance, and improving conversion rates by **15%** using real-time behavioral data analysis.\nImplemented feature flags and blue-green deployments using LaunchDarkly and Kubernetes for controlled rollouts, A/B testing, and enhanced risk mitigation during major platform updates.\nApplied role-based access control (RBAC) and **OAuth 2.0** for secure customer and admin access, ensuring GDPR compliance and user data protection throughout the platform, mitigating data breaches by **25%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tAPIs\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS: RDS, S3, CloudFormation, Azure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Functional Programming",
+  "apply_company": "Lunar Energy"
+}

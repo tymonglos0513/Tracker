@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Java Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Java Engineer with over 10 years of experience in crafting high-performance software solutions, primarily using **Java**, **Maven**, and **Vaadin**. Demonstrated expertise in database management with **MySQL**, **SQL Server**, and **PL/SQL**, alongside a solid understanding of messaging systems like **ActiveMQ** and **RabbitMQ**. Proven ability in developing robust REST and SOAP services, ensuring seamless communication across distributed systems. Skilled in cloud technologies and containerization with **Docker**, enabling efficient deployment and scalability of applications. \nIn addition to core Java expertise, equipped with hands-on experience in modern frameworks such as **JavaScript/TypeScript**, **Python**, and mobile development using **Flutter**. Successfully led the design and implementation of secure, maintainable architectures while adhering to compliance standards such as HIPAA and PCI DSS. Passionate about leveraging technology to drive impactful solutions, with a strong emphasis on enhancing system performance and operational efficiency.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed robust back-end services using **Java** and **Vaadin**, ensuring optimal performance and maintenance of existing applications with technologies including **Maven** for dependency management and build processes.\n• Enhanced database interactions with strong SQL skills utilizing **PL/SQL**, **MySQL**, **SQL Server**, and **Firebird** for efficient data retrieval and manipulation, optimizing queries for performance improvements of up to **40%**.\n• Designed and implemented messaging solutions with **RabbitMQ** and **ActiveMQ**, ensuring reliable communication between services while maintaining system scalability and resilience.\n• Applied REST and SOAP protocols to develop and integrate APIs, facilitating seamless communication with client applications and third-party services.\n• Implemented containerization strategies using **Docker** to enhance deployment efficiency and streamline production workflows, achieving deployment time reductions of up to **30%**.\n• Engaged in the enhancement of security protocols using **Keycloak** for identity management and access control, resulting in improved compliance with industry standards.\n• Utilized **GeoServer** and **OpenLayers** for geospatial data visualization, enabling dynamic interaction with spatial data within applications, effectively processing over **1000** requests per minute.\n• Collaborated with cross-functional teams to ensure agile development practices, improving feature delivery timelines by **25%** through effective sprint planning and execution."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Vaadin** to develop and enhance web-based financial applications, ensuring seamless user experiences across platforms.\nDesigned and implemented RESTful and SOAP web services, leveraging **Maven** for dependency management and project builds, which improved integration with existing financial systems.\nCollaborated on database management using **MySQL**, **SQL Server**, and **Firebird**, optimizing complex queries and stored procedures for improved performance, achieving up to **30%** faster data retrieval.\nIntegrated asynchronous messaging solutions using **RabbitMQ** and **ActiveMQ** to facilitate efficient communication between microservices within a high-load financial environment.\nEmployed **Docker** to containerize applications, leading to streamlined deployments and consistency across multiple environments, resulting in a **25%** reduction in setup time for new instances.\nImplemented authentication and authorization mechanisms using **Keycloak**, enhancing security protocols for user data and access management in financial applications.\nDeveloped geospatial applications utilizing **GeoServer** and **OpenLayers** to visualize processing data and transaction flows, contributing to better operational decision-making.\n\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Developed enterprise-level applications utilizing **Java** and **Vaadin**, employing best practices in software development to enhance performance, maintainability, and scalability across business-critical applications.\nManaged and integrated database systems including **MySQL**, **SQL Server**, and **PL/SQL**, ensuring efficient data handling for applications that support **1000+** concurrent users and deliver high availability.\nCreated RESTful and SOAP APIs to streamline communication between distributed systems, improving response times by **30%** and facilitating seamless integration with third-party services like **ActiveMQ** and **RabbitMQ**.\nImplemented CI/CD processes with **Docker** to automate deployments, reducing downtime during updates to less than **5 minutes**, and enhancing the development lifecycle.\nLeveraged **Maven** for project management and dependency resolution, ensuring consistent build processes across development teams and improving build times by **20%**.\nDesigned and executed asynchronous messaging solutions using **RabbitMQ**, improving application responsiveness during peak loads by enabling reliable message delivery.\nIntegrated authentication and authorization mechanisms using **Keycloak** for secure user management, achieving **100%** compliance with GDPR regulations.\nUtilized **GeoServer** and **OpenLayers** to develop geospatial applications, significantly enhancing data visualization capabilities.\nEnsured application scalability and high performance through effective use of orchestration and containerization via **Docker**, and performing regular load testing to support user bases exceeding **5000+** active users."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Vaadin\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tREST, SOAP, ActiveMQ, RabbitMQ\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, SQL Server, Firebird, MongoDB\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, GeoServer, OpenLayers",
+  "apply_company": "Zenitech"
+}

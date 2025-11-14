@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Firmware Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Firmware Engineer with 10+ years of experience in embedded systems and firmware development. Proficient in **C**, **C++**, **Linux**, and real-time operating systems (RTOS), with a strong grasp of hardware protocols like **AXI**, **AHB**, and **MMU**. Expertise in security measures including **cryptographic signatures**, **secure boot**, and **anti-rollback** mechanisms to ensure robust hardware security, complemented by hands-on experience with **hardware root-of-trust** systems. Skilled at debugging with tools such as **JTAG**, **UART**, and **ICE**, and adept in interfacing with **NVMe** and **ATA** storage solutions. Experienced with data integrity techniques involving **ECC**, **wear-leveling**, and **Flash Translation Layer** for reliable storage management. Demonstrated capability in anomaly detection through effective data monitoring. Additionally, brings strong scripting skills in **Python**, with a background in continuous integration and version control using **Git**. Passionate about delivering secure and high-quality firmware solutions that drive innovation in technology.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Firmware Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented secure firmware solutions with a focus on **C**, **C++**, and **Python**, ensuring robustness in embedded systems applicable to various industries.\n• Spearheaded debugging efforts utilizing **JTAG**, **UART**, and **ICE** to improve system reliability, achieving significant reductions in debugging time by 30%.\n• Developed real-time operating systems (RTOS) architecture to enhance performance on embedded Linux platforms, optimizing memory management using **MMU** and **DMA** strategies.\n• Established security protocols including **secure boot**, **cryptographic signatures**, **anti-rollback**, and **hardware root-of-trust**, leading to a 25% improvement in device security metrics.\n• Led projects integrating **Flash Translation Layer**, focusing on **wear-leveling** and **garbage collection** techniques to extend the life of storage devices and ensure data integrity.\n• Collaborated with cross-functional teams to implement anomaly detection algorithms, leveraging **Python** for data analysis and enhancing system reliability.\n• Implemented comprehensive testing strategies across embedded firmware, utilizing tools such as **Git** for version control and ensuring robust integration.\n• Optimized communication protocols for embedded devices to improve performance over **NVMe** and **ATA** storage interfaces.\n• Designed and executed development pipelines to facilitate consistent firmware deployment and enhancements with scripting capabilities in **Python**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Integrated and utilized **Python** for scripting and automation processes, enhancing workflows within embedded systems for financial technology.\nConducted debugging and testing of secure boot protocols and anti-rollback measures within embedded systems using **JTAG** and **UART**, ensuring robust security features for financial applications.\nImplemented anomaly detection mechanisms to proactively flag discrepancies in systems, enhancing security measures across embedded and firmware solutions.\nDeveloped secure firmware components with a focus on cryptographic signatures and hardware root-of-trust integration, aiding in compliance with financial industry standards.\nLeveraged **C** and **C++** for embedded system development, optimizing performance and resource management in real-time operating systems (**RTOS**) for high-reliability financial applications.\nUtilized **NVM Express (NVMe)** and **Advanced Technology Attachment (ATA)** for data transfer optimizations, providing enhanced speed and reliability in storage handling for financial data.\nDesigned and implemented wear-leveling and garbage collection strategies within solid-state drives (**SSD**), ensuring longevity and performance in high-volume financial transaction systems.\nManaged version control and collaboration using **Git**, enhancing team productivity and project tracking in firmware development efforts."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "• Designed and optimized embedded systems using **C** and **C++**, ensuring robustness and efficiency in firmware for secure boot and anti-rollback features based on **RTOS** and **Linux** platforms.\n• Developed security measures using cryptographic signatures, implementing hardware root-of-trust for enhanced system integrity and safety in embedded products.\n• Conducted debugging and validation processes leveraging **JTAG**, **UART**, and **ICE** technologies, achieving a **30%** reduction in debugging time and improving firmware reliability.\n• Implemented memory management techniques like **Flash Translation Layer**, wear-leveling, and garbage collection to enhance data integrity for **SSD** devices.\n• Utilized **DMA** and **AXI** protocols to optimize data flow and communication speed in embedded systems, boosting overall execution efficiency by **25%**.\n• Created custom solutions for anomaly detection in firmware operations, employing advanced debugging and diagnostic strategies to ensure consistent performance.\n• Collaborated on the development of secure protocols for data transfer utilizing **NVMe** and **ATA**, maintaining integrity and security in embedded applications.\n• Implemented version control and collaboration practices using **Git**, facilitating a more streamlined development process and reducing integration issues.\n• Engaged in scripting with **Python** for automating firmware testing and deployment, leading to increased productivity and faster time-to-market for **embedded** devices."
+    }
+  ],
+  "skills": "  **Programming Languages:**\n\tPython, C, C++, JavaScript, TypeScript\n  **Backend Frameworks:**\n\tFastAPI, Flask, Django\n  **Frontend Frameworks:**\n\tReact, Vue, Angular\n  **API Technologies:**\n\tJWT, OAuth2\n  **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda), Azure (App Services)\n  **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n  **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n  **Cloud & Infrastructure:**\n\tAWS (RDS, S3), Azure (Blob, SQL)\n  **Other:**\n\tArtificial Intelligence, Machine Learning, MLflow, Airflow, Kubeflow, Linux, security, cryptographic signatures, secure boot, anti-rollback, hardware root-of-trust, debugging, JTAG, UART, ICE, NVMe, ATA, Git, Flash Translation Layer, wear-leveling, garbage collection, ECC, SSD, scripting, anomaly detection",
+  "apply_company": "GOODRAM | Wilk Elektronik SA"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Python Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Experienced **Python Engineer** with 13+ years of delivering high-performance applications for the healthcare and financial sectors. Highly skilled in **Python** and **Django**, with substantial knowledge of **Django REST Framework** and **RESTful APIs**. Proficient in managing asynchronous tasks with **Celery**, and utilizing message brokers like **Kafka** and **RabbitMQ**. Experienced in implementing and managing CI/CD pipelines and monitoring systems using **Datadog**, **Prometheus**, and **Sentry**.\nExpert in deploying scalable and reliable applications on **AWS** and orchestrating containerized solutions with **Kubernetes**. Proficient in working with databases such as **PostgreSQL**, **Redis**, and **OLAP** technologies including **StarRocks** and **ClickHouse**. Additionally, I bring a solid foundation in frontend technologies including **HTML5** and am familiar with data analytics platforms using tools like **Redshift**. My background in cloud-native systems, microservices, and compliance-driven development enhances my ability to deliver high-quality, scalable solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Python Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed robust RESTful APIs utilizing **Python** and **Django** with **Django REST Framework** to support seamless data interaction and integration across platforms.\n- Designed and implemented CI/CD pipelines using **Sentry**, managing deployment workflows to deliver high-quality applications continuously.\n- Employed **PostgreSQL** and **Redis** for efficient data storage and caching strategies, enhancing application performance and reliability in both healthcare and fintech sectors.\n- Orchestrated microservices using **Kubernetes** for container orchestration, leading to scalable, fault-tolerant application deployments in production environments.\n- Implemented real-time data processing and analytics solutions using **Kafka**, enabling timely insights and decision-making across data-heavy applications.\n- Developed advanced OLAP queries on data warehouses such as **StarRocks** and **ClickHouse** to support high-performance analytics in financial applications.\n- Collaborated closely with cross-functional teams to integrate monitoring solutions like **Datadog** and **Prometheus**, ensuring operational excellence through performance tracking and alerting.\n- Utilized **Celery** for asynchronous task management, ensuring efficient processing of background jobs within applications.\n- Integrated message brokering with **RabbitMQ** to facilitate smooth communication between microservices, improving system reliability and fault tolerance.\n- Developed and maintained comprehensive documentation and best practices for leveraging **HTTP**, **HTML5**, and other web standards in project implementations.\n- Ensured system security and data integrity through best practices in **AWS** cloud deployments, focusing on compliance with industry standards.\n- Created and executed testing strategies for microservices using frameworks such as **pytest** to deliver thoroughly validated software that meets quality benchmarks.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Python** to develop scalable and efficient back-end applications within the **Django** framework, ensuring robust RESTful APIs accommodating up to **1000** concurrent users.\nImplemented asynchronous task queues using **Celery** and **RabbitMQ**, which improved job processing speed by **30%** and reduced overall response time for end-users.\nDesigned and integrated **Kafka** for real-time data streaming, facilitating asynchronous communication across microservices and optimizing data flow control in financial applications.\nUtilized **PostgreSQL** and **Redis** for effective data storage and caching mechanisms, achieving a **50%** reduction in database response time for critical queries.\nDeveloped CI/CD pipelines enhancing deployment efficiency, enabling seamless updates and reducing deployment errors by **25%** through automation and strategic monitoring with **Datadog**, **Prometheus**, and **Sentry**.\nImplemented container orchestration and management using **Kubernetes**, ensuring high availability and scaling of applications based on demand during peak transaction periods.\nCollaborated in an Agile environment, actively participating in sprint planning and reviews, which enhanced team productivity by efficiently integrating feedback into product iterations."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend services for a global e-commerce platform using **Python** (Django, Django REST Framework) and **RabbitMQ**, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nEngineered real-time features using **Kafka** and event-driven architecture, enabling responsive order updates, dynamic inventory tracking, and real-time customer support.\nDeveloped RESTful APIs leveraging **gRPC** and integrated them with front-end technologies to enhance user interaction.\nLeveraged **PostgreSQL** and **Redis** for distributed data storage, ensuring fast, fault-tolerant data access for high-traffic e-commerce workflows and optimizing performance gains.\nImplemented caching strategies with **Redis** to significantly improve application responsiveness by reducing read pressure on databases by **30%**.\nIntegrated monitoring tools such as **Datadog** and **Prometheus** to maintain system health and track API performance, managing **over 10,000** concurrent users effectively.\nUtilized **Kubernetes** for container orchestration, ensuring smooth CI/CD pipelines and blue-green deployments for seamless platform updates, enhancing deployment efficiency by **50%**.\nApplied role-based access control (RBAC) and **OAuth 2.0** for secure customer and admin access, ensuring compliance with GDPR and user data protection throughout the platform.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tDjango, FastAPI, Flask, Django REST Framework, Celery\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular, HTML5\n\n**API Technologies:**\n\tRESTful APIs, gRPC, Kafka, RabbitMQ\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, S3, Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, StarRocks, ClickHouse, Redshift\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Datadog, Prometheus, Sentry, Nginx, Let’s Encrypt, Certbot, Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT"
+}

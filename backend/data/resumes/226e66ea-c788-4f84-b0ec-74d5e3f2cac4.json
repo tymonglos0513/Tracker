@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Backend Developer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a Backend Developer with 8 years of experience, I specialize in building high-performance solutions using **.NET**, **Spring Boot**, and **AWS** technologies. My robust background includes full-stack development experience with **Node.js** and **Python**, which enhances my understanding of backend processes and system integrations. I am committed to creating robust and secure applications that adhere to compliance standards, such as HIPAA and PCI DSS.\n\nI have a strong foundation in microservices architecture and CI/CD automation, employing modern software practices for efficient deployment and maintenance. My project experience also includes integrating AI/ML capabilities into platforms for predictive analytics and intelligent automation, utilizing a tech stack that includes **React**, **Next.js**, and **Django**. I continuously strive to adopt the latest technologies and methodologies to deliver exceptional results.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Developer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed backend services using **.NET** and **Spring Boot** to create scalable and efficient healthcare and financial platforms, ensuring compliance with industry standards and maximizing performance.\n- Collaborated on full-stack projects utilizing **Angular** for dynamic user interfaces combined with robust server-side logic to enhance user experience in healthcare and fintech applications.\n- Designed and implemented high-performance RESTful APIs with a focus on security and data integrity, integrating with **AWS** services for cloud-based functionalities.\n- Led the deployment of microservices architectures with **Docker** and orchestrated container management through **Kubernetes**, enabling high availability and efficient resource utilization.\n- Optimized database interactions using **PostgreSQL** and **MongoDB**, achieving query performance improvements of up to **50%**.\n- Implemented CI/CD pipelines with **AWS** services to promote seamless integration and deployment of backend features across different development and production environments, reducing deployment times by **30%**.\n- Established a robust logging and monitoring framework using tools such as **AWS CloudWatch** and **Elasticsearch**, ensuring immediate detection and resolution of incidents in real-time applications.\n- Mentored junior developers in modern backend practices and architectural principles, fostering a culture of continuous learning and improvement within the team.\n- Integrated machine learning services into applications, enhancing backend functionalities with predictive analytics, contributing to application usage increase by **40%**.\n- Ensured code quality with thorough testing methodologies using **Jest** and **Postman**, resulting in a **20%** reduction in post-deployment bugs."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **.NET** and **Spring Boot** to develop and modernize backend services, enhancing performance and scalability in high-transaction environments, achieving up to **50%** improvements in processing speed.\nDesigned and implemented RESTful APIs with **Angular** to support dynamic web applications, fostering seamless integration with front-end components and lowering response times to under **200ms**.\nEngaged in cloud deployment strategies using **AWS**, ensuring robust and secure hosting of services with a **99.9%** uptime guarantee.\nOptimized database interactions through efficient ORM mappings, resulting in a reduction of query times by as much as **30%** in financial transaction systems.\nCollaborated with cross-functional teams to analyze user requirements and deliver backend solutions that streamlined business workflows and improved data accessibility.\nLeveraged **Docker** and **Kubernetes** for containerization and orchestration, facilitating efficient development and deployment processes across various environments.\nEnsured code quality and maintainability through unit testing frameworks, achieving a code coverage rate of over **85%** and reducing bugs in production significantly."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **.NET** and **Spring Boot** frameworks to design and optimize backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nEngineered real-time features using WebSockets and event-driven architecture powered by Kafka and RabbitMQ, enabling responsive order updates, dynamic inventory tracking, and real-time customer support.\nDeveloped frontend applications using **Angular** (version 12), enhanced with TypeScript and Redux Toolkit, delivering fast, responsive user experiences on both web and mobile platforms.\nLeveraged Amazon Web Services (**AWS**) for cloud infrastructure, ensuring high-availability deployments and scalable resource management during peak shopping seasons.\nIntegrated AI/ML-based recommendation engines using scikit-learn and TensorFlow to personalize product listings and improve conversion rates based on real-time behavioral data, resulting in a **15%** increase in sales.\nImplemented Redis caching for product metadata and shopping cart sessions, significantly improving application responsiveness by reducing read pressure on databases.\nDeveloped secure payment workflows integrated with **PayPal** and **Stripe**, maintaining **PCI** compliance and handling sensitive data with robust encryption techniques.\nApplied role-based access control (RBAC) and OAuth 2.0 for secure customer and admin access, ensuring GDPR compliance and user data protection throughout the platform.\nCreated responsive, SEO-friendly e-commerce UIs using HTML5/CSS3, optimized for mobile-first engagement and accessibility compliance (WCAG **2.1**).\nConducted A/B testing and feature flags using LaunchDarkly to enable controlled rollouts and risk mitigation during major platform updates, resulting in improved user engagement metrics."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, .NET, Spring Boot\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot"
+}

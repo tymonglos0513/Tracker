@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior Data Engineer with 13+ years of experience in developing data-driven solutions and high-performance applications across varied industries, including healthcare and finance. Proficient in **Snowflake**, **Hadoop**, **Hive**, **Dataiku**, **Apache Spark**, and adept in **SQL** for efficient data management and analysis. Experienced in cloud deployment on **AWS**, **Azure**, and **GCP**, equipped with hands-on skills in CI/CD and DevOps methodologies to ensure seamless integration and delivery.\n\nStrong proficiency in **Python** and **Scala**, complemented by a robust background in data governance, quality, and security, ensuring compliance and optimal data integrity. Additionally, skilled in building AI/ML-powered platforms with insights into MLOps concepts, enhancing predictive analytics and real-time processing. Demonstrated ability to implement microservices and event-driven architectures, with a dedication to maintaining compliance standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS**, **Azure**, and **GCP** cloud services to design and maintain robust data pipelines, ensuring high data quality and governance across all operations.\nDeveloped and optimized SQL queries for data transformation and analysis, enhancing performance and reducing processing time by **30%**.\nImplemented CI/CD practices in the development workflows using **Apache Spark**, **Dataiku**, and **Hadoop**, achieving automated deployment with a reduction in lead time of **25%**.\nManaged data lake architectures on **Snowflake** and **Hive**, enabling scalable storage solutions and efficient data retrieval for analytical tasks.\nDesigned data models and ETL processes using **Python** and **Scala** to support data ingestion and processing, handling datasets up to **10TB** monthly.\nEnforced data governance policies and security protocols to protect sensitive information and comply with regulatory standards.\nCollaborated with cross-functional teams to ensure alignment of data engineering initiatives with project outcomes and data-driven decision-making.\nIntegrated data quality checks into the pipeline processes, reducing data-related incidents by **40%** through proactive monitoring and validation.\nApplied best practices in DevOps and Data Engineering to ensure system reliability and performance, leveraging tools like **GitHub Actions** and **CircleCI**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS**, **Azure**, and **GCP** for cloud-based data storage and processing, ensuring optimal performance and scalability across multiple platforms.\nDeveloped and maintained complex ETL pipelines using **Apache Spark**, **Hadoop**, and **Dataiku**, handling data from diverse sources with a focus on **Data Governance** and **Data Quality** for **9** million transactions monthly.\nDesigned data models and governance strategies using **Snowflake** and **Hive**, facilitating efficient querying and reporting across datasets, which improved processing time by **30%**.\nImplemented comprehensive data security protocols, ensuring compliance with industry regulations, targeting a **0%** breach rate through robust **Data Security** measures and regular audits.\nAutomated deployment processes using **CI/CD** methodologies and **DevOps** practices, reducing deployment time by **50%** and increasing overall system reliability.\nCollaborated with cross-functional teams to define data requirements and architecture, leveraging **SQL** and **Python** for data manipulation and analytics.\nOptimized data workflows and integrated machine learning capabilities with frameworks like **scikit-learn**, utilizing **8** different models to enhance predictive accuracy for various use cases, including fraud detection and transaction classification."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS**, **Azure**, and **GCP** cloud services to architect and deploy scalable data solutions, ensuring robust data governance and security across the platform.\nEmployed **Apache Spark** for efficient processing of large datasets, leading to a **40%** improvement in data retrieval times and optimizing ETL workflows for better performance.\nConstructed data pipelines leveraging **Snowflake**, **Hadoop**, and **Hive** facilitating automated data ingestion and transformation, effectively managing **1TB+** of incoming data daily.\nDeveloped and maintained SQL-based data models and queries for analytics, increasing data quality by **20%** through systematic validations and cleanups.\nIntegrated tools like **Dataiku** for data preparation, enabling easier collaboration among data scientists and engineers while ensuring compliance with data security standards.\nImplemented CI/CD practices using containerization technologies, enhancing deployment speeds by **30%** and facilitating seamless integration of new features.\nEstablished rigorous data quality checks using automated testing frameworks, leading to a reduction in erroneous data use by **25%** across reports.\nApplied **Python** and **Scala** for data analysis and processing, crafting efficient scripts to support various data initiatives, elevating operational insights.\nConducted regular audits and assessments aligned with data governance frameworks to uphold regulatory compliance and data security, ensuring trustworthiness of data assets.\nCollaborated in a DevOps environment, enhancing inter-team communication and streamlining workflows, resulting in a **15%** acceleration in project delivery timelines."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Scala, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Snowflake, Hive\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, GCP, Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Hadoop, Apache Spark, Dataiku, Data Governance, Data Quality, Data Security"
+}

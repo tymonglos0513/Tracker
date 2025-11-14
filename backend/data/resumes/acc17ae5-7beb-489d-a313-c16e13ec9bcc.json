@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Field Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Technical expertise in designing and delivering robust backend systems with a focus on financial platforms, AI/ML pipelines, and cloud-native architectures. Proven problem-solving skills through the successful creation of high-performing APIs, automation tools, and scalable services. Flexible in adapting to changing project needs and collaborating in team environments. Communicates effectively to ensure project alignment and stakeholder satisfaction. Over 10 years of experience and a strong track record contributing to impactful projects at leading organizations such as VISA, Sii Poland, and Reply Polska using **Python** (**FastAPI**, **Django**, **Flask**), alongside cloud services like **AWS** and **Azure**.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Field Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "• Demonstrated **technical expertise** by engineering backend services in **Python** using **FastAPI** to streamline document automation, user onboarding, and reporting workflows.\n• Applied **problem-solving skills** to develop event-driven solutions with **Celery** and **Redis** for managing asynchronous processing of financial transaction requests, handling up to **500** requests per minute.\n• Utilized **flexibility** in deploying microservices on **Azure App Services** and implemented **Terraform** for infrastructure as code, ensuring seamless operations within a **99.9% uptime** SLA.\n• Created and maintained data pipelines for regulatory data exchange using **Apache Airflow** and **Azure Functions**, ensuring timely and accurate data flow with processing rates of **3TB** of data monthly.\n• Led security assessments to integrate **OAuth2** and **Azure AD B2C**, enhancing secure and scalable authentication systems for a user base exceeding **10,000** accounts.\n• Exhibited strong **communication skills** by collaborating with cross-functional teams to overcome system integration challenges, ensure compliance, and oversee release strategies, resulting in improved deployment efficiency by **40%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Demonstrated **technical expertise** by developing backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes.\nUtilized **problem-solving skills** to create event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests.\nExercised **flexibility** while managing the deployment of microservices on **Azure App Services**, leveraging **Terraform** for **infrastructure automation** to maintain consistent and scalable environments.\nEngineered data pipelines for the secure exchange of regulatory data, using **Apache Airflow** and **Azure Functions** to automate and streamline the data flow, processing over **100GB** of data daily.\nConducted security audits, ensuring compliance with industry standards, and integrated **OAuth2** and **Azure AD B2C** to manage authentication and secure access controls, impacting **over 10,000** user accounts.\nEnhanced **communication skills** and **team collaboration** through cross-functional team engagements to ensure smooth system integration, regulatory compliance, and successful release management, resulting in on-time project delivery of **3** key releases."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Demonstrated **technical expertise** by developing backend services for trade execution, portfolio management, and account tracking using **Python**, **Flask**, and **PostgreSQL**, enhancing trading operations by a **30%** increase in efficiency.\n• Leveraged **problem-solving skills** to engineer real-time price feed processors with **asyncio**, **WebSockets**, and **Redis**, delivering up-to-the-minute trading data for high-frequency transactions, achieving a data latency reduction of **50ms**.\n• Showcased **team collaboration** by working closely with frontend teams to deliver data through **REST APIs** and **WebSocket** channels, ensuring a seamless user interaction experience on the platform with a **99.9%** uptime.\n• Utilized **flexibility** to ensure the platform complied with regulatory requirements, including **MiFID II** and **GDPR**, while adhering to internal data security protocols, maintaining full compliance in audits.\n• Enhanced QA processes by implementing comprehensive test suites with **PyTest**, **tox**, and mock servers, streamlining QA and CI processes and reducing overall bug rates by **40%**.\n• Applied **communication skills** to introduce job queuing and scheduling solutions using **Celery** and **RabbitMQ**, optimizing backend task execution and process management, improving task completion rates by **25%**."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices, Kafka\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, PyTest, Git\n\n**Cloud & Infrastructure**\n\t\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, technical expertise, problem-solving skills, flexibility, communication skills, team collaboration"
+}

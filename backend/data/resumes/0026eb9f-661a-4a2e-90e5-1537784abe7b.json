@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": ".NET / .NET Core Developer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-477994390/",
+  "profile_summary": "Results-driven .NET / .NET Core Developer with 9+ years of experience in designing, developing, and implementing robust applications. Expert in creating scalable **Microservices** and deploying **RESTful APIs** with a strong focus on **SQL Databases** and **Azure** cloud services. Proficient in modern software development practices including **CI/CD**, **Git**, **Docker**, and **Kubernetes**, which enhance deployment efficiency and application reliability. Demonstrated ability to integrate messaging systems like **RabbitMQ** and **Kafka** into high-performing applications. Skilled in both frontend and backend technologies, including **ReactJS**, **NextJS**, and **.NET**, with a proven track record of optimizing performance and streamlining development processes. Strong communication skills enable effective collaboration across teams and the successful leadership of development projects.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": ".NET / .NET Core Developer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Apr 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "- Leveraged **.NET 7** and **ReactJS** alongside **Next.js** to spearhead the design and development of a web-based customer management platform, resulting in a **25%** improvement in user satisfaction.\n- Applied **Microservices** architecture with **.NET Core** to enhance system modularity for improved scalability and maintainability.\n- Integrated **Apache Kafka** for real-time data streaming and **RabbitMQ** for task queuing, achieving significant advancements in system resilience and throughput.\n- Employed **Redis** for caching frequently accessed data, successfully reducing database load and improving response times by **35%**.\n- Developed **RESTful APIs** using **.NET** integrated with a **MongoDB** database to ensure seamless data access across various services.\n- Set up and optimized CI/CD pipelines on **Azure DevOps**, leading to a **40%** reduction in deployment time.\n- Enhanced SQL database performance by optimizing **MSSQL** queries and indexing, resulting in a **20%** decrease in average query execution time.\n- Collaborated efficiently with UX/UI designers to elevate the platform’s user interface, directly contributing to an improved user experience.\n- Constructed a reporting engine utilizing **D3.js** and **Three.js** for creating engaging and interactive data visualizations.\n- Established secure application mechanisms through **JWT-based** authentication and authorization."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "• Developed and optimized **RESTful APIs** using **.NET Core**, integrating with **PostgreSQL** databases to ensure fast and reliable data access, resulting in a **25% improvement** in response times.\n• Designed and implemented a **microservices architecture** utilizing **RabbitMQ** for task orchestration and **Apache Kafka** for event-driven data processing, scaling the application effectively and handling up to **1000 requests per second**.\n• Led the creation of **CI/CD** pipelines with **GitHub Actions**, achieving a **30% reduction** in production deployment errors through automated testing and deployment strategies.\n• Managed data solutions using **MSSQL** and **MySQL**, optimizing sophisticated queries leading to a **40% increase** in database performance and reduced retrieval times.\n• Spearheaded the development of a cloud-based project management tool with **Angular** and **.NET Core**, contributing to a **15% increase** in team collaboration efficiency.\n• Built and maintained reusable components using **ReactJS** and **Tailwind CSS**, leading to a **25% boost** in user engagement metrics and overall user experience on the platform.\n• Integrated **Redis** as a caching layer, decreasing API call latency, which resulted in a **25% enhancement** in the overall application performance.\n• Facilitated effective communication with stakeholders to define project requirements and timelines, ensuring on-time deliveries for all phases of development.\n• Created dynamic visualizations using **D3.js** for interactive project reporting and tracking, improving stakeholder engagement and project oversight.\n• Conducted rigorous code reviews and mentorship for junior developers, leading to substantial gains in team productivity and coding standards."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "• Developed and maintained applications using **.NET Framework** and **.NET Core**, enhancing system performance and maintainability by migrating legacy code, resulting in a **15%** increase in efficiency.\n• Designed microservices architecture utilizing **RabbitMQ** for improved asynchronous processing and system load management during peak usage, leading to a **25%** reduction in downtime.\n• Created RESTful APIs and integrated third-party APIs to facilitate seamless data sharing across systems, boosting data interoperability.\n• Managed SQL Databases effectively, optimizing query efficiency by **30%**, resulting in quicker retrieval of customer information.\n• Employed **Azure** for implementing CI/CD practices, collaborating with the DevOps team to streamline deployment processes, cutting release times by **35%**.\n• Built reusable components in **Angular** and **C#** to accelerate future project development, reducing development time by **40%**.\n• Utilized **Docker** and **Kubernetes** for containerization and orchestration, enhancing application scalability and deployability.\n• Collaborated in daily standups, code reviews, and provided clear communication to ensure alignment with project goals and coding standards.\n• Delivered comprehensive technical documentation and user guides for internal systems to improve knowledge transfer within teams.\n• Engaged with **Vue.js** to enhance frontend experiences on client-side dashboards, delivering user-friendly interfaces."
+    }
+  ],
+  "skills": "   **Programming Languages**\n   \tPython, JavaScript, TypeScript, C#, Solidity\n\n   **Backend Frameworks**\n   \t.NET, .NET Core, NodeJS, ExpressJS, NestJS, Microservices\n\n   **Frontend Frameworks**\n   \tHTML, CSS, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n   **API Technologies**\n   \tRESTful APIs, GraphQL\n\n   **Serverless and Cloud Functions**\n   \tAzure\n\n   **Databases**\n   \tMSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB, SQL Databases\n\n   **DevOps**\n   \tCI/CD, Docker, Kubernetes, RabbitMQ, Kafka\n\n   **Cloud & Infrastructure**\n   \tAWS\n\n   **Other**\n   \tUX/UI Design, Git, GitHub, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Communication Skills, Redis"
+}

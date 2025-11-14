@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Consulting Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Consulting Engineer with 8 years of experience in full-stack development, I bring expertise in **Java**, **Python**, and **JavaScript**, along with a deep understanding of **API** integration and **Big Data** technologies. My skills in **Data Modeling**, **Analytics**, and **graph database** solutions enable me to deliver insightful and data-driven applications that meet client needs.\n\nI have a strong foundation in **DevOps** practices, utilizing CI/CD automation for streamlined deployment processes. I thrive in **Agile** environments and excel in **mentoring** teams through complex problem-solving scenarios. My background includes significant experience in the healthcare and financial sectors, where I have led projects that align with compliance standards such as HIPAA and PCI DSS.\n\nDriven by collaboration and teamwork, I am committed to creating high-performance solutions that integrate seamlessly with enterprise systems. My technical prowess further extends to **machine learning** and deploying predictive analytics to enhance business intelligence.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Consulting Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **API** development skills to architect and develop scalable, full-stack healthcare and financial platforms employing **Python** (FastAPI) and **JavaScript** technologies including **TypeScript**, **Node.js**, and modern front-end frameworks like **React** (17-18), **Next.js**, and **Vue** (3.x), ensuring strict compliance with regulatory standards (e.g., HIPAA, GDPR, PCI DSS, SOX).\n\nApplied **DevOps** practices to implement mobile-specific CI/CD pipelines with **Fastlane** and **App Center**, integrating automated testing, release management, and crash/error analytics using **Firebase Crashlytics** and **Sentry**.\n\nLed the re-architecture of monolithic applications into microservices-based ecosystems, leveraging **Docker**, **Kubernetes** (AKS/EKS), and serverless architectures (**AWS Lambda**, **Azure Functions**) to ensure high availability and fault tolerance in line with an **Agile** development approach.\n\nDesigned and maintained cloud-native data architectures utilizing **PostgreSQL**, **MongoDB**, **Redis**, and **GraphQL**, optimizing for large-scale healthcare and financial big data ingestion, storage, and querying.\n\nEngaged in consulting to design and deploy machine learning models for patient risk prediction and financial fraud detection with **Python** libraries (**scikit-learn**, **PyTorch**, **TensorFlow**), integrating real-time inference services into the backend.\n\nConstructed MLOps pipelines utilizing **MLflow**, **DVC**, and **Apache Airflow** for continuous training, validation, and deployment of models in both development and production environments.\n\nIntegrated AI-based features into client-facing applications, such as smart financial dashboards and personalized health recommendations, supported by trained models and APIs hosted on **Azure ML** and **AWS Sagemaker**.\n\nImplemented advanced data analytics solutions delivering complex financial data visualization tools with **D3.js**, **Chart.js**, and **Power BI Embedded**, enabling real-time insights on transaction trends, fraud detection, and operational KPIs.\n\nCollaborated with data scientists to integrate NLP models using **spaCy** and **Hugging Face Transformers** for healthcare document parsing and financial anomaly detection, embedding these into core services via RESTful APIs.\n\nEstablished comprehensive testing strategies leveraging **Jest**, **Cypress**, **PyTest**, and **Postman**, ensuring extensive coverage including unit, integration, E2E, and contract testing.\n\nIntegrated search capabilities using **Azure Cognitive Search** and **ElasticSearch**, facilitating advanced search across **millions** of unstructured and structured health records and financial documents."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed and optimized APIs for financial platforms, enhancing data modeling and analytics capabilities to support high-volume transactions using **Python** and **Java**.\n• Led the integration of **GraphDatabase** for efficient data storage and retrieval, enabling advanced analytical queries on financial data and improving performance by **30%**.\n• Facilitated Agile development practices, promoting teamwork and collaboration among cross-functional teams to deliver projects on time and improve product features based on consumer feedback.\n• Spearheaded the deployment and management of applications using DevOps practices, resulting in a **25%** reduction in deployment times and enhanced reliability of operations.\n• Conducted consulting sessions to troubleshoot complex problems, leveraging strong problem-solving skills to devise strategic solutions that improved system performance and user experience.\n• Mentored junior engineers on best practices in **BigData** processing and analytics, fostering a culture of continuous learning within the team.\n• Actively engaged in team meetings and project planning sessions, contributing insights and strategies that improved overall project quality and execution.\n• Designed and implemented data models to support real-time analytics, integrating various data sources into scalable frameworks.\n• Utilized **C#** and **JavaScript** in developing enterprise-level applications that met stringent industry compliance standards, ensuring data integrity and security."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** for backend services, demonstrating deep knowledge of **GraphDatabase** and **API** integrations to design and optimize solutions for a global e-commerce platform.\nDeveloped high-performance applications employing **Java** and **JavaScript** frameworks such as **Node.js** (NestJS, Express) and **React** (18), ensuring robustness and agility in engineering effective user interactions.\nAdopted Agile methodologies while collaborating within cross-functional teams, applying strong **ProblemSolving** skills to deliver scalable solutions for key modules like checkout and order fulfillment.\nEngineered event-driven architecture utilizing **Kafka** and **RabbitMQ** to support real-time order updates, enhancing responsiveness for up to **100,000** concurrent users.\nEmployed **BigData** techniques along with MongoDB, PostgreSQL, and Cassandra to effectively manage and store vast datasets, ensuring fast data access within high-traffic e-commerce workflows.\nIntegrated AI/ML algorithms with **scikit-learn**, **LightGBM**, and **TensorFlow** to refine product recommendations, achieving a **20%** increase in conversion rates through personalized experiences.\nImplemented CI/CD practices and DevOps strategies using **Kubernetes** for scalable application deployments and managed risk through feature flags and blue-green deployments with **LaunchDarkly**.\nBuilt user-centric e-commerce interfaces with **Next.js** and **Vue 3 + Nuxt**, optimizing them for SEO and mobile engagement, adhering to accessibility standards (WCAG 2.1).\nExecuted secure payment processing workflows integrating **Stripe**, **PayPal**, and **Razorpay**, ensuring compliance with PCI standards while handling sensitive financial data.\nFacilitated user security by applying role-based access control (RBAC) and **OAuth 2.0**, enhancing data protection and aligning with GDPR regulations."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Java, JavaScript, TypeScript, C#\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, GraphDatabase\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD & Infrastructure as Code: Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Consulting, ProblemSolving, Teamwork, Mentoring, Agile, BigData, DataModeling, Analytics",
+  "apply_company": "Neo4j"
+}

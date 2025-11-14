@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-driven Software Engineer with 8 years of experience specializing in **Python 3**, **FastAPI**, and **PostgreSQL** for building high-performance, scalable applications. Proficient in designing and developing APIs that facilitate seamless integration and communication within distributed systems. Experienced in leveraging **Google Cloud Platform** for deploying robust applications with a focus on **Google BigQuery**, **ScyllaDB**, and **Redis** for efficient data management. Skilled in implementing real-time data processing solutions using **RabbitMQ**, **Apache Kafka**, and **Google Pub/Sub**, enabling distributed architectures for enhanced performance.\n\nPossess strong problem-solving abilities, effective team collaboration, and a deep understanding of monitoring and analysis tools to ensure optimal application performance. My background includes a solid foundation in process automation and optimization, as well as experience in developing machine learning pipelines. I have a proven track record of delivering secure applications adhering to compliance standards.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and developed robust APIs and services using **Python 3** and **FastAPI**, ensuring optimal performance in data processing for healthcare and financial applications.\n- Implemented efficient data management strategies utilizing **PostgreSQL**, **Google BigQuery**, and **Redis** to handle large-scale data ingestion and querying, optimizing workflows for over **1 million** records.\n- Engaged in process automation and optimization, utilizing **RabbitMQ** and **Apache Kafka** for distributed real-time data processing, significantly improving system responsiveness and reliability.\n- Employed **Google Cloud Platform** services to enhance application scalability and availability, achieving a **99.9% uptime** through effective monitoring and analysis tools.\n- Collaborated closely with cross-functional teams to streamline project requirements and ensure seamless software integration, enhancing team collaboration and meeting project deadlines by **15%**.\n- Led initiatives in API design and development, implementing secure and efficient solutions that adhere to industry standards and improve system interoperability.\n- Developed, tested, and deployed complex applications, maintaining high standards of quality with a focus on problem-solving and adaptability in a fast-paced environment.\n- Conducted comprehensive monitoring and analysis of deployed services, leveraging modern tools to enhance performance and user experience across applications.\n- Delivered end-to-end projects using agile methodologies, ensuring timely and efficient project delivery while prioritizing customer satisfaction and usability."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained scalable applications using **Python 3** and **FastAPI**, enhancing system performance and robustness for high-traffic financial platforms.\nDesigned database schemas and optimized queries for **PostgreSQL** and **ScyllaDB**, ensuring efficient data storage and retrieval capabilities for over **1,000,000** transactions per day.\nImplemented real-time data processing solutions using **Apache Kafka** and **RabbitMQ**, facilitating event-driven architectures and enabling systems to handle up to **10,000** messages per second.\nCreated and managed APIs adhering to best practices, ensuring seamless integration with front-end applications and supporting multiple client platforms.\nUtilized **Google Cloud Platform** tools like **Google BigQuery** for monitoring and analysis of financial data, achieving report generation times reduced by **50%**.\nLed process automation initiatives to streamline workflows and reduce manual interventions, significantly increasing team productivity by over **30%**.\nCollaborated with cross-functional teams to solve complex problems in financial data processing, ensuring high-quality deliverables linked to team objectives.\nDeveloped and integrated monitoring and analysis tools for ongoing system performance evaluation and anomaly detection, employing distributed tracing and logging for improved insights."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized backend services for a global e-commerce platform utilizing **Python 3** and **FastAPI**, ensuring high availability and scalability across key modules like checkout and order fulfillment.\n• Engineered distributed real-time data processing features using **Apache Kafka** and **RabbitMQ**, allowing for responsive order updates and dynamic inventory tracking.\n• Designed and implemented APIs for core services, ensuring robust **API design and development** aligned with the company’s operational objectives.\n• Collaborated effectively in a team environment to enhance application performance using **PostgreSQL** and **Redis**, achieving a **50% reduction in query response times**.\n• Utilized **Google Cloud Platform** and **Google BigQuery** for scalable data analytics, processing large datasets to derive actionable business insights and streamline operations.\n• Applied process automation and optimization techniques, resulting in a **30% reduction in deployment times** and improved CI/CD workflows.\n• Implemented monitoring and analysis tools to maintain service performance and uptime, proactively addressing potential bottlenecks.\n• Contributed to feature development using **ScyllaDB** for high-speed data access, facilitating real-time customer engagement features that supported over **100,000 active users**.\n• Demonstrated strong problem-solving skills by quickly addressing system issues, improving system reliability, and enhancing user satisfaction.\n• Ensured system security through role-based access control (RBAC) and performed regular audits to maintain compliance with GDPR regulations."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython 3, Python(FastAPI, Flask, Django), JavaScript/TypeScript (React, Vue, Angular)\n\n**Backend Frameworks:**\n\tFastAPI\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI design and development\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Google Cloud Platform\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Google BigQuery, ScyllaDB\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Google Cloud Platform\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, RabbitMQ, Apache Kafka, Google Pub/Sub, Distributed real-time data processing, Monitoring and analysis tools, Process automation and optimization, Problem-solving, Team collaboration, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, CI/CD & Infrastructure as Code"
+}

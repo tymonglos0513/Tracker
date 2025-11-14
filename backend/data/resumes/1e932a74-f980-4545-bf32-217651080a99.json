@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior DevOps Engineer with 8 years of experience, I excel in implementing **CI/CD** pipelines, leveraging **Terraform** and **Kubernetes** for infrastructure as code and container orchestration. My expertise in **Azure** cloud services, alongside development with **Python** and **Go**, empowers me to create scalable and efficient environments. I am skilled in utilizing tools like **Jenkins**, **GitHub Actions**, and **GitLab CI** for continuous integration and deployment, ensuring smooth operations and rapid delivery.\n\nAdditionally, I have a strong foundation in database management with **MongoDB**, **CosmosDB**, and **PostgreSQL**, enabling data-driven decision-making. I effectively monitor and enhance system performance using **Prometheus**, **Grafana**, and **Datadog**, ensuring optimal reliability and responsiveness.\n\nWhile my focus is on DevOps strategies, I also leverage my experience in full-stack development, utilizing frameworks such as **React**, **Node.js**, **FastAPI**, and **Django** to create interoperable systems. My background in the healthcare and finance sectors ensures adherence to compliance standards like HIPAA and PCI DSS, readying me to contribute both innovatively and securely to advanced engineering teams.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented enterprise-level DevOps pipelines using **GitHub Actions**, **Azure DevOps**, and **CircleCI**, incorporating linting, testing, security scans, and multi-environment deployments for both web and API services.\nArchitected and developed scalable cloud solutions leveraging **Kubernetes** (including AKS/EKS), ensuring high availability and fault tolerance.\nUtilized **Terraform** for infrastructure as code (IaC) to manage deployments across multiple cloud platforms, significantly reducing downtime by **30%**.\nMonitored and optimized application performance using **Prometheus** and **Grafana**, improving system reliability by **25%** through proactive maintenance.\nDesigned and maintained cloud-native data architecture using **PostgreSQL**, **MongoDB**, and **CosmosDB**, with a focus on efficient data querying and storage for high-traffic applications, with data retrieval times reduced to under **200 ms**.\nLed the re-architecture of existing monolithic applications into microservices using **Docker**, improving deployment frequency by **40%** through streamlined CI/CD processes.\nCollaborated on integrating **ElasticSearch** for advanced search capabilities across millions of records, enabling faster data retrieval and insights.\nDeveloped and maintained GIT repositories, following best practices for source control and versioning, enhancing team collaboration and project tracking.\nParticipated in incident response and troubleshooting using tools like **Datadog** and **OpenTelemetry**, resolving critical issues and reducing mean time to recovery (MTTR) by **50%**.\nIntegrated AI-driven features through **LLMs** and prompt engineering in automation tasks, improving workflow efficiency.\nEstablished comprehensive test strategies using **Jenkins** and **GitLab CI**, ensuring robust code quality through automated testing and deployment pipelines."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Integrated **Kubernetes** for container orchestration, enhancing deployment strategies and scalability of financial applications.\nUtilized **Terraform** for infrastructure as code, efficiently managing cloud resources and ensuring repeatable provisioning for **Azure** environments.\nImplemented **CI/CD** pipelines using **Jenkins**, **GitHub Actions**, and **GitLab CI**, automating deployment processes, reducing deployment time by **50%**, and increasing development team productivity.\nConducted performance monitoring and troubleshooting using **Prometheus** and **Grafana**, resulting in a **30%** reduction in downtime through proactive alerting and system visualization.\nUtilized **Azure Data Factory** for orchestrating data workflows, integrating data sources across **PostgreSQL**, **MongoDB**, and **CosmosDB** to ensure a seamless data pipeline for reporting and analytics.\nDeveloped backend applications in **Python** for real-time data processing and analytics, improving data processing efficiency by **40%**.\nExpertly managed logging and observability using **ElasticSearch**, **Kibana**, and **Datadog**, ensuring fast issue resolution and performance optimization for production systems.\nLed the integration of advanced monitoring using **OpenTelemetry** across services, providing insights into application performance and user behavior.\nExplored **LLMs** and implemented **Prompt Engineering** techniques, enhancing the capabilities of data-driven applications for predictive analytics."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Implemented CI/CD pipelines using **GitHub Actions** and **Jenkins**, which accelerated deployment frequency to **multiple times per day** while maintaining high-quality standards across production environments.\n- Managed container orchestration and scaling of applications using **Kubernetes**, ensuring availability and performance across over **100 microservices** in a cloud environment.\n- Utilized **Terraform** for infrastructure provisioning and management across multiple environments, enhancing deployment consistency and reducing provisioning times by **40%**.\n- Integrated monitoring and logging solutions with **Prometheus**, **Grafana**, and **Datadog**, achieving **0 downtime** during incident response and improving alert accuracy by **30%**.\n- Leveraged **Azure** services for cloud deployments, optimizing resource usage and reducing costs by **15%** through strategic workload distribution.\n- Developed robust database solutions using **PostgreSQL**, **MongoDB**, and **CosmosDB**, ensuring data redundancy and fast access for a high traffic e-commerce platform serving over **1 million** users.\n- Implemented security measures including RBAC and OAuth 2.0 to ensure a secure infrastructure, achieving **100% compliance** with GDPR standards for user data protection.\n- Automated monitoring of application performance with **OpenTelemetry** and created dashboards in **Kibana**, providing granular visibility into system health and response times.\n- Spearheaded the adoption of **ElasticSearch** for centralized logging, exponential improvements in response times for search queries by **50%**, enhancing user experience significantly.\n- Designed and executed disaster recovery strategies using **Kubernetes**, ensuring business continuity with minimal RTO and RPO of less than **1 hour**."
+    }
+  ],
+  "skills": "  **Programming Languages:**\n\tPython, Go, Bash\n\n  **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n  **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n  **API Technologies:**\n\t\n\n  **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n  **Databases:**\n\tPostgreSQL, MySQL, MongoDB, CosmosDB, Redis\n\n  **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, CI/CD, Argo CD, Prometheus, Grafana, OpenTelemetry, Datadog\n\n  **Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n  **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, ElasticSearch, Kibana, LLMs, Prompt Engineering, RAG\n",
+  "apply_company": "Parloa"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Software Engineer with 10+ years of experience in delivering high-performance software solutions, adept in key technologies such as **AWS**, **GCP**, **Python**, **JavaScript**, **TypeScript**, **NoSQL**, **Vue.js**, **Django**, **MongoDB**, **DynamoDB**, **CircleCI**, **GitHub Actions**, **Kubernetes**, and **Celery**. Proven expertise in designing and implementing **event-driven architectures** and deploying cloud-native applications that leverage real-time analytics and automation. Demonstrated proficiency in CI/CD pipelines, utilizing tools like **EventBridge** and **DataDog** for observability and test automation. Competent in Agile methodologies and collaboration within cross-functional teams to ensure compliance with industry standards such as HIPAA, FHIR, PCI DSS, and SOC 2.\nAdditionally, brings rich experience in integrating AI/ML solutions and managing MLOps workflows using **MLflow**, **Airflow**, and **Kubeflow**. Passionate about building secure, maintainable systems that effectively drive real-world impact.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and developed robust, scalable software solutions leveraging **Python** and **JavaScript** across healthcare and finance sectors while ensuring adherence to regulatory standards including HIPAA and GDPR.\n• Engaged in cross-functional collaboration within **Agile** environments, driving the delivery of high-quality applications and enhancing team productivity through tools like **GitHub Actions** and **CircleCI**.\n• Spearheaded the transformation of monolithic architectures into scalable microservices ecosystems using **Kubernetes**, enabling continuous integration and deployment for improved software delivery.\n• Constructed and maintained cloud-based data architectures using **MongoDB** and other **NoSQL** databases to ensure seamless data flow and real-time analytics, particularly for high-volume healthcare and financial data applications.\n• Implemented **Event-Driven Architecture** for responsive, real-time applications, thus enhancing user interaction and operational efficiency.\n• Developed user-friendly front-end applications using **React** and **Vue.js**, ensuring a seamless user experience across both web and mobile platforms.\n• Established comprehensive test automation strategies utilizing tools such as **PyTest** and **Cypress**, ensuring high code quality and reliability across all services.\n• Devised and deployed advanced data visualization solutions using libraries like **D3.js** and **Power BI Embedded**, enabling stakeholders to derive actionable insights from complex datasets.\n• Led the integration of machine learning models into applications using **Python** frameworks including TensorFlow and PyTorch, facilitating enhanced decision-making through predictive analytics.\n• Collaborated with data science teams to embed NLP capabilities utilizing **spaCy** and **Hugging Face Transformers** within healthcare applications, directly improving anomaly detection and document processing accuracy.\n• Integrated observability tools like **DataDog** for enhanced monitoring of application performance and reliability, ensuring operational excellence across all deployed services."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS** and **GCP** to deploy scalable application architectures, ensuring high availability and performance for financial systems.\nLeveraged **Python** (FastAPI, Django) and **JavaScript** (Node.js, **Vue.js**) to create robust backend services within a microservices framework, enhancing system agility and collaboration for cross-functional teams.\nEmployed **NoSQL** databases such as **MongoDB** and **DynamoDB** to optimize data storage solutions for dynamic financial applications, improving overall application response times by **30%**.\nDesigned and implemented an **Event-Driven Architecture** using **Kafka** and **RabbitMQ** to facilitate real-time data processing, achieving a **25%** increase in transaction handling efficiency.\nDeveloped responsive front-end applications with **TypeScript**, applying **Redux Toolkit** and **Tailwind CSS** for enhanced user experiences on financial dashboards with load times reduced to under **2 seconds**.\nCreated observable systems using **DataDog** for performance monitoring and root cause analysis, improving system reliability and uptime by **40%**.\nImplemented CI/CD pipelines with **CircleCI** and **GitHub Actions**, accelerating deployment cycles by **50%** and ensuring quality through automated test frameworks.\nChampioned collaboration in an **Agile** environment, fostering teamwork to deliver complex projects on schedule, while maintaining high development standards and promoting best practices in software engineering."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** and **GCP** for cloud infrastructure management, ensuring high availability and scalability in all backend services.\nDeveloped and optimized backend services for a global e-commerce platform using **Python** (Django) and **JavaScript** (**Node.js**, **Express**) to maintain low latency across **9** key modules such as checkout and order fulfillment.\nEngineered real-time features leveraging **Event-Driven Architecture** with **Kafka** and **RabbitMQ** to provide responsive updates and improve customer satisfaction.\nDesigned dynamic frontend applications using **Vue.js** (version **3**) and implemented **TypeScript**, ensuring fast and responsive user experiences for both web and mobile platforms.\nEmployed **MongoDB** and **DynamoDB** for NoSQL data management, achieving a fault-tolerant data access strategy for high-traffic e-commerce operations with **95%** uptime.\nIntegrated AI/ML recommendation engines using **scikit-learn** and **TensorFlow**, leading to a **20%** increase in product conversion rates through personalized recommendations.\nImplemented **Redis** caching strategies for critical services such as shopping cart sessions, enhancing application responsiveness by reducing database read pressure.\nAdopted feature flags and blue-green deployments using **Kubernetes** and **GitHub Actions**, facilitating controlled rollouts and effective A/B testing during platform updates.\nCreated responsive e-commerce user interfaces using **Next.js** and **HTML5/CSS3**, optimized for mobile engagement and compliant with **WCAG 2.1** standards.\nBuilt secure payment workflows integrated with **Stripe** and **PayPal**, upholding PCI compliance and protecting sensitive data through tokenized transactions.\nApplied role-based access control (RBAC) and **OAuth 2.0** for secure user authentication, ensuring GDPR compliance throughout the platform while enhancing collaboration in an **Agile** environment."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Frontend Frameworks:**\n\tReact, Vue.js, Angular\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **API Technologies:**\n\tEventBridge\n\n **Serverless and Cloud Functions:**\n\tAWS, GCP\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, DynamoDB, NoSQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CircleCI, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Celery, Event-Driven Architecture, DataDog, Test Automation, Collaboration, Agile, Observability, Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot)",
+  "apply_company": "Prolific"
+}

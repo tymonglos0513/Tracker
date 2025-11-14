@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "DevOps Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Results-driven DevOps Engineer with 9+ years of experience in leveraging **AWS** services including **EKS**, **RDS**, **IAM**, **VPC**, and **S3** to design and implement scalable infrastructures. Proficient in containerization using **Docker** and orchestration with **Kubernetes** to enhance deployment workflows. Experienced in Infrastructure as Code (IaC) using **Terraform**, **OpenTofu**, and **Crossplane**, ensuring efficient environment management. Well-versed in monitoring and observability tools such as **Prometheus**, **Grafana**, and **CloudWatch** for performance optimization. Strong background in implementing security controls and networking strategies. Creative problem-solver with a robust background in application development, skilled in modern development frameworks like **ReactJS**, **NextJS**, and programming languages including **Go** and **C#**. Adept at collaborating across teams and managing multi-disciplinary projects to successful completion.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Utilized **AWS** and **EKS** to manage and scale containerized applications effectively, ensuring high availability and fault tolerance.\nImplemented Infrastructure as Code using **Terraform** and **OpenTofu** to automate and streamline cloud resource provisioning, resulting in a 50% reduction in setup time.\nDeployed **Docker** containers orchestrated by **Kubernetes**, enhancing deployment scalability and consistency across environments.\nManaged **RDS** databases for reliable data storage and optimized performance, achieving database uptime of **99.9%**.\nConfigured **IAM** policies to enforce security best practices, ensuring role-based access to resources within **VPC**.\nOptimized storage solutions using **S3** for scalable data storage and backup strategies.\nMonitored system performance and application health through **Prometheus** and **Grafana**, enabling proactive performance tuning and infrastructure management.\nImplemented CI/CD pipelines with **GitLab** and **Flux**, effectively reducing deployment cycles by **30%**.\nUtilized **CloudWatch** and **Sentry** for efficient logging and monitoring of application and infrastructure, leading to improved incident response times by **40%**.\nDeveloped networking and security policies adhering to best practices, ensuring robust network integrity and service reliability in production environments."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Utilized **AWS** services including **EKS**, **RDS**, **S3**, and **IAM** to design and implement cloud infrastructure, improving deployment efficiency by **20%**.\nEmployed **Docker** and **Kubernetes** for containerization and orchestration, leading to a **35%** reduction in application downtime.\nImplemented Infrastructure as Code (IaC) using **Terraform** and **OpenTofu**, streamlining the provisioning process and reducing setup time by **40%**.\nDeveloped and maintained monitoring solutions utilizing **Prometheus** and **Grafana**, enhancing system visibility and reducing incident resolution time by **15%**.\nConfigured CI/CD pipelines with **GitLab** and **Flux**, achieving a deployment frequency increase of **50%** while minimizing rollback instances.\nEnhanced application security by integrating **Service Mesh Architectures** such as **Linkerd** and **Istio**, ensuring compliant networking and security controls.\nAutomated infrastructure operations using **Bash** scripts, which improved operational efficiency by **25%**.\nConducted infrastructure performance audits and optimization tasks, resulting in a **30%** increase in resource utilization efficiency.\nCollaborated with cross-functional teams to align on project requirements and timelines, ensuring successful project execution.\nMentored junior engineers in best practices for DevOps and cloud technologies, fostering a culture of continuous learning and improvement."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Implemented **Infrastructure as Code** using **Terraform** and **OpenTofu** to streamline deployment processes and ensure consistent environments across **AWS** services.\nManaged and optimized **AWS RDS** for database needs, achieving a **30%** reduction in response time and improving overall application performance.\nDeployed applications utilizing **Docker** and **Kubernetes** to enhance scalability and maintainability, resulting in a smoother integration with **AWS EKS**.\nDesigned secure **IAM** policies and established best practices for **VPC** networking, ensuring robust security protocols while maintaining accessibility for development teams.\nConfigured monitoring solutions with **Prometheus**, **Grafana**, and **CloudWatch** to ensure real-time visibility into system performance and reliability metrics, enhancing operational capability by **25%**.\nUtilized **GitLab** for version control and CI/CD pipelines, accelerating deployment frequency by **40%** and maintaining high code quality through rigorous testing.\nImplemented **Service Mesh Architectures** like **Istio** and **Linkerd** for advanced traffic management and secure service communication, ensuring minimal downtime and exceptional performance.\nUtilized **Bash** scripting and **Go** for automation tasks, improving operational efficiency and reducing manual intervention.\nConducted regular security audits and reviews of **Networking and Security Controls**, strengthening the overall security posture of cloud environments.\nDelivered comprehensive technical documentation covering all **AWS** workflows, enhancing team knowledge and onboarding efficiency."
+    }
+  ],
+  "skills": "•\t**Programming Languages**\n\tJavaScript, TypeScript, C#, Python, Go, Bash\n\n•\t**Backend Frameworks**\n\tNodeJS, ExpressJS, NestJS, .NET, Microservices\n\n•\t**Frontend Frameworks**\n\tHTML, CSS, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n•\t**API Technologies**\n\tRESTful API, GraphQL\n\n•\t**Serverless and Cloud Functions**\n\tAWS, Azure, AWS Lambda\n\n•\t**Databases**\n\tMSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB, RDS\n\n•\t**DevOps**\n\tCI/CD pipelines, Docker, Kubernetes, Terraform, OpenTofu, Crossplane, GitLab, Flux, Prometheus, Grafana, CloudWatch, Sentry\n\n•\t**Cloud & Infrastructure**\n\tEKS, IAM, VPC, S3, Networking and Security Controls, Service Mesh Architectures, Linkerd, Istio\n\n•\t**Other**\n\tUX/UI Design, Git, GitHub, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Blockchain: Solidity, Ether.js, Web3.js, Ethereum, Redis, Apache Kafka, RabbitMQ"
+}

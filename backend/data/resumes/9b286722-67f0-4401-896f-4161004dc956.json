@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Platform Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Senior Platform Engineer with 13+ years of experience in developing high-performance applications, specializing in **GPU-based infrastructure** and Linux systems proficiency. Adept in leveraging the **NVIDIA GPU ecosystem**, **CUDA**, **cuDNN**, and **NCCL** to optimize computational power for AI/ML applications. Proven ability in deploying and managing **Red Hat OpenShift**, **Kubernetes**, and implementing infrastructure as code using **Terraform** and **Ansible**.\nSkilled in utilizing **Triton Inference Server**, **RAPIDS**, and **TensorRT** for efficient inference capabilities, along with experience in handling cloud GPU environments to support scalable solutions.\nStrong background in MLOps frameworks and LLMPops, including AI-driven model orchestration and retrieval-augmented generation (RAG). Excellent collaboration and communication skills, with a commitment to aligning solutions with industry compliance standards. Previously focused on backend technologies such as **Python**, **Node.js**, and **Django**, with a solid grasp of AI/ML-powered platforms and CI/CD pipelines.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Platform Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and built GPU-based infrastructures for high-performance computing environments utilizing **NVIDIA GPU ecosystem**, **CUDA**, **cuDNN**, and **TensorRT**, ensuring optimized deployments for AI and machine learning models.\nImplemented and managed **Slurm** for job scheduling and resource management in cloud GPU environments, enhancing computational efficiency by up to **40%** in resource allocation.\nDeployed applications on **Red Hat OpenShift** and utilized **Kubernetes** for container orchestration, resulting in a **30%** reduction in deployment time and improved scalability.\nBuilt and maintained MLOps frameworks utilizing **MLflow**, **Terraform**, and **Ansible** for automated infrastructure provisioning and model management across environments.\nIntegrated **Vector databases** for improved data retrieval performance in machine learning applications, addressing large-scale data management challenges in both health and financial domains.\nLed initiatives using **Retrieval-Augmented Generation (RAG)** techniques to enhance model performance and accuracy, contributing to improved user experience and interaction rates.\nCollaborated with cross-functional teams, leveraging strong collaboration and communication skills to deliver successful projects and meet stakeholder requirements.\nDesigned CI/CD pipelines incorporating testing with **GitHub Actions** and **Azure DevOps**, ensuring reliable and repeatable deployments with a focus on security.\nImplemented advanced operational strategies and documentation to streamline processes and improve team efficiency in both development and production environments.\nUtilized **Triton Inference Server** to optimize ML model inference times, achieving latency reductions of up to **25%** for real-time applications.\nMonitored and maintained Linux systems proficiency, ensuring reliability and performance across all deployments and services."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **GPU-based infrastructure** for scalable machine learning solutions, employing **Red Hat OpenShift** and **Kubernetes** to orchestrate containerized applications effectively across **Linux systems**.\nUtilized **Terraform** and **Ansible** for infrastructure as code (IaC) to automate the provisioning and management of **cloud GPU environments**, significantly reducing deployment times by **40%**.\nLeveraged the **NVIDIA GPU ecosystem**, employing **CUDA**, **cuDNN**, and **NCCL** to optimize the performance of deep learning models, resulting in a **30%** increase in training efficiency.\nDesigned and deployed machine learning operations within **MLOps frameworks**, integrating **Triton Inference Server** and **TensorRT** for streamlined inference, which improved response times for applications by **25%**.\nArchitected solutions utilizing **RAPIDS** for data processing, enhancing the efficiency of data analytics workflows and reducing computation times for large datasets by **50%**.\nDeveloped and sustained **Vector databases** to facilitate real-time data retrieval and storage, which enhanced the performance of machine learning pipelines.\nPromoted effective **collaboration skills** within cross-functional teams, ensuring smooth communication and alignment on project deliverables and timelines.\nDemonstrated strong **communication skills** to convey complex technical concepts clearly to non-technical stakeholders, ensuring thorough understanding and collaboration throughout the project lifecycle."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Engineered GPU-based infrastructure leveraging **NVIDIA GPU ecosystem**, ensuring optimal performance for AI/ML workloads and facilitating high throughput for real-time data processing.\nUtilized **Slurm** for cluster management, optimizing resource allocation and job scheduling, which managed over **500** concurrent jobs across various projects to enhance computational efficiency.\nDeployed and maintained cloud resources using **Red Hat OpenShift** and **Kubernetes**, ensuring reliable application orchestration and continuous integration/continuous deployment (CI/CD) for seamless platform updates.\nImplemented MLOps frameworks, leveraging **TensorRT** and **Triton Inference Server** to accelerate inference times, achieving enhancements in model deployment efficiency by **30%**.\nDesigned and developed automated infrastructure provisioning scripts using **Terraform** and **Ansible**, decreasing deployment times from **2 hours** to under **30 minutes** while ensuring consistency across environments.\nCultivated strong collaboration and communication skills, leading cross-functional teams to deliver scalable solutions within tight deadlines, resulting in a **25%** increase in team productivity.\nIntegrated retrieval-augmented generation (RAG) techniques utilizing **Vector databases**, enhancing the relevance and accuracy of data retrieval operations in support of complex AI applications.\nApplied best practices in **LLMOps** to ensure robust lifecycle management of large language models, optimizing training pipelines for improved performance.\nMaintained proficiency in **Linux systems**, ensuring glitch-free operations and security configurations for a variety of applications running in cloud GPU environments.\n"
+    }
+  ],
+  "skills": "GPU-based infrastructure, Slurm, Red Hat OpenShift, NVIDIA GPU ecosystem, CUDA, cuDNN, NCCL, Triton Inference Server, RAPIDS, TensorRT, Python: FastAPI, Flask, Django, JavaScript/TypeScript: React, Vue, Angular, MLflow, Airflow, Kubeflow, Docker, Kubernetes, GitHub Actions, GitLab CI/CD, AWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, PostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Terraform, Ansible, Helm, Docker Compose, Cloud GPU environments, Linux systems proficiency, LLMOps, MLOps frameworks, Vector databases, Retrieval-Augmented Generation (RAG), Collaboration skills, Communication skills"
+}

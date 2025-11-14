@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Backend Engineer with 13+ years of experience in developing high-performance applications, particularly skilled in **Node.js**, **TypeScript**, and proficient in using **MongoDB**, **Kafka**, and **Redis**. Experienced in implementing **Koa** and **NestJS** frameworks for backend services. Strong expertise in event-driven architectures and microservices, coupled with hands-on experience in monitoring and performance optimization using **Prometheus**, **Grafana**, and **Datadog**. \nAdditionally, I have a solid background in delivering AI/ML-powered solutions with a focus on real-time processing and predictive analytics. My cloud-native development skills include deploying applications on **AWS** and **Azure**. I am well-versed in compliance-driven practices, ensuring alignment with industry standards like HIPAA and PCI DSS. My technical background is strengthened by strong MLOps capabilities, utilizing tools like **MLflow** and **Airflow** for streamlined model management.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented backend solutions using **Node.js** with frameworks such as **Koa** and **NestJS**, ensuring high performance and scalability for dynamic applications.\nUtilized **TypeScript** to write robust, type-safe code that enhances maintainability and reduces runtime errors across projects.\nIntegrated **MongoDB** for efficient document storage and retrieval, optimizing database performance to handle up to **500,000** transactions per day.\nDeveloped message-driven systems using **Kafka** and **Bull** for queue management and background job processing, resulting in a **30%** improvement in system throughput.\nEmployed **Redis** for caching mechanisms, leading to a **40%** reduction in data retrieval times and enhancing overall application responsiveness.\nDesigned and implemented analytical data processing solutions utilizing **ClickHouse** for real-time query performance and advanced analytics capabilities.\nEnhanced search functionalities using **Elasticsearch**, allowing for optimized full-text searches across structured and unstructured data sets.\nMonitored application health and performance metrics using **Prometheus**, setting up alerts to catch issues before they affect end-users, achieving a **99.9%** uptime.\nVisualized application metrics and logs with **Grafana** and **Datadog** to proactively manage system performance and identify bottlenecks.\nLed the team's adoption of CI/CD practices with automated testing frameworks, significantly reducing deployment times by **50%** and improving code quality within the development process.\nCollaborated with cross-functional teams to refine system architecture and ensure alignment with business objectives, enhancing project delivery speed by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Node.js** (NestJS) to modernize core financial platforms by migrating to a microservices architecture, enhancing scalability and performance for high-volume transactional systems.\nImplemented **TypeScript** for building robust backend services, ensuring code quality and maintainability across multiple projects.\nDesigned and developed event-driven architectures using **Kafka** and **Redis**, ensuring efficient asynchronous communication across critical workflows such as payments and compliance.\nManaged database integrations with **MongoDB** for seamless data storage, and utilized **Elasticsearch** for efficient data retrieval and analytics processing.\nMonitored application performance using **Prometheus**, **Grafana**, and **Datadog**, contributing to enhanced system reliability and operational efficiency.\nImproved application resilience and response times by employing **Bull** for job scheduling and workload management, optimizing backend processes to handle over **10,000** transactions per minute.\nCollaborated closely with frontend teams to ensure seamless integration between backend and UI components, leveraging **TypeScript** and enhanced state management solutions.\nDeveloped RESTful APIs in accordance with best practices to support various client applications, reducing response time by over **25%** through effective caching strategies.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Node.js** with **NestJS** and **TypeScript** to design and optimize backend services for a global e-commerce platform, ensuring high availability and scalability across key modules like checkout, cart, and order fulfillment.\nEngineered real-time features using **Kafka** and **Bull**, enabling responsive order updates, dynamic inventory tracking, and real-time customer support, contributing to a seamless transaction experience for over **9 million** users.\nLeveraged **MongoDB** and **Redis** for distributed data storage, achieving **99.9%** uptime and reducing data access times significantly for high-traffic e-commerce workflows.\nImplemented performance monitoring and logging systems using **Prometheus**, **Grafana**, and **Datadog**, providing actionable insights that led to a **15%** reduction in response times and improved user engagement metrics.\nCreated reliable, high-performance caching strategies with **Redis**, enhancing application speed and reducing database read pressure by **40%** during peak shopping periods.\nDeveloped efficient integrations with **Elasticsearch** for search functionalities, improving search performance by **30%** and increasing user satisfaction with relevant product listings.\nApplied role-based access control (RBAC) and OAuth 2.0 for secure customer and admin access, ensuring compliance with GDPR and protecting sensitive user data throughout the platform.\nMonitored and improved application performance metrics to ensure the platform consistently managed over **500,000** concurrent users during peak hours without latency issues."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js, Koa, NestJS\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKafka\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, ClickHouse, Elasticsearch\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Prometheus, Grafana, Datadog, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Bull",
+  "apply_company": "Fundraise Up"
+}

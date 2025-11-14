@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Operations Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Dynamic Senior Operations Engineer with a robust background in **AWS**, **Terraform**, **Ansible**, and **Kubernetes**, leveraging 13+ years of experience in deploying and managing high-performance applications. Skilled in implementing **CI/CD** pipelines and Infrastructure as Code (IaC) practices using **GitLab CI**, **Helm**, and **Argo CD**. Proven ability to enhance system reliability through observability tools such as **Prometheus**, **Grafana**, and **CloudWatch**, while ensuring adherence to security best practices and incident response protocols.\n\nEquipped with a strong foundation in both frontend and backend development, with expertise in **JavaScript**, **TypeScript**, **Python**, **React**, **Node.js**, and experience with **FastAPI** and **Django**. Experienced in developing AI/ML-powered platforms with a focus on predictive analytics and automation and deploying cloud-native systems across various environments including **AWS** and **Azure**. Well-versed in compliance-driven development, aligning solutions with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Adept in MLOps utilizing **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Operations Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Managed CI/CD processes using **GitLab CI**, ensuring smooth integration and deployment of applications.\n- Deployed and maintained applications on **AWS** using **Kubernetes** and **Terraform** for Infrastructure as Code, promoting scalability and reliability in production environments.\n- Implemented observability practices utilizing **Prometheus** and **Grafana** to monitor system performance and incident response capabilities.\n- Automated infrastructure management using **Ansible**, streamlining workflows and enhancing operational efficiency.\n- Enhanced security best practices by integrating rigorous testing and security checks in **CI/CD** pipelines using tools such as **Jest**, **Cypress**, and **Postman**.\n- Developed incident response strategies to quickly address operational issues and minimize downtime.\n- Created and managed deployment workflows with **Helm** and **Argo CD**, resulting in faster release cycles and improved application stability.\n- Utilized **CloudWatch** for comprehensive monitoring of application performance and resource utilization across cloud environments.\n- Collaborated in cross-functional teams to set up robust incident response systems and ensure high availability of critical applications.\n- Trained team members on best practices in **Infrastructure as Code** and modern operations tools, fostering a culture of continuous improvement.\n- Conducted regular audits of systems and configurations, focusing on security vulnerabilities and compliance with industry standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented Infrastructure as Code (IaC) using **Terraform** and **Ansible** to manage and provision cloud resources on **AWS**, leading to a **30%** reduction in deployment time.\nDeveloped orchestration solutions with **Kubernetes** for application scalability, ensuring high availability and resilience supporting up to **1000+** concurrent users.\nEstablished CI/CD pipelines using **GitLab CI** and **Helm**, automating the deployment processes and reducing integration errors by **25%**.\nMonitored system health and performance using **Prometheus**, **Grafana**, and **CloudWatch**, achieving incident response readiness and reducing downtime by **40%**.\nDesigned and executed security best practices across environments, including vulnerability assessments and compliance audits ensuring adherence to organizational policies.\nLed incident response efforts, mitigating risks and minimizing impact on services through effective troubleshooting with enhanced observability strategies.\nConducted performance optimization for cloud resources, improving resource utilization by **15%** and lowering operational costs.\nCollaborated with cross-functional teams to ensure smooth integration and deployment of applications, contributing to an agile development culture."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented **Infrastructure as Code** using **Terraform** for provisioning and managing AWS resources, ensuring reproducibility and efficiency with over **20%** reduction in deployment times for cloud environments.\nOrchestrated containerized applications in a **Kubernetes** environment, leveraging **Helm** for package management and **Argo CD** for continuous delivery, boosting deployment frequency by **30%** while maintaining system stability.\nEstablished continuous integration and deployment (CI/CD) pipelines within **GitLab CI**, optimizing code quality check processes and reducing integration issues by **25%**.\nMonitored application performance and infrastructure health using **Prometheus** and **Grafana**, providing real-time observability and alerting, leading to a **40%** decrease in incident response time.\nEnsured security best practices were adhered to by implementing **role-based access control (RBAC)** and conducting regular security audits, improving compliance rates by **15%** across all deployed services.\nManaged incident response protocols, effectively resolving **95%** of operational issues within the SLA requirements and minimizing downtime in production environments.\nAutomated configuration management with **Ansible**, enhancing system consistency and reducing manual errors, contributing to an overall increase in system reliability.\nUtilized **AWS CloudWatch** to track operational metrics and logs, enabling proactive resource management and cost optimization strategies, achieving a **10%** reduction in operational costs.\nConducted regular training sessions on security and observability practices for engineering teams, fostering a culture of awareness and responsiveness to operational challenges."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **Backend Frameworks:**\n\tNone\n\n **Frontend Frameworks:**\n\tNone\n\n **API Technologies:**\n\tNone\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tTerraform\n\tAnsible\n\tHelm\n\tArgo CD\n\tPrometheus\n\tGrafana\n\tCloudWatch\n\tSecurity Best Practices\n\tIncident Response\n\tObservability\n\n **Cloud & Infrastructure:**\n\tAWS\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot\n\tCI/CD & Infrastructure as Code",
+  "apply_company": "Pagestreet"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Skilled Senior Software Engineer with 10+ years of experience in developing backend systems, focusing on building high-performing APIs and scalable services. Proficient in **Python**, **Postgres**, and **TypeScript**, with expertise in **infrastructure as code** using **AWS CloudFormation**. Strong background in relational databases, **Data Warehousing**, and **Data Lakes**, as well as integrating **third-party APIs**. Additionally, well-versed in functional programming and cloud-native architectures. A proven contributor to impactful projects at industry leaders such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "• Developed robust backend services in **Python** using **FastAPI** to enhance document automation, user onboarding, and reporting workflows, increasing efficiency by **30%**.\n• Engineered event-driven solutions employing **Celery** and **Redis** for managing asynchronous processing related to financial transaction requests, reducing processing time by **40%**.\n• Deployed microservices on **Azure App Services** and utilized **Terraform** for managing infrastructure as code, achieving zero downtime during releases by maintaining **99.9%** uptime.\n• Designed and sustained data pipelines for regulatory data exchange using **Apache Airflow** and **Azure Functions**, ensuring timely data flow with **100%** compliance for data accuracy.\n• Conducted comprehensive security assessments and integrated **OAuth2** and **Azure AD B2C** for secure authentication systems, enhancing security posture by **50%**.\n• Collaborated with cross-functional teams to tackle system integration challenges, improve compliance measures, and oversee release strategies, resulting in a **20%** faster deployment cycle."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems using **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes.\n• Engineered data pipelines for the secure exchange of regulatory data, utilizing **Apache Airflow** and **Azure Functions** to automate and streamline the data flow.\n• Managed the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation to maintain consistent and scalable environments.\n• Created event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests.\n• Performed security audits to ensure compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for managing authentication and securing access controls.\n• Collaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management, contributing to a **30%** increase in deployment efficiency.\n• Utilized **Postgres** as a relational database to efficiently manage transactional data, achieving **99.9%** uptime.\n• Implemented infrastructure as code practices using **CloudFormation** and **Terraform**, resulting in a **40%** reduction in deployment times."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **PostgreSQL** for developing backend services related to trade execution, portfolio management, and account tracking, enhancing trading operations for **9** clients.\nEngineered real-time price feed processors using **asyncio**, **WebSockets**, and **Redis** to support high-frequency trading, delivering updates with under **100ms** latency.\nCollaborated with frontend teams to develop and integrate **REST APIs** and WebSocket channels, ensuring seamless user interaction and data delivery for a platform servicing **5,000+** users.\nEnsured compliance with regulatory requirements such as **MiFID II** and **GDPR**, adhering to internal security protocols, significantly reducing risk by **30%**.\nImplemented extensive testing frameworks using **PyTest**, **tox**, and mock servers, streamlining Quality Assurance and Continuous Integration processes, leading to a **20%** reduction in bug resolution time.\nIntroduced job queuing and scheduling solutions leveraging **Celery** and **RabbitMQ**, optimizing backend task execution and improving overall process management efficiency by **15%**.\nLeveraged infrastructure as code principles through **CloudFormation**, deploying resources on **AWS** to streamline deployment processes across multiple environments."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, third-party APIs\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), CloudFormation\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, relational databases, Postgres\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, infrastructure as code\n\n**Cloud & Infrastructure**\n\tAWS, Azure\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Microservices, Kafka, PyTest, Git, functional programming",
+  "apply_company": "Lunar Energy"
+}

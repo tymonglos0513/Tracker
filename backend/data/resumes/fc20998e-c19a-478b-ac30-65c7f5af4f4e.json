@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Cloud Architect",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Results-driven Cloud Architect with 13+ years of experience delivering high-performance applications in the healthcare and financial sectors. Proficient in **AWS** technologies including **AWS CDK**, **Lambda**, **ECS**, **EC2**, **S3**, **RDS**, **Step Functions**, and **IAM**, with robust capabilities in **Infrastructure-as-Code** and managing **Docker** containers. Skilled in **Bash** scripting and leveraging **Grafana** for monitoring and visualization. \n\nExpert in modeling and implementing cloud-native architectures with a strong focus on compliance, aligning solutions with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Adept in programming with **Python**, **TypeScript**, and **Angular**, while enhancing deployment strategies through a well-rounded understanding of the SDLC and tools such as **Jira**. \n\nSpecialist in AI/ML applications, utilizing frameworks like **FastAPI** and **Django** for backend development, complemented by real-time processing capabilities. Proven ability to architect solutions that support predictive analytics and automation using MLOps practices including model training and serving.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Cloud Architect",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and built cloud infrastructure using **AWS** services such as **Lambda**, **ECS**, **S3**, and **RDS** to support scalable applications for healthcare and fintech industries, ensuring compliance with regulations.\nImplemented Infrastructure-as-Code (IaC) practices using **AWS CDK** for rapid deployment of cloud resources and applications, effectively managing environments across **EC2** and **Elasticache** for optimal performance.\nDeveloped CI/CD pipelines utilizing **CodeBuild** in combination with GitHub Actions and CircleCI, ensuring seamless integration and delivery across multiple environments with full test automation.\nLeveraged **Docker** for containerization of applications, leading efforts to migrate legacy systems to microservices which improved system reliability and scalability by **40%**.\nCollaborated with cross-functional teams to design and implement robust cloud security protocols using **IAM** configurations, enhancing data protection for sensitive health and financial information by **30%**.\nUtilized **Python** and **TypeScript** for backend and frontend development, creating seamless user experiences with **Angular** and **nx**, ensuring high-performance applications that handled up to **10,000** users concurrently.\nManaged database solutions with **MySQL** and **Redis**, implementing efficient data storage and retrieval strategies that supported real-time analytics and transaction processing in cloud environments.\nMonitored system performance and application health using **Grafana** and other monitoring tools, achieving an uptime of **99.9%** across deployed applications.\nDeveloped scripts in **Bash** for automated deployments and maintenance tasks, streamlining operational workflows and reducing manual intervention by **50%**.\nEngaged in the full Software Development Life Cycle (SDLC), utilizing **Jira** for project management and ensuring alignment with organizational goals and deliverables."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **AWS** cloud solutions using **EC2**, **S3**, **RDS**, and **Lambda** to optimize the deployment and scalability of financial applications, leading to a performance improvement of **30%**.\nDesigned and integrated Infrastructure-as-Code with **AWS CDK** to streamline infrastructure deployment, reducing setup time by **50%** and ensuring consistent environments across development and production.\nUtilized **ECS** and **Docker** for container orchestration, enhancing system reliability and reducing downtime by **25%** during updates.\nAutomated CI/CD pipelines using **Codebuild**, improving the software delivery process and decreasing deployment time by **40%**.\nContributed to data management by integrating **Redis** and **Elasticache** for improved caching strategies, resulting in faster data retrieval times by **60%** in high-traffic scenarios.\nEngaged in SDLC practices and utilized **Jira** for task management, promoting transparency and efficiency within cross-functional teams.\nDeveloped robust backend solutions using **Python** and **TypeScript** to support diverse application needs, focusing on maintainability and scalability of code.\nLeveraged **Grafana** for monitoring and visualizing application performance, thus allowing for proactive optimizations and troubleshooting.\n\nDemonstrated expertise in relational databases such as **MySQL**, designing schemas that improve query performance and data integrity for financial records.\nEngaged in Agile development processes, facilitating swift adaptations to changing project requirements while maintaining high standards of quality and performance."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged **AWS** services such as **Lambda**, **EC2**, **RDS**, and **S3** for building scalable cloud infrastructures, enhancing performance and lowering operational costs by **30%**.\nUtilized **Infrastructure-as-Code** frameworks like **AWS CDK** to automate deployment processes, reducing manual errors by **40%** and improving deployment speeds by **50%**.\nImplemented monitoring and logging strategies using **Grafana** to ensure system reliability and performance across cloud applications, achieving **99.9%** uptime.\nDesigned and optimized serverless architectures with **Step Functions** and **ECS**, streamlining workflows and increasing system efficiency.\nAutomated CI/CD pipelines using **Codebuild**, which improved deployment regularity and reduced rollback incidents during production deployments by **25%**.\nDeveloped robust backend services utilizing **Python** and **TypeScript**, ensuring seamless integration with cloud services and improving application performance by **20%**.\nExecuted efficient data management practices using **Redis** for in-memory caching and enhancing data retrieval speeds, and transitioned from traditional SQL solutions to **MySQL** for optimized relational database management.\nCreated containerized applications with **Docker**, ensuring consistent environments across development and production that reduced the setup time for new environments by **70%**.\nImplemented role-based access control (RBAC) and IAM policies in the **AWS** ecosystem to ensure secure access and comply with regulatory standards, improving security protocols throughout the infrastructure.\nWorked with **Bash** scripts for automation tasks, resulting in streamlined operations and improved developer productivity throughout SDLC processes."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Angular\n\n**Frontend Frameworks:**\n\tReact, Vue\n\n**API Technologies:**\n\tOAuth2, JWT, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS Lambda, Azure App Services\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, EC2, Elasticache, IAM, Codebuild, Step Functions\n\tAzure: Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Infrastructure as Code:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Bash, SDLC, Jira, Grafana, Pusher, Nginx, Let’s Encrypt, Certbot"
+}

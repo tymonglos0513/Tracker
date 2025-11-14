@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Dynamic Senior DevOps Engineer with 13+ years of experience in building and managing high-performance applications, particularly in the healthcare and financial sectors. Expert in deploying cloud-native solutions on **AWS** and **Azure**, utilizing **Kubernetes**, **Docker**, **Terraform**, and **GitLab CI** for seamless infrastructure and application management. Proficient in CI/CD practices and DevSecOps principles, implementing **Ansible**, **Prometheus**, **Grafana**, and **ELK** for monitoring and logging.\n\nStrong skills in automating deployments and infrastructure with tools like **Helm**, **ArgoCD**, and **Flux**, enhancing operational efficiency and reliability. Well-versed in API management and security protocols, ensuring compliance with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Experienced in leveraging **Python**, along with hands-on expertise in **Bash**, **Go**, and **Ruby** for scripting and automation tasks.\n\nAdditionally, I have a solid background in building AI/ML-driven platforms with a focus on predictive analytics, real-time processing, and MLOps utilizing **FastAPI**, **Django**, **MLflow**, **Airflow**, and **Kubeflow**. My ability to align solutions to business needs and optimize cloud deployments ensures that I contribute effectively to cross-functional teams.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Spearheaded the implementation of **Kubernetes**, ensuring the deployment of fault-tolerant, scalable microservices architectures, leading to a 40% increase in system reliability.\n• Established CI/CD pipelines with **GitLab CI**, enabling automated integrations and deployments, which reduced release time by **30%**.\n• Managed and optimized infrastructure using **Terraform**, facilitating infrastructure as code practices that decreased provisioning time by **50%**.\n• Designed and maintained robust logging and monitoring solutions leveraging **Prometheus** and **Grafana**, improving system performance visibility by **60%**.\n• Developed and orchestrated containerized applications with **Docker**, enhancing deployment consistency and efficiency across environments.\n• Managed serverless functions using **AWS Lambda** and **Azure Functions**, creating scalable solutions that efficiently handled over **10,000** requests per day.\n• Led initiatives to automate configuration management with **Ansible**, ensuring security compliance and reducing manual workload by **20%**.\n• Integrated **DevSecOps** practices into development workflows, ensuring the security of applications is maintained from inception through to deployment.\n• Conducted performance and load testing using **API gateways**, ensuring optimum application performance under stress.\n• Developed monitoring strategies employing **OpenTelemetry** to gain insights into application performance and maintain service level objectives (SLOs).\n• Collaborated on architecture and deployment strategies using **GitOps** methodologies with tools like **ArgoCD** and **Flux**, streamlining version control processes for production environments.\n• Defined service level indicators (SLIs) and service level agreements (SLAs) for critical business services, ensuring alignment with business objectives.\n• Ensured seamless database management across multiple technologies including **PostgreSQL**, **DynamoDB**, and **Cassandra**, catering to diverse application needs and optimizing data retrieval times.\n• Fostered positive inter-team collaborations to enhance operational efficiency, contributing to an overall satisfaction score improvement of **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Led the adoption of **Kubernetes** for container orchestration, optimizing deployment processes and reducing deployment time by **30%**.\nImplemented **Terraform** to automate infrastructure provisioning, ensuring repeatable and consistent environments across **AWS** and **Azure** clouds, achieving a deployment success rate of **98%**.\nConfigured **GitLab CI** for continuous integration and delivery, improving code quality and reducing integration issues by **40%**.\nUtilized **Docker** to containerize applications, facilitating efficient development workflows and streamlined deployment pipelines.\nDeveloped and maintained monitoring solutions using **Prometheus** and **Grafana**, ensuring high availability and performance by tracking key performance indicators (KPIs) and service-level objectives (SLOs).\nExecuted best practices in **DevSecOps**, integrating security checks into CI/CD pipelines and minimizing vulnerabilities identified in production.\nManaged backups and disaster recovery strategies for databases including **PostgreSQL** and **MySQL**, ensuring data integrity with a recovery point objective (RPO) of **1 hour**.\nAutomated application deployment using **ArgoCD** and GitOps principles, increasing deployment rollout efficiency and team collaboration.\nCollaborated with developers to build API gateways with **API gateways** technology, enhancing application security and scalability.\nTrained and mentored junior engineers on **ITIL** practices, fostering an understanding of service management and operational excellence."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Implemented **Kubernetes** for container orchestration, enhancing deployment efficiency by **30%** and ensuring seamless application rollout across various environments.\n- Managed infrastructure as code using **Terraform**, automating deployments and configurations which resulted in reduced manual interventions by **40%**.\n- Configured CI/CD pipelines in **GitLab CI**, facilitating automated testing and deployment processes, which decreased deployment times by **50%**.\n- Deployed observability tools like **Prometheus** and **Grafana** to monitor system performance and metrics, allowing for data-driven decisions that improved system uptime to **99.9%** availability.\n- Enhanced application security through **DevSecOps** practices, implementing **Ansible** for automated security configurations and compliance checks across environments.\n- Leveraged cloud services such as **AWS** and **Azure** for scalable infrastructure solutions, optimizing cost and performance in handling high traffic workloads.\n- Designed and managed databases with **PostgreSQL**, **Cassandra**, and **DynamoDB**, ensuring reliable and efficient data storage for applications with performance requirements targeting under **200ms** response times.\n- Employed **Docker** for containerization of applications, which provided a consistent development environment and streamlined deployment processes.\n- Integrated **OpenTelemetry** for distributed tracing, improving debugging capabilities and response time analysis for critical applications.\n- Utilized **API gateways** such as **Kong** to manage and secure APIs, ensuring efficient traffic management and enhanced API performance monitoring.\n- Implemented **GitOps** workflows with **ArgoCD** and **Flux**, accelerating development cycles while maintaining high standards of deployment reliability and repeatability.\n- Regularly conducted performance evaluations and established SLOs, SLIs, and SLAs, leading to high service quality and meeting customer expectations effectively."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, Bash, Go, Ruby\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI gateways, Keycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS Lambda, Azure Functions\n\n**Databases:**\n\tPostgreSQL, MySQL, DynamoDB, Cassandra, Redshift, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitLab CI, Ansible, Terraform, Helm, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Prometheus, Grafana, ELK, OpenTelemetry, GitOps, ArgoCD, Flux, DevSecOps, ITIL, Linux, Istio, Kong, Vault, SLOs, SLIs, SLAs",
+  "apply_company": "Adfinis"
+}

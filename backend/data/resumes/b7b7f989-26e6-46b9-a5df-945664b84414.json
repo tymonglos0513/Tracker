@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Python Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Python Engineer with 13+ years of experience in developing high-performance applications in the healthcare and financial sectors. Proficient in **Python**, **FastAPI**, **Docker**, **gRPC**, **REST**, and **OpenAPI**. Extensive background in cloud platforms such as **AWS** (including **S3**, **EC2**, **Lambda**, and **API Gateway**) and implementing infrastructure as code with **Terraform** and **CDK**. Skilled in creating CI/CD pipelines using **GitHub Actions** and **AWS CodePipeline**, ensuring efficient version control and testing practices. \nExperienced in building scalable, microservices-based architectures and leveraging tools like **Kubernetes**. Proven ability to integrate machine learning capabilities, focusing on deployment and orchestration with technologies such as **LangChain** and **LangGraph**. Strong emphasis on compliance-driven development, aligning with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Excellent communication and collaboration skills, with a commitment to code reviews and continuous improvement.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained high-performance backend systems using **Python** and **FastAPI**, demonstrating expertise in building RESTful and gRPC services.\n• Designed CI/CD pipelines using **GitHub Actions** and **AWS CodePipeline**, ensuring streamlined deployment processes and version control management for applications.\n• Orchestrated containerized applications with **Docker** and **Kubernetes**, facilitating scalable deployments and microservices architecture for improved fault tolerance.\n• Implemented robust testing strategies across the stack, leveraging frameworks such as **PyTest** for unit, integration, and end-to-end testing ensuring a high-quality codebase.\n• Collaborated across teams to define software specifications and communicate technical solutions effectively, enhancing team productivity and project timelines.\n• Utilized **Terraform** and **CDK** for infrastructure as code, enabling the efficient provisioning and management of cloud resources on **AWS**.\n• Conducted thorough code reviews to maintain code quality and adherence to best practices, contributing to continuous improvement within the development team.\n• Enhanced the functionality of systems by integrating third-party services and APIs, optimizing workflows and user interactions in accordance with performance benchmarks and reliability.\n• Engaged with stakeholders to align technical implementations with business objectives, iterating on feedback to ensure user-centered design considerations are met.\n• Led technical discussions and mentoring sessions, fostering a culture of knowledge sharing and skill advancement within the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop scalable and efficient backend services for core financial platforms, facilitating integration with microservices architecture.\nImplemented **Docker** for containerization, ensuring consistent development and production environments while managing application deployment processes.\nDesigned and documented APIs following **OpenAPI** specifications, ensuring seamless communication across services and adherence to best practices in RESTful API design.\nCollaborated with teams using **GitHub Actions** and **AWS CodePipeline** for CI/CD implementation, automating the deployment process and increasing deployment frequency by **50%**.\nExecuted rigorous testing and code reviews to maintain code quality and robustness, significantly reducing production bugs by **30%**.\nFacilitated real-time communication between distributed systems using **gRPC** and **Kafka**, improving the efficiency of critical workflows by ensuring low-latency transactions.\nConfigured and managed cloud services including **AWS** (S3, EC2, Lambda) to optimize application performance and scale according to demand, decreasing operational costs by **20%**.\nUtilized **Kubernetes** for orchestration, significantly enhancing system reliability and scalability through automated deployment, scaling, and management of containerized applications.\nApplied infrastructure as code principles with **Terraform** and **AWS CDK**, streamlining the provisioning and management of cloud resources.\nLed collaborative discussions to improve team communication and maintain an agile development environment, ensuring alignment with strategic goals and project timelines."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Developed and optimized backend services using **Python** and frameworks like **FastAPI**, ensuring adherence to **CI/CD** principles and efficient **version control** practices with **GitHub Actions** and **AWS CodePipeline**.\n- Designed internal microservices following **REST** APIs and robust data communication protocols like **gRPC**, enhancing service integration and scalability.\n- Architected deployment processes using **Docker** and **Kubernetes**, facilitating container orchestration to improve application reliability and uptime metrics by **99.9%**.\n- Implemented infrastructure as code using **Terraform** and **CDK** on **AWS**, automating environment provisioning and application deployments across **EC2** and **S3**.\n- Built and maintained API documentation adhering to **OpenAPI** specifications to enhance API consumer experience and facilitate easier onboarding of new developers.\n- Conducted thorough code reviews and implemented testing protocols using industry-leading tools, boosting code quality and reducing defects by **30%** over **3 releases**.\n- Collaborated effectively with cross-functional teams to gather requirements and communicate technical information, ensuring project milestones are achieved on time.\n- Spearheaded initiatives to integrate new technologies like **LangChain** and **LangGraph** for enhanced application performance and responsiveness to user interactions.\n- Mentored junior developers on best practices in software development and deployment, fostering a culture of continuous learning and knowledge sharing.\n- Effectively communicated project status and technical concepts to stakeholders, bridging the gap between technical and non-technical team members."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, \n\nBackend Frameworks:\n\tFastAPI, \n\nFrontend Frameworks:\n\tReact, Vue, Angular, \n\nAPI Technologies:\n\tgRPC, REST, OpenAPI, API Gateway, \n\nServerless and Cloud Functions:\n\tAWS: Lambda, EC2, S3, \n\nDatabases:\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, \n\nDevOps:\n\tDocker, Kubernetes, GitHub Actions, AWS CodePipeline, \n\nCloud & Infrastructure:\n\tTerraform, CDK, \n\nOther:\n\tversion control, testing, code reviews, communication",
+  "apply_company": "Grupo Digital"
+}

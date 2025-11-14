@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "AI Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Results-driven AI Software Engineer with over 10 years of experience in leveraging **Python** (including **FastAPI**, **Flask**) for designing scalable microservices and event-driven architectures. Proficient in building high-performance APIs and automation tools while utilizing advanced technologies such as **Kafka**, **SSE**, and **WebSocket**. Expertise in Large Language Models, including fine-tuning, prompt engineering for models like **GPT**, **Claude**, and **Gemini**. Skilled in implementing **vector databases** and **OpenSearch** with a deep understanding of Retrieval-Augmented Generation (RAG) systems and AI agents for conversational AI applications. Adept at problem-solving and fostering collaboration, demonstrated through impactful contributions at prestigious organizations such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop efficient backend services, enhancing document automation, user onboarding, and reporting workflows.\nImplemented event-driven architecture with **Celery** and **Redis** for managing asynchronous processing, successfully handling over **10,000** financial transaction requests per month.\nArchitected and deployed microservices on **Azure App Services**, applying **Terraform** for infrastructure as code in environments accommodating **100+** services, ensuring optimal cloud operations.\nDesigned and maintained data pipelines for regulatory compliance using **Apache Airflow** and **Azure Functions**, achieving on-time data exchange with a **99.9%** accuracy rate.\nExecuted security assessments and integrated **OAuth2** and **Azure AD B2C**, fortifying authentication systems for a user base exceeding **50,000**.\nCollaborated with cross-functional teams to resolve system integration issues, achieving compliance with industry standards and overseeing streamlined release strategies for **10+** projects."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems using **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes.\n• Created event-driven microservices with **Celery** and **Redis**, enabling asynchronous processing of financial data and handling up to **1000** transaction requests per second.\n• Managed deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation to maintain consistent and scalable environments, handling deployments for over **50** services.\n• Engineered data pipelines for the secure exchange of regulatory data using **Apache Airflow** and **Azure Functions**, automating data flow with a processing capacity of **200 GB/day**.\n• Performed security audits, ensuring compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for managing authentication and securing access controls across **10+ applications**.\n• Collaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management for **5+** critical software projects."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed scalable microservices architecture for backend services using **Python** and **FastAPI**, enhancing overall system efficiency and performance.\n• Designed event-driven architectures leveraging **KafKa** and **SSE** for seamless data transmission in real-time applications.\n• Engineered high-frequency trade execution and portfolio management systems with **Flask** and **PostgreSQL**, improving transaction accuracy and speed by **30%**.\n• Collaborated with cross-functional teams to integrate conversational AI capabilities, including **GPT**, **Claude**, and **Gemini**, ensuring responsive user interactions.\n• Implemented state-of-the-art vector databases using **FAISS** and **OpenSearch** for optimized data retrieval in AI applications, reducing query response times by **25%**.\n• Introduced real-time price feed processors using **WebSocket** and **asyncio**, delivering up-to-the-minute trading data, crucial for high-frequency trades.\n• Increased development efficiency through comprehensive test suites with **PyTest** and **tox**, shortening QA cycles by **20%** and improving code reliability.\n• Developed job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution, handling up to **10,000** tasks per minute."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython\n\n**Backend Frameworks**\n\tFastAPI, Flask\n\n**Frontend Frameworks**\n\tWebSocket\n\n**API Technologies**\n\tREST/gRPC APIs\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, vector databases, OpenSearch, FAISS\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\tKafka, microservices architecture, event-driven architecture\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Large Language Models, fine-tuning, prompt engineering, GPT, Claude, Gemini, RAG systems, AI agents, conversational AI, OpenAI Chat Completion, problem-solving, communication, collaboration"
+}

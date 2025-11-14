@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior DevOps Engineer with 13+ years of experience in delivering high-performance, cloud-native applications primarily using **AWS**, **Docker**, **Kubernetes**, **Terraform**, and configuration management tools such as **Ansible** and **Chef**. Proficient in automating deployments and managing microservices architecture to enhance scalability and stability. Skilled in monitoring and logging solutions with tools like **Prometheus**, **Grafana**, and **Elasticsearch** to ensure optimal performance and reliability. \n\nExperienced in developing and maintaining CI/CD pipelines that streamline integration and deployment processes. Expert in server orchestration and management and familiar with containerization workflows, utilizing **Fargate** for serverless applications. Strong foundation in scripting with **Python** and **Bash** for automation tasks. \n\nIn addition to DevOps capabilities, I bring extensive full-stack development experience with **JavaScript/TypeScript**, **Python**, and **Flutter**, coupled with expertise in **React**, **Node.js**, and **FastAPI**. Background in building AI/ML-driven platforms for predictive analytics, combined with rigorous compliance adherence to standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented robust DevOps practices using **AWS**, **Terraform**, **Ansible**, and **Chef**, ensuring continuous integration and delivery across multiple environments.\nDesigned and orchestrated containerized applications with **Docker** and **Kubernetes**, leveraging **Fargate** for scalable, serverless deployments.\nMaintained high-availability Redis and **Cassandra** databases with automated backups, enhancing data integrity and system reliability.\nIntegrated monitoring and logging solutions using **Prometheus**, **Grafana**, **Elasticsearch**, and **Kibana**, enabling real-time insights and alerts across platforms.\nAutomated infrastructure provisioning with **Terraform**, streamlining deployment processes and reducing setup time by **40%**.\nConfigured secure network environments adhering to best practices with **ssh**, **tcp**, **http**, **snmp**, and **smtp** protocols, enhancing system security posture.\nDeveloped scripts in **Ruby**, **Python**, and **Bash** to automate repetitive tasks, improving efficiency and reducing manual errors by **50%**.\nUtilized messaging queues such as **Kafka** and **Pulsar** for reliable data processing, enhancing system reliability under load.\nExecuted extensive testing strategies using **JSON** configuration files to ensure seamless integration of microservices.\nAchieved **99.9%** uptime over **12 months** through proactive monitoring and incident response protocols using tools like **Sensu** and **Logstash**.\nCollaborated with cross-functional teams to define and enforce coding standards and best practices, fostering a culture of quality and rapid iteration in deployments.\nAchieved AWS Certification, demonstrating expertise in cloud infrastructure management and deployment scenarios."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented infrastructure as code using **Terraform** to provision and manage cloud resources on **AWS**, enhancing deployment efficiency by **30%** and ensuring consistent environments.\nAutomated configuration management using **Chef** and **Ansible**, reducing system configuration time by **40%** and minimizing human error.\nContainerized applications with **Docker** and orchestrated them using **Kubernetes**, improving system scalability and allowing for zero-downtime deployments.\nDeployed applications on **AWS Fargate**, achieving cost savings of approximately **20%** due to effective utilization of serverless compute.\nDesigned and maintained distributed database systems using **Cassandra** and **Redis**, ensuring high availability and fast data access for mission-critical applications.\nImplemented monitoring solutions using **Prometheus**, **Grafana**, and **Elasticsearch**, enhancing system observability and reducing incident response time by **25%**.\nIntegrated logging with **Logstash**, **Kibana**, and **Graphite**, maintaining detailed records of application performance and security incidents.\nManaged messaging queues with **Kafka** and **Pulsar**, ensuring reliable data flow and event-driven communication across services.\nScripting experience in **Python** and **Bash** for automating routine tasks and improving operational workflows.\nUtilized networking protocols such as **tcp**, **http**, and **snmp** to monitor and manage systems effectively, contributing to a more secure and responsive environment."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** and **Docker** to orchestrate containerized applications, achieving a deployment efficiency improvement of **30%** through automated CI/CD pipelines.\nImplemented infrastructure as code using **Terraform** to automate deployments, managing environment configurations across **5** different AWS regions successfully.\nMaintained and optimized applications using **Kubernetes** and **Fargate**, improving scalability and reducing downtime by **20%**, ensuring high availability of services.\nDeveloped configuration management scripts using **Chef** and **Ansible**, which reduced server provisioning time by **40%**, maintaining consistency across environments.\nMonitored system performance and reliability utilizing **Prometheus**, **Grafana**, and **Elasticsearch**, reducing average incident response times by **25%**.\nEnhanced data storage using **Cassandra** and **Redis**, facilitating real-time data access and significantly improving application performance under heavy load by **35%**.\nManaged system health and logs with **Logstash**, **Kibana**, and **Sensu**, allowing for proactive issue identification and resolution, thus reducing application downtime.\nAutomated infrastructure scaling using **Kafka** and event-driven architecture principles, enabling a **99.9%** uptime rate for critical services.\nDeveloped and deployed microservices with **Python** and **Bash**, streamlining backend processes and enhancing overall system efficiencies.\nSecured applications using **RBAC** and **OAuth 2.0**, ensuring user data protection and compliance across the platform, achieving **100%** compliance with GDPR regulations."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Ruby, Bash\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tHTTP, OIDC, RBAC, OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, S3\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Cassandra, Elasticsearch\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Chef\n\n**Cloud & Infrastructure:**\n\tAWS, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tUnix, ssh, tcp, snmp, smtp, MLflow, Airflow, Kubeflow, Prometheus, Sensu, Logstash, Kibana, Graphite, Grafana, Kafka, Pulsar, JSON, AWS Certification",
+  "apply_company": "TigerConnect"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-oriented Software Engineer with over 10 years of experience in backend development, specializing in **C++**, **Linux OS architecture**, and **Linux kernel development**. Expertise in **Docker** and **Kubernetes** for container orchestration and deployment. Proficient in **Python** for developing high-performing APIs and automation tools. Strong background in **Cloud Security** and **Linux low-level development** with a focus on impactful projects in high-stakes environments. Known for collaborative teamwork and delivering scalable services while implementing advanced **event tracing strategies**. Recognized for contributions to top-tier organizations such as VISA and Sii Poland.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Go** to engineer robust backend services, emphasizing efficient development practices within **Linux OS architecture** for streamlined system performance.\nImplemented **C++** for low-level development tasks, ensuring high-performance system capabilities aligned with cloud security standards.\nDeveloped event-driven solutions using **Celery** and **Redis** for effective asynchronous processing, contributing to enhanced operational efficiency.\nLeveraged **Docker** and **Kubernetes** for deploying containerized microservices on cloud platforms, achieving a **30%** reduction in deployment times.\nManaged infrastructure using **Terraform** for reliable infrastructure as code, facilitating consistent and repeatable cloud operations.\nCreated and maintained data pipelines with **Apache Airflow** and monitored them using service metrics, achieving over **99%** uptime for regulatory data exchanges.\nLed security assessments and integrated **OAuth2** and **Azure AD B2C**, enhancing the security posture of authentication systems by **40%**.\nCollaborated effectively with cross-functional teams to navigate system integration challenges and manage release strategies, ensuring high-quality deliverables within project timelines."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **FastAPI** for backend systems development to enhance document workflows, simplify user onboarding, and manage complex reporting processes efficiently.\nImplemented event-driven microservices utilizing **Celery** and **Redis** for asynchronous processing of financial data, improving transaction processing time by **30%**.\nOversaw the deployment of microservices on **Azure App Services**, using **Terraform** for infrastructure automation, ensuring environments are consistently scaled across **10+** applications.\nEngineered robust data pipelines for secure regulatory data exchanges utilizing **Apache Airflow** and **Azure Functions**, increasing data flow automation efficiency by **25%**.\nConducted comprehensive security audits to ensure compliance with industry standards, successfully integrating **OAuth2** and **Azure AD B2C** for authentication, enhancing security controls by **40%**.\nEngaged in collaborative teamwork with cross-functional teams to facilitate seamless system integration, ensure regulatory compliance, and manage successful release processes."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **Flask** to develop robust backend services for trade execution, portfolio management, and account tracking, enhancing trading operations effectively.\nEngineered real-time price feed processors incorporating **asyncio**, **WebSockets**, and **Redis**, delivering crucial trading data with **99.9%** uptime for high-frequency transactions.\nCollaborated with frontend teams to deliver data seamlessly through REST APIs and WebSocket channels, ensuring optimal user interaction and engagement with the platform.\nMaintained regulatory compliance with standards such as MiFID II and GDPR while strictly adhering to internal data security protocols to protect sensitive information.\nImplemented comprehensive test suites utilizing **PyTest**, **tox**, and mock servers, streamlining QA and CI processes which improved development cycle efficiency by **30%**.\nIntroduced job queuing and scheduling solutions using **Celery** and **RabbitMQ**, optimizing backend task execution and enhancing process management for better performance.\nDemonstrated collaborative teamwork by engaging in cross-functional meetings to ensure alignment on software engineering practices and project progress."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tC++, Rust, Go, Python, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\tCloud Security, Linux OS architecture, System engineering\n\n**Other**\n\tLinux low-level development, Linux kernel development, Linux networking subsystem, eBPF, Event tracing strategies, Collaborative teamwork, AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, PyTest, Git"
+}

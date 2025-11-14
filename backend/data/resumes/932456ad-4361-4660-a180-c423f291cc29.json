@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Automation Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "As a seasoned Automation Engineer with over 8 years of software engineering experience, I excel in automating processes using **PowerShell**, **Bash**, and **Ansible**. I am proficient in managing **Microsoft Active Directory**, **Microsoft 365**, and **Windows Server**, ensuring robust automation and system management solutions. My expertise in **Terraform** and **DSC** enables the provisioning and configuration of cloud resources effectively, particularly within **Azure** environments. Additionally, I leverage **Git** for version control to maintain high-quality code. My strong background in Python development (FastAPI, Django, Flask) supports my ability to build reliable automation scripts that integrate seamlessly with existing infrastructures. I am committed to optimizing workflows and enhancing system performance in dynamic environments.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Automation Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "- Developed and maintained automation scripts using **Python** and **PowerShell** to streamline infrastructure management and provisioning in Azure environments.\n- Implemented Infrastructure as Code (IaC) practices using **Terraform** and **Ansible**, reducing deployment times by **30%** across multiple projects.\n- Configured and managed Windows Server and **Microsoft Active Directory** services for secure user authentication and resource access management.\n- Executed automated workflows in **Microsoft 365** and integrated with various service management tools, enhancing operational efficiency by over **40%**.\n- Utilized **Git** for version control, ensuring efficient collaboration and rollback capabilities within the development team.\n- Managed incident and service requests via **ServiceNow** and **FreshService**, effectively reducing resolution times by **25%** through automation.\n- Created custom scripts in **Bash** to control Linux-based infrastructure, enabling seamless integration with **Azure** services for hybrid cloud solutions.\n- Developed and implemented monitoring solutions that leverage **Azure Monitor** to maintain performance and reliability of automated solutions.\n- Led automation initiatives across cross-functional teams, driving best practices in configuration management and CI/CD workflows.\n- Conducted training sessions for 15+ team members on automation tools and techniques, promoting the adoption of DevOps principles across the organization."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **PowerShell**, **Bash**, and **Python** to automate deployment processes and enhance operational efficiency in cloud environments, reducing manual interventions by **40%**.\nImplemented infrastructure as code using **Terraform** and **Ansible** for streamlined configuration management across **Windows Server** and **Azure** environments, ensuring consistent system setups and optimized resource utilization.\nDeveloped scripts for **Microsoft Active Directory** management and automation, improving user provisioning and access controls, while decreasing onboarding time by **30%**.\nLeveraged **ServiceNow** and **FreshService** for incident management, creating automated workflows that improved ticket resolution times by **25%**.\nConfigured and maintained systems using **DSC (Desired State Configuration)** for continuous management and monitoring of server environments, enhancing compliance and security posture.\nIntegrated version control using **Git** for automation scripts, ensuring smooth collaboration and deployment processes across teams.\nParticipated in the development of a monitoring and alerting solution using **PowerShell** to track system performance and automate incident alerts, leading to **99%** uptime.\nDeveloped custom scripts to streamline backup processes and recovery using **Azure** services, thus reducing backup durations by **50%**.\nManaged project deployments in a CI/CD pipeline setup on **Azure DevOps**, enhancing deployment frequency and delivery speed significantly.\nConducted infrastructure assessments and optimization projects, leading to improved efficiency and cost savings of up to **20%** in cloud resource usage."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Utilized **PowerShell** and **Bash** scripting to automate repetitive tasks, reducing manual overhead by **70%** and enhancing operational efficiency in server management and deployment processes.\nImplemented Infrastructure as Code (IaC) strategies using **Terraform** and **Ansible** to provision and configure cloud resources on **Azure**, achieving consistent environments and reducing deployment times by **50%**.\nManaged user identities and permissions using **Microsoft Active Directory** and **Microsoft 365**, ensuring compliance and security across the organization with a focus on streamlined access control.\nStreamlined incident management and service requests by integrating **FreshService** and **ServiceNow**, improving response times and user satisfaction levels by **30%**.\nDeveloped CI/CD pipelines and version control practices using **Git** to enhance collaboration and delivery cycles, resulting in a more agile development environment.\nAdministered and maintained **Windows Server** environments, optimizing system performance and uptime through proactive monitoring and management.\nIntegrated automation solutions into existing workflows, leading to a **25%** reduction in operational costs while maintaining high service levels.\nConducted regular audits and performance testing using monitoring tools to ensure systems remain efficient, identifying and resolving bottlenecks proactively.\nImplemented desired state configuration (DSC) for environment consistency, ensuring that deployment configurations meet compliance and security standards."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, PowerShell, Bash\n\n **Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot\n\n **Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n **API Technologies:**\n\tREST & gRPC APIs\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQLAlchemy\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Ansible, Terraform, DSC\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), Windows Server, Microsoft Active Directory, Microsoft 365\n\n **Other:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, FreshService, ServiceNow, Git"
+}

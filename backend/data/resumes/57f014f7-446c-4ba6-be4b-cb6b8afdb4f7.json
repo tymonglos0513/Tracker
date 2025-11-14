@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Software Engineer (Data Platform)",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "As a results-driven Software Engineer specializing in Data Platforms, I bring 8+ years of experience in creating scalable distributed systems and high-performance applications. Expert in **Go**, I leverage technologies such as **gRPC**, **Kubernetes**, and **AWS** to design and implement robust cloud-native solutions. Proficient with **SQL databases** including **MySQL**, **PostgreSQL**, and **ClickHouse**, I optimize data storage and retrieval for enhanced performance. My skillset includes knowledge of **caching systems** like **Redis**, and I manage **messaging systems** such as **RabbitMQ**, **Kafka**, **NATS**, and **NSQ** to ensure data consistency and reliable real-time communication. I excel in building event-driven architectures and streaming pipelines that facilitate effective data flow. Additionally, I emphasize clean code practices, performance optimization, and strong observability through monitoring and debugging. My effective English communication skills contribute to collaborative team environments, ensuring alignment on project goals while delivering enterprise-grade solutions.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer (Data Platform)",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "- Developed and maintained **distributed systems** using **Go** to ensure robust and scalable architectures across the data platform.\n- Implemented optimized data storage solutions using **SQL databases** like **PostgreSQL** and **MySQL**, achieving query performance improvements of over **30%** through indexing and caching strategies.\n- Designed and maintained **caching systems** leveraging **Redis** to reduce data retrieval times and enhance system responsiveness.\n- Integrated **messaging systems** such as **Kafka** and **RabbitMQ** to facilitate asynchronous communication between microservices, improving data flow and processing efficiency.\n- Deployed applications in a **Kubernetes** environment to achieve high availability and scalability, handling traffic spikes of up to **100k** requests per minute.\n- Developed real-time data processing pipelines using **event-driven architectures** and **streaming pipelines**, ensuring efficient data ingestion and transformation.\n- Implemented **gRPC** APIs for fast inter-service communication, with a focus on maintaining low latency and high throughput.\n- Established observability practices with tools like **Prometheus** and **Grafana**, enabling proactive monitoring and debugging of system performance.\n- Innovated solutions for performance optimization and concurrency, ensuring data consistency across distributed services and systems.\n- Championed clean code principles by refactoring legacy codebases, improving maintainability and reducing bug rates by **25%**.\n- Enhanced team collaboration and knowledge-sharing through effective **English communication**, mentoring junior developers in best practices for software engineering and system design."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained distributed systems using **Go** to ensure high performance and scalability for data platforms.\n• Designed and implemented real-time messaging systems leveraging **Kafka** and **RabbitMQ** for efficient communication between microservices.\n• Collaborated with SQL databases such as **PostgreSQL** and **MySQL** for data persistence, optimizing queries to enhance performance by **30%**.\n• Implemented caching systems utilizing **Redis** to improve response times and reduce database load by **50%**.\n• Engineered event-driven architectures incorporating **gRPC** and streaming pipelines to process data in real-time, reducing latency by **15%**.\n• Utilized **Kubernetes** for deploying and managing containerized applications, achieving high availability and streamlined deployments.\n• Pioneered observability practices within distributed systems to facilitate monitoring and debugging, enhancing system reliability and performance.\n• Applied performance optimization techniques and clean code principles while implementing features, boosting system efficiency.\n• Participated in the development of concurrency and synchronization mechanisms, ensuring robust data consistency across microservices.\n• Engaged in effective English communication with cross-functional teams to align project goals and deliverables, fostering a collaborative environment."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Developed and optimized **distributed systems** utilizing **Go**, enhancing system performance and reliability across multiple functionalities with **Kafka** and **RabbitMQ** for event-driven architectures.\nManaged and utilized **SQL databases** like **PostgreSQL** and **MySQL** for effective data storage, ensuring **data consistency** and optimized query performance.\nImplemented and maintained **caching systems** using **Redis** to improve application performance and reduce database loads by over **30%**.\nDesigned and developed **real-time messaging systems** leveraging **gRPC** and **Kinesis** to facilitate efficient data flow and processing for high-volume transactions.\nEmployed **observability** tools to monitor system performance, ensuring proactive **debugging** and maintaining high availability in **Kubernetes** environments.\nConducted rigorous performance optimization efforts that resulted in **25%** faster transaction processing during peak loads.\nLeveraged **streaming pipelines** to manage real-time data ingestion and processing, significantly improving responsiveness across user interactions.\nCollaborated effectively with cross-functional teams using strong **English communication** skills to articulate technical challenges and solutions.\nPreserved clean code standards, ensuring maintainability in complex systems and adherence to best practices in **performance optimization**.\nParticipated in high-level architectural discussions to refine solutions based on distributed computing principles, resulting in the successful deployment of scalable systems that handled **10K**+ concurrent users without degradation in performance.\nManaged the deployment process using **AWS**, achieving seamless integration with existing services and infrastructure upgrades."
+    }
+  ],
+  "skills": "Programming Languages:\n\tGo\n\n**Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot\n\n**Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n**API Technologies:**\n\tREST & gRPC APIs\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL databases, ClickHouse\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, caching systems, messaging systems, NSQ, NATS, Kafka, RabbitMQ, real-time messaging systems, Kinesis, event-driven architectures, streaming pipelines, observability, monitoring, debugging, clean code, performance optimization, concurrency, synchronization, data consistency, English communication"
+}

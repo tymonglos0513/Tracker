@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Data Engineer with 8 years of expertise, I excel in leveraging **Python**, **SQL**, and **Spark** to build data-driven solutions. Proficient in using **Databricks**, **Azure Data Factory**, and cloud services such as **AWS** and **Azure**, I effectively manage data lakes and integrate various data sources including **S3**, **RDS**, and **Azure Cosmos DB**. My role includes automating workflows with **Databricks Workflows** and **Airflow**, ensuring seamless CI/CD processes with tools like **Git** and **GitHub**.\nI have a strong background in developing scalable ETL pipelines, managing iterative data models, and maintaining data quality using **dbt**, along with visualization strategies in **Power BI** and **Looker**. Additionally, I've implemented comprehensive monitoring and testing solutions using **Great Expectations** and **Soda** to uphold data integrity.\nI am committed to aligning initiatives with business objectives while adhering to industry compliance standards. My passion for enhancing operational efficiency and my ability to collaborate across technical teams enrich my capability to drive impactful data solutions.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained scalable data pipelines using **Python** and **SQL** to ensure efficient data processing and storage across multiple platforms.\n- Designed and implemented ETL processes leveraging **Azure Data Factory** and **Spark**, optimizing data workflows for analytics and insights within healthcare and financial services.\n- Managed cloud-based data storage solutions utilizing **AWS S3**, **RDS**, and **Azure Cosmos DB**, ensuring high data availability and redundancy, with a focus on **Databricks** for data analytics.\n- Created workflows in **Databricks Workflows** for automated data processing, enabling real-time insights and reporting on critical metrics with up to **99.9%** uptime.\n- Integrated third-party tools such as **Firebase** for error tracking and analytics, and utilized **Power BI** and **Looker** for visualizing complex datasets and KPIs.\n- Established CI/CD pipelines using **GitHub** and **Airflow** to streamline development and deployment processes, resulting in a **30%** reduction in deployment time across projects.\n- Collaborated with cross-functional teams to enhance data quality and governance by implementing **Great Expectations** and **Soda**, ensuring compliance with industry standards and best practices.\n- Facilitated data-driven decision-making by implementing data visualization tools using **Power BI Embedded**, improving stakeholder engagement with interactive dashboards.\n- Leveraged streaming technologies such as **Kinesis** and **Kafka** for real-time data processing, achieving latency reductions of up to **50%** in data delivery times.\n- Documented data models and workflows using **dbt docs** and **DataHub**, ensuring team alignment and enhancing the onboarding process for new data engineers."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, ensuring efficient batch and real-time ingestion of financial data from both internal and third-party sources.\nUtilized **SQL** for data manipulation and management across datasets, optimizing queries to support data integrity and performance for analytics tasks.\nImplemented data processing strategies leveraging **Spark** and **Databricks** for handling large-scale financial datasets, improving data accessibility and workflow efficiency by **30%**.\nEngineered a robust data architecture using **Azure Cosmos DB** and **AWS RDS** to store and retrieve transactional data, enhancing query performance by **25%**.\nIntegrated data quality and monitoring tools like **Great Expectations** and **Soda**, ensuring data reliability and adherence to governance standards.\nCollaborated with cross-functional teams to automate reporting and analytics using **Power BI** and **Looker**, providing actionable insights that improved decision-making processes within finance teams.\nImplemented CI/CD practices using **GitHub** to streamline deployment processes and ensure high-quality code delivery into production environments.\nDesigned real-time data streaming solutions with **Kafka** and **Kinesis** to capture and process transactional events, significantly reducing latency in reporting to under **5 seconds**.\nCreated comprehensive documentation with **dbt docs** to support data accessibility and foster transparency across analytics and engineering teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **SQL** for designing and optimizing data pipelines and backend services essential for high-performance transactions and analytics in e-commerce solutions, ensuring minimal latency and maximum scalability.\nImplemented ETL processes using **Spark** and **Databricks**, processing over **1 million** records daily to support real-time analytics and reporting.\nLeveraged **Azure Data Factory** for orchestrating data workflows, enabling seamless data integration from numerous sources, including **AWS S3**, **Azure Cosmos DB**, and **RDS**.\nSpearheaded the development of data visualizations and dashboards using **Power BI** and **Looker**, designed to provide actionable insights and improve business decision-making processes, resulting in a **30%** increase in data-driven decisions.\nEmployed **Kafka** and **Kinesis** for real-time data streaming, ensuring timely updates and event processing across the platform, effectively lowering response times by **25%**.\nIntegrated third-party tools like **HubSpot** and **Firebase** to enrich user engagement data and improve marketing efforts, increasing customer acquisition by **15%**.\nManaged data quality initiatives using **dbt**, **Great Expectations**, and **Soda**, ensuring that all datasets met business validation requirements and improving data accuracy metrics by **40%**.\nImplemented CI/CD practices with **GitHub** and **Databricks Workflows**, streamlining deployment processes and enhancing team collaboration through automated testing and source control.\nCreated extensive documentation using **dbt docs** and maintained data governance standards, ensuring compliance with regulations such as GDPR and maintaining a secure data environment.\nDesigned feature flags and monitored deployments utilizing **Airflow** and **Git**, promoting continuous integration and rapid iteration without service interruptions."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, SQL, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tREST, GraphQL\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda, ECS), Azure Functions\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Azure Cosmos DB\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (RDS, S3), Azure (App Services, Blob, SQL), Azure Data Factory\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Spark, Databricks, Snowplow, FMP1, FMP2, HubSpot, MoneyBird, GA, Firebase, KNMI, Git, dbt docs, DataHub, Great Expectations, Soda, Power BI, Looker, Kinesis, Kafka",
+  "apply_company": "Publitas.com"
+}

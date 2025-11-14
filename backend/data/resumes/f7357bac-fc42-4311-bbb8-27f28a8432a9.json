@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Full Stack Developer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "As a proficient Full Stack Developer with 8+ years in software engineering, I excel in creating robust, high-performance applications utilizing **React**, **TypeScript**, **Node.js**, and **PostgreSQL**. My experience includes leveraging **AWS** for scalable cloud solutions and integrating **AI** functionalities to enhance application capabilities. I am adept at developing secure and efficient microservices architecture and REST/gRPC APIs, ensuring seamless user experiences and delivering projects that meet stringent industry standards. My technical expertise is complemented by a strong background in various frameworks such as **FastAPI**, **Django**, and **Flask**, allowing me to build comprehensive solutions tailored to diverse business needs.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Developer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "• Developed and maintained user-facing features using **React** and **TypeScript**, ensuring a seamless user experience by implementing responsive design principles and efficient state management.\n• Designed RESTful APIs in **Node.js** to facilitate communication between frontend and backend systems, optimizing performance and ensuring data integrity.\n• Optimized database interactions using **PostgreSQL** to enhance application responsiveness, implementing indexing and optimized queries that improved performance by **30%**.\n• Worked with cloud services **AWS** to deploy applications, utilizing services like **Lambda** and **RDS** to improve availability and scalability by up to **50%**.\n• Integrated AI services in applications, enhancing user personalization and engagement through intelligent recommendations based on user behavior.\n• Collaborated with cross-functional teams to define, design, and ship new features, leading to the successful release of **3 major iterations** within a **6-month** timeframe.\n• Conducted code reviews and mentored junior developers, improving team efficiency and knowledge sharing, resulting in a **20%** increase in code quality metrics.\n• Implemented CI/CD pipelines using tools like **GitHub Actions** and **CircleCI** to streamline the deployment process, ensuring reduced release cycles by **40%**.\n• Championed the use of automated testing frameworks, enhancing application reliability by achieving over **90%** test coverage.\n• Contributed to architecture discussions, influencing the tech stack choices enabling maintainable and scalable solutions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "Developed dynamic, user-centric frontends using **React** and **TypeScript**, ensuring responsive and efficient user interfaces that integrate seamlessly with backend services.\nDesigned and implemented RESTful APIs with **Node.js** for secure communication between the frontend applications and various microservices, supporting real-time data processing.\nLed the integration of **PostgreSQL** databases for data storage solutions, optimizing query performance and ensuring high availability of critical application data.\nUtilized **AWS** services for hosting and deploying applications, enhancing scalability and reducing infrastructure costs while maintaining high performance.\nCollaborated with AI models to integrate intelligent features in applications, improving user experience and providing smart functionalities.\nManaged CI/CD pipelines using tools like Azure DevOps and GitHub Actions to automate the deployment process, enhancing product delivery speed.\nWorked with **Python** backend services to ensure robust data protection practices, implementing industry-standard security measures such as OAuth 2.0 and JWT for secure API access.\nParticipated in the transition of legacy systems to cloud-based solutions, improving maintainability and operational efficiency.\nEnsured comprehensive unit testing and integration testing aligned with best practices, validating application reliability and quality prior to production release.\nOptimized application performance through effective use of **PostgreSQL** and application-level caching strategies, resulting in a **30%** reduction in load times."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Utilized **React** and **TypeScript** to build responsive, interactive frontends integrated with Python APIs, ensuring cross-device accessibility and a seamless user experience.\nDeveloped and optimized backend services with **AWS**, leveraging **PostgreSQL** for database management and ensuring high performance in high-volume transactions.\nImplemented AI solutions in application features, enhancing user interactions and personalizing experiences.\nDesigned dynamic and modern web applications using **Node.js** as a runtime environment, ensuring optimal performance and scalability.\nAutomated deployment and development workflows using CI/CD pipelines (GitHub Actions, Azure DevOps), contributing to a 30% reduction in deployment times.\nEstablished observability in applications using tools like Prometheus and Grafana for performance monitoring and error detection.\nConducted performance testing with tools such as Apache JMeter, identifying bottlenecks and optimizing applications to handle **up to 10,000** concurrent users.\nImplemented caching strategies with Redis, leading to a **25%** improvement in response times for frequently accessed resources.\nDesigned and integrated secure payment systems with providers like Stripe and PayPal, ensuring PCI compliance for over **100,000** transactions per month.\nCollaborated on projects involving event-driven architectures with **RabbitMQ** and **Kafka**, improving the efficiency of order and inventory management.\nExecuted load and stress testing with k6, simulating real-world scenarios to ensure system stability under peak traffic conditions."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Django, Flask, Node.js, Spring Boot\n\n **Frontend Frameworks:**\n\tReact, Angular (1–16), Next.js, Vue.js (2/3), Blazor\n\n **API Technologies:**\n\tREST & gRPC APIs\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda)\n\n **Databases:**\n\tPostgreSQL, SQLAlchemy, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Other:**\n\tPydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, AI"
+}

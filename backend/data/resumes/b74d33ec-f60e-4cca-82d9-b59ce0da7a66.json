@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Python Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Python Engineer with 8 years of experience, I possess a deep proficiency in **Python**, having developed robust applications leveraging frameworks such as **FastAPI**. My technical toolkit includes hands-on experience with **Docker** and **Kubernetes** for container orchestration, paired with establishing and maintaining **REST APIs** for seamless integration and communication within distributed systems. I am skilled in using **PostgreSQL** for data management, and I utilize **RabbitMQ** and **Redis** for effective message brokering and caching.\n\nMy cloud expertise spans **AWS**, **Azure**, and **Google Cloud**, where I've designed scalable solutions that adhere to compliance standards while optimizing performance. I also leverage monitoring tools like **Prometheus**, **Grafana**, and **ELK** stack to ensure system reliability and performance. In previous roles, I have contributed to projects involving **Asyncio** for asynchronous programming and have experience with **OpenStack** to provide infrastructure as a service.\n\nCombining my technical skills with strong leadership qualities, I led multiple projects in the healthcare and financial sectors, implementing AI/ML capabilities for enhanced decision-making and automation. My commitment to CI/CD practices streamlines development workflows, ensuring timely and efficient delivery of high-quality software.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed scalable applications using **Python** (including **FastAPI**), ensuring high performance and responsiveness across platforms.\n• Implemented containerization strategies with **Docker** and orchestrated services using **Kubernetes** for enhanced deployment and management of microservices.\n• Built robust, asynchronous REST APIs leveraging **Asyncio** for non-blocking requests, aligning with best practices.\n• Designed and maintained cloud-based data architectures utilizing **PostgreSQL**, **RabbitMQ**, and **Redis** for effective data management.\n• Collaborated in deploying solutions on cloud platforms such as **AWS**, **Azure**, and **Google Cloud**, enhancing the system's scalability and reliability.\n• Utilized **OpenStack** for cloud infrastructure management, leading to a 30% increase in resource utilization efficiency.\n• Integrated **ELK** stack for logging and monitoring, ensuring improved system observability and error tracking.\n• Engaged in continuous integration and delivery by implementing CI/CD practices using tools like **GitHub Actions** and **Azure DevOps**.\n• Wrote and executed unit and integration tests, ensuring code quality with frameworks like **pytest**.\n• Increased application performance by 40% through optimized backend processes and database queries.\n• Automating infrastructure with monitoring tools such as **Prometheus** and **Grafana** to provide insights into application metrics and performance.\n• Enhanced system reliability and fault tolerance while migrating legacy systems to microservices, showcasing a 25% reduction in downtime."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** with **FastAPI** to lead the development and modernization of financial platforms, implementing a microservices-based architecture to enhance scalability for high-volume transaction systems.\nLeveraged **Docker** and **Kubernetes** for containerization and orchestration, ensuring seamless deployment and scaling of services in cloud environments, significantly reducing downtime by **30%**.\nDesigned and developed REST APIs using **Asyncio** for real-time processing, improving response times for end-users by **40%** in financial applications.\nIntegrated **RabbitMQ** and **Redis** to facilitate reliable message passing and caching strategies, boosting system performance and reliability for transactional workloads.\nOrchestrated ETL pipelines with **Apache Airflow** and **Azure Data Factory**, optimizing data ingestion from internal and third-party sources for analytics, processing over **5 million** transactions daily.\nImplemented cloud solutions across **AWS**, **Azure**, and **Google Cloud** to ensure environment scalability and data security, achieving compliance with financial regulations.\nDeveloped real-time analytics dashboards using frameworks like **Grafana** and **Prometheus**, enabling teams to visualize transaction data and monitor system health with alerts, leading to **25%** faster issue resolution.\nCreated dynamic financial applications with a front-end focus using **React** and **TypeScript**, enhancing user experience for client portals and reducing bounce rates by **15%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** with frameworks like **FastAPI** and **Django** to design and optimize backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability in key modules such as checkout, cart, and order fulfillment.\nImplemented **REST APIs** and asynchronous programming with **Asyncio** to enhance service performance, delivering a 95% improved response time across critical user interactions.\nEngineered real-time features using **RabbitMQ** and event-driven architecture, enabling seamless order updates and dynamic inventory tracking, leading to a 30% reduction in order processing time.\nOrchestrated containerization and orchestration using **Docker** and **Kubernetes**, ensuring efficient deployment and scaling of applications across cloud environments, achieving zero downtime during updates.\nLeveraged **PostgreSQL** and **Redis** for high-performance distributed data storage, ensuring fault-tolerant access and achieving a 40% improvement in data retrieval speeds during peak traffic.\nDevised and maintained a robust logging and monitoring system with **Prometheus**, **Grafana**, and **ELK Stack**, providing real-time insights and reducing incident response time by 50%.\nOptimized cloud infrastructure on **AWS**, **Azure**, and **Google Cloud**, implementing best practices to reduce operational costs by 20% while maintaining performance.\nImplemented secure payment processing workflows using transaction management services in compliance with PCI standards, ensuring user data protection in all operations through robust security measures such as **OAuth 2.0**.\nCollaborated in a cross-functional team to achieve GDPR compliance, successfully implementing **role-based access control (RBAC)** to safeguard sensitive data.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython \n\n**Backend Frameworks:**\n\tFastAPI\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tREST API\n\n**Serverless and Cloud Functions:**\n\tAWS, Azure, Google Cloud\n\n**Databases:**\n\tPostgreSQL, MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tOpenStack, ELK, Loki, Prometheus, Grafana\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, RabbitMQ",
+  "apply_company": "Gcore"
+}

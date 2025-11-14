@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Cloud Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Cloud Engineer with 8 years of experience, I possess a robust skill set in **AWS**, **Azure**, and **GCP**, alongside deep expertise in **Snowflake**, **SQL**, and **Data Governance**. My background in networking fundamentals, including TCP/IP, HTTP, and firewalls, ensures I design secure and efficient cloud infrastructure. \nI have hands-on experience in Identity and Access Management (IAM) strategies including RBAC, SAML, OAuth, and MFA to uphold stringent security standards. Additionally, I have implemented security best practices using tools like **AWS KMS**, **Azure Key Vault**, and **GCP KMS**, alongside compliance protocols such as PCI DSS and SOC 2.\nMy proficiency also extends to full-stack development, utilizing **JavaScript**, **TypeScript**, **Python**, **Node.js**, **React**, **Next.js**, and **Django**. I have successfully led the development of enterprise applications with integrated AI/ML capabilities for predictive analytics and automation. I excel in creating robust, scalable solutions aligned with modern microservices architecture while championing CI/CD automation practices. My familiarity with machine learning pipelines and MLOps using tools such as MLflow and Airflow enhances my ability to deliver data-driven solutions in high-stakes environments.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Cloud Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented data governance and management strategies for cloud-based platforms utilizing **AWS**, **Azure**, and **GCP**, ensuring compliance with industry standards and maintaining data integrity.\nDesigned and maintained data warehouse solutions with **Snowflake**, integrating SQL for efficient data retrieval and ensuring robust data governance protocols across various departments.\nConfigured IAM policies and RBAC systems to secure data access, leveraging services like **AWS IAM**, **Azure AD**, **Okta**, and **OneLogin** for multi-factor authentication and single sign-on capabilities in cloud environments.\nOptimized networking configurations, including **TCP/IP**, **HTTP**, **HTTPS**, and managed load balancers, proxies, and firewalls to enhance application performance and security.\nDeveloped automated workflows for continuous integration and deployment in cloud environments, utilizing technologies such as **GitHub Actions**, **CircleCI**, and **Azure DevOps** to optimize code delivery processes.\nConducted threat assessments and security audits, implementing best practices in security protocols such as **SSL/TLS**, **PKI**, **SAML**, and **OAuth** to protect sensitive data from unauthorized access.\nCollaborated with cross-functional teams to design solutions on cloud platforms, ensuring end-to-end data pipeline efficiency from ingestion to analytics, utilizing **Python** and **NodeJS** for backend operations.\nBuilt and managed complex cloud architecture for resilient and scalable applications, ensuring high availability through load balancing and proactive monitoring of critical services.\nConducted training sessions on security best practices and cloud technologies, enhancing team knowledge and operational efficiency across various platforms (Windows, Mac, and *Nix).\nLeveraged advanced data processing tools and frameworks, employing techniques that focus on improving the responsiveness and scalability of applications for end-users."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented robust **data governance** and **data warehousing** solutions utilizing **Snowflake** and **AWS** to ensure the integrity and accessibility of financial data.\nArchitected secure cloud environments leveraging **Azure** and **GCP** to enhance infrastructure resilience and operational efficiency for critical financial applications.\nDeveloped and maintained databases using **SQL**, optimizing queries and ensuring performance standards were met, resulting in a **30%** reduction in data retrieval time.\nIntegrated numerous **IAM** solutions, including **Azure AD** and **Okta**, to enforce **RBAC** and provide secure access control mechanisms across the platform.\nDesigned and deployed a multi-layered security architecture, incorporating protocols such as **SAML**, **OAuth**, and **MFA** to protect sensitive data and comply with industry regulations.\nManaged networking infrastructure utilizing **TCP/IP**, **HTTP**, and **HTTPS**, ensuring high availability and secure connections for financial systems, achieving an uptime of **99.9%**.\nOptimized load balancing and failover systems through the implementation of **firewalls** and **proxies**, significantly enhancing the performance of the transaction processing systems.\nCollaborated in ensuring compliance and security standards like **CISM**, **CISSP**, and **Security+** were consistently integrated into the application lifecycle.\nDeveloped microservices in **Python** and **Node.js**, incorporating frameworks like **NestJS** and **Django**, resulting in improved system modularity and a **25%** decrease in deployment times."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented cloud solutions leveraging **AWS**, **Azure**, and **GCP** to enhance data processing and storage capabilities for large-scale applications, optimizing data workflows and ensuring compliance with **Data Governance** best practices.\nDeveloped and maintained data warehouses using **Snowflake** and SQL to ensure efficient data retrieval and reporting, enhancing decision-making with real-time analytics.\nDesigned and enforced **IAM** policies and **RBAC** protocols for secure access control of cloud resources, leading to a 30% increase in security compliance across all platforms.\nConfigured and managed networking components, including **Load Balancers**, **Firewalls**, and **Proxies**, using **TCP/IP**, **HTTP**, and **HTTPS** protocols to ensure resilient and secure connectivity between on-premises and cloud services.\nUtilized **MFA**, **SAML**, and **OAuth 2.0** for enhanced user authentication processes, improving user access security by 40% and meeting GDPR compliance standards.\nMonitored and optimized performance using tools built into **Windows**, **Mac**, and **Linux** environments, achieving a **99.9% uptime** across hosted services.\nEstablished encryption standards using **AWS KMS**, **Azure Key Vault**, and **GCP KMS** to protect sensitive data, enhancing data security posture and mitigating potential breaches.\nConducted regular security audits supported by **CISM**, **CISSP**, and **Security+** certifications, ensuring adherence to industry-standard security protocols and reducing vulnerabilities significantly.\nCollaborated with cross-functional teams to align infrastructure projects with business objectives, resulting in quicker deployment cycles and a **25% reduction** in overall project timelines."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript/TypeScript, Java, R, .Net, NodeJS\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, SAML, MFA\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, Snowflake\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL), GCP, Azure Key Vault, GCP KMS, AWS KMS\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Data Warehouse, Data Governance, Networking, TCP/IP, HTTP, HTTPS, DNS, Load Balancers, Proxies, Firewalls, Windows, Mac, *Nix, Security+ CISM, CISSP, CSSP, CCSK, CCNA, ODBC, JDBC",
+  "apply_company": "Snowflake"
+}

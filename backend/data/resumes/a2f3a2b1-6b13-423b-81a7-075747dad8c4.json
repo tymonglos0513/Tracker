@@ -1,0 +1,47 @@
+{
+  "name": "Andrzej Ito",
+  "role_name": "Senior SDET Engineer",
+  "email": "andrzej.ito@outlook.com",
+  "phone": "+48 732 126 371",
+  "address": "Rzeszów, Poland",
+  "linkedin": "https://www.linkedin.com/in/andrzej-ito-2872a4391/",
+  "profile_summary": "As a Senior SDET Engineer with over 9 years of experience, I specialize in developing automated testing frameworks using **Python**, **Pytest**, and **CI/CD** methodologies, ensuring robust software delivery. I am adept at leveraging **AWS** for cloud solutions and integrating tools like **GitLab CI**, **Jenkins**, and **ArgoCD** for streamlined deployment pipelines. My expertise extends to data processing with **Pandas** and **NumPy**, as well as message queuing and streaming technologies including **Kafka** and **RabbitMQ**. I have a proven ability to implement monitoring and logging systems using **ELK**, **Prometheus**, and **Grafana**, while ensuring system reliability with tools like **Sentry** and **Qase**. Alongside my technical skills, I am committed to mentoring junior engineers and promoting a collaborative team environment that emphasizes innovation and user-centric software solutions.",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "category": "Computer Science",
+      "from_year": "2010",
+      "to_year": "2014",
+      "location": "Osaka, Japan",
+      "university": "Osaka University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SDET Engineer",
+      "company": "Allegro.pl",
+      "from_date": "08/2022",
+      "to_date": "",
+      "location": "Poznan, Poland",
+      "responsibilities": "• Implement automated testing strategies using **Python** and **Pytest** to ensure code quality and reliability.\n• Develop, maintain, and execute automated test scripts within **AWS** and leverage **CI/CD** pipelines for efficient delivery using **GitLab CI**.\n• Design and execute performance and load tests utilizing **Pandas** and **NumPy** for data handling and analysis, achieving a **99% test accuracy rate**.\n• Collaborate with development teams to integrate testing into the **CI/CD** workflow, utilizing tools like **Jenkins** and **ArgoCD**.\n• Utilize messaging systems like **Kafka** and **RabbitMQ** for effective communication and data transfer between microservices in the test environment.\n• Monitor and log application performance using **ELK**, **Prometheus**, and **Grafana**, providing insights and ensuring system reliability.\n• Automate deployment of test environments using **k8s**, enhancing the scalability and efficiency of testing processes.\n• Manage test case documentation and reporting with tools like **Sentry** and **Qase**, streamlining project management and tracking testing progress.\n• Ensure the implementation of best practices in development and testing, actively contributing to team knowledge in **SQL** for database validation."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Paypay Corporation",
+      "from_date": "05/2017",
+      "to_date": "07/2022",
+      "location": "Tokyo, Japan",
+      "responsibilities": "• Developed and executed automated tests using **Python** and **Pytest** to ensure software quality and improve testing efficiency.\n• Integrated Continuous Integration and Continuous Deployment (CI/CD) pipelines using **GitLab CI** to streamline the development process.\n• Leveraged **AWS** services for scalable application deployment and testing with a focus on resilience and maintainability.\n• Utilized **Pandas** and **NumPy** for data analysis and manipulation, enhancing testing data preparation.\n• Interfaced with **SQL** databases for test data validation and retrieval, ensuring data integrity in automated tests.\n• Implemented messaging systems using **Kafka** and **RabbitMQ** for seamless communication between services during testing phases.\n• Monitored application performance and logs with **ELK** stack and alerted issues through **Prometheus** and **Grafana** dashboards.\n• Managed releases and deployment with **Jenkins** and **ArgoCD**, ensuring consistent build and deployment environments.\n• Conducted load and performance testing using **k8s** for orchestration and scaling of automated test environments.\n• Integrated error tracking and logging with **Sentry** and managed test cases in **Qase** for effective test management."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Fujitsu Ltd",
+      "from_date": "06/2014",
+      "to_date": "04/2017",
+      "location": "Tokyo, Japan",
+      "responsibilities": "• Leveraged **GitLab CI** to implement **CI/CD** pipelines ensuring a robust development workflow and consistent deployment strategies.\n• Developed automated tests in **Python** using **Pytest**, significantly improving the code coverage metrics by **30%**.\n• Utilized database technologies including **SQL** to validate data integrity and support testing initiatives.\n• Monitored system performance and logging with tools like **Grafana** and **Prometheus**, achieving response time improvement of **25%**.\n• Integrated messaging systems such as **Kafka** and **RabbitMQ** for reliable data pipeline management and event-driven architecture during testing phases.\n• Conducted data manipulation and analysis using **Pandas** and **NumPy** to assess test results effectively.\n• Worked with **AWS** cloud services to deploy testing environments, leveraging the scalability to handle up to **1000** concurrent test sessions.\n• Collaborated with cross-functional teams using **Git** for version control to streamline code reviews and enhance team productivity.\n• Implemented observability solutions like **Sentry** for proactive error detection, reducing issue resolution time by **40%**.\n• Engaged in enhancing test frameworks to support **k8s** deployments, ensuring high availability during continuous integration processes."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tJava, C++, C#, Python, SQL, PLSQL, Kotlin, Pandas, NumPy\n\n**Backend Frameworks**\n\tSpring, Spring Boot, Hibernate, Struts, JPA\n\n**Frontend Frameworks**\n\tReact, Vue, Angular\n\n**API Technologies**\n\tSOAP, REST APIs, Microservices, RabbitMQ, Kafka\n\n**Serverless and Cloud Functions**\n\tAWS, k8s\n\n**Databases**\n\tMS SQL Server, Oracle, MongoDB, PostgreSQL, Redis\n\n**DevOps**\n\tCI/CD, GitLab CI, Jenkins, ArgoCD, ELK, Prometheus, Grafana, Sentry\n\n**Cloud & Infrastructure**\n\tAWS, k8s\n\n**Other**\n\tSOLID, DRY, LINQ, Qase",
+  "apply_company": "FXC Intelligence"
+}

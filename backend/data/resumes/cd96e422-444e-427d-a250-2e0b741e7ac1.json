@@ -1,0 +1,47 @@
+{
+  "name": "DANIEL HE",
+  "role_name": "Senior Python Engineer",
+  "email": "daniel.he8@outlook.com ",
+  "phone": "+48 730 743 032",
+  "address": "Rzeszów, Poland",
+  "linkedin": "https://www.linkedin.com/in/daniel-he-a5a536397/",
+  "profile_summary": "Results-driven Senior Python Engineer with extensive expertise in **Python**, **Django**, and **Django REST Framework**, leveraging advanced tools such as **Kafka**, **Celery**, and **gRPC**. Adept at building scalable, reliable applications utilizing **PostgreSQL**, **Redis**, and **SQL** for efficient data handling and reporting. Skilled in deploying solutions using **AWS**, **Kubernetes**, and CI/CD practices to enhance operational efficiency. Proven track record in creating and maintaining **RESTful APIs** and utilizing monitoring tools like **Datadog**, **Prometheus**, and **Sentry** to drive system reliability. With a strong foundation in frontend technologies like **HTML5**, I am committed to delivering user-centric applications that meet stakeholders' needs. Recognized for executing strategic solutions in diverse sectors including healthcare, eCommerce, and finance, achieving substantial performance improvements through automation, clean architecture, and a dedication to best coding practices.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2016",
+      "location": "Beijing, China ",
+      "university": "Tsinghua University "
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "Britenet",
+      "from_date": "Feb 2023 ",
+      "to_date": "Present",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Designed and implemented robust microservices using **Python** and **Django**, achieving a **95%** increase in patient tracking accuracy with a Clinical Patient Management System (CPMS).\nDeveloped scalable RESTful APIs utilizing **Django REST Framework**, improving data accuracy by **40%** and ensuring secure EHR integration using **OAuth2**.\nEnhanced UI components with **HTML5** and **React**, which led to a **30%** reduction in user completion time for clinical pathways.\nBuilt a reliable notification system leveraging **RabbitMQ**, achieving **99%** timely delivery of alerts.\nEstablished efficient CI/CD pipelines with **GitHub Actions** and **AWS**, resulting in an **80%** reduction in deployment times.\nImplemented containerization of microservices using **Docker**, optimizing the deployment process across staging and production environments.\nManaged cloud services on **AWS EKS** (Kubernetes) utilizing **Terraform**, maintaining a **99.9%** uptime and enhancing load handling capabilities through **Redis** caching."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Alibaba Group",
+      "from_date": "Oct 2020 ",
+      "to_date": "Dec 2022",
+      "location": "Hangzhou, China",
+      "responsibilities": "• Developed backend services using **Python** with **Django** and **Django REST Framework**, enhancing application performance by 30%.\n• Implemented a message queue system with **RabbitMQ** for improved task handling, reducing processing time by 20%.\n• Integrated **Kafka** for real-time data streaming, achieving a notification rate of 98% for critical system alerts.\n• Designed and optimized data pipelines using **StarRocks** and **ClickHouse**, increasing data query performance by 40%.\n• Automated CI/CD processes with **Jenkins** and **Docker**, ensuring consistent and rapid deployments with a reduction in downtime of 15%.\n• Monitored system performance using **Datadog** and **Prometheus**, improving issue response time by 35%.\n• Deployed applications on **AWS** and orchestrated containers using **Kubernetes**, cutting infrastructure setup time by 50%.\n• Managed databases including **PostgreSQL** and **Redis**, ensuring data integrity and improving access speeds by 25%."
+    },
+    {
+      "role": "Software Engineer ",
+      "company": "Huawei Technologies Co., Ltd",
+      "from_date": "May 2016 ",
+      "to_date": "Sep 2020",
+      "location": "Shenzhen, China ",
+      "responsibilities": "Developed and maintained **RESTful APIs** using **Python** with **Django** and **Django REST Framework**, achieving 99% uptime across services.\nImplemented background task processing with **Celery** and **RabbitMQ**, boosting task throughput by **50%**.\nUtilized **Kafka** for real-time data streaming and integration, handling over **10,000** messages per minute.\nConducted performance monitoring with **Datadog** and **Prometheus**, identifying and reducing system latency by **20%**.\nDesigned and managed databases with **PostgreSQL** and **Redis**, optimizing query performance by **35%**.\nStreamlined the CI/CD pipeline using **AWS** and **Kubernetes**, reducing deployment times by **60%**.\nEnsured system scalability and reliability through **gRPC** for efficient service communication, contributing to a **99.9%** service reliability rate."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tJava, JavaScript (React, Vue.js, Angular, Pixi.js, Vanilla JS, Node.js, TypeScript), Go, Python, SQL, Swift, Kotlin\n\n **Backend Frameworks**\n\tSpring Boot, Spring Security, Hibernate, Node.js, Express.js, JPA, Django, Django REST Framework, Celery\n\n **Frontend Frameworks**\n\tReact, Vue.js, Angular, Pixi.js, Redux, Next.js, React Router, Material-UI, Ant Design, D3.js, Webpack, Babel, Jest, HTML5\n\n **API Technologies**\n\tRESTful API design, gRPC, API Gateway\n\n **Serverless and Cloud Functions**\n\tAWS Lambda\n\n **Databases**\n\tMySQL, PostgreSQL, Redis, MongoDB, StarRocks, ClickHouse, Redshift\n\n **DevOps**\n\tDocker, Kubernetes (AWS EKS), Jenkins, GitHub Actions, Terraform, AWS CodePipeline, Datadog, Prometheus, Sentry\n\n **Cloud & Infrastructure**\n\tAWS (EKS, RDS, CloudFront, S3), CloudWatch, ELK Stack, Git\n\n **Other**\n\tMicroservices, CI/CD, Infrastructure as Code (IaC), Data structures and algorithms, Agile/Scrum methodologies, HTTP",
+  "apply_company": "SplitMetrics"
+}

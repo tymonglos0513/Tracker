@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior FullStack Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Full Stack Engineer with 13+ years of experience in backend development and API integration, specializing in **Python** and cloud infrastructure. Proficient in deploying scalable applications using **Kubernetes** and implementing robust storage solutions. Strong understanding of data structures and test design alongside solid security fundamentals. Skilled in **AI** and deploying AI/ML-powered platforms. Demonstrated expertise in **cloud services** such as **AWS** and **Azure**, with a track record of developing high-performance applications across healthcare and financial sectors. Excels in both frontend and backend development with hands-on experience in **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Proven ability to build compliant solutions aligning with HIPAA, FHIR, PCI DSS, and SOC 2 standards, with a robust background in MLOps techniques using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior FullStack Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed robust **backend** solutions using **Python (FastAPI)** to create scalable **APIs** that support healthcare and fintech applications, ensuring compliance with security standards like HIPAA, GDPR, and PCI DSS.\n- Leveraged **Kubernetes (AKS/EKS)** for container orchestration, achieving **99.9% uptime** and improving deployment efficiency.\n- Designed secure **cloud infrastructure** utilizing **AWS** and **Azure**, facilitating a seamless transition to microservices architecture with **Docker**.\n- Enhanced **data structures** by implementing **PostgreSQL** and **MongoDB** for optimized data storage and retrieval, supporting systems for **real-time analytics** and high-volume data processing.\n- Conducted rigorous **test design** practices, utilizing **Jest**, **Cypress**, and **PyTest** to ensure high-quality code with a **95% code coverage** across all applications.\n- Implemented security fundamentals by integrating **Stripe** for payment processing, ensuring secure transactions within the applications.\n- Developed and maintained CI/CD pipelines using **GitHub Actions** and **CircleCI**, reducing deployment time by **30%** through automated testing and integration tasks.\n- Collaborated with AI teams to deploy machine learning models using **scikit-learn** and **TensorFlow**, enabling advanced analytical capabilities such as **risk scoring and fraud detection**.\n- Created intuitive user interfaces with **React (17–18)** and **Next.js**, integrating predictive algorithms to enhance the user experience with personalized dashboards and alerts.\n- Enhanced data visualization with **D3.js** and **Power BI Embedded**, providing stakeholders with clear insights into **financial activities** and operational KPIs.\n- Integrated efficient data querying solutions with **Elasticsearch**, accommodating flexible search requirements in structured and unstructured datasets.\n- Facilitated team training and mentoring on best practices for AI implementation and cloud technologies, promoting a culture of continuous improvement and innovation."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained scalable **backend** solutions utilizing **Python** frameworks (FastAPI, Django) to streamline API integration and enhance performance for **cloud infrastructure** in financial applications.\nDesigned and implemented secure **APIs** following best practices, ensuring robust data transactions and compliance with security fundamentals in high-volume transactional environments.\nUtilized **Kubernetes** for effective deployment and management of microservices, improving system resilience and performance under load by **30%**.\nArchitected and built data storage solutions with **Azure Blob Storage** and **SQL** databases, optimizing data retrieval times by **40%** and supporting efficient data structures for financial records.\nExecuted test design methodologies to maintain code quality and system integrity, achieving a **95%** test coverage across all new features and components.\nIntegrated **Stripe** for seamless payment processing, enhancing transaction capabilities and user experiences within the financial platform, while improving revenue collection efficiency by **20%**.\nLeveraged AI technologies and machine learning frameworks such as **scikit-learn** and **XGBoost** for developing algorithms that monitor and process transaction anomalies, increasing fraud detection rates by **15%**.\nConducted regular security assessments and optimized security protocols, ensuring the protection of sensitive financial data in adherence to industry standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized backend services leveraging **Python** (FastAPI, Django) for APIs, ensuring high availability and scalability for a global e-commerce platform handling over **1 million** transactions monthly.\n• Engineered cloud infrastructure solutions utilizing **Kafka** and **RabbitMQ** for event-driven architectures, enabling real-time updates and order tracking for **99.9%** uptime.\n• Designed and implemented secure payment processing integrations with **Stripe**, ensuring PCI compliance and tokenized transactions for secure handling of sensitive data across **5+** payment gateways.\n• Integrated Cloud Infrastructure solutions for scalable and flexible deployment strategies using **Kubernetes**, facilitating continuous integration and deployment with **blue-green deployments** for **10 major releases**.\n• Leveraged storage solutions like **MongoDB**, **PostgreSQL**, and **Redis** to enhance database performance, reducing query response times by over **30%**, critical for high-traffic environments.\n• Applied security fundamentals including role-based access control (RBAC) and **OAuth 2.0** to protect user data and ensure GDPR compliance for an expanding user base of over **500,000** customers.\n• Collaborated on Test Design to ensure robust API functionality and reliability, achieving a coverage rate of **85%** across all new features.\n• Utilized **AI** techniques incorporating **TensorFlow** and **LightGBM** to develop recommendation systems, increasing conversion rates by **20%** through personalized user experiences.\n• Developed user-friendly frontend applications with **React** (18), **Vue 3**, and **Angular**, creating interfaces compliant with WCAG 2.1 and optimized for mobile-first engagement.\n• Contributed to team knowledge by implementing and documenting best practices in backend development and cloud strategy for continuous learning and improvement across projects."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tAPIs, Stripe\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tCloud Infrastructure\n\tStorage Solutions\n\n **Other:**\n\tAI\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot\n\tData Structures\n\tTest Design\n\tSecurity Fundamentals",
+  "apply_company": "ElevenLabs"
+}

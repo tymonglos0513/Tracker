@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with 8+ years in software engineering and specialized expertise in **Terraform**, **Ansible**, **Kubernetes**, **Docker**, **GitLab**, **Jenkins**, and **Linux**. Proficient in **CI/CD** practices and capable of building robust systems for incident management, enhanced performance monitoring with **Prometheus** and **Grafana**, and database management using **MariaDB** and **MySQL**. Leveraging a strong foundation in Python and a rich tech stack that includes **FastAPI**, **Django**, and **Flask**, I create efficient solutions that align with operational needs. Known for effective remote communication and dedication to maintaining secure, scalable environments that optimize workflows and enhance team productivity.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "- Spearheaded the implementation of **CI/CD** pipelines for **Python** microservices utilizing **GitLab** and **Jenkins**, ensuring streamlined deployment and automated testing processes across **10+** environments.\n- Championed the use of **Terraform** and **Helm** for infrastructure provisioning and management, significantly reducing deployment times by **30%** and minimizing configuration drift.\n- Established **monitoring** and **observability** practices using **Prometheus** and **Grafana**, leading to enhanced incident management and performance tracking of cloud-native applications.\n- Orchestrated containerized deployments with **Kubernetes**, utilizing **Docker** to improve application scalability and resilience.\n- Enhanced troubleshooting strategies across the infrastructure, integrating **remote communication** protocols that improved incident response time by **25%**.\n- Automated provisioning for **MariaDB** and **MySQL** instances, implementing **Galera clustering** for high availability and data consistency across distributed environments.\n- Developed shell scripts to automate routine tasks, ensuring efficient and reliable system operations in a **Linux** environment.\n- Led cross-functional training sessions on **DevOps** and cloud-native technologies, mentoring team members on the effective use of **Ansible** and deployment strategies.\n- Conducted thorough security assessments, embedding security best practices into all pipelines and environments to ensure compliance with standards like SOC 2 and HIPAA.\n- Configured **S3** storage solutions for data management, optimizing cost efficiency and data retrieval speeds within cloud applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "- Led initiatives for **CI/CD** implementation using **Jenkins** and **GitLab**, enhancing deployment efficiency by **30%** through automation.\n- Managed and optimized container orchestration with **Kubernetes**, ensuring high availability and scalability for applications with a **99.9%** uptime.\n- Developed Infrastructure as Code (IaC) solutions using **Terraform** for cloud resources, resulting in a **25%** reduction in deployment time.\n- Collaborated in remote teams, using **Ansible** for configuration management to deploy applications consistently across environments.\n- Implemented monitoring solutions with **Prometheus** and **Grafana**, providing real-time insights into system performance and reducing incident resolution time by **40%**.\n- Utilized **Docker** for containerizing applications, facilitating microservices architecture and improving resource utilization by **20%**.\n- Configured and managed **MariaDB** and **MySQL** databases, optimizing queries to enhance transaction performance by **15%**.\n- Applied best practices in incident management, ensuring swift recovery from outages and minimized downtime.\n- Maintained and monitored server performance on **Linux**, ensuring system reliability and security across various environments.\n- Developed effective deployment strategies using **Helm** for Kubernetes applications, allowing for simplified releases and rollback procedures.\n- Conducted Git version control management to streamline collaborative development efforts, ensuring code integrity and accountability.\n- Created incident management protocols to enhance team responsiveness during outages, improving overall service reliability.\n- Integrated remote communication tools to facilitate collaboration across distributed teams, leading to better project outcomes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Implemented CI/CD pipelines using **Jenkins**, **GitLab**, and **Docker** to ensure consistent and reliable delivery of features, achieving a **30%** reduction in deployment time across the team.\nUtilized **Terraform** to provision cloud infrastructure and automate environment setups, resulting in a scalable and cost-efficient deployment architecture.\nConfigured and managed **Kubernetes** clusters to orchestrate microservices deployments and improve resource utilization, achieving a **95%** uptime on production services.\nDeveloped and maintained infrastructure as code utilizing **Ansible** and **Chef**, ensuring consistent environments and easy recovery across different instances.\nMonitored application performance and health using **Prometheus** and **Grafana**, providing actionable insights that improved system reliability and incident response time by **40%**.\nEmployed **MariaDB**, **MySQL**, and **Galera clustering** for high-availability database management, enhancing data accessibility and redundancy for critical applications.\nAutomated routine maintenance tasks using **Shell** scripting to reduce manual intervention and improve operational efficiency by **25%**.\nFacilitated remote communication and incident management processes, ensuring swift resolution of issues and seamless cross-team collaboration.\nContainerized applications using **Docker**, improving deployment consistency and enabling microservices architecture for better scalability.\nEngaged in load and stress testing to validate performance in simulated environments, ensuring systems can handle peak loads effectively.\nImplemented effective monitoring strategies and incident management practices using **S3** for backup solutions, delivering crucial business continuity measures.\nDeveloped secure, scalable python applications while integrating with existing infrastructure, ensuring smooth operations and alignment with the latest engineering best practices."
+    }
+  ],
+  "skills": " **Programming Languages:**  \n\tPython, Shell  \n\n **Backend Frameworks:**  \n\tFastAPI, Django, Flask, Spring Boot  \n\n **Frontend Frameworks:**  \n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor  \n\n **API Technologies:**  \n\tREST & gRPC APIs  \n\n **Serverless and Cloud Functions:**  \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)  \n\n **Databases:**  \n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, MariaDB  \n\n **DevOps:**  \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, CI/CD, Prometheus, Grafana, Chef, incident management  \n\n **Cloud & Infrastructure:**  \n\tAWS, Azure, Linux  \n\n **Other:**  \n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Galera clustering, remote communication"
+}

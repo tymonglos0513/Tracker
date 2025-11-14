@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of comprehensive experience in developing high-performance applications, specializing in **TypeScript**, **Node.js**, **Python**, **AWS**, **Kubernetes**, and **PostgreSQL**. Proficient in creating REST APIs and implementing microservices utilizing **Express**, and skilled in CI/CD practices with **GitHub Actions** and **Jenkins**. Mastery of frontend frameworks like **React.js** alongside a solid understanding of backend technologies.\n\nExpert in deploying cloud-native applications and managing infrastructure with **Terraform**. Adept at building scalable, compliant solutions aligned with industry standards including HIPAA and PCI DSS. Proven experience in AI/ML platform development, leveraging tools like **Redis** for caching and data management. Recognized for strong collaboration skills and delivering projects on time and within budget.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed scalable and secure applications utilizing **TypeScript**, **Node.js**, and **Python** frameworks, ensuring efficiency and performance across 15+ microservices.\n• Implemented RESTful APIs using **Express** and integrated third-party services, ensuring high availability and low latency for APIs serving over **100,000** users monthly.\n• Managed cloud infrastructure on **AWS** utilizing services like **AWS Lambda**, ensuring cost-effective solutions with a **30%** reduction in operational costs.\n• Orchestrated containerized deployments using **Kubernetes** and **Docker**, achieving automated rollouts and rollbacks across multiple environments, improving deployment time by **40%**.\n• Designed and optimized databases with **PostgreSQL** and **Redis**, supporting complex queries and scalable data solutions for high-throughput applications.\n• Built and maintained CI/CD pipelines leveraging **GitHub Actions** and **Jenkins**, enabling rapid deployment cycles and reducing integration times by **50%**.\n• Collaborated in designing front-end applications using **React.js**, providing an intuitive interface that increased user engagement metrics by **25%**.\n• Enforced robust testing strategies across the stack with **Jest**, **Cypress**, and **PyTest**, establishing a testing coverage threshold of **85%** for production code.\n• Engaged in architectural enhancements to incorporate best practices for security and compliance across the development lifecycle.\n• Provided mentorship and guidance to junior developers on utilizing modern frameworks and tools, leading to improved team productivity and collaboration."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **TypeScript** to develop and maintain scalable applications, ensuring high-quality code and efficient performance in line with the company’s technical standards.\nImplemented backend services leveraging **Node.js** (Express) and **Python** (Django/FastAPI) to build robust APIs, enhancing system integration and data retrieval processes.\nDesigned and optimized relational database solutions using **PostgreSQL**, ensuring data integrity and high availability for applications supporting over **10,000** concurrent users.\nAutomated CI/CD pipelines with **GitHub Actions** and **Jenkins**, streamlining the deployment process and reducing release times by **30%**.\nDeployed containerized applications using **Kubernetes**, enhancing system reliability and scalability as traffic surged by **50%** during peak periods.\nDeveloped user interfaces with **React** (v18) and **Redux Toolkit** to create dynamic, user-friendly applications, meeting the needs of over **5,000** users across various devices.\nExecuted infrastructure as code (IaC) with **Terraform** for efficient environment provisioning and management, achieving consistent deployment across multiple environments.\nIncorporated asynchronous message queuing using **Redis** and **RabbitMQ** for real-time processing, ensuring quick and reliable communication between microservices.\nLed the creation of RESTful APIs to facilitate seamless integration between front-end and back-end systems, enhancing the overall customer experience for financial services.\nWorked extensively with third-party tools such as **AWS** and **Nginx** to enhance application performance, security, and monitoring, resulting in improved operational efficiency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **TypeScript** and **Node.js** (with **Express**) to design and optimize backend services for a global e-commerce platform, ensuring high availability and low latency across key modules like checkout, cart, and order fulfillment.\nDeveloped and deployed applications in **Python** (using **Django** and **FastAPI**) and **JavaScript** (with **React.js**) to enhance user experience and system performance for both web and mobile platforms.\nEngineered real-time features using **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ**, facilitating responsive order updates and dynamic inventory tracking with a user satisfaction rate increase of **25%**.\nLeveraged **PostgreSQL** and **Redis** for distributed data storage, achieving a **30%** improvement in data access times for high-traffic e-commerce workflows, while caching frequently accessed resources for better performance.\nIntegrated AI/ML-based recommendation engines using **TensorFlow** and **scikit-learn**, contributing to a **15%** improvement in conversion rates through personalized product listings based on real-time behavior.\nImplemented **Redis** caching for product metadata and search results, significantly enhancing application responsiveness and reducing read pressure on databases by **40%**.\nDeveloped CI/CD pipelines using **GitHub Actions** and **Jenkins** to streamline deployments, resulting in a **50%** reduction in deployment times through automated testing and rollbacks.\nCreated responsive, SEO-friendly e-commerce UIs with **React.js**, optimized for mobile-first engagement and accessibility compliance (WCAG 2.1), leading to increased engagement by **20%**.\nBuilt secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, adhering to PCI compliance and enhancing security for financial transactions through robust tokenized systems.\nApplied role-based access control (RBAC) and **OAuth 2.0** for enhanced security, ensuring GDPR compliance and user data protection throughout the platform."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, TypeScript, Java, Kotlin, Swift, JavaScript\n\nBackend Frameworks:\n\tFastAPI, Flask, Django, Node.js, Express\n\nFrontend Frameworks:\n\tReact, Vue, Angular, React.js\n\nAPI Technologies:\n\tREST API\n\nServerless and Cloud Functions:\n\tAWS: ECS, Lambda, RDS, S3\n\nDatabases:\n\tPostgreSQL, MySQL, MongoDB, Redis\n\nDevOps:\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins\n\nCloud & Infrastructure:\n\tAzure: App Services, Blob Storage, SQL Database\n\tTerraform, Ansible, Helm, Docker Compose\n\nOther:\n\tKeycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "Glia"
+}

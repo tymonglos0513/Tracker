@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Go Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a dedicated **Go Engineer** with 8 years of experience, I excel in developing distributed systems and utilizing **AWS**, **Azure**, and **Google Cloud** to deliver scalable solutions. My technical proficiency includes managing infrastructure with **Terraform**, **Kubernetes**, and automating CI/CD processes, notably through **GitOps** practices. I have a solid command of **Infrastructure as Code** principles, coupled with hands-on experience in **IAM**, **Secret Management**, and **Threat Modeling** for secure application deployment.\nAdditionally, I bring a comprehensive understanding of observability and telemetry, ensuring robust monitoring through practices that align with software development best practices and design patterns. My background also extends to working within **Linux** environments, applying strong problem-solving and debugging skills to enhance system performance.\nI have a proven track record of collaboration and communication, complemented by a commitment to open-source contributions and attention to detail, allowing me to effectively lead projects and work within diverse teams.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Go Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and implemented **Infrastructure as Code** (IaC) solutions using **Terraform** on **AWS** and **Azure**, ensuring consistent and repeatable deployments across multiple environments.\nDeveloped and maintained CI/CD pipelines utilizing **GitOps** principles with **Kubernetes** for automated deployment and scaling, significantly reducing release times by **30%**.\nArchitected secure distributed systems adhering to modern **Secure Code Reviews** and established **Threat Modeling** practices, enhancing security postures and compliance with best practices.\nCollaborated with cross-functional teams to implement **Observability** and **Telemetry** solutions, leveraging tools such as **Prometheus** and **Grafana**, to provide insights into application performance and uptime across **Linux** environments.\nIntegrated **IAM** (Identity and Access Management) solutions for secure resource access and management on **AWS** and **Google Cloud**, ensuring compliance with industry standards.\nUtilized **Docker** and **Kubernetes** for orchestration of containerized applications, achieving scalability and high availability.\nImplemented effective **Debugging** strategies and **Problem-solving** methodologies to improve application performance, leading to a **25%** decrease in downtime.\nFostered open-source contribution initiatives, promoting collaborative development and knowledge sharing among teams.\nMaintained a strong focus on **Software Development Best Practices** and **Design Patterns**, resulting in improved code quality and maintainability.\nUtilized proficient communication and collaboration skills to work effectively in team environments, facilitating project advancements and timely deliverables."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS** and **Azure** cloud services to design secure, scalable microservices-based architectures that enhance system performance and compliance for financial platforms.\nImplemented **Kubernetes** for container orchestration, enabling improved deployment efficiency and operational scalability, managing over **100** services across multiple environments.\nDeveloped robust CI/CD pipelines using **Terraform** and **GitOps** practices, reducing deployment times by **30%** and ensuring reliable, repeatable infrastructure provisioning and management.\nLeveraged **Infrastructure as Code** principles to maintain consistent environments across **30+** services, enhancing observability and reducing unreliability in production.\nEnsured adherence to **Software Development Best Practices** through rigorous **Code Reviews**, fostering a culture of quality and secure coding across the development teams.\nCollaborated across teams to implement **Distributed Systems** architecture, enhancing transaction throughput by **40%** and improving overall system resilience.\nApplied **Design Patterns** and problem-solving strategies to effectively debug and optimize complex systems, leading to a **20%** reduction in error rates during transaction processing.\nEngaged in continuous learning and **Open-source Contribution**, utilizing **Go** for backend services, and adhering to **Telemetry** integration guidelines for real-time monitoring.\nFostered strong **Collaboration** and **Communication** within cross-functional teams, promoting a unified effort in delivering high-quality, user-centric financial applications.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and deployed highly available, scalable backend services using **Go**, ensuring optimal performance across distributed systems while adhering to software development best practices and design patterns.\nUtilized **AWS**, **Azure**, and **Google Cloud** to implement cloud-based infrastructure solutions, enhancing system reliability and performance through effective use of **Kubernetes**, **Terraform**, and Infrastructure as Code strategies.\nImplemented CI/CD pipelines using tools such as GitOps, ensuring rapid deployment cycles and integration of code while adhering to secure code reviews and threat modeling principles.\nEngineered observability solutions by integrating telemetry components for effective monitoring and debugging of applications within cloud environments, enhancing overall system performance and reliability.\nApplied role-based access control (RBAC) and IAM for secure customer and admin access, ensuring compliance with GDPR and user data protection across all deployed services.\nExecuted efficient project management practices, focusing on collaboration and communication with cross-functional teams to drive solutions for complex problems and enhance system responsiveness.\nContributed to open-source initiatives related to **Go**, following a commitment to continuous improvement and community engagement in software development practices.\nMaintained a strong attention to detail while debugging and resolving critical issues in production environments, ensuring minimal downtime and swift recovery of services.\nCollaborated on architecture designs for distributed systems, resulting in improved scalability and performance metrics, identifying bottlenecks and implementing solutions to enhance user experience."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Go, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services), Google Cloud\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL), Infrastructure as Code, GitOps, IAM\n\n **Other:**\n\tArtificial Intelligence, Machine Learning, MLflow, Airflow, Kubeflow, Problem-solving, Debugging, Software Development Best Practices, Design Patterns, Communication, Collaboration, Attention to Detail, Open-source Contribution, Threat Modeling, Secure Code Reviews, Observability, Telemetry, Secret Management"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Cloud Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Cloud Engineer with over 10 years of experience in leveraging **AWS**, **Terraform**, and **Kubernetes** to design and deliver robust cloud-native solutions. Proficient in implementing **CI/CD** pipelines and GitOps workflows to streamline application deployment and infrastructure management. Solid expertise in **cloud security** practices, ensuring secure and compliant systems. Skilled in programming with **Python** and **Groovy**, and adept at utilizing **Bash** for automation tasks. Demonstrated success in driving impactful initiatives in financial platforms and AI/ML pipelines at renowned organizations such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Cloud Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines using **Terraform** and **GitOps** to automate infrastructure provisioning and application deployments, enhancing deployment frequency by **30%**.\nArchitected and deployed containerized microservices on **Kubernetes** in **AWS** and **Azure** environments, achieving reduced latency by **25%**.\nDeveloped and maintained robust backend services in **Python** utilizing **FastAPI**, improving response times by **40%** in user onboarding and reporting workflows.\nDesigned and executed automated infrastructure management processes with **Bash** scripts, optimizing cloud resource utilization by **20%**.\nStreamlined asynchronous processing through **Celery** and **Redis**, effectively managing over **10,000** financial transaction requests daily.\nLed the implementation of cloud security protocols integrating **OAuth2** and **Azure AD B2C**, enhancing the security posture of user authentication systems.\nCollaborated with diverse teams to solve complex system integration issues, ensuring compliance with regulatory standards across all cloud services."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **AWS** and **Terraform** for infrastructure automation, establishing consistent and scalable environments for deployment.\nImplemented **CI/CD** pipelines to streamline the development and release processes, enhancing deployment efficiency by **30%**.\nDeveloped and maintained **Kubernetes** clusters for orchestration of containerized applications, improving resource utilization by **25%**.\nAutomated routine tasks with **Bash** scripts to increase operational efficiency, reducing manual effort by **40%**.\nCreated robust backend systems in **Python** aligned with modern frameworks, enhancing application performance for user onboarding processes.\nDesigned event-driven microservices with **Celery** and **Redis**, enabling asynchronous processing of high-volume transaction requests.\nEngineered secure data exchange pipelines using **Apache Airflow** and **Azure Functions**, ensuring compliance with regulatory standards for data flow.\nConducted security audits and integrated cloud security best practices, using **OAuth2** and **Azure AD B2C** for authentication and access control.\nCollaborated with cross-functional teams on system integration and release management, successfully reducing the integration period by **15%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **AWS** and **Terraform** to provision and manage cloud infrastructure, ensuring scalability and security of deployment processes.\nEmployed **GitOps** methodologies for version control and continuous deployment, improving collaboration and efficiency among teams by **40%**.\nImplemented **CI/CD** pipelines for automated build and deployment processes, reducing deployment time by **60%**.\nDesigned and maintained container orchestration using **Kubernetes**, allowing for seamless application scaling and resource management.\nDeveloped backend services for trade execution and portfolio management using **Python**, optimizing transaction processes for enhanced performance.\nEngineered real-time price feed processors with **asyncio**, **WebSockets**, and **Redis**, providing critical trading data for high-frequency transactions.\nCollaborated closely with frontend teams to deliver data through REST APIs and WebSocket channels, ensuring smooth user interactions, resulting in a **25%** increase in user satisfaction.\nEnsured compliance with regulatory standards such as MiFID II and GDPR while reinforcing internal data security protocols, safeguarding sensitive user information.\nImplemented comprehensive test suites with **PyTest**, **tox**, and mock servers, streamlining QA and CI processes, which improved code quality by **30%**.\nIntroduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and enhancing overall process efficiency."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, Bash, Groovy\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\tJavaScript\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda)\n\n**Cloud & Infrastructure**\n\tAzure, Docker, Kubernetes, Terraform, cloud security\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tGitHub Actions, Azure DevOps, GitOps, CI/CD\n\n**Other**\n\tPandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, PyTest, Git",
+  "apply_company": "H2O.ai"
+}

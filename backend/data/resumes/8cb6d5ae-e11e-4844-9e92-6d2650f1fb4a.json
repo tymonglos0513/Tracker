@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Python Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-oriented Senior Python Engineer with 8 years of experience specializing in **Python**, **Django**, and **AWS**. Proficient in designing and implementing efficient **API** solutions while leveraging **CI/CD** methodologies for streamlined deployment. Recognized for automation expertise in building observability tools and enhancing application performance. Skilled in full-stack development with a strong background in microservices architecture and event-driven systems. Expertly lead projects fostering compliance with standards such as HIPAA, FHIR, and PCI DSS. My diverse experience spans the healthcare and financial sectors, where I developed high-performance solutions utilizing a comprehensive tech stack that includes **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, **Azure**, and modern **machine learning** frameworks like **MLflow**, and **Kubeflow**. I am dedicated to delivering robust, secure applications that meet user needs through strategic problem-solving and innovative development practices.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and deployed robust APIs using **Python** and **Django** for scalable backend systems ensuring high performance and resilience.\n- Implemented CI/CD pipelines utilizing **AWS** services to automate testing, integration, and deployment cycles, achieving a **30% reduction** in release time.\n- Automated monitoring and observability solutions to enhance system reliability and performance, incorporating tools such as **AWS CloudWatch** and **Prometheus**, ensuring real-time alerts and metrics for over **10 services**.\n- Collaborated closely with cross-functional teams to design and optimize APIs to support over **5 million** requests per day, ensuring seamless integration with third-party tools and services.\n- Streamlined development processes by integrating **Directus** for API management, reducing manual work and improving data consistency across **3 different platforms**.\n- Leveraged **AWS Lambda** for automation tasks, resulting in a **40% cost reduction** on infrastructure while enhancing system efficiency.\n- Spearheaded the training and onboarding of new team members on observability strategies, promoting best practices across the team.\n- Ensured code quality through comprehensive unit and integration testing, utilizing frameworks like **pytest**, significantly improving the code coverage to **95%**.\n- Engaged in code reviews and architecture discussions to improve codebase durability and adaptability for future scalability and functionality."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Django** to develop and maintain robust APIs for financial platforms, ensuring high availability and performance for user transactions.\nImplemented **CI/CD** pipelines to streamline deployment processes, reduce downtime, and enhance automation of the development lifecycle, achieving a **30%** reduction in deployment time.\nBuilt tools for enhanced observability and monitoring using integrated logging frameworks, providing insights into application performance and operational readiness.\nAuthored comprehensive documentation for APIs and automation processes, increasing team efficiency and accelerating onboarding time for new developers by **50%**.\nCollaborated with cross-functional teams to gather requirements and integrate feedback, enhancing the end-user experience and driving adoption rates in multiple financial applications.\nEngaged in code reviews and mentoring junior developers to improve coding standards and practices, contributing to a **25%** decrease in production bugs.\nConducted thorough testing and debugging of applications to ensure functionality, scalability, and reliability, using **AWS** services for cloud deployment and resource management."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Django** frameworks to design and optimize backend services for a global e-commerce platform, achieving **99.9%** uptime and processing over **1 million** transactions daily.\nImplemented CI/CD pipelines using **AWS** services, automating deployment and testing processes to minimize downtime and enhance release efficiency by **30%**.\nDeveloped RESTful APIs for seamless integration with frontend applications and third-party services, improving functionalities with documented interfaces.\nEnhanced observability across services by incorporating monitoring tools, ensuring real-time error tracking and performance metrics to maintain optimal service health.\nAutomated repetitive tasks using scripting languages, streamlining operations and reducing manual efforts by over **50%**.\nCreated customizable content management workflows using **Directus**, allowing non-technical users to manage site data easily.\nOptimized application performance and response times leveraging in-memory databases, caching strategies, and efficient data retrieval methods.\nFostered collaboration with cross-functional teams to define project requirements and deliver high-quality software solutions on time.\nDesigned and implemented system architecture that facilitated scalability and flexibility, documentation of processes, and use of agile methodologies to keep projects on track."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tDjango\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\tAPI\n\n **Serverless and Cloud Functions:**\n\tAWS\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Directus, Automation, Observability",
+  "apply_company": "Paychex"
+}

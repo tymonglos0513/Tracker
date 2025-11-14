@@ -1,0 +1,46 @@
+{
+  "name": "DANIEL HE",
+  "role_name": "Senior Backend Engineer",
+  "email": "daniel.he8@outlook.com ",
+  "phone": "+48 730 743 032",
+  "address": "Rzeszów, Poland",
+  "linkedin": "https://www.linkedin.com/in/daniel-he-a5a536397/",
+  "profile_summary": "Results-driven Senior Backend Engineer leveraging expertise in **Java**, **Node.js**, and **PostgreSQL** to design and implement scalable backend systems. Proficient in **Kubernetes**, **Docker**, and **AWS** for efficient deployment and orchestration, ensuring reliability and performance across distributed systems. Skilled in developing **RESTful APIs** and applying **Clean Architecture** principles for robust application design. Experienced in **TDD** methodologies and implementing **CI/CD** practices to enhance software quality and delivery speed. Background includes driving impactful solutions in sectors such as healthcare, eCommerce, and finance, backed by strong collaboration and communication skills.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2016",
+      "location": "Beijing, China ",
+      "university": "Tsinghua University "
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Britenet",
+      "from_date": "Feb 2023 ",
+      "to_date": "Present",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Utilized **Java** and **Spring Boot** to design and implement a microservices-based Clinical Patient Management System (CPMS), achieving **95%** accuracy in patient tracking and enhancing adherence rates through automated reminders.\nDeveloped **RESTful APIs** with Spring Data JPA, leading to a **40%** improvement in data accuracy and ensuring secure EHR integration via **Spring Security** and **OAuth2**.\nEngineered a notification system using **RabbitMQ**, achieving **99%** timely alert delivery to enhance communication and patient engagement.\nImplemented CI/CD pipelines with **GitHub Actions** and **AWS CodePipeline**, achieving a **80%** reduction in deployment times and improving collaboration among teams.\nContainerized microservices with **Docker**, streamlining deployment processes in both staging and production environments, thus optimizing efficiency.\nManaged cloud services on **AWS EKS (Kubernetes)** with **Terraform**, maintaining **99.9%** uptime and optimizing load handling through advanced *Redis caching* solutions.\nStrengthened the UI/UX for the pathway builder utilizing **React** and **Ant Design**, resulting in a **30%** decrease in completion time for end-users."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Alibaba Group",
+      "from_date": "Oct 2020 ",
+      "to_date": "Dec 2022",
+      "location": "Hangzhou, China",
+      "responsibilities": "• Developed backend services using **Java (Spring Boot)** and **Node.js**, enhancing performance and scalability to improve system reliability by **25%**.\n• Designed and implemented a notification system utilizing **Kafka** for real-time alerts, achieving a **98%** success rate for timely notifications during critical incidents.\n• Created interactive customer insights dashboards employing **Vue.js** and **D3.js**, resulting in a **20%** increase in resolution rates.\n• Automated CI/CD processes through **Jenkins** and **AWS CodePipeline**, fostering a consistent and streamlined release process across development cycles.\n• Deployed the platform infrastructure on **AWS EC2** using **Docker** and **Terraform**, reducing infrastructure setup time by **50%**.\n• Engaged in TDD practices to ensure high code quality and maintainability, facilitating a strong foundation for the implementation of **RESTful APIs**.\n• Collaborated effectively in cross-functional teams, leveraging **Kubernetes** for container orchestration and contributing to a robust microservices architecture."
+    },
+    {
+      "role": "Software Engineer ",
+      "company": "Huawei Technologies Co., Ltd",
+      "from_date": "May 2016 ",
+      "to_date": "Sep 2020",
+      "location": "Shenzhen, China ",
+      "responsibilities": "Developed robust **RESTful APIs** utilizing **Java (Spring Boot)** and **PostgreSQL**, achieving **98% uptime**.\nMaintained backend efficiency by implementing **Clean Architecture** principles.\nLeveraged **CI/CD** pipelines to enhance deployment strategies, ensuring seamless updates and high-quality code delivery.\nStreamlined backend performance through **Docker** containers, improving build times by **25%**.\nCollaborated effectively with cross-functional teams to design **Distributed Systems**, ensuring cohesive integration and communication.\nUtilized **Kubernetes** for orchestration, managing over **100** containerized applications.\nEmployed Test-Driven Development (**TDD**) practices, achieving a **30%** reduction in bugs.\nImplemented monitoring solutions with **ElasticSearch** to analyze application performance metrics, enhancing system reliability.\nDeployed solutions globally using **AWS** and **GCP** for low-latency access, ensuring high availability."
+    }
+  ],
+  "skills": "****Programming Languages****\n\tJava, JavaScript (React, Vue.js, Angular, Pixi.js, Vanilla JS, Node.js, TypeScript), Go, Python, SQL, Swift, Kotlin\n\n****Backend Frameworks****\n\tSpring Boot, Spring Security, Hibernate, Node.js, Express.js, JPA, Kafka, RabbitMQ\n\n****Frontend Frameworks****\n\tReact, Vue.js, Angular, Pixi.js, Redux, Next.js, React Router, Material-UI, Ant Design, D3.js, Webpack, Babel, Jest\n\n****API Technologies****\n\tRESTful API\n\n****Serverless and Cloud Functions****\n\tAWS (EKS, RDS, CloudFront, S3, Lambda), API Gateway, GCP\n\n****Databases****\n\tMySQL, PostgreSQL, Redis, MongoDB, ElasticSearch\n\n****DevOps****\n\tDocker, Kubernetes (AWS EKS), Jenkins, GitHub Actions, Terraform, AWS CodePipeline, CI/CD\n\n****Cloud & Infrastructure****\n\tAWS (EKS, RDS, CloudFront, S3, Lambda), Git, CloudWatch, ELK Stack\n\n****Other****\n\tMicroservices, Clean Architecture, Distributed Systems Design, TDD, Infrastructure as Code (IaC), Data structures and algorithms, Agile/Scrum methodologies, Collaboration, Communication"
+}

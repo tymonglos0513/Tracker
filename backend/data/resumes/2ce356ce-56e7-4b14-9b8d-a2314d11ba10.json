@@ -1,0 +1,55 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Platform Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Accomplished Senior Platform Engineer with 9+ years of robust experience in cloud technologies including **AWS**, **Azure**, and **GCP**, along with container orchestration via **Kubernetes** and **Docker**. Proficient in Infrastructure as Code (IaC) techniques using **Terraform** and **Helm**, enhancing deployment efficiency and reliability. Extensive knowledge of continuous integration and delivery processes through **Jenkins** and **ArgoCD**, coupled with monitoring and logging expertise using **Grafana**, **Prometheus**, and **ElasticSearch**. Demonstrated ability to implement effective automation strategies and optimize IT infrastructure. Additionally, adept in Agile methodologies such as Kanban, facilitating strong teamwork and collaboration. Leveraging strong development skills in **.NET**, **C#**, and modern frameworks like **ReactJS** and **NextJS**, I consistently deliver high-quality solutions and lead projects to timely completion, while streamlining development processes.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Platform Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Implemented Infrastructure as Code (IaC) using **Terraform** for reliable deployments across cloud platforms such as **AWS**, **Azure**, and **GCP**.\nDesigned and orchestrated containerized applications with **Docker** and **Kubernetes**, enhancing scalability and performance of the applications by 30%.\nOptimized CI/CD workflows using **Jenkins** and **ArgoCD**, achieving a 40% reduction in deployment times while ensuring high-quality delivery.\nDeveloped observability strategies utilizing **Prometheus**, **Grafana**, and **Loki**, enabling real-time monitoring and alerting of system performance metrics.\nSpearheaded the transition to an agile framework by applying **Kanban** methodologies, improving team collaboration and project transparency.\nConducted data analysis using **ElasticSearch** and **Kibana** to drive data-driven decisions for enhancing customer service operations, leading to a 25% increase in customer satisfaction.\nLed cross-functional teams to implement automation strategies, resulting in a **20%** increase in overall efficiency and productivity.\nEnhanced the networking capabilities of the platform to support distributed systems and high availability, improving system resilience.\n\nDeveloped RESTful APIs with .NET integrated with **MongoDB** and designed a web-based customer management tool utilizing **.NET 7** and **ReactJS**, achieving a **25%** improvement in user satisfaction.\nUtilized **Redis** for optimizing caching in the application, which led to a **35%** reduction in database load and enhanced response times."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Utilized **AWS** and **Azure** cloud services to design and develop a cloud-based project management tool, driving a **15%** increase in team collaboration efficiency.\nDevised infrastructure as code (IaC) strategies with **Terraform** and **Helm**, enhancing deployment consistency across environments.\nImplemented containerization strategies using **Docker** and orchestrated deployment via **Kubernetes**, improving system scalability and reliability.\nDeveloped and integrated RESTful APIs with **.NET Core**, utilizing **PostgreSQL** for real-time data access, resulting in optimized data retrieval.\nCreated a microservices architecture incorporating **RabbitMQ** for task orchestration and **Apache Kafka** for event-driven data handling, leading to enhanced system responsiveness.\nUtilized **Grafana** and **Prometheus** for monitoring system performance, achieving a **25%** boost by integrating **Redis** as a caching layer to minimize API call latency.\nAutomated deployment processes through **Jenkins** and **ArgoCD**, reducing production deployment errors by **30%**.\nManaged and optimized queries for **MSSQL** and **MySQL** databases, ensuring effective data storage and retrieval.\nCollaborated in an Agile and Kanban environment to define system requirements with stakeholders, facilitating timely project delivery.\nCreated custom visualizations using **D3.js** for project status tracking, enhancing reporting efficiency.\nConducted code reviews and mentorship sessions for junior developers, fostering team growth and improving overall productivity."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Leveraged **AWS** and **Azure** services to implement cloud solutions, improving system reliability by **30%**.\nEmployed **Docker** and **Kubernetes** for containerization and orchestration, resulting in a **40%** reduction in deployment times.\nUtilized **Terraform** for Infrastructure as Code (IaC) practices, streamlining environment setup and management for projects by **25%**.\nImplemented CI/CD pipelines with **Jenkins** and **ArgoCD**, enhancing automation of deployment processes and reducing manual errors.\nDeveloped monitoring solutions using **Grafana** and **Prometheus** to track application performance and operational health, contributing to a **15%** improvement in response times.\nCollaborated with cross-functional teams using Agile methodologies and **Kanban**, ensuring effective project management and timely delivery of features.\nFacilitated team collaboration through effective communication and shared documentation, resulting in a **10%** increase in overall team efficiency.\nParticipated in daily standups to align on project goals, code reviews, and foster a culture of continuous improvement.\nDelivered technical documentation and user guides for platform implementations, enhancing team knowledge transfer and support efficiency."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tJavaScript, TypeScript, C#, Python, Solidity\n\n **Backend Frameworks**\n\tNodeJS, ExpressJS, NestJS, .NET, Entity Framework, Microservices\n\n **Frontend Frameworks**\n\tHTML, CSS, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n **API Technologies**\n\tRESTful API, GraphQL\n\n **Serverless and Cloud Functions**\n\tAWS, Azure, GCP\n\n **Databases**\n\tMSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB, ElasticSearch\n\n **DevOps**\n\tCI/CD pipelines, Docker, Kubernetes, Jenkins, Terraform, Helm, ArgoCD, Gradle, Grafana, Prometheus, Loki, Mimir\n\n **Cloud & Infrastructure**\n\tCloud, Infrastructure as Code (IaC), Networking\n\n **Other**\n\tUX/UI Design, Git, GitHub, Redux, Messaging & Caching: Apache Kafka, RabbitMQ, Redis, Agile, Kanban, Collaboration, Data Analysis, Automation, Project Management, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest",
+  "apply_company": "HiveMQ"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Intermediate Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Intermediate Engineer with 13+ years of experience developing and deploying high-performance applications, particularly in cloud-native architectures. Proficient in **Go(lang)**, **Kubernetes**, **Docker**, and **gRPC**, alongside strong competencies in **MySQL**, **Redis**, and **CloudFront**. Solid understanding of algorithms and data structures essential for efficient software design.\nSkilled in full-stack development with expertise in **JavaScript/TypeScript**, **Python**, and **Flutter**; hands-on experience with **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experienced in building AI/ML-powered platforms supporting predictive analytics, automation, and real-time processing.\nWell-versed in deploying microservices and implementing CI/CD pipelines on **AWS** and **Azure** with compliance-driven development aligned with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Strong background in MLOps, including model training and orchestration using **MLflow**, **Airflow**, and **Kubeflow**. Enthusiastic team player dedicated to delivering high-quality software solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Intermediate Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained applications using **Go(lang)** to enhance performance and scalability for critical services in various projects.\nImplemented containerization strategies with **Docker** and deployed applications in a **Kubernetes** environment for improved orchestration and management, handling up to **50** microservices.\nUtilized **gRPC** for service-to-service communication, leading to a **30%** increase in API response times and a reduction in latency.\nDesigned database schemas and optimized queries in **MySQL** and **Redis** for efficient data retrieval and storage, ensuring high availability and reliability of data across multiple environments.\nApplied advanced **algorithms** and **data structures** to solve complex problems, improving overall application performance by **20%**.\nCollaborated with cross-functional teams to implement robust **cloud solutions** using **CloudFront** and **CloudFlare** for content delivery and security enhancements.\nCreated comprehensive monitoring solutions with **Prometheus** and **Grafana**, enabling near real-time insights into application performance and operational KPIs.\nDeveloped deployment scripts with **Jenkins** to automate CI/CD processes, achieving consistent deployment cycles and reducing manual intervention time by **40%**.\nImplemented software design principles to create maintainable and scalable applications, leading to a significant reduction in technical debt.\nConducted code reviews and provided mentorship on best practices in software design and architecture, fostering a culture of quality and continuous improvement among team members."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Developed and implemented scalable back-end systems using **Go(lang)**, focusing on optimizing algorithms and data structures to enhance processing speed and efficiency in high-traffic environments.\n• Leveraged **Kubernetes** and **Docker** for container orchestration and deployment management, facilitating continuous integration and deployment (CI/CD) pipelines that improved deployment times by **40%**.\n• Designed RESTful APIs using **gRPC**, ensuring high-performance communication between microservices with a response time improvement of **30%** compared to traditional methodologies.\n• Utilized **MySQL** and **Redis** for database management, optimizing queries and configurations to reduce data retrieval times and enhance application responsiveness.\n• Built interactive and dynamic front-end applications with **Angular** and **React** frameworks, integrating components with **Redux Toolkit** for state management and improving user experience by leveraging **Tailwind CSS** for styling.\n• Associated monitoring and alerting solutions using **Prometheus** and **Grafana**, creating dashboards to track application performance metrics and reduce downtime incidents by **25%**.\n• Enabled cloud services using **CloudFront** and **CloudFlare** for enhanced content delivery and security, achieving improved latency and availability for users across **9** regions.\n• Managed system performance and logs through **CloudWatch**, integrating it into the overall architecture for effective monitoring and troubleshooting of live applications.\n• Conducted code reviews and architecture discussions, applying best practices and design patterns in software design to maintain high-quality standards and foster collaboration within the engineering team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed backend services utilizing **Go(lang)**, ensuring robustness and performance to support high traffic and scalability requirements.\nEngineered containerized applications with **Docker** and orchestrated deployment using **Kubernetes**, enhancing deployment efficiency and rollback capabilities.\nDesigned and implemented reliable APIs using **gRPC**, allowing high-performance communication between services and enhancing overall system responsiveness.\nManaged databases with **MySQL** and **Redis**, ensuring fast data retrieval and optimal data structure design to facilitate efficient algorithms.\nMonitored system health and performance metrics using **Prometheus** and **Grafana**, achieving **99.9%** system uptime and quick incident response through effective infrastructure recognition.\nImplemented CI/CD pipeline with **Jenkins**, facilitating automated testing and deployment cycles that reduced integration time by **30%**.\nContributed to the development of client applications with **Angular**, providing seamless user interfaces that prioritized user experience on both web and mobile platforms.\nUtilized **CloudFront** and **CloudFlare** for content delivery and improved application performance, resulting in a **40%** reduction in loading times.\nDeveloped infrastructure configurations using **nginx** for load balancing and reverse proxy, effectively managing traffic flows.\nLeveraged statistical algorithms to optimize operational efficiency and enhance data-driven decision-making processes.\nEmbraced a software design pattern philosophy that promoted clean code principles and maintainable architecture throughout the development lifecycle."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tGo(lang), Kotlin, Swift, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, gRPC\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tOAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, CloudFlare, CloudFront, Prometheus, Grafana, CloudWatch, Nginx, Let’s Encrypt, Certbot\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, algorithms, data structures, software design"
+}

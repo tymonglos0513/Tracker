@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior AI Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior AI Engineer with 10+ years of experience specializing in high-performance software solutions. Proficient in **Python**, with extensive hands-on expertise in developing and deploying cloud-native applications on **AWS**. Skilled in utilizing **Docker** for containerization and detailed knowledge of **CI/CD** practices for efficient deployment cycles. Familiar with **IaC** tools for automated infrastructure management. Proficient in leveraging advanced machine learning frameworks specifically **Langchain** and **LlamaIndex** for building intelligent applications. Experienced in using **Streamlit** and **Gradio** for interactive applications, as well as robust caching, routing, asynchrony, and decoupling techniques to enhance application performance. Strong background in MLOps, managing production workflows, and implementing observability for real-time analytics and monitoring. Additionally, brings expertise in critical thinking and effective communication to collaborate across teams and drive impactful outcomes in AI initiatives, while ensuring compliance with standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tLeveraged **Python** to develop and optimize machine learning algorithms and solutions, serving critical functions in healthcare and finance, with a focus on AI model deployment and inference.\n•\tImplemented robust **CI/CD** pipelines using GitHub Actions and Azure DevOps for seamless model versioning and deployment, ensuring 99% uptime in production environments.\n•\tEmployed **Docker** for containerization and management of applications, allowing for efficient resource use and high scalability in microservices architecture.\n•\tUtilized **AWS** services such as Lambda for serverless architecture, achieving a reduction in costs by **30%** while maintaining performance and reliability.\n•\tIntegrated cutting-edge LLM solutions with frameworks like **Langchain** and **LlamaIndex** to enhance natural language processing capabilities in health and financial applications.\n•\tDesigned and executed observability strategies, ensuring effective monitoring of systems and rapid detection of anomalies, improving response time by **40%**.\n•\tExecuted **Infrastructure as Code (IaC)** principles for automated deployment and scaling of services, increasing deployment efficiency by **50%**.\n•\tDeveloped high-performance caching strategies to optimize data retrieval processes, significantly enhancing user experience across applications.\n•\tConducted **Prompt Engineering** and evaluation of AI models to fine-tune their performance in producing accurate insights in healthcare decision-making and finance fraud detection.\n•\tUtilized advanced routing and asynchrony techniques within applications to improve data handling, leading to reduced processing times and enhanced throughput.\n•\tFostered cross-team communication and collaboration, resulting in a **25%** improvement in project delivery timelines and enhancing overall project efficiency.\n•\tApplied critical thinking to assess and resolve complex issues encountered during AI model integration and backend service deployments.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **AWS** to design and deploy scalable AI solutions, enhancing performance and reducing costs by **30%** through effective resource management.\nImplemented **Docker** for containerization of applications, ensuring seamless deployment and scalability across multiple environments.\nDeveloped and maintained CI/CD pipelines using **Git**, increasing deployment frequency by **50%**, and reducing lead time for changes through automated testing and integration.\nApplied **IaC** principles using Terraform to automate infrastructure provisioning, achieving consistent environments and reducing manual configuration errors by **40%**.\nIntegrated **Langchain** and **LlamaIndex** for advanced natural language processing solutions, enabling enhanced data retrieval and user interaction in AI models.\nCreated dynamic user interfaces with **Streamlit** and **Gradio**, allowing stakeholders to engage with AI models and visualize outputs effectively.\nImplemented caching strategies to optimize performance, significantly improving response times of AI-driven applications by **60%**.\nLeveraged parallelism and asynchrony in processing frameworks to handle large datasets, achieving near real-time analytics and responsiveness in applications.\nExecuted robust routing and decoupling strategies to enhance system maintainability and scalability, aligning closely with project goals and user requirements.\nConducted thorough evaluations and established observability measures to monitor system performance and efficacy of AI models, improving problem detection times by **25%**.\nFostered critical thinking and communication skills within the team to enhance collaborative problem-solving and innovative solution development."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and frameworks such as **FastAPI** and **Django** to design and optimize backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nImplemented **AWS** infrastructure with a focus on **Docker** for containerization, ensuring seamless deployment and scalability in a CI/CD environment.\nEngineered real-time features using WebSockets and event-driven architecture powered by **Kafka** and **RabbitMQ**, enabling responsive order updates and dynamic inventory tracking.\nLeveraged **Git** for version control, ensuring efficient collaboration and code management across a team of developers.\nDeveloped robust AI-driven features using **Langchain** and **LlamaIndex**, enhancing product recommendation systems through efficient **Prompt Engineering** techniques.\nOptimized caching strategies with **Redis** to enhance system performance, resulting in a **30%** reduction in database read pressure and improved application responsiveness.\nApplied **IaC** principles using tools like **Terraform** to automate infrastructure setup, improving deployment speed by **40%**.\nCollaborated extensively, utilizing strong **communication** and **critical thinking** skills to streamline development processes and improve project outcomes.\nImplemented observability strategies to monitor and evaluate system performance, ensuring timely detection and resolution of operational issues.\nConducted thorough evaluations of AI model performance to drive iterative improvements, ensuring that deployed models consistently meet business needs.\nDemonstrated proficiency in **asynchrony** and **decoupling** patterns, enhancing the modularity of application architecture and facilitating easier maintenance.\nDesigned and executed robust testing protocols for AI components, increasing the overall stability of production systems by **20%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular, Streamlit, Gradio\n\n **API Technologies:**\n\tLangchain, LlamaIndex\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), IaC\n\n **Other:**\n\tArtificial Intelligence, Machine Learning, MLflow, Airflow, Kubeflow, authentication, Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, caching, parallelism, routing, asynchrony, decoupling, Prompt Engineering, evaluation, observability, critical thinking, communication",
+  "apply_company": "dLocal"
+}

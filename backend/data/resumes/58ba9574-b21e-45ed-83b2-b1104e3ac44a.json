@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Skilled Software Developer with 13+ years of experience, specializing in **MERN stack** technologies including **Node.js**, **Express.js**, and **ReactJS**. Adept in using **TypeScript** for robust application development, and experienced with **Redux**, **Redux-Saga**, and **Reselect** for state management. Proficient in styling with **Styled Components** and ensuring quality through testing frameworks such as **Jest** and **Mocha**.\n\nStrong expertise in building scalable applications across sectors such as healthcare and finance, particularly in delivering high-performance solutions utilizing JavaScript, Python, and **Flutter**. Hands-on experience with cloud technologies, specifically deploying systems on **AWS** and **Azure**, as well as implementing microservices and CI/CD workflows with **Git**, **GitLab**, **GitLab CI**, and **Jira**.\n\nWell-versed in real-time processing and automation, with a strong foundation in AI/ML applications powered by technologies such as **FastAPI** and **Django**, providing predictive analytics capabilities. Experienced in compliance-driven development under frameworks like HIPAA, FHIR, and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized the **MERN stack** to design and implement full-stack applications, enhancing performance and user engagement while ensuring application resilience with **Node.js**, **Express.js**, and **ReactJS**.\nDeveloped state management solutions using **Redux** and **Redux-Saga** to facilitate complex data flows and improve application functionality in a fast-paced development environment.\nCreated interactive and sophisticated UI features with **Styled Components** and **ReactJS**, focusing on user experience and accessibility across various devices.\nConducted unit and integration testing using **Jest** and **Mocha**, establishing a rigorous testing framework to maintain high code quality across all deployments.\nEmployed **Git** and **GitLab CI** for efficient version control and continuous integration, streamlining development workflows and collaboration across teams.\nLeveraged **Redis** for efficient data caching and messaging solutions, optimizing application performance and scalability.\nManaged deployment processes through automated testing environments using **GitLab**, ensuring robust performance metrics and minimal downtime in production releases.\nUtilized **ELK Stack** for logging and monitoring applications, providing real-time insights into system performance and user activity.\nCollaborated with cross-functional teams through **Jira** to track project progress, prioritize tasks, and refine user stories, achieving a **30%** reduction in project turnaround time.\nImplemented data-driven decision-making strategies using **Social Network APIs** to enhance user interaction and community engagement features, resulting in a **25%** increase in user engagement metrics.\nDeveloped and maintained reusable application components perfectly aligned with user requirements and design specifications, optimizing efficiency and development time by up to **40%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Node.js** (Express.JS) and **React** (18) to modernize core financial platforms, migrating to microservices architecture that enhanced scalability and performance for high-volume transactional systems.\nDeveloped front-end applications with **ReactJS**, **TypeScript**, and **Redux** while employing libraries like **Styled Components** for creating responsive user interfaces tailored for financial tools and admin panels.\nImplemented CI/CD workflows using **Git**, **GitLab CI**, and **Jira**, ensuring streamlined development processes with a consistent delivery rate of features, achieving **90%** deployment success rate.\nDesigned and maintained interactive dashboards using **D3.js** and **Power BI Embedded**, which enabled operations teams to perform real-time analysis of transactions while reducing data processing time by **50%**.\nBuilt asynchronous communication systems employing **RabbitMQ** to facilitate event-driven architecture, crucial for processing high-frequency transactions effectively.\nCreated and managed automated testing suite using **Jest** and **Mocha**, improving code quality and coverage to exceed **85%**.\nWorked with third-party & internal social network APIs to enhance application functionality, streamlining user authentication and interactions.\nContributed to the ELK Stack implementation for centralized logging and monitoring, leading to resolution of production issues with an average response time of **30 minutes**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed web applications leveraging the **MERN stack** (MongoDB, Express.js, ReactJS, Node.js), ensuring robust, responsive designs and seamless integration with backend services.\nEngineered and implemented **Node.js** and **Express.js** backend services to handle high traffic, achieving **high availability** and low latency across critical business functionalities.\nUtilized **Redis** for caching mechanisms, improving data retrieval speeds by **30%** and reducing the load on databases during peak usage.\nImplemented message brokering features with **RabbitMQ**, ensuring reliability and responsiveness in transaction processing and user notifications.\nDesigned and built frontend components using **ReactJS**, enhanced with **Redux** for state management, resulting in a **25%** faster load time and smoother user experience across various devices.\nConducted unit and integration tests using **Jest** and **Mocha**, achieving a code coverage percentage of **80%**, ensuring high code quality and maintainability.\nEmployed version control tools such as **Git** and **GitLab** to manage codebase, facilitating collaborative workflows and regular deployment cycles.\nCollaborated with cross-functional teams using **Jira** for Agile project management, streamlining task assignments, and progress tracking.\nConnected applications to **Social Network APIs** to enhance user engagement and streamline authentication processes.\nActively participated in design reviews, providing insights that helped in optimizing application architecture for better scalability and maintainability."
+    }
+  ],
+  "skills": "Frontend Frameworks:\n\tReact, Vue, Angular, ReactJS, Redux, Redux-Saga, Reselect, Styled Components\n\nBackend Frameworks:\n\tPython: FastAPI, Flask, Django, Node.js, Express.JS\n\nAPI Technologies:\n\tSocial Network APIs\n\nServerless and Cloud Functions:\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\nDatabases:\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\nDevOps:\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, GitLab, Git, Jira\n\nCloud & Infrastructure:\n\tTerraform, Ansible, Helm, Docker Compose\n\nOther:\n\tMLflow, Airflow, Kubeflow, RabbitMQ, Jest, Mocha, ELK Stack, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot"
+}

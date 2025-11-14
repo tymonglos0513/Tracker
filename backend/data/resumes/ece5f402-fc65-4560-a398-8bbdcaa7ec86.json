@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Backend Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Results-driven Backend Software Engineer with over 10 years of experience in **Go**, **Distributed Systems**, and **Concurrency**. Expertise in designing scalable and high-performing backend systems with a strong focus on **Data Consistency** and **Performance Optimization**. Proven ability to implement robust **SQL Databases** solutions using **MySQL**, **PostgreSQL**, and **Caching Systems** like **Redis**. Experienced in working with **Messaging Systems** such as **Kafka**, **RabbitMQ**, and **NSQ** to build resilient event-driven architectures and **Streaming Pipelines**. Skilled in container orchestration with **Kubernetes** and deploying applications on **AWS**. Adept at writing clean, efficient code and communicating effectively across teams. A strong track record includes impactful contributions to major projects in the financial sector, leveraging a tech stack that includes **Python** frameworks like **FastAPI**, **Django**, and **Flask**, while also integrating AI/ML pipelines and cloud-native architectures.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered backend services in **Go** to enhance system performance and scalability, focusing on **Concurrency**, **Data Consistency**, and **Synchronization**.\nDeveloped robust **Distributed Systems** leveraging **Redis** for caching and ensuring optimal response times under load, achieving a processing time improvement of **30%**.\nImplemented **Event-Driven Architectures** using **Kafka** and **RabbitMQ**, managing high throughput messaging for real-time data processing, successfully handling over **100,000** transactions daily.\nCreated and optimized SQL databases on **MySQL** and **PostgreSQL**, achieving a **25%** reduction in query response times through performance optimization techniques.\nLed the integration of microservices deployed on **Kubernetes** within an **AWS** environment, utilizing best practices in clean code and design patterns for maintainability.\nCollaborated effectively with cross-functional teams to troubleshoot system integration challenges, ensuring compliance with data protection regulations, and conducting detailed assessments for operational improvements.\nMaintained exceptional communication with stakeholders to oversee release strategies and project timelines, ensuring delivery aligns with set goals."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Developed backend systems in **Go** to enhance performance optimization and streamline data consistency, ensuring efficient concurrency and synchronization across services.\nEngineered event-driven architectures by implementing messaging systems such as **Kafka** and **RabbitMQ**, facilitating seamless communication for distributed systems.\nManaged SQL databases, including **PostgreSQL** and **MySQL**, optimizing queries and ensuring data integrity with a focus on performance metrics.\nDesigned and implemented caching systems utilizing **Redis**, improving response times by up to **80%** for high-traffic applications.\nCreated and deployed microservices in **Kubernetes**, enhancing scalability and maintainability of applications, while reducing deployment times by **50%**.\nCollaborated with cross-functional teams to uphold clean code standards, ensuring consistency and readability across a codebase exceeding **10,000 lines** of code.\nPerformed security audits and integrated performance best practices, ensuring compliance with industry standards and boosting overall application security."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed distributed systems for trade execution, portfolio management, and account tracking using **Python**, **Flask**, and **PostgreSQL**, enhancing trading operations for over **1,000** users.\n• Engineered concurrency-driven real-time price feed processors with **asyncio**, **WebSockets**, and **Redis**, ensuring data delivery every **0.5** seconds for high-frequency transactions.\n• Collaborated with frontend teams to deliver data through **REST APIs** and **WebSocket** channels, ensuring smooth user interactions and exceptional communication across the platform.\n• Ensured data consistency and compliance with regulatory requirements, including MiFID II and GDPR, while adhering to internal data security protocols, leading to **100%** compliance in audits.\n• Implemented clean code principles with comprehensive test suites using **PyTest**, **tox**, and mock servers, streamlining QA and CI processes, which improved development cycles by **30%**.\n• Introduced performance optimization job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and reducing processing time by **25%**."
+    }
+  ],
+  "skills": "Programming Languages:\n\t**Go**, **Python (3.8+)**, **SQL**, **JavaScript**, **Bash**\n\n**Backend Frameworks:**\n\t**FastAPI**, **Flask**, **Django**, **Celery**\n\n**Frontend Frameworks:**\n\t\n\n**API Technologies:**\n\t**REST/gRPC APIs**, **gRPC**\n\n**Serverless and Cloud Functions:**\n\t**AWS (EC2, S3, Lambda)**, **Azure**\n\n**Databases:**\n\t**PostgreSQL**, **MySQL**, **MongoDB**, **Redis**, **SQL Databases**, **ClickHouse**\n\n**DevOps:**\n\t**Docker**, **Kubernetes**, **GitHub Actions**, **Azure DevOps**, **CI/CD**\n\n**Cloud & Infrastructure:**\n\t**AWS**, **Azure**\n\n**Other:**\n\t**AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow**, **Concurrency**, **Synchronization**, **Data Consistency**, **Caching Systems**, **Messaging Systems**, **NSQ**, **NATS**, **Kafka**, **RabbitMQ**, **Event-Driven Architectures**, **Streaming Pipelines**, **Microservices**, **Clean Code**, **Performance Optimization**, **Communication**, **PyTest**, **Git**"
+}

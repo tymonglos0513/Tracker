@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior DevOps Engineer with 13+ years of experience in cloud infrastructure and application deployment, specializing in **AWS**, **Terraform**, **Docker**, **Kubernetes**, and monitoring solutions such as **Prometheus** and **Grafana**. Proficient in configuration management using **Chef**, orchestration with **Ansible**, and data management with **Redis** and **Elasticsearch**. Strong expertise in **incident response** and **monitoring**, ensuring high availability and performance in cloud-native environments.\n\nSkilled in scripting with **Bash** and programming in **Python** and **Ruby**, complemented by hands-on experience in deploying AI/ML-powered applications leveraging **FastAPI** and **Django**. Well-versed in compliance-driven development standards, including HIPAA and PCI DSS, ensuring secure and reliable solutions in the healthcare and financial industries. Proven ability to implement CI/CD pipelines to streamline development processes.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and built efficient CI/CD pipelines leveraging **Docker** and **Kubernetes** (AKS/EKS) to automate deployment processes, enhancing uptime by **30%**.\n- Implemented robust infrastructure as code (IaC) using **Terraform** for provisioning cloud resources in **AWS**, ensuring consistent and repeatable deployment environments.\n- Managed configuration and deployment automation with **Ansible** and **Chef**, reducing system configuration time by **25%** through effective orchestration.\n- Established monitoring practices utilizing **Prometheus** and **Grafana** for real-time system health checks and performance metrics, leading to a **40%** reduction in incident response times.\n- Supported application and data stack on **Redis** and **Elasticsearch**, providing rapid access and search functionalities for both structured and unstructured data.\n- Spearheaded the migration of legacy applications to containerized environments, employing **Docker** to streamline workloads and improve scalability.\n- Developed and maintained scripts in **Bash** to automate routine tasks, resulting in a productivity increase of **20%** within the operations team.\n- Led troubleshooting and incident response efforts for cloud-based infrastructure, ensuring high availability and reliability of systems across Unix environments.\n- Collaborated with cross-functional teams to integrate monitoring solutions for proactive system health management, significantly reducing downtime incidents by **35%**.\n- Conducted capacity planning and performance tuning for distributed systems using tools like **Grafana**, improving response times under load by **50%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented Infrastructure as Code (IaC) practices using **Terraform** to manage and provision AWS resources, ensuring a reproducible and scalable infrastructure for applications.\nStreamlined container orchestration and deployment processes through **Docker** and **Kubernetes**, enhancing application deployment speed by **50%** and reliability.\nAutomated configuration management with **Chef** and **Ansible**, reducing manual interventions by **30%** and improving system consistency across environments.\nSet up monitoring and alerting systems using **Prometheus** and **Grafana**, leading to a **40%** reduction in incident response time for critical systems.\nUtilized **Redis** for caching solutions, optimizing application performance and reducing response time by **60%** for high-traffic APIs.\nIntegrated **Elasticsearch** for log aggregation and real-time search capabilities, enhancing troubleshooting and analytics efficiency by **70%**.\nDeveloped robust data pipelines for incident response and monitoring using **Bash** and **Python**, enabling actionable insights and automated reporting.\nManaged the continuous integration/continuous deployment (CI/CD) pipelines to ensure seamless code integration and delivery, improving deployment frequency by **300%**.\nLeveraged expertise in **Unix** and cloud-based systems to optimize server performance and conduct proactive maintenance, ensuring **99.9%** system uptime."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged **AWS** for deploying scalable cloud infrastructure, ensuring high availability and disaster recovery across multiple applications and services.\nUtilized **Docker** and **Kubernetes** to containerize applications and manage orchestration, improving deployment speed by **30%** and minimizing system downtime during updates.\nImplemented continuous integration and continuous deployment (CI/CD) pipelines using **Terraform** and **Ansible**, facilitating automated workflows that reduced deployment errors by **50%**.\nMonitored system performance and health using **Prometheus** and **Grafana**, achieving real-time insights and proactive incident response, which decreased system outages by **25%**.\nEngineered backend services with a focus on **Python** and **Ruby**, optimizing scripts for automated system management and configuration, while ensuring adherence to systems standards.\nDesigned and managed **Redis** for caching strategies, significantly enhancing data retrieval speeds and easing server load by **40%**.\nConfigured and optimized **Elasticsearch** for log management and search functionality, improving incident response times and analytics capabilities across the platform.\nCollaborated with cross-functional teams to establish best practices for incident response and monitoring, adhering to **Unix** standards for system stability and performance.\nDeveloped robust automation scripts in **Bash** to streamline processes and enhance operational efficiency within cloud environments.\nCreated infrastructure as code (IaC) patterns using **Terraform**, enabling predictable deployments and consistent environments across multiple stages of the development lifecycle."
+    }
+  ],
+  "skills": "Programming Languages:\n\t**Python**, **Ruby**, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\t**FastAPI**, **Flask**, **Django**\n\n**Frontend Frameworks:**\n\t**React**, **Vue**, **Angular**\n\n**API Technologies:**\n\tOAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\t**AWS**, **Azure**\n\n**Databases:**\n\t**PostgreSQL**, **MySQL**, **MongoDB**, **Redis**, Elasticsearch\n\n**DevOps:**\n\t**Docker**, **Kubernetes**, **Terraform**, **Ansible**, **Chef**, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\t**Prometheus**, **Grafana**, **Bash**, Unix\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Let’s Encrypt, Certbot, Incident Response, Monitoring, ECS, Lambda, RDS, S3, App Services, Blob Storage, SQL Database, Helm, Docker Compose",
+  "apply_company": "TigerConnect"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior AI Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a proficient Senior AI Engineer with 8 years of experience, I possess strong expertise in **Python**, **ML**, and cloud services including **AWS**. I am skilled in utilizing essential libraries such as **NumPy**, **Pandas**, **Scikit-Learn**, and **PySpark** to deliver innovative AI solutions. My proficiency extends to deploying and managing machine learning models using **MLflow**, and implementing **MLOps** strategies across various platforms, including **SageMaker** and **Glue**. With a robust background in **CI/CD** practices through **GitHub Actions**, I ensure quality and efficiency in the development pipeline.\n\nAdditionally, I have hands-on experience with advanced frameworks like **Streamlit**, **Transformers**, and **PyTorch**, enabling the creation of highly scalable ML applications. My projects often involve working with **LLM**, **RAG**, and agentic systems, allowing me to orchestrate real-time data processing and intelligent automation. I have a comprehensive understanding of microservices architecture and event-driven systems, ensuring the delivery of secure applications compliant with standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed machine learning models for various use cases such as patient risk prediction, financial fraud detection, and document classification using **Python**, **scikit-learn**, **PyTorch**, and **TensorFlow**, integrating real-time inference services into backend systems.\n- Built MLOps pipelines utilizing **MLflow**, **DVC**, and **Apache Airflow** for continuous training, validation, versioning, and deployment of models, streamlining operations across development and production environments.\n- Implemented automated CI/CD pipelines using **GitHub Actions** and other tools, ensuring rigorous testing, security scans, and efficient deployments of AI applications in both web and API services.\n- Collaborated with data scientists to integrate NLP models from **Transformers**, enhancing healthcare document parsing and financial anomaly detection systems via RESTful APIs.\n- Utilized libraries such as **NumPy** and **Pandas** for data processing and preparation, ensuring high-quality datasets for machine learning applications.\n- Designed and deployed cloud-based solutions using **AWS** services like **SageMaker**, **Lambda**, and **Fargate**, optimizing model performance through scalable architectures.\n- Established comprehensive test strategies employing **Jest**, **Cypress**, and **PyTest** for unit, integration, and E2E testing across AI-focused applications, ensuring reliability and robustness.\n- Integrated advanced search functionalities using **Azure Cognitive Search** and **ElasticSearch** to enhance information retrieval across vast unstructured and structured datasets.\n- Communicated effectively with cross-functional teams to align AI initiatives with business goals, leveraging insights to drive project success and innovation."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to develop and implement machine learning models for fraud detection and analysis, ensuring proactive identification of suspicious activities in banking systems.\nLeveraged **NumPy**, **Pandas**, and **Scikit-Learn** to manipulate and analyze financial datasets, enhancing data quality and model performance.\nDesigned and executed ML pipelines for credit scoring, churn prediction, and transaction classification with **MLflow** and **Apache Airflow**, ensuring real-time decision-making capabilities.\nAchieved **20%** improvement in fraud detection accuracy by integrating AI/ML techniques using **XGBoost** and **Azure Machine Learning**.\nDeveloped and maintained CI/CD pipelines using **GitHub Actions** for seamless deployment of machine learning models and code, supporting robust and efficient development cycles.\nImplemented scalable data processing solutions using **PySpark** and **AWS Glue**, facilitating a data-driven approach for analysis and reporting on financial transactions.\nOptimized machine learning operations (MLOps) with **AWS SageMaker** for model training and deployment, ensuring models are up-to-date with real-time data.\nExecuted communication strategies that clearly articulated complex AI/ML concepts to non-technical stakeholders, ensuring alignment and understanding across teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Developed and implemented AI/ML models using **Python** with libraries such as **scikit-learn**, **NumPy**, **Pandas**, and **PyTorch** to enhance product personalization and improve conversion rates, impacting user engagement by **35%**.\n- Leveraged **AWS** cloud services, including **SageMaker** and **Lambda**, to deploy machine learning solutions efficiently, ensuring scalability and reliability while reducing operational costs by **20%**.\n- Optimized data processing workflows using **PySpark** and **Glue**, leading to a **50%** reduction in data processing times for analytics and machine learning tasks.\n- Created interactive data visualization dashboards with **Streamlit**, providing insights into user behavior and system performance, facilitating data-driven decisions by stakeholders.\n- Integrated CI/CD pipelines with **GitHub Actions** to automate testing and deployment processes for machine learning models, enhancing the development cycle speed by **40%**.\n- Collaborated effectively with cross-functional teams, demonstrating strong **communication** skills to translate complex technical concepts into actionable strategies and project plans.\n- Applied role-based access control (RBAC) and OAuth 2.0 for secure customer and admin access, ensuring GDPR compliance and user data protection throughout the platform."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks**\n\tReact, Vue, Angular\n\n **API Technologies**\n\tMLflow, GitHub Actions, AWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Serverless and Cloud Functions**\n\tAWS Lambda, Fargate\n\n **Databases**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps**\n\tDocker, Kubernetes, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure**\n\tAWS, Azure\n\n **Other**\n\tML, NumPy, Pandas, Scikit-Learn, PySpark, Streamlit, Transformers, PyTorch, LangChain, MLOps, SageMaker, Glue, Bedrock, LLM, RAG, agentic, communication, Authentication & Security (Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot)",
+  "apply_company": "PIB Group"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "AI Solutions Developer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-oriented AI Solutions Developer with 10+ years of experience specializing in **Python**, **FastAPI**, and **APIs** for building high-performance backend systems and **AI/ML pipelines**. Expertise in developing **real-time services** and cloud deployment strategies using robust technologies such as **AWS** and **Azure**. Proficient in **SDLC** practices, **Git**, and **CI/CD** processes to ensure seamless development workflow and deployment. Strong English communication skills, with a proven record of success in delivering impactful projects for leading organizations like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI Solutions Developer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to engineer robust backend services, enhancing document automation and onboarding workflows by up to **30%** efficiency.\nDesigned and implemented **AI/LLM pipelines** for real-time data processing, improving response times for user queries by **25%**.\nDeveloped event-driven solutions using **Celery** and **Redis** for asynchronous processing, managing **thousands** of financial transaction requests daily.\nExecuted cloud deployment strategies on **Azure App Services**, leveraging **Terraform** for Infrastructure as Code, resulting in a **40%** reduction in deployment time.\nOrchestrated data pipelines for regulatory data exchange employing **Apache Airflow** and **Azure Functions**, ensuring data accuracy within strict deadlines.\nIntegrated secure authentication frameworks including OAuth2 and **Azure AD B2C**, leading to a **50%** increase in system security measures.\nCollaborated with cross-functional teams to address system integration challenges, ensuring compliance and streamlining release strategies using **CI/CD** practices."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Developed backend systems using **Python** and **FastAPI** to enhance AI/LLM pipelines, automate document workflows, and optimize onboarding processes for up to **1000** users per month.\nCreated event-driven microservices employing **Celery** and **Redis**, facilitating asynchronous processing of financial data and handling up to **500** transaction requests per minute.\nManaged the deployment of microservices on **Azure App Services**, utilizing **Terraform** for infrastructure automation to ensure consistent and scalable environments with over **99.9%** uptime.\nEngineered data pipelines for the secure exchange of regulatory data, using **Apache Airflow** and **Azure Functions** to automate and streamline data flow, processing **2000+** regulatory reports weekly.\nConducted security audits to uphold compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for efficient management of authentication and secured access controls for up to **500** applications.\nCollaborated with cross-functional teams, ensuring seamless system integration and adherence to regulatory compliance within the SDLC, resulting in a **20%** reduction in project delivery time."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed and maintained **AI/LLM pipelines** using **Python** and **FastAPI** to enhance intelligent trading functionalities for the platform.\nEngineered real-time data processing services utilizing **WebSockets** and **asyncio** to ensure high-frequency transaction capability, processing over **900,000** price updates per minute.\nCollaborated with frontend teams to integrate functionalities through **APIs**, ensuring seamless user experiences with **React** and **Next.js** for an efficient user interface.\nExecuted the software development lifecycle (**SDLC**) best practices while implementing project version control using **Git** and ensuring continuous integration and delivery (**CI/CD**) workflows that decreased deployment time by **35%**.\nDesigned and enforced regulatory compliance solutions for the platform, focusing on **MiFID II** and **GDPR**, while upholding industry-leading data security measures.\nImplemented performance testing and QA strategies using **PyTest**, **tox**, and mock servers, resulting in a **50%** reduction in bugs during production.\nOptimized task management and job scheduling through the use of **Celery** and **RabbitMQ**, improving backend processing efficiency by **40%**, while scaling operations to support **100,000** concurrent user requests."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks**\n\tReact, Next.js\n\n**API Technologies**\n\tREST/gRPC APIs, APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\tcloud deployment\n\n**Other**\n\tAI/LLM pipelines, real-time services, English communication, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, PyTest, Git"
+}

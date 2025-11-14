@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience in developing high-performance applications. Proficient in **Python**, **Flask**, **QuartCore**, **Docker**, and **Kubernetes**, with a solid understanding of **Asynchronous Programming** and **Unit Testing**. Expertise in building robust APIs using **OpenAPI** and implementing real-time communication with **Websockets**. Demonstrated ability in working with **Pymongo** and applying **MQTT** for efficient data management. Experienced in cloud deployment and DevOps practices, leveraging **Microsoft Azure DevOps** to streamline CI/CD processes. \nSkilled in developing AI/ML-driven platforms and enhancing solutions with strong analytical and problem-solving capabilities. Well-versed in compliance standards such as HIPAA and PCI DSS, emphasizing secure and dependable software development. Notable background in technical writing, ensuring clear communication and effective collaboration across teams.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed robust applications using **Python** and **Flask** to create asynchronous API services, ensuring seamless communication and real-time data handling with **Websockets** and **MQTT**.\n• Designed and implemented containerized microservices using **Docker** and **Kubernetes** for enhanced scalability and maintainability across multiple environments.\n• Led the optimization of CI/CD processes through **Microsoft Azure DevOps**, incorporating automated testing with **Unit Testing** frameworks such as **PyTest** to ensure code quality and reliability.\n• Collaborated on multi-tier architectures with a focus on **high availability** using **Linux** servers and deployed services across **low voltage networks** with adherence to industry standards.\n• Improved application performance through strategic **Data Polishing**, utilizing libraries such as **Pymongo** for efficient data management in MongoDB databases.\n• Authored internal documentation and technical writing that served as a foundation for onboarding processes, ensuring effective communication across teams.\n• Enhanced user interfaces by implementing reactive features that leverage asynchronous programming techniques, enriching user experience while maintaining system integrity.\n• Spearheaded the deployment of secure web applications, focusing on encryption methods to safeguard sensitive data across APIs.\n• Provided training and mentorship to junior developers in problem-solving strategies, analytical skills, and interpersonal skills within the team.\n• Conducted comprehensive code reviews, ensuring adherence to coding standards while fostering a culture of continuous improvement in software development practices."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Python**, **Docker**, and **Kubernetes** to modernize core financial platforms by migrating to microservices architecture, enhancing scalability and performance for high-volume transactional systems.\nUtilized **Linux** for deploying and managing development environments, ensuring system stability and performance across 9 microservices hosted in the cloud.\nImplemented asynchronous programming patterns in **Python** to optimize API communications and improve response times by 30% in financial transactions.\nDeveloped and executed unit tests to ensure code quality and reliability, achieving a test coverage rate of **85%** across all new features.\nDesigned and integrated APIs using **Flask** and **OpenAPI**, enhancing interoperability between services and ensuring compliance with industry standards.\nBuilt interactive front-end applications with **React (18)**, **Vue 3**, **Next.js**, and **TypeScript**, utilizing Redux Toolkit and Tailwind CSS to craft responsive interfaces for financial tools, enhancing user engagement by 40%.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with insights into transactions and anomalies, reducing issue resolution time by **25%**.\nDesigned event-driven architecture with **Kafka** and **RabbitMQ**, ensuring seamless asynchronous communication across critical workflows such as payments, alerts, and compliance.\nConstructed ETL pipelines for ingesting financial data using **Apache Airflow** and **Azure Data Factory**, facilitating both batch and real-time processing of millions of transactions per month.\nDeveloped and deployed machine learning models for fraud detection using **scikit-learn**, enabling proactive detection of suspicious activity with **90%** accuracy based on behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring and churn prediction using **MLflow** and **Airflow**, integrating model inference into backend services effectively."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** along with **Flask** and **QuartCore** to design and optimize robust backend services for a global e-commerce platform, ensuring high availability and scalability across key modules like checkout and order fulfillment, achieving a **99.9% uptime**.\nImplemented **API** design adhering to **OpenAPI** specifications for seamless integration and communication between microservices.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration of applications, enhancing deployment efficiency and ensuring a rapid rollback strategy during updates, implementing **blue-green deployments** for risk mitigation.\nEmployed **Asynchronous Programming** techniques with **AsyncIO** and **WebSockets** to engineer real-time features, achieving dynamic inventory tracking and real-time customer support functionality with latency under **200ms**.\nLeveraged **Microsoft Azure DevOps** for CI/CD pipelines that improved deployment frequency by **60%**, resulting in faster feature rollouts and improved team collaboration.\nDeveloped unit tests and performed testing using tools such as **Pymongo** and **Werkzeug** ensuring code quality and reliability.\nApplied **encryption** and **role-based access control (RBAC)** to enhance security, ensuring GDPR compliance and user data protection across the platform while maintaining PCI compliance for sensitive payment information handling.\nUtilized technical writing skills to document system architecture and API specifications, facilitating clear communication across cross-functional teams and enabling streamlined knowledge transfer.\nExercised strong analytical skills to troubleshoot performance issues, reducing system downtime by **30%** through effective problem-solving approaches.\nFostered effective interpersonal communication within the engineering team, promoting collaboration and knowledge sharing to improve overall team productivity and efficiency."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript, AsyncIO\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, QuartCore, Werkzeug\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI, OpenAPI, Websockets, MQTT, OCPP\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Pymongo\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Microsoft Azure DevOps, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, Linux\n\n**Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow, Asynchronous Programming, Unit Testing, Data Polishing, Encryption, technical writing, communication, interpersonal skills, analytical skills, problem-solving",
+  "apply_company": "GlobalLogic"
+}

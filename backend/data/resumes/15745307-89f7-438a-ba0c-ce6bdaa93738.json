@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Rails Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Rails Engineer with 8 years of expertise in developing high-performance applications using **Ruby on Rails**, **PostgreSQL**, **MySQL**, and **Sidekiq**. Proficient in implementing async processing solutions with **RabbitMQ** and **Kafka** and building search functionality with **Elasticsearch** and **Solr**. Experienced in deploying applications using **Docker** and **Kubernetes**, alongside strong cloud experience on **AWS** and **GCP**. \n\nMy background includes full-stack development with **JavaScript**, **TypeScript**, **Python**, and **Flutter**, allowing me to architect solutions across healthcare and financial domains effectively. I have a proven track record of leading enterprise-grade platform development, integrating AI/ML capabilities for predictive analytics and intelligent automation. \n\nWith a solid foundation in microservices architecture, event-driven systems, and CI/CD automation, I ensure robust, secure applications that meet compliance standards like HIPAA, FHIR, PCI DSS, and SOC 2. I have hands-on experience in developing and deploying machine learning pipelines utilizing **MLflow**, **Airflow**, and **Kubeflow**, contributing to streamlined MLOps workflows.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Rails Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and implemented scalable web applications using **Ruby on Rails**, ensuring high performance and reliability across healthcare and financial sectors.\nLeveraged **PostgreSQL** and **MySQL** for effective data management and optimized database performance, handling large datasets with over **1 million** records.\nManaged background job processing and scheduled tasks with **Sidekiq** and **RabbitMQ**, reducing resource usage by **30%** through efficient job queue management.\nUtilized **Redis** for caching and session management, improving application response times by over **40%** on critical pages.\nImplemented CI/CD pipelines with **Docker** and **Kubernetes**, facilitating rapid deployment cycles and enhancing scalability in cloud environments like **AWS** and **GCP**.\nConducted performance tuning and optimization for APIs, achieving response time reductions of up to **50%** by profiling and refining underperforming endpoints.\nDeveloped robust RESTful APIs integrated with **Elasticsearch** for enhanced search capabilities, enabling lightning-fast retrieval of complex datasets.\nCreated automated testing frameworks using **RSpec** for unit and integration tests, achieving over **90%** code coverage and enhancing code quality.\nCollaborated with cross-functional teams to identify and mitigate risks in software development, fostering a more secure application lifecycle by incorporating security scans.\nStreamlined messaging patterns and event-driven architectures with **Kafka**, resulting in improved data flow and real-time processing across distributed systems.\nEngaged in regular code reviews and knowledge sharing sessions, maintaining high standards of code quality and instilling best practices within the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained robust web applications using **Ruby on Rails** and relational databases such as **PostgreSQL** and **MySQL**, ensuring high performance and scalability for financial services.\nImplemented background processing with **Sidekiq** and caching strategies using **Redis**, improving application responsiveness and user experience.\nDesigned and executed automated tests with **RSpec**, ensuring reliability and code quality through comprehensive test coverage, achieving over **90% test coverage** in production systems.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration, streamlining deployment processes and improving system consistency across different environments.\nEnhanced real-time data handling capabilities by integrating **Kafka** and **RabbitMQ**, facilitating robust messaging and event processing for transaction updates and alerts.\nEmployed search optimization techniques with **Elasticsearch** and **Solr** to improve user interface responsiveness and deliver real-time search results in user dashboards.\nDeployed applications and services to cloud platforms including **AWS** and **GCP**, ensuring high availability and disaster recovery compliance for financial applications.\nLed a team of developers in agile methodologies, conducting regular code reviews and performance assessments, resulting in a **30% reduction in bug resolution time**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Ruby on Rails** for building and optimizing backend services for a high-traffic e-commerce platform, ensuring performance and scalability to handle over **1 million** users daily.\nImplemented **PostgreSQL** for structured data management and **Redis** for caching solutions, resulting in a **40%** reduction in database read times during peak hours.\nDesigned and executed background job processing using **Sidekiq**, improving task execution times by **25%** and ensuring reliable order processing and fulfillment.\nIntegrated messaging systems like **Kafka** and **RabbitMQ** for real-time data processing, enhancing order updates and inventory management.\nDeveloped RESTful APIs for seamless integration with third-party services, leveraging Agile methodologies to enhance team collaboration and project delivery timelines by **15%**.\nCollaborated with frontend teams to ensure smooth integration with web applications built on **React** and **Vue**, optimizing user interactions with rapid response rates.\nEmployed **Docker** and **Kubernetes** for containerization and orchestration, streamlining the deployment process and ensuring consistent environments across development and production.\nImplemented CI/CD pipelines with **RSpec** for testing, achieving **95%** code coverage and ensuring high-quality releases with minimal bugs.\nUtilized **AWS** and **GCP** for cloud services, ensuring scalability and high availability for critical e-commerce functionalities.\nContributed to enhancing search functionality using **Elasticsearch**, resulting in improved search relevance and user engagement metrics."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript, Ruby\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Ruby on Rails\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), GCP\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure (App Services, Blob, SQL)\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Sidekiq, RSpec, Kafka, RabbitMQ, Elasticsearch, Solr, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Hubstaff"
+}

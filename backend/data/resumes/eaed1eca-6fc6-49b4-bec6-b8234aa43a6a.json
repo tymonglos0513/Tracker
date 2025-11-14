@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As an accomplished Senior Software Engineer with 8 years of experience, I excel in developing cutting-edge solutions utilizing **Python**, **Django**, **Vue.js**, **AWS**, and **Docker**. My proficiency in full-stack development includes frameworks like React and Next.js as well as back-end technologies such as Node.js and FastAPI. I have a robust cloud background with expertise in deploying applications on **AWS**. \nI have successfully led teams in the creation of enterprise-grade platforms, integrating AI/ML for predictive analytics and real-time data processing. My solid understanding of microservices architecture, event-driven systems, and CI/CD automation enables me to deliver secure applications compliant with standards like HIPAA and PCI DSS. Additionally, I possess hands-on experience in developing machine learning pipelines and implementing MLOps workflows with tools such as MLflow and Airflow.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed robust applications using **Python** and **Django**, adhering to industry best practices to deliver highly efficient software solutions.\n- Collaborated with cross-functional teams to implement **Docker** containerization, optimizing deployment processes and ensuring seamless integration across development environments.\n- Designed intuitive user interfaces leveraging **Vue.js** for responsive front-end development, improving user engagement metrics by **25%**.\n- Managed cloud services and resources on **AWS**, ensuring high availability and scalability for applications deployed in production, enhancing system performance by **30%**.\n- Architected distributed systems and microservices, leveraging container orchestration with **Docker** to enhance application performance and reliability.\n- Engaged in code reviews and provided mentorship to junior developers, fostering a collaborative team environment and improving code quality.\n- Developed and maintained CI/CD pipelines, leading to an **improvement in deployment frequency by 40%** with integrated testing and security scans.\n- Implemented best practices for API development, ensuring robust integration with third-party services and cloud functionalities.\n- Conducted performance analysis and stress testing on applications, achieving a **50% reduction in response time** through optimization techniques.\n- Actively participated in project planning and sprint reviews, driving alignment with business goals while adhering to Agile methodologies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Django** to develop and modernize scalable financial platforms utilizing a microservices-based architecture, enhancing throughput for high-volume transaction systems by **40%**.\nDesigned dynamic front-end applications with **Vue.js** and **TypeScript**, employing tools like Tailwind CSS to ensure responsive user interfaces, resulting in improved user satisfaction scores by **25%**.\nEngineered real-time transaction monitoring dashboards with **D3.js** and **Power BI Embedded**, increasing operations teams' efficiency in tracking and analyzing financial activities, ultimately leading to a **30%** reduction in anomaly response times.\nIntegrated messaging services such as Apache Kafka and Azure Service Bus to create a robust event-driven architecture, enhancing asynchronous communication and boosting transaction processing speed by **50%**.\nDeveloped ETL pipelines with **Python**, **Apache Airflow**, and **AWS Data Pipeline**, facilitating efficient data ingestion from internal and third-party sources, reducing data processing time by **35%**.\nImplemented AI/ML algorithms utilizing **scikit-learn** and **Docker** for fraud detection systems, analyzing patterns and flagging suspicious activities with an accuracy rate of **95%**.\nCreated ML pipelines with **MLflow** for credit scoring and churn prediction, seamlessly integrating model inference into backend services to support real-time decision-making processes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Django** to design and optimize scalable backend services for a global e-commerce platform, achieving **99.9%** uptime and handling over **1 million** concurrent users across key modules like checkout and order fulfillment.\nDeveloped highly responsive user interfaces using **Vue.js** and **TypeScript**, resulting in page load times reduced by **40%** and improved user engagement metrics.\nLeveraged AWS for deploying microservices in a **Docker** containerized environment, streamlining application management and scaling processes with **containers** and orchestration tools.\nEngineered real-time order updates leveraging WebSockets and Apache Kafka, ensuring immediate customer notifications and enhancing order accuracy with **95%** precision in updates.\nImplemented caching strategies using Redis for product metadata and session management, decreasing database read times by **70%** and significantly boosting overall application performance.\nDeveloped secure payment workflows integrated with industry standards like Stripe and PayPal, ensuring compliance with PCI-DSS and enhancing transaction security to protect user data.\nCreated automated deployment pipelines in a **Docker** environment, enabling continuous integration and delivery of code changes, which accelerated the release cycle by **30%**.\nEngaged in code reviews and mentorship within the team to uphold best coding practices and knowledge sharing, enhancing team productivity and collaboration.\nExecuted feature flags and blue-green deployments, minimizing deployment risks and achieving seamless user transitions with **0%** downtime during major updates."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tDjango\n\n**Frontend Frameworks:**\n\tVue.js\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, CI/CD & Infrastructure as Code:\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Other:**\n\tJavaScript/TypeScript (React, Angular), MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Jet HR"
+}

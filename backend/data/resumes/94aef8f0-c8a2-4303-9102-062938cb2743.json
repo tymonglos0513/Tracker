@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-driven DevOps Engineer with 8 years of comprehensive experience in implementing CI/CD pipelines and container orchestration using **Docker**, **Kubernetes**, and **Jenkins**. Proficient in infrastructure as code (IaC) with **Terraform** and **AWS CloudFormation**, I streamline development processes and enhance deployment efficiency. Expertise in version control using **Git** and automating workflows with **GitHub Actions** ensures robust and traceable releases.\n\nWith a solid background in cloud services, specializing in **AWS**, I design and maintain scalable, secure, and cost-effective cloud environments. My strong foundation in full-stack development supports collaboration with development teams to build high-performance solutions that comply with rigorous standards. Passionate about integrating innovative technologies into best practices for deployment and operational management.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implemented enterprise-level DevOps pipelines using **GitHub Actions**, **Jenkins**, and **Docker**, ensuring seamless integration and continuous deployment for both web and API services.\n- Designed and maintained infrastructure using **Terraform** and **AWS CloudFormation**, optimizing resource management and scalability across multiple cloud environments.\n- Led CI/CD automation processes using **GitHub Actions** and **Jenkins**, incorporating linting, testing, security scans, and multi-environment deployments, resulting in a reduction of deployment time by **40%**.\n- Managed containerization strategies utilizing **Docker** and orchestration with **Kubernetes (1.21)**, facilitating high availability and fault tolerance for applications in production.\n- Monitored and optimized application performance in cloud environments on **AWS** and **Azure**, achieving a **30%** improvement in response times and reducing downtime incidents.\n- Collaborated closely with development teams to integrate source control with **Git**, enhancing code quality through consistent version control practices.\n- Streamlined application deployments, decreasing deployment failures by **25%** through meticulous CI/CD pipeline design and robust testing strategies.\n- Enhanced operational efficiency by implementing automated scaling policies and resource allocation strategies using **Kubernetes**, resulting in an average cost reduction of **15%** on cloud expenditures.\n- Provided training and mentorship on **Docker**, **Kubernetes**, and CI/CD tools, fostering a culture of continuous improvement and knowledge sharing among teams."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented and managed CI/CD pipelines utilizing **Jenkins**, **GitHub Actions**, and **Docker**, ensuring smooth and efficient deployment processes with a 30% reduction in deployment time.\nAutomated infrastructure provisioning using **Terraform** and **AWS CloudFormation**, leading to a 25% decrease in setup times and maintaining consistent environment configurations across multiple stages.\nOrchestrated containerized applications with **Kubernetes**, improving application scalability and deployment reliability, contributing to a system uptime of 99.9%.\nExecuted version control practices by leveraging **Git**, facilitating team collaboration and code quality maintenance across projects with over **100** contributors.\nEstablished monitoring and alerting systems for cloud environments, utilizing **AWS** tools, resulting in a **40%** increase in incident response times and improved system reliability.\nStreamlined the development workflow by integrating deployment tools with modern CI/CD practices, increasing deployment frequency by **50%**.\nLed training sessions for development teams on best practices for containerization and cloud services, boosting team proficiency in **Docker** and **AWS** by **60%**.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines using **Jenkins**, **GitHub Actions**, and **Docker**, streamlining deployment processes and improving code delivery efficiency by over **30%**.\nManaged infrastructure as code using **Terraform** and **AWS CloudFormation**, ensuring scalable and reproducible infrastructure deployments across multiple environments.\nOptimized container orchestration with **Kubernetes**, enhancing system reliability and uptime, achieving **99.9%** availability for applications.\nAutomated deployment processes across multiple nodes, reducing manual intervention and deployment time by up to **50%**.\nMaintained version control using **Git**, facilitating collaboration within cross-functional teams and ensuring code quality through systematic pull requests and reviews.\nDeveloped monitoring and logging solutions for AWS resources to ensure proactive incident management and response times reduced by **20%**.\nCollaborated with development teams to integrate deployment strategies with **AWS** services, supporting scalability and resource efficiency for application workloads.\nFostered a culture of automation by implementing scripts and tools for repetitive tasks, resulting in enhanced productivity and reduced deployment errors.\nParticipated in capacity planning and performance tuning to analyze usage patterns and forecast system requirements, ensuring optimal resource allocation for peak traffic.\nEnsured compliance with security best practices, including automated scanning and vulnerability assessments, improving overall application security posture."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins\n\n **Cloud & Infrastructure:**\n\tTerraform, AWS CloudFormation, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Certbot"
+}

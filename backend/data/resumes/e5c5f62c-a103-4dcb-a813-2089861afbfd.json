@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Backend Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Backend Engineer with 8 years of experience, I focus on developing high-performance backend solutions utilizing **Java**, **Spring**, **Boot**, and **Postgres**. My expertise includes implementing **Test Driven Development** (TDD) strategies to enhance code quality and efficiency. I have substantial experience with **Kubernetes** and **Docker** for orchestration and containerization, ensuring scalable and robust deployment environments.\n\nIn addition, I possess a strong foundation in data management with databases like **Astra-DB**, **MongoDB**, and **Cassandra**, which supports my ability to create resilient data architectures. My background in finance equips me with domain knowledge to develop solutions that adhere to industry standards, backed by my proficiency in mathematics and Machine Learning.\n\nMy journey in software development has also granted me insights into modern development practices, including microservices architecture and CI/CD automation, allowing me to deliver applications that are secure, compliant, and aligned with best practices.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed high-performance backend solutions utilizing **Java**, **Spring Boot**, and **Postgres**, ensuring robust and scalable financial applications that handle **millions** of transactions daily.\n- Implemented **Test Driven Development (TDD)** practices to enhance code quality and reliability, achieving a **30% reduction** in bugs during the deployment phases.\n- Architected and managed containerized applications using **Docker** and **Kubernetes**, optimizing deployment workflows and achieving high availability in production environments.\n- Designed and implemented efficient data storage solutions using **MongoDB** and **Astra-DB**, ensuring seamless data retrieval and processing for financial analytics and machine learning workloads.\n- Spearheaded the development of machine learning models for use cases such as predictive financial analytics and customer behavior modeling, leveraging advanced **Machine Learning** techniques and frameworks.\n- Collaborated with cross-functional teams to integrate complex mathematics into financial algorithms, enhancing the accuracy and performance of financial tools and dashboards.\n- Led efforts in optimizing cloud architecture with **Docker** and **Kubernetes**, resulting in a **40% improvement** in application deployment times across various environments.\n- Pioneered the use of Continuous Integration/Continuous Deployment (CI/CD) processes, employing **Jenkins** and **GitHub Actions** to streamline development and deployment cycles.\n- Established comprehensive testing strategies utilizing frameworks such as **JUnit** and **Mockito**, ensuring all aspects of the application functionality are covered through unit and integration tests.\n- Understood and applied financial regulations and compliance standards, contributing to the security and integrity of software solutions in adherence to industry regulations."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Spring Boot** to develop and modernize backend services that improved scalability and maintainability for high-volume financial transaction systems, achieving a response time improvement of **30%**.\nEmployed **Postgres** and **MongoDB** to design and optimize database schemas for efficient data storage and retrieval, resulting in a **20%** increase in query performance.\nImplemented **Test Driven Development (TDD)** to ensure high-quality code and reduced bugs in production by **25%**, leading to more reliable financial applications.\nLeveraged **Kubernetes** and **Docker** to containerize applications, enhancing deployment speed and reliability in a cloud-native environment.\nIntegrated various databases including **Cassandra** and **Astra-DB** for handling high-volume transactional data, achieving improved data redundancy and availability.\nApplied **Machine Learning** techniques to analyze financial data and develop predictive models that improved accuracy of churn prediction by **15%** and fraud detection efficiency.\nCollaborated with cross-functional teams in the finance domain, applying **Mathematics** principles to solve complex problems related to data analysis and modeling, enabling actionable insights for finance strategies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed robust backend services utilizing **Java** with **Spring Boot** for a high-performance e-commerce platform, ensuring high availability and scalability across critical business modules.\nEngineered solutions with **Postgres** and leveraged **MongoDB** and **Cassandra** for distributed data management, effectively managing high data loads with an uptime of over **99.9%**.\nImplemented Test Driven Development (TDD) methodologies, resulting in a **30% reduction** in production bugs and ensuring maintainable code quality.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration, improving deployment efficiency and achieving streamlined CI/CD pipelines that reduced deployment times by **40%**.\nDeveloped and optimized machine learning algorithms to enhance customer personalization, utilizing frameworks such as **TensorFlow** to boost conversion rates by **15%**.\nExecuted performance tracking and optimization strategies that improved response times by **50%**, enhancing application speed under high traffic conditions.\nDesigned secure payment processing features integrated with third-party gateways like Stripe and PayPal, ensuring PCI compliance and safeguarding sensitive transaction data.\nIntroduced role-based access control (RBAC) and OAuth 2.0 authentication strategies for secure user management, ensuring GDPR compliance and protecting user privacy.\nCollaborated with cross-functional teams to implement innovative financial models that involved mathematics and finance principles, increasing efficiency in transaction processing."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Java, Ruby\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Spring, Boot\n\n **Frontend Frameworks:**\n\tJavaScript, TypeScript, React, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Astra-DB, Cassandra\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure, Nginx, Certbot\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Test Driven Development, Authentication & Security (Keycloak, RBAC), Finance, Mathematics, Machine Learning",
+  "apply_company": "wealthAPI"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Java Developer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Java Developer with over 10 years of experience in building high-quality backend systems, leveraging **Java**, **Spring Boot**, **Spring Framework**, **Spring Data JPA**, and **Hibernate** to craft robust applications. Expertise in database management using **PostgreSQL** and schema versioning with **Liquibase**. Proficient in CI/CD practices and frameworks like **Gradle** to enhance deployment efficiency. Skilled in incorporating AI solutions within backend services. Demonstrated ability to manage projects with tools like **Jira**, delivering impactful solutions at esteemed companies including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Developer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered robust backend services using **Java** and **Spring Boot** to enhance document automation, user onboarding, and reporting workflows.\nDeveloped scalable solutions with **Spring Framework** and **Hibernate** to efficiently manage database transactions in **PostgreSQL** with **Liquibase** for version control.\nImplemented CI/CD pipelines utilizing **Gradle** to automate testing and deployment processes, ensuring faster release cycles and improved code quality.\nIntegrated AI functionalities to optimize backend processes, enabling smarter decision-making in financial transactions and reporting.\nUtilized **Jira** for project management, tracking progress on over **20** feature enhancements and bug fixes per sprint.\nCollaborated with cross-functional teams, addressing system integration challenges and ensuring compliance with regulatory standards.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Java** and **Spring Boot** to develop robust backend systems, enhancing performance and reliability by **30%**.\nImplemented **Spring Data JPA** and **Hibernate** for efficient database operations with **PostgreSQL**, achieving a **25%** reduction in query response times.\nAutomated deployment processes using **Gradle** and **Liquibase**, ensuring seamless version control and continuous integration with **CI/CD** methodologies.\nCollaborated with cross-functional teams for effective project management through **Jira**, improving task tracking and workflow efficiency by **20%**.\nIncorporated AI strategies to enhance user experience and increase user engagement by **15%** through intuitive interfaces.\nConducted code reviews and implemented best practices within the **Spring Framework**, leading to a **40%** reduction in code defects prior to production deployments."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Java** and **Spring Boot** to develop robust backend services for trade execution, portfolio management, and account tracking, enhancing trading operations.\nEngineered real-time price feed processors leveraging **Spring Framework**, **Spring Data JPA**, and **PostgreSQL** to deliver up-to-the-minute trading data for high-frequency transactions with **99.9%** uptime.\nCollaborated closely with frontend teams to deliver data through REST APIs and WebSocket channels, ensuring smooth user interaction with the platform while employing **CI/CD** to accelerate deployment frequency by **30%**.\nEnsured the platform complied with regulatory requirements, including MiFID II and GDPR, while adhering to internal data security protocols with a focus on reliability.\nImplemented comprehensive test suites using **Liquibase**, **Gradle**, and **PyTest** to streamline QA and CI processes, reducing bugs in production by **40%**.\nIntroduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and process management, significantly improving response times by **25%**."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Java, Python (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\t Spring Boot, Spring Framework, Spring Data JPA, Hibernate, FastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t \n\n**API Technologies**\n\t REST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\t AWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\t PostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\t Docker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\t \n\n**Other**\n\t AI, Jira, Liquibase, Gradle, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, PyTest, Git"
+}

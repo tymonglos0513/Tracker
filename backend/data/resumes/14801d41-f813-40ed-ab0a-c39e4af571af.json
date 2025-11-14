@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior BigData Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Senior BigData Engineer with 10+ years of experience building high-performance software solutions, adept in **Java**, **Python**, and **SQL**. Skilled in leveraging cloud services such as **AWS**, specifically with tools like **Glue**, **LakeFormation**, **S3**, **Kinesis**, **IAM**, and infrastructure as code using **Terraform** and **Helm**. Proven track record of driving projects with Agile methodologies and ensuring effective communication across cross-functional teams.\n\nExpertise in developing cloud-native applications and implementing data engineering solutions that optimize workflows and enhance data accessibility. A strong proponent of best practices in secure and maintainable solution architecture, with extensive experience in compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2.\n\nBrings a solid understanding of microservices and event-driven architectures, coupled with a passion for building systems that deliver meaningful impact.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior BigData Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed scalable data processing solutions leveraging **Python** and **SQL**, focusing on high-performance data ingestion and transformation from diverse sources including **AWS S3**, **Kinesis**, and **Glue** for optimized analytics in big data environments.\n• Implemented and managed secure AWS services using **IAM** for user access control and **LakeFormation** for data governance to ensure compliance with industry standards.\n• Utilized **Terraform** and **Helm** for infrastructure automation and orchestration, improving deployment times by **30%** and reducing manual errors in cloud resource management.\n• Designed and executed ETL processes with **Python** and **AWS Glue**, enabling efficient data flows and accelerating time to insight for large data sets in various formats.\n• Collaborated effectively within Agile teams, ensuring clear communication and alignment on project deliverables, resulting in meeting **95%** of project timelines.\n• Created and maintained documentation and architecture artifacts, facilitating knowledge sharing and onboarding processes within the engineering team.\n• Optimized performance and escalated issues critically in big data pipelines, resulting in a **20%** reduction in processing times for batch jobs over **6 months**.\n• Developed integration and real-time data streaming solutions using **AWS Kinesis**, supporting analytics for transaction data and contents for multiple client applications.\n• Participated in code reviews and mentorship programs, enhancing team capabilities and contributing to an overall improvement in code quality and performance across **80%** of projects."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **SQL** to design and implement robust data ingestion and transformation processes, enhancing data reliability and accessibility across systems.\nDeveloped and maintained data pipelines in **AWS Glue** and **Kinesis**, achieving **95%** uptime for real-time data streaming and processing.\nImplemented security protocols using **AWS IAM** for managing user permissions and access control, ensuring compliance with financial data regulations.\nCollaborated in an **Agile** environment to deliver data solutions on time, contributing to a team efficiency increase of **30%** through enhanced communication and collaboration.\nBuilt and managed data lakes utilizing **AWS LakeFormation**, streamlining data storage and enabling high-performance analytics.\nEmployed **Terraform** for Infrastructure as Code (IaC) implementations, automating provisioning and management of cloud infrastructure, reducing deployment time by **40%**.\nCommunicated technical concepts effectively to stakeholders, ensuring alignment of data engineering solutions with business objectives to drive strategic insights."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** services such as **S3**, **Glue**, and **LakeFormation** for robust data processing and secure data storage, ensuring efficient data ingestion and querying for large datasets.\nDesigned and implemented data pipelines leveraging **Kinesis** for real-time data streaming and processing, enhancing data accessibility and availability across analytics platforms.\nDeveloped ETL processes using **Python** and SQL to transform raw data into valuable insights, contributing to improved decision-making capabilities within the organization.\nApplied **Terraform** for infrastructure as code, streamlining the deployment and management of cloud resources, which led to a **40%** reduction in provisioning time.\nImplemented data access security protocols using **IAM**, ensuring that sensitive data is protected while maintaining user roles and permissions effectively.\nCollaborated with cross-functional teams in an **Agile** environment to gather requirements and deliver data solutions that enhanced operational efficiency by **30%**.\nFacilitated smooth communication of project updates and developments among stakeholders, enhancing collaboration and project alignment.\nCreated documentation and training materials to support team members and foster knowledge sharing regarding data engineering best practices and technologies."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Python\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tNone\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, S3, IAM, Glue, LakeFormation, Kinesis), Azure (App Services, Blob, SQL)\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Redis, Agile, communication",
+  "apply_company": "SoftServe"
+}

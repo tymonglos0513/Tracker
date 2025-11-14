@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Data Engineer with 13+ years of experience in building and optimizing high-performance applications. Expertise in **SQL**, **dbt**, **Airbyte**, **Dagster**, and **Python**, combined with strong version control skills using **Git**, **GitHub**, and **GitLab**. Proficient in containerization and orchestration technologies like **Docker** and **Kubernetes** for efficient deployment of data engineering solutions.\nSkilled in implementing performance optimization strategies, data validation processes, and thorough documentation practices. Acclaimed for delivering AI/ML-powered platforms, leveraging **FastAPI** and **Django** to create data-driven applications that support predictive analytics and automation. Experienced in cloud deployments on **AWS** and **Azure**, and well-versed in compliance-driven development within regulated industries. Strong foundation in MLOps with tools like **MLflow**, **Airflow**, and **Kubeflow** for effective model training and orchestration.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **SQL** for efficient querying and data manipulation, ensuring high performance across data operations in projects.\nEmployed **dbt** for transforming raw data into a structured format, creating clear and documented data models that improved team collaboration and usability.\nIntegrated **Airbyte** for ETL processes, allowing for streamlined data ingestion from multiple sources, simplifying integration and data flow management.\nImplemented **Dagster** for orchestrating data workflows, enhancing the reliability and performance of data pipelines through improved scheduling and monitoring capabilities.\nDeveloped data architecture using **Python** for backend processes, optimizing data handling, processing, and storage, which enabled quick access to large datasets.\nManaged version control and collaboration using **Git**, with repositories hosted on **GitHub** and **GitLab**, facilitating a seamless development experience.\nDeployed containerization and orchestration tools such as **Docker** and **Kubernetes** to create scalable environments, leading to a reduction in deployment times by **40%**.\nParticipated in performance optimization initiatives that resulted in a **20%** improvement in query response times for high-volume datasets.\nConducted thorough data validation practices to ensure accuracy and integrity of datasets used in reporting and analytics, increasing trust and reliability.\nCreated comprehensive documentation for data processes and architecture using markdown standards, contributing to better onboarding and knowledge sharing within teams."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Leveraged **SQL** to optimize data queries, contributing to a performance improvement of up to **30%** in data retrieval times, ensuring efficient access to financial datasets.\n- Designed and implemented data validation processes using **dbt** to ensure high data quality and accuracy, achieving **99.9%** data accuracy across all reports and dashboards.\n- Developed and maintained ETL pipelines using **Airbyte** and **Fivetran** for seamless data integration from various third-party sources, reducing data processing time by **25%**.\n- Utilized **Dagster** to orchestrate data workflows, improving pipeline reliability and maintainability while ensuring timely data delivery for analytics.\n- Managed containerized applications with **Docker** and orchestrated deployments via **Kubernetes**, ensuring streamlined operations and scalability of data processing infrastructure.\n- Collaborated with cross-functional teams to document data processes and architectures in a clear and accessible manner, facilitating knowledge sharing and onboarding new team members.\n- Continuously monitored system performance and identified areas for optimization, achieving significant improvements in data processing efficiencies and reducing latency.\n- Used version control systems (**Git**, **GitHub**, **GitLab**) for managing codebase and collaborating on data projects effectively.\n- Ensured adherence to best practices in data governance and compliance, mitigating risks associated with data handling and storage."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **SQL** to design, implement, and optimize data pipelines for seamless data integration between various sources using **Airbyte**, **Fivetran**, and **Stitch**, ensuring data quality and performance in a global e-commerce context.\nDeveloped data orchestration frameworks using **Dagster** to automate data workflows, significantly improving operational efficiency by up to **30%**.\nImplemented data validation techniques to ensure the integrity and accuracy of datasets, enhancing trust in the analytics processes and reducing errors by around **15%**.\nCollaborated with cross-functional teams to document data processes and workflows, ensuring transparency and compliance, while enhancing onboarding and knowledge sharing.\nEmployed **Python** for backend processing and transformation, ensuring data compatibility and quality across the e-commerce platform's various systems.\nManaged code versioning and collaboration through **Git**, including platforms like **GitHub** and **GitLab**, to maintain an organized workflow for data engineering projects.\nContainerized applications using **Docker** and orchestrated deployments with **Kubernetes**, achieving consistent development and production environments while reducing deployment times by **40%**.\nFocused on performance optimization techniques, monitoring, and fine-tuning SQL queries to enhance data retrieval time, achieving response time improvements of up to **50%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, SQL\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT, Nginx\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, Git, GitHub, GitLab, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, dbt, Airbyte, Dagster, Fivetran, Stitch, performance optimization, data validation, documentation"
+}

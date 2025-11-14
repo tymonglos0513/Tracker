@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Engineer (Back End)",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Results-driven Software Engineer with 13+ years of experience specializing in **JavaScript**, **TypeScript**, and **Microservices**. Proven expertise in building distributed systems and implementing robust backend solutions that enhance observability and monitoring using message brokers like **RabbitMQ**. Skilled in **infrastructure management** and developing applications that ensure high performance and reliability.\nSolid foundation in AI/ML technologies, enabling predictive analytics and automation. Experience in deploying cloud-native systems and integrating CI/CD pipelines, ensuring seamless software delivery. Known for compliance-driven development, effectively aligning solutions with industry standards. Strong collaborative approach, bridging gaps between technical challenges and business solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer (Back End)",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **TypeScript** and **JavaScript** to develop scalable backend solutions, ensuring optimized performance in distributed systems for healthcare and fintech applications.\nImplemented microservices architecture, facilitating communication via **RabbitMQ** for effective message brokering, which improved system observability and monitoring.\nManaged and maintained robust infrastructure, leveraging tools and practices to ensure high availability and reliability throughout development and production environments.\nDesigned and executed observability strategies, providing comprehensive monitoring solutions that support real-time analytics and insights into application performance.\nCollaborated on integration projects utilizing **PHP** to connect with various data sources and enhance service functionalities in the system.\nLed a team to refine backend processes by incorporating advanced message brokering with **RabbitMQ**, increasing message processing efficiency by **25%**.\nDeveloped solutions that enhanced system scalability, contributing to the deployment of over **20 microservices** within the application ecosystem.\nImplemented a thorough testing strategy to cover unit and integration tests using frameworks such as Jest and Cypress, achieving a test coverage of **95%** across the backend systems.\nEnhanced database interactions using techniques that improved query performance by up to **30%**, ensuring efficient data handling for high-volume transactions.\nManaged and responded to infrastructure monitoring alerts effectively, leading to a reduction of operational downtimes by **15%** annually."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Utilized **TypeScript** for building scalable and maintainable back-end applications within a microservices architecture, leading to a 30% increase in deployment speed.\n- Implemented **RabbitMQ** as a message broker for efficient asynchronous communication across distributed systems, enhancing system reliability and responsiveness by 25%.\n- Developed observability solutions to monitor application performance and ensure high uptime, resulting in a 15% reduction in incident response time.\n- Collaborated on infrastructure management to support the development and deployment of services in a cloud-native environment, improving resource utilization by 20%.\n- Participated in the design and implementation of distributed systems that handle high-volume transactions, achieving a throughput of over **5,000** transactions per second.\n- Authored and maintained comprehensive documentation to facilitate onboarding and knowledge sharing within the engineering team, improving team efficiency by 10%.\n- Conducted code reviews and provided mentorship to junior developers, contributing to skill development and improving overall code quality across the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **TypeScript** and **JavaScript** to design and optimize microservices architectures for backend solutions, ensuring robust performance for high-traffic e-commerce workflows.\nImplemented observability and monitoring practices using **RabbitMQ** for effective message brokering within distributed systems, achieving 99.9% uptime in service delivery.\nEngineered secure and scalable backend services utilizing PHP to provide high availability, low latency, and seamless user experiences across critical modules like checkout and order management.\nLeveraged containerization strategies for infrastructure management, employing **Docker** and **Kubernetes** to ensure consistent deployments across various environments, achieving up to **30%** reduction in deployment times.\nIntegrated message brokers for real-time order updates and customer support, enhancing application responsiveness and operational efficiency.\nDesigned systems with built-in observability, facilitating proactive monitoring and issue resolution, thereby decreasing incident response times by **40%**.\nCollaborated with frontend teams to align backend services with user interface functionalities, ensuring seamless integration and performance optimization on both web and mobile platforms.\nConducted performance tuning and optimizations resulting in **25%** faster data retrieval and processing through strategic use of caching techniques.\nAssisted in the development of disaster recovery plans, focused on maintaining system integrity and availability in the face of unexpected failures, ensuring that recovery time objectives (RTO) were consistently met within **2 hours**."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tTypeScript, JavaScript, PHP\n\n**Backend Frameworks:**\n\tPython: FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tRabbitMQ\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tInfrastructure management\n\n**Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot\n\tMicroservices, Observability, Monitoring, Message brokers, Distributed systems"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a proficient Software Engineer with 8 years of experience, I excel in leveraging **Python** for developing high-performance solutions within the cloud landscape, specifically utilizing **AWS** and **Azure** services. My technical prowess extends into **Machine Learning**, where I have successfully designed and implemented ML pipelines, ensuring effective model deployment in production environments.\nMy background in full-stack development is robust, equipped with knowledge in modern frameworks such as **React**, **Next.js**, **Vue**, and **Node.js**. I focus on building scalable applications supported by a strong foundation in database management and cloud architecture. I have demonstrated a clear ability to enhance enterprise systems by integrating AI solutions for data analytics and intelligent automation.\nAdditionally, I am experienced with microservices architecture and CI/CD automation, which enables me to develop secure applications compliant with standards including HIPAA and PCI DSS. With a commitment to continuous improvement, I embrace the latest technologies and methodologies to drive project success.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** extensively for back-end development and machine learning model implementations, ensuring robust application performance and data analytics.\nDeveloped and maintained applications on **AWS** and **Azure**, leveraging cloud services for deployment and scalability, significantly enhancing overall system efficiency.\nDesigned and optimized database solutions using **PostgreSQL** and **MongoDB**, facilitating efficient data storage and retrieval for large-scale healthcare and financial applications, achieving data query performance improvements by **30%**.\nIntegrated machine learning frameworks such as **TensorFlow** and **scikit-learn** into applications for predictive analytics, improving patient risk assessment accuracy by **15%**.\nDeployed cloud-native architectures across **GCP** and **AWS**, focusing on serverless solutions which reduced operational costs by **20%** while increasing service availability.\nArchitected advanced data pipelines for machine learning model training and deployment, employing tools like **MLflow** and **Apache Airflow**, ensuring model versioning and continuous integration, reducing deployment time by **40%**.\nImplemented comprehensive enterprise DevOps strategies using CI/CD pipelines on **Azure DevOps** and **GitHub Actions**, automating testing and deployment processes to enhance software reliability.\nContributed to cross-functional teams to develop API integrations, creating scalable solutions and achieving responsiveness improvements in service delivery by **25%**.\nEngaged with data scientists to incorporate machine learning features into applications, implementing AI-driven functionalities that enhanced user interactions in healthcare and financial domains.\nLed the enhancement of database infrastructures to support new features and workloads, contributing to system resiliency and peak time handling capacity improvements of up to **50%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** for developing scalable and maintainable financial platforms aligned with modern architecture patterns, focusing on **Machine Learning** techniques for improved data insights and fraud detection.\nLeveraged **Azure** services for building and orchestrating ETL pipelines, ensuring efficient batch and real-time data ingestion from internal and third-party financial sources, resulting in a 30% reduction in data processing time.\nImplemented sophisticated **Machine Learning** models for fraud detection, achieving a **95% accuracy** rate in anomaly detection, thus enhancing security protocols within banking systems.\nIntegrated various cloud services including **Azure**, **GCP**, and **AWS** to build a resilient application infrastructure capable of handling a 50% increase in user transactions during peak times.\nDeveloped real-time analytics dashboards using **Power BI Embedded** and **React** for operations teams to visualize financial activities, cutting down report generation time by **40%**.\nExecuted a microservices-based architecture using **Node.js** and **Python**, which increased system throughput by **70%**, thus ensuring a seamless experience for high-volume transaction scenarios.\nDesigned user-engaging front-end applications with **React** (18) and **Next.js**, ensuring responsive design and performance optimization in line with user-focused metrics, promoting overall application usage by **25%**.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** in conjunction with **GCP**, **AWS**, and **Azure** to design and optimize robust backend services for a global e-commerce platform, maintaining high availability across **9** key modules including checkout, cart, and order fulfillment.\nEngineered real-time features leveraging **Machine Learning** techniques with frameworks such as Kafka and RabbitMQ, achieving responsive order updates and improved user engagement metrics by **30%**.\nDeveloped scalable and maintainable applications utilizing **Python**, while ensuring optimal database integrations with **PostgreSQL** and **MongoDB**, supporting high-traffic scenarios with a fault tolerance of **99.9%**.\nImplemented cloud storage solutions to enhance data caching strategies, using **Redis** effectively to improve access speed, increasing overall application responsiveness by **25%**.\nEngaged in continuous learning of **Machine Learning** algorithms, deploying models built with **TensorFlow** to personalize experiences, which resulted in a **15%** increase in conversion rates derived from user interactions.\nCollaborated with cross-functional teams to implement deployed features via controlled rollouts in **Kubernetes**, thus reducing risks during major updates by enhancing the deployment success rate by **40%**.\nBuilt secure payment processing solutions integrating **Stripe**, **PayPal**, and **Razorpay**, complying with PCI standards, effectively managing transactions for over **10,000** daily users.\nEnsured security measures like role-based access control (RBAC) utilizing OAuth 2.0, maintaining full compliance with GDPR standards, safeguarding user data across the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, Cloud\n\n**Other:**\n\tMachine Learning, MLflow, Airflow, Kubeflow, Authentication & Security (Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot)"
+}

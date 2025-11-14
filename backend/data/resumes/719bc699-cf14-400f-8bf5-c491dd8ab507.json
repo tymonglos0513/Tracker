@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Lead Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Lead Software Engineer with 13+ years of experience in delivering high-performance applications in the healthcare and financial sectors. Expert in **Java**, **Spring Boot**, **Python**, and **Microservices**, with a robust understanding of **Cloud Platforms** including **AWS**, **Azure**, and **GCP**. Proven track record in implementing **CI/CD** practices, utilizing **Docker** and **Kubernetes** to enhance development workflows.\n\nProficient in Agile methodologies and TDD, with a focus on Automated Testing using tools such as **Jest** and **JUnit**. Strong background in Software Architecture and Infrastructure as Code to ensure highly maintainable and scalable solutions. Demonstrated leadership in fostering communication within development teams and driving project success.\n\nSkilled in building AI/ML-powered platforms that include predictive analytics and automation, with hands-on experience in deploying cloud-native systems and implementing event-driven architectures. Committed to compliance-driven development, ensuring alignment with standards such as HIPAA, FHIR, PCI DSS, and SOC 2.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Lead Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Led the design and development of robust microservices architectures using **Java** (Spring Boot) and **Python**, ensuring performance and scalability of applications.\n• Established CI/CD processes utilizing **Docker**, **Kubernetes**, and cloud platforms like **AWS**, **Azure**, and **GCP** to achieve continuous integration and delivery.\n• Developed high-performance applications utilizing Agile methodologies, deploying over **10** completed sprints successfully by prioritizing team collaboration and effective communication.\n• Implemented automated testing frameworks with **Jest**, **JUnit**, and TDD practices to enhance code quality, achieving a **95%** test coverage across microservices.\n• Managed infrastructure as code by utilizing Terraform and CloudFormation for **75%** of the deployment process, improving deployment consistency and reducing time to market.\n• Demonstrated leadership by guiding a team of **12** engineers, promoting best practices in software architecture and collaborative development.\n• Designed and built full-stack platforms for healthcare and fintech using **Python** (FastAPI), **TypeScript**, and **Node.js**, paired with modern front-end frameworks like **React** (17–18), **Next.js**, and **Vue 3**.\n• Created and maintained data architecture systems using **PostgreSQL**, **MongoDB**, and **Redis** to support high data volume analytics with optimized query performance for within a **300ms** response time.\n• Developed and integrated real-time analytics capabilities in applications using **TensorFlow** and **scikit-learn** for ML models with seamless hosting on **AWS Lambda** and **Azure Functions**.\n• Pioneered the integration of intelligent features in applications, including personalized dashboards and predictive alerts, leveraging AI models hosted on **AWS Sagemaker** and **Azure ML**.\n• Collaborated with cross-functional teams to enhance system reliability and performance through effective communication and knowledge sharing, resulting in reduced incident response time by **40%**.\n• Spearheaded the development of advanced data visualization tools using **D3.js** and **Power BI** to enable multi-dimensional analysis of operational KPIs.\n• Integrated search capabilities with **Azure Cognitive Search** and **Elasticsearch**, facilitating fast and scalable querying of health and finance databases."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Led the modernization of core financial platforms by transitioning to microservices architecture using **Java** (Spring Boot) and **Python** (FastAPI, Django), significantly enhancing system scalability and performance for high-volume transactions.\n• Employed best practices in **DevOps** and **CI/CD** processes to manage deployments, utilizing **Docker** and **Kubernetes** for container orchestration, reducing deployment times by **40%**.\n• Designed and developed solutions on **AWS**, **Azure**, and **GCP** cloud platforms to optimize application performance and reliability.\n• Utilized Agile methodologies to improve team collaboration, delivering features at a rate of **3** sprints per month, while incorporating **TDD** practices to ensure code quality.\n• Developed complex ETL pipelines for ingesting financial data using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing to handle over **5000** transactions per minute.\n• Implemented robust testing strategies with **JUnit** and **Jest** for automated testing, achieving **95%** code coverage across critical components.\n• Built and deployed machine learning models for fraud detection, leveraging **scikit-learn** and **XGBoost** within **Azure ML** to enhance user transaction security based on behavioral patterns.\n• Facilitated communication and led team meetings to align on project goals, utilizing effective team leadership to foster an environment of open dialogue and collaboration."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Led software architecture and development of microservices-based applications using **Java (Spring Boot)** and **Python**, ensuring robust, scalable solutions on cloud platforms including **AWS**, **Azure**, and **GCP**.\nImplemented CI/CD pipelines utilizing **Docker** and **Kubernetes**, ensuring smooth deployments and enhancing team productivity through automated testing and continuous integration practices.\nFostered Agile methodologies to facilitate team collaboration and communication, driving high-quality software delivery through TDD and best practices in DevOps.\nOptimized application performance by introducing infrastructure as code practices, leveraging tools for automated provisioning and configuration management.\nMentored and guided a team of developers, enhancing their coding skills and introducing software design patterns to improve code maintainability and readability.\nDeveloped and implemented RESTful APIs and backend services, ensuring adherence to feature specifications and project timelines, with an emphasis on code quality and efficiency.\nApplied Agile methodology to lead project sprints, resulting in a **30%** increase in delivery speed and improved adherence to project goals.\nManaged cross-functional communication to align product features with business objectives, achieving a **15%** improvement in customer satisfaction rates through enhanced user experiences.\nUtilized **JUnit** and **Jest** for automated testing practices, ensuring both frontend and backend components met quality standards before deployment, reducing post-production issues by **40%**.\nDemonstrated effective leadership and communication skills by facilitating team meetings and project status updates, contributing to a cohesive and motivated work environment."
+    }
+  ],
+  "skills": "Programming Languages:\n\tJava, Python\n\nBackend Frameworks:\n\tSpring Boot, FastAPI, Flask, Django\n\nFrontend Frameworks:\n\tJavaScript/TypeScript: React, Vue, Angular\n\nAPI Technologies:\n\tMicroservices, Keycloak (OIDC, RBAC), OAuth2, JWT\n\nServerless and Cloud Functions:\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database, GCP\n\nDatabases:\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\nDevOps:\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\nCloud & Infrastructure:\n\tCloud Platforms, Infrastructure as Code, Automated Testing\n\nOther:\n\tAgile, TDD, Software Architecture, Communication, Team Leadership, MLflow, Airflow, Kubeflow, Nginx, Let’s Encrypt, Certbot, Jest, JUnit"
+}

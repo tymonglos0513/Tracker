@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Backend Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Backend Engineer with 10+ years of experience in developing high-performance, scalable software solutions, specifically in the ad tech domain. Expertise in **microservices architecture** and **system design**, with a strong focus on **cloud** technologies including **Azure** and **AWS**. Proficient in ensuring optimal functionality through **high-performance databases** and **caching systems**, leveraging best practices in data structures and algorithms. Demonstrated ability in conducting thorough **code reviews** to maintain code quality. Well-versed in real-time bidding systems and developing reliable structures that enhance performance and efficiency. Additionally, brings hands-on experience with **JavaScript/TypeScript**, **Python**, **React**, **Node.js**, and cloud-native applications, paired with a strong background in deploying solutions that meet compliance standards, including HIPAA and PCI DSS. Passionate about leveraging technology to create impactful systems.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tLeveraged **microservices** architecture to redesign and implement scalable backend solutions for healthcare and finance, ensuring high-performance and fault tolerance using **Docker** and **Kubernetes** (AKS/EKS).\n•\tIntegrated real-time bidding systems and advanced **caching systems** to optimize data processing and delivery, enhancing user experiences with swift, IT-compliant responses.\n•\tDesigned and maintained **cloud**-native solutions with **AWS Lambda** and **Azure Functions**, improving operational efficiency by delivering high availability and scalable infrastructure.\n•\tDeveloped high-performance databases utilizing **PostgreSQL**, **MongoDB**, and **Redis** for seamless data storage, ingestion, and querying, handling thousands of transactions daily in compliance with industry standards.\n•\tConducted thorough code reviews and system design evaluations, employing data structures and algorithms to enhance performance and reliability across all projects.\n•\tCollaborated with cross-functional teams, integrating **Real-time** data sharing through advanced APIs while ensuring rigorous adherence to regulatory frameworks such as HIPAA and PCI DSS.\n•\tDesigned and deployed machine learning models using **Python** (scikit-learn, TensorFlow) for financial fraud detection, achieving an accuracy rate of over 90% in real-time scenarios.\n•\tOptimized deployment pipelines incorporating CI/CD strategies with **GitHub Actions** and **Azure DevOps**, allowing multi-environment deployments and reducing deployment times by 30%.\n•\tUtilized **ElasticSearch** and **Azure Cognitive Search** to enhance search capabilities across massive datasets, improving search speeds by 50% for both structured and unstructured data.\n•\tEnhanced product support for healthcare applications by applying system design principles, improving response times to critical data queries by 25%."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Designed and implemented **microservices** architecture using **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, enhancing system design for a **high-volume transaction system**.\n• Optimized data handling and caching systems to boost application performance, increasing throughput for financial operations by over **50%**.\n• Conducted extensive code reviews to enforce best practices and ensure maintainable, scalable code across the team.\n• Collaborated on real-time bidding strategies leveraging **Kafka, RabbitMQ**, and **Azure Service Bus** to support event-driven architecture and improve response times by **30%**.\n• Developed high-performance databases and implemented data structures and algorithms to optimize data retrieval and storage for transaction monitoring.\n• Created user-focused APIs and backend services that support dynamic front-end applications built with **React (18)** and **Next.js**, ensuring seamless integration and user experience.\n• Led the development of ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory**, processing over **1 million** financial records daily for analytics and reporting.\n• Integrated **AI/ML** capabilities using **scikit-learn** and **XGBoost** for fraud detection, improving anomaly detection rates by **25%** within banking transactions.\n• Established and maintained documentation and technical specifications to facilitate ongoing development in **ad tech** projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Designed and optimized **microservices** for a global e-commerce platform using **Python** (**FastAPI**, **Django**) and **Node.js** (**NestJS**, **Express**), ensuring high availability, low latency, and scalability across key modules like checkout and order fulfillment, handling over **5000** transactions per minute.\nEngineered real-time bidding features using **WebSockets**, **Kafka**, and **RabbitMQ**, enabling responsive order updates and dynamic inventory tracking with latency under **100ms**.\nDeveloped high-performance applications using **React** (**18**), **Vue 3**, and **Angular**, enhanced with **TypeScript**, **Redux Toolkit**, and **Tailwind CSS**, delivering fast, responsive user experiences on both web and mobile platforms, achieving a **95%** user satisfaction score.\nLeveraged high-performance databases such as **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data storage, ensuring fast, fault-tolerant data access for high-traffic e-commerce workflows, with caching solutions improving response times by over **30%**.\nImplemented advanced caching systems using **Redis** for product metadata and shopping cart sessions, significantly improving application responsiveness and reducing database read pressure by **40%**.\nConducted rigorous code reviews and adhered to system design best practices, enhancing code quality and maintainability; reducing average bug counts in production by **25%**.\nImplemented feature flags and blue-green deployments using **LaunchDarkly** and **Kubernetes** namespaces, facilitating controlled rollouts and A/B testing for major platform updates.\nBuilt secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, ensuring PCI-compliant handling of sensitive data and processing millions in transactions annually.\nApplied role-based access control (**RBAC**) and **OAuth 2.0** for secure customer and admin access, ensuring GDPR compliance and robust user data protection throughout the platform."
+    }
+  ],
+  "skills": " **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tNginx, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, high-performance databases\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tcloud\n\n **Other:**\n\tmicroservices, real-time bidding, caching systems, system design, data structures, algorithms, code reviews, ad tech, MLflow, Airflow, Kubeflow",
+  "apply_company": "HTS Media"
+}

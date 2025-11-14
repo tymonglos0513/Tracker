@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior ML Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior ML Engineer with 13+ years of experience in developing high-performance applications within healthcare and financial sectors. Expertise in **PyTorch**, **TorchVision**, **OpenCV**, and **Pillow** for advanced machine learning model development and image processing. Proficient in deploying solutions on **AWS** along with experience in containerization using **Docker** and orchestration with **Kubernetes**. Skilled in building AI/ML-powered platforms, integrating **FastAPI** for backend services, and leveraging ML workflows with **ZenML**.\nStrong background in MLOps, focusing on model training, serving, and orchestration using **MLflow**, **Airflow**, and **Kubeflow**. Experienced in creating monitoring solutions with **Prometheus**, **Grafana**, and **OpenTelemetry**. Well-versed in implementing microservices and CI/CD pipelines, while ensuring compliance with industry standards, including HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Leveraged **PyTorch** and **TorchVision** to develop and deploy advanced Machine Learning models for risk scoring and fraud detection in high-volume financial datasets.\nUtilized **AWS** services for model deployment and scalability, ensuring rapid integration with existing architectures using **Docker** and **Kubernetes** (versions 1.20 and higher) for consistently reliable performance.\nDesigned CI/CD pipelines optimizing ML workflows with **AWS CDK**, ensuring automated and secure deployments across development and production environments.\nImplemented data preprocessing and augmentation processes with **OpenCV** and **Pillow**, supporting model training with robust, high-quality images to improve accuracy by **20%**.\nSet up monitoring and observability for machine learning services using **Prometheus**, **Grafana**, and **OpenTelemetry**, leading to proactive system health checks and improved application reliability.\nCollaborated with cross-functional teams to integrate ML solutions into full-stack applications, using **FastAPI** for RESTful APIs, enabling real-time data ingestion and analysis for both healthcare and finance sectors.\nDeveloped interactive visualizations and performance dashboards powered by **Grafana**, achieving enhanced insights into operational KPIs and model performance guarantees.\nMentored junior engineers in deploying and managing machine learning solutions with container orchestration tools and cloud services, promoting best practices across the team.\nConducted experiments with **ZenML** to streamline ML workflow management, achieving a **15%** reduction in model training time by optimizing the hyperparameter tuning processes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and optimized machine learning models using **PyTorch** and **TorchVision** for complex image processing tasks, ensuring high accuracy and efficiency in predictive analytics.\nUtilized **OpenCV** for real-time computer vision applications, enhancing model performance and delivering robust visual insights.\nManaged containerized environments with **Docker** and **Kubernetes**, achieving seamless deployment across **AWS** infrastructure and improving system scalability by **150%**.\nImplemented monitoring solutions with **Prometheus** and **Grafana**, ensuring operational visibility and system health across all deployed models and services.\nDesigned and built ML pipelines leveraging **ZenML** for reproducible workflows, facilitating collaboration across data science teams while reducing deployment time by **30%**.\nDeployed high-performance APIs with **FastAPI**, supporting real-time inference and integration into production environments.\nEmployed **AWS CDK** for infrastructure as code, streamlining resource management and infrastructure provisioning with a focus on security best practices.\nConducted comprehensive data processing tasks using **Pillow** to preprocess images, enhancing data quality for model training.\nAchieved **99.9%** uptime in production deployments by ensuring reliable architecture and rapid incident response using **OpenTelemetry** for distributed tracing."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged **AWS** cloud services for deploying scalable machine learning solutions, ensuring high availability and resilience in production environments.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration, enabling seamless scaling and management of microservices within the ML architecture.\nDeveloped and optimized machine learning models using **PyTorch** and **TorchVision**, reaching an accuracy rate of **95%** in image classification tasks.\nImplemented data preprocessing and augmentation techniques with **OpenCV** and **Pillow**, reducing model training time by **30%** and improving performance on diverse datasets.\nDesigned effective monitoring and logging systems with **Prometheus**, **Grafana**, and **OpenTelemetry** for tracking model performance and system health in real-time.\nAdopted **ZenML** for creating and managing reproducible ML pipelines, reducing the time required for model deployment by **25%**.\nCollaborated cross-functionally to integrate ML models into production systems, ensuring seamless interaction with existing backend services built on **FastAPI**.\nCreated responsive user interfaces for ML features utilizing **React** and **Next.js**, enhancing user engagement and platform usability.\nImplemented robust testing and validation procedures for models, ensuring compliance with best practices and reducing deployment errors to less than **1%**.\nEnsured adherence to data privacy regulations by applying role-based access control (RBAC) and secure API practices, achieving GDPR compliance in data handling."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tOpenTelemetry\n\n**Serverless and Cloud Functions:**\n\tAWS Lambda\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, AWS CDK, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, PyTorch, TorchVision, OpenCV, Pillow, Prometheus, Grafana, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "celebrate company"
+}

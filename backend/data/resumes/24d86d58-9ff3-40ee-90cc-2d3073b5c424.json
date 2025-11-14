@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior DevOps Engineer with 13+ years of experience in delivering high-performance applications in the healthcare and financial sectors. Expert in implementing **CI/CD** pipelines using **Jenkins** and **Docker**, as well as managing cloud infrastructure with **Terraform** and **GCP**. Skilled in deploying and orchestrating applications within **Kubernetes** environments, alongside managing databases such as **SQL**, **Redis**, and **MongoDB**. Proficient in **Linux** and **Bash** scripting, enhancing system performance and automation.\n\nDemonstrated proficiency in **Python** development, with a robust background in AI/ML-powered platforms that support predictive analytics and real-time processing. Strong understanding of incident management and monitoring strategies using **Grafana**. Committed to compliance-driven development aligning with industry standards such as HIPAA and PCI DSS. Experienced in Agile methodologies to drive effective project delivery.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Employed **Terraform** for infrastructure as code to provision and manage resources on **GCP**, ensuring an automated and repeatable setup across multiple environments.\nImplemented robust **CI/CD** pipelines utilizing **Jenkins** for seamless integration and deployment processes, achieving a reduction in release times by **30%**.\nManaged container orchestration using **Kubernetes** and **Docker** to ensure efficient scaling and management of applications, supporting deployments with zero downtime on production environments.\nMonitored system performance using **Grafana** for visualization and incident management, promptly addressing issues to maintain operational efficiency at all times.\nAdministered databases such as **MongoDB** and **Redis**, optimizing performance and ensuring data integrity while supporting dynamic web applications.\nDesigned and executed scripts in **Bash** and **Python** for automation tasks, contributing to streamlined operations and reduced manual intervention by **40%**.\nCollaborated in an **Agile** environment, participating in scrum meetings and sprint planning, ensuring alignment with business objectives and timely project delivery.\nDeveloped and maintained comprehensive documentation for workflows and incident management processes, enabling knowledge transfer and continuity across the engineering team.\nConducted regular system audits and vulnerability assessments to enhance security, resulting in a **20%** reduction in security incident reports over the last year.\nLed initiatives for monitoring and incident responses within the infrastructure, ensuring systems were resilient and capable of recovery with minimal service disruption."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented Infrastructure as Code using **Terraform** to provision and manage cloud resources on **GCP**, ensuring scalable and secure environments for applications.\nStreamlined containerization and orchestration of applications with **Docker** and **Kubernetes**, achieving a **40%** increase in deployment efficiency and a reduction in environment discrepancies.\nEstablished continuous integration and continuous deployment (**CI/CD**) pipelines using **Jenkins**, enhancing code quality and reducing deployment time from **3 days** to **1 hour**.\nManaged databases including **SQL**, **MongoDB**, and **Redis**, optimizing queries that resulted in a **25%** improvement in application response times.\nLeveraged **Linux** command-line tools and **Bash** scripting for automation tasks, reducing the operational overhead for routine system maintenance.\nImplemented comprehensive monitoring solutions using **Grafana**, ensuring all critical systems are monitored for performance and uptime, resulting in a **30%** reduction in incident response times.\nConducted Incident Management practices to swiftly address and resolve system outages or degraded performance issues, meeting **99.9%** uptime SLA.\nCollaborated with cross-functional teams in an **Agile** environment to deliver high-quality software solutions aligned with customer requirements and organizational objectives."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Google Cloud Platform (GCP)** to architect and deploy scalable cloud infrastructure, significantly enhancing system uptime by **30%**.\nImplemented **Terraform** for infrastructure as code, reducing deployment times by **40%** and ensuring consistent environment setups.\nManaged and orchestrated containerized applications using **Kubernetes** and **Docker**, ensuring automated deployment and scaling processes.\nDeveloped and maintained CI/CD pipelines with **Jenkins**, enhancing the development lifecycle and reducing integration issues with a **50%** decrease in deployment errors.\nMonitored system performance and application health using **Grafana**, enabling rapid incident response and resolution processes, improving service reliability.\nExecuted **SQL**, **Redis**, and **MongoDB** optimizations leading to faster database queries and processing times by **20%** in production environments.\nImplemented robust incident management strategies to ensure minimal disruption, participating in **Agile** teams to prioritize and manage development tasks efficiently.\nScripting and automating tasks using **Bash**, improving operational efficiency and decreasing manual workloads by **35%**.\nAdvocated for and enforced best practices in **Linux** system administration, enhancing system security and performance during operations.\nLed cross-functional teams in an **Agile** framework, driving collaborative efforts that resulted in improved project delivery times by **25%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript\n\tReact\n\tVue\n\tAngular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC)\n\tOAuth2\n\tJWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\tGCP\n\n**Databases:**\n\tPostgreSQL\n\tMySQL\n\tMongoDB\n\tRedis\n\n**DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tJenkins\n\tCI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: ECS\n\tAWS: RDS\n\tAzure: App Services\n\tAzure: Blob Storage\n\tAzure: SQL Database\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n**Other:**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tLinux\n\tBash\n\tGrafana\n\tIncident Management\n\tAgile\n\tMonitoring",
+  "apply_company": "Digital Science"
+}

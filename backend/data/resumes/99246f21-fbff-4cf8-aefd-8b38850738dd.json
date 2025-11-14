@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Results-driven Software Developer with 13+ years of experience and a strong focus on delivering high-performance applications. Proficient in **Python**, with solid skills in **SQL** and **VBA** for backend development. Experienced in deploying cloud-native systems on **AWS** and **Azure**, utilizing CI/CD practices through **GitHub** for streamlined workflows. Skilled in orchestrating data workflows using **Airflow** and implementing data transformation with **dbt**. Adept at big data processing using **Spark**.\n\nPossess strong problem-solving and communication skills, ensuring compliance-driven development and aligning solutions with industry standards. A proven track record in developing robust applications across healthcare and financial sectors, leveraging modern frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Well-versed in building and integrating AI/ML capabilities with hands-on experience in MLOps, including model training and orchestration with **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** for backend development, ensuring robust and efficient algorithms while leveraging **SQL** for optimal data querying and management.\nDeveloped and maintained CI/CD pipelines using **GitHub Actions** and **Azure DevOps**, enabling effective deployment workflows and integration tests across environments.\nApplied **AWS** and **Azure** services to architect scalable solutions, enhancing application performance and ensuring reliability in deployments.\nImplemented data transformation strategies utilizing **dbt** and **Airflow**, streamlining data workflows for analytics and reporting.\nCollaborated with cross-functional teams to optimize system performance, employing **problem-solving** skills to troubleshoot complex issues and communicate effectively with stakeholders.\nBuilt advanced data processing workflows using **Spark**, enabling efficient handling of large datasets across various projects.\nLeveraged **VBA** for automating repetitive tasks and enhancing reporting mechanisms, contributing to increased productivity within the team.\nEmphasized on the importance of robust testing strategies and version control for maintaining code quality and minimizing deployment-related issues.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** for developing ETL pipelines, enabling the extraction, transformation, and loading of financial data from internal and third-party sources using **Apache Airflow** and **Azure Data Factory** for both batch and real-time processing.\nDeveloped scalable microservices using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), improving the overall performance and reliability of high-volume transactional systems.\nImplemented CI/CD processes to enhance software delivery efficiency, utilizing **GitHub** for version control and collaboration, achieving a **40%** reduction in deployment time.\nExecuted data analysis using **SQL** to support decision-making in financial strategies, processes, and on product offerings, increasing data accessibility by **30%** among teams.\nCreated interactive front-end applications with **React** (18), **Vue 3**, and **Next.js**, employing **TypeScript**, **Redux Toolkit**, and **Tailwind CSS** to ensure responsive design and user engagement in financial tools.\nDesigned real-time analytics dashboards integrating **D3.js** and **Power BI Embedded**, delivering instant insights into transactions and anomalies, leading to a **25%** increase in the speed of data-driven decisions.\nBuilt a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus** for asynchronous communication across critical workflows like payments and compliance, improving system responsiveness.\nDrove the development of machine learning models for fraud detection utilizing **scikit-learn**, **XGBoost**, and **Azure ML**, enhancing security by proactively identifying suspicious activities based on user behavior, which resulted in a **15%** decrease in fraud incidents.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification with **MLflow** and **Airflow**, facilitating better customer insights and automating critical analytics processes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized backend services using **Python** (FastAPI, Django) and maintained efficient databases through **SQL**, ensuring high performance and scalability for user-driven applications.\n• Implemented CI/CD strategies to automate deployment processes using **GitHub**, enhancing the team's ability to rapidly deliver features and fixes with a focus on reducing deployment times by over **30%**.\n• Utilized **AWS** and **Azure** cloud services for scalable application hosting and data storage solutions, achieving a system uptime of **99.9%**.\n• Collaborated across teams to solve complex technical problems, enhancing product functionality and streamlining communication processes within the development team.\n• Employed **Airflow** for orchestrating workflows and scheduling ETL processes, optimizing operational efficiencies and data pipeline management.\n• Executed data transformation strategies using **dbt** and big data processing with **Spark**, improving data processing speeds by **25%**.\n• Applied debugging techniques with strong problem-solving skills, addressing issues proactively to maintain high-quality coding standards.\n• Fostered communication with cross-functional teams to ensure alignment on project goals and timelines, leading to successful project delivery.\n• Participated in code reviews, enhancing the team’s coding practices and sharing knowledge of best practices in software development."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, SQL, VBA\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tOAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tCI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, dbt, Spark, problem-solving, communication"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Python Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Seasoned Senior Python Engineer with 9+ years of experience in developing and implementing scalable applications using **Python**, **Flask**, **FastAPI**, **Django**, and various cloud technologies including **AWS**. Proficient in database management with **MongoDB** and **PostgreSQL**, and containerization using **Docker** and **Kubernetes**. Demonstrated expertise in microservices architecture and continuous delivery methodologies, employing tools such as **Terraform** for infrastructure as code and **Git** for version control. Recognized for delivering robust solutions and optimizing performance in development processes. Strong collaborative skills with experience in leading projects and using tools like **JIRA**, **Confluence**, **Slack**, and **Miro** for effective team communication and planning. Committed to adopting best practices in automated testing and monitoring using **Grafana**, **ELK Stack**, and **New Relic**.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Utilized **Python** frameworks such as **Flask** and **Django** to develop robust applications, ensuring modular design and efficient code management.\nDesigned and implemented **FastAPI** services for high-performance APIs, contributing to a 30% increase in response speed.\nLeveraged **Docker** and **Kubernetes** for containerization and orchestration, enhancing deployment processes and scalability across multiple environments.\nIntegrated **MongoDB** and **PostgreSQL** databases, achieving a 25% improvement in data retrieval speeds and optimizing data storage solutions.\nDeveloped and maintained CI/CD pipelines using **Git** alongside **Terraform**, reducing deployment time by 40% and improving version control across team projects.\nImplemented **Redis** for caching to optimize application performance, diminishing database load by 35%.\nCollaborated with cross-functional teams using **JIRA**, **Confluence**, and **Slack** to manage project timelines and deliverables.\nImplemented **RabbitMQ** for efficient task queue management, boosting system throughput by 20%.\nIntegrated monitoring tools like **Grafana** and **New Relic** to track application performance and streamline troubleshooting processes.\nConducted automated testing to ensure code quality, increasing overall application reliability.\nSpearheaded the adoption of **Microservices** architecture, resulting in enhanced application scalability and maintainability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "• Developed scalable microservices using **Python** frameworks such as **Flask**, **FastAPI**, and **Django**, ensuring efficient task orchestration and event-driven architecture using **RabbitMQ** and **Apache Kafka**.\n• Implemented **Docker** and **Kubernetes** for containerization and orchestration, leading to a 20% enhancement in deployment efficiency across **3** projects.\n• Utilized **AWS** services for hosting and managing cloud-based applications, achieving a cost reduction of **15%** on infrastructure expenses.\n• Conducted code reviews and implemented **automated testing** strategies, improving overall code quality and team productivity by **30%**.\n• Integrated **Redis** as a caching mechanism, which led to a **25%** reduction in API response time across various applications.\n• Developed RESTful APIs to interface with **PostgreSQL** and **MongoDB** databases for optimized data retrieval and management processes, ensuring real-time data access.\n• Spearheaded the implementation of **CI/CD** pipelines using **GitHub Actions**, reducing production deployment errors by **30%**.\n• Collaborated effectively with cross-functional teams utilizing tools like **JIRA**, **Confluence**, and **Slack** for project management and communication.\n• Created data visualization components using **Grafana** and custom charts with **D3.js**, enabling efficient project tracking and reporting functionalities.\n• Mentored junior developers and conducted knowledge-sharing sessions, fostering a culture of continuous learning within the team."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "• Utilized **Python** and its frameworks such as **Flask** and **Django** to develop scalable applications, increasing overall team efficiency by **30%**.\n• Designed and implemented RESTful APIs with **FastAPI** to enhance service communication, achieving a **15%** reduction in response time.\n• Leveraged **Docker** and **Kubernetes** to containerize applications, improving deployment consistency across environments by **25%**.\n• Managed databases using **PostgreSQL** and **MongoDB** for data persistence, achieving **40%** faster query performance.\n• Integrated **RabbitMQ** for efficient message queuing in microservice architectures, optimizing asynchronous processing under load.\n• Developed CI/CD pipelines using **AWS** services for automated deployments, resulting in **three-fold** increase in deployment frequency.\n• Collaborated with the team using tools like **Git**, **JIRA**, and **Confluence** for project tracking and version control to streamline workflows and enhance collaboration.\n• Implemented automated testing strategies to ensure code reliability, which reduced bugs in production by **50%**.\n• Monitored application performance using **Grafana** and **New Relic**, proactively addressing issues to maintain system uptime above **99%**.\n• Participated in code reviews and agile ceremonies, fostering a culture of continuous improvement and adherence to coding standards."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython\n\n**Backend Frameworks**\n\tFlask, FastAPI, Django, CherryPy, NodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n\n**Frontend Frameworks**\n\tHTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n**API Technologies**\n\tRESTful API, GraphQL\n\n**Serverless and Cloud Functions**\n\tAWS, Azure\n\n**Databases**\n\tMongoDB, PostgreSQL, MSSQL Server, MySQL, DynamoDB, CosmosDB\n\n**DevOps**\n\tDocker, Kubernetes, CI/CD pipelines, Continuous Delivery\n\n**Cloud & Infrastructure**\n\tTerraform, Vault, Grafana, ELK Stack, New Relic\n\n**Other**\n\tUX/UI Design, Git, GitHub, Redis, RabbitMQ, Apache Kafka, Automated Testing, JIRA, Confluence, Slack, Miro, NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Solidity, Ether.js, Web3.js, Ethereum",
+  "apply_company": "YouGov"
+}

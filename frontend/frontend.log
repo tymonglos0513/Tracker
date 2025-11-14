@@ -1,0 +1,248 @@
+
+> job-tracker-frontend@1.0.0 start
+> vite --host 0.0.0.0
+
+
+  VITE v5.4.21  ready in 565 ms
+
+  ➜  Local:   http://localhost:3001/
+  ➜  Network: http://93.127.142.20:3001/
+10:12:39 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:12:40 AM [vite] Internal server error: /home/administrator/Desktop/Tracker/frontend/src/pages/SchedulesList.jsx: Unexpected token, expected "," (252:81)
+
+  250 |         link: row.link || "",
+  251 |         interview_link: row.interview_link || "",
+> 252 |         interview_datetime: parseInterviewCET(r.interview_datetime) || new Date();
+      |                                                                                  ^
+  253 |         duration: row.duration || "",
+  254 |         interview_stage: row.interview_stage || "",
+  255 |         next_steps: row.next_steps || "",
+  Plugin: vite:react-babel
+  File: /home/administrator/Desktop/Tracker/frontend/src/pages/SchedulesList.jsx:252:81
+  250|          link: row.link || "",
+  251|          interview_link: row.interview_link || "",
+  252|          interview_datetime: parseInterviewCET(r.interview_datetime) || new Date();
+     |                                                                                   ^
+  253|          duration: row.duration || "",
+  254|          interview_stage: row.interview_stage || "",
+      at constructor (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:367:19)
+      at JSXParserMixin.raise (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:6624:19)
+      at JSXParserMixin.unexpected (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:6644:16)
+      at JSXParserMixin.expect (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:6924:12)
+      at JSXParserMixin.parseObjectLike (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11894:14)
+      at JSXParserMixin.parseExprAtom (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11403:23)
+      at JSXParserMixin.parseExprAtom (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4793:20)
+      at JSXParserMixin.parseExprSubscripts (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+      at JSXParserMixin.parseUpdate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+      at JSXParserMixin.parseMaybeUnary (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+      at JSXParserMixin.parseExprOps (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+      at JSXParserMixin.parseMaybeConditional (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+      at JSXParserMixin.parseMaybeAssign (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+      at /home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10864:39
+      at JSXParserMixin.allowInAnd (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12500:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10864:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12567:17)
+      at JSXParserMixin.parseExprListItem (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12249:18)
+      at JSXParserMixin.parseCallExpressionArguments (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11316:22)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11250:29)
+      at JSXParserMixin.parseSubscript (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11184:19)
+      at JSXParserMixin.parseSubscripts (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11158:19)
+      at JSXParserMixin.parseExprSubscripts (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11149:17)
+      at JSXParserMixin.parseUpdate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+      at JSXParserMixin.parseMaybeUnary (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+      at JSXParserMixin.parseExprOps (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+      at JSXParserMixin.parseMaybeConditional (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+      at JSXParserMixin.parseMaybeAssign (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+      at JSXParserMixin.parseExpressionBase (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10848:23)
+      at /home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10844:39
+      at JSXParserMixin.allowInAnd (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12495:16)
+      at JSXParserMixin.parseExpression (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10844:17)
+      at JSXParserMixin.parseStatementContent (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12971:23)
+      at JSXParserMixin.parseStatementLike (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+      at JSXParserMixin.parseStatementListItem (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12823:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:13392:61)
+      at JSXParserMixin.parseBlockBody (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:13385:10)
+      at JSXParserMixin.parseBlock (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:13373:10)
+      at JSXParserMixin.parseStatementContent (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12934:21)
+      at JSXParserMixin.parseStatementLike (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+      at JSXParserMixin.parseStatementOrSloppyAnnexBFunctionDeclaration (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12833:17)
+      at JSXParserMixin.parseIfStatement (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:13206:28)
+      at JSXParserMixin.parseStatementContent (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12872:21)
+      at JSXParserMixin.parseStatementLike (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+      at JSXParserMixin.parseStatementListItem (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12823:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:13392:61)
+      at JSXParserMixin.parseBlockBody (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:13385:10)
+      at JSXParserMixin.parseBlock (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:13373:10)
+10:12:41 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:12:44 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:15:22 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:15:28 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:15:47 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:15:58 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+(node:1751) Warning: An error event has already been emitted on the socket. Please use the destroy method on the socket while handling a 'clientError' event.
+(Use `node --trace-warnings ...` to show where the warning was created)
+10:46:43 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:47:27 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:47:36 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:48:48 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:49:33 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:51:03 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:51:05 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:51:05 AM [vite] Internal server error: /home/administrator/Desktop/Tracker/frontend/src/pages/SchedulesList.jsx: Unexpected token, expected "," (681:78)
+
+  679 |         type="datetime-local"
+  680 |         className="border rounded w-full px-2 py-1 mb-2"
+> 681 |         value={toCETLocalString(parseInterviewCET(editData.interview_datetime)}
+      |                                                                               ^
+  682 |         onChange={(e) => setEditData({ ...editData, interview_datetime: e.target.value })}
+  683 |       />
+  684 |
+  Plugin: vite:react-babel
+  File: /home/administrator/Desktop/Tracker/frontend/src/pages/SchedulesList.jsx:681:78
+  679|          type="datetime-local"
+  680|          className="border rounded w-full px-2 py-1 mb-2"
+  681|          value={toCETLocalString(parseInterviewCET(editData.interview_datetime)}
+     |                                                                                ^
+  682|          onChange={(e) => setEditData({ ...editData, interview_datetime: e.target.value })}
+  683|        />
+      at constructor (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:367:19)
+      at JSXParserMixin.raise (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:6624:19)
+      at JSXParserMixin.unexpected (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:6644:16)
+      at JSXParserMixin.expect (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:6924:12)
+      at JSXParserMixin.parseCallExpressionArguments (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11307:14)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11250:29)
+      at JSXParserMixin.parseSubscript (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11184:19)
+      at JSXParserMixin.parseSubscripts (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11158:19)
+      at JSXParserMixin.parseExprSubscripts (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11149:17)
+      at JSXParserMixin.parseUpdate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+      at JSXParserMixin.parseMaybeUnary (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+      at JSXParserMixin.parseExprOps (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+      at JSXParserMixin.parseMaybeConditional (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+      at JSXParserMixin.parseMaybeAssign (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+      at JSXParserMixin.parseExpressionBase (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10848:23)
+      at /home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10844:39
+      at JSXParserMixin.allowInAnd (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12500:12)
+      at JSXParserMixin.parseExpression (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10844:17)
+      at JSXParserMixin.jsxParseExpressionContainer (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4661:31)
+      at JSXParserMixin.jsxParseAttributeValue (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4633:21)
+      at JSXParserMixin.jsxParseAttribute (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4682:38)
+      at JSXParserMixin.jsxParseOpeningElementAfterName (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4696:28)
+      at JSXParserMixin.jsxParseOpeningElementAt (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4691:17)
+      at JSXParserMixin.jsxParseElementAt (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4715:33)
+      at JSXParserMixin.jsxParseElementAt (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4727:32)
+      at JSXParserMixin.jsxParseElementAt (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4727:32)
+      at JSXParserMixin.jsxParseElement (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4778:17)
+      at JSXParserMixin.parseExprAtom (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4788:19)
+      at JSXParserMixin.parseExprSubscripts (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+      at JSXParserMixin.parseUpdate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+      at JSXParserMixin.parseMaybeUnary (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+      at JSXParserMixin.parseExprOps (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+      at JSXParserMixin.parseMaybeConditional (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+      at JSXParserMixin.parseMaybeAssign (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+      at /home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10864:39
+      at JSXParserMixin.allowInAnd (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12500:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10864:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12567:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11747:28)
+      at JSXParserMixin.parseExprAtom (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11395:23)
+      at JSXParserMixin.parseExprAtom (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4793:20)
+      at JSXParserMixin.parseExprSubscripts (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+      at JSXParserMixin.parseUpdate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+      at JSXParserMixin.parseMaybeUnary (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+      at JSXParserMixin.parseExprOps (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+      at JSXParserMixin.parseMaybeConditional (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+      at JSXParserMixin.parseMaybeAssign (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+10:51:11 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:51:12 AM [vite] Internal server error: /home/administrator/Desktop/Tracker/frontend/src/pages/SchedulesList.jsx: Unexpected token (681:81)
+
+  679 |         type="datetime-local"
+  680 |         className="border rounded w-full px-2 py-1 mb-2"
+> 681 |         value={toCETLocalString(parseInterviewCET(editData.interview_datetime) ||}
+      |                                                                                  ^
+  682 |         onChange={(e) => setEditData({ ...editData, interview_datetime: e.target.value })}
+  683 |       />
+  684 |
+  Plugin: vite:react-babel
+  File: /home/administrator/Desktop/Tracker/frontend/src/pages/SchedulesList.jsx:681:81
+  679|          type="datetime-local"
+  680|          className="border rounded w-full px-2 py-1 mb-2"
+  681|          value={toCETLocalString(parseInterviewCET(editData.interview_datetime) ||}
+     |                                                                                   ^
+  682|          onChange={(e) => setEditData({ ...editData, interview_datetime: e.target.value })}
+  683|        />
+      at constructor (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:367:19)
+      at JSXParserMixin.raise (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:6624:19)
+      at JSXParserMixin.unexpected (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:6644:16)
+      at JSXParserMixin.parseExprAtom (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11508:22)
+      at JSXParserMixin.parseExprAtom (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4793:20)
+      at JSXParserMixin.parseExprSubscripts (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+      at JSXParserMixin.parseUpdate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+      at JSXParserMixin.parseMaybeUnary (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+      at JSXParserMixin.parseExprOpBaseRightExpr (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11050:34)
+      at JSXParserMixin.parseExprOpRightExpr (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11045:21)
+      at JSXParserMixin.parseExprOp (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11011:27)
+      at JSXParserMixin.parseExprOps (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10972:17)
+      at JSXParserMixin.parseMaybeConditional (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+      at JSXParserMixin.parseMaybeAssign (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+      at /home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10864:39
+      at JSXParserMixin.allowInAnd (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12500:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10864:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12567:17)
+      at JSXParserMixin.parseExprListItem (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12249:18)
+      at JSXParserMixin.parseCallExpressionArguments (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11316:22)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11250:29)
+      at JSXParserMixin.parseSubscript (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11184:19)
+      at JSXParserMixin.parseSubscripts (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11158:19)
+      at JSXParserMixin.parseExprSubscripts (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11149:17)
+      at JSXParserMixin.parseUpdate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+      at JSXParserMixin.parseMaybeUnary (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+      at JSXParserMixin.parseExprOps (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+      at JSXParserMixin.parseMaybeConditional (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+      at JSXParserMixin.parseMaybeAssign (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+      at JSXParserMixin.parseExpressionBase (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10848:23)
+      at /home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10844:39
+      at JSXParserMixin.allowInAnd (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:12500:12)
+      at JSXParserMixin.parseExpression (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10844:17)
+      at JSXParserMixin.jsxParseExpressionContainer (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4661:31)
+      at JSXParserMixin.jsxParseAttributeValue (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4633:21)
+      at JSXParserMixin.jsxParseAttribute (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4682:38)
+      at JSXParserMixin.jsxParseOpeningElementAfterName (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4696:28)
+      at JSXParserMixin.jsxParseOpeningElementAt (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4691:17)
+      at JSXParserMixin.jsxParseElementAt (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4715:33)
+      at JSXParserMixin.jsxParseElementAt (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4727:32)
+      at JSXParserMixin.jsxParseElementAt (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4727:32)
+      at JSXParserMixin.jsxParseElement (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4778:17)
+      at JSXParserMixin.parseExprAtom (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:4788:19)
+      at JSXParserMixin.parseExprSubscripts (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+      at JSXParserMixin.parseUpdate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+      at JSXParserMixin.parseMaybeUnary (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+      at JSXParserMixin.parseExprOps (/home/administrator/Desktop/Tracker/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+10:51:15 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:52:10 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:52:21 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:52:23 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+10:52:48 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+8:42:51 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+8:42:53 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+8:43:19 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+8:43:22 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+8:43:24 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+8:43:30 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+8:43:32 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+8:43:46 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+8:43:49 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+8:44:57 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+8:45:02 AM [vite] hmr update /src/pages/SchedulesList.jsx, /src/index.css
+9:31:04 AM [vite] page reload src/main.jsx
+9:39:31 AM [vite] hmr update /src/AppLayout.jsx, /src/index.css, /src/pages/SchedulesList.jsx, /src/pages/AppliedList.jsx, /src/pages/SchedulesPublic.jsx
+9:42:35 AM [vite] hmr update /src/pages/SchedulesPublic.jsx, /src/index.css
+9:47:22 AM [vite] hmr update /src/pages/SchedulesPublic.jsx, /src/index.css
+Killed

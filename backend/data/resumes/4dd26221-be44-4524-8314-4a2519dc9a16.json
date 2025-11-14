@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior SREngineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Site Reliability Engineer with 13+ years of experience expertly managing distributed systems, container orchestration, and automation. Proficient in **GitOps**, **Kubernetes**, **Terraform**, and **AWS**, utilizing tools such as **Prometheus**, **Grafana**, and **ELK** for observability. Skilled in implementing CI/CD practices and leveraging **ArgoCD** for deployment automation. Strong background in **Python**, with additional experience in **Java**, **C++**, and **Go**.\n\nSuccessfully constructed and scaled high-performance applications in compliance-driven sectors, ensuring adherence to security standards like HIPAA and PCI DSS. Rich experience in developing microservices and event-driven architectures while fostering efficient communication across teams. Passionate about leveraging advanced strategies in DevOps and MLOps to improve system reliability and performance.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SREngineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Utilized **Kubernetes** for container orchestration, significantly improving deployment times and maintaining high availability across all services in a scalable environment.\n- Implemented **GitOps** practices to enhance collaboration and automation within the development lifecycle, leading to a **30%** reduction in deployment errors.\n- Developed and maintained **Prometheus** and **Grafana** based observability solutions, enabling real-time monitoring and alerting that improved incident response times by **40%**.\n- Devised and integrated advanced logging mechanisms using **ELK Stack** and **Splunk** to ensure comprehensive log management across microservices, facilitating easier troubleshooting and enhanced system reliability.\n- Streamlined infrastructure as code with **Terraform**, ensuring consistent and repeatable provisioning of cloud resources across multiple environments.\n- Collaborated on distributed system design and architecture, focusing on automation strategies for improved operational efficiency and scalability.\n- Engineered automation scripts using **Python** and **Go** to facilitate rapid deployments and system updates, sustaining a high throughput of **100+** releases per month.\n- Coordinated remediation and troubleshooting processes for service disruptions through effective communication with cross-functional teams, increasing overall team responsiveness.\n- Assisted in the integration of security best practices within the CI/CD pipelines utilizing **GitHub Actions** and **ArgoCD**, reinforcing code integrity and reducing vulnerabilities.\n- Designed and implemented resilient network policies using **Calico** to secure service-to-service communication in a multi-tenant environment, enhancing overall security posture."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Leveraged **GitOps** and **Terraform** to automate infrastructure provisioning and deployment processes, ensuring consistency across **Kubernetes** clusters.\nImplemented **Observability** solutions with **Prometheus**, **Grafana**, and **ELK** stack to monitor system performance and log analytics, proactively identifying and resolving issues in real-time.\nUtilized **OTEL** for tracing and performance optimization across distributed systems, enhancing the reliability of microservices architecture.\nArchitected and maintained **container orchestration** using **Kubernetes**, facilitating efficient resource management and scaling for high-demand applications.\nCollaborated in a **DevOps** environment to streamline continuous integration and deployment pipelines, improving deployment frequency by **40%** and reducing time-to-recovery (MTTR) to **5 minutes**.\nImproved system resilience and scalability by designing automated solutions for cloud infrastructure, particularly on **AWS**, supporting a user base of over **1 million** active customers.\nEnhanced communication and collaboration across teams, fostering a culture of shared responsibility and operational excellence.\nIntegrated advanced monitoring and alerting mechanisms, optimizing incident response times and minimizing downtime across critical systems."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **GitOps** to manage infrastructure as code, leading to a **30%** improvement in deployment efficiency and consistency across development and production environments.\nDeveloped observability pipelines using **Prometheus**, **Grafana**, and **ELK** stack to monitor system performance, achieving a **25%** reduction in incident response times through proactive alerting and dashboards.\nDeployed microservices on **Kubernetes**, ensuring high availability and scalability of applications while managing container orchestration for seamless deployments.\nImplemented **Terraform** for infrastructure provisioning on **AWS**, reducing setup time for new environments by **40%** and enhancing overall efficiency.\nEngineered distributed systems that supported **1000+** concurrent users, utilizing practices in automation and resilient design to optimize service reliability.\nEnhanced communication protocols and logging practices to support an efficient incident management workflow, resulting in a **20%** decrease in resolution SLA breaches.\nDeveloped and maintained deployment processes with **ArgoCD**, enabling continuous delivery and reducing deployment pipeline issues by **15%**.\nCollaborated with cross-functional teams to drive DevOps best practices, improving team productivity and fostering a culture of shared responsibility in code quality and operational excellence.\nConducted training sessions to onboard team members on **Container Orchestration** and automation tools, elevating team skillsets in line with industry standards and reducing onboarding time by **50%**."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Java, C++, Go, Perl, Ruby, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tOAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming)\n\n**DevOps:**\n\tDocker, Kubernetes, GitOps, GitHub Actions, GitLab CI/CD, Terraform, ArgoCD\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, Nginx\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Prometheus, Grafana, ELK, Splunk, Observability, OTEL, Calico, Automation, Communication, Distributed Systems, Container Orchestration",
+  "apply_company": "Chainlink Labs"
+}

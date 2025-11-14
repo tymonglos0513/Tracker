@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Backend Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-oriented Senior Backend Engineer with over 10 years of experience in developing robust and scalable backend systems. Proficient in **Python** (including **Django**), **RESTful APIs**, and **SQL**. Experienced with key tools and platforms such as **AWS**, **CloudWatch**, **Datadog**, and **Grafana**. Demonstrated ability to implement **ORM** techniques, utilize **Celery** for task management, and apply **asynchronous** programming to enhance performance. Committed to maintaining high **code quality** through **testing frameworks** and adhering to industry **best practices**. Strong advocate for **mentorship** and fostering collaborative environments through **pair programming**. Track record of delivering high-impact solutions for top-tier organizations like VISA, Sii Poland, and Reply Polska, driving efficiency and innovation in financial platforms and AI/ML pipelines.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "• Engineered backend services in **Python** using **FastAPI** to streamline document automation, user onboarding, and reporting workflows, achieving a **30%** increase in efficiency.\n• Developed event-driven solutions with **Celery** and **Redis** to manage asynchronous processing for financial transaction requests, processing over **10,000** requests daily.\n• Deployed microservices on **Azure App Services** and utilized **Terraform** to manage infrastructure as code, ensuring seamless cloud operations that reduced downtime by **20%**.\n• Created and maintained data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, ensuring timely and accurate data flow, processing **5TB** of data monthly.\n• Led security assessments and integrated **OAuth2** and **Azure AD B2C** for secure, scalable authentication systems, enhancing security measures by **50%**.\n• Collaborated with cross-functional teams to address system integration challenges, ensure compliance, and oversee release strategies, enhancing code quality and team productivity.\n• Implemented best practices in code quality, testing frameworks, and mentorship initiatives to improve overall team performance and implement **pair programming** strategies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes in environments supporting **9** concurrent users.\n• Created event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data, achieving transaction request handling with a **15%** increase in efficiency.\n• Managed the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation to maintain consistent and scalable environments, facilitating a **3x** faster deployment cycle.\n• Engineered data pipelines for the secure exchange of regulatory data, using **Apache Airflow** and **Azure Functions**, which improved data flow efficiency by **20%**.\n• Performed security audits, ensuring compliance with industry standards, and integrated **OAuth2** and **Azure AD B2C** to manage authentication and secure access controls across **100+** applications.\n• Collaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management, providing mentorship in **best practices** for code quality and testing frameworks."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed and maintained **RESTful APIs** using **Python** and **Django** to support frontend interactions and enhance user experience across trading operations.\nEngineered real-time data processors with **asyncio** and **Redis** for efficient high-frequency transactions, processing over **1,000** trades per second.\nImplemented robust database solutions using **SQL** and **PostgreSQL**, ensuring data integrity for over **10,000** trading accounts.\nUtilized **Celery** for job queuing, improving backend task execution efficiency by **30%** and leveraging **RabbitMQ** for reliable messaging.\nImplemented comprehensive test suites with **PyTest**, ensuring code quality through streamlined QA processes and achieving over **95%** test coverage.\nCollaborated with cross-functional teams to uphold compliance with regulations such as **MiFID II** and **GDPR**, ensuring data security and privacy across the platform.\nPromoted best practices in development, providing **mentorship** and engaging in **pair programming** to elevate team capabilities in **testing frameworks** and **code quality**.\n"
+    }
+  ],
+  "skills": "Programming Languages:\n\t**Python**, **SQL**, JavaScript\n\nBackend Frameworks:\n\t**Django**, FastAPI, Flask, Celery\n\nAPI Technologies:\n\t**RESTful APIs**, REST/gRPC APIs\n\nCloud & Infrastructure:\n\t**AWS**, Azure, Docker, Kubernetes\n\nDevOps:\n\tGitHub Actions, Azure DevOps, CI/CD\n\nDatabases:\n\tPostgreSQL, MySQL, MongoDB, Redis\n\nOther:\n\t**Concurrency**, **Asynchronous**, **Testing Frameworks**, **Code Quality**, Mentorship, Pair Programming, Best Practices, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, PyTest, Git, CloudWatch, Datadog, Grafana",
+  "apply_company": "TeleClinic"
+}

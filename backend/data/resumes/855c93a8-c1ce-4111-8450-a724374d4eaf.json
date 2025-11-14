@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Software Engineer with 8 years of comprehensive experience, I excel in leveraging **Python**, **TypeScript**, and database technologies such as **Postgres** to build robust, high-performance applications. My proficiency extends to developing scalable **APIs** and implementing **infrastructure as code** solutions using **CloudFormation** in **AWS**. I have a solid understanding of **relational databases**, **Data Warehousing**, and **Data Lakes**, enabling me to design and manage complex data solutions relevant to the healthcare and financial sectors. \nIn addition to my technical skills, I bring expertise in functional programming and IoT applications, while also possessing hands-on experience in full-stack development using **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. My background includes leading projects focused on integrating AI/ML capabilities, developing machine learning pipelines, and ensuring compliance with industry standards such as HIPAA and PCI DSS. I am committed to delivering secure, compliant, and scalable solutions that drive operational efficiency.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **TypeScript** to architect and develop scalable, full-stack applications tailored for the healthcare and financial sectors, ensuring compliance with industry standards (e.g., HIPAA, FHIR, PCI DSS).\nDesigned and implemented robust APIs to facilitate efficient data communication, optimizing for performance and reliability in cross-platform applications.\nDeveloped and maintained relational database systems using **Postgres** to manage healthcare and financial data effectively, ensuring quick retrieval and storage capabilities, handling up to **5 million** records.\nImplemented infrastructure as code practices using **CloudFormation** to streamline deployment processes and enhance environment consistency.\nArchitected data solutions incorporating Data Warehousing and Data Lakes to support extensive data analysis, ensuring efficient data flow and storage across platforms.\nLed the development of mobile applications using **Flutter** and **React Native**, driving user engagement with intuitive interfaces on both iOS and Android platforms, with a strong focus on functional programming principles.\nEstablished CI/CD pipelines leveraging tools like **GitHub Actions** and **CircleCI** to automate testing, deployments, and infrastructure management, enhancing development velocity by **30%**.\nCollaborated with multidisciplinary teams to integrate IoT capabilities into applications, enabling real-time data collection and processing, which improved decision-making for user health insights.\nConducted rigorous testing strategies with frameworks such as **Jest** and **Cypress**, ensuring high code quality and reliability across **100%** of front-end features and back-end services.\nDelivered intuitive financial data visualizations using libraries like **D3.js** and **Chart.js**, resulting in enhanced analytics tools that improved operational insights by **25%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Developed scalable and maintainable financial systems by leveraging **Python** and integrating **Postgres** as a relational database solution for critical data storage and management.\n- Implemented **AWS CloudFormation** for efficient **infrastructure as code** practices, automating the deployment of financial applications and services.\n- Designed and executed APIs to enable seamless data communication across financial platforms, ensuring 99.9% uptime and responsiveness.\n- Played a key role in architecting data solutions using **Data Warehousing** and **Data Lakes**, processing over **2TB** of financial data monthly to enhance reporting capabilities.\n- Built dynamic front-end applications utilizing **TypeScript** alongside frameworks such as **React (18)** and **Next.js** to create a responsive user experience for financial dashboards.\n- Orchestrated ETL pipelines with **Python** and **Apache Airflow**, facilitating real-time ingestion and transformation of transactional data for analytical purposes.\n- Ensured compliance and security through the integration of advanced **APIs** and monitoring techniques, improving fraud detection rates by over **30%** using machine learning techniques.\n- Championed the development of IoT-enabled features for real-time data collection and monitoring, increasing platform efficiency by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Postgres** to design and optimize backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment while meeting a system uptime of **99.9%**.\nDesigned and managed **APIs** for real-time features utilizing **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ**, achieving dynamic inventory tracking and responsive order updates for over **10,000** concurrent users.\nDeveloped frontend applications with **TypeScript** in frameworks like **React (18)**, **Vue 3**, and **Angular**, delivering high-performing user experiences on both web and mobile, improving page load speeds by over **30%**.\nLeveraged **CloudFormation** on **AWS** to provision and manage infrastructure as code, enabling automation of deployment processes which resulted in a reduction of deployment time by **50%**.\nDesigned and implemented **Data Warehousing** solutions to facilitate reporting and analytics, achieving a data retrieval performance improvement of **40%** compared to previous systems.\nIntegrated AI/ML-based recommendation engines using **scikit-learn**, **LightGBM**, and **TensorFlow** to personalize product listings and optimize search relevance, contributing to an enhanced conversion rate by **15%**.\nImplemented **role-based access control (RBAC)** and **OAuth 2.0** for secure customer and admin access, enhancing user data protection and ensuring compliance with **GDPR** regulations throughout the platform.\nBuilt secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, employing tokenized transactions for PCI-compliant handling of sensitive data.\nUtilized **functional programming** principles to enhance code maintainability and scalability across applications while leading initiatives towards IoT integration for improved customer engagement.\n"
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPIs\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tCloudFormation\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Data Warehousing, Data Lakes, IoT, functional programming",
+  "apply_company": "Lunar Energy"
+}

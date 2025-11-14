@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Python Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Python Engineer with 10+ years of robust experience in **Python** development and **Backend Development**, specializing in high-performance software solutions. Proficient in **coding best practices**, **testing**, and **deployment** processes, ensuring the delivery of secure and maintainable applications. Demonstrated expertise in **cybersecurity** and **infrastructure** management, with a commitment to continuous learning and professional growth in modern technologies. Strong collaboration abilities that enhance **frontend collaboration** and drive technical innovation within teams. Successful team guidance and mentorship with a focus on feedback culture and development process improvement. Excels in building cloud-native applications utilizing **FastAPI** and deploying solutions in **Azure** and **AWS**, while maintaining compliance with standards like HIPAA and PCI DSS. Passionate about integrating **AI/ML capabilities** into solutions that deliver meaningful real-world impact.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tLeveraged **Python** for backend development to create scalable, full-stack healthcare and finance solutions, ensuring compliance with industry standards such as HIPAA, FHIR, and PCI DSS.\n•\tApplied coding best practices in building and deploying mobile applications with **Flutter** and **React Native** on both iOS and Android platforms, enhancing user experiences in healthcare and fintech environments.\n•\tDrove the transition from monolithic systems to microservices architecture using **Docker** and **Kubernetes (EKS)**, resulting in improved system resilience and uptime exceeding **99%**.\n•\tEngineered cloud-native data architectures utilizing **PostgreSQL**, **MongoDB**, and **Redis**, optimizing data ingestion and querying processes to manage more than **10 million** healthcare and financial records efficiently.\n•\tDesigned and integrated machine learning models with **scikit-learn** and **PyTorch** for critical applications like patient risk prediction and financial fraud detection, achieving accuracy improvements of up to **15%**.\n•\tConstructed robust MLOps pipelines through **MLflow** and **Apache Airflow**, streamlining version control and deployment processes across development and production settings, impacting over **100** models.\n•\tIncorporated AI-driven functionalities such as smart dashboards and personalized recommendations into client applications, supported by APIs hosted on **Azure ML** and **AWS Sagemaker**.\n•\tImplemented comprehensive DevOps pipelines with **GitHub Actions** and **Azure DevOps**, ensuring secure deployments and effective testing across **4** different environments to enhance both web and API services.\n•\tDelivered sophisticated financial data visualization tools using **D3.js** and **Power BI Embedded**, allowing real-time insights and operational KPIs for organizational decision-making.\n•\tCollaborated with data scientists to embed NLP capabilities through **spaCy** and **Hugging Face Transformers** for document parsing, significantly increasing efficiency in detecting financial anomalies within **1 million** documents.\n•\tEstablished rigorous testing strategies using **Jest**, **Cypress**, and **Postman**, achieving full coverage of unit, integration, and E2E testing for both frontend and backend services.\n•\tEnhanced search functionalities by integrating **Azure Cognitive Search** and **ElasticSearch** to manage advanced queries across vast collections of unstructured health records and documents."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to enhance backend development processes, applying coding best practices to ensure high-quality and maintainable code for high-volume transaction systems.\nLed the implementation of comprehensive testing strategies to secure the reliability and performance of applications, aligning with standards in deployment and cybersecurity best practices.\nCollaborated cross-functionally during the product management process, leveraging technical innovation to drive the development of user-focused applications.\nGuided the team in frontend collaboration efforts, ensuring seamless integration of **React (18)** and **Next.js** with backend services for a robust user experience.\nFostered a feedback culture within the team to promote continuous learning and professional growth, helping peers adopt effective development process improvements.\nImplemented an event-driven architecture by integrating **Kafka**, **RabbitMQ**, and **Azure Service Bus**, enhancing system communication and responsiveness in processing transactions and alerts.\nConducted data ingestion and orchestration via **Apache Airflow** and **Azure Data Factory**, optimizing ETL pipelines to facilitate both batch and real-time data processing from various sources.\nDeveloped and deployed advanced fraud detection systems using **scikit-learn** and **XGBoost**, effectively analyzing transaction patterns to mitigate risks in banking environments.\nCreated machine learning pipelines for critical credit scoring and transaction classification with **MLflow** and **Airflow**, improving model integration and decision-making processes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "• Utilized **Python** (FastAPI, Django) and **Node.js** (NestJS, Express) for backend development, focused on high availability, low latency, and scalability for a global e-commerce platform.\n• Applied coding best practices to optimize backend services across **9** critical modules, including checkout and order fulfillment.\n• Developed and enforced robust testing protocols to ensure reliability and quality of features delivered.\n• Implemented deployment strategies that incorporate performance metrics and minimize downtime, ensuring smooth transitions of **software releases**.\n• Emphasized cybersecurity measures, integrating role-based access control (RBAC) and OAuth 2.0 for secure access management, aligning with GDPR compliance.\n• Collaborated effectively with frontend teams utilizing **React** (18), **Vue 3**, and **Angular**, ensuring a seamless integration of backend and frontend tasks.\n• Participated in product management processes to guide the development lifecycle while identifying areas for continuous improvement.\n• Fostered team guidance and nurtured a feedback culture, encouraging professional growth and continuous learning within the team.\n• Spearheaded infrastructure solutions utilizing **Kubernetes** and **Docker** for consistent and controlled deployment environments.\n• Actively engaged in technical innovation, improving the development processes and optimizing performance.\n• Designed secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, applying best practices for handling sensitive transaction data, ensuring PCI compliance.\n• Leveraged databases like **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for efficient data storage and access for **high-traffic e-commerce** functionality.\n• Integrated AI/ML-based recommendation engines using scikit-learn, LightGBM, and TensorFlow, enhancing product personalization and improving conversion rates by **15%** through data-driven insights."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Backend Development\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular), Frontend Collaboration\n\n **API Technologies:**\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Coding Best Practices, Testing, Deployment, Cybersecurity, Technical Innovation, Team Guidance, Product Management, Professional Growth, Continuous Learning, Feedback Culture, Development Process Improvement",
+  "apply_company": "Sekoia.io"
+}

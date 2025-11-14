@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior IT Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-driven Senior IT Engineer with 13+ years of specialized experience in cloud services and security solutions within the healthcare and financial sectors. Expertise in **Microsoft 365**, **Entra ID**, **Intune**, **Microsoft Graph**, **PowerShell**, and **Exchange Online** to enhance organizational productivity while ensuring compliance and security standards are met. Proficient in implementing **Conditional Access**, **DLP**, **RBAC**, **SAML**, **OAuth**, SCIM, and auditing frameworks to safeguard sensitive data. Skilled in network fundamentals and employing cloud-native solutions using **Azure** and **Microsoft Sentinel** for effective incident management and monitoring.\n\nHands-on experience with high-performance application development using **JavaScript**, **TypeScript**, **Python**, and **Flutter**, along with robust frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Proven track record in deploying AI/ML-driven platforms utilizing **MLOps**, with successful model orchestration using **MLflow**, **Airflow**, and **Kubeflow**. Committed to leveraging technology to achieve operational excellence and drive innovation.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior IT Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Administered **Microsoft 365** environments, ensuring optimal configuration and user management through **Entra ID** and **Azure** integration.\n- Developed and executed security policies utilizing **Conditional Access** and **PowerShell**, automating user provisioning and compliance checks.\n- Implemented **Data Loss Prevention (DLP)** strategies across platforms to protect sensitive data, achieving compliance with internal audit frameworks.\n- Optimized collaboration tools, including **Teams**, **Exchange Online**, and **SharePoint**, enhancing productivity by **30%** for remote teams.\n- Enforced role-based access control (**RBAC**) and security frameworks, integrating **SAML** and **OAuth** for secure authentication across applications.\n- Managed identity services using **Microsoft Graph** to streamline user management and reporting processes, leading to a **25%** efficiency increase.\n- Enhanced device security through layered **defender** policies by establishing **Intune** configurations for endpoint hardening.\n- Developed automated workflows using **Microsoft Sentinel** to monitor security incidents in real-time, reducing response time by **40%**.\n- Deployed and managed file storage solutions using **OneDrive**, ensuring compliance with organizational data governance policies and enhancing data accessibility.\n- Conducted audits on usage data for **Microsoft Purview**, providing actionable insights that improved compliance adherence by **15%**.\n- Integrated and maintained **conditional access** policies to enforce security requirements across all endpoints, enhancing overall network security posture.\n- Collaborated with IT teams to educate employees on security practices and tools, contributing to a **50%** reduction in security incidents reported."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented security measures and compliance protocols utilizing **Microsoft 365** and **Entra ID** to ensure robust authentication mechanisms, including **SAML** and **OAuth** for secure identity management.\nLeveraged **PowerShell** for automating and managing tasks related to **Conditional Access** policies, enhancing the security posture of the organization.\nConducted regular audits and established **Audit frameworks** that align with industry standards in order to protect sensitive data and ensure compliance.\nConfigured and maintained **Microsoft Graph** APIs to streamline data access and implementation of security measures across services like **Exchange Online**, **SharePoint**, and **OneDrive**.\nUtilized **Microsoft Intune** to enforce **RBAC** and protect endpoint devices through **Endpoint hardening** practices, increasing data security for more than **300 users**.\nIntegrated **Microsoft Defender** to address threats across platforms while reducing incident response time by **40%** through timely alerts and streamlined operations.\nSuccessfully designed and implemented a **DLP** strategy that reduced data leaks by **25%**, utilizing **Microsoft Sentinel** for proactive threat detection and response protocols.\nCollaborated with IT teams to ensure effective deployment and migration of business tools to **Microsoft Teams**, facilitating seamless communication across **100+ departments**.\nEngaged in continuous improvement initiatives to enhance network fundamentals, providing training sessions for administrators ensuring compliance with best practices in IT management."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented role-based access control (RBAC) and OAuth 2.0 to secure customer and admin access in a multifaceted IT environment, ensuring compliance with GDPR and safeguarding user data.\nLeveraged **Microsoft Graph** for seamless integration and management of user identities across services such as **Microsoft 365**, **Exchange Online**, **SharePoint**, and **OneDrive**.\nConfigured **Azure** Active Directory (Entra ID) with Conditional Access policies to enforce security compliance, enhancing overall system security by **30%**.\nUtilized PowerShell scripting to automate administrative tasks and streamline processes, reducing operational workload by **25%**.\nImplemented Data Loss Prevention (DLP) strategies to protect sensitive information in collaboration tools like **Teams**, enhancing data governance and compliance practices.\nAfforded endpoint security enhancements through **Defender** and **Intune** deployment, successfully hardening endpoints against potential vulnerabilities and threats.\nEstablished audit frameworks and monitoring using **Microsoft Sentinel**, enabling proactive risk management and rapid incident response.\nManaged user provisioning and lifecycle processes via **SCIM**, optimizing onboarding/offboarding efficiency by **40%** in user management workflows.\nEnsured optimal cloud security and data access performance across platforms using **Azure**, thereby improving system reliability under peak loads by achieving **99.9%** uptime.\nFostered communication and collaboration channels for over **200** team members via **Teams**, enhancing project coordination and task management."
+    }
+  ],
+  "skills": "**Programming Languages**:\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**Backend Frameworks**:\n\t\n\n**Frontend Frameworks**:\n\t\n\n**API Technologies**:\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\tSAML, OAuth, SCIM\n\tMicrosoft Graph\n\n**Serverless and Cloud Functions**:\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases**:\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n**DevOps**:\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure**:\n\tMicrosoft 365, Entra ID, Intune, Defender, Microsoft Sentinel\n\tExchange Online, SharePoint, OneDrive, Teams\n\n**Other**:\n\tDLP, Conditional Access, Network fundamentals, Purview, Endpoint hardening, Audit frameworks",
+  "apply_company": "Ideamine Technologies (Acquired by Netrix Global)"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Cloud Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a Cloud Engineer with 8 years of experience, I excel in cloud infrastructure management and automation encompassing **AWS**, **Azure**, and **GCP**. My robust skill set includes implementing **Terraform** for infrastructure as code, orchestrating containerized applications using **Kubernetes**, and ensuring seamless CI/CD pipelines through **Jenkins** and **Git**. I possess expertise in cloud security practices and leverage monitoring tools to safeguard cloud environments.\nIn addition to these core skills, I am a seasoned Full Stack Developer proficient in **Python**, **Node.js**, and modern frontend technologies like **React**, **Next.js**, and **Vue**. I have led the design and implementation of secure, high-performance applications across the healthcare and financial sectors, integrating AI/ML capabilities for predictive analytics and real-time operations. My extensive experience with microservices architecture and event-driven systems complements my background in developing machine learning pipelines and MLOps workflows utilizing tools like **MLflow** and **Airflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Cloud Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Maintained and optimized **cloud infrastructure** on platforms such as **AWS** and **Azure**, ensuring high availability and reliability for healthcare and financial applications, with over **99.9%** uptime performance metrics.\nImplemented **CI/CD** pipelines using **Jenkins**, **GitHub Actions**, and **CircleCI**, automating deployment processes and reducing deployment times by **50%** through enhanced automation and monitoring.\nDeveloped and maintained cloud security protocols, achieved compliance with relevant security standards, and integrated monitoring tools to ensure the integrity and security of applications in cloud environments.\nArchitected and developed backend services in **Python** and **Node.js** for scalable applications, improving response times by **30%** through optimized code and architecture strategies.\nUtilized **Kubernetes** for orchestrating containerized applications, effectively managing clusters and increasing resource utilization by **40%**.\nAutomated infrastructure provisioning using **Terraform**, enabling rapid environment setups and consistency across development and production workflows.\nAdministered Linux and Windows server environments, optimizing performance and resource allocation for cloud-based solutions.\nCollaborated with cross-functional teams to integrate **DevOps** best practices, facilitating smooth deployment workflows and enhancing operational efficiency.\nLeveraged **AWS** and **GCP** services to build secure, scalable architectures, ensuring high performance for applications serving millions of users.\nImplemented advanced monitoring and alerting solutions using tools such as Prometheus and Grafana, achieving a more proactive approach to infrastructure uptime and incidents.\nMentored junior engineers in cloud technologies, promoting knowledge sharing and fostering teamwork within the engineering department."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented and managed **cloud infrastructure** across **AWS**, **Azure**, and **GCP** to ensure high availability and reliability, leading to a **99.99% uptime** for all deployed applications.\nAutomated deployment processes utilizing **CI/CD** pipelines with **Jenkins**, **Git**, and **Terraform**, reducing deployment time by **40%** and increasing deployment frequency to **multiple times a day**.\nDeveloped and maintained container orchestration using **Kubernetes**, enhancing system scalability and facilitating seamless rollout of microservices.\nEmployed configuration management using **Ansible** to standardize deployments across **Linux** and **Windows** environments, improving consistency by **30%** and minimizing configuration drift.\nImplemented comprehensive **cloud security** protocols, securing sensitive financial data with encryption and access controls, leading to a **50%** reduction in security incidents.\nMonitored system performance and health using **monitoring tools**, enabling proactive incident response and decreasing mean time to recovery (MTTR) by **25%**.\nLeveraged **Python** to develop automation scripts and infrastructure as code (IAC) solutions for operational efficiency, ensuring compliance with regulatory standards in cloud environments.\nUtilized **DevOps** principles to foster collaboration between development and operations teams, promoting a culture of continuous improvement and integration."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented cloud infrastructure solutions on **GCP**, **AWS**, and **Azure** to enhance system performance and reliability within the e-commerce platform.\nAutomated CI/CD pipelines using **Jenkins**, **Git**, and **Terraform**, achieving a deployment frequency of **5** times per week and reducing deployment time by **30%**.\nDeployed and managed containerized applications using **Kubernetes**, ensuring high availability and scalability of services.\nUtilized **Ansible** for configuration management across **Linux** and **Windows** environments, improving server provisioning times by **40%**.\nMonitored and secured cloud environments with various **monitoring tools**, implementing best practices for **cloud security** to safeguard customer data and application integrity.\nDesigned backend services using **Python** with frameworks like **FastAPI** and **Django**, ensuring high performance and responsiveness in handling **10,000** concurrent users.\nDeveloped microservices with **Node.js** using **NestJS** and **Express**, contributing to a **25%** improvement in application modularity and maintainability.\nEngineered automated testing and linting processes integrated into the CI/CD workflows, enhancing code quality and reducing bugs in production by **15%**.\nCollaborated in a cross-functional team, actively participating in DevOps practices to foster a culture of shared responsibility for application lifecycle and performance."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Node.js\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda), Azure, GCP\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, CI/CD, Terraform, Ansible, Helm, Docker Compose, Git\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, cloud infrastructure, cloud security, Linux, Windows\n\n**Other:**\n\tArtificial Intelligence & Machine Learning (MLflow, Airflow, Kubeflow), Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), monitoring tools"
+}

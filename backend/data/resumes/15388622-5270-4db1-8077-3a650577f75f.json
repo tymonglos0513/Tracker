@@ -1,0 +1,47 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-107978395/",
+  "profile_summary": "As a seasoned Senior DevOps Engineer with 8+ years in software development and operations, I possess extensive expertise in **AWS**, **GCP**, **Kubernetes**, and **Terraform**. I proficiently implement Infrastructure as a Service (IaaS) solutions while ensuring seamless deployment workflows using **GitHub Actions** and **Argocd**. My strong foundations in **Python** (FastAPI, Django, Flask) complement my ability to create scalable applications that integrate with microservices. Additionally, I am adept in **Go**, **JavaScript**, and have advanced skills in networking and DNS management, contributing to robust and high-performance cloud solutions. I also leverage tools like **Grafana** and **OpenTelemetry** for monitoring and observability, ensuring systems operate with optimal performance. My experience spans critical sectors including e-commerce, finance, and healthcare, allowing me to deliver resilient, enterprise-grade solutions with a deep commitment to best practices.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "- Implemented infrastructure as code (IaC) using **Terraform** and **Pulumi** to provision cloud resources on **AWS** and **GCP**, streamlining deployment processes and reducing configuration drift across environments.\n- Designed a container orchestration strategy utilizing **Kubernetes** to manage microservices, achieving a 35% improvement in application scalability and resilience.\n- Led the development and deployment of CI/CD pipelines using **GitHub Actions**, ensuring automated testing and multi-environment releases for **Python** applications, resulting in a 25% reduction in deployment times.\n- Utilized monitoring tools such as **Grafana** and **OpenTelemetry** to implement observability in application performance, proactively resolving issues and enhancing service reliability by **40%**.\n- Collaborated with cross-functional teams to integrate application services on cloud platforms (**AWS**, **GCP**) with a focus on network architecture and **DNS** management for seamless operation.\n- Spearheaded the migration to an event-driven architecture using **Envoy** and messaging systems like **Kafka** and **RabbitMQ** to enable scalable and responsive communication between distributed services.\n- Mentored a team of junior engineers in advanced **Python** practices, containerization with **Docker**, and best practices in CI/CD, fostering a collaborative and innovative work environment.\n- Enhanced security in cloud infrastructure by implementing best practices for network security and compliance with standards such as SOC 2 and ISO 27001.\n- Developed a secure and scalable infrastructure strategy, resulting in a **50%** decrease in operational costs through effective resource management and automation.\n- Integrated monitoring and alerting mechanisms into infrastructure setups, improving incident response times and ensuring uptime for critical applications by **99.9%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented and managed **Kubernetes** clusters for deploying microservices architecture, enabling rolling updates, auto-scaling, and high availability in cloud environments.\nUtilized **AWS** and **GCP** services alongside **Terraform** and **Pulumi** for infrastructure as code (IaaS), automating the provisioning and management of cloud resources across multiple projects.\nConfigured CI/CD pipelines using **GitHub Actions**, streamlining automated quality assurance and improving deployment efficiency by **30%**.\nDeveloped and deployed microservices in **Python**, ensuring code reliability through automated unit testing and integration testing with tools like **PyTest**.\nEnhanced observability and monitoring using **OpenTelemetry** and **Grafana**, resulting in faster incident resolution and better system performance tracking.\nImplemented service meshes using **Envoy** for increased security and reliability in service communication, allowing for seamless traffic management in microservices.\nDesigned integration solutions for external partners, ensuring secure data exchange while maintaining compliance with financial regulations.\nBuilt ETL pipelines leveraging **AWS Lambda** and **Azure Functions**, reducing infrastructure overhead and improving responsiveness of data processing tasks.\nContributed to event-driven architectures by integrating **Kafka** and **RabbitMQ**, capable of handling high-throughput messaging for large-scale applications.\nApplied best practices in software development using **Python**, including code reviews and static analysis to improve the code quality and maintainability.\nEnsured robust networking configurations, including **DNS** management and cloud network integrations, enhancing security and reducing latency across all deployments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "- Implemented **Kubernetes** orchestration for containerized applications ensuring scalability and availability across production environments.\n- Utilized **GCP** and **AWS** to deploy and manage infrastructure as code (IaaS) using **Terraform** and **Pulumi**, enabling rapid infrastructure provisioning and configuration.\n- Managed CI/CD workflows using **GitHub Actions** to automate building, testing, and deployment processes, achieving a **95%** reduction in deployment time.\n- Enhanced observability across infrastructure components with **OpenTelemetry** and **Grafana**, providing real-time monitoring and insightful dashboards for performance tracking.\n- Developed and maintained microservices in **Go** and **Python**, optimizing development processes and integrating seamlessly with existing systems.\n- Designed and implemented **Envoy** as an edge proxy to manage service-to-service communications, ensuring smooth traffic routing and load balancing.\n- Improved networking capabilities including **DNS** management for enhanced service discoverability and reliability within the cloud infrastructure.\n- Automated infrastructure deployment processes for multiple environments, achieving consistent and reliable infrastructure setup with **Terraform v1.0**.\n- Configured rolling updates and blue-green deployments using **Kubernetes** to minimize downtime, facilitating continuous integration and delivery.\n- Conducted performance testing on cloud resources, leveraging tools like **JMeter** and **k6**, resulting in a **40%** increase in handling capacity.\n- Developed training programs demonstrating best practices in AWS and GCP for optimizing cloud resource usage, contributing to a **30%** reduction in costs.\n- Integrated security best practices into the CI/CD pipeline, resulting in fewer vulnerabilities during deployment phases, ensuring compliance with industry standards."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Go, JavaScript\n\n**Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot\n\n**Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n**API Technologies:**\n\tREST & gRPC APIs\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), GCP\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Pulumi, Argocd, Envoy, OpenTelemetry, Grafana\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), IaaS\n\n**Other:**\n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, networking, dns",
+  "apply_company": "Burny Games"
+}

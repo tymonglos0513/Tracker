@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Platform Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-kotlinski-08ba40390/",
+  "profile_summary": "As a skilled Senior Platform Engineer with 8 years of experience, I excel in optimizing GPU-based infrastructure and managing cloud environments, primarily using **AWS**, **Azure**, and **GCP**. My technical expertise includes deploying applications on **Red Hat OpenShift** and orchestrating containerized solutions with **Kubernetes**. I am proficient in utilizing **NVIDIA GPU ecosystem** technologies including **CUDA**, **cuDNN**, and **TensorRT**, which enhances the efficiency of machine learning workloads. My hands-on experience with **Slurm** for cluster management and **Triton Inference Server** for model serving positions me to deliver high-performance solutions tailored to demanding data analysis needs. \n\nCoupled with my robust skills in **MLOps** and **LLMOps**, I have successfully implemented workflows that integrate **Triton** and **RAPIDS** for accelerated data processing while ensuring compliance with industry standards. I also have a strong foundation in automation using **Terraform**, **Helm charts**, and **Ansible**, which streamline deployment processes. My background in developing enterprise-grade platforms is complemented by a commitment to collaboration and clear communication, making me an effective team player in cross-functional environments.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Platform Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Managed and orchestrated **GPU-based infrastructure** to optimize platform efficiency and performance, leveraging **NVIDIA GPU ecosystem**, including **CUDA** and **cuDNN** for high-performance computing tasks.\n- Designed and implemented CI/CD pipelines utilizing **Terraform**, **Helm charts**, and **Ansible** for infrastructure as code, ensuring flexibility and scalability across both development and production environments with **Red Hat OpenShift**.\n- Architected highly available microservices using **Kubernetes**, ensuring robust deployment strategies and efficient resource allocation, with continuous integrations powered by **Slurm** for workload scheduling.\n- Accelerated machine learning workloads by deploying **Triton Inference Server** and leveraging **RAPIDS** for powerful data processing, focusing on real-time inference and data acceleration across various cloud platforms, including **GCP**, **AWS**, **Azure**, and **OCI**.\n- Developed MLOps methodologies for streamlined management of machine learning lifecycle, supporting robust model training and versioning through integrations with **vector databases** and **retrieval systems**.\n- Collaborated cross-functionally with teams, fostering strong **communication** and **collaboration skills** to align technologies with business needs, enhancing service efficiency and user engagement.\n- Delivered architectural solutions that integrated **Linux** systems and container orchestration with **Kubernetes**, promoting operational excellence and reliability in service delivery.\n- Engaged in proactive problem-solving and debugging, utilizing strong analytical skills to maximize performance and availability of **cloud-native architectures**, streamlining operational workflows and application performance.\n- Championed strategies for scalable cloud computing resources, leveraging private and public cloud models to maintain trusted environments while enhancing performance metrics by up to **40%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented **GPU-based infrastructure** to enhance the performance of machine learning models, leveraging **NVIDIA GPU ecosystem** and tools like **CUDA**, **TensorRT**, and **cuDNN** for high-efficiency computations.\nUtilized **Red Hat OpenShift** for orchestrating containerized applications, enhancing deployment cycles by **30%** and improving application scalability.\nManaged multi-cloud deployments across **AWS**, **Azure**, and **GCP**, ensuring **99.9%** uptime and seamless integration of services within dynamic environments.\nDeveloped orchestration scripts using **Terraform**, **Helm charts**, and **Ansible** to automate infrastructure deployment, reducing setup time by **50%**.\nImplemented AI/ML workflows and **MLOps** practices to streamline model training and deployment pipelines, collaborating with data scientists for real-time application of insights.\nLed efforts in establishing **vector databases** and **retrieval systems** to enhance data accessibility and query performance for machine learning applications, resulting in a **40%** improvement in data retrieval speeds.\nFacilitated cross-department collaboration and communication to ensure alignment on technical developments, resulting in a **25%** increase in team productivity and project success rates.\nManaged Kubernetes clusters for deploying and scaling machine learning services, contributing to enhanced resource utilization and performance metrics across various applications.\nOptimized monitoring and logging frameworks using tools compatible with Kubernetes to maintain high availability and reliability in production environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Designed and optimized GPU-based infrastructure for machine learning deployments, leveraging **NVIDIA GPU ecosystem**, **CUDA**, **cuDNN**, and **Triton Inference Server** to ensure high performance and scalability of complex model inference tasks.\nImplemented orchestration using **Kubernetes** and **Red Hat OpenShift**, deploying containerized applications with **Helm charts** and managing resources efficiently through **Terraform** and **Ansible** scripts.\nCreated MLOps pipelines to automate model training and deployment, ensuring streamlined integration with **GCP**, **AWS**, **Azure**, and **OCI** for cloud scalability and redundancy across different environments.\nDeveloped robust retrieval systems and vector databases to enhance data accessibility and processing capabilities, supporting high-traffic workloads with low-latency data access across multiple platforms.\nEngineered efficient job scheduling across GPU resources using **Slurm**, allowing for distributed processing of large datasets while optimizing resource allocation for up to **1000 concurrent jobs**.\nEnhanced communication and collaboration across teams to promote seamless integration and knowledge sharing, significantly reducing deployment lead times by up to **30%**.\nImplemented role-based access control (RBAC) and secured connections using **OAuth 2.0**, ensuring compliance with GDPR in sensitive data handling while empowering users with secure access to necessary resources.\nStreamlined workflows with **RAPIDS**, enabling GPU acceleration for data processing tasks and improving throughput by **50%** in analytics pipelines while utilizing advanced libraries like **TensorRT** for optimized model inference.\nContacted stakeholders regularly, fostering cross-functional collaboration that led to the successful rollout of multiple scalable features and enhancements across the platform, achieving a **15% increase** in overall platform efficiency.\n"
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks**\n\tReact, Vue, Angular\n\n**API Technologies**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2\n\n**Serverless and Cloud Functions**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP, OCI\n\n**Databases**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, vector databases\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure**\n\tRed Hat OpenShift, NVIDIA GPU ecosystem, GPU-based infrastructure, Slurm, Linux\n\n**Other**\n\tMLflow, Airflow, Kubeflow, LLMOps, MLOps, Triton Inference Server, RAPIDS, TensorRT, collaboration skills, communication skills"
+}

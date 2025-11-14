@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior SOC Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior SOC Engineer with 8 years of experience, I specialize in incident management and threat hunting in high-performance environments within the healthcare and financial sectors. My technical expertise includes proficiency in **SIEM**, **Splunk**, **EDR**, **XDR**, and advanced threat detection tools such as **CrowdStrike** and **SentinelOne**. I also have a strong command of network protocols, notably **TCP/IP**, and cloud services expertise in **AWS** and **Azure**.\n\nI excel in developing robust security solutions that align with compliance standards including NIST, and my background in full-stack development using **Python**, along with frameworks like **Django** and **FastAPI**, enables seamless integration between security and application stacks. I am knowledgeable in implementing SOAR strategies, and my experience with CI/CD automation enhances incident response workflows. I bring excellent communication, teamwork, and adaptability skills to effectively collaborate and lead within diverse teams. My leadership has driven the development of security architectures that prioritize real-time data processing and analytics.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SOC Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented comprehensive incident management protocols leveraging **Splunk**, **Sekoia**, and **Sentinel** to enhance the detection and response to security threats across the organization.\nConducted threat hunting initiatives using **Sysmon**, **CrowdStrike**, and **SentinelOne**, successfully identifying and mitigating **9** potential security threats within the first **3** months of deployment.\nDeveloped and maintained SIEM and XDR solutions using **AWS** and **Azure**, ensuring high availability and scalability of security services to handle traffic spikes of up to **100,000** logs per minute.\nExecuted proactive monitoring and analysis of network traffic with an emphasis on **TCP/IP** protocols, identifying vulnerabilities and securing data transit to prevent **95%** of potential intrusions.\nCollaborated closely with cross-functional teams, enhancing communication and teamwork skills to improve the incident response process, reducing average response time by **30%**.\nAdapted cybersecurity strategies in alignment with frameworks such as **NIST** and integrated SOAR tools for automated incident handling, leading to a more efficient workflow.\nDesigned and implemented Security Operations Center (SOC) best practices incorporating EDR solutions, leading to improved endpoint security for over **1,000** devices across the organization.\nCreated detailed documentation and reports on security findings and incidents, facilitating better understanding and awareness among stakeholders regarding incident trends and outcomes.\nTrained and mentored junior security analysts in using **Python** for scripting automated security checks and developing tools for enhanced threat detection capabilities.\nParticipated in regular security drills and simulations, fostering readiness among team members in adapting to changing threats and improving overall team adaptability."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented security incident and event management (SIEM) solutions using **Splunk** and **Sekoia** to enhance visibility and monitoring of security events across financial platforms, achieving a **40%** reduction in incident response time.\nConducted threat hunting initiatives employing **EDR** and **XDR** technologies like **CrowdStrike** and **SentinelOne**, leading to the identification of **12** potential threats per month and fortifying the overall security posture.\nDeveloped and maintained incident management protocols aligning with **NIST** standards, optimizing the incident response process, and effectively managing escalated incidents through a structured **SIRP** approach.\nCollaborated across teams to integrate automated workflows with **SOAR** tools, enhancing communication and adaptability in responding to security threats and incidents, which improved teamwork efficiency by **25%**.\nLeveraged cloud services such as **AWS** and **Azure** to deploy scalable security solutions, including **Sysmon** for enhanced system monitoring and logging in cloud environments, ensuring effective tracking of transactions and compliance workflows.\nUtilized **Python** for scripting and automating security tasks, including data collection and analysis to support incident investigations, generating comprehensive reports that provided actionable insights for decision-making.\nEngaged in continuous improvement of security practices by incorporating TCP/IP protocols for network monitoring and assessment, contributing to maintaining a robust defense against potential cyber threats."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** to develop and optimize SIEM solutions, enhancing incident management in line with NIST standards and driving team collaboration in real-time.\nImplemented effective incident response strategies using **Splunk** and **Sekoia** for threat hunting and EDR, resulting in a **30%** reduction in incident resolution time.\nIntegrated **CrowdStrike** and **SentinelOne** for advanced threat detection and proactive defense mechanisms, ensuring compliance with GDPR and security best practices.\nLeveraged **AWS** and **Azure** cloud services to enhance scalability and performance of security operations, effectively managing **XDR** and SOAR tools to streamline workflows.\nConducted thorough analysis using **Sysmon**, providing insights into network traffic via **TCP/IP** protocols, contributing to improved threat visibility and response times by **40%**.\nFostered effective communication and teamwork within the SOC, adapting swiftly to evolving threat landscapes and ensuring continuous improvement in security posture.\nDeveloped use cases for automated incident response and orchestration, significantly increasing efficiency in monitoring and remediation efforts with **SIRP** integration.\nEngaged in ongoing training and development initiatives, promoting a culture of adaptability and knowledge sharing within the team to stay abreast of threats and technologies."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure, Nginx, Certbot\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, SIEM, XDR, EDR, Splunk, Sekoia, Sentinel, Sysmon, CrowdStrike, SentinelOne, TCP/IP, incident management, SIRP, NIST, SOAR, threat hunting, communication, teamwork, adaptability",
+  "apply_company": "Cyclad"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Sebastian Lukasz Nowak",
+  "role_name": "Senior DevOps Engineer",
+  "email": "sebastiannowak425@outlook.com",
+  "phone": "+48 732 489 778",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/sebastian-nowak-756157396/",
+  "profile_summary": "Experienced Senior DevOps Engineer with 8 years of expertise in **DevOps** methodologies, focusing on **cloud** services and **microservices** architecture. Proficient in **automated deployment** using tools such as **Terraform**, **Ansible**, and **Helm**, I excel at implementing **CI/CD** pipelines and **GitOps** practices to streamline workflows and enhance project delivery. Skilled in containerization and orchestration with **Kubernetes**, I ensure robust and scalable solutions across various environments.\n\nMy technical proficiency extends to programming languages including **Java**, **JavaScript** (React, Next.js, and Vue), and **Python** (FastAPI and Django), alongside a foundational understanding of **Go** and **C#**. I have a proven track record in building SaaS platforms, and my agile approach to software development has resulted in high-performance applications tailored for the healthcare and financial industries. Additionally, I leverage my experience in cloud infrastructure with **Azure** and **AWS**, ensuring compliance with industry standards such as HIPAA and PCI DSS.\n\nI bring original strengths in developing machine learning pipelines and integrating AI/ML capabilities, utilizing tools like **MLflow**, **Airflow**, and **Kubeflow** for comprehensive data solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "",
+      "from_year": "2001",
+      "to_year": "2006",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "DeepInspire",
+      "from_date": "Oct 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented enterprise-level **DevOps** pipelines using **GitHub Actions**, **Azure DevOps**, and **CircleCI**, incorporating linting, testing, security scans, and multi-environment deployments for both web and API services.\nArchitected and developed scalable, **microservices**-based applications using **Python** (FastAPI), **Node.js**, and modern front-end frameworks including **React** (17-18), ensuring adherence to **Agile** methodologies.\nLed the re-architecture of monolithic applications into **Containers** and serverless architectures using **Docker**, **Kubernetes** (AKS/EKS), enabling high availability and fault tolerance.\nDesigned and maintained cloud-native data architecture using **PostgreSQL**, **MongoDB**, and **Redis**, optimizing for large-scale data ingestion and querying across **cloud** environments.\nDeveloped and deployed automated CI/CD workflows for cross-platform applications, ensuring rapid delivery and deployment utilizing **Terraform** and **Ansible** for infrastructure as code.\nUsed **Helm** for managing Kubernetes applications, enhancing deployment strategies and reducing setup time by **30%**.\nIncorporated **automated deployment** strategies into the development lifecycle, significantly reducing the time to market for new features by **25%**.\nCollaborated with software engineers to integrate **open-source** tools within the workflow, enhancing the efficiency of development processes.\nCreated documentation and performed training sessions on **GitOps**, empowering teams to adopt a consistent and efficient code deployment strategy.\nUtilized scripting with **shell scripts** and **Python** for automating repetitive tasks, contributing to overall system reliability while reducing manual intervention.\nMaintained a culture of continuous improvement through regular retrospectives and feedback loops within an **Agile** framework, driving innovations and efficiency in team operations."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Britenet",
+      "from_date": "Sep 2015",
+      "to_date": "Sep 2021",
+      "location": "Poland",
+      "responsibilities": "• Led the transition to a **DevOps** culture by implementing **CI/CD** pipelines and **automated deployment** strategies using tools such as **Terraform** and **Ansible**, enhancing deployment efficiency by **40%**.\n• Fostered agile practices within the team, improving project delivery times by **30%** through iterative development and continuous feedback loops.\n• Developed and maintained a microservices-based architecture utilizing **Node.js** and **Python**, ensuring robust service-oriented frameworks for scalable and maintainable applications.\n• Deployed container orchestration solutions with **Kubernetes**, managing the lifecycle of **Docker** containers to facilitate smoother deployment processes and reduce downtime by **25%**.\n• Created and automated ETL pipelines leveraging **Apache Airflow** and **Azure Data Factory** for batch and real-time financial data ingestion, resulting in increased data availability and reliability.\n• Collaborated on the integration of event-driven architectures using **Kafka** and **RabbitMQ**, optimizing messaging systems and enhancing real-time data processing capabilities.\n• Implemented monitoring and logging solutions with open-source tools, ensuring that system performance was constantly evaluated and issues were quickly identified and resolved.\n• Engaged in continuous learning and adoption of emerging technologies in the **cloud** space to improve service delivery and operational efficiency.\n• Contributed to open source projects and community discussions, sharing knowledge and best practices for development and operations enhancements."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Binary Studio",
+      "from_date": "Jan 2007",
+      "to_date": "Aug 2015",
+      "location": "UK",
+      "responsibilities": "Implemented **Kubernetes** and **Docker** for container orchestration and microservices architecture, enhancing deployment processes and maintaining high availability across production environments.\nDeveloped and automated CI/CD pipelines using **Jenkins**, **GitOps**, and **Terraform**, increasing deployment frequency by **40%** and minimizing rollback incidents.\nManaged cloud infrastructure across various platforms (AWS, GCP, Azure) utilizing **Terraform** for infrastructure as code, ensuring resource scalability and cost efficiency for a global SaaS application.\nDesigned and orchestrated **microservices** architecture to decouple application components, resulting in a **30%** improvement in system response time and team collaboration.\nLed agile teams in designing automated deployment strategies and best practices with **Ansible** and **Helm**, which reduced deployment times to less than **10 minutes**.\nMonitored application performance and system health with **Prometheus** and **Grafana**, establishing alerts and metrics that resulted in a **25%** reduction in production incidents.\nCollaborated with cross-functional teams to integrate security best practices into DevOps processes, ensuring compliance with GDPR and enhancing overall platform security posture.\nAuthored and maintained documentation for build, release, and deployment processes, promoting knowledge sharing and team alignment on operational strategies.\nMentored junior engineers in **DevOps** practices and tooling, fostering a culture of continuous learning and best practices within the team."
+    }
+  ],
+  "skills": "FrontEnd Frameworks:\n\tJavaScript, TypeScript, React, Vue, Angular\n\nBackend Frameworks:\n\tPython, FastAPI, Flask, Django, microservices\n\nAPI Technologies:\n\tJWT, OAuth2\n\nServerless and Cloud Functions:\n\tAWS (ECS, Lambda), Azure (App Services)\n\nDatabases:\n\tPostgreSQL, MySQL, MongoDB, Redis\n\nDevOps:\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, GitOps, automated deployment, Ansible, Helm, Terraform, shell scripts\n\nCloud & Infrastructure:\n\tAWS (RDS, S3), Azure (Blob, SQL), containers, cloud\n\nOther:\n\tArtificial Intelligence, Machine Learning, MLflow, Airflow, Kubeflow, keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot, agile, SaaS, open source",
+  "apply_company": "Hypertegrity AG"
+}

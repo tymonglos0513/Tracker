@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior MLOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior MLOps Engineer with 8 years of full-stack development experience, I leverage my deep expertise in **Python** and **MLOps** to build and scale machine learning solutions. Proficient in using **Docker** and **Kubernetes**, I enhance deployment processes and streamline orchestrations for robust machine learning pipelines. My background in **Data Engineering** and **Distributed Computing** ensures that I construct scalable systems to efficiently handle large datasets. I have hands-on experience with **Pipeline Orchestrators** such as **MLflow** and **Airflow**, and I'm skilled in implementing best practices for **Data Structures** and **Algorithms** to optimize model performance.\nAlongside technical skills, my proficiency in frameworks like **FastAPI** and **Django**, as well as front-end technologies including **React**, **Next.js**, and **Vue**, complements my ability to develop high-performance solutions tailored for healthcare and financial sectors. My cloud expertise spans **AWS** and **Azure**, where I've led the development of enterprise-grade platforms integrating AI/ML capabilities. I maintain strict compliance with standards like HIPAA, FHIR, PCI DSS, and SOC 2, ensuring the security and robustness of applications deployed in production.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior MLOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained MLOps pipelines using **MLflow**, **DVC**, and **Apache Airflow** for continuous training, validation, versioning, and deployment of machine learning models across development and production environments, enabling timely updates and improved model performance.\nArchitected scalable data engineering solutions leveraging **Python**, optimizing data structures and algorithms for high-performance processing and analysis.\nUtilized **Docker** and **Kubernetes** to containerize applications, enhancing deployment strategies and enabling distributed computing for resource optimization and efficient workload management.\nDesigned and deployed machine learning models for real-time inference services, utilizing **Python** libraries like **scikit-learn**, **PyTorch**, and **TensorFlow**, addressing complex scenarios such as patient risk prediction and financial fraud detection.\nImplemented cloud-native data architecture utilizing PostgreSQL, MongoDB, and Redis for large-scale data ingestion and storage, ensuring efficient querying and retrieval for analytical processes.\nLed the integration of AI-based features into applications, enhancing user engagement with smart financial dashboards and predictive alerts, leveraging **Azure ML** and **AWS Sagemaker** for model hosting and deployment.\nEstablished comprehensive testing strategies using **Jest**, **Cypress**, **PyTest**, and **Postman**, ensuring reliability and performance across both front-end and back-end services, with a focus on end-to-end testing.\nCollaborated with cross-functional teams to enhance distributed computing capabilities, supporting scalability and high availability through Cloud services.\nConducted regular code reviews and implemented best practices to ensure the team's adherence to data engineering and machine learning principles, facilitating knowledge transfer and skill enhancement among team members."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained **MLOps** pipelines, integrating **Docker** and **Kubernetes** for seamless deployment and scaling of machine learning models, improving deployment times by **30%**.\n• Built and orchestrated ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, enabling efficient batch and real-time ingestion of financial data from internal and third-party sources, processing up to **50TB** of data monthly.\n• Implemented **distributed computing** solutions for real-time data processing, leveraging **Kafka** and **RabbitMQ** for asynchronous communication, thus enhancing throughput by **40%**.\n• Developed **machine learning** models for fraud detection using **scikit-learn** and **XGBoost**, enabling a detection accuracy improvement of **20%** over previous benchmarks.\n• Applied **data engineering** best practices to maintain and optimize data structures for high performance and scalability in transaction-heavy applications.\n• Conducted robust testing and validation of algorithms to ensure optimal performance, incorporating advanced **data structures** and sophisticated **algorithms** to enhance model efficiency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Leveraged **Python** to design and optimize data pipelines that facilitate machine learning workflows, ensuring high availability and performance using **Docker** and **Kubernetes** for container orchestration and deployment management.\nImplemented MLOps best practices to modernize the deployment processes, utilizing **Pipeline Orchestrators** for seamless model training and integration.\nEngineered robust, scalable solutions that enhance data accessibility and processing capabilities through techniques in **Distributed Computing**, optimizing throughput for high-volume datasets.\nDeveloped and maintained real-time data ingestion processes powered by **MLOps** strategies, improving processing speed by **30%** over prior methods.\nUtilized advanced **Data Engineering** methodologies for efficient data transformation and storage, working with various databases to support dynamic data environments.\nApplied robust **Data Structures** and **Algorithms** to improve data processing efficiency by **45%**, enhancing the overall performance of machine learning models.\nIntegrated machine learning models into production environments, ensuring seamless communications between varying system components while maintaining system integrity and performance.\nParticipated in code reviews and collaborative development sessions, fostering an environment of continuous improvement and innovation within the data engineering team.\nCollaborated with cross-functional teams to align machine learning initiatives with business objectives, contributing to a **25%** increase in project delivery speed.\nMaintained compliance with industry standards and best practices for data security and governance throughout the engineering and deployment processes."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\t\n\n **Other:**\n\tMLOps, Pipeline Orchestrators, Distributed Computing, Data Engineering, Machine Learning, Data Structures, Algorithms",
+  "apply_company": "Fetcherr"
+}

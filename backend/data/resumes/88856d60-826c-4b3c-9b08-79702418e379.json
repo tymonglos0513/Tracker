@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Platform Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Platform Engineer with 8 years of comprehensive experience in **Cloud Engineering** and **DevOps**, I excel in leveraging **AWS**, **Azure**, and **GCP** to build scalable and efficient infrastructure solutions. Proficient in **Kubernetes**, **Terraform**, and **Ansible**, I streamline deployment processes and enhance system reliability. My background encompasses robust **Python** development for automating cloud operations and integrating advanced technologies into enterprise-grade platforms.  \nI have successfully led teams in delivering high-performance solutions within the healthcare and financial sectors. My skill set includes a proven ability to drive collaboration, ensuring seamless communication and technical excellence across cross-functional teams. I am dedicated to adherence to compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2, while cultivating a culture of continuous improvement and innovation.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Platform Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Spearheaded cloud engineering initiatives using **AWS** and **Azure**, ensuring robust scalable solutions while adhering to best practices for **DevOps**.\n- Engineered and optimized cloud-native applications leveraging **Kubernetes** for efficient orchestration of microservices, enhancing system resilience and operational efficiency.\n- Developed infrastructure as code using **Terraform** and **Ansible**, streamlining deployment pipelines and increasing team productivity by **30%**.\n- Led cross-functional teams in agile environments, fostering collaboration and technical excellence, resulting in a **25%** reduction in project delivery time.\n- Architected platforms utilizing **Python** (FastAPI) and modern frameworks while ensuring compliance with industry standards.\n- Designed and built high-availability systems integrating with third-party APIs, optimizing service performance and response times by **40%**.\n- Implemented CI/CD processes leveraging tools like GitHub Actions, enhancing deployment frequency to multiple environments and improving overall product stability.\n- Managed cloud resources effectively using a combination of **AWS** tools, achieving **99.9%** uptime across services.\n- Collaborated closely with data scientists to integrate machine learning models into production, ensuring smooth deployment and real-time data processing capabilities.\n- Established best practices for monitoring and analytics, incorporating tools to track performance metrics and application health, providing actionable insights for continuous improvement.\n- Guided the team to adopt iterative development methodologies, facilitating knowledge sharing and promoting a culture of continuous learning and innovation."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Managed cloud infrastructure and deployment using **AWS**, **Azure**, and **GCP**, ensuring high availability and scalability of financial platforms.\nImplemented **Terraform** and **Ansible** for infrastructure as code (IaC), streamlining provisioning and configuration management processes for efficient cloud resource management.\nLed the architecture and deployment of containerized applications with **Kubernetes**, improving deployment speed and resource utilization for financial services.\nChampioned best practices in **DevOps** culture, enhancing collaboration across teams and accelerating release cycles through Continuous Integration/Continuous Deployment (CI/CD) pipelines.\nGuided a cross-functional team focused on financial platform modernization, achieving a **30%** reduction in operational downtime and improving incident response times by **40%**.\nDeveloped and modernized financial platforms by adopting a microservices-based architecture using **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, boosting scalability and throughput for high-volume transaction systems.\nBuilt user-focused front-end applications using **React (18)**, **Vue 3**, **Next.js**, and **TypeScript**, leveraging **Redux Toolkit** and **Tailwind CSS** for responsive financial dashboards and admin portals.\nIntegrated **Kafka**, **RabbitMQ**, and **Azure Service Bus** for robust event-driven architecture, supporting asynchronous communication for transactions and compliance workflows.\nDesigned ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory**, facilitating batch and real-time data ingestion from various sources.\nImplemented AI/ML fraud detection systems using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, enhancing the security of banking systems by proactively flagging risky transaction patterns."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Demonstrated **cloud engineering** skills by managing infrastructure on **AWS**, **Azure**, and **GCP**, optimizing deployment processes, and ensuring high availability for global e-commerce platforms.\nLed **DevOps** initiatives, implementing **Kubernetes** for container orchestration and utilizing **Terraform** and **Ansible** for infrastructure as code, achieving a **30%** reduction in deployment time.\nDesigned and optimized backend services using **Python** (FastAPI, Django) and Node.js (NestJS, Express), ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nEngineered real-time features leveraging event-driven architecture powered by **Kafka** and **RabbitMQ**, improving order update responsiveness by **15%** and enhancing dynamic inventory tracking.\nDeveloped frontend applications utilizing **React 18**, **Vue 3**, and **Angular**, enhanced with **TypeScript**, **Redux Toolkit**, and **Tailwind CSS**, delivering fast, responsive user experiences on both web and mobile platforms.\nLeveraged **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data storage, ensuring speed and fault tolerance, achieving a **40%** improvement in data access response times for high-traffic e-commerce workflows.\nIntegrated AI/ML-based recommendation engines using **scikit-learn**, **LightGBM**, and **TensorFlow**, enhancing product listing personalization and improving conversion rates by **25%** based on real-time behavioral data.\nImplemented **Redis** caching for product metadata and shopping cart sessions, significantly enhancing application responsiveness and reducing database read pressure.\nManaged feature flags and blue-green deployments with **LaunchDarkly** and **Kubernetes** namespaces, facilitating controlled rollouts and A/B testing, which reduced deployment risks during major platform updates.\nCreated responsive, SEO-friendly e-commerce UIs utilizing **Next.js**, **Vue 3 + Nuxt**, and **HTML5/CSS3**, optimized for mobile-first engagement and adherence to accessibility standards like WCAG 2.1.\nBuilt secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, employing tokenized transactions and PCI-compliant handling of sensitive data.\nApplied role-based access control (**RBAC**) and **OAuth 2.0** for secure access, ensuring GDPR compliance and protection of user data throughout the platform."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript, React, Vue, Angular\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, GCP\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Team Management, Collaboration, Technical Excellence",
+  "apply_company": "Filigran"
+}

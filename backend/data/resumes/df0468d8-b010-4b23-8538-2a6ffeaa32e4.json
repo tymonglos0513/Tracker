@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior MLOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior MLOps Engineer with 13+ years of experience delivering high-performance applications in the healthcare and financial industries. Expertise in **MLOps**, including model training, serving, and orchestration using **MLflow**, **Airflow**, and **Kubeflow**. Proficient in deploying cloud-native systems on **AWS**, **Azure**, and **Google Cloud** and experienced in implementing **CI/CD** processes with tools like **Jenkins**. Strong skills in **Docker** and **Kubernetes** for container orchestration, with a focus on building scalable, efficient systems.\n\nSkilled in **Python** and R for data analysis and modeling, with hands-on experience in machine learning frameworks such as **TensorFlow** and **PyTorch**. Known for problem-solving capabilities and effective communication, with a strong foundation in data security practices that align with compliance standards. Committed to advancing AI/ML-driven solutions that support predictive analytics and real-time processing.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior MLOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented **MLOps** workflows utilizing **MLflow**, **DVC**, and **Airflow** for managing model training, validation, and deployment pipelines across development and production environments, ensuring seamless integration and reliability.\nDesigned and constructed robust data infrastructures employing **Docker**, **Kubernetes** (AKS/EKS), and serverless functions via **AWS Lambda** and **Azure Functions** to enhance scalability and facilitate microservices architecture.\nDeveloped CI/CD pipelines tailored for machine learning projects through **Jenkins**, incorporating automation practices that ensure high-quality releases and compliance with **data security** protocols.\nCollaborated closely with ML teams to deploy advanced models with **TensorFlow** and **PyTorch**, integrating them into applications for tasks such as fraud detection and document classification.\nImplemented monitoring solutions using **Prometheus** and **Grafana**, providing insights into system performance and alerts for any anomalies in model behavior, fostering proactive troubleshooting.\nLed the transformation of legacy systems to modern infrastructures, translating complex requirements into efficient and secure workflows, showcasing strong **problem-solving** abilities.\nUtilized **Python** for robust backend development, improving application performance and optimizing data processing for real-time analytics.\nEnsured strong cross-functional **communication** by collaborating with stakeholders, developers, and data scientists to align on project goals and timelines, optimizing project execution.\nConducted rigorous testing strategies including unit, integration, E2E, and contract-level tests using tools like **PyTest** to guarantee high standards of code reliability and functionality.\nLeveraged cloud services such as **AWS** and **Azure** to enhance data processing capabilities, ensuring compliance with industry standards and improving overall system resilience."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **MLOps** practices to streamline machine learning workflows, integrating **Docker** and **Kubernetes** for containerization and orchestration, ensuring scalable and reproducible deployments.\nLeveraged **Python** and libraries such as **TensorFlow** and **PyTorch** to develop and deploy machine learning models, achieving a **95%** accuracy rate in fraud detection and a **30%** reduction in false positives.\nUtilized **AWS** and **Azure** services to enhance model training and deployment processes, optimizing resource utilization with an **up to 40%** cost reduction on cloud services.\nEstablished CI/CD pipelines with **Jenkins** to automate model testing and deployment, ensuring rapid iterations and maintaining high software quality.\nImplemented robust data security measures to safeguard sensitive financial data, adhering to compliance requirements while ensuring seamless data flow across environments.\nDeployed monitoring tools like **Prometheus** and **Grafana** to track the performance and health of ML models in production, ensuring timely alerts and interventions to errors or performance dips.\nExecuted performance tuning strategies leading to a **50%** improvement in data processing speeds by optimizing data ingestion pipelines using **Apache Airflow**.\nCollaborated effectively with cross-functional teams to resolve complex problems, enhancing communication and workflow efficiency across data science, engineering, and operations teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines utilizing **Jenkins** and **Docker** to streamline deployment processes, enhancing workflow efficiency by **30%**.\nEngineered machine learning workflows using **TensorFlow**, **PyTorch**, and **R**, ensuring smooth integration and deployment of models across cloud services like **AWS**, **Azure**, and **Google Cloud**.\nUtilized **Kubernetes** for orchestrating containerized applications, enabling seamless scaling and management of resources during peak traffic periods, reducing deployment time by **40%**.\nConfigured monitoring solutions with **Prometheus** and **Grafana** to track system performance and trigger alerts, improving incident response times by **25%**.\nDeveloped and maintained robust data security protocols, incorporating **OAuth 2.0** and **RBAC** strategies to protect sensitive information and ensure compliance with GDPR standards.\nLed cross-team communication initiatives to align project goals and improve problem-solving capabilities, resulting in enhanced collaborative efforts on machine learning projects.\nDesigned and optimized backend services for a global e-commerce platform using **Python** (FastAPI, Django) and Node.js (NestJS, Express), ensuring high availability and scalability across key modules like checkout and order fulfillment.\nLeveraged database technologies such as **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for efficient data storage and access, crucial for high-traffic e-commerce operations.\nIntegrated advanced AI/ML features using scikit-learn and LightGBM to enhance user experiences and personalize product recommendations based on real-time user interactions."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, R\n\n **Artificial Intelligence & Machine Learning:**\n\tMLflow, Airflow, Kubeflow, TensorFlow, PyTorch\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, Google Cloud\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, CI/CD, Terraform, Ansible, Helm, Docker Compose, monitoring tools, Prometheus, Grafana\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **Other:**\n\tdata security, problem-solving, communication"
+}

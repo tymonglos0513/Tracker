@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience in delivering high-performance applications across the healthcare and financial sectors. Proficient in **Go**, **Linux**, and **Postgres**, with hands-on expertise in automation and virtualization technologies, including **QEMU** and **VMs**. Skilled in utilizing both frontend and backend frameworks such as **JavaScript/TypeScript**, **Python**, **React**, **Next.js**, **Node.js**, and **Django** to create robust applications. \nExperienced in developing solutions that integrate with compliance-driven standards, including HIPAA and PCI DSS. Strong background in AI/ML platforms leveraging technologies for predictive analytics and automation, alongside deploying cloud-native systems on **AWS** and **Azure**. Adept at implementing microservices, event-driven architectures, and CI/CD pipelines, and well-versed in MLOps practices using tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed scalable backend services using **Go**, ensuring high performance and low latency in healthcare and fintech applications.\n• Implemented automation processes in **Linux** environments to streamline development workflows, enhancing deployment efficiency by **40%**.\n• Designed and managed robust PostgreSQL databases for handling **9 TB** of data, ensuring data integrity and optimizing query performance.\n• Built and maintained virtual machines (VMs) using **QEMU**, facilitating isolated development environments for team members.\n• Conducted security assessments and mitigated vulnerabilities related to malware, ensuring compliance with industry standards.\n• Contributed to the development of **RFCs** to propose enhancements and standardize practices across the engineering teams.\n• Streamlined CI/CD pipelines integrating testing and deployment on **Linux** servers, achieving a **30%** reduction in deployment times.\n• Engaged in performance tuning and troubleshooting to enhance application reliability and minimize downtime, achieving an uptime of **99.9%** over **12 months**.\n• Collaborated with cross-functional teams to ensure seamless integration of **Postgres** with existing service architecture, optimizing data access patterns.\n• Implemented automated testing strategies that improved code quality and reduced bugs in production environments, ensuring reliable software delivery."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Go** to develop efficient, high-performance microservices applications, enhancing system reliability and speed for financial transactions.\nImplemented automation strategies on **Linux** servers for streamlined deployment processes and continuous integration, resulting in a **30% reduction in deployment time**.\nDesigned, optimized, and maintained **Postgres** databases for transactional systems, achieving a **99.9% uptime** and ensuring data integrity and availability across microservices.\nLeveraged virtualization technologies like **QEMU** for testing and deploying applications in isolated environments, thereby increasing development efficiency by **25%**.\nConducted security assessments and incident response strategies focused on **malware** threats, fortifying system defenses and adhering to industry compliance standards.\nCollaborated on drafting **RFCs** to outline new feature implementations and system enhancements, aligning with team goals and technical requirements.\nImplemented **automation** solutions for repetitive tasks, boosting team productivity and reducing operational overhead.\nDesigned and maintained **VMs** for development and testing environments, facilitating a seamless workflow for the development team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Go** to develop high-performance backend services, ensuring robust solutions for system efficiency and scalability in line with best practices.\nImplemented automation strategies using **Linux** environments for streamlined deployment processes and management of systems and applications.\nDesigned and maintained **Postgres** databases to support application data management, optimizing query performance and ensuring data integrity across multiple instances.\nConducted thorough analysis and remediation of software vulnerabilities in line with **RFCs**, focusing on malware prevention and security hardening practices.\nLeveraged **QEMU** for virtualization solutions, enabling effective testing and deployment of applications in isolated environments to enhance development feedback loops.\nApplied automation frameworks to facilitate the deployment of **VMs**, creating a reliable and consistent environment for application hosting and development.\nEngaged in enhancing system diagnostics and monitoring solutions to prevent issues before they affect end users, applying best-practice methodologies for system maintenance.\nIntegrated security measures into the software development life cycle (SDLC) to protect sensitive data and meet compliance requirements, ensuring software reliability and user trust.\nContributed to team knowledge sharing through documentation of processes and tools, fostering a culture of continuous improvement across engineering practices."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tGo, Python, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, Linux\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, QEMU, Malware, RFCs, Automation, VMs",
+  "apply_company": "Recorded Future"
+}

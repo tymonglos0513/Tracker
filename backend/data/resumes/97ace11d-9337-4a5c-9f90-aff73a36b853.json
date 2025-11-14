@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Full Stack Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Results-driven Senior Full Stack Engineer with over 10 years of experience in designing and implementing robust backend and frontend solutions. Proficient in **C#**, **.NET**, **.NET Core**, **ASP.NET Web API**, and databases such as **MSSQL** and **PostgreSQL**. Expertise in **RESTful API design** and microservices architecture, with a strong focus on creating high-performance applications using **Vue.js**, **TypeScript**, and state management libraries like **Vuex** and **Pinia**. Familiar with cloud services including **Azure** and **AWS**, along with orchestration tools like **Docker** and **Kubernetes**. Strong background in implementing CI/CD practices, utilizing **Git**, **Terraform**, and **Helm** for seamless deployments and infrastructure management. Committed to maintaining security best practices and agile development methodologies while ensuring code quality through unit testing and test automation strategies. Proven success in delivering impactful projects within the financial sector at industry leaders like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Full Stack Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Designed and developed robust backend services using **C#**, **.NET Core**, and **ASP.NET Web API** to enhance document automation processes and streamline user onboarding workflows.\nImplemented efficient data storage solutions utilizing **MSSQL** and **PostgreSQL**, optimizing data retrieval times by over **30%** through advanced query optimization techniques.\nArchitected and deployed scalable microservices with **Docker** and **Kubernetes**, managing container orchestration to ensure high availability and performance for applications running on **Azure** and **AWS**.\nUtilized **Entity Framework** and **LINQ** for effective database interactions, reducing development time by **20%** while maintaining code quality and alignment with **RESTful API design** principles.\nEmployed CI/CD pipelines with **Git** and automated testing frameworks to enhance deployment efficiency, achieving a deployment success rate of **99%** across multiple applications.\nImplemented security best practices by incorporating **OAuth2** authentication and role-based access control, significantly improving system security and user data protection.\nLed agile development teams to address system integration challenges and ensure compliance with regulatory standards, spearheading multi-disciplinary collaboration to innovate and release features on schedule."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems using **C#**, **.NET 6+**, and **ASP.NET Web API** for superior performance and maintainability.\n• Designed and implemented RESTful APIs with **Entity Framework** and **LINQ**, ensuring efficient data access and manipulation for high-traffic applications.\n• Created frontend applications utilizing **Vue.js**, **TypeScript**, and state management with **Vuex**, enhancing user experience and responsiveness for over **1,000** active users.\n• Managed relational databases including **MSSQL** and **PostgreSQL**, implementing efficient schema designs to support a transactional load of over **10,000** database queries per second.\n• Designed and developed CI/CD pipelines integrating **Git**, **Docker**, and **Kubernetes** for seamless deployment of applications across cloud environments including **Azure**, **AWS**, and **GCP**.\n• Led the architecture of microservices applications with technologies such as **RabbitMQ** and **Kafka**, enabling robust communication and distributed processing across services.\n• Integrated security best practices with a focus on **OAuth2**, providing secure authentication protocols and access controls to comply with industry standards.\n• Conducted automated testing with frameworks to ensure code quality and performance, achieving over **95%** test coverage across developed features.\n• Collaborated with cross-functional teams in an **agile development** environment, resulting in successful product releases and improved project throughput."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed backend microservices for trade execution and portfolio management using **Python**, **Flask**, and **PostgreSQL**, enhancing trading operations with a 25% increase in efficiency.\n• Engineered real-time price feed processors utilizing **asyncio**, **WebSockets**, and **Redis**, ensuring delivery of up-to-the-minute trading data for **high-frequency transactions** with **99.9%** uptime.\n• Collaborated with frontend teams on **RESTful API design** and integration with **Vue.js**, facilitating seamless data flow and enhancing user experience by improving load time by **30%**.\n• Ensured compliance with regulatory requirements including **MiFID II** and **GDPR**, while following **security best practices** during system deployments.\n• Implemented comprehensive test strategies using **automated testing frameworks** like **PyTest** and **tox**, leading to a **40%** reduction in bugs during deployments.\n• Introduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution, resulting in a **35%** improvement in process management efficiency.\n• Actively participated in **agile development** practices to deliver features on a **bi-weekly** sprint cycle, maintaining a commitment to high-quality code and continuous integration using **CI/CD pipelines**."
+    }
+  ],
+  "skills": "Programming Languages:\n\t**C#**, **JavaScript**, **Python (3.8+)**, **SQL**, **Bash**, **TypeScript**\n\nBackend Frameworks:\n\t**.NET**, **.NET Core**, **.NET 6+**, **ASP.NET Web API**, **FastAPI**, **Flask**, **Django**, **Celery**, **Entity Framework**\n\nFrontend Frameworks:\n\t**Vue.js**, **Vuex**, **Pinia**\n\nAPI Technologies:\n\t**RESTful API design**, **REST/gRPC APIs**, **Microservices**, **RabbitMQ**, **Kafka**, **Azure Service Bus**\n\nServerless and Cloud Functions:\n\t**AWS (EC2, S3, Lambda)**, **Azure**, **GCP**\n\nDatabases:\n\t**MSSQL**, **PostgreSQL**, **MySQL**, **MongoDB**, **Redis**\n\nDevOps:\n\t**Docker**, **Kubernetes**, **GitHub Actions**, **Azure DevOps**, **CI/CD**, **Terraform**, **Helm**, **security best practices**\n\nCloud & Infrastructure:\n\t**AWS**, **Azure**, **GCP**\n\nOther:\n\t**AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow**, **microservices architecture**, **automated testing frameworks**, **unit testing**, **integration testing**, **test automation**, **agile development**, **PyTest**, **Git**"
+}

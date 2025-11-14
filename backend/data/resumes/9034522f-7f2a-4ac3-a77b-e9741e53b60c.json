@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Python Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-driven **Senior Python Engineer** with 13+ years of experience in delivering scalable applications, specializing in **FastAPI**, **Python**, and **React**. Proven expertise in building cloud-native systems on **AWS** utilizing **ECS** and **Fargate**, along with containerization using **Docker** and implementing robust **CI/CD** pipelines. Skilled in data processing and model inference, well-versed in natural language processing (**NLP**) methodologies.\n\nAccomplished in crafting high-performance applications across healthcare and financial sectors, with a strong foundation in backend development and deployment strategies. Demonstrated capability in developing AI/ML-powered platforms to facilitate predictive analytics and automation. Proficient in compliance with HIPAA, FHIR, PCI DSS, and SOC 2 standards, ensuring quality and security in all deployments. Strong background in MLOps, enhancing model training, serving, and orchestration using advanced tools. Passionate about adopting scalable architectures that drive innovation.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and built full-stack platforms for healthcare and fintech using **Python** (**FastAPI**) and **React** (versions **17-18**), ensuring applications meet industry standards for security and data privacy.\n- Developed scalable architectures with **Docker** and AWS services like **ECS** and **Fargate** to support high availability and fault tolerance in cloud deployments.\n- Created CI/CD pipelines utilizing industry-standard tools for continuous integration and delivery, enhancing deployment speed and reliability for applications.\n- Implemented data processing strategies, focusing on efficient management of large datasets, leveraging **NLP** techniques to optimize data workflows and insights.\n- Managed model inference processes for real-time applications, integrating machine learning models developed in frameworks like **scikit-learn** and **PyTorch** into production systems for immediate impact.\n- Delivered robust testing frameworks utilizing tools such as **Jest** and **PyTest** to ensure high levels of reliability and maintainability across all application layers.\n- Collaborated with cross-functional teams to design intelligent systems with predictive capabilities using advanced data models, ensuring scalable, efficient solutions for users.\n- Applied knowledge of CI/CD best practices to automate deployment workflows, enhancing the team's productivity and reducing manual errors.\n- Conducted rigorous performance monitoring and optimization of applications to ensure all components operate efficiently within cloud environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Developed scalable architecture using **FastAPI** and **Python**, migrating legacy systems to microservices architecture for enhanced performance in high-volume transactional environments.\n• Delivered interactive front-end applications with **React (18)** and **TypeScript**, creating responsive user interfaces for financial tools and admin panels with Redux Toolkit and Tailwind CSS.\n• Implemented CI/CD pipelines, utilizing **Docker** to streamline deployment processes and ensure consistent application builds across **AWS ECS** and **Fargate** services.\n• Conducted data processing by creating ETL pipelines to ingest financial data from various sources using **Python**, supporting both batch and real-time analytics capabilities.\n• Designed machine learning models for fraud detection using **scikit-learn** and **XGBoost**, allowing for proactive identification of suspicious transactions based on behavior patterns.\n• Leveraged **NLP** techniques to enhance user interactions and predictive analytics features, improving overall accuracy in transaction classification.\n• Created and integrated ML pipelines for real-time applications such as credit scoring and churn prediction into backend services using **Model Inference** strategies, ensuring seamless functionality for users.\n• Provided real-time performance metrics and insights through analytics dashboards, using **Power BI Embedded** for operations teams to detect transaction anomalies swiftly."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Engineered scalable backend services utilizing **Python** with **FastAPI** for a global e-commerce platform, achieving a high availability rate of **99.9%** and low latency in key modules like checkout and order fulfillment.\n• Developed and maintained applications with **React** (version **18**) for dynamic frontend user experiences, enhancing performance and accessibility across both web and mobile platforms.\n• Designed containerized applications using **Docker**, deploying on **AWS ECS** and **Fargate**, achieving an efficient multi-container architecture with seamless scaling.\n• Implemented CI/CD pipelines to facilitate automated testing and deployment processes, reducing deployment time by **30%** and all while ensuring stability and reliability across environments.\n• Integrated Natural Language Processing (NLP) technologies for enhanced data processing, including model inference using current data from user interactions, leading to a **25%** increase in user engagement.\n• Applied robust scalable architecture practices ensuring fault-tolerant data access through a hybrid cloud approach with **AWS** solutions, accommodating peak traffic loads significantly higher than **10,000** concurrent users.\n• Utilized **Redis** for caching and fast access to product metadata, driving down server response times by **40%** and optimizing user interactions.\n• Developed and implemented a model for secure payment processing leveraging industry standards with platforms such as **Stripe** and **PayPal**, ensuring compliance with PCI guidelines and data security best practices.\n• Fostered effective collaboration and continuous improvement within development teams through agile methodologies, enhancing project completion rates on time by **20%**."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, JavaScript/TypeScript \n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django \n\n **Frontend Frameworks:** \n\tReact, Vue, Angular \n\n **API Technologies:** \n\tNLP, Model Inference \n\n **Serverless and Cloud Functions:** \n\tAWS: Lambda, Fargate \n\n **Cloud & Infrastructure:** \n\tDocker, Kubernetes, AWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database \n\n **DevOps:** \n\tGitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose \n\n **Databases:** \n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis \n\n **Other:** \n\tCI/CD, Data Processing, Scalable Architecture, Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "W3Global"
+}

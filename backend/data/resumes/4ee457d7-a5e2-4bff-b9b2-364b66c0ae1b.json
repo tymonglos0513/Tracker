@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Software Engineer with 10+ years of experience in developing high-performance backend systems and financial platforms. Proficient in **C#**, **Python** (FastAPI, Django, Flask), and **SQL**, with expertise in cloud services like **AWS**. Strong knowledge of **Snowflake**, **Angular**, **React**, **Vue.js**, and **PowerBI** to create scalable, efficient applications. Experienced in integrating AI solutions and building automation tools using **Databricks**. Demonstrated history of delivering impactful projects for leading organizations such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to engineer backend services using **FastAPI**, enhancing document automation, user onboarding, and reporting workflows for optimal performance.\nEmployed **Celery** and **Redis** for developing event-driven solutions, effectively managing asynchronous processing for over **5,000** financial transaction requests.\nDeployed scalable microservices on **Azure App Services** and implemented **Terraform** for infrastructure as code, ensuring efficient cloud operations and a reduction in deployment time by **30%**.\nDesigned and upheld data pipelines for regulatory data exchanges with **Apache Airflow** and **Azure Functions**, ensuring a timely and accurate data flow with processing times reduced to under **2 hours**.\nConducted thorough security assessments and integrated **OAuth2** and **Azure AD B2C** to establish secure and scalable authentication systems, servicing over **10,000** users.\nCollaborated with cross-functional teams to tackle system integration challenges, ensuring compliance with industry standards while managing release strategies across **3** core platforms."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed robust backend systems utilizing **Python** and **FastAPI** to enhance user onboarding, automate document workflows, and manage comprehensive reporting processes.\n• Engineered event-driven microservices featuring **Celery** and **Redis**, facilitating asynchronous processing for over **10,000** financial transactions daily.\n• Managed the deployment of microservices on **Azure App Services**, employing **Terraform** for infrastructure automation to create services that scale efficiently and consistently across multiple environments.\n• Designed and implemented data pipelines for secure regulatory data exchange, harnessing **Apache Airflow** and **Azure Functions** for a data flow upgrade that improved processing speed by **30%**.\n• Conducted thorough security audits, ensuring compliance with industry standards, while integrating **OAuth2** and **Azure AD B2C** for effective authentication and secure access control mechanisms.\n• Collaborated with cross-functional teams to guarantee seamless system integration, maintain regulatory compliance, and achieve successful release management on projects with deadlines of up to **3 months**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed backend services for Order Management Systems (OMS) and Execution Management Systems (EMS) using **Python**, **Flask**, and **PostgreSQL**, enhancing trading operations.\n• Engineered real-time price feed processors with **asyncio**, **WebSockets**, and **Redis** to deliver up-to-the-minute trading data for high-frequency transactions, achieving a data update frequency of **0.1 seconds**.\n• Collaborated closely with frontend teams utilizing **Angular**, **React**, and **Vue.js** to deliver data through REST APIs and WebSocket channels, ensuring smooth user interaction with the platform and improving load times by **30%**.\n• Ensured the platform met regulatory requirements, including **MiFID II** and **GDPR**, while adhering to internal data security protocols.\n• Implemented comprehensive test suites with **PyTest**, **tox**, and mock servers, streamlining QA and CI processes for efficient development cycles, resulting in a **50%** reduction in bugs during production.\n• Introduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and process management, reducing task completion times by **25%**.\n• Developed data analytics dashboards utilizing **PowerBI** and integrated with cloud data warehouses such as **Snowflake**, providing real-time business insights."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python, SQL, C#\n\n **Frontend Frameworks**\n\t Angular, React, Vue.js\n\n **Backend Frameworks**\n\t FastAPI, Flask, Django, Celery\n\n **API Technologies**\n\t REST/gRPC APIs\n\n **Serverless and Cloud Functions**\n\t AWS (Lambda), Azure\n\n **Databases**\n\t PostgreSQL, MySQL, MongoDB, Redis, Snowflake\n\n **DevOps**\n\t Docker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n **Cloud & Infrastructure**\n\t AWS (EC2, S3)\n\n **Other**\n\t OMS, EMS, PowerBI, Databricks, Kafka, AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Microservices, PyTest, Git",
+  "apply_company": "Soros Fund Management"
+}

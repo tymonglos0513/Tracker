@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior AWS Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior AWS Engineer with 10+ years of experience in delivering high-performance software solutions, specializing in **AWS** and **CI/CD** practices. Proficient in **Docker**, **Kubernetes**, **Terraform**, **GitHub**, **GitLab**, and **Jenkins**, with a strong focus on building and automating deployment workflows to enhance operational efficiency. Skilled in **Python**, **JavaScript**, and **TypeScript**, with hands-on development expertise across multiple frameworks including **React**, **Next.js**, and **Node.js**. Experienced in cloud-native application deployment on platforms like **AWS**, while ensuring system compliance with standards such as HIPAA and PCI DSS. Strong background in microservices architecture and event-driven systems, complemented by practical experience in CI/CD automation. Demonstrated ability to manage and optimize production workflows and MLOps using tools like **MLflow** and **Airflow**. Passionate about leveraging technology to drive real-world impact.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AWS Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable, cloud-native solutions using **AWS** services including AWS Lambda, ensuring high availability with **Kubernetes** (AKS/EKS) and **Docker** for container orchestration.\n• Developed CI/CD pipelines utilizing **GitHub Actions**, **Jenkins**, and **Terraform** to automate deployments and infrastructure management across multiple environments.\n• Leveraged **Python** and **JavaScript**/TypeScript for backend services, ensuring robust application performance and compliance with regulations.\n• Collaborated on MLOps pipelines using tools like **MLflow** and **Apache Airflow** to ensure model versioning and deployment, supporting both development and production workflows.\n• Architected and deployed full-stack applications that integrates seamlessly with **AWS CloudWatch**, **DataDog**, and **Grafana** for monitoring and optimizing cloud resource usage.\n• Implemented advanced logging and monitoring capabilities using **Kibana** and **Grafana**, helping to analyze system health and application performance metrics.\n• Established infrastructure as code solutions with **Terraform** and **Terragrunt**, enabling reproducible and auditable deployments in dynamic environments.\n• Initiated cross-team collaborations to optimize deployment strategies and reduce downtime for development and production applications by **30%**.\n• Integrated **Bash** scripts for automating routine tasks while managing Linux and Unix based servers across development and production environments.\n• Enhanced application security through continuous integration/training and vulnerability scanning processes within the CI/CD pipelines, achieving a **50%** reduction in security incidents.\n• Successfully migrated legacy applications to microservices architecture, resulting in **40%** improved scalability and maintainability for critical business operations."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines using **Jenkins** and **GitHub** to improve deployment frequency by **30%**, ensuring seamless integration and delivery across multiple environments.\nManaged infrastructure using **Terraform** and **Terragrunt**, provisioned across **AWS** services, achieving a **40% reduction** in deployment time while maintaining high availability and scalability.\nConfigured and optimized container orchestration with **Kubernetes** and **Docker**, leading to efficient resource utilization and reliability for microservices.\nMonitored system performance and health using **Grafana**, **Kibana**, and **DataDog**, resulting in a **25% decrease** in incident response time by enabling proactive resource management.\nAutomated configuration management with **Ansible**, streamlining updates and patches across **Linux** and **Unix** servers, enhancing system security and compliance.\nDeveloped and maintained applications using **Python** and **JavaScript**, integrating with various **AWS** services to support serverless architectures and improve throughput for operational workloads.\nCollaborated with cross-functional teams to design reliable systems, utilizing **AWS** features like **CloudWatch**, **CloudFront**, and **AKAMAI** for enhanced content delivery and application performance.\nConducted performance tuning and optimization for cloud-based applications, resulting in an **uptime improvement** of **99.9%** across all environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines using **Jenkins** and **GitHub** to automate deployments, enabling efficient code integration and delivery for a global e-commerce platform with **99.9% uptime**.\nOptimized and managed **AWS** services including **CloudWatch** for monitoring performance, **CloudFront** for content delivery, and **Terraform** for infrastructure as code, resulting in **30% faster** deployment times and significant cost savings.\nUtilized **Docker** and **Kubernetes** for container orchestration, ensuring scalable and resilient application deployment across development, staging, and production environments, maintained under **5 seconds** response times.\nDeveloped automation scripts using **Ansible** and **Bash** to streamline server configuration and management tasks, leading to a **40% reduction** in manual overhead for infrastructure management.\nEngaged in proactive system monitoring using **Grafana**, **Kibana**, and **DataDog**, which improved issue detection rates by **50%**, ensuring high availability and performance of applications.\nSecured cloud environments through identity management and role-based access control, using **OAuth 2.0** and integrated security tools to maintain **GDPR compliance** and protect sensitive user data.\nCollaborated with cross-functional teams utilizing **GitLab** for version control and code reviews, enhancing team productivity and maintaining code quality across **100+ deployments** per month.\nSupported disaster recovery processes through continuous backup strategies and infrastructure redundancy measured to achieve **99.999% data durability**, ensuring data safety for business continuity."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks**\n\tReact, Vue, Angular\n\n**API Technologies**\n\tNginx, JWT, OAuth2\n\n**Serverless and Cloud Functions**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Ansible, Terraform, Helm, Docker Compose\n\n**Cloud & Infrastructure**\n\tTerraform, AWS, Azure, Grafana, Kibana, DataDog, CloudWatch, CloudFront, AKAMAI\n\n**Other**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Let’s Encrypt, Certbot, Bash, Linux, Unix",
+  "apply_company": "IT Infrastructure & Operations"
+}

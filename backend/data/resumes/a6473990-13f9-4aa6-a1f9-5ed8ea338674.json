@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Data Engineer with 13+ years of expertise in **Python**, **SQL**, and a range of data engineering tools such as **Apache NiFi**, **Kafka**, **PySpark**, and **ETL/ELT** processes. Proven track record in developing and managing **Data Lakes** and **Data Warehouses** while ensuring high data quality through rigorous checks. Skilled in leveraging **Streaming Technologies** to facilitate real-time data processing. Experienced with containerization using **Docker** and orchestration via **Kubernetes**, enhancing deployment efficiency and scalability.\nHands-on proficiency in integrating modern data solutions utilizing **Airbyte**, **Fivetran**, **Apache Hudi**, and **Ozone**. Additionally, brings strong skills in **AI/ML** applications and CI/CD practices, with a deep understanding of compliance-driven development within the healthcare and financial sectors, adhering to standards like HIPAA, FHIR, and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained ETL and ELT processes using **Apache NiFi**, **Kafka**, and **PySpark** to ensure high data quality and integrity for analytics and reporting.\nDesigned and implemented data pipelines that integrated with **Data Lakes** and **Data Warehouses**, optimizing storage and access for complex datasets.\nLeveraged **Docker** and **Kubernetes** to create containerized environments for efficient deployment of data services and applications, enhancing scalability and manageability in production.\nExecuted data quality checks and monitoring mechanisms to ensure reliable data ingestion and transformation across all platforms.\nBuilt real-time streaming technologies using **Kafka** and facilitated data flow to various applications and interfaces for timely decision-making.\nCollaborated with teams to design and implement graph databases, enhancing capabilities for handling interconnected data effectively.\nIntegrated **Airbyte** and **Fivetran** for data synchronization and replication, enabling seamless data integration from multiple sources.\nUtilized **Apache Hudi** and **Ozone** to manage data lifecycle and provide ACID transactions for large-scale data processing.\nAnalyzed and optimized performance of existing data workflows, resulting in a reduction of processing time by **40%** and improved resource utilization.S\nupported diverse business needs in healthcare and finance through thoughtful design of data models and architectures."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** along with **pandas** and **SQL** to efficiently manage data processing and integration tasks, ensuring high data quality and consistency throughout pipelines.\nEngineered and maintained ETL processes for extracting and loading data from diverse sources, employing **Apache NiFi** and **Kafka** for seamless data ingestion and real-time streaming.\nImplemented ELT strategies with **PySpark** to process large datasets in **Data Lakes** and **Data Warehouses**, resulting in a 25% reduction in processing time compared to previous batch methods.\nConducted comprehensive **Data Quality Checks** and ensured compliance with best practices in data handling, enhancing the reliability of insights derived from analytics.\nOrchestrated containerized applications using **Docker** and **Kubernetes**, facilitating a scalable architecture for **streaming technologies** and microservices integration.\nDesigned and developed data pipelines with **Airbyte** and **Fivetran**, automating the movement of data to support decision-making processes.\nExplored and employed **Apache Hudi** and **Ozone** for efficient data lake management, contributing to structured storage and optimized querying capabilities.\nAnalyzed large datasets to derive actionable insights and improve business performance, yielding measurable outcomes in data-driven initiatives."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** with **pandas** for data manipulation, cleanup, and transformation, ensuring high data quality and accuracy across **ETL** processes and data pipelines.\nDeveloped and optimized data workflows using **Apache NiFi** and **Kafka**, enabling efficient data ingestion and real-time processing for analytics and reporting.\nEngineered robust **ETL** and **ELT** frameworks adhering to best practices, implementing **Data Lakes** and **Data Warehouses** for scalable and structured data storage.\nConducted comprehensive **Data Quality Checks** ensuring integrity and reliability of data across various sources, enhancing insights for data-driven decision-making.\nLeveraged **Docker** and **Kubernetes** for containerization and orchestration of data workloads, achieving improved deployment consistency and scalability in cloud environments.\nImplemented streaming technologies to process live data, managing real-time analytics and insights that informed business strategies.\nDesigned and maintained graph databases to model complex data relationships, enhancing data retrieval and analysis efficiency for applications.\nManaged data ingestion pipelines with **Airbyte** and **Fivetran**, automating data extraction from various sources, resulting in significant time savings.\nUtilized **Apache Hudi** for managing data changes and implementing incremental data processing, increasing the efficiency of batch updates.\nImplemented **Ozone** for scalable cloud-native object storage, ensuring accessible and durable data management across multiple applications."
+    }
+  ],
+  "skills": " \n**Programming Languages:**\n\tPython, pandas, SQL \n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django \n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular \n\n**API Technologies:**\n\tNginx, Let’s Encrypt, Certbot, Keycloak (OIDC, RBAC), OAuth2, JWT \n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database \n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Graph Databases \n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose \n\n**Cloud & Infrastructure:**\n\tApache NiFi, Kafka \n\n**Other:**\n\tETL, ELT, Data Lakes, Data Warehouses, Data Quality Checks, Streaming Technologies, Airbyte, Fivetran, Apache Hudi, Ozone",
+  "apply_company": "ZABEL"
+}

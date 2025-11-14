@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Backend Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Senior Backend Engineer with over 10 years of experience in designing and delivering high-performing backend systems. Proficient in **Python**, specifically with frameworks such as **Django** and **Django REST**, and skilled in database management with **PostgreSQL**. Experienced in leveraging **Celery** for task management, and monitoring systems using **Sentry**, **Datadog**, and **Grafana**. Knowledgeable in version control with **Git**, and capable of utilizing search and analytics engines like **Elasticsearch** and **ClickHouse**. Well-versed in container orchestration with **Kubernetes** and API documentation standards through **OpenAPI** and **DRF Spectacular**. Recognized for delivering impactful solutions in financial systems and AI/ML pipelines while working with leading organizations such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** together with **Django** and **Django REST** to design and implement robust backend services, enhancing the efficiency of document automation and user onboarding workflows.\nEngineered event-driven architectures utilizing **Celery** and **Redis**, achieving a **30%** increase in the efficiency of asynchronous processing for financial transaction requests.\nDeployed scalable microservices leveraging **Azure App Services** and implemented **Terraform** for infrastructure as code, resulting in a **40%** reduction in deployment time.\nDeveloped and maintained reliable data pipelines for regulatory compliance using **Apache Airflow** and **Azure Functions**, ensuring a **98%** on-time data delivery rate.\nConducted thorough security assessments and integrated **OAuth2** and **Azure AD B2C**, enhancing authentication systems for strength and scalability.\nCollaborated effectively with diverse teams to overcome system integration challenges, maintain compliance, and oversee strategic release initiatives."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems using **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes.\n• Created event-driven microservices with **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests, enhancing processing speeds by **30%**.\n• Managed the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation to maintain consistent and scalable environments across **5** critical applications.\n• Engineered data pipelines for secure regulatory data exchange, utilizing **Apache Airflow** and **Azure Functions** to automate the data flow, improving data processing efficiency by **25%**.\n• Conducted security audits, ensuring compliance with industry standards, and integrated **OAuth2** and **Azure AD B2C** to manage authentication and enforce secure access controls.\n• Collaborated with cross-functional teams to ensure seamless system integration, regulatory compliance, and successful release management, achieving a **98%** on-time delivery rate."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed backend services utilizing **Python** and **PostgreSQL** for trade execution, portfolio management, and account tracking, directly enhancing trading operations by **30%** in efficiency.\n• Engineered real-time price feed processors using **asyncio**, **WebSockets**, and **Redis**, facilitating high-frequency transactions with a data delivery latency of under **50 milliseconds**.\n• Ensured smooth integration by delivering data through REST APIs powered by **Django REST**, collaborating effectively with frontend teams to enhance user interactions.\n• Complied with regulatory requirements including MiFID II and GDPR, meticulously adhering to robust internal data security protocols and achieving a compliance score of **95%** in audits.\n• Implemented comprehensive test suites employing **PyTest**, **tox**, and mock servers to streamline QA and CI processes, reducing bug-related regressions by **40%**.\n• Introduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution, and improving process management efficiency by **20%**.\n• Utilized monitoring tools including **Sentry**, **Datadog**, and **Grafana** to proactively address system performance, ensuring system uptime of **99.9%** and enhancing operational visibility.\n• Collaborated on containerized deployments using **Kubernetes**, optimizing resource allocation and management across distributed services."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython\n\n**Backend Frameworks**\n\tDjango, Django REST, FastAPI, Flask, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, OpenAPI, DRF Spectacular\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, ClickHouse, Elasticsearch\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\tAWS, Azure\n\n**Other**\n\tSentry, Datadog, Grafana, Kafka, MLflow, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, PyTest, Git",
+  "apply_company": "Search Atlas"
+}

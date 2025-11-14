@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Java Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Java Engineer with 10+ years of experience in delivering high-performance software solutions, specializing in **Java**, **Spring**, and **PostgreSQL**. Proficient in modern development tools such as **Kafka**, **Git**, **GitHub Actions**, **Jenkins**, **Docker**, and **Kubernetes**, ensuring efficient CI/CD processes and seamless deployment. Expert in building robust microservices architecture and managing containerized applications, focusing on security, scalability, and compliance with industry standards. Strong background in developing enterprise-level applications that incorporate AI/ML capabilities for enhanced decision-making processes.\nBrings comprehensive experience in healthcare and finance sectors, where strong analytical skills and a passion for impactful software development are leveraged. Accomplished in leading teams and driving projects to completion, while maintaining high-quality code standards.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed reliable, scalable backend services using **Java** and **Spring**, ensuring robustness and performance for critical applications in healthcare and finance.\n• Designed and implemented data storage solutions using **PostgreSQL** optimized for high-volume transactions, ensuring data integrity and compliance with regulations like HIPAA and PCI DSS.\n• Integrated messaging systems such as **Kafka** to facilitate real-time data processing and enhance system communication for timely alerts and notifications.\n• Implemented CI/CD pipelines using **GitHub Actions** and **Jenkins** to automate build, test, and deployment processes, ensuring consistent quality in code delivery.\n• Leveraged **Docker** and **Kubernetes** for containerization and orchestration of microservices, enabling seamless scaling and management of application components in production.\n• Collaborated with cross-functional teams to refactor monolithic applications into microservices architecture, improving system resilience and fault tolerance in healthcare applications.\n• Enhanced system monitoring and logging frameworks to achieve **99.99%** uptime, implementing alerts and backup strategies for critical services.\n• Developed enterprise-level solutions by managing distributed databases with **PostgreSQL** and **Kafka**, optimizing for large-scale data ingestion and analytics to support financial modeling.\n• Spearheaded the use of design patterns within **Java** and **Spring** to improve code maintainability and reduce technical debt, enabling a reduction in bug resolution time by **30%**.\n• Conducted code reviews and contributed to the team knowledge base to foster continuous learning and improvement in agile development practices."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Java** and **Spring** frameworks to enhance financial application performance, achieving a **30%** reduction in response time for high-volume transaction processing systems.\nDesigned and implemented RESTful APIs integrated with **PostgreSQL** for secure data storage and retrieval, enabling efficient management of over **1 million** transactions per month.\nUtilized **Kafka** for managing real-time data streams, improving operational efficiency by ensuring seamless communication across various microservices.\nExclusively adopted **Docker** and **Kubernetes** to manage containerized applications, resulting in improved scalability and a **40%** increase in deployment efficiency across multiple environments.\nImplemented CI/CD pipelines using **Git**, **GitHub Actions**, and **Jenkins**, automating testing and deployment processes and reducing time-to-market by **25%**.\nCollaborated with cross-functional teams to develop high-quality software solutions leveraging Agile methodologies, promoting a collaborative environment and continuous improvement.\nProvided mentorship and technical guidance to junior developers, facilitating growth and skill enhancement within the engineering team while maintaining code quality standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Developed and optimized robust backend services utilizing **Java** and **Spring** for scalable e-commerce applications, ensuring system reliability and performance.\nEngineered data-driven solutions with **PostgreSQL** to support high-traffic operation scenarios, maintaining database integrity and quick data retrieval under peak load conditions.\nImplemented event-driven architectures using **Kafka** for efficient message processing, dramatically enhancing system responsiveness with **9x** faster order processing times.\nManaged CI/CD pipelines with **GitHub Actions** and **Jenkins** to automate testing and deployments, cutting down deployment times by **30%**.\nContainerized applications with **Docker** and orchestrated using **Kubernetes**, achieving seamless scaling capabilities and service resilience across multi-cloud environments.\nUtilized version control with **Git** to maintain code integrity, enabling collaborative development and efficient tracking of changes across **9+** team members.\nExecuted application performance tuning and debugging, leading to a reduction in server response time by **25%**.\nApplied **Akka** framework principles to enhance concurrent processing capabilities, improving system throughput during peak usage.\nParticipated in Agile development cycles, contributing to daily stand-ups, sprint planning, and retrospectives, ensuring effective team collaboration and project alignment."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava,\n\n **Backend Frameworks:**\n\tSpring,\n\n **Frontend Frameworks:**\n\tReact,\n\tVue,\n\tAngular,\n\n **API Technologies:**\n\tFastAPI,\n\tFlask,\n\tDjango,\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3),\n\tAzure (App Services, Blob, SQL),\n\n **Databases:**\n\tPostgreSQL (Fintech),\n\tMySQL (Healthcare),\n\tMongoDB (Gaming),\n\tRedis,\n\n **DevOps:**\n\tDocker,\n\tKubernetes,\n\tGitHub Actions,\n\tGit,\n\tJenkins,\n\tGitLab CI/CD,\n\n **Cloud & Infrastructure:**\n\tTerraform,\n\tAnsible,\n\tHelm,\n\tDocker Compose,\n\n **Other:**\n\tMLflow,\n\tAirflow,\n\tKubeflow,\n\tKeycloak (OIDC, RBAC),\n\tJWT,\n\tOAuth2,\n\tLet’s Encrypt,\n\tNginx,\n\tCertbot,\n\tKafka,\n\tAkka",
+  "apply_company": "Cision"
+}

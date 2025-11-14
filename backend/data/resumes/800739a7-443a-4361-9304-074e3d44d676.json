@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Back-End Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-118083397/",
+  "profile_summary": "Back-End Engineer with 10+ years of experience delivering robust **AI-driven cybersecurity solutions** and high-performance **back-end services**. Proficient in developing **scalable systems** and infrastructure leveraging technologies such as **Node.js**, **Python**, and **FastAPI**. Experienced in agile development practices and fostering collaboration across cross-functional teams to build efficient and secure applications. Strong expertise in implementing **microservices architecture** and **event-driven systems** to support mission-critical operations. Additionally, skilled in deploying cloud-native applications on **Azure** and **AWS**, ensuring compliance with standards such as HIPAA, FHIR, and PCI DSS. Passionate about enhancing system performance and security through innovative development and real-world problem-solving.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Back-End Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented **AI-driven cybersecurity solutions** to enhance data protection within back-end services, ensuring systems are secure against potential threats.\n• Developed **scalable systems** using **Python (FastAPI)** and **Node.js** to support the growing demands of healthcare and finance applications, achieving a performance increase of **35%** through code optimization.\n• Led **infrastructure development** initiatives utilizing **Docker** and **Kubernetes (AKS/EKS)** to foster a microservices architecture, reducing deployment time by **50%** and enhancing system reliability.\n• Collaborated in an **agile development** environment, working closely with cross-functional teams to deliver high-quality software solutions in iterative sprints.\n• Implemented monitoring solutions to analyze system performance of back-end services, identifying bottlenecks and achieving a **20%** reduction in response times.\n• Built and deployed efficient data storage solutions using **PostgreSQL** and **MongoDB**, which facilitated handling of over **100 million** records within the healthcare sector.\n• Created automated testing frameworks using **Jest** and **Postman**, ensuring that **95%** of the back-end code was covered by tests, enhancing overall code quality.\n• Established data validation strategies integrating AI technologies for real-time analysis, providing actionable insights on potential vulnerabilities within the system's architecture."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Implemented AI-driven cybersecurity solutions to enhance security protocols and protect sensitive financial data.\nDesigned back-end services using **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, achieving a **30% increase** in system performance and response times in high-volume transaction environments.\nCollaborated in a cross-functional team to streamline infrastructure development, utilizing **Kafka**, **RabbitMQ**, and **Azure Service Bus** for asynchronous communication and real-time event processing.\nEngineered scalable systems by adopting a microservices-based architecture, resulting in a **25% improvement** in maintainability and throughput of financial platforms.\nEmployed agile development methodologies to enhance project management efficiency, completing key milestones ahead of deadlines by **15%** and ensuring continuous delivery of new features.\nConducted regular code reviews and collaborated with team members to ensure adherence to best practices, enhancing overall code quality and system reliability.\nDeveloped and maintained secure API integrations, ensuring compliance with industry regulations, which resulted in zero security incidents for **12 consecutive months**.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Engineered scalable systems for backend services in a global e-commerce environment, leveraging **Python** (FastAPI, Django) and **Node.js** (NestJS, Express) to ensure high availability and low latency across 3 critical modules: checkout, cart, and order fulfillment.\nDeveloped AI-driven cybersecurity solutions to enhance the security of services while optimizing infrastructure, implementing best practices to protect sensitive customer data.\nCollaborated in an agile development environment, leading to the successful implementation of a feature that enabled real-time order updates through a blend of **WebSockets**, **Kafka**, and **RabbitMQ**.\nDesigned and optimized 4 frontend applications using **React** (18), **Vue 3**, and **Angular**, integrating **TypeScript** and **Redux Toolkit** to ensure fast, responsive user experiences across multiple platforms.\nImplemented robust back-end systems utilizing **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data storage, managing high-traffic workflows and enhancing application performance by reducing latency by up to **40%**.\nIntegrated machine learning-based recommendation engines utilizing **scikit-learn**, **LightGBM**, and **TensorFlow** to boost conversion rates by personalizing product listings based on behavioral data.\nOptimized caching strategies using **Redis** for product metadata and shopping cart sessions, resulting in a **30%** improvement in application responsiveness.\nApplied feature flags and managed **blue-green deployments** using **LaunchDarkly** and **Kubernetes** namespaces, ensuring risk mitigation and seamless user experience during platform updates.\nDeveloped secure payment workflows in compliance with PCI standards, integrating solutions like **Stripe**, **PayPal**, and **Razorpay** to handle tokenized transactions with ease.\nEnforced role-based access control (RBAC) and **OAuth 2.0** strategies to ensure GDPR compliance and protect user data throughout the platform."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS Lambda, Azure App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL)\n\n**Other:**\n\tAI-driven cybersecurity solutions, back-end services, infrastructure development, scalable systems, collaboration, agile development, MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot"
+}

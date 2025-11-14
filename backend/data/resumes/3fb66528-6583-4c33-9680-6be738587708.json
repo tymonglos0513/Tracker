@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior MLOps Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior MLOps Engineer with 10+ years of experience in deploying and managing machine learning operations. Proficient in **MLOps** strategies and techniques, leveraging **Docker**, **Kubernetes**, **Jenkins**, and **CI/CD** pipelines to ensure efficient deployment and scaling of ML models. Expertise in programming languages **Python** and **R**, along with frameworks including **TensorFlow** and **PyTorch**. Skilled in cloud services, particularly **AWS**, **Azure**, and **Google Cloud**, while ensuring data security and applying **monitoring tools** like **Prometheus** and **Grafana** for system performance analysis. Renowned for strong problem-solving abilities and effective communication skills, contributing to impactful projects at leading organizations such as VISA and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior MLOps Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered backend services in **Python** using **FastAPI** to streamline document automation, user onboarding, and reporting workflows, ensuring efficient deployment of MLOps processes.\nDeveloped event-driven solutions with **Celery** and **Redis** to manage asynchronous processing for financial transaction requests, enhancing system scalability by **30%**.\nDeployed microservices on **Azure App Services** and utilized **Terraform** to manage infrastructure as code, ensuring seamless cloud operations and reducing deployment times by **25%**.\nCreated and maintained data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, ensuring timely and accurate data flow with a processing time of under **5 seconds**.\nLed security assessments and integrated **OAuth2** and **Azure AD B2C** for secure, scalable authentication systems, meeting compliance requirements and improving security measures by **40%**.\nCollaborated with cross-functional teams using **Jenkins** for CI/CD processes to address system integration challenges, ensuring compliance and overseeing release strategies while achieving a deployment frequency increase of **50%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Leveraged **Azure** and **AWS** for deploying MLOps workflows, ensuring robust and scalable infrastructure for machine learning models.\nImplemented CI/CD pipelines using **Jenkins** and **Docker**, enabling automatic deployments and version control for new model iterations, achieving a deployment frequency of **5** times per month.\nDeveloped and maintained monitoring solutions using **Prometheus** and **Grafana** to track model performance and system health, achieving a **99%** uptime across deployed services.\nEngineered solutions for data security, implementing best practices to safeguard sensitive information and ensure compliance with regulations, leading to a **30%** reduction in security incidents.\nBuilt and managed data pipelines for automated data ingestion and processing, integrating **Python** and **TensorFlow** to facilitate real-time analytics and model training.\nConducted thorough problem-solving sessions and communicated effectively with cross-functional teams, leading to successful project delivery within **3** months ahead of schedule.\nUtilized **Kubernetes** for orchestrating containerized applications, enhancing resource utilization and reducing operational costs by **15%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Docker** and **Kubernetes** to orchestrate scalable machine learning models, ensuring robust deployment within the CI/CD pipeline, leading to a **40%** reduction in deployment times.\nDeveloped and maintained backend services for trade execution, portfolio management, and account tracking using **Python** and **Flask**, resulting in system reliability improvements of **30%**.\nEngineered real-time price feed processors with **asyncio**, **WebSockets**, and **Redis** to deliver up-to-the-minute trading data for high-frequency transactions, achieving a **99.9%** uptime for data services.\nImplemented comprehensive monitoring solutions utilizing **Prometheus** and **Grafana**, providing insights into system performance and enabling proactive issue resolution.\nCollaborated with frontend teams to deliver data through REST APIs and WebSocket channels, ensuring smooth user interactions by documenting processes which improved communication efficiency by **25%**.\nEnsured the platform met regulatory requirements, including MiFID II and GDPR, while adhering to internal data security protocols, thereby minimizing compliance risk.\nIntroduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and process management, improving throughput by **15%**.\nCreated test suites with **PyTest**, **tox**, and mock servers to streamline QA and CI processes for efficient development cycles, increasing overall development speed by **20%**."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript, R\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, Google Cloud\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins, CI/CD, monitoring tools, Prometheus, Grafana\n\n**Cloud & Infrastructure**\n\tAWS, Azure, Google Cloud\n\n**Other**\n\tMLOps, TensorFlow, PyTorch, Pandas, NumPy, scikit-learn, Airflow, MLflow, data security, problem-solving, communication"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Backend Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Backend Developer with 10+ years of extensive experience in designing and implementing backend systems using **PHP**, **Symfony**, and **Laravel**. Proficient in database management with **MySQL** and **PostgreSQL**, and experienced in caching mechanisms like **Redis** and **AWS Elastiсache**. Demonstrated expertise in building scalable microservices and robust **REST APIs**, following **SOLID principles** and **Clean Architecture**. Skilled in CI/CD processes and container orchestration with **Docker** and **Kubernetes**, while also leveraging tools like **RabbitMQ** and **Apache Kafka** for message brokering. Proven ability to deliver high-quality software solutions in fast-paced environments, with strong collaborative and problem-solving skills honed through successful projects at notable firms such as VISA, Sii Poland, and Reply Polska. Passionate about employing new technologies and methods, including **Unit testing**, **Elasticsearch**, and **OpenSearch**.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered backend services in **PHP** using **Symfony** and **Laravel** to streamline document automation, user onboarding, and reporting workflows.\nDeveloped event-driven solutions with **RabbitMQ** and **Redis** to manage asynchronous processing for financial transaction requests.\nDeployed microservices on **AWS** utilizing **Docker** and **Kubernetes**, ensuring seamless cloud operations and adhering to **CI/CD** practices.\nCreated and maintained data pipelines for regulatory data exchange with **PostgreSQL** and ensured timely and accurate data flow through effective use of **unit testing**.\nLed security assessments and integrated **OAuth2** and **AWS Elastiсache** for secure, scalable authentication systems, improving security measures by **30%**.\nCollaborated with cross-functional teams to address system integration challenges, ensure compliance, and oversee release strategies, resulting in a **25%** reduction in deployment time. \nImplemented SOLID principles and Clean Architecture to enhance code maintainability across projects contributing to a **15%** increase in team efficiency."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems using **PHP**, **Symfony**, and **Laravel** to automate document workflows, streamline user onboarding, and handle complex reporting processes.\n• Created event-driven microservices with **RabbitMQ** and **Redis**, enabling asynchronous processing of financial data and transaction requests, achieving a response time reduction by **35%**.\n• Managed the deployment of microservices on **AWS Elasticache** and **Docker**, utilizing **CI/CD** practices to ensure consistent and scalable environments across **3** production instances.\n• Engineered data pipelines for the secure exchange of regulatory data, using **Apache Kafka** and **MySQL** to automate and streamline data flow, processing up to **500k** records daily.\n• Performed security audits, ensuring compliance with industry standards, and integrated **OAuth2** and **Azure AD B2C** to manage authentication and secure access controls, successfully reducing security vulnerabilities by **20%**.\n• Collaborated with cross-functional teams, utilizing **Clean Architecture** and **DDD** principles to ensure smooth system integration, regulatory compliance, and successful release management."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed backend services for trade execution, portfolio management, and account tracking using **PostgreSQL** and **Python** to enhance trading operations.\nEngineered real-time price feed processors with **Redis**, **WebSockets**, and **asyncio** to deliver accurate trading data for high-frequency transactions, achieving a data delivery rate of **1000 messages per second**.\nCollaborated with frontend teams to design and implement data delivery through **REST APIs** and **WebSocket channels**, ensuring seamless user interaction with the platform, reducing latency by **30%**.\nEnsured compliance with regulatory requirements, including **MiFID II** and **GDPR**, while maintaining strict internal data security protocols.\nImplemented comprehensive test suites with **PyTest** and **tox**, improving QA processes and achieving a **25% reduction in bug rates** during development cycles.\nIntroduced job queuing and scheduling solutions using **Celery** and **RabbitMQ**, optimizing backend task execution and enhancing process management efficiency by **40%**."
+    }
+  ],
+  "skills": " **Programming Languages** \n\t PHP, Python (3.8+), SQL, Bash, JavaScript \n\n **Backend Frameworks** \n\t Symfony, Laravel, FastAPI, Flask, Django, Celery \n\n **Frontend Frameworks** \n\t  \n\n **API Technologies** \n\t REST/gRPC APIs, REST APIs, Microservices, Apache Kafka, RabbitMQ, Amazon SQS \n\n **Serverless and Cloud Functions** \n\t AWS (EC2, S3, Lambda), AWS Elastiсache, Azure \n\n **Databases** \n\t MySQL, PostgreSQL, MongoDB, Redis \n\n **DevOps** \n\t Docker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD \n\n **Cloud & Infrastructure** \n\t Linux \n\n **Other** \n\t AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, SOLID principles, Unit testing, Elasticsearch, OpenSearch, Apache Solr, Helm, Istio, Clean Architecture, DDD, PlantUML, Mermaid, Problem-solving, Communication, Collaboration"
+}

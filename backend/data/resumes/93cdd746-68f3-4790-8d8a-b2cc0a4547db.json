@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Java Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Java Engineer with 13+ years of experience specializing in building high-performance, distributed systems. Proficient in **Java**, **JVM** technologies, and concurrency, with a strong foundation in performance engineering, garbage collection, and caching techniques. Demonstrated expertise in observability and indexing within high-availability environments.\nDeeply experienced in full-stack development with proficiency in **JavaScript/TypeScript**, **Python**, and **Flutter**, utilizing frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Additionally, skilled in developing AI/ML-powered applications to enhance predictive analytics and automation.\nExpert in deploying cloud-native solutions on **AWS** and **Azure**, implementing microservices architectures, and managing CI/CD pipelines. Strong understanding of compliance protocols including HIPAA, FHIR, PCI DSS, and SOC 2, complemented by a solid background in MLOps with tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed high-performance applications using **Java** in conjunction with the **JVM** to ensure optimized concurrency and efficient resource handling.\n- Engineered distributed systems that enhance scalability and resilience, applying performance engineering techniques to ensure low latency and high throughput.\n- Implemented advanced caching strategies optimizing access to frequently used data, enhancing system responsiveness and efficiency.\n- Designed and managed robust indexing systems to facilitate rapid data retrieval, crucial for handling real-time data in finance and healthcare sectors.\n- Enhanced systems observability by integrating monitoring tools that track application performance and user interactions, resulting in a **30%** improvement in troubleshooting efficiency.\n- Leveraged open-source libraries and frameworks to streamline development and maintenance processes, ensuring adherence to industry best practices.\n- Collaborated cross-functionally with DevOps teams to define CI/CD workflows that support frequent releases with minimal downtime, reducing deployment times by **40%**.\n- Conducted thorough performance testing and improvement cycles, achieving a **25%** reduction in system resource usage through effective garbage collection strategies.\n- Integrated innovative features using **Java** technologies to elevate user experience, including intelligent analytics dashboards and real-time updates.\n- Actively contributed to technical documentation and code reviews, fostering a culture of quality and knowledge sharing within the engineering team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Java** expertise to enhance core financial platforms by migrating to microservices architecture, ensuring improved scalability and performance in high-volume transactional systems.\nUtilized **JVM** for optimal memory management and **Garbage Collection** strategies, resulting in a **30%** reduction in memory usage and improved application reliability.\nImplemented advanced **Concurrency** techniques to manage multiple threads effectively, boosting system response times by **25%** during peak loads.\nDesigned and optimized **Distributed Systems** architecture, enhancing data flow and process efficiency across multiple services for seamless operations and peak performance.\nConducted **Performance Engineering** assessments, identifying key areas for improvement and implementing caching strategies that increased data retrieval speeds by over **40%**.\nDeveloped and maintained observability tools to monitor system health, ensuring uninterrupted operations by anticipating network and performance issues.\nEngaged in the enhancement of searching and indexing processes, improving data access times and overall system responsiveness.\nAdopted open-source technologies to foster innovation in financial applications while ensuring team alignment with **Open-Source** principles."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Java** and **JVM** technologies to design and develop high-performance backend services, optimizing concurrency and resource management for a global e-commerce platform.\nEngineered distributed systems that support scalability and resilience across key modules, ensuring high availability and low latency in transaction processing.\nApplied performance engineering techniques, including garbage collection optimization, to enhance service efficiency and reduce resource consumption by **30%**.\nImplemented advanced caching mechanisms to improve data retrieval times, reducing database read pressure by over **50%** while maintaining data consistency and accuracy.\nDeveloped observability strategies to monitor system performance and identify bottlenecks, utilizing tools and frameworks to enhance system metrics tracking.\nEmployed indexing strategies to optimize database query performance, resulting in a **40%** increase in data access speed for high-traffic areas of the application.\nContributed to open-source projects and leveraged open-source libraries to enhance functionality and reduce development time, ensuring adherence to best practices.\nCollaborated with cross-functional teams to integrate microservices within a distributed architecture, enhancing system modularity and maintainability.\nConducted code reviews and team knowledge-sharing sessions to promote best practices in concurrency management and performance optimization among team members.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Java\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tOAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot, Concurrency, Distributed Systems, Performance Engineering, Garbage Collection, Caching, Indexing, Observability, Open-Source",
+  "apply_company": "Hazelcast"
+}

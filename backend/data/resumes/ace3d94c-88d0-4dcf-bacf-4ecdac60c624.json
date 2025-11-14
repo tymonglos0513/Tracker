@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior DevOps Engineer with 13+ years of experience implementing and optimizing CI/CD pipelines, deploying cloud-native architectures, and managing container orchestration using **Docker** and **Kubernetes**. Proficient in **Microsoft Azure**, implementing infrastructure as code with **Terraform** and **Ansible**, while ensuring robust security and compliance with industry standards. Adept at utilizing monitoring tools such as **Grafana** and **Prometheus** to maintain high-performance applications. Skilled in scripting with **PowerShell** and **Bash** for automation and problem-solving. Additionally, experienced in **Python** for backend development and MLOps strategies in the development of AI/ML-powered platforms. Excellent communication and collaboration skills, ensuring alignment between technical and non-technical stakeholders.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed robust CI/CD pipelines utilizing **GitHub Actions**, **CircleCI**, and **Azure DevOps** for full test automation, linting, security checks, and multi-environment deployment workflows, ensuring compliance with industry standards.\n• Leveraged **Docker**, **Kubernetes** (specifically **AKS** and **EKS**) to containerize and orchestrate applications, leading the transformation of legacy systems into microservices architectures for improved scalability and fault-tolerance.\n• Automated infrastructure management using **Terraform** and **Ansible** while implementing configuration management with **PowerShell** and **Bash** scripts, streamlining deployment processes across various environments.\n• Monitored and enhanced system performance through **Grafana** and **Prometheus**, achieving a 30% increase in operational efficiency through proactive issue detection and resolution.\n• Ensured compliance with security standards (HIPAA, GDPR, PCI DSS) while collaborating with cross-functional teams, effectively communicating technical strategies to stakeholders.\n• Designed and maintained data infrastructure using **PostgreSQL**, **MongoDB**, and **Redis**, optimizing for performance with high data ingestion rates reaching over **100,000** transactions per minute.\n• Collaborated with development teams to integrate **Microsoft Azure** services such as **Azure ML** and **AWS Sagemaker** for deploying machine learning models, enhancing predictive capabilities within applications.\n• Provided technical guidance in using **ArgoCD** for managing application deployments and **CI/CD** workflows, resulting in reduced deployment times by **40%**.\n• Engaged in problem-solving sessions with teams to identify and mitigate operational risks, applying best practices in networking and security compliance measures.\n• Fostered a culture of collaboration within DevOps teams, leading to improved project outcomes and innovation in pipeline management and development processes."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Utilized **Microsoft Azure** services and **Docker** for containerization and orchestration in the deployment of scalable cloud-native applications, increasing deployment efficiency by **40%**.\n- Developed CI/CD pipelines using **ArgoCD** and **Terraform**, automating infrastructure provisioning and application deployments, reducing time-to-market from **2 weeks** to **3 days**.\n- Implemented monitoring solutions with **Grafana** and **Prometheus**, resulting in **99.9%** uptime and enhanced incident response times through proactive alerting.\n- Leveraged **Kubernetes** for orchestration of microservices, improving resource utilization by **30%** and ensuring high availability for critical applications.\n- Automated system configurations and deployments using **Ansible**, contributing to consistent environments and reducing drift by **50%**.\n- Designed secure and compliant networking solutions, addressing security vulnerabilities and meeting compliance standards, which resulted in passing **100%** of internal audits.\n- Collaborated effectively with cross-functional teams, enhancing communication channels that improved project timelines by **25%**.\n- Employed **PowerShell** and **Bash** for scripting automation tasks, increasing team productivity and operational efficiency.\n- Actively resolved complex technical issues using strong problem-solving skills, leading to a **15%** reduction in critical incidents."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented and managed **Microsoft Azure** cloud services for robust and scalable infrastructure, ensuring secure and compliant deployment of e-commerce applications.\nLeveraged **Kubernetes** for container orchestration, enabling efficient deployment, scaling, and management of over **50** microservices with automated CI/CD pipelines using **Docker**.\nIntegrated **Terraform** for infrastructure as code, facilitating quick provisioning and management of cloud resources, promoting efficient collaboration and problem-solving across deployments.\nDeveloped CI/CD automation using **ArgoCD**, enhancing deployment frequency by **30%** and improving rollback capabilities for e-commerce applications.\nUtilized **Ansible** and **PowerShell** for configuration management, streamlining the deployment process and ensuring consistent environments across various stages of development.\nMonitored infrastructure performance with **Grafana** and **Prometheus**, providing real-time insights and alerts to maintain application uptime of **99.9%**.\nApplied security best practices in compliance with GDPR, ensuring user data protection and system integrity across all operations and workflows.\nEnhanced network configurations for secure and reliable internet connectivity, facilitating seamless user experiences and secure transactions on the e-commerce platform.\nFostered collaboration and communication across teams to discuss system improvements, resulting in a more proactive problem-solving environment.\nDesigned and optimized backend services for a global e-commerce platform using Python (FastAPI, Django) and Node.js (NestJS, Express), ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tCI/CD\n\tArgoCD\n\tTerraform\n\tAnsible\n\tBash\n\tPowerShell\n\n**Cloud & Infrastructure:**\n\tGrafana\n\tPrometheus\n\tNetworking\n\n**Other:**\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot\n\tSecurity\n\tCompliance\n\tProblem-solving\n\tCommunication\n\tCollaboration"
+}

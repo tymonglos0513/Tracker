@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "DevOps/SRE/Platform Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "DevOps/SRE/Platform Engineer with 13+ years of experience, specializing in **Kubernetes**, **GitOps**, **Helm**, **Terraform**, **Ansible**, and **CI/CD** practices. Proficient in cloud services, specifically **AWS** and **Azure**, and adept at implementing and managing observability tools such as **Prometheus**, **Grafana**, and **Alertmanager**. Demonstrated ability to utilize security fundamentals through RBAC and best practices with tools like **Trivy**, **Grype**, and **Kubescape** for secure deployments. \n\nSkilled in Python, with hands-on experience in **Bash**, **Ruby**, and **Go** for scripting and automation tasks. Proven track record in Agile development methodologies, fostering a collaborative environment to enhance operational efficiency. Strong problem-solving abilities and a hands-on mentality, ensuring high-performance applications are delivered seamlessly. Additionally, experienced in compliance-driven development for healthcare and financial sectors, aligning solutions with standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps/SRE/Platform Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and managed **Kubernetes** clusters for orchestration and deployment of applications, enhancing scalability and reliability through **GitOps** practices and automated deployment strategies with **Argo CD**.\nDesigned CI/CD pipelines leveraging **Terraform**, **Helm**, and **Ansible** for seamless infrastructure provisioning and configuration management in an Agile environment.\nMonitored and optimized application performance using **Prometheus**, **Grafana**, and **Alertmanager**, ensuring high availability and observability across the platform with a focus on security fundamentals.\nDeveloped and maintained automated testing frameworks using unit and integration testing strategies, facilitating consistent code deployments and robust communication within the engineering team.\nUtilized **RBAC** to enforce security policies and controls across clusters, ensuring compliance with regulatory standards while maintaining high collaboration and problem-solving capabilities.\nExecuted proactive monitoring and alerting strategies using **Trivy**, **Grype**, and **Kubescape** to enhance security posture against vulnerabilities in containerized applications.\nAutomated infrastructure management tasks with Bash and Ruby scripts, reducing operational costs by **30%** through improved efficiency and streamlined workflows.\nCollaborated with cross-functional teams on incident response and troubleshooting, resulting in resolution times improved by **40%** through effective communication and hands-on mentality.\nLed initiatives to continuously improve the platform's reliability and performance, achieving uptime enhancements of **99.9%** post-deployment through efficient use of cloud services and operational best practices.\nDeveloped internal training programs on **DevOps** methodologies, fostering a culture of problem-solving and agility in development processes across the organization."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **Kubernetes** for deploying and managing containerized applications, ensuring high availability and scalability of critical financial systems across **cloud services**.\nUtilized **GitOps** principles for continuous deployment and version control, improving collaboration and consistency in application development and infrastructure management.\nConfigured **Terraform** and **Helm** to automate infrastructure provisioning and application deployment, streamlining the workflow and reducing setup time by **30%**.\nMonitored system performance and availability using **Prometheus** and **Grafana**, implementing observability practices to enhance incident response and system reliability.\nDeveloped automation scripts in **Bash** and **Ruby** to facilitate deployment pipelines, reducing manual intervention and deployment times by **50%**.\nParticipated in Agile development practices to ensure seamless communication and collaboration within cross-functional teams, resulting in increased project delivery efficiency by **25%**.\nEnhanced security posture by implementing scanning tools like **Trivy**, **Grype**, and **Kubescape**, ensuring compliance with security fundamentals across containerized applications.\nConducted proactive monitoring and alerting strategies using **Alertmanager**, facilitating quick issue resolution and minimizing downtime to **99.9%** availability.\nApplied **Ansible** for configuration management, successfully reducing system configuration errors and improving recovery times in case of incidents.\nDeveloped CI/CD pipelines to streamline the software release process, improving deployment frequency and reducing lead time for changes to **70%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented and maintained **Kubernetes** clusters for scalable and resilient deployment of applications, utilizing **Helm** for package management, ensuring efficient rollouts and easy updates.\nAutomated infrastructure provisioning using **Terraform** and **Ansible**, achieving a deployment time reduction of **30%** across environments and streamlining configurations for repeatability and management.\nMonitored application performance and infrastructure health with **Prometheus** and **Grafana**, establishing alerting mechanisms with **Alertmanager** to ensure rapid response to system anomalies and uptime commitments upwards of **99.9%**.\nDeveloped CI/CD pipelines using **GitOps** principles and **Argo CD**, enabling rapid, reliable, and predictable deployments while ensuring seamless integration of developer workflows.\nApplied **RBAC** and OAuth 2.0 to optimize security measures for multi-tenant access management, improving compliance with GDPR and enhancing user data protection throughout the platform.\nEnhanced observability practices through the implementation of security scanning tools such as **Trivy** and **Grype**, ensuring all container images meet security standards before production deployment.\nUtilized **Falco** for runtime security monitoring, reducing incident response times to potential threats and vulnerabilities by **40%**.\nParticipated in Agile development processes and collaborated with cross-functional teams to ensure alignment on deliverables, fostering effective communication and a shared understanding of project goals.\nStrengthened problem-solving capabilities by addressing application and system-level issues, applying analytical skills to troubleshoot issues across the stack, and maintaining high throughput and performance across services.\nConducted regular security assessments and devised mitigation strategies for emerging threats, ensuring robust security fundamentals are in place while accommodating continuous integration demands."
+    }
+  ],
+  "skills": "  **Programming Languages:**\n\tPython, Ruby, Go, JavaScript/TypeScript\n\n  **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n  **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n  **API Technologies:**\n\tOAuth2, JWT\n\n  **Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure App Services\n\n  **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n  **DevOps:**\n\tKubernetes, Docker, GitOps, CI/CD, Helm, Terraform, Ansible, GitHub Actions, GitLab CI/CD, Prometheus, Grafana, Alertmanager, Trivy, Grype, Kubescape, Falco\n\n  **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database\n\n  **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot, Observability, Agile development, Security fundamentals, Communication skills, Hands-on mentality, Problem-solving"
+}

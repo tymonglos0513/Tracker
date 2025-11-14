@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior Golang Developer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "Results-driven Senior Golang Developer with 9+ years of experience in software engineering, specializing in building high-concurrency applications and APIs that ensure optimal performance. Proficient in **Go**, **AWS**, **CI/CD**, **Python** (FastAPI, Django, Flask), **JavaScript**, **Node.js**, and frontend frameworks such as **React**. I leverage advanced techniques in web scraping, proxy networks, and payment integrations with **Stripe** and **PayPal** to meet dynamic business requirements. Strong background in system design and clean architecture, coupled with a commitment to observability in application development. With excellent communication skills, I excel at collaborating with cross-functional teams to deliver enterprise-level software solutions tailored to the e-commerce, financial, and healthcare sectors.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Developer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "- Designed and implemented high-concurrency applications using **Go**, ensuring robust performance and scalability in a cloud-native environment.\n- Developed and optimized **APIs** with a focus on clean architecture and system design principles, facilitating seamless integration between applications.\n- Leveraged **AWS** services to enhance application performance and deploy CI/CD pipelines for efficient and automated workflows, resulting in a **30% reduction** in deployment times.\n- Integrated payment systems such as **Stripe** and **PayPal** within applications to support secure and scalable transactions across platforms.\n- Employed **CI/CD** practices utilizing tools such as GitHub Actions and Jenkins to automate builds, security scans, and releases, enhancing code quality.\n- Collaborated with cross-functional teams, utilizing excellent communication skills to guide the development process and ensure alignment with business objectives.\n- Built new features and maintained existing systems using **React** and **Node.js**, enhancing user experience and interface performance.\n- Conducted performance monitoring and observability for applications, implementing strategies with tools like Prometheus and Grafana to improve application reliability.\n- Mentored junior developers in best practices for **Go** programming, fostering a culture of collaboration and continual improvement.\n- Optimized data retrieval and storage processes, utilizing proxy networks for scraping to gather large datasets efficiently and accurately."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained high-concurrency applications utilizing **Go** to ensure robust performance in dynamic environments.\n• Designed and implemented RESTful APIs in **Go**, enhancing communication and integration capabilities with external payment providers like **Stripe** and **PayPal**.\n• Collaborated on system design strategies leveraging **AWS** services to architect scalable solutions, improving system modularity and efficiency.\n• Integrated front-end applications with **React** for user-centric experiences, ensuring seamless interaction with back-end services.\n• Implemented CI/CD pipelines using **AWS** and tools like **GitHub Actions** for continuous integration and deployment, enhancing development workflows.\n• Developed web scraping solutions using **Node.js** to gather and process data efficiently, integrating with proxy networks to optimize data retrieval.\n• Worked with observability tools to monitor application performance and streamline debugging processes.\n• Enhanced communication across teams through effective interpersonal skills, ensuring alignment on project objectives and deliverables.\n• Conducted performance tuning for **Go** applications, boosting transaction throughput and improving user experience.\n• Created clean architecture frameworks that facilitate the scalability and maintainability of codebase, accommodating future enhancements.\n• Engaged in designing and implementing solutions for handling third-party service integrations efficiently, focusing on security and performance.\n• Led training sessions to share knowledge of **Go** programming best practices and methodologies with junior developers, fostering team growth and development."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Developed high-concurrency applications in **Go**, ensuring optimal performance and scalability across services.\nUtilized **AWS** cloud services for deploying and managing applications, facilitating reliable and elastic infrastructure solutions.\nDesigned and implemented CI/CD pipelines using tools such as **Jenkins** and **GitHub Actions** for streamlined build and deployment processes, achieving a 30% reduction in deployment time.\nCreated robust and efficient RESTful APIs using **Go**, enhancing communication between microservices and clients with low latency.\nLeveraged **React** to build user-friendly frontends, ensuring seamless integration with backend services and high-performance user interfaces.\nImplemented web scraping strategies and proxy networks in **Go** to gather data effectively while adhering to best practices and compliance.\nIntegrated payment gateways such as **Stripe** and **PayPal** in **Go** applications, ensuring secure, PCI-compliant transactions.\nEmployed clean architecture principles to structure applications for maintainability and testability, resulting in a 25% decrease in bug-related issues post-deployment.\nInitiated observability practices using **Prometheus** and **Grafana** to monitor application performance, achieving a proactive approach to system health management.\nCollaborated with cross-functional teams to refine system design, applying effective communication skills to align project deliverables and timelines.\nConducted stress testing on APIs using tools like **Apache JMeter** to ensure systems can handle peak loads, achieving redundancy targets with 99.9% uptime.\nImplemented efficient caching strategies with **Redis** to improve response times for frequently accessed resources, achieving performance improvements of up to 40%.\nStreamlined system communication by adopting gRPC over traditional protocols, resulting in more efficient data transmission and lower overhead.\nUtilized modern **JavaScript** frameworks and libraries to complement backend services, enhancing interactive capabilities and driving user engagement."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Go, JavaScript\n\n **Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot, Node.js\n\n **Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n **API Technologies:**\n\tREST & gRPC APIs, Stripe, PayPal, APIs\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, scraping, proxy networks, LLMs, system design, high-concurrency applications, clean architecture, observability, performance, communication skills"
+}

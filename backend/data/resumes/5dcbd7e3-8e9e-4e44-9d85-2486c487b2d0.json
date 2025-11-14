@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior AI Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-driven Senior AI Engineer with 13+ years of experience in developing data-driven applications and technologies across healthcare and financial sectors. Proficient in **Python**, **FastAPI**, **Django**, **Flask**, and adept with **Docker**, **Kubernetes**, and various database systems including **PostgreSQL**, **MySQL**, and **NoSQL**. Skilled in ETL and ELT processes, enhancing data quality and accessibility for analytics. \n\nDemonstrated expertise in building AI/ML-driven platforms utilizing **Airflow**, **Prefect**, and **Dagster** for orchestration and workflow management. Experienced in integrating advanced models into production, leveraging tools like **GitHub**, **Jenkins**, **Prometheus**, and **Grafana** for continuous integration and monitoring. Strong focus on compliance-driven development, ensuring alignment with standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Adept in delivering high-performance solutions with a solid understanding of microservices and cloud-native architecture on AWS and Azure.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed robust AI-driven applications utilizing **Python** and **FastAPI**, ensuring seamless integration with **Docker** and **Kubernetes** for deployment and orchestration.\nImplemented complex ETL processes for data preprocessing, leveraging **PostgreSQL** and **NoSQL** solutions, ensuring high data quality and availability for machine learning models.\nDesigned machine learning workflows using **Airflow**, managing model training, validation, and deployment pipelines, improving efficiency by **30%**.\nCreated and managed secure REST APIs with **FastAPI** for real-time data processing and AI services, ensuring scalability and reliability.\nCollaborated with cross-functional teams to build solutions incorporating **LRM** strategies and **OCR** technologies, enhancing document processing capabilities.\nLed the development of high-performance applications utilizing **Django** and **Flask** frameworks, supporting AI features with advanced functionalities.\nEmployed CI/CD principles using **GitHub** and **Jenkins** for automated testing and deployment, reducing deployment times by **25%**.\nImplemented monitoring and observability solutions using **Prometheus** and **Grafana**, identifying system bottlenecks and enhancing performance by **15%**.\nConducted benchmarking of AI solutions across multiple **NoSQL** databases like **Milvus** and **Pinecone**, identifying the most efficient architectures for data retrieval.\nDesigned and enforced comprehensive testing strategies incorporating **unit**, **integration**, and **E2E** tests using industry-standard tools, ensuring code quality and system reliability.\nOptimized data pipelines and orchestration strategies with **Prefect** and **Dagster** to streamline workflows and enhance data flow efficiency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Developed ETL workflows using **Python**, **Airflow**, and **Azure Data Factory**, ensuring efficient data ingestion and transformation from multiple internal and third-party sources, handling **5TB+** of data monthly.\n• Built machine learning models for various applications including fraud detection and real-time credit scoring, utilizing **scikit-learn** and **XGBoost**, leading to a **30%** reduction in false positives.\n• Created automated ML pipelines for churn prediction and transaction classification with **Airflow** and **MLflow**, optimizing model deployment processes in a continuous delivery environment.\n• Designed scalable solutions by leveraging microservices architecture with **FastAPI** and **Django**, enhancing the performance of financial applications under high transaction loads (up to **1000 transactions/sec**).\n• Implemented container orchestration using **Docker** and **Kubernetes**, achieving a **50%** increase in deployment efficiency and minimized downtime.\n• Collaborated on data storage solutions incorporating **PostgreSQL**, **MySQL**, and NoSQL databases like **Pinecone** and **Weaviate**, addressing diverse data access patterns and improving query performance by **25%**.\n• Integrated monitoring and logging with **Prometheus** and **Grafana** to ensure system reliability and performance, leading to a **40%** faster incident response time.\n• Designed and deployed an event-driven architecture with **Kafka** and **RabbitMQ**, facilitating seamless communication in workflows, critical for maintaining operational efficiency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and frameworks including **FastAPI** and **Django** to design and optimize backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nDeveloped data processing pipelines using **ETL** and **ELT** strategies to enhance data management and processing efficiency for real-time analytics.\nEngineered real-time features using **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ**, supporting dynamic inventory tracking and responsive customer engagement with a **90% decrease in latency** for order updates.\nLeveraged **PostgreSQL** for structured data storage ensuring fast, fault-tolerant data access with a **500 GB** database capacity, catering to high-traffic e-commerce workflows.\nIntegrated machine learning algorithms utilizing **TensorFlow** and **scikit-learn** to develop recommendation engines, achieving a **15% increase in conversion rates** by personalizing user experiences based on real-time data.\nImplemented robust caching mechanisms using **Redis** to enhance application responsiveness and reduce database read pressure by an estimated **40%**, improving overall performance.\nAdopted containerization and orchestration with **Docker** and **Kubernetes**, facilitating blue-green deployments and enabling seamless updates without downtime.\nCreated responsive web applications using **Next.js**, ensuring SEO compatibility and optimized mobile-first engagement that adheres to accessibility compliance (WCAG 2.1).\nDesigned secure payment workflows integrated with third-party providers like **Stripe** and **PayPal**, applying PCI-compliant practices for sensitive data handling.\nApplied role-based access control (RBAC) and **OAuth 2.0** protocols to enhance platform security, ensuring GDPR compliance and protecting user data in all transactions."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, NoSQL, Pinecone, Weaviate, Milvus\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Prometheus, Grafana\n\n **Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, ETL, ELT, OCR, PDF, DOCX, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "GISPartner sp. z o.o."
+}

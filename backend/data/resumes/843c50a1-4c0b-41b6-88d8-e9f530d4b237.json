@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Experienced Senior DevOps Engineer with 13+ years in high-performance application delivery, specializing in **AWS**, **Azure**, **CI/CD**, and **Microservices**. Proficient in **Python** and **Java**, enabling robust API development using frameworks such as **FastAPI**. Skilled in automating and orchestrating infrastructure using **Terraform**, **Kubernetes**, **Docker**, and **Argo**, enhancing deployment efficiency and reliability.\nDemonstrated expertise in building and maintaining cloud-native systems, ensuring compliance with industry standards. Strong background in automated testing and workflow orchestration with **Airflow** and **Databricks**. Proven ability to drive innovation in predictive analytics and real-time processing across healthcare and financial sectors.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** (FastAPI) for **API development** in the creation and management of automated CI/CD pipelines using **Azure DevOps** and **GitHub Actions**, ensuring seamless deployment in multi-environment workflows.\nDesigned and maintained **microservices** architecture leveraging **Docker** and **Kubernetes (AKS/EKS)** to improve scalability and fault tolerance in high-availability systems.\nImplemented **Infrastructure as Code** using **Terraform** to provision and manage cloud infrastructure across **AWS** environments, enhancing overall operational efficiency.\nDeveloped and executed robust **automated testing** strategies employing tools like Jest, Cypress, and PyTest, ensuring optimal code quality and coverage across the stack.\nOptimized DevOps processes through effective use of **Airflow** and **Argo** for workflow orchestration, improving execution time of deployment pipelines by **30%**.\nCollaborated with cross-functional teams to define gateway configurations and integrate scalable background services, resulting in reduced latency of **REST APIs** by **15%**.\nMonitored system performance and health, enabling proactive troubleshooting and management to maintain uptime above **99.9%**.\nEnhanced security protocols across CI/CD practices, deploying best practices for vulnerability scanning and compliance checks across all infrastructure.\nLeveraged **Databricks** for data processing to support DevOps initiatives in data pipelines, improving data ingestion efficiency by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop and integrate RESTful APIs for efficient communication in multi-cloud environments including **Azure** and **AWS**.\nImplemented CI/CD pipelines using **Azure DevOps** and **Terraform**, improving deployment frequency by **20%** and reducing release failures to less than **5%**.\nArchitected and deployed containerized applications using **Docker** and **Kubernetes**, increasing application scalability and reliability across production systems.\nDesigned microservices architecture leveraging **Node.js** and **Express**, enhancing system modularity while supporting **high-volume transactions**.\nAutomated testing cycles and CI workflows leading to a **30%** reduction in bugs during production phases.\nImplemented infrastructure as code practices with **Terraform**, ensuring consistent environments and reducing setup time by **50%**.\nManaged data workflows with **Apache Airflow** and **Databricks**, streamlining data processing and promoting data accessibility across teams.\nConfigured API gateways and monitored performance metrics to ensure efficient traffic management and enhance system responsiveness.\nIntegrated automated deployment strategies using **Argo** to facilitate continuous delivery in a dynamic development environment."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend services using **Python** (specifically **FastAPI**), ensuring scalable microservices architecture to support CI/CD workflows and automated testing processes.\nImplemented Infrastructure as Code (IaC) solutions via **Terraform** and managed container orchestration with **Kubernetes**, achieving reliable deployments through automated pipelines on **Azure DevOps**.\nDeveloped and maintained APIs for integrated systems that comply with **AWS** configurations, enhancing performance and availability across critical services hosted in the cloud.\nEngineered and managed data workflows using **Databricks** and **Airflow**, leading to a **30%** reduction in processing time for ETL tasks through optimized pipeline management.\nBuilt and configured gateways using API development strategies in microservices architectures, improving service communication and reducing latency by **25%**.\nImplemented CI/CD processes with **Docker** containers for streamlined applications deployment and rollback strategies, which improved deployment frequency by **40%**.\nLeveraged **Argo** for continuous delivery, enabling controlled rollouts and minimizing downtime during updates with effective monitoring and rollback capabilities.\nConducted automated testing to ensure robust performance, focusing on improving code quality and identifying issues earlier in the development lifecycle with **JUnit** and **Selenium** frameworks.\nCollaborated with cross-functional teams to implement gateway configurations that facilitate secure access to APIs while ensuring compliance with security protocols and policies."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Java\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tAPI development, Gateway configuration\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, Infrastructure as code\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Azure DevOps, Databricks, Microservices, Automated testing, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "TheWhiteam"
+}

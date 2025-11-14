@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior DevOps Engineer with 8 years of comprehensive experience, I excel in cloud services such as **Azure** and have hands-on expertise with **Docker**, **Kubernetes**, **Terraform**, **Bicep**, and **GitOps** methodologies. My background in setting up CI/CD pipelines and utilizing tools like **Grafana**, **Prometheus**, and **Azure Monitor** allows me to optimize deployment processes and ensure real-time system monitoring. I am adept in **DevSecOps** practices, maintaining security standards while facilitating infrastructure as code using **vStack** and automation tools.\n\nFurthermore, my experience as a Full Stack Developer has equipped me with extensive knowledge in **Python**, scripting with **Bash** and **PowerShell**, and effective communication within Agile teams. I have successfully developed high-performance solutions in various sectors, including healthcare and finance, leveraging frameworks like **React**, **Next.js**, **Node.js**, and **FastAPI**. Throughout my career, I have demonstrated a strong ability to integrate modern technologies while adhering to compliance standards and implementing robust application architectures.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implemented enterprise-level DevOps pipelines maintaining CI/CD best practices using **GitHub Actions**, **Azure DevOps**, and **CircleCI**, incorporating linting, testing, security scans, and multi-environment deployments for web and API services.\n- Led the transition to Infrastructure as Code (IaC) using **Terraform** and **Bicep**, optimizing deployment processes across cloud platforms such as **Azure** and **Alibaba Cloud**.\n- Architected and maintained containerized applications with **Docker** and **Kubernetes** (version 1.24), ensuring continuous integration and deployment efficiencies.\n- Established monitoring solutions with **Grafana**, **Prometheus**, and **Azure Monitor**, achieving 99.9% uptime for critical applications.\n- Collaborated in Agile teams to implement DevSecOps practices that increased deployment frequency by 30%, enhancing overall delivery speed while ensuring compliance with security standards.\n- Designed robust networking solutions within cloud environments, utilizing the **Zero Trust** security model to safeguard sensitive data interactions and API management.\n- Streamlined development workflows through GitOps methodologies, enhancing collaboration and code integrity across teams.\n- Assisted team members in scripting automation tasks using **Python**, **Bash**, and **PowerShell** to enhance operational efficiencies and processes.\n- Improved data management strategies for secure health record storage by integrating automated verification systems aligned with HIPAA and GDPR standards.\n- Established comprehensive logging and audit capabilities to inspect environments, leading to a significant reduction in incident response times, achieving a response time of under **10 minutes** for critical alerts."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Implemented **DevSecOps** practices using **CI/CD** pipelines with **GitOps** principles, ensuring secure deployment processes for financial applications.\n- Employed **Infrastructure as Code** strategies with **Terraform** and **Bicep** to automate the provisioning of cloud resources on **Azure** and **Alibaba Cloud**, reducing deployment time by **30%**.\n- Managed container orchestration and deployment using **Kubernetes** and **OpenShift**, leading to improved application reliability and scalability for high-demand financial services.\n- Facilitated application monitoring and incident management using **Grafana**, **Prometheus**, and **Azure Monitor**, achieving a **99.9%** uptime with rapid incident response times.\n- Developed custom scripts in **Python**, **Bash**, and **PowerShell** to streamline deployment workflows and infrastructure management, enhancing team productivity by **25%**.\n- Advocated for **Zero Trust** architecture in API Management, improving security posture for finance-related data transactions.\n- Collaborated in an **Agile** environment to drive project initiatives and cross-functional teamwork, ensuring alignment with financial compliance requirements and business objectives."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented Infrastructure as Code (IaC) practices using **Terraform** and **Bicep** to automate deployment and management of cloud resources on **Azure** and **Alibaba Cloud**, ensuring consistency and scalability across environments.\nStreamlined CI/CD pipelines utilizing **Docker** and **Kubernetes**, allowing for efficient application deployment and lifecycle management, achieving a 40% reduction in deployment times and enhancing release frequency by 30%.\nDeveloped monitoring solutions with **Prometheus** and **Grafana** to ensure system reliability and performance visibility, maintaining service uptime above **99.9%**.\nEstablished GitOps workflows, allowing for seamless integration of version control with deployment processes that reduced configuration drift by 50% and improved team collaboration.\nExecuted security best practices using **DevSecOps** principles, integrating **Zero Trust** frameworks and ensuring compliance with GDPR, which secured customer data and reduced security incidents by 25%.\nManaged API Management strategies and networking architecture to ensure robust communication and data flow across microservices, optimizing network performance and reliability by implementing fault-tolerant designs.\nFacilitated Agile methodologies in project management, improving team efficiency and delivery timelines, allowing for a 20% faster completion of project milestones.\nDeveloped custom scripts using **Python**, **Bash**, and **PowerShell** to automate repetitive tasks and improve operational efficiency, resulting in a **15%** reduction in manual processes.\nEnhanced monitoring and alerting frameworks with **Azure Monitor** to proactively address performance issues, thereby maintaining optimal system performance and minimizing downtime."
+    }
+  ],
+  "skills": "**Backend Frameworks:**\n\tPython (FastAPI, Flask, Django)\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tAPI Management\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, GitOps, DevSecOps, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAzure, Alibaba Cloud, Bicep, OpenShift, Grafana, Prometheus, Azure Monitor, Networking, Infrastructure as Code\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Bash, PowerShell, Agile, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Emerge Soft"
+}

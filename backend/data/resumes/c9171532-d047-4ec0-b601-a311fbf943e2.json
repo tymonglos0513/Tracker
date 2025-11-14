@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with 8 years of experience leveraging expertise in **Python**, **CI/CD**, **AWS**, **Azure DevOps**, and **API development** to build high-performance solutions. Proficient in modern development and operational practices with a deep understanding of **Microservices**, **Automated Testing**, and **Infrastructure as Code** utilizing tools like **Terraform**, **Docker**, and **Kubernetes**. Adept at employing **FastAPI** for efficient API development and integration into robust systems.\n\nSkilled in orchestrating CI/CD pipelines, improving development workflows, and fostering collaboration among development and operations teams. I have successfully led the adoption of advanced tools such as **Airflow**, **Databricks**, and **Argo**, aligning with best practices to drive efficiency and maintain compliance with industry standards. My background also includes a strong foundation in enterprise-grade systems, with a focus on secure deployment and compliance with HIPAA, PCI DSS, and SOC 2.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented **CI/CD** pipelines using **Azure DevOps**, ensuring automated testing and deployment processes for applications, improving deployment frequency by **30%**.\n- Developed and maintained scalable API services using **Python** and **FastAPI**, enhancing data response times by **40%**.\n- Led the migration of applications to **Microservices** architecture utilizing **Docker** and **Kubernetes**, achieving a **50%** reduction in downtime through improved orchestration techniques.\n- Created and managed **Infrastructure as Code** solutions with **Terraform**, establishing consistent and repeatable deployment processes across multi-cloud environments (AWS and Azure).\n- Incorporated **Automated testing** frameworks such as Jest and Cypress into development workflows, improving overall code quality and reducing bugs in production by **25%**.\n- Orchestrated data workflows using **Apache Airflow**, successfully scheduling and executing ETL processes with **95%** reliability over a **12-month** period.\n- Conducted performance and reliability assessments of containerized applications, implementing optimizations that resulted in a **15%** increase in resource utilization efficiency.\n- Collaborated with software engineers to integrate robust monitoring solutions, using advanced logging and tracking tools to ensure system health and rapid incident response capabilities.\n- Established gateway configurations and secured access protocols for APIs, enhancing system security posture and protecting sensitive data.\n- Provided leadership and mentorship for junior engineers, promoting best practices in DevOps culture and efficiency methodologies across the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained CI/CD pipelines using **Azure DevOps** and **Terraform**, ensuring **90%** faster deployment of applications through automation and infrastructure as code practices.\nImplemented and optimized **Docker** containers and **Kubernetes** orchestration to provide a scalable and reliable environment for microservices architectures, improving system uptime to **99.9%**.\nDesigned and executed robust API development strategies leveraging **FastAPI** to enhance service communication and efficiency, resulting in a **25%** reduction in response times for key services.\nLed the transformation of legacy systems into microservices using **Python**, enhancing maintainability and scalability of applications to support high-demand transactions.\nConducted automated testing practices to ensure quality and performance of solutions before deployment, improving code quality metrics by **30%**.\nSpearheaded infrastructure management initiatives using **Argo**, **Airflow**, and **Databricks**, streamlining data pipelines and workflows for data processing within the financial architecture.\nCollaborated on Gateway configuration and architecture, ensuring secure and effective API integrations across services, contributing to seamless system interoperability.\nManaged cloud services on **AWS** and **Azure**, optimizing resource usage and costs while ensuring compliance with organizational policies and best practices in DevOps.\nDeveloped and implemented monitoring solutions for deployed applications, leveraging tools that flagged issues proactively and reduced incident resolution time by **40%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented **CI/CD** pipelines leveraging **Azure DevOps** and **AWS** for seamless integration and deployment of **Microservices** built with **Python** (FastAPI) to accelerate delivery cycles by **30%**.\nDeveloped and maintained **API** services ensuring high performance and reliability, optimizing for both automated and manual testing environments, which reduced bug occurrences by **25%** before production.\nAutomated infrastructure management using **Terraform** and **Infrastructure as Code** practices, resulting in enhanced resource provisioning speed by **40%** and consistency across environments.\nManaged **Docker** containers for service deployment, ensuring rapid scaling and encapsulation of applications within Kubernetes, achieving a **99.9%** uptime across all services.\nDesigned and implemented a robust **Kubernetes** architecture for orchestrating application deployment, scaling, and management, facilitating efficient resource utilization with an average node reduction of **20%**.\nConducted monitoring and logging integration through **Argo** and **Airflow**, improving incident response time by **15%** and enabling proactive service health checks.\nEnhanced deployment processes with **Gateway configuration** strategies to optimize service mesh for better routing and service discovery.\nCollaborated with cross-functional teams to integrate and enforce best practices in Automated testing, ensuring high code quality standards and reducing the release cycle time.\nEmployed Java and Scala for legacy system upgrading and integration, achieving backward compatibility and modern functionality without compromising stability.\nLeveraged Databricks for data analytics and insights supporting application optimization, contributing to a **20%** increase in operational efficiency."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Java, Scala\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\tAPI development\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tInfrastructure as code, Azure DevOps\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Automated testing, Microservices, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Argo, Databricks, Gateway configuration",
+  "apply_company": "TheWhiteam"
+}

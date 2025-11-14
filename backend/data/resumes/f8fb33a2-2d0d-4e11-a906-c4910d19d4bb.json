@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-driven Senior Software Engineer with 13+ years of experience specializing in delivering high-performance applications tailored to the healthcare and financial sectors. Expertise in **MEAN** stack development, proficient in **TypeScript**, **HTML**, **SASS**, **Angular**, **React**, **Node.js**, **Express**, and **MongoDB**. Proven ability in developing robust and scalable applications using **AWS** (including **EC2**, **S3**, **Lambda**, and **RDS**), and containerization with **Docker**.\n\nStrong experience in event messaging with **RabbitMQ** and **Kafka** and in-memory data management utilizing **Redis**. Skilled in implementing CI/CD pipelines using **Git**, **GitFlow**, and **Bitbucket**, and proficient in project management with **Jira** and **Confluence**. Familiar with modern build tools like **Webpack** and **Rollup**, and testing frameworks like **Jasmine** and **Puppeteer**.\n\nKnowledgeable in deploying secure applications adhering to **OWASP**, **Section508**, and **WCAG** standards. Recognized for leveraging cloud-native systems in conjunction with **Terraform** for infrastructure as code and container orchestration with **Kubernetes (K8S)**. Adept at integrating best practices in agile development methodologies, complemented by a solid background in compliance-driven development and strong collaboration skills.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Constructed full-stack applications using the **MEAN** stack with a focus on **MongoDB**, **Node.js**, **Angular**, and **Express**, ensuring timely feature delivery and system stability.\nUtilized **TypeScript** and **SASS** to develop responsive and maintainable frontend interfaces while adhering to best design practices and standards.\nImplemented state management effectively using **Redux** and integrated real-time data processing supported by **RabbitMQ** and **Kafka** to enhance application performance.\nFacilitated cloud deployment solutions leveraging **AWS** services such as **EC2**, **S3**, and **Lambda**, guaranteeing high availability and scalability in operational environments.\nDesigned and maintained containerized applications using **Docker** and orchestrated deployments with **Kubernetes (K8S)** to streamline CI/CD workflows including **GitFlow** and **Git**.\nCollaborated with cross-functional teams utilizing **Jira** and **Confluence** for agile project management and documentation, driving clear communication and project transparency.\nImplemented robust testing protocols using **Jasmine**, **Puppeteer**, **TSLint**, and **ESLint** to ensure code quality, maintainability, and adherence to security best practices outlined by **OWASP**.\nBuilt modular workflows with **TerraForm** to automate infrastructure setup and configuration management, ensuring consistency in various environments.\nEmbedded accessibility standards including **Section508** and **WCAG** into all software solutions, resulting in improved usability and compliance for diverse user bases.\nEnhanced application performance by optimizing number of API calls and reducing page load times by **20%**, increasing user engagement and satisfaction."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **TypeScript**, **React** (18), and **Node.js** (Express) to modernize core financial platforms, migrating to **microservices** architecture that improved scalability and performance for high-volume transactional systems by **30%**.\nDesigned and built interactive front-end applications with **Angular**, **Vue 3**, **Next.js**, and **SASS**, optimizing user interfaces for financial tools and admin panels to enhance user experience by **25%**.\nImplemented real-time analytics dashboards using **React**, **D3.js**, and **Power BI Embedded** to provide operations teams with insights into transactions and anomalies, improving response times by **40%**.\nEngineered a robust event-driven architecture with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, improving asynchronous communication across critical workflows such as payments and alerts by reducing latency by **20%**.\nDeveloped ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory** to ingest financial data from diverse sources, supporting both batch and real-time processing with an **80%** increase in data efficiency.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns with an accuracy rate of **95%**.\nCreated ML pipelines for real-time credit scoring and transaction classification, leveraging **MLflow** and **Airflow** for model inference integration into backend services, successfully reducing processing times by **50%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Utilized **MEAN** stack technologies including **Node.js** (with **Express**) and **MongoDB** to design and implement robust backend services for a global e-commerce platform, achieving **99.99% availability** across critical functions such as checkout and order fulfillment.\n• Developed dynamic and interactive UI components using **Angular** and **React** (v18) with **TypeScript**, ensuring responsive and accessible user interfaces that comply with **WCAG 2.1**.\n• Enhanced data processing and connectivity using **RabbitMQ** and **Kafka**, enabling real-time order updates and improving customer engagement metrics by **30%**.\n• Engineered distributed database solutions leveraging **AWS RDS**, **Redis**, and **Docker**, achieving **75% faster data retrieval** and maintaining performance under high traffic with numerous transactions per minute.\n• Implemented CI/CD pipelines with **Git**, **Bitbucket**, and **Jira** to streamline deployment processes, reduce rollout time by **40%**, and enhance collaboration across development teams.\n• Applied **Terraform** and **K8S** for infrastructure as code, ensuring consistent deployment environments and significantly improving resource management and scaling capabilities.\n• Integrated automated testing frameworks (**Jasmine**, **Puppeteer**) to validate applications, increasing test coverage to **90%** and reducing deployment bugs by **50%**.\n• Maintained security standards across the platform using **OWASP** guidelines and implemented role-based access control (RBAC) and **OAuth 2.0**, safeguarding user data in compliance with **GDPR** regulations.\n• Created SEO-friendly web applications utilizing **HTML5**, **SASS**, and modern JavaScript tooling with **Webpack** and **Rollup**, resulting in improved search engine rankings and user acquisition by **20%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\t•\tPython\n\t•\tJavaScript\n\t•\tTypeScript\n\n**Backend Frameworks:**\n\t•\tFastAPI\n\t•\tFlask\n\t•\tDjango\n\t•\tNodeJS\n\t•\tExpress\n\n**Frontend Frameworks:**\n\t•\tReact\n\t•\tVue\n\t•\tAngular\n\t•\tHTML\n\t•\tSASS\n\n**API Technologies:**\n\t•\tRabbitMQ\n\t•\tKafka\n\n**Serverless and Cloud Functions:**\n\t•\tAWS: Lambda, ECS, RDS, S3\n\t•\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\t•\tPostgreSQL\n\t•\tMySQL\n\t•\tMongoDB\n\t•\tRedis\n\n**DevOps:**\n\t•\tDocker\n\t•\tKubernetes (K8S)\n\t•\tGit\n\t•\tGitHub Actions\n\t•\tGitLab CI/CD\n\t•\tGitFlow\n\t•\tBitbucket\n\n**Cloud & Infrastructure:**\n\t•\tTerraform\n\t•\tAnsible\n\t•\tHelm\n\t•\tDocker Compose\n\n**Other:**\n\t•\tMLflow\n\t•\tAirflow\n\t•\tKubeflow\n\t•\tJira\n\t•\tConfluence\n\t•\tWebpack\n\t•\tRollup\n\t•\tJasmine\n\t•\tPuppeteer\n\t•\tTSLint\n\t•\tESLint\n\t•\tKeycloak (OIDC, RBAC)\n\t•\tOAuth2\n\t•\tJWT\n\t•\tNginx\n\t•\tLet’s Encrypt\n\t•\tCertbot\n\t•\tOWASP\n\t•\tSection508\n\t•\tWCAG",
+  "apply_company": "Level Access"
+}

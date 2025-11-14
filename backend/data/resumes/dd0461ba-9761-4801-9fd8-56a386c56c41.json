@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Backend Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Highly skilled Backend Engineer with over 10 years of experience in backend architecture and the development of high-performing **APIs**. Proficient in **automated testing**, **performance software development**, and utilizing both **relational** and **non-relational databases**. Expertise in **cloud services** including **AWS** and **Azure**, as well as **containerisation** techniques to enhance deployment strategies. Strong foundational knowledge in internet networking concepts, **Public Key Infrastructure**, and security best practices, including **encryption**, **authentication**, and **authorisation**. Proven track record of designing and implementing scalable backend systems and working collaboratively on impactful projects for organizations such as VISA, Sii Poland, and Reply Polska. Experienced in **Model Based Engineering** and system observability, leveraging a flexible approach with various **strongly typed languages**, including **Python** (**FastAPI**, **Django**, **Flask**). Effective communication skills further support my ability to work well in diverse technical environments.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "• Engineered robust **backend architecture** using **Python** and **FastAPI** to enhance document automation, user onboarding, and reporting workflows.\n• Developed scalable **APIs** and event-driven solutions with **Celery** and **Redis** for efficient asynchronous processing of over 1,000 financial transaction requests daily.\n• Deployed microservices on **Azure App Services** and utilized **Terraform** for infrastructure as code, achieving a 99.9% uptime and seamless cloud operations.\n• Created and maintained data pipelines for regulatory data exchange employing **Apache Airflow** and **Azure Functions**, ensuring data accuracy with an error rate of less than **0.5%**.\n• Led security assessments and integrated **OAuth2** and **Azure AD B2C** to establish secure and scalable authentication systems, significantly reducing security vulnerabilities by **30%**.\n• Collaborated with cross-functional teams to efficiently address system integration challenges, ensuring compliance and managing release strategies across **3 major software updates** annually."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend architecture using **Python** and **FastAPI** to create robust APIs for automating document workflows, successfully enhancing user onboarding processes by **30%**.\n• Implemented deployment strategies with **Azure App Services**, utilizing **Terraform** for infrastructure automation, achieving a **95%** reduction in deployment time.\n• Created event-driven microservices utilizing **Celery** and **Redis**, enabling high-performance asynchronous processing of financial data and transaction requests.\n• Engineered data pipelines leveraging **Apache Airflow** and **Azure Functions** for secure and efficient exchange of regulatory data, improving data flow efficiency by **40%**.\n• Conducted security audits, integrating **OAuth2** and **Azure AD B2C** to enforce authentication and authorization protocols, aligning with security best practices and compliance standards.\n• Collaborated with cross-functional teams to ensure effective system integration and regulatory compliance, successfully managing releases across multiple microservices.\n• Applied Model Based Engineering principles to enhance system observability and performance in software development, driving a **20%** improvement in application stability."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed robust **backend architecture** for trade execution, portfolio management, and account tracking using **Python** and **Flask**, integrating with **PostgreSQL** for enhanced trading operations.\n• Designed and implemented **APIs** to facilitate data exchange, ensuring seamless communication between frontend and backend systems, supporting **9** different client applications.\n• Engineered high-performance, real-time price feed processors leveraging **asyncio**, **WebSockets**, and **Redis**, enabling the platform to handle **1000+** transactions per second.\n• Enforced strict adherence to security best practices and regulatory requirements including **MiFID II** and **GDPR**, implementing **Public Key Infrastructure** protocols and focusing on **encryption**, **authentication**, and **authorisation** measures.\n• Developed automated testing frameworks using **PyTest**, **tox**, and mock servers that boosted test coverage to **95%**, thus streamlining QA and CI processes.\n• Introduced efficient job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing the execution of **500+** backend tasks daily for better process management.\n• Leveraged insights from **system observability** tools and logs to ensure platform reliability and performance, improving overall system uptime by **20%**."
+    }
+  ],
+  "skills": "**Backend Frameworks**\n\n\tFastAPI, Flask, Django, Celery\n\n**API Technologies**\n\n\tREST/gRPC APIs, Microservices, APIs\n\n**Databases**\n\n\tPostgreSQL, MySQL, MongoDB, Redis, relational databases, non-relational databases\n\n**Cloud & Infrastructure**\n\n\tAWS (EC2, S3, Lambda), Azure, cloud services, containerisation\n\n**DevOps**\n\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, deployment strategies, CI/CD\n\n**Other**\n\n\tPython (3.8+), SQL, Bash, JavaScript, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, automated testing, performance software development, internet networking concepts, Public Key Infrastructure, security best practices, Model Based Engineering, system security, CVE knowledge, encryption, authentication, authorisation, system observability, communication skills, flexibility with tools"
+}

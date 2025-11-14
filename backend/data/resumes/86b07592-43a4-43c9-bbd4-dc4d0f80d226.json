@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Software Engineer with 13+ years of experience in software design and architecture, proficient in **Python**, **TDD**, **BDD**, and **CI/CD** practices. Skilled in deploying cloud infrastructure using **AWS**, **Terraform**, and **CloudFormation**, and experienced with **containerization technologies** such as **K8s**. Expertise in utilizing message brokers including **Kafka** and **RabbitMQ** for building scalable systems, and skilled in databases like **MySQL** and **PostgreSQL**.\n\nFluent in developing high-performance applications across industries, including healthcare and finance, leveraging technologies such as **JavaScript**, **TypeScript**, and **Flutter**. Hands-on experience with AI/ML applications and MLOps frameworks, including **MLflow** and **Databricks**, enhancing solutions with predictive analytics and real-time processing capabilities. Strong advocate of compliance-driven development, aligning systems with standards such as HIPAA and PCI DSS. Proven leadership in implementing microservices and event-driven architectures.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** (FastAPI) to design and build full-stack platforms, ensuring compliance with industry standards including HIPAA and GDPR, while implementing **software design and architecture** principles.\nImplemented **TDD** and **BDD** practices in development processes, enhancing code quality through rigorous testing frameworks like Jest and Cypress.\nCreated **CI/CD** pipelines tailored for mobile applications using **Fastlane** and **App Center**, focusing on automated testing and release workflows.\nEmployed **containerization technologies** like **Docker** and orchestrated deployments with **Kubernetes** (AKS/EKS) for scalable, microservices architectures.\nManaged databases with **PostgreSQL** and **MySQL**, ensuring high availability and performance for demanding data environments with heavy ingestion and real-time analytics.\nLeveraged **AWS** cloud services and **Terraform** for Infrastructure as Code (IaC), optimizing resource management through **CloudFormation** and **Pulumi**.\nIntegrated messaging systems with **Kafka** and **RabbitMQ** to enhance inter-service communication in distributed applications, ensuring data consistency and reliability.\nDeployed machine learning models for risk scoring using **scikit-learn** and **TensorFlow**, integrating them into live systems for immediate insights.\nExecuted **MLOps** workflows utilizing **MLflow** and **Airflow** to streamline model training, validation, and deployment processes across both development and production environments.\nEnhanced applications with intelligent features like personalized dashboards and predictive alerts, powered by data science techniques and hosted on **AWS SageMaker**.\nDeveloped advanced data visualization tools with **D3.js** and **Power BI Embedded**, enabling analytical insights into operational KPIs, fraud trends, and financial activity, contributing to decision-making.\nCollaborated with ML teams to deploy **NLP models** (spaCy, Hugging Face Transformers) for document parsing, exposed through secure **REST APIs** for seamless integration.\nDefined and enforced robust testing strategies using tools such as Postman and PyTest, ensuring unit, integration, and E2E tests encompassed the application stack.\nImplemented search capabilities through **Azure Cognitive Search** and **Elasticsearch**, facilitating fast querying across both structured and unstructured datasets relevant to health and finance domains."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to design and implement microservices architecture, enhancing scalability and performance in the core financial platforms with **Node.js** (NestJS/Express) and **Python** (FastAPI, Django).\nEmployed **TDD** and **BDD** methodologies to ensure high-quality software design in the development of interactive front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, leading to a **30%** increase in user satisfaction scores.\nImplemented **CI/CD** practices to streamline deployment processes, reducing time-to-market by **40%** for financial tools and admin panels.\nCreated and maintained real-time analytics dashboards integrating **D3.js** and **Power BI Embedded**, providing critical operations insights and reducing response times to anomalies by **25%**.\nArchitected a robust event-driven system utilizing **Kafka**, **RabbitMQ**, and **Azure Service Bus** for asynchronous communication, facilitating payment processing workflows and alerts.\nDeveloped ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, optimizing data ingestion processes from multiple internal and third-party sources, achieving a **50%** increase in processing efficiency.\nEngineered and deployed machine learning models for fraud detection with **scikit-learn**, **XGBoost**, and **Azure ML**, empowering detection of suspicious activities based on analytics of over **1 million** transactions.\nEstablished ML pipelines for real-time applications including credit scoring and churn prediction, leveraging **MLflow** and **Airflow** for seamless integration of model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Node.js** for software design and architecture, creating scalable backend services for a global e-commerce platform, resulting in a **50%** increase in transaction processing speed across checkout, cart, and order fulfillment modules.\nImplemented **TDD** and **BDD** methodologies to enhance the reliability of code quality, achieving a **30%** reduction in post-deployment defects.\nEmployed **CI/CD** practices, integrating **AWS** services and **Terraform** for infrastructure management, which facilitated rapid deployments and improved deployment frequency by **40%**.\nLeveraged **containerization technologies** with **Kubernetes** for scalable application deployment, providing a robust environment for service orchestration and management.\nEngineered real-time features using **Kafka** and **RabbitMQ**, significantly improving order update responsiveness by delivering notifications in **real-time**, thus boosting customer satisfaction scores by **25%**.\nDeveloped robust data storage solutions utilizing **MySQL**, **PostgreSQL**, and **MongoDB**, ensuring a fault-tolerant architecture that supported simultaneous access from **thousands** of users during high traffic periods.\nApplied **ML** techniques using **scikit-learn** and **TensorFlow** to engineer personalized shopping experiences, improving conversion rates by **20%** based on insights from real-time user behavior.\nCreated feature flags and blue-green deployments utilizing tools like LaunchDarkly for controlled rollouts, resulting in a seamless update experience and reducing downtime during major releases by **90%**.\nContributed to the user interface development with access to frontend frameworks such as **React**, **Vue 3**, and **Angular**, enhancing the web experience for **millions** of users across diverse devices.\nImplemented strict security protocols using **OAuth 2.0** and RBAC for user access management, ensuring compliance with GDPR standards and protecting sensitive user data effectively."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Rust, Elixir\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tOAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS\n\n**Databases:**\n\tPostgreSQL, MySQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: S3, RDS, Azure: App Services, Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose, CloudFormation, Pulumi\n\n**Other:**\n\tSoftware design and architecture, TDD, BDD, CI/CD, IaC, Containerization technologies, Kafka, RabbitMQ, ML, MLOps, Data science, Insurance knowledge"
+}

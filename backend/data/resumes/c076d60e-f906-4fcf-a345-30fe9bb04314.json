@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Engineer (Python)",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Skilled Software Engineer specializing in **Python**, **RESTful APIs**, **SQL**, and **Microservices architecture**, with 13+ years of experience in developing high-performance applications within the healthcare and financial sectors. Proficient in cloud services such as **AWS**, **GCP**, and **Azure**, with hands-on expertise in containerization using **Docker** and orchestration with **Kubernetes**. Demonstrated ability to build robust backend systems leveraging **PostgreSQL**, **MySQL**, and **Redis**.\n\nExperienced in Agile methodologies, adept at collaboration and communication within cross-functional teams. Strong analytical and problem-solving skills, with a focus on delivering quality solutions efficiently. Additional competencies include **JavaScript**, **React**, and backend frameworks such as **FastAPI** and **Django**. Committed to continuous learning and adapting to new technologies, ensuring alignment with industry best practices.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer (Python)",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained **RESTful APIs** utilizing **Python (FastAPI)**, focusing on scalability and performance in line with Agile methodologies.\n• Designed and implemented **microservices architecture** using **Docker**, **Kubernetes** (version **1.21**), and serverless solutions via **AWS Lambda** and **Azure Functions** to enable resilient application deployment.\n• Conducted database management and optimization with **PostgreSQL**, **MySQL**, and **Redis** for high-volume transactions, ensuring data integrity and efficient querying.\n• Engineered solutions for high-traffic applications employing **Kubernetes**, **Docker**, and **Redis**, significantly improving response times, achieving a throughput increase of **30%**.\n• Collaborated effectively within cross-functional teams to design and implement features, enhancing communication and collaboration skills that foster a productive environment.\n• Employed **GitHub** for version control and CI/CD practices, streamlining deployment processes using **CircleCI** and **Travis CI** to achieve a **20%** reduction in deployment times.\n• Enhanced system reliability through robust monitoring and logging solutions, leveraging **AWS** and **GCP** cloud services to maintain optimal system performance.\n• Utilized **React** and **JavaScript** to develop interactive user interfaces, leading to a **15%** increase in user engagement, supported by comprehensive testing strategies with **Jest** and **Cypress**.\n• Implemented effective problem-solving skills to troubleshoot issues, utilizing **Linux** environments to ensure timely resolution and system uptime.\n• Drove the adoption of Agile practices within the team, promoting adaptability and continuous learning through iterative feedback and development cycles."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Developed RESTful APIs using **Python** (FastAPI, Django) to ensure efficient back-end service communication, fostering smooth interactions with front-end applications.\n- Leveraged **Microservices architecture** to modernize core financial platforms, improving scalability and performance for systems handling over **100,000 transactions per day**.\n- Built interactive and dynamic front-end applications utilizing **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, ensuring responsive user interfaces tailored for financial tools and admin dashboards.\n- Designed and implemented real-time analytics dashboards employing **D3.js** and **Power BI Embedded**, providing operations teams with insights into transactions and anomalies within seconds.\n- Constructed an event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus** to facilitate asynchronous communication across critical workflows like payments and alerts, enhancing overall system reliability.\n- Developed ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory**, streamlining the ingestion of financial data from internal and third-party sources at speeds of up to **5 TB per day**.\n- Built and deployed machine learning models for fraud detection using **scikit-learn** and **XGBoost**, enabling the detection of suspicious activities through analysis of transaction patterns with an accuracy of over **95%**.\n- Created machine learning pipelines for real-time credit scoring and churn prediction, using **MLflow** and **Airflow** to seamlessly integrate model inference with back-end services, supporting a responsiveness of under **2 seconds** for user queries."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and optimized **RESTful APIs** for global e-commerce platform employing **Python** (FastAPI, Django) ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nEngineered real-time features using **WebSockets** and event-driven architecture with **Kafka** and **RabbitMQ**, enabling responsive order updates, dynamic inventory tracking, and real-time customer support.\nLeveraged **PostgreSQL** and **MySQL** for distributed data storage, ensuring fast, fault-tolerant data access for high-traffic e-commerce workflows and optimized caching using **Redis**, significantly enhancing application performance.\nOrchestrated microservices architecture with **Docker** and **Kubernetes** for efficient deployment, and implemented CI/CD pipelines utilizing **Jenkins** and **Travis CI** to streamline code integration and deployment processes.\nCreated responsive, SEO-friendly e-commerce UIs using **React** (v18), **Vue 3**, and **HTML5/CSS3**, optimized for mobile-first engagement and accessibility compliance (WCAG 2.1).\nIntegrated payment processing workflows with **Stripe**, **PayPal**, and **Razorpay**, applying tokenized transactions and maintaining PCI compliance for sensitive data handling.\nUtilized **Redis** caching for product metadata and shopping cart sessions, significantly improving application responsiveness and reducing database load by up to **30%**.\nImplemented role-based access control (RBAC) and **OAuth 2.0** for secure customer and admin access, ensuring GDPR compliance and user data protection throughout the platform.\nEngaged in Agile methodologies for continuous improvement, collaborating with cross-functional teams to solve complex problems and deliver robust software solutions."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular, jQuery\n\n**API Technologies:**\n\tRESTful APIs\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS\n\n**Databases:**\n\tPostgreSQL, MySQL, MS SQL, MongoDB, Redis, Memcached\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Travis CI, Jenkins\n\n**Cloud & Infrastructure:**\n\tAWS, GCP, Azure\n\n**Other:**\n\tMicroservices architecture, Agile, Problem solving, Analytical thinking, Communication, Collaboration, Adaptability, Learning by doing"
+}

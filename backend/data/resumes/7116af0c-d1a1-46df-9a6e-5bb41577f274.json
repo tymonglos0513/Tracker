@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Technical Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Technical Engineer with over 10 years of experience in designing and delivering robust backend systems. Proficient in **Python**, **JavaScript**, and **Java**, and skilled in creating high-performing **APIs** and automation tools. Expertise in cloud services including **AWS**, **Azure**, and **GCP**, ensuring scalable and secure architectures. Strong background in **SQL**, version control with **Git**, and project management tools like **JIRA**. Recognized for effective communication and documentation skills, contributing to impactful projects at leading organizations such as VISA, Sii Poland, and Reply Polska. Committed to leveraging technology to drive business success through innovative solutions.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Technical Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to engineer backend services, enhancing document automation, user onboarding, and reporting workflows.\nDeveloped event-driven solutions using **Celery** and **Redis** for managing asynchronous processing of financial transaction requests, optimizing system performance by **30%**.\nDeployed and maintained microservices on **Azure App Services** and leveraged **Terraform** for infrastructure management, enabling seamless cloud operations and reducing deployment times by **25%**.\nCreated and maintained data pipelines with **Apache Airflow** and **Azure Functions** for regulatory data exchange, guaranteeing timely and accurate data flow, achieving a **99%** accuracy rate.\nConducted comprehensive security assessments, integrating **OAuth2** and **Azure AD B2C** to establish secure and scalable authentication systems, improving user security by **40%**.\nCollaborated closely with cross-functional teams to address system integration challenges, ensure compliance, and oversee release strategies effectively.\nFostered clear **communication** and organized **documentation** for project management, ensuring transparency and alignment across stakeholders."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes.\n• Created event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests.\n• Managed the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation to maintain consistent and scalable environments with **99.9% uptime**.\n• Engineered data pipelines for the secure exchange of regulatory data, using **Apache Airflow** and **Azure Functions** to automate and streamline the data flow, achieving a **30% reduction** in processing time.\n• Performed security audits, ensuring compliance with industry standards, and integrated **OAuth2** and **Azure AD B2C** to manage authentication and secure access controls, enhancing security posture by **40%**.\n• Collaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management, improving project delivery time by **25%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **Flask** to develop backend services for trade execution, portfolio management, and account tracking, enhancing trading operations by processing up to **500** transactions per second.\nEngineered real-time price feed processors using **asyncio**, **WebSockets**, and **Redis** to deliver up-to-the-minute trading data, contributing to a **30%** improvement in data delivery speed for high-frequency transactions.\nCollaborated effectively with frontend teams to integrate data through **REST APIs** and **WebSocket channels**, ensuring seamless user interaction with the platform, reducing latency to less than **200ms**.\nEnsured compliance with regulatory requirements, including **MiFID II** and **GDPR**, while maintaining internal data security protocols, thereby mitigating risks and enhancing data protection.\nImplemented comprehensive test suites with **PyTest**, **tox**, and mock servers, streamlining QA and CI processes for efficient development cycles, achieving a **40%** reduction in bug rate post-deployment.\nIntroduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and process management, resulting in a **50%** increase in task throughput."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tJava, C#, Python (3.8+), SQL, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, API\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, GCP\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Git\n\n**Cloud & Infrastructure**\n\tAWS, Azure, GCP, networking, security\n\n**Other**\n\tSalesforce, JIRA, documentation, project management, communication, AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Microservices, Kafka, PyTest",
+  "apply_company": "Sovos"
+}

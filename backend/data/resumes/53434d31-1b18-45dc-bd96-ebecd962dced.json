@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Experienced Senior DevOps Engineer with 8 years of comprehensive expertise in **AWS**, **GCP**, **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, and **Ansible**. I excel in deploying robust and scalable infrastructure using **Infrastructure as Code** practices. My solid background in **CI/CD** pipelines, cloud security, and monitoring with tools such as **Grafana** and **Prometheus** empowers me to ensure seamless continuous deployment and effective system monitoring.\nIn addition to my core DevOps skills, I possess a rich foundation in **Python**, **Node.js**, and **Bash**, enabling me to automate tasks and streamline processes. I have a history of building high-performance solutions in both healthcare and financial sectors, applying my knowledge of event-driven systems and microservices architecture. My capacity to develop and implement machine learning pipelines further enhances my contributions, adhering to compliance standards like HIPAA and PCI DSS. I am dedicated to enhancing system security and performance while fostering collaborative DevOps culture within teams.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implemented enterprise-level **CI/CD** pipelines using **Jenkins**, including linting, testing, security scans, and multi-environment deployments for both web and API services, improving deployment efficiency by **30%**.\n- Architected and managed cloud infrastructure utilizing **AWS** and **GCP**, employing Infrastructure as Code (IaC) strategies with **Terraform** and **Docker** to achieve consistent and repeatable deployments across **3** environments.\n- Deployed containerized applications via **Kubernetes**, optimizing resource utilization and ensuring high availability and fault tolerance with a **99.9% uptime** track record.\n- Developed monitoring solutions using **Grafana** and **Prometheus** for real-time system performance metrics, reducing incident response time by **40%**.\n- Automated configuration management and application deployment with **Ansible**, enhancing operational efficiency and reducing manual intervention.\n- Collaborated with cross-functional teams to integrate security best practices into the DevOps lifecycle, focusing on **Cloud Security** to protect sensitive data and applications.\n- Conducted performance tuning and optimization of infrastructure components, improving application responsiveness by **25%**.\n- Built comprehensive logging frameworks using **Graphite** and **Statsd**, providing visibility into application health and transaction flows.\n- Leveraged **Bash** and **Python** scripting for automation tasks, reducing deployment times by **50%** and minimizing human error.\n- Contributed to disaster recovery planning and execution, ensuring rapid data recovery and continuity of operations following any service interruption."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Enhanced CI/CD pipelines utilizing **Docker**, **Jenkins**, and **Terraform**, resulting in a **30%** reduction in deployment time and increased deployment frequency to up to **10 times per day**.\n- Implemented Infrastructure as Code (IaC) using **Terraform** to provision and manage cloud infrastructure on **AWS** and **GCP**, leading to an increase in infrastructure reliability and consistency across projects by **40%**.\n- Developed and maintained container orchestration with **Kubernetes**, improving application scalability and availability, achieving a service uptime of **99.9%**.\n- Deployed monitoring solutions with **Grafana** and **Prometheus**, providing insights into system performance, and addressing potential issues before they impact users, reducing incidents by **25%**.\n- Automated system configurations and deployments using **Ansible**, resulting in faster setup of dev/test environments and enforcing configuration consistency.\n- Optimized server performance by implementing cloud security best practices on **AWS**, enhancing compliance and reducing vulnerabilities by **50%**.\n- Integrated and implemented performance monitoring tools such as **Graphite** and **Statsd**, leading to actionable insights that improved system efficiency.\n- Collaborated with cross-functional teams to streamline development workflows and improve deployment processes, leveraging skills in **Python** and **Bash** for seamless automation.\n- Provided support for production environments by troubleshooting and resolving issues quickly, maintaining high availability for critical applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented CI/CD pipelines using **Jenkins**, ensuring continuous deployment and integration of applications with a focus on speed and efficiency in the development lifecycle.\n- Engineered infrastructure as code using **Terraform** and **Ansible**, managing cloud resources on **AWS** and **GCP**, leading to a **50%** reduction in provisioning time for new environments.\n- Developed and maintained containerized applications with **Docker** and orchestrated using **Kubernetes**, enabling seamless deployment and scalability across microservices, achieving a **70%** improvement in uptime.\n- Monitored system performance and stability using **Prometheus** and **Grafana**, establishing alerts and dashboards that increased incident response time by **30%**.\n- Implemented security measures to protect cloud infrastructure, adopting principles of **Cloud Security** and best practices for **Linux** systems to safeguard company data and maintain compliance with industry regulations.\n- Collaborated with development and operations teams to enhance networking capabilities, ensuring robust and secure connectivity across the multi-cloud environment.\n- Developed scripts in **Python** and **Bash** for automating routine tasks, significantly reducing manual intervention and increasing team productivity by **40%**.\n- Engaged in troubleshooting and optimizing system performance using monitoring tools such as **Graphite** and **Statsd**, resulting in a **15%** reduction in error rates during peak load times.\n- Led a team in conducting regular disaster recovery tests and failure drills, improving the incident recovery timeline by **60%** through well-defined processes and documentation."
+    }
+  ],
+  "skills": " **API Technologies:** \n\tJWT, OAuth2, Keycloak (OIDC, RBAC) \n\n **Backend Frameworks:** \n\tPython (FastAPI, Flask, Django), Node, Java \n\n **Frontend Frameworks:** \n\tJavaScript/TypeScript (React, Vue, Angular) \n\n **Databases:** \n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis \n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose \n\n **Cloud & Infrastructure:** \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP, Packer, Linux, Networking, Cloud Security \n\n **Other:** \n\tGrafana, Prometheus, MLflow, Airflow, Kubeflow, Bash, Ruby, Graphite, Statsd, Continuous Deployment, Monitoring, Infrastructure as Code",
+  "apply_company": "Cint"
+}

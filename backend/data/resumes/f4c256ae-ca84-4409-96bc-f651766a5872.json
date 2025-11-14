@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Fullstack Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Fullstack Engineer with over 10 years of experience in crafting and implementing robust backend systems and dynamic front-end interfaces. Proficient in key technologies including **Python**, **FastAPI**, **TypeScript**, **Vue.js**, **React**, **SQL**, and **PostgreSQL**, ensuring seamless integration and performance. Experienced in developing high-performance APIs, leveraging **LLM APIs** and expertise in prompt engineering to enhance user experience and functionality. A proficient mentor, committed to fostering an environment of growth, with a proven history of delivering impactful projects at leading organizations like VISA and Reply Polska, successfully contributing to cloud-native architectures.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Fullstack Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to engineer backend services that improved document automation workflows, enhancing user onboarding, and reporting processes.\nLeveraged **TypeScript**, **Vue.js**, and **React** for developing responsive front-end components, ensuring a seamless user experience across the application.\nImplemented asynchronous processing using **Celery** and **Redis** to manage over **1000** financial transaction requests per day, significantly improving system performance.\nDeployed robust microservices on **Azure App Services**, using **Terraform** for infrastructure management to support scalable cloud operations across **5** applications.\nDesigned and maintained data pipelines with **Apache Airflow** and **Azure Functions**, ensuring regulatory data exchange occurred in near real-time, reducing data flow delays by **30%**.\nConducted thorough security assessments, successfully integrating **OAuth2** and **Azure AD B2C** to establish secure and scalable authentication systems, serving over **2000** users.\nMentored junior engineers, sharing knowledge on **architecture** and best practices in **prompt engineering** to promote team effectiveness and growth."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop scalable backend systems, automating document workflows and enhancing user onboarding processes by up to **40%** in efficiency.\nImplemented asynchronous event-driven microservices architecture using **Celery** and **Redis**, improving processing speed of financial transactions by **30%**.\nManaged the deployment of microservices on **Azure App Services** and utilized **Terraform** for infrastructure-as-code, maintaining consistent and scalable environments across **5+** applications.\nEngineered robust data pipelines for the secure exchange of regulatory data with **Apache Airflow** and **Azure Functions**, optimizing data flow efficiency and reducing processing time by **50%**.\nConducted thorough security audits and integrated **OAuth2** and **Azure AD B2C** for secure access management, ensuring compliance with industry standards.\nCollaborated with cross-functional teams to ensure smooth system integration and regulatory compliance, contributing to **3** successful product releases in the last year."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop robust backend services for trade execution, portfolio management, and account tracking, enhancing trading operations and improving throughput by **25%**.\nLeveraged **PostgreSQL** for efficient data storage and management, leading to a **15%** reduction in query response times.\nEngineered real-time price feed processors with **asyncio**, **WebSockets**, and **Redis**, delivering up-to-the-minute trading data for high-frequency transactions with latency improvements of up to **30%**.\nCollaborated closely with frontend teams using **TypeScript**, **Vue.js**, and **React** to deliver seamless data integration through REST APIs and WebSocket channels for enhanced user experience.\nEnsured compliance with regulatory requirements, including MiFID II and GDPR, maintaining high standards of data security and integrity throughout development processes.\nImplemented comprehensive test suites using **PyTest**, **tox**, and mock servers, streamlining QA and CI processes that resulted in a **40%** increase in bug detection rates.\nIntroduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution leading to a **50%** increase in process efficiency.\nMentored junior developers, sharing knowledge on **architecture** and best practices in modern software development, fostering a culture of continuous learning."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, SQL, TypeScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks**\n\tReact, Vue.js\n\n**API Technologies**\n\tREST/gRPC APIs, LLM APIs\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\tAWS, Azure\n\n**Other**\n\tBash, JavaScript, Celery, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Microservices, Kafka, PyTest, Git, prompt engineering, architecture, mentoring",
+  "apply_company": "Braintrust"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "AWS Cloud Architect",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Dynamic AWS Cloud Architect with over 10 years of experience in designing and delivering robust backend systems. Proficient in **AWS** services including **EC2**, **S3**, **RDS**, **Lambda**, **ECS**, **IAM**, **Codebuild**, and **Elasticache**, with a strong focus on **Infrastructure-as-Code** utilizing **AWS CDK**. Proven expertise in building scalable and high-performing APIs and tools using **Python** (FastAPI, Django, Flask) and containerization through **Docker**. Experienced in managing SDLC processes with tools like **Jira**, and leveraging technologies such as **TypeScript**, **Angular**, **Redis**, **Grafana**, and **Pusher**. Successfully delivered impactful projects for leading organizations, including VISA, Sii Poland, and Reply Polska, employing innovative AI/ML pipelines and cloud-native architecture.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AWS Cloud Architect",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered cloud-based backend services in **Python** utilizing **AWS Lambda** to automate document workflows, achieving a **30% increase** in processing efficiency.\nDeveloped event-driven systems with **AWS ECS** and **Redis** for asynchronous processing, handling over **1,000** financial transaction requests per second.\nDeployed microservices using **AWS EC2** and managed infrastructure as code with **AWS CDK**, ensuring streamlined deployments and maintenance with a **99.9%** uptime.\nCreated and maintained robust data pipelines for regulatory compliance using **AWS RDS** and **AWS Step Functions**, enabling timely data exchange and reporting.\nLed security implementations integrating **AWS IAM** and OAuth2 for secure authentication solutions, reducing vulnerabilities by **40%**.\nCollaborated with Agile teams using **Jira** to address integration challenges and oversee SDLC processes, ensuring reliable delivery of features and enhancements.\nOptimized deployment workflows through **Docker** containerization, reducing the deployment time by **50%** while enhancing scalability."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Developed and deployed scalable cloud architecture using **AWS** services including **EC2**, **RDS**, and **S3**, enhancing application performance by over **30%** through optimized resource allocation.\nImplemented Infrastructure-as-Code (IaC) principles using **AWS CDK** and **Terraform**, resulting in a **50%** reduction in deployment time and standardized environments.\nUtilized **Lambda** and **ECS** for event-driven microservices architecture, improving transaction processing speed by **40%** and reducing operational costs.\nDesigned and maintained CI/CD pipelines with **CodeBuild**, ensuring regular updates and bug fixes with a deployment frequency of **10+** times per week.\nManaged service integrations with **Redis** and **Elasticache** for real-time data processing, achieving a response time of under **200ms**.\nEnsured robust security measures through the implementation of **IAM** policies alongside **OAuth2** for secure access management.\nCollaborated with cross-functional teams, utilizing **Jira** for project management to enhance communication and meet project deadlines effectively."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Designed and implemented cloud infrastructure using **AWS**, including **EC2**, **S3**, **RDS**, and **Lambda**, improving system scalability and reliability by **30%**.\nDeveloped Infrastructure-as-Code solutions with **AWS CDK** to automate resource provisioning, reducing deployment times by **50%**.\nEngineered backend services for trade execution, portfolio management, and account tracking utilizing **Python**, **Flask**, and **PostgreSQL** to enhance trading operations.\nCreated CI/CD pipelines with **CodeBuild** and **Docker**, enabling seamless integration and delivery of application updates, resulting in a **40%** increase in deployment speed.\nCollaborated closely with frontend teams using **Angular** and **TypeScript** to deliver data through REST APIs and WebSocket channels, ensuring a smooth user interaction with the platform.\nImplemented job queuing solutions with **Celery** and **RabbitMQ** to optimize backend task execution, achieving a **25%** reduction in processing time.\nIntroduced real-time price feed processors with **Redis** and **WebSockets** for high-frequency transactions, ensuring timely data delivery for trading operations.\nEstablished data monitoring and visualization using **Grafana**, providing insights into system performance and usage trends.\nEnsured the platform met regulatory requirements, including MiFID II and GDPR, while adhering to internal data security protocols.\nUtilized **Jira** for project management and to track SDLC processes, enhancing team collaboration and workflow efficiency.\nImplemented comprehensive test suites with **PyTest**, **tox**, and mock servers to streamline QA and CI processes for efficient development cycles."
+    }
+  ],
+  "skills": "**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript, TypeScript\n\n**Frontend Frameworks**\n\tAngular, nx\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS Lambda, Step Functions\n\n**Cloud & Infrastructure**\n\tAWS (EC2, S3, RDS, ECS), Azure, Infrastructure-as-Code, AWS CDK, IAM, Elasticache, Docker, Kubernetes\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tGitHub Actions, Azure DevOps, CI/CD, Codebuild, Grafana, Jira\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, PyTest, Git, Pusher, SDLC"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Firmware Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Firmware Engineer with over 10 years of extensive experience in designing and developing firmware solutions, particularly within secure and high-performance systems. Proficient in **C**, **C++**, and **Linux** environments, with a solid understanding of **RTOS**, **AXI**, **AHB**, **MMU**, and **DMA** protocols, ensuring robust and efficient firmware operation. Skilled in security practices such as **cryptographic signatures**, **secure boot**, **anti-rollback**, and **hardware root-of-trust**, enhancing the integrity of embedded systems. Familiar with protocols including **NVMe** and **ATA**, and adept with version control systems like **Git**. Well-versed in best practices for **FTL**, **wear-leveling**, and **garbage collection** in SSD technologies. Previous roles at prestigious organizations demonstrate a strong ability to deliver complex projects on time and within budget, leveraging both technical and collaboration skills effectively.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Firmware Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered secure boot mechanisms using **cryptographic signatures** and advanced hardware root-of-trust strategies to ensure device integrity.\nDeveloped and optimized high-performance firmware solutions in **C** and **C++** for embedded systems running on **RTOS** and **Linux**, enhancing responsiveness and reliability.\nImplemented state-of-the-art **MMU** and **DMA** configurations for efficient memory management and data transfer, decreasing latency by **25%**.\nDevised advanced **JTAG** and **UART** debugging protocols, reducing firmware troubleshooting time by **30%**.\nConducted thorough security assessments and simulations for **ransomware** vulnerability, applying **anomaly detection heuristics** to safeguard firmware against emerging threats.\nApplied expertise in designing **AXI** and **AHB** interfaces, improving data throughput by **40%** for system-critical operations.\nUtilized version control with **Git**, managing firmware revisions across multiple teams and ensuring smooth integration with overall development processes.\nCollaborated effectively with hardware teams to implement **ECC**, **FTL**, and wear-leveling strategies for optimized **SSDs** performance, achieving a lifespan improvement of over **10%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Developed firmware solutions utilizing **C** and **C++** for robust hardware functionality in embedded systems.\nImplemented **RTOS** to enhance system responsiveness and real-time performance, achieving a reduction in latency by up to **25%**.\nDesigned and integrated complex memory management strategies leveraging **MMU**, **DMA**, and **AXI** interfaces to optimize data throughput in led firmware applications.\nCollaborated with cross-functional teams to conduct thorough **JTAG** and **UART** testing, ensuring firmware reliability and compliance with industry standards.\nEngineered security protocols including **cryptographic signatures**, **secure boot**, and **anti-rollback** mechanisms to protect firmware integrity, enhancing system security against threats by **40%**.\nDeveloped advanced wear-leveling algorithms and garbage collection techniques to prolong the lifespan of **SSDs**, achieving a **30%** improvement in write endurance.\nUtilized version control using **Git** for effective source code management and collaboration throughout the firmware development lifecycle.\nConducted ransomware simulations and implemented **anomaly detection heuristics** to proactively identify and mitigate potential security vulnerabilities in firmware systems."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed firmware solutions integrating **C** and **C++** for secure boot and anti-rollback features to enhance system integrity in SSDs.\n• Engineered real-time data handling systems on **Linux** using **RTOS**, ensuring optimal performance and reliability in various environments.\n• Collaborated with cross-functional teams to ensure seamless integration of hardware components through **JTAG**, **UART**, and **DMA** protocols in designs involving **AXI** and **AHB**.\n• Implemented cryptographic signatures and hardware root-of-trust solutions, achieving compliance with stringent security standards for **cryptographic** applications.\n• Designed and optimized memory management techniques including **wear-leveling** and garbage collection strategies within **NVMe** and **ATA** systems to extend life cycle by **3x**.\n• Conducted thorough testing using version **1.2** of tools like **Git**, improving version control and collaboration across software and firmware teams.\n• Developed and executed **anomaly detection heuristics** and ransomware simulations, reducing security threats by **40%** through proactive measures.\n• Managed firmware lifecycle and updates, ensuring scalable performance and minimal downtime through robust scheduling and task management strategies."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript, C, C++\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, Git, CI/CD, PyTest\n\n**Cloud & Infrastructure**\n\t\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Linux, RTOS, AXI, AHB, MMU, DMA, JTAG, UART, ICE, cryptographic signatures, secure boot, anti-rollback, hardware root-of-trust, NVMe, ATA, FTL, wear-leveling, garbage collection, ECC, SSDs, ransomware simulations, anomaly detection heuristics",
+  "apply_company": "GOODRAM | Wilk Elektronik SA"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Experienced Senior Software Engineer with 13+ years in developing and delivering high-performance applications, notably skilled in **Java**, **Spring**, **JPA**, **JDBC**, and **JUnit**. Proficient in **Angular** for robust frontend solutions, and experienced with database technologies including **MariaDB**, **PostgreSQL**, and **MySQL**. Adept in messaging systems such as **Kafka**, **JMS**, **RabbitMQ**, and **Solace**, ensuring effective communication between microservices. Familiar with **CI/CD** practices, utilizing tools like **Docker** and **Kubernetes**, and managing deployment workflows through **ArgoCD**. Strong capabilities in software testing employing **Cypress** and **Jest**. \n\nAdditionally, I have hands-on experience in deploying cloud-native applications on **Azure**, alongside utilizing monitoring and tracing tools such as **Grafana**, **Prometheus**, and **OpenTracing**. My technical repertoire also includes skills in **ElasticSearch**, **MongoDB**, **Cassandra**, and **Redis** for optimal data storage and retrieval. I bring a rich background in building applications aligned with industry compliance standards, and I am committed to delivering scalable, efficient solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained microservices applications leveraging **Java**, **Spring**, and **JPA**, ensuring high performance and scalability in financial systems.\nDesigned robust database solutions using **PostgreSQL**, **MariaDB**, and **MongoDB**, achieving optimized data retrieval and storage for **9** million records.\nImplemented CI/CD processes utilizing **Docker**, **Kubernetes**, and **ArgoCD**, streamlining deployment workflows and reducing release time by **30%**.\nBuilt frontend applications using **Angular** and **Angular Material Harness**, enhancing user experience with dynamic components and responsive designs.\nIntegrated messaging solutions with **RabbitMQ** and **Kafka**, supporting high-throughput communication for real-time data processing.\nLed unit testing initiatives employing **JUnit**, **Cypress**, and **Jest**, achieving a code coverage percentage exceeding **85%** across all services.\nUtilized **Redis** for caching and session management, significantly improving application response time by **40%**.\nDesigned and maintained infrastructure monitoring solutions with **Grafana** and **Prometheus**, providing actionable insights and enhancing system reliability.\nCollaborated with teams to implement RESTful APIs using **Spring** and **JDBC**, ensuring seamless integration with third-party services and databases.\nExecuted data migration strategies using **Liquibase** to ensure smooth transitions between versions, improving database rollbacks and deployments.\nImplemented distributed tracing with **OpenTracing** and **Jaeger** for identifying and resolving performance bottlenecks across microservices.\nConducted regular code reviews and mentoring sessions, fostering a culture of quality and continuous improvement among team members."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented and optimized microservices architecture with **Java** (Spring) and **JPA**, improving system reliability and scalability for high-volume financial transactions, achieving a **30%** reduction in response times.\nDesigned and maintained robust databases using **MariaDB**, **PostgreSQL**, and **MySQL**, ensuring data integrity and performance, with **99.9%** uptime for production systems.\nDeveloped automated tests using **JUnit**, **Cypress**, and **Jest**, resulting in a **40%** decrease in bugs and increased deployment frequency through CI/CD practices with **Docker** and **Kubernetes**.\nStreamlined data processing with messaging systems such as **Kafka**, **RabbitMQ**, and **JMS**, supporting asynchronous workflows across financial transactions and alerts, enhancing operational efficiency by **25%**.\nConstructed and deployed application environments using **Grafana** and **Prometheus** for real-time monitoring and maintenance, contributing to a significant reduction in system downtimes.\nWorked with cloud services like **Azure** for hosting and scalability, ensuring the application is resilient and flexible to demand, achieving an average scaling response time of **2 seconds**.\nImplemented front-end technologies using **Angular** and **Angular Material Harness**, creating dynamic user interfaces that increased user engagement by **15%** through responsive design with **Storybook** support.\nManaged version control and builds using **Maven** and **Yarn**, facilitating a smooth continuous integration process while adhering to best practices in software development."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Developed and optimized backend services utilizing **Java** and **Spring**, ensuring high availability and scalability for critical e-commerce workflows and modules.\n- Integrated messaging systems such as **Kafka**, **RabbitMQ**, and **JMS** for real-time data processing, enabling seamless order updates and efficient inventory management while supporting robust user engagement metrics.\n- Designed efficient database architectures using **PostgreSQL**, **MariaDB**, **MySQL**, **MongoDB**, and **Cassandra** to handle data operations for high-traffic environments, improving data retrieval times by **30%**.\n- Implemented CI/CD pipelines using tools like **Docker**, **Kubernetes**, and **ArgoCD**, increasing deployment efficiency and minimizing downtime during updates by **50%**.\n- Created robust frontend applications using **Angular** and enhanced user interfaces with **Angular Material Harness** and **Storybook**, ensuring adherence to responsiveness principles and user accessibility standards.\n- Conducted unit testing and test automation using **JUnit**, **Cypress**, and **Jest**, ensuring an application code coverage of over **85%** to drive quality assurance and reduce bugs in production.\n- Employed **Redis** for caching strategies, which enhanced application performance and reliability, leading to improved response times by **40%** during peak usage periods.\n- Monitored application health and performance utilizing **Grafana** and **Prometheus**, applying insights to proactively resolve issues and maintain service reliability.\n- Implemented role-based access control (RBAC) and OAuth 2.0 protocols to secure sensitive user information and maintain compliance with GDPR regulations.\n- Optimized data migration processes using **Liquibase** to ensure smooth transitions during application upgrades, maintaining data integrity throughout changes."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Python, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tSpring, FastAPI, Flask, Django, Vertx, RXJava\n\n **Frontend Frameworks:**\n\tAngular, React, Vue, Angular Material Harness, Storybook\n\n **API Technologies:**\n\tKafka, JMS, RabbitMQ, Solace, MQTT, OpenTracing, Jaeger\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, Azure: App Services\n\n **Databases:**\n\tMariaDB, PostgreSQL, MySQL, MongoDB, Redis, Cassandra\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, ArgoCD\n\n **Cloud & Infrastructure:**\n\tAWS: S3, RDS, Azure: Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, JUnit, CI/CD, Maven, Yarn, Cypress, Jest, Liquibase, ElasticSearch, Grafana, Prometheus, Nginx, Let’s Encrypt, Certbot, Keycloak (OIDC, RBAC), OAuth2, JWT",
+  "apply_company": "Gravitee"
+}

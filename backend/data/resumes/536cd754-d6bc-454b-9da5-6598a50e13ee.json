@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Cloud Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Cloud Engineer with 8 years of experience, I excel in utilizing **GCP**, **Terraform**, and **Python** to develop and manage robust cloud architectures. Skilled in security practices including **Firewalls**, **VPC Service Controls**, and compliance standards such as **ISO 27001** and **DORA**, I ensure that applications are not only safe but also efficient in meeting regulatory requirements. My experience extends to infrastructure as code, utilizing **Terraform** for deployment automation, and establishing security baselines using **Cloud Armor** and **WAFs**.\n\nAdditionally, I possess strong programming skills in **Go** and have a solid background in cloud-native technologies. My previous roles involved leading teams in building enterprise platforms with an emphasis on microservices, event-driven systems, and CI/CD practices. I have also implemented data processing pipelines and machine learning workflows, leveraging tools like **n8n**, effectively driving the integration of intelligent automation into existing frameworks. My proficiency spans various technologies and frameworks, including **FastAPI**, **Django**, and **MLflow**, showcasing my versatility as a Full Stack Developer in driving high-performance solutions.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Cloud Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented scalable cloud architectures leveraging **GCP**, ensuring compliance with **ISO 27001** and security standards such as **Cloud Armor**, **Firewalls**, and **WAFs** for optimally secure deployments.\n- Utilized **Terraform** for Infrastructure as Code (IaC) to automate the provisioning and management of cloud resources in a consistent and efficient manner across environments, reducing deployment time by **40%**.\n- Developed backend solutions using **Python** and **Go**, focusing on building highly available and resilient microservices through **GKE Security Baseline** and compliance with **DORA**.\n- Integrated **n8n** for automating workflows across various cloud services, enabling seamless data transitions and reducing manual interventions by **30%**.\n- Conducted regular security audits and implemented best practices for **VPC Service Controls** and **GKE**, achieving a **99.9%** uptime rate for production environments.\n- Led initiatives to install and configure **Falco IDS** for real-time threat detection, enhancing security posture and reducing incident response time by **50%**.\n- Collaborated with cross-functional teams to optimize CI/CD pipelines within a cloud context, focusing on security, scalability, and reliability to ensure smooth deployments.\n- Presented architectural designs and strategies that align with business objectives, while suggesting improvements based on cost analysis and performance metrics.\n- Conducted training sessions for team members on **GCP** best practices, resulting in improved team efficiency and enhanced understanding of cloud-native principles."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented security best practices in cloud architecture, leveraging **GCP** and **Terraform** to manage and provision infrastructure, ensuring compliance with **ISO 27001** standards.\nDeveloped Infrastructure as Code (IaC) using **Terraform** to streamline deployment processes, reducing setup times by **30%** and increasing reliability across cloud environments.\nAutomated workflows using **n8n**, enhancing operational efficiency and reducing manual intervention by **25%**.\nConfigured advanced security measures using **Cloud Armor**, **Firewalls**, and **VPC Service Controls** to protect sensitive data and applications from external threats, improving overall security posture.\nConducted security audits and assessments utilizing **GKE Security Baseline** and **DORA** metrics, leading to a **40%** reduction in vulnerabilities over a year.\nIntegrated **Falco IDS** for real-time threat detection, enabling proactive incident response and reducing alert volume by **15%** through enhanced filtering.\nMonitored and optimized resource usage in **GCP**, achieving a **20%** cost reduction while maintaining performance levels for critical applications.\nCollaborated with cross-functional teams to implement CI/CD pipelines for deployment consistency, utilizing tools and practices like **Git** and **Docker**, ensuring application updates are delivered every **2 weeks**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Designed and optimized cloud infrastructure solutions on **GCP** using **Terraform**, ensuring compliance with **ISO 27001** standards and implementing **VPC Service Controls** for network security across 9+ projects.\n- Deployed and managed containerized applications on **GKE** and integrated security best practices, applying the **GKE Security Baseline** for hardened environments, supporting up to 1000 concurrent users.\n- Implemented automation workflows using **n8n**, enhancing operational efficiency by reducing deployment times by over **30%** across various services.\n- Developed security measures including **Cloud Armor**, **WAFs**, and **Firewalls** to protect sensitive data and services, significantly reducing attack vectors and ensuring robust defense strategies.\n- Conducted vulnerability assessments utilizing **Falco IDS**, streamlining incident response protocols and achieving a response time improvement of **40%**.\n- Advocated for and implemented DevOps practices based on **DORA** principles, contributing to a **25%** increase in deployment frequency and a **20%** reduction in lead time for changes.\n- Collaborated with diverse teams to ensure role-based access control (RBAC) aligned with security policies, guaranteeing compliance with GDPR for over **5000** active users and their data.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Go\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tN/A\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), GCP\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure (App Services, Blob, SQL), Cloud Armor, VPC Service Controls, Firewalls, WAFs, GKE Security Baseline\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, ISO 27001, DORA, Falco IDS",
+  "apply_company": "Bit2Me"
+}

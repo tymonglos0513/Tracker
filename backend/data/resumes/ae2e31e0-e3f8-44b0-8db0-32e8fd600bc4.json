@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a highly skilled Senior Data Engineer with 8 years of experience, I excel in leveraging **Python**, **AWS**, **Azure**, and **CI/CD** practices to develop high-performance data engineering solutions. My extensive experience includes working with data processing technologies such as **Spark** and **DBT**, as well as utilizing both **SQL** and **NoSQL** databases to ensure data integrity and accessibility. \nI am proficient in employing **Infrastructure as Code** strategies to automate deployment and infrastructure management, enhancing operational efficiency. I have successfully developed and maintained data pipelines that support advanced analytics and data-driven decision-making across the healthcare and financial sectors. \nWith foundational expertise in microservices architecture and event-driven systems, I ensure compliance with industry standards while building robust data solutions. Additionally, my knowledge of data integration and machine learning workflows equips me to implement MLOps strategies effectively.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** for data processing and transformation tasks to support scalable data pipelines that handle large volumes of data in healthcare and financial sectors.\nImplemented **CI/CD** practices using tools such as **AWS** and **Azure** to automate the deployment of data workflows and ensure high-quality deliverables from development to production.\nDesigned and developed robust data models leveraging **SQL** and **NoSQL** databases, including PostgreSQL and MongoDB, to facilitate efficient data storage, retrieval, and processing.\nAdministered **AWS** data services, such as S3 and Redshift, and employed **Snowflake** for cloud-based data warehousing solutions, optimizing data storage costs and access speeds by **30%**.\nDeveloped and maintained data pipelines using **Apache Spark** for real-time data processing, significantly improving data ingestion speeds by **25%**.\nImplemented **Infrastructure as Code** practices to automate the provisioning and management of cloud environments across **AWS** and **Azure**, enhancing deployment efficiency and reducing setup times by **40%**.\nContributed to data orchestration using **DBT** to streamline transformations and modeling processes, ensuring smooth data flow and integrity across various stages.\nCollaborated with cross-functional teams to gather requirements and align data architecture with organizational goals, improving data accessibility for analytics purposes by **50%**.\nMonitored and optimized data performance through effective indexing strategies and query optimizations in both SQL and NoSQL environments, leading to faster query responses and reduced latency by **20%**.\nEngaged in developing processes for data quality assurance ensuring the accuracy and reliability of data used in analytics, adhering to best practices in **data governance**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained robust data infrastructure using **Python** and **SQL** to support analytics and reporting for large datasets across financial platforms.\nUtilized **AWS** and **Azure** for cloud services, ensuring optimal data storage and processing capabilities, achieving a 30% cost reduction on cloud expenditure.\nImplemented **CI/CD** practices to automate data pipeline deployments, resulting in a 40% decrease in deployment times from development to production.\nDesigned and optimized no-code/low-code ETL pipelines using **DBT** and **Snowflake**, enabling efficient data transformation and loading processes for financial datasets.\nUtilized **Spark** and **Scala** to handle large-scale data processing tasks, improving the efficiency of data workflows by 25% and enabling real-time data analytics.\nCreated reliable data models and maintained documentation to ensure data integrity and compliance, managing over **1 million records** across various financial transactions.\nDeveloped quality assurance processes to monitor data consistency and integrity, incorporating automated data validation techniques, reducing errors by 15% in reporting.\nEmployed Infrastructure as Code (IaC) techniques to streamline and standardize the deployment of data services on cloud platforms, enhancing scalability and maintainability of infrastructure."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Scala** to design and optimize data processing workflows, ensuring high efficiency and reliability across various data pipelines and ETL processes in line with **AWS** and **Azure** cloud services.\nImplemented **SQL** and **NoSQL** solutions using **Snowflake** and **DBT** for data storage, modeling, and transformation, achieving a **30%** reduction in query times and enhancing scalability for analytics workloads.\nDeveloped robust CI/CD pipelines to streamline deployments and integrate Infrastructure as Code (IaC) practices, increasing deployment frequency by **50%** and improving rollback capabilities.\nLeveraged **Spark** for large-scale data processing and analytics, enabling real-time data insights and performance improvements across multiple data streams.\nCollaborated with cross-functional teams to define data architecture, ensuring compliance with existing data governance frameworks and providing secure access control measures using RBAC.\nEngineered batch and stream processing solutions to facilitate near real-time data availability, reducing latency by **40%** for critical reporting dashboards.\nMaintained and optimized data warehousing solutions, ensuring data quality and integrity through automated validation and monitoring processes.\nContributed to the design of data lakes and data warehouses on **AWS** and **Azure**, enhancing data retrieval speeds and supporting advanced analytics capabilities for business intelligence applications.\nPerformed comprehensive data modeling and analysis to support business decision-making, utilizing best practices in data engineering to achieve an improved data transformation rate of **25%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Scala\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\n **Serverless and Cloud Functions:**\n\tAWS, Azure\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, NoSQL, Snowflake\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tInfrastructure as Code\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, DBT",
+  "apply_company": "Plain Concepts"
+}

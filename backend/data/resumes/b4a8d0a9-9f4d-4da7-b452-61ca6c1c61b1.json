@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Developer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-oriented Software Developer with 8 years of experience in building scalable and reliable applications. Proficient in **CI/CD** processes and version control using **GitLab**, ensuring seamless deployment and integration. Skilled in **PostgreSQL**, **MongoDB**, and **Redis**, enabling robust data storage and retrieval solutions. Proven expertise in **microservices** architecture and containerization using **Docker** and **Kubernetes**, facilitating efficient application management and orchestration.\n\nI excel in unit, module, and integration testing, ensuring high-quality code and maintaining standards of excellence. A strong problem solver with excellent communication skills, I possess a solid understanding of software development principles that drive successful collaboration within teams.\n\nIn addition to my technical strengths, I have experience in building high-performance solutions across healthcare and financial sectors using **Java**, **Kotlin**, **JavaScript/TypeScript**, and **Python**, with frameworks including **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. I have also led projects integrating AI/ML capabilities for predictive analytics and intelligent automation, utilizing cloud services **Azure** and **AWS** to deliver enterprise-grade applications.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Developer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained CI/CD pipelines using **GitLab** to automate build, test, and deployment processes, enhancing efficiency across development teams.\nLeveraged **Docker** and **Kubernetes** to architect scalable microservices, enabling seamless deployment and management of applications in production environments.\nImplemented robust **PostgreSQL**, **MongoDB**, and **Redis** data storage solutions, optimizing for performance and data retrieval speeds in application development.\nUtilized testing frameworks for unit testing and integration testing, such as **Jest**, **Cypress**, **PyTest**, and Postman, increasing code reliability by achieving **95%** code coverage.\nCollaborated effectively with cross-functional teams to address complex problem solving scenarios, ensuring clear communication and project alignment.\nMaintained rigorous version control practices and documentation standards to streamline development workflows and facilitate onboarding of new developers.\nDesigned and executed load testing procedures using **StatsD**, ensuring microservices could handle traffic spikes with up to **10,000** concurrent users.\nParticipated in code reviews to enhance code quality and foster best practices in **Java** and **Kotlin** programming.\nProduced comprehensive documentation for deployment procedures and technical specifications, contributing to a **30%** reduction in onboarding time for new team members.\nEngaged in continual learning and feedback sessions to refine software processes and deliver enhanced user experiences, resulting in improved application performance metrics."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Kotlin** to develop scalable microservices that improved processing speeds by **30%**, while ensuring robust system integration and streamlined deployment.\nImplemented CI/CD pipelines using **GitLab** for automated testing and version control, enhancing deployment frequency by **50%** and reducing downtime to less than **5%**.\nDesigned and optimized databases using **PostgreSQL** and **MongoDB**, facilitating efficient data storage and retrieval processes that increased query performance by **40%**.\nDeveloped caching strategies using **Redis** to significantly reduce load times, resulting in a **25%** improvement in application responsiveness.\nMonitored system performance and metrics using **StatsD**, ensuring proactive problem-solving in production environments and maintaining service reliability.\nCollaborated effectively with cross-functional teams, communicating complex technical concepts clearly and improving project outcomes via peer reviews and feedback loops.\nConducted unit, module, and integration testing to validate software functionality, achieving a **98%** code coverage and ensuring quality standards. \nImplemented containerization strategies using **Docker** and orchestrated deployments with **Kubernetes**, ensuring consistent and reliable environments across development and production.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Java** and **Kotlin** to design and develop microservices that enhance scalability and maintainability in high-demand environments, ensuring efficient performance for diverse modules.\nImplemented **CI/CD** pipelines using **GitLab** for automated deployment processes, which reduced deployment times by **30%** and improved code quality through continuous integration practices.\nDeveloped and maintained database interactions with **PostgreSQL** and **MongoDB**, focusing on optimizing queries and data retrieval times for high-traffic applications, achieving a **20%** reduction in response times.\nApplied **Redis** for caching mechanisms, effectively lowering database read pressure and speeding up application load times, resulting in a **40%** improvement in overall application responsiveness.\nConducted rigorous **unit testing**, **module testing**, and **integration testing** to ensure robust application performance and code reliability, achieving **95%** code coverage across services.\nEngaged in solution-oriented **problem solving**, collaborating with cross-functional teams to address and mitigate tech stack challenges efficiently, ensuring seamless functionality and user satisfaction.\nImplemented **Docker** and **Kubernetes** for containerization and orchestration of applications, enhancing deployment consistency and system stability in a cloud-native environment.\nUtilized **StatsD** for real-time performance monitoring and analytics, providing actionable insights that drove enhancements and optimizations in the system architecture.\nExecuted effective **communication** strategies to transmute technical information to non-technical stakeholders, ensuring project alignment and fostering collaborative efforts across teams."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Kotlin, Python, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tKeycloak, JWT, OAuth2, Nginx\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda, Azure App Services\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose, version control\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL)\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, StatsD, microservices, unit testing, module testing, integration testing, problem solving, communication"
+}

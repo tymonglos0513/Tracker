@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevSecOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "DevSecOps Engineer with 13+ years of experience in software development and security integration, specializing in the implementation of **Docker**, **Trivy**, and **Clair** for container security and vulnerability management. Proficient in developing secure CI/CD pipelines using **Harbor**, **ChainGuard**, and **Grype** to ensure compliance with industry standards. Deep expertise in transitioning application configurations with **Bitnami** and adhering to **CIS** benchmarks.\n\nSeasoned in delivering high-performance applications in healthcare and financial sectors, leveraging **JavaScript/TypeScript**, **Python**, and **Flutter**. Comprehensive experience in both frontend and backend technologies including **React**, **Next.js**, **Node.js**, **FastAPI**, and **Django**. Skilled in building AI/ML platforms for predictive analytics and automation, with hands-on deployment of cloud-native solutions on **AWS** and **Azure**.\n\nAdept in compliance-driven development practices aligned with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Strong foundation in MLOps with a focus on model training, serving, and orchestration using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevSecOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented secure containerization strategies using **Docker** to enhance application deployment practices.\nDeveloped comprehensive security protocols with **Trivy**, **Clair**, and **Grype** for vulnerability scanning and compliance management across all systems.\nConducted continuous integration and continuous deployment (CI/CD) processes utilizing **Harbor** for managing container images securely, ensuring robust integrity measures throughout workflows.\nEnsured compliance with **CIS** benchmarks by auditing and securing container environments, leading to a **30%** reduction in security incidents.\nManaged dependencies and resources effectively with **Bitnami** to facilitate secure packaging of applications and adherence to security best practices.\nEstablished collaborative workflows with teams using advanced tools for monitoring and security checks, significantly improving code quality and deployment success rates by **25%**.\nDesigned and implemented automated security testing as part of CI/CD pipelines to rapidly identify vulnerabilities before deployment, achieving a target of **90%** automated coverage.\nEnhanced incident response strategies leading to a reduction in mean time to recovery (MTTR) by **40%** through efficient use of monitoring tools and protocols.\nConducted regular security assessments and training sessions, resulting in increased team awareness and proactive identification of potential security risks, contributing to overall security posture improvement.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented security measures in the containerization process through the use of **Docker** and **Harbor**, ensuring a robust and compliant DevSecOps pipeline.\nConducted vulnerability assessments and compliance checks utilizing tools like **Trivy**, **Clair**, and **Grype** to maintain an industry-standard security posture in deployment environments.\nIntegrated security automation within the CI/CD processes by leveraging **ChainGuard** for policy enforcement, thereby mitigating risks in the application lifecycle.\nDeployed **Bitnami** applications with a focus on security best practices, ensuring that all external dependencies are monitored and updated continuously.\nEstablished CIS benchmarks for system and application security, achieving a compliance rate of over **90%** across all deployed services.\nEstablished robust monitoring solutions to ensure continuous compliance and security monitoring, reducing security incident response times by up to **50%**.\nCollaborated closely with development teams to embed security into the software development lifecycle (SDLC), ensuring that security is prioritized from the design phase through deployment.\nEducated teams on security risks related to containerization and cloud infrastructure, leveraging knowledge of **Docker** and its ecosystem to build a culture of security awareness within engineering teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented secure containerization strategies using **Docker** and **Harbor**, ensuring compliance with **CIS** benchmarks and enhancing system integrity.\nIntegrated vulnerability scanning processes leveraging tools such as **Trivy**, **Clair**, and **Grype** to proactively identify and remediate security risks within image repositories, ensuring protection against known vulnerabilities.\nAdministered infrastructure management using **Bitnami** solutions for streamlined deployment and maintenance of applications across various environments, improving operational efficiency by **25%**.\nDeveloped and enforced security policies within CI/CD pipelines using **ChainGuard**, minimizing risks associated with code vulnerabilities and ensuring adherence to best practices in software development.\nConducted thorough assessments of container images and workloads, implementing automated security checks to ensure ongoing compliance with internal standards and regulatory requirements.\nCollaborated with cross-functional teams to embed security throughout the software development lifecycle (SDLC), improving collaboration and response times to security issues by **40%**.\nTrained teams on security best practices using **Docker** and established a culture of security awareness, significantly reducing security incidents by **30%** year-on-year.\nDesigned and deployed robust access controls and authentication mechanisms to safeguard sensitive information, maintaining compliance with GDPR and ensuring a secure environment for users.\nMonitored and reported security metrics and vulnerabilities, delivering insights and recommendations to stakeholders to continuously enhance the security posture of cloud services and applications."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **Backend Frameworks:**\n\n\n **Frontend Frameworks:**\n\n\n **API Technologies:**\n\n\n **Serverless and Cloud Functions:**\n\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot\n\tTerraform, Ansible, Helm, Docker Compose\n\tHarbor, ChainGuard, Bitnami, Trivy, Clair, Grype, CIS",
+  "apply_company": "Sii Poland"
+}

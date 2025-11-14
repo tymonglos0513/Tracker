@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of expertise in developing robust, high-performance applications primarily utilizing **C++**, **Python**, and **Linux**. Proficient in designing and implementing **multithreading**, **microservices**, and **CI/CD** pipelines, with strong experience in cloud services including **AWS**, **Azure**, and **GCP**. Skilled in deploying containerized applications and infrastructure as code using **Terraform**. Demonstrated ability to create and optimize engaging software solutions in fast-paced environments.\nAdditionally experienced in **DPDK**, **NFV**, and **IPSec**, ensuring scalable solutions across healthcare and financial sectors. am also versed in **Python** for backend tasks, alongside a solid foundation in **Golang** for performance-intensive applications. Known for my proactive approach towards MLOps, enhancing analytics and automation functionalities within applications.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained scalable **microservices** architectures leveraging **C++** and **Golang** for optimal performance, ensuring high availability and concurrency through **multithreading** strategies.\nImplemented robust **CI/CD** pipelines utilizing **Terraform** for infrastructure as code, automating deployment processes across **AWS**, **Azure**, and **GCP** environments to allow for efficient software delivery and testing.\nDesigned and optimized systems within **Linux** environments, enhancing operational efficiency and implementing **IPSec** for secure communications.\nUtilized **DPDK** for high-performance packet processing in network functions virtualization (NFV) to transform legacy applications into high-speed solutions.\nCollaborated on cross-functional teams to develop enterprise applications that adhered to strict standards and compliance regulations, achieving a legacy system migration completion rate of **95%** within **6 months**.\nEngaged in performance tuning and troubleshooting of existing applications, reaching a **30%** improvement in processing time and response rates.\nProvided mentorship to junior engineers, fostering skill development in **Containers** and distributed computing practices, which boosted team project delivery speed by **20%**.\nConducted thorough code reviews and testing strategies to maintain the integrity of the software stack, emphasizing quality assurance techniques across multiple deployment environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Golang** to modernize core financial platforms by migrating to microservices architecture, enhancing scalability and performance for high-volume transactional systems, achieving a **30%** increase in transaction processing efficiency.\nImplemented **Linux** and **Docker** for deploying and managing containerized microservices, ensuring efficient resource utilization and system reliability with an uptime of **99.99%**.\nCreated CI/CD pipelines with **Terraform** and **AWS**, significantly reducing deployment time by **50%** and enabling automated testing and seamless integrations.\nDesigned and executed high-throughput network functions virtualization (NFV) solutions employing **DPDK**, optimizing data packet processing for financial applications.\nDeveloped multithreaded applications using **C++** to enhance performance for data-intensive operations, facilitating rapid responses in services that handle **1M+** transactions daily.\nConfigured robust security protocols including **IPSec** and **DPI** to ensure data integrity and confidentiality across distributed systems in compliance with industry standards.\nLeveraged cloud services from **AWS**, **Azure**, and **GCP** to create a fault-tolerant architecture enhancing service availability while managing infrastructure costs efficiently.\nCollaborated effectively in an Agile environment, participating in sprint reviews and retrospectives to continuously improve the development process and product quality."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged advanced programming skills in **C++** and **Python** to design and implement robust backend solutions for a high-performance platform, ensuring optimum utilization of resources and adhering to industry standards.\nEngineered efficient, highly scalable microservices architecture, utilizing **AWS** and **GCP** for seamless deployment and management, resulting in a 30% reduction in latency and enhanced system scalability.\nImplemented solutions using **Linux** and **Docker** containers to create a consistent development environment and streamline CI/CD processes, improving deployment times by 25%.\nDeveloped multithreading applications to enhance resource utilization and process efficiency, achieving a throughput increase of up to **2000** requests per second.\nApplied **DPDK** for optimizing packet processing in networking components, leading to significant performance improvements for data-driven applications.\nDesigned and deployed infrastructure as code using **Terraform**, enabling rapid provisioning of environments and ensuring consistency across development and production stages with minimal downtime.\nIntegrated network functions virtualization (NFV) technologies to facilitate efficient resource allocation and management, enhancing service availability.\nImplemented role-based access control (RBAC) and **IPSec** for secure data transmission, ensuring compliance with regulatory standards and safeguarding user data.\nUtilized **CI/CD** pipelines for automated testing and deployment, improving code quality and reducing integration issues by 40%.\nHarnessed **Golang** for creating lightweight services that contributed to reduced overhead and increased responsiveness across various network functions."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tC++, Python, Golang\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tOAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\tGCP\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tLinux, Containers, multithreading, microservices, DPDK, NFV, IPSec, DPI\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "Arista Networks"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Software Engineer especializado/a en Inteligencia Artificial",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Software Engineer specializing in **Inteligencia Artificial** with over 10 years of experience in backend development and cloud-native architectures. Proficient in creating and optimizing **APIs** and automation tools with a strong focus on integrating **IA generativa** and **Large Language Models (LLMs)** into solutions. Highly skilled in leveraging **Azure** services, including **Functions**, **App Services**, **Cosmos DB**, and **Key Vault** for robust and scalable applications. Experienced with **Intelligent Document Processing (IDP)** and **Retrieval-Augmented Generation (RAG)** technologies, along with expertise in prompt engineering and **speech-to-text** capabilities. Proven track record of delivering impactful projects for leading organizations such as VISA, Sii Poland, and Reply Polska, enhancing service performance and operational efficiency.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer especializado/a en Inteligencia Artificial",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Azure App Services** to deploy robust backend services in Python leveraging **FastAPI** for document automation and user onboarding workflows.\nEngineered APIs that integrate **Intelligent Document Processing (IDP)** and **Large Language Models (LLMs)** to enhance data retrieval and processing capabilities, achieving task performance improvements of over **30%**.\nImplemented event-driven architecture using **Celery** and **Redis** for asynchronous processing of up to **1,000** financial transaction requests per minute, ensuring system efficiency.\nManaged infrastructure with **Terraform**, enabling seamless deployment of **Azure Functions** and a microservices architecture that supports scaling to thousands of users.\nDesigned and maintained data pipelines for regulatory compliance using **Apache Airflow** and **Azure Functions**, ensuring data accuracy and timely delivery within a **5-minute** SLA.\nConducted security assessments and integrated **OAuth2** and **Azure AD B2C** for scalable authentication frameworks, fortifying user access security by reducing vulnerabilities by **40%**.\nCollaborated with cross-functional teams to solve system integration issues and ensure compliance, leading the release strategies for **3 major** software versions."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems using **Python** and **FastAPI** to automate document workflows, streamlining user onboarding for **over 500** users.\n• Created event-driven microservices with **Celery** and **Redis**, enabling the asynchronous processing of financial data and transaction requests, reducing processing time by **30%**.\n• Managed deployment of microservices on **Azure App Services** and implemented **Terraform** for infrastructure automation, maintaining consistent and scalable environments managing **over 100** microservices.\n• Engineered secure data pipelines utilizing **Apache Airflow** and **Azure Functions** for the automated flow of regulatory data, processing **over 1TB** of data monthly.\n• Conducted thorough security audits to ensure compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for managing authentication and securing access controls across **3** major applications.\n• Collaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and facilitated successful release management for **12** projects annually."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Azure Functions** and **App Services** to create scalable backend solutions, enhancing overall system performance.\nDeveloped robust **APIs** to facilitate seamless communication between frontend interfaces and backend services, ensuring efficiency in data handling and retrieval.\nEngineered intelligent document processing systems using **Large Language Models (LLMs)** and **retrieval-augmented generation (RAG)** techniques, streamlining workflows and enhancing data accessibility.\nImplemented **speech-to-text** capabilities, improving user accessibility and interaction with applications by **30%**.\nDesigned and maintained **Cosmos DB** for effective data management, achieving a **99.9%** uptime and ensuring high availability for user access.\nDeveloped secure data storage processes utilizing **Key Vault**, guaranteeing compliance with industry standards while managing sensitive information.\nCollaborated cross-functionally to integrate **IA generativa** methods, enhancing problem-solving approaches and increasing development productivity by **25%**.\nLed QA processes through comprehensive testing with PyTest and mock servers, resulting in a reduction of code bugs by **40%** and improving overall software reliability.\nOptimized backend task execution through job queuing and scheduling solutions using **Celery** and **RabbitMQ**, refining workflow efficiency and response times."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery, desarrollo backend\n\n **Frontend Frameworks**\n\n **API Technologies**\n\tREST/gRPC APIs, APIs\n\n **Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, Functions, App Services\n\n **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, Cosmos DB\n\n **DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Git\n\n **Cloud & Infrastructure**\n\tAzure\n\n **Other**\n\tAI generativa, Retrieval-Augmented Generation (RAG), speech-to-text, Key Vault, Intelligent Document Processing (IDP), Large Language Models (LLMs), prompt engineering, Kafka, PyTest\n"
+}

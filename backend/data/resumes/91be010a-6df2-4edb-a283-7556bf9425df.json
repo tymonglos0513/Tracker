@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "Results-driven Senior Data Engineer with 8 years of experience in **Data Engineering**, focusing on **ETL**, **Data Warehousing**, and ensuring **Data Quality** through robust processing pipelines. Proficient in **Python** and familiar with tools such as **dbt**, **Snowflake**, and **Databricks** for creating efficient data workflows. Strong expertise in cloud infrastructure using **AWS**, **Terraform**, and **CloudFormation** to manage and scale resources effectively.\n\nComplementing my data engineering skills, I possess a strong foundation in developing high-performance solutions within the healthcare and financial sectors, utilizing technologies such as **JavaScript**, **TypeScript**, **Flutter**, and frameworks like **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Additionally, I have extensive experience in microservices architecture, CI/CD automation, and developing enterprise-grade platforms that leverage AI/ML for enhanced analytics and automation.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** to architect ETL processes and streamline data ingestion workflows, ensuring high-quality data for analytics across healthcare and financial platforms.\nDesigned and implemented data warehousing solutions using **Snowflake** and **Databricks**, resulting in improved data retrieval times by **30%** and efficient storage management.\nEmployed **AWS** services with Infrastructure as Code (IaC) practices using **Terraform** and **CloudFormation** to automate infrastructure deployment, enhancing system reliability and scalability.\nDeveloped and maintained customer data platforms, ensuring the integrity and quality of data through robust Data Quality frameworks and Data Master Management strategies.\nLed the implementation of data processing pipelines leveraging **dbt** for data transformations, achieving a **20%** reduction in data processing time while adhering to the Kimball methodology.\nCollaborated with cross-functional teams to ensure the alignment of data engineering initiatives with business needs, enhancing data availability for decision-making.\nOptimized ETL workflows and data models, supporting high-volume data transactions with minimal latency.\nExecuted continuous integration/continuous deployment (CI/CD) strategies for data pipelines to ensure successful deployments and reliable updates in production environments.\nConducted performance tuning and optimization of database systems leading to improved query response times by **25%**, facilitating better analytics capabilities for stakeholders.\nEstablished data governance principles to uphold compliance with regulatory standards, ensuring data security and privacy across all engineering processes."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Executed robust **Data Engineering** practices, leveraging **Python (3.9)** and **dbt (1.0)** to build scalable ETL processes that efficiently transformed and loaded data into **Snowflake** and **Databricks** for effective data warehousing solutions.\nDesigned and implemented **ETL** pipelines utilizing **Apache Airflow (2.3)** to ensure automated and reliable batch and real-time ingestion of financial data from various sources, enhancing data accessibility for analytics.\nDeveloped and optimized **Infrastructure as Code** solutions using **Terraform (1.0)** and **CloudFormation** for consistent deployment and management of cloud resources on **AWS**, promoting efficient resource allocation and management.\nApplied **Kimball** methodologies to create a structured **Data Master Management** framework, ensuring high data quality and integrity within customer data platforms and enhancing data-driven decision making.\nFocused on implementing data quality checks and standards within processing workflows, elevating the accuracy and reliability of the financial analytics outputs.\nCollaborated with cross-functional teams to enhance customer data platforms, facilitating data integration and enabling insights that drove strategic initiatives across the organization.\nUtilized **Data Processing** techniques to analyze vast amounts of transaction data, contributing to proactive fraud detection capabilities and strategic business decisions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** for data storage solutions and infrastructure deployment, aligning with best practices in **Infrastructure as Code** through **Terraform** and **CloudFormation** to ensure scalability and efficiency in data engineering processes.\nDesigned and maintained robust **ETL** pipelines, utilizing **dbt** to transform and integrate data into **Snowflake** for optimized data querying and analysis, ensuring high data quality and accessibility across the organization.\nCreated data models based on the **Kimball** methodology, facilitating effective data warehousing solutions that support analytics and reporting needs for business intelligence.\nEngineered data processing workflows that facilitated the seamless movement of data from various sources to destinations, handling large volumes of data while implementing effective data governance practices.\nImplemented customer data platforms to ensure high data quality and master data management, improving accuracy and reliability of data-driven insights for decision-makers.\nDeveloped and executed data quality checks and validation measures, enhancing trustworthiness and compliance within data processes, which directly impacted operational efficiency and reporting accuracy.\nCollaborated with cross-functional teams to gather data requirements and translate business goals into data engineering solutions, ensuring alignment of data strategy with organizational objectives.\nAnalyzed and optimized existing data workflows, identifying bottlenecks and implementing solutions that improved performance metrics by **30%** over a six-month period.\nPresented findings and recommendations to stakeholders, leveraging data visualizations and reporting tools to support strategic initiatives and improve operational insights."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Snowflake\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tInfrastructure as Code, CloudFormation\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, dbt, ETL, Data Warehousing, Kimball, Databricks, Customer Data Platforms, Data Quality, Data Master Management, Data Processing, Authentication & Security (Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot)",
+  "apply_company": "Olo"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Backend Engineer with over 13 years of experience specializing in scalable and high-performance backend systems across various industries, including healthcare and finance. Proficient in **Kotlin**, **Ktor**, **Kafka**, and **PostgreSQL** for implementing robust API designs and messaging patterns within event-driven architectures. Skilled in employing **Docker** for containerization, and deploying solutions on **Google Cloud Platform**. Experienced in enhancing backend functionalities with AI coding tools and efficient development practices. Additionally, I bring expertise in JavaScript/TypeScript, Python, and contribute to full-stack development with frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Well-versed in building AI/ML capabilities for predictive analytics and ensuring compliance with standards like HIPAA and PCI DSS, showcasing my strong commitment to quality and security.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed high-performance backend services and integrations for applications using **Kotlin** and **Ktor** within an event-driven architecture for scalability and resilience.\nEngineered robust APIs that adhere to best practices, ensuring seamless communication between microservices and client applications, utilizing **PostgreSQL** for persistent data management.\nImplemented **Docker** for containerization, enhancing the development and deployment processes across various environments, thus reducing integration issues by **30%**.\nUtilized **Kafka** for handling real-time data streams, achieving low-latency and high-throughput processing for critical backend operations.\nDesigned and deployed cloud-native solutions on **Google Cloud Platform**, optimizing system performance and reliability by achieving over **99.9%** uptime.\nIntegrated AI coding tools to automate routine coding tasks and enhance productivity, resulting in a **25%** reduction in development time.\nCollaborated with frontend and DevOps teams to ensure smooth deployment and continuous integration, establishing a standardized workflow with automated testing using tools like Postman.\nDefined server-side architecture best practices supporting high data throughput while ensuring system security and compliance with industry standards such as PCI DSS.\nWorked on improving messaging patterns to enhance service communication efficiency, contributing to better system responsiveness during peak loads.\nParticipated in code reviews to uphold code quality and implement best coding standards across all backend services, improving maintainability and reducing technical debt."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Kafka** to design and deploy a robust event-driven architecture, ensuring asynchronous communication across critical workflows, such as payments and alerts.\nImplemented **API design** strategies to enhance system integration and support for microservices architecture, significantly improving response times and system reliability.\nDeveloped messaging patterns for efficient data transmission and processing, optimizing overall system performance and scalability.\nLed the integration of **PostgreSQL** databases for high-volume transactional data management, enhancing data retrieval times by **30%** and ensuring data integrity.\nContainerized applications using **Docker**, streamlining deployment processes and reducing environment inconsistencies by **50%**.\nLeveraged **Google Cloud Platform** to host and scale backend services, reducing infrastructure costs by **20%** through optimized resource allocation.\nBuilt and maintained RESTful APIs using **Kotlin** and **Ktor**, improving the integration of frontend applications with backend services.\nContributed to the development of financial tools by refactoring legacy code for a modernized code base that aligns with best practices and enhances maintainability.\nCollaborated with cross-functional teams to deliver high-quality software on time while adhering to Agile methodologies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Engineered robust backend services using **Kotlin** and **Ktor**, ensuring high performance and scalability tailored for global e-commerce platforms.\nDesigned event-driven architecture leveraging **Kafka**, facilitating real-time data streams and enhancing responsiveness across diverse application modules.\nImplemented efficient API design to streamline communication between services, enhancing user experience and system integration.\nUtilized **PostgreSQL** for advanced data storage and retrieval, optimizing database queries for improved application speed in high-traffic scenarios.\nDeployed microservices in production using **Docker**, ensuring containerization and simplified cloud deployment on **Google Cloud Platform** for enhanced service management.\nIntegrated AI-based coding tools for improved development workflows, significantly reducing coding errors and accelerating feature delivery timelines by **30%**.\nApplied proven messaging patterns to ensure data consistency and reliability between distributed components, driving operational excellence.\nCollaborated in cross-functional teams, leveraging agile methodologies to deliver project milestones ahead of schedule, achieving delivery churn reduction by **15%**.\nMaintained system performance metrics leading to a **40%** increase in system availability by mitigating downtime through proactive monitoring and performance tuning.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tKotlin, Python, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tKtor, FastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tAPI design\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, Google Cloud Platform\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Kafka, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Terraform, Ansible, Helm, Docker Compose, event-driven architecture, messaging-patterns, AI-Coding-Tools",
+  "apply_company": "bex technologies"
+}

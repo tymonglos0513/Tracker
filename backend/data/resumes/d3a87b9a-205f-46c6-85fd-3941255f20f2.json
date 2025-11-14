@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Fullstack Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Accomplished Senior Fullstack Engineer with 8 years of experience in crafting high-performance applications utilizing **JavaScript**, **Node.js**, **Vue.js**, **HTML**, **CSS**, **Git**, **Webpack**, and **npm**. Proficient in building scalable solutions within the healthcare and financial sectors, leveraging both **AI** and advanced web technologies. My strong command of **React**, **Next.js**, and **Python** unites with deep cloud proficiency in **Azure** and **AWS** to deliver innovative, enterprise-grade platforms.\n\nI excel in microservices architecture, event-driven design, and CI/CD automation, ensuring robust, secure applications that comply with regulatory standards such as HIPAA, FHIR, PCI DSS, and SOC 2. I also possess hands-on experience in developing machine learning pipelines and implementing MLOps workflows using tools like **MLflow**, **Airflow**, and **Kubeflow**, enhancing operational efficiency and enabling predictive analytics. My approach merges technical expertise with a dedication to developing high-quality software solutions.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Fullstack Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and enhanced dynamic web applications utilizing **Node.js**, **VueJS**, **JavaScript**, **HTML**, and **CSS**, building responsive user interfaces that improved user engagement by **25%**.\n• Implemented robust automated testing frameworks using **Jest**, **Mocha**, and **Cypress**, achieving **95%** test coverage across both front-end and back-end services, which increased code reliability and reduced bugs by **30%**.\n• Spearheaded the integration of CI/CD pipelines utilizing **Git** and **Webpack**, streamlining deployment processes and reducing release times by **40%** through efficient version control practices.\n• Designed adaptive UI components using modern frameworks like **VueJS**, enhancing maintainability and scalability across projects, with a modular approach that decreased development time by **20%**.\n• Conducted performance optimization assessments for high-traffic web applications, leveraging **npm** and **PostCSS** to ensure efficient loading times and smooth user interactions, improving page load speed by **50%**.\n• Collaborated cross-functionally with design teams to implement user-centered design principles for web applications, resulting in higher user satisfaction scores and a drop in bounce rates by **15%**.\n• Employed state management solutions to enhance application performance, facilitating better data flow across components and enriching the user experience through faster data retrieval and rendering.\n• Participated in code reviews and development sprints, adhering to best practices in software development, enabling a culture of continuous improvement and knowledge sharing within the team.\n• Mentored junior developers on core technologies and best practices, enhancing overall team capability and promoting a collaborative learning environment."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Spearheaded the development of modern financial platforms, leveraging **Node.js** (NestJS/Express) to enhance system scalability and maintainability for high-volume transactions, achieving a throughput increase of **30%**.\n- Engineered dynamic, user-centric front-end applications using **Vue.js 3**, **React 18**, and TypeScript, applying **Redux Toolkit** and **Tailwind CSS** to ensure optimal user experiences on financial dashboards, leading to a **25%** improvement in user engagement metrics.\n- Developed and deployed real-time transaction monitoring dashboards using **React**, **D3.js**, and Power BI Embedded, providing operations teams with the ability to track and analyze financial data efficiently and detect anomalies, resulting in a **40%** reduction in incident response time.\n- Integrated messaging systems such as **Kafka**, **RabbitMQ**, and **Azure Service Bus** to create a resilient event-driven architecture supporting asynchronous processing of transactions, alerts, and compliance workflows.\n- Constructed and maintained ETL pipelines utilizing **Python**, **Apache Airflow**, and **Azure Data Factory** for batch and real-time ingestion of financial data from internal systems as well as third-party services, ensuring data accuracy and availability.\n- Implemented advanced AI/ML-driven fraud detection systems powered by **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, allowing for the proactive identification of fraudulent activities through analysis of transaction patterns, which improved fraud detection rates by **50%**.\n- Developed ML pipelines for applications including credit scoring and churn prediction, using **MLflow** and **Airflow**, seamlessly integrating model inference into backend services for enhanced real-time decision-making capabilities."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed full-stack applications utilizing **Node.js** for backend and **VueJS** for frontend, ensuring robust, high-performance functionalities across various platforms.\n• Implemented responsive web design principles using **HTML5**, **CSS**, and **JavaScript**, elevating user experiences across mobile and desktop devices while adhering to accessibility standards (WCAG 2.1).\n• Executed version control and collaborative development processes using **Git**, resulting in a **20%** increase in team delivery efficiency through improved code management.\n• Created modular and maintainable code with build tools like **Webpack** and task runners such as **npm**, facilitating a streamlined development pipeline.\n• Designed and maintained API services that efficiently integrate with payment gateways including **Stripe**, **PayPal**, and **Razorpay**, achieving a **99.9%** transaction success rate.\n• Employed testing frameworks such as **Mocha** and **Jest** for quality assurance, achieving over **85%** code coverage and reducing bugs in production.\n• Leveraged modern CSS technologies, including **SASS** and **PostCSS**, to maintain scalable and organized stylesheets for growing applications.\n• Contributed to continuous integration/continuous deployment (CI/CD) processes, optimizing build and deployment times by **30%** through automated scripts.\n• Integrated machine learning models using **AI** technologies to enhance user personalization features, driving a **15%** increase in customer engagement metrics."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript, TypeScript, PHP\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n**API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL)\n\n**Other:**\n\tArtificial Intelligence, Machine Learning, MLflow, Airflow, Kubeflow, Nginx, Certbot, Webpack, npm, PostCSS, SASS, Mocha, Jest",
+  "apply_company": "Skipso"
+}

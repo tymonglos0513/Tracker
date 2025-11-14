@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Node Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Node Engineer with 8 years of experience in Full Stack Development, specializing in **JavaScript**, **TypeScript**, **Node.js**, **ExpressJS**, and **REST API** design. Proficient in building robust applications using **MongoDB** and **Mongoose**, and utilizing **Jest** for testing and **Swagger** for API documentation. My work in Agile and SCRUM environments has enabled me to effectively manage projects and collaborate with cross-functional teams. I possess a strong understanding of microservices architecture and security practices, including **oAuth** and **JWT** for authentication.\n\nIn addition to core competencies, I bring extensive cloud experience with **Azure** and **Azure DevOps**, implementing CI/CD pipelines and TDD approaches for high-quality software delivery. My previous roles included leading enterprise-level projects that required integration with healthcare and financial APIs while ensuring compliance with standards like HIPAA and PCI DSS. I am dedicated to leveraging technology to drive innovative solutions, contributing to predictive analytics and real-time performance enhancements.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Node Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and implemented REST APIs using **Node.js** and **ExpressJS**, ensuring adherence to **Agile** methodologies and **SCRUM** practices.\nArchitected microservices-based applications leveraging **JavaScript**, employing **NPM** for package management and **MongoDB** with **Mongoose** for data persistence in scalable environments.\nDeveloped test-driven development (TDD) strategies using **Jest** and **Swagger** to ensure high code quality and maintainability, achieving over **90% test coverage**.\nLed the migration from monolithic to microservices architectures, enhancing deployment efficiency and scalability, with a focus on continuous integration and delivery practices using **Azure DevOps**.\nCollaborated in Agile teams to deliver end-to-end solutions, participating in sprint planning, code reviews, and retrospectives, driving overall team productivity by **15%**.\nImplemented real-time data processing pipelines exploiting **microservices** for high availability and responsiveness in web applications, reducing latency by **30%**.\nUtilized **oAuth** and **JWT** for secure authentication and authorization of APIs, enforcing best security practices across applications.\nOptimized application performance through code reviews and refactoring, resulting in improved response times averaging under **200ms** for critical endpoints.\nMaintained detailed documentation for APIs, enhancing developer productivity and onboarding of new team members, thereby speeding up the onboarding process by **25%**.\nExecuted CI/CD pipelines to ensure seamless deployments, managing version control and code branches through **GIT** efficiently."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **JavaScript** and **TypeScript** to develop and modernize financial platforms with a focus on maintaining a robust Microservices architecture using **Node.js** and **ExpressJS**, ensuring a **90%** improvement in system scalability and maintainability.\nLeveraged **REST API** functionalities and **MongoDB** with **Mongoose** to create dynamic, user-centered front-end applications utilizing **React (18)**, **Vue 3**, **Next.js**, and **Tailwind CSS**, achieving a **30%** increase in user engagement through responsive financial dashboards.\nImplemented test-driven development (TDD) practices using **Jest** and **Swagger**, contributing to a **40%** reduction in critical bugs and enhancing software reliability.\nDirected the integration of event-driven architecture with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, enabling real-time processing of transactions, alerts, and compliance workflows which led to **100%** real-time transaction visibility.\nEngineered ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, achieving efficient batch and real-time data ingestion from various sources, improving data retrieval times by **50%**.\nDeveloped AI/ML-powered fraud detection systems utilizing **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, proactively identifying suspicious activities with an accuracy rate of **95%** under varying transaction patterns.\nDesigned and orchestrated ML pipelines for credit scoring and churn prediction with **MLflow** and **Airflow**, embedding model inference directly into backend systems for rapid decision-making, enhancing operational efficiency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Utilized **JavaScript** and **TypeScript** for developing robust Node.js applications leveraging **ExpressJS**, ensuring seamless REST APIs delivery across the e-commerce platform.\n- Applied **Microservices** architecture principles to design scalable backend services, enhancing system reliability and maintainability across **12** major functionalities including checkout, cart, and order fulfillment.\n- Integrated **MongoDB** with **Mongoose** to facilitate distributed data management, achieving rapid data access speeds for **over 100,000** daily transactions.\n- Implemented **oAuth** and **JWT** for secure user authentication, maintaining stringent compliance with GDPR and ensuring user data protection throughout the system rollout.\n- Employed **Jest** for unit testing and **TDD** practices to enhance code quality and prevent regressions, achieving a **95%** code coverage on critical service modules.\n- Managed deployment pipelines using **Azure DevOps** and ensured operational excellence through agile methodologies including **SCRUM** for continuous integration and delivery across teams.\n- Led cross-functional team efforts in implementing RESTful APIs and optimizing services using **NPM**, significantly enhancing overall performance metrics by **20%**.\n- Developed documentation using **Swagger** for API endpoints, improving developer onboarding and collaboration across teams.\n- Collaborated closely with product managers and UX designers to ensure that the user interface is not only functional but also adheres to best SEO practices, optimizing site performance and page load times by **30%**.\n- Participated actively in code reviews, contributing to a culture of quality and continuous improvement while sharing knowledge on best practices within the **Agile** framework."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tJavaScript, TypeScript, Python\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js, ExpressJS\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tREST API, Swagger, oAuth, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Mongoose\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Azure DevOps, CI/CD & Infrastructure as Code (Terraform, Ansible, Helm, Docker Compose)\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tAgile, SCRUM, Microservices, NPM, Jest, GIT, MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Cloudfide"
+}

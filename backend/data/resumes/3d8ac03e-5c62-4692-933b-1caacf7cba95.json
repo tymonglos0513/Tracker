@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Golang Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Golang Engineer with 10+ years of experience specializing in building high-performance software solutions. Expertise in **GoLang** along with a strong command of **AWS**, **microservices**, **NoSQL**, **SQL**, **Docker**, **Git**, and **Jenkins**. Proven ability to design and implement cloud-native applications, employing **IaaC** strategies, leveraging **AWS CDK**, and utilizing **Terraform** to streamline deployments. Committed to developing robust systems that utilize **Kafka**, **RabbitMQ**, and **AWS SQS** for efficient messaging and microservices communication.\n\nAdditionally, proficient in **Python** and equipped with a strong foundation in problem-solving and communication skills. Experienced in leading teams and ensuring compliance with standards like HIPAA and PCI DSS. Brings practical experience in MLOps and a passion for creating technically sound systems that drive real-world impact.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tDeveloped and maintained microservices architectures using **GoLang**, ensuring seamless communication and integration across platforms with technologies like **Docker** and **Kubernetes**.\n•\tImplemented Infrastructure as Code (IaC) solutions utilizing **AWS CDK** and **Terraform** for efficient resource management and orchestration in AWS environments.\n•\tLeveraged **Kafka** and **RabbitMQ** for building resilient message-driven systems, enhancing application scalability and reliability in high-traffic situations, processing up to **100,000 messages per minute**.\n•\tOptimized database interactions by utilizing **NoSQL** databases, such as MongoDB, and traditional **SQL** databases like PostgreSQL, ensuring high performance during complex queries and transactions for data-intensive applications.\n•\tDesigned, deployed, and monitored CI/CD pipelines with **Jenkins** to automate testing and deployment processes, achieving a **30% reduction** in deployment time and improving code quality through rigorous testing protocols.\n•\tCollaborated effectively with cross-functional teams, exercising strong problem-solving and communication skills to deliver high-impact projects and drive continuous improvement initiatives.\n•\tUtilized **Git** for version control and collaboration, implementing branching strategies that enhance team productivity and streamline development workflows.\n•\tParticipated in architectural decision-making workshops, contributing to the design of scalable and maintainable systems, while bringing insights into the integration of new technologies and frameworks.\n•\tProvided mentorship and guidance for junior engineers, fostering a culture of learning and development within the team, ultimately leading to a **40% increase** in team output and knowledge sharing."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Developed and implemented **microservices** architectures using **GoLang**, ensuring high scalability and maintainability across multiple applications with performance improvements by **30%**.\nUtilized **Docker** for containerization and streamlined deployment processes, reducing setup time by **50%** and improving system reliability.\nLeveraged **AWS CDK** and **Terraform** for Infrastructure as Code (IaaC) to automatically provision cloud resources, enhancing operational efficiency and reducing human error.\nCollaborated effectively with cross-functional teams to enhance product features, demonstrating strong **communication** skills that improved project delivery timelines by **20%**.\nImplemented **SQL** and **NoSQL** database solutions to ensure efficient data retrieval and storage, thereby improving application performance.\nDeveloped robust messaging systems with **Kafka** and **RabbitMQ** to facilitate asynchronous communication between services, enhancing system responsiveness.\nAutomated deployment pipelines using **Jenkins** and version control with **Git**, achieving continuous integration and delivery for applications.\nApplied advanced **problem-solving** techniques to troubleshoot and optimize existing systems, leading to a reduction in downtime by **15%**.\nEngaged in regular code reviews and knowledge-sharing sessions to uplift team performance and ensure code quality across projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Engineered microservices using **GoLang** and implemented **Docker** for containerization, enhancing scalability and manageability of applications in cloud environments.\nDeveloped serverless applications on **AWS**, leveraging services like **AWS SQS** for asynchronous communication, ensuring high performance and reliability across 10+ services.\nDesigned and optimized database solutions with **NoSQL** (MongoDB, Cassandra) and **SQL** (PostgreSQL) databases, reducing query response times by **30%** and ensuring data integrity.\nImplemented CI/CD pipelines using **Jenkins** and **Git**, automating deployments and reducing deployment times by **50%** through improved testing strategies.\nUtilized **Kafka** and **RabbitMQ** for real-time data processing, enhancing user experience by delivering updates and notifications instantly to over **100,000** concurrent users.\nApplied Infrastructure as Code (IaC) principles using **AWS CDK** and **Terraform**, resulting in reproducible and manageable infrastructure for application deployment.\nApplied strategic problem-solving and effective communication skills to collaborate across teams, delivering project milestones consistently ahead of schedule.\nDrove improvements in operational efficiency by implementing logging and monitoring solutions, enabling rapid identification of performance bottlenecks in the **AWS** environment.\nContributed to architectural discussions and decisions, leveraging strong technical acumen to influence project direction and ensure alignment with business objectives."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, GoLang\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tKafka, RabbitMQ, AWS SQS\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), AWS CDK\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, NoSQL, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), IaaC\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, problem-solving, communication",
+  "apply_company": "IDT Corporation"
+}

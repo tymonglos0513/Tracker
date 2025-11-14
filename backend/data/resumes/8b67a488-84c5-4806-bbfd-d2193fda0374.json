@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior ML Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior ML Engineer with 8 years of experience, I excel in developing and deploying machine learning solutions using **Python**, **AWS**, **Azure**, **Docker**, **Kubernetes**, and **Terraform**. My expertise includes building robust ML pipelines and integrating **ML**, **NLP**, and **GenAI** capabilities, particularly in large language models (**LLM**), ensuring scalability and performance. I have hands-on experience utilizing **GitHub** for version control and collaboration, along with proficiency in **SQL** for data management and querying.\n\nIn my previous roles, I've successfully led the development of enterprise-grade applications in the healthcare and financial sectors, harnessing **React**, **Node.js**, **FastAPI**, and **Django** for full-stack development. I have a strong foundation in microservices architecture and event-driven systems, complemented by my knowledge of **Elastic Stack** for monitoring and logging. My experience extends to CI/CD practices, aligning with compliance standards such as HIPAA, FHIR, and PCI DSS, ensuring that my solutions are not only effective but also secure.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Architected and developed scalable, full-stack platforms utilizing **Python**, ensuring high-performance and compliance with regulatory standards.\n- Designed and built machine learning models focused on patient risk prediction and financial fraud detection, employing techniques in **ML** and integrating real-time inference services into backends.\n- Implemented DevOps pipelines using **GitHub**, ensuring continuous integration and delivery with robust testing, linting, and deployment strategies.\n- Leveraged cloud services including **AWS**, **Azure**, and **GCP** to deploy infrastructure and applications, optimizing resources for performance and cost-efficiency.\n- Developed and maintained Kubernetes clusters for orchestration of microservices and Docker containers, enhancing application scalability and maintainability.\n- Created data architectures using SQL databases for structured data storage, and optimized data pipelines for ingestion and querying.\n- Collaborated with teams to integrate **NLP** models into applications for enhanced document parsing, applying advanced techniques from frameworks like **spaCy** and **Hugging Face Transformers**.\n- Built and supervised MLOps pipelines utilizing tools such as **MLflow** and **Apache Airflow** for effective versioning and deployment of machine learning projects.\n- Conducted comprehensive testing strategies using tools such as **Postman** and **PyTest**, covering various testing needs across front-end and backend services.\n- Integrated advanced search capabilities using **Elastic Stack** to enable efficient querying solutions for large datasets.\n- Designed and deployed enterprise-level applications using a microservices architecture, improving system resilience and operational efficiency.\n- Championed best practices in software development and cloud deployment, advocating for **Terraform** and **CDK** to automate and manage infrastructure provisioning."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and deployed machine learning models in production environments using **Python** and **Azure**, ensuring high performance and scalability for financial applications.\nUtilized **Docker** and **Kubernetes** for container orchestration, achieving 99% uptime and seamless scalability of ML services.\nImplemented data ingestion and transformation optimizations using **Azure Data Factory** and **SQL**, resulting in a 30% reduction in processing time for large data sets.\nDesigned and implemented automated CI/CD pipelines with **GitHub Actions** and **Terraform**, accelerating deployment times by 40% while maintaining high quality standards.\nLeveraged **ML** techniques and tools including **scikit-learn** and **XGBoost** to build predictive models, achieving an accuracy rate of over 85% in fraud detection systems.\nEnhanced real-time data processing workflows using **Kafka** and **Azure Service Bus**, significantly improving the responsiveness of banking applications.\nCollaborated with cross-functional teams to develop natural language processing (NLP) solutions, contributing to GenAI and large language model (LLM) projects that optimize customer interactions.\nConducted thorough performance analysis of machine learning models, utilizing dashboards and monitoring systems powered by **Elastic Stack** to ensure optimal operations and continuous improvement."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** to develop and optimize machine learning models, ensuring high performance and reliability for production systems in line with advanced ML techniques.\nCollaborated with **AWS**, **GCP**, and **Azure** services to deploy scalable and secure machine learning solutions, demonstrating expertise in cloud-based architectures and services.\nImplemented real-time data processing pipelines using **Docker** and **Kubernetes**, providing high availability and ease of deployment for ML workflows, enhancing operational efficiency by **30%**.\nLeveraged **Terraform** for infrastructure as code, allowing for automated and version-controlled environment setups crucial for machine learning development.\nIntegrated machine learning models with SQL databases, ensuring efficient data retrieval and processing for model training and inference on large datasets, enhancing response times by **25%**.\nDeveloped data ingestion frameworks using **Elastic Stack** to collect, analyze, and visualize metrics from machine learning systems, ensuring thorough monitoring and performance tuning.\nApplied advanced techniques in **ML**, **NLP**, and **GenAI** to create intelligent systems that generate insights from data, improving decision-making processes across business units.\nUtilized **GitHub** for version control and collaborative coding, maintaining code integrity and facilitating seamless team collaboration in a distributed environment.\nMaintained compliance with data privacy regulations (GDPR) through secure data handling practices, ensuring user data protection across all ML applications.\nDesigned and executed A/B testing strategies utilizing **ML** insights to enhance product offerings and user experience, achieving an increase in engagement metrics by over **15%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\tAuthentication & Security: Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot\n\n **Serverless and Cloud Functions:**\n\tAWS, GCP, Azure\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub, GitHub Actions, GitLab CI/CD, CI/CD & Infrastructure as Code: Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tElastic Stack\n\n **Other:**\n\tML, NLP, GenAI, LLM",
+  "apply_company": "sevdesk"
+}

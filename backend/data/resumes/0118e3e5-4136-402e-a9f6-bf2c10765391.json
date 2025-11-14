@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Backend Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Backend Engineer with 8 years of experience, I bring extensive expertise in modern **TypeScript** and **Node.js** development, particularly focusing on **microservices** and **distributed systems**. My strong technical skills also encompass **gRPC**, **REST**, and **Kafka** technologies to build scalable and high-performance APIs. I have a proven track record in implementing **serverless architectures** and ensuring robust **observability** and **performance** across applications.\n\nIn addition to my core backend capabilities, I specialize in database management with **PostgreSQL** and emphasize rigorous **testing** and **technical communication** within teams. My past experience includes leading projects in the healthcare and financial sectors, ensuring compliance with key standards such as HIPAA and PCI DSS. I am also dedicated to mentoring junior developers, fostering a culture of learning and innovation.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented scalable microservices architectures using **Node.js**, ensuring adherence to **RESTful APIs** and **gRPC** standards for seamless communication between distributed systems.\n- Developed high-performance backend solutions focusing on **PostgreSQL** databases, optimizing data queries for efficiency and scalability.\n- Collaborated on cross-functional teams to enhance **observability**, implementing monitoring strategies for critical backend services and optimizing system performance.\n- Utilized **TypeScript** to build robust backend applications, enhancing code maintainability and facilitating better **technical communication** within the team.\n- Mentored junior developers in backend engineering best practices, fostering a culture of continuous learning and knowledge sharing.\n- Implemented automated testing strategies using industry-standard frameworks, ensuring high code quality and reliability across development phases.\n- Conducted architectural reviews for new features focusing on performance and scalability in a **microservices** environment.\n- Participated actively in Agile scrum ceremonies, providing technical insights and estimates to improve team efficiency and delivery timelines.\n- Employed **Kafka** for real-time data streaming requirements, supporting high throughput and fault tolerance across microservices deployments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **TypeScript**, **Node.js**, and **microservices** architecture to enhance the functionality and scalability of financial platforms, improving transaction throughput by **40%**.\nArchitected and implemented **RESTful APIs** for seamless integration between front-end and back-end systems, ensuring robust performance and observability for high-volume transaction processing.\nOptimized transaction processing systems with **gRPC** to facilitate low-latency communication and efficient resource utilization across distributed systems.\nLed the successful migration of legacy systems to a modern infrastructure using **Kafka** and **PostgreSQL**, achieving a **30%** reduction in system downtime and improving data retrieval speeds.\nMentored junior developers on best practices for coding, testing, and technical communication, enhancing overall team performance and fostering a collaborative environment.\nImplemented comprehensive testing strategies and performance monitoring tools, resulting in improved application reliability and a **25%** decrease in critical bugs.\nCollaborated effectively with cross-functional teams, ensuring clarity in requirements and objectives through strong technical communication skills."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized **RESTful APIs** using **Node.js** (NestJS, Express) for high-performance backend services in a microservices architecture, ensuring efficient communication across distributed systems for global e-commerce solutions.\n• Delivered high availability and scalability by leveraging **PostgreSQL** databases, optimizing data access and performance for peak loads, ensuring transactions of over **5,000** per minute.\n• Engineered real-time infrastructure using **Kafka** to handle event-driven scenarios, improving order processing times by **30%**, and facilitating dynamic inventory tracking and customer notifications.\n• Implemented **TypeScript** for type safety and enhanced maintainability of the codebase, leading a team to adopt best coding practices through **mentoring** and knowledge sharing.\n• Designed observability strategies for backend services using logging and monitoring tools, reducing troubleshooting time by **25%**, and improving system resilience.\n• Led the integration of serverless components where appropriate, utilizing **gRPC** for efficient communication between microservices, enhancing system modularity and reducing overhead.\n• Conducted performance testing and tuning implementations, achieving response times of under **200ms** for API calls under heavy load.\n• Built robust testing strategies to ensure high code quality and performance, utilizing automated testing frameworks to maintain application reliability.\n• Fostered effective **technical communication** across teams, guiding cross-functional collaboration to align with project objectives and timelines.\n• Spearheaded efforts to implement role-based access control (RBAC) and security measures ensuring compliance with industry standards, enhancing user data protection."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tgRPC, REST, RESTful APIs, Kafka\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Other:**\n\tArtificial Intelligence, Machine Learning, MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, distributed systems, microservices, performance, observability, testing, technical communication, mentoring",
+  "apply_company": "UserTesting"
+}

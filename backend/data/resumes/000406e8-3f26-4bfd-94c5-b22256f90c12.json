@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Software Engineer (Python)",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Experienced Software Engineer with over 10 years in developing high-performance software solutions, particularly adept in **Python**, **RESTful APIs**, and database management systems including **MySQL**, **PostgreSQL**, and **MS SQL**. Proficient in **microservices architecture** and cloud service deployment on **AWS**, **GCP**, and **Azure**. Skilled in leveraging **JavaScript**, including libraries such as **React** and **jQuery** to create robust and efficient web applications. Demonstrated expertise with containerization and orchestration technologies such as **Docker** and **Kubernetes**, along with CI/CD tools like **GitHub**, **Jenkins**, and **Travis CI** for seamless delivery pipelines. \nPossesses strong analytical thinking and problem-solving skills, effectively collaborating in Agile teams to build scalable solutions. Committed to delivering solutions that meet regulatory standards, including experience in deploying compliant services in sectors like healthcare and finance. Passionate about fostering intelligent decision-making through the integration of innovative technologies.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer (Python)",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tDeveloped scalable, microservices-based applications using **Python** and **RESTful APIs**, ensuring high performance and maintainability while aligning with **Agile** methodologies.\n•\tImplemented database solutions with **PostgreSQL** and **MySQL**, optimizing queries for performance on large datasets with up to **100 million** records.\n•\tUtilized **Docker** and **Kubernetes** for containerization and orchestration, achieving reduced deployment time by **50%** and improving system reliability.\n•\tDesigned and maintained data caching strategies with **Redis** and **Memcached**, enhancing application response time by **40%**.\n•\tBuilt and integrated real-time data pipelines using **Kafka** and **RabbitMQ**, facilitating smooth data flow for applications handling up to **10,000 transactions** per second.\n•\tImplemented CI/CD pipelines with **GitHub Actions**, **Travis CI**, and **Jenkins**, streamlining deployment processes and ensuring consistent build quality across multiple environments.\n•\tCollaborated with cross-functional teams to solve complex problems through analytical thinking and effective communication, leading to a **30%** improvement in project delivery times.\n•\tEnhanced system integrations with legacy systems, optimizing performance and decreasing load times across web applications by **25%**.\n•\tParticipated in code reviews and design discussions, promoting best practices in **Python** development and fostering a culture of continuous improvement within the engineering team.\n•\tUtilized **Linux** environments for development and deployment, ensuring robustness and security compliance in application configurations."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Designed and implemented **RESTful APIs** using **Python** with frameworks such as **Flask** and **FastAPI**, achieving a 30% increase in response efficiency for **microservices architecture** applications.\n• Enhanced data storage solutions by utilizing **MySQL** and **PostgreSQL** for data management, leading to a 40% improvement in query performance.\n• Developed and deployed containerized applications via **Docker** and **Kubernetes**, streamlining the development process and production deployment for rapid iterations, reducing delivery time by **25%**.\n• Coordinated CI/CD pipelines with **Jenkins** and **Travis CI**, ensuring seamless integration and delivery, resulting in a 50% reduction in deployment errors.\n• Conducted system monitoring and troubleshooting in **Linux** environments, maintaining system uptime at over **99.9%** to ensure reliable services.\n• Collaborated in an **Agile** team environment to implement efficient solutions for financial applications, significantly enhancing team communication and project delivery timelines.\n• Utilized **Kafka** and **RabbitMQ** to facilitate scalable message queuing and real-time data processing, improving system responsiveness and performance.\n• Employed **Analytical thinking** and **Problem-solving** skills to identify and resolve complex system issues effectively, supporting a user base of over **10,000** active users.\n• Utilized front-end technologies such as **React** (version **18**) and **TypeScript** to create engaging user interfaces, resulting in a 40% increase in user satisfaction ratings.\n• Developed robust data analytics solutions by leveraging Python, resulting in actionable insights derived from multiple data streams, contributing to better business decisions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Designed and implemented **RESTful APIs** using **Python** (FastAPI, Django) and **Node.js** (NestJS, Express) to enhance backend services for an e-commerce platform, achieving **99.9%** uptime with low latency in key modules like checkout and order fulfillment.\nUtilized **Microservices architecture** to develop scalable backend solutions, ensuring independent deployment and management of services, which improved team agility and response times by **30%**.\nEngineered real-time features by leveraging **Kafka** and **RabbitMQ** for event-driven architectures, enabling real-time order updates and enhancing customer support, contributing to a **25%** increase in customer satisfaction scores.\nDeveloped responsive frontend applications using **React** (v18), **Vue 3**, and **Angular**, applying **TypeScript** and **Redux Toolkit** to create user experiences that increased engagement metrics by **40%**.\nManaged databases including **PostgreSQL**, **MySQL**, and **Redis** to ensure high availability and efficient data access, achieving a **20%** enhancement in performance through optimized query designs and caching strategies.\nImplemented **Docker** and **Kubernetes** for containerization and orchestration, facilitating streamlined deployments that reduced release cycles by **50%** while maintaining application integrity.\nCollaborated in an **Agile** environment, leading sprint planning and retrospectives, which fostered strong communication within cross-functional teams and enhanced project visibility.\nIntegrated AI/ML-based recommendation engines using **TensorFlow** and **scikit-learn** to personalize product listings, significantly improving conversion rates based on real-time analytics.\nEnsured rigorous application security by applying **role-based access control (RBAC)** and **OAuth 2.0**, achieving compliance with **GDPR** and protecting user data across various tiers of the application.\nUtilized cloud services such as **AWS** and **GCP** to enhance application scalability and availability, ensuring an environment capable of supporting **1 million+** concurrent users during peak periods."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular, jQuery\n\n **API Technologies:**\n\tRESTful APIs\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MS SQL, MongoDB, Redis, Memcached\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub, GitHub Actions, GitLab CI/CD, Travis CI, Jenkins\n\n **Cloud & Infrastructure:**\n\tAWS, Azure, GCP, Terraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMicroservices architecture, Agile, Analytical thinking, Problem-solving, Communication, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, MLflow, Airflow, Kubeflow, Kafka, RabbitMQ"
+}

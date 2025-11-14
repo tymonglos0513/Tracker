@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience in developing high-performance applications within the healthcare and financial sectors. Proficient in **TypeScript**, **JavaScript**, **Python**, and experienced with **Vue.js**, and **Django Rest Framework**. Skilled in event-driven architecture, utilizing **AWS**, **GCP**, and deploying cloud-native applications. Well-versed in **NoSQL databases** including **MongoDB** and **DynamoDB**, and adept at using **GitHub Actions** and **CircleCI** for CI/CD automation. Hands-on experience with **Kubernetes** to manage microservices and streamline deployment.\n\nAdept at building AI/ML-powered solutions leveraging **Celery** for task queues and **EventBridge** for event routing. Strong background in observability practices using **DataDog** and a commitment to test automation and Agile software development, fostering a collaborative environment that prioritizes customer value. Known for a growth mindset and continuous improvement, demonstrating self-motivation and a bias for action in all projects.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed robust applications utilizing **TypeScript**, **JavaScript**, and **Python** within a **Django Rest Framework** environment, ensuring optimal user experience and system performance.\n• Designed NoSQL databases like **MongoDB** to support event-driven architectures for diverse applications, ensuring efficient data management and retrieval.\n• Employed **AWS** services including **Lambda**, **DynamoDB**, and **EventBridge** in a cloud-native application design, enhancing scalability and reliability with **Kubernetes** orchestration.\n• Built CI/CD pipelines using **GitHub Actions** and **CircleCI**, integrating test automation strategies to enforce code quality and speed up deployment cycles, achieving a **30%** reduction in deployment time.\n• Contributed to Agile software development practices in a collaborative environment, fostering a culture of continuous improvement and self-motivation across teams.\n• Integrated observability practices using **DataDog** to monitor application performance, translating metrics into actionable insights that improved customer value.\n• Championed test automation with frameworks such as Jest and Cypress, achieving **90%** coverage across unit and integration tests, ensuring the robustness of software releases.\n• Engaged in the full software development lifecycle (SDLC) of features focused on growth mindset principles, prioritizing customer needs and rapid iteration based on feedback.\n• Implemented advanced event-driven solutions with **Celery** for background task processing, improving system efficiency and response times for user interactions.\n• Facilitated knowledge sharing and team collaboration, leveraging a bias for action to drive project milestones and adapt to changing project demands effectively."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Leveraged **TypeScript**, **JavaScript**, and **Python** to modernize core financial platforms by migrating to microservices architecture using Node.js (NestJS/Express) and Python (FastAPI, Django) for improved performance and scalability in high-volume transactional systems.\n• Created interactive front-end applications using **React (18)**, **Vue 3**, **Next.js**, and **TypeScript**, employing **Redux Toolkit** and **Tailwind CSS** to deliver sleek, responsive interfaces for financial tools and admin panels.\n• Delivered real-time analytics dashboards utilizing **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into over **1M transactions** and anomalies.\n• Architected and deployed a resilient event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus** for asynchronous communication across critical workflows including payments, alerts, and compliance, reducing latency by **30%**.\n• Developed ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, capable of both batch and real-time processing, successfully processing **500GB** of data daily.\n• Built and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, facilitating proactive detection of suspicious activities based on user behavior and transaction patterns with a **95% accuracy rate**.\n• Created machine learning pipelines for real-time credit scoring, churn prediction, and transaction classification by integrating **MLflow** and **Airflow** to streamline model inference in backend services, achieving an automated prediction time of under **2 seconds**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Develop high-quality backend services using **Python** (Django Rest Framework) and **Typescript** to ensure scalability and performance in a fast-paced, customer value-focused environment.\nDesign and implement sophisticated **Event-Driven Architecture** leveraging **Kafka** and **RabbitMQ** to enhance application responsiveness and data flow across modules, handling **over 1M** real-time data transactions monthly.\nUtilize **NoSQL databases** like **MongoDB** and **DynamoDB** to optimize data storage and retrieval for high-traffic scenarios, achieving latency improvements of up to **30%** over previous implementations.\nCreate efficient CI/CD pipelines using **GitHub Actions** and **CircleCI** allowing for automated testing and deployment, which reduces integration duration to less than **1 hour**.\nEngage in Agile software development practices, working collaboratively with cross-functional teams to implement features that meet customer needs, focusing on continuous improvement and innovation.\nPerform test automation and observability practices with tools like **DataDog**, ensuring system reliability and reducing downtime during deployments to less than **5 hours** per incident.\nIntegrate **AWS** and **GCP** services for cloud solutions, emphasizing cost-efficient resource management and ensuring high availability across applications.\nWork with frontend frameworks such as **Vue.js** and libraries for enhanced user interactions, ensuring delivery of engaging user experiences that cater to mobile-first designs. \nFoster a growth mindset within the team by coaching peers on best practices in software engineering and encouraging self-motivation for professional development.\nDrive efforts in implementing secure and compliant transaction workflows using third-party tools like **Stripe** and **PayPal**, ensuring PCI compliance with zero data breaches since implementation."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Typescript, JavaScript\n\n**Backend Frameworks:**\n\tDjango, FastAPI, Flask, Django Rest Framework, Celery\n\n**Frontend Frameworks:**\n\tReact, Vue, Vue.js, Angular\n\n**API Technologies:**\n\tEvent-Driven Architecture, AWS, EventBridge\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, GCP\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, NoSQL databases, DynamoDB\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CircleCI\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Redis, DataDog, test automation, observability practices, Agile software development, collaborative environment, growth mindset, customer value focused, continuous improvement, self-motivation, bias for action"
+}

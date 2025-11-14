@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior ML Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior ML Engineer with 13+ years of experience proficient in **Python**, **SQL**, and cloud technologies like **Azure** and **Terraform**. Adept at implementing **CI/CD** pipelines and leveraging **Docker** for seamless deployment. Highly experienced in building and optimizing **APIs** for machine learning applications, focusing on **scikit-learn**, **PyTorch**, and **TensorFlow** for model development and deployment. Skilled in natural language processing (NLP) and image processing, along with proficiency in handling large language models (LLMs) and retrieval-augmented generation (RAG).\n\nDemonstrated ability to deliver high-performance applications within healthcare and financial sectors, ensuring compliance with industry standards. Proven track record in MLOps encompassing model training, serving, and orchestration, utilizing tools such as MLflow, Airflow, and Kubeflow. Recognized for strong communication, collaboration, and adaptability skills.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **SQL** to develop and optimize machine learning models for risk scoring and fraud detection, leveraging libraries such as **scikit-learn** and **TensorFlow** (version 2.x).\nDesigned and implemented CI/CD pipelines using **Docker** and tools like **Azure DevOps** for seamless deployment of machine learning workflows across development and production environments.\nCollaborated with cross-functional teams to leverage **APIs** for integrating real-time data feeds into machine learning applications, enhancing model performance and reliability.\nDeveloped robust data infrastructures using **NoSQL** databases like MongoDB, ensuring efficient data processing and storage, and designed schemas to accommodate various data ingestion needs.\nLed efforts in implementing **NLP** techniques for document parsing and anomaly detection, utilizing models from **PyTorch** and **spaCy** in fully functional systems.\nEmployed **Azure** cloud services to host and scale machine learning models, streamlining access through RESTful APIs for a wide range of applications.\nEnhanced data analytics capabilities with advanced visualization tools such as D3.js and Power BI, creating dashboards that track KPIs and provide insights from data.\nBuilt MLOps pipelines using **Terraform** for infrastructure as code, ensuring consistency and reliability in model deployment and service management.\nFostered collaboration through effective communication and adaptability within teams, driving innovation in machine learning project outcomes.\nIntegrated features for image processing and document classification, adding value to both healthcare and fintech products through intelligent automation."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Leveraged **Python** to develop and deploy machine learning models for fraud detection, utilizing libraries such as **scikit-learn** and **XGBoost**, achieving a **95% accuracy** rate in identifying suspicious activities.\n• Designed and implemented scalable ETL pipelines with **Azure Data Factory** and **Apache Airflow**, facilitating the processing of up to **5TB** of financial data daily from internal and external sources.\n• Deployed and managed containerized applications using **Docker** and **Terraform**, enhancing deployment processes and achieving a **30% reduction** in provisioning time for new environments.\n• Collaborated with cross-functional teams to enhance communication and adaptability, resulting in a **20% increase** in project delivery efficiency.\n• Developed **NoSQL** databases to support machine learning applications, ensuring quick retrieval of data for analysis, improving performance by **40%**.\n• Integrated APIs for seamless interaction with various financial systems, ensuring accurate and real-time data flows.\n• Engaged in CI/CD practices to automate testing and deployment processes, contributing to code reliability and faster delivery cycles.\n• Explored state-of-the-art models in **NLP** to enhance text-based analysis for financial documentation, improving processing speed by **50%**.\n• Utilized **Azure** services for deploying machine learning models, ensuring scalability and security in cloud environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leverage **Python** for designing and optimizing machine learning models, boosting predictive accuracy by **20%** in user behavior analysis for e-commerce applications.\nEmploy **SQL** and **NoSQL** databases such as MongoDB and PostgreSQL for efficient data querying and management, facilitating real-time data access and reducing latency by **30%**.\nUtilize **Azure** cloud services for deploying scalable ML solutions, ensuring high availability and resource optimization across multiple environments.\nImplement **Terraform** for infrastructure as code, automating environment setups and reducing deployment time by **40%**.\nIntegrate advanced algorithms using **scikit-learn**, **TensorFlow**, and **PyTorch** to enhance recommendation systems, leading to a **15%** increase in conversion rates through personalized user experiences.\nDesign and develop robust **APIs** to enable seamless interactions between machine learning components and e-commerce platforms, enhancing data communication efficiency.\nApply techniques in **NLP** and **image processing** to improve product search capabilities, focusing on enhancing user engagement and satisfaction.\nImplement **CI/CD** practices using **Docker** to streamline the deployment pipeline, resulting in a **25%** faster code rollout and improved collaboration with DevOps.\nMaintain effective communication and collaboration with cross-functional teams, adapting to evolving project requirements to ensure timely delivery of ML initiatives.\nDemonstrate adaptability by integrating **LLMs** (Large Language Models) for enhancing customer support solutions, driving a user satisfaction rise by **10%**.\n"
+    }
+  ],
+  "skills": "  **Programming Languages:**\n\tPython, SQL\n\n  **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n  **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n  **API Technologies:**\n\tAPIs\n\n  **Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n  **Cloud & Infrastructure:**\n\tAzure: App Services, Blob Storage, SQL Database, Docker, Kubernetes\n\n  **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, NoSQL\n\n  **DevOps:**\n\tGitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n  **Other:**\n\tMLflow, Airflow, Kubeflow, scikit-learn, PyTorch, TensorFlow, LLMs, NLP, image processing, RAG, communication, collaboration, adaptability, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "Qualis Flow (Qflow)"
+}

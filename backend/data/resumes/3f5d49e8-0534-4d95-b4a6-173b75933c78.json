@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Fullstack Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Fullstack Engineer with 10+ years of experience delivering high-performance software solutions, specializing in **Node.js**, **TypeScript**, **React**, **Next.js**, and modern microservices architectures. Proficient in **microservices** and **event-driven** systems, skilled in designing and implementing **RESTful APIs** and applying **CQRS** and **DDD** principles. Expertise includes crafting dynamic user experiences using **React Query** and **Context API**, as well as styling through **Tailwind CSS**. Experienced in deploying applications using **Docker** and automating workflows with **CI/CD** processes. Strong background in managing observability and performance with **Prometheus** and **Splunk**. Furthermore, proficient in working with SQL databases to ensure robust data management.\n\nBringing hands-on expertise across the full stack with a strong command of **JavaScript/TypeScript**, **Python**, and **Flutter**. Proven history of leading enterprise platform development with embedded AI/ML capabilities for intelligent decision-making. Committed to building secure, maintainable solutions aligned with compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Passionate about creating systems that are not only technically adept but also have a tangible impact on business outcomes.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Fullstack Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tDeveloped and maintained scalable, event-driven architectures using **Node.js** and **React** (including **Next.js** and **React Query**), ensuring seamless integration of **RESTful APIs** and adherence to **microservices** principles to enhance system modularity and efficiency.\n•\tEngineered full-stack applications using **TypeScript**, enhancing code reliability and maintainability while leveraging **Tailwind CSS** for responsive UI design, contributing to improved user experiences across devices by delivering consistent layouts.\n•\tImplemented **CI/CD** pipelines using tools like **Docker** and Prometheus, resulting in a **40%** reduction in deployment times and ensuring high-quality releases across **9** different environments with comprehensive monitoring setup through **Splunk**.\n•\tRedesigned legacy systems into modern microservices architectures, employing **CQRS** and **DDD** patterns, which improved system scalability by **60%** and reduced downtime significantly.\n•\tMigrated databases to optimized **SQL** solutions, enhancing data retrieval efficiency by **3x**, and implemented strategies for data integrity and performance improvements.\n•\tLed the implementation of unit testing strategies using Jest and integration tests with Postman, achieving **99%** code coverage and boosting overall application reliability.\n•\tCollaborated with cross-functional teams to deliver real-time analytics and monitoring features utilizing **gRPC** and **Protocol Buffers**, thereby reducing latency and improving data transmission efficiency.\n•\tCreated and integrated user-centric features powered by modern libraries, delivering an enhanced UI experience while ensuring backend services were robust and resilient.\n•\tUtilized Docker for containerization of applications, streamlining development and production workflows, allowing for better resource management and scalability.\n•\tActively participated in architectural discussions and code reviews, inspiring best practices for the incorporation of **event-driven architectures** within team projects, leading to enhanced system responsiveness."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Developed and modernized financial platforms using **Node.js** and **TypeScript** in a **microservices** architecture, improving system scalability by **40%** for high-volume transactions.\n• Implemented robust **event-driven architectures** using **Kafka** and **Azure Service Bus** to enhance real-time communication, resulting in a **30%** increase in event processing efficiency.\n• Designed and developed RESTful APIs that adhered to **CQRS** and **DDD** principles, delivering optimized data retrieval and manipulation for financial applications.\n• Built user-centric applications utilizing **React** (18), **Next.js**, and **Tailwind CSS**, achieving a **25%** performance boost in user interface responsiveness for financial dashboards.\n• Enhanced state management using **React Query** and **Context API**, streamlining data flow and component reactivity.\n• Coordinated deployment and orchestration processes using **Docker** and **CI/CD** pipelines, ensuring consistent and reliable application delivery.\n• Monitored application performance and reliability with **Prometheus** and **Splunk**, facilitating proactive maintenance and decreasing downtime by **15%**.\n• Engaged in continuous integration practices to ensure code quality and reliability, adopting best practices for version control and testing.\n• Leveraged SQL for efficient database management and querying, optimizing data access speed for financial analytics.\n• Extended backend capabilities with **Rust** for performance-critical components, reducing execution time by **20%** in transaction processing."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Node.js** (NestJS) and **TypeScript** to develop and optimize microservices for a global e-commerce platform, ensuring system scalability and high performance across critical operations.\nDesigned and implemented **event-driven architectures** using Kafka and RabbitMQ, facilitating real-time data processing and order updates, which improved operational efficiency by **30%**.\nCreated and maintained **RESTful APIs** to enhance frontend integration and streamline communication between services, ensuring a seamless user experience and reducing response times by **20%**.\nDeveloped interactive frontend applications leveraging **React** (18), incorporating **React Query** and **Context API** to manage state effectively, ensuring fast, responsive user interfaces on both web and mobile devices.\nEngineered high-quality UI components with **Next.js** and **Tailwind CSS**, adhering to mobile-first design principles and achieving an **89%** Lighthouse performance score.\nImplemented **Docker** for containerization, enabling consistent development and deployment across environments, thus reducing setup times by **40%**.\nEstablished CI/CD pipelines utilizing industry-standard practices, facilitating smooth deployments and improving release frequency.\nMonitored application performance and reliability with **Prometheus** and **Splunk**, contributing to a reliable user experience and minimizing downtime to less than **1%** per month.\nApplied software design principles, including **CQRS** and **DDD**, to effectively manage complex business logic and enhance code maintainability.\nIntegrated advanced caching strategies using Redis for high-throughput data access, achieving a **50%** reduction in database load during peak traffic periods.\n"
+    }
+  ],
+  "skills": " **Backend Frameworks:**\n\tNestJS\n\n **Programming Languages:**\n\tPython, JavaScript, TypeScript, Rust\n\n **Frontend Frameworks:**\n\tReact, Next.js, Vue, Angular, Tailwind CSS\n\n **API Technologies:**\n\tRESTful APIs, gRPC, Protocol Buffers\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose, Prometheus, Splunk\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, microservices, event-driven architectures, CQRS, DDD, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, React Query, Context API",
+  "apply_company": "Kraken"
+}

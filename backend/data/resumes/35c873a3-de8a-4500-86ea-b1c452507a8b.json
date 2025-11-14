@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Forward Deployed Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Detail-oriented Forward Deployed Engineer with 13+ years of experience leveraging a strong foundation in **Python** and **TypeScript** to develop and deploy high-performance applications within the healthcare and financial sectors. Proficient in creating robust **REST APIs** and adept in technical problem-solving, ensuring seamless client interactions and satisfaction. Proven ability to implement features such as **speech-to-text**, **embeddings**, and **diarization** within applications, enhancing functionality and user engagement.\n\nStrong business acumen complemented by exceptional communication skills allows for an agile response to client needs. Expertise in both frontend and backend development, utilizing a versatile tech stack that includes **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experienced in building AI/ML-powered platforms focused on predictive analytics within a compliance-driven environment (HIPAA, FHIR, PCI DSS, and SOC 2). Skilled in deploying cloud-native solutions on **AWS** and **Azure** alongside microservices, event-driven architectures, and comprehensive CI/CD pipelines. Additionally, a solid background in MLOps is demonstrated through proficiency in model training, serving, and orchestration using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Forward Deployed Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Leveraged **Python** and **TypeScript** for building robust **REST APIs** to facilitate real-time data processing and client interactions in health and finance sectors.\n- Demonstrated exceptional **technical problem-solving** skills while addressing complex challenges in full-stack development, ensuring seamless integration of various technologies.\n- Engaged with clients to gather requirements and provide tailored solutions, showcasing a strong **client-focused mindset** and business acumen throughout project lifecycles.\n- Designed efficient data processing pipelines and integrations for **speech-to-text** functionalities, implementing **embedding** techniques for enhanced data analysis and insights.\n- Ensured high standards of system reliability and security while delivering solutions for sensitive applications, meeting compliance with key regulations including HIPAA and GDPR.\n- Applied advanced **communication skills** to collaborate effectively with cross-functional teams, leading to successful deployment of innovative solutions that meet client needs.\n- Contributed to comprehensive technical documentation and reporting, enhancing knowledge sharing and project transparency across teams.\n- Managed projects involving iterative development cycles, maintaining flexibility to adapt solutions based on evolving client requirements and feedback."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to modernize core financial platforms, migrating to microservices architecture with frameworks including Node.js (NestJS/Express) and Python (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\nDeveloped and implemented **REST APIs** to facilitate seamless integration between diverse systems and applications.\nCreated interactive front-end applications using **TypeScript**, **React (18)**, **Vue 3**, and **Next.js**, employing **Redux Toolkit** and **Tailwind CSS** to design intuitive, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with **instant insights** into transactions and anomalies through data visualization.\nDesigned and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus** to ensure **asynchronous communication** across critical workflows such as payments, alerts, and compliance.\nDeveloped **ETL pipelines** for ingesting financial data from internal and third-party sources utilizing **Python**, **Apache Airflow**, and **Azure Data Factory**, enabling both batch and real-time processing for timely data availability.\nImplemented machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns, with model accuracy exceeding **90%**.\nCreated ML pipelines for **real-time credit scoring**, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services, reducing processing time to under **5 seconds**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **TypeScript** to design and optimize backend services, delivering REST APIs for a global e-commerce platform with high availability and low latency across key modules like checkout and cart.\nEmployed technical problem-solving skills to engineer real-time features using **WebSockets**, **Kafka**, and **RabbitMQ**, facilitating responsive order updates and dynamic inventory tracking.\nImplemented a client-focused mindset to develop frontend applications using **React** (18) and **Vue 3**, ensuring fast and responsive user experiences on both web and mobile platforms, achieving an enhancement of user engagement by **30%**.\nLeveraged **MongoDB**, **PostgreSQL**, and **Redis** for distributed data storage, ensuring fast, fault-tolerant access for high-traffic workflows and achieving a read performance improvement of **40%** through effective caching strategies.\nIntegrated AI/ML-based recommendation systems using **scikit-learn** and **TensorFlow** to personalize product listings, optimize search relevance, and enhance conversion rates by **25%** based on real-time user behavior.\nApplied strong business acumen in implementing Redis caching for product metadata and shopping cart sessions, significantly improving application responsiveness and reducing database read pressure.\nExecuted feature flags and blue-green deployments using **LaunchDarkly** and **Kubernetes**, enabling controlled rollouts and major platform update risk mitigation.\nBuilt secure payment workflows with **Stripe**, **PayPal**, and **Razorpay**, ensuring PCI compliance by applying tokenized transactions for sensitive data handling.\nEnsured user data protection and GDPR compliance by applying role-based access control (RBAC) and **OAuth 2.0** for secure customer and admin access."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tREST APIs\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, speech-to-text, embeddings, diarization, technical problem-solving, client-focused mindset, business acumen, communication skills, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot"
+}

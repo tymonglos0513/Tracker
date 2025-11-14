@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Python Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-driven Python Engineer with 8 years of experience in developing robust backend solutions utilizing **Python**, **Django**, and **Django Rest Framework**. Proficient in building and optimizing **RESTful APIs**, leveraging **Kafka**, **Celery**, and **gRPC** for efficient data processing and communication. Adept in using **PostgreSQL**, **Redis**, and data analysis tools like **StarRocks**, **ClickHouse**, and **Redshift** to enhance data storage and retrieval performance.\n\nExpert in cloud technologies, especially **AWS**, along with container orchestration using **Kubernetes**. I have a strong foundation in CI/CD practices, ensuring seamless integration and delivery of code, and have implemented monitoring solutions with **Datadog**, **Prometheus**, and **Sentry** for maintaining application health.\n\nAdditionally, I bring a wealth of experience in developing enterprise-grade applications within compliance standards such as HIPAA and PCI DSS, and I am committed to creating secure and scalable software solutions. My background in full-stack development enhances my understanding of holistic system architecture, enabling me to build high-performance and maintainable applications.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Python Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained robust RESTful APIs using **Python**, **Django**, and **Django Rest Framework** for high-performance web applications, ensuring seamless integration with various services.\nImplemented and optimized data processing pipelines using **Kafka** and **Celery**, enabling real-time data processing and efficient task distribution across microservices.\nDesigned and implemented data storage solutions using **PostgreSQL**, **Redis**, and **ClickHouse**, focusing on performance optimization for large-scale data analytics and retrieval processes.\nArchitected CI/CD pipelines implementing **Prometheus** and **Datadog** for monitoring, along with deployment strategies on **Kubernetes** that support high availability and scalability of applications while ensuring continuous integration and delivery.\nDeveloped and deployed microservices utilizing **gRPC** and **RabbitMQ** for asynchronous communication, improving system responsiveness and fault tolerance.\nEstablished DevOps practices to streamline deployment processes and enhance team collaboration, integrating tools like **Sentry** for error tracking and logging in production environments.\nLed the migration of legacy systems to modern architectures, breaking down monolithic applications into microservices frameworks to improve agility and maintainability.\nCollaborated with cross-functional teams to refine workflows and optimize *HTTP* services to support critical application features, while elevating application security and compliance standards.\nUtilized advanced data visualization libraries such as **D3.js** to represent complex data sets and metrics clearly, enhancing user engagement and data-driven decision-making.\nImplemented rigorous testing frameworks using **PyTest** to ensure code quality and functional integrity across all application layers, improving development speed and mitigating risks associated with software deployment.\nResearched and integrated **StarRocks** for enhanced data processing capabilities, improving analytics performance for financial and health data management needs."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained scalable backend services using **Python** and **Django**, ensuring high performance and reliability for financial systems, handling over **100,000** transactions daily.\nImplemented **RESTful APIs** to facilitate seamless integration with frontend applications and external systems, ensuring compliance and security with industry standards.\nDesigned and optimized databases using **PostgreSQL** and **Redis**, achieving query performance enhancements by **30%** and ensuring data integrity for transaction processing.\nIntegrated messaging systems like **Kafka** and **RabbitMQ** to enhance event-driven architecture, facilitating real-time data processing and improving response times by **50%**.\nBuilt CI/CD pipelines utilizing tools such as **Datadog**, **Prometheus**, and **Sentry** for efficient monitoring and logging, reducing deployment times by **40%** and increasing application uptime.\nOrchestrated microservices architecture using **Kubernetes**, improving service scalability and facilitating easier updates and maintenance of the applications.\nUtilized **AWS** for cloud-based hosting and services, ensuring high availability and reliability of financial platforms while managing costs effectively.\nCollaborated with cross-functional teams to deliver features on time, leveraging strong problem-solving skills and an analytical mindset to improve product quality and performance."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Engineered scalable and high-performance backend services using **Python** (with **Django** and **Django Rest Framework**) for robust applications, achieving over **99.9% uptime** and handling more than **1M transactions daily**.\nDeveloped and maintained **RESTful APIs** for seamless integration with real-time data processing systems utilizing **Kafka**, **RabbitMQ**, and **Celery**, resulting in a **30%** improvement in request handling time.\nImplemented monitoring solutions using **Datadog**, **Prometheus**, and **Sentry** to proactively identify and resolve issues, contributing to a **25% reduction** in service outages.\nUtilized **PostgreSQL** and **Redis** for efficient data storage and caching, resulting in a **40% decrease** in latency for data retrieval operations.\nDesigned CI/CD workflows with **Kubernetes** and AWS services for automated deployment, enabling faster iterations and zero-downtime updates with an average deployment frequency of **40 per month**.\nCollaborated in building microservices architecture, ensuring interoperability and scalability through **gRPC** and advanced message queuing mechanisms with **RabbitMQ**.\nWorked on SQL optimization and query performance improvement strategies using **StarRocks**, **ClickHouse**, and **Redshift**, achieving query performance enhancements by over **50%**.\nIntegrated robust logging and monitoring frameworks to ensure visibility and adherence to application performance benchmarks, leveraging tools such as **HTTP** standards and modern web technologies like **HTML5**.\nApplied advanced security protocols and practices, including role-based access control (RBAC) and OAuth 2.0 compliance, ensuring GDPR compatibility and protecting user data across the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tDjango, FastAPI, Django Rest Framework, Flask, Celery\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular, HTML5\n\n **API Technologies:**\n\tRESTful APIs, gRPC, RabbitMQ, Kafka\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, StarRocks, ClickHouse, Redshift\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, CI/CD\n\n **Cloud & Infrastructure:**\n\tDatadog, Prometheus, Sentry\n\n **Other:**\n\tAuthentication & Security (Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), HTTP"
+}

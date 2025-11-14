@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Machine Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Senior Machine Engineer with 10+ years of experience in delivering high-performance software solutions. Skilled in building and maintaining production-ready machine learning systems, focusing on **MLOps** principles and techniques. Proficient in developing ML pipelines and deploying models using tools such as **MLflow**, **Airflow**, and **Kubeflow**. Expertise in integrating AI/ML capabilities for real-time analytics and intelligent decision-making, ensuring compliance with industry standards. Strong background in **cloud services** including **Azure** and **AWS**, with hands-on experience in **microservices architecture** and **CI/CD automation**. Adept at creating secure, maintainable solutions that meet compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2, while also fostering innovation and driving impactful results.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Machine Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized machine learning models for diverse applications including patient risk prediction and financial fraud detection using **Python** (scikit-learn, PyTorch, TensorFlow), achieving model accuracy improvements by **15%**.\n• Constructed and maintained MLOps pipelines utilizing **MLflow**, **DVC**, and **Apache Airflow**, enhancing model deployment speed by **30%** across development and production environments.\n• Integrated advanced AI-driven features into applications, creating personalized health recommendations and smart dashboards, leveraging **Azure ML** and **AWS Sagemaker** for model hosting and inference.\n• Established enterprise-level DevOps pipelines using **GitHub Actions**, **Azure DevOps**, and **CircleCI** that incorporated automated testing and linting, reducing deployment times by **20%**.\n• Designed and implemented scalable APIs and services using **Docker** and **Kubernetes** (AKS/EKS), ensuring high availability and fault tolerance for machine learning applications.\n• Collaborated with cross-functional teams to integrate **NLP models** (using **spaCy**, **Hugging Face Transformers**) for document parsing, improving processing efficiency by **25%** through RESTful API implementations.\n• Led the transition of legacy applications to microservices architectures enhancing scalability and maintainability while also incorporating serverless solutions with **AWS Lambda** and **Azure Functions**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Designed and developed efficient ML pipelines for various applications, employing frameworks like **MLflow** and **Apache Airflow** for continuous integration and deployment of models in real-time environments.\n• Implemented AI/ML algorithms for fraud detection using robust libraries such as **scikit-learn** and **XGBoost**, continuously analyzing patterns and boosting fraud prevention effectiveness by over **30%**.\n• Leveraged cloud services including **Azure Machine Learning** to enhance predictive analytics capabilities, significantly improving operational efficiency and accuracy in decision-making processes.\n• Built and managed ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory**, ensuring the seamless extraction and processing of **1M+** financial transactions daily from diverse sources.\n• Developed intuitive dashboards for monitoring key financial metrics utilizing **Power BI Embedded** and **D3.js**, enabling stakeholders to easily visualize and act on data insights.\n• Collaborated with cross-functional teams to integrate real-time event-driven architectures with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, improving the response time of transaction processing by **25%**.\n• Enhanced user experience focused on responsive design for financial applications using **React (18)**, **Next.js**, and **Tailwind CSS**, resulting in a **50%** decrease in load time.\n• Conducted comprehensive system modernization initiatives leveraging **NestJS** and **FastAPI**, leading to a cleaner codebase and improved system maintainability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Develop and optimize machine learning models and algorithms using **TensorFlow** and **scikit-learn**, achieving a model accuracy improvement of over **15%** across various datasets.\nConduct data analysis and preprocessing with **pandas** and **NumPy**, ensuring high data quality and relevance for modeling, processing an average of **5TB** of data weekly.\nImplement and deploy scalable machine learning solutions on cloud services such as **AWS** and **Google Cloud Platform**, reducing model training time by **25%** through efficient use of computing resources.\nUtilize version control systems like **Git** for code management and collaboration, maintaining a robust workflow across multi-disciplinary teams.\nCollaborate with cross-functional teams to define and refine project requirements, ensuring the development of models that meet business needs and user expectations.\nPrepare detailed documentation of algorithms, experiments, and results, improving knowledge sharing and onboarding processes by reducing onboarding time by **30%**.\nConduct performance tuning and optimization of machine learning models to streamline processing times, achieving response time reductions of up to **50%** for real-time applications.\nEstablish monitoring frameworks using tools like **Prometheus** and **Grafana** for continuous evaluation of model performance in production environments.\nExperiment with ensemble methods and hyperparameter tuning to enhance model robustness, successfully deploying solutions that have processed over **1 million** transactions to date."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda), Azure (App Services)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS (RDS, S3), Azure (Blob, SQL), Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "RED Global"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Golang Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Golang Engineer with 8 years of comprehensive experience in developing high-performance, scalable applications. Proficient in **Golang**, **AWS**, microservices architecture, **NoSQL**, **SQL**, and Docker, I leverage a robust tech stack including **Python** and CI/CD tools such as **Jenkins** and **Git** to deliver secure and compliant solutions. My experience extends to infrastructure as code with **AWS CDK** and **Terraform**, as well as implementing messaging systems using **Kafka**, **RabbitMQ**, and **AWS SQS**.\n\nI possess a strong background in building enterprise-grade platforms, leveraging cloud services, and enhancing system efficiencies through CI/CD automation. Additionally, I have a solid understanding of machine learning principles, with experience in deploying ML pipelines using **FastAPI** and other modern frameworks, as well as real-time data processing for solutions aligned with compliance standards like HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Golang** to architect and develop scalable microservices, enhancing application performance and efficiency in healthcare and financial systems.\nImplemented **AWS** solutions for resource management, optimizing deployment and infrastructure through **AWS CDK** and **Terraform** for version-controlled cloud environment setups.\nDesigned and maintained robust data solutions using **NoSQL** and **SQL** databases, ensuring high availability and efficient data retrieval in line with application needs.\nFacilitated containerization and orchestration using **Docker** and Kubernetes, enabling continuous integration and deployment for microservices architecture.\nExecuted real-time data processing pipelines integrating **Kafka** and **RabbitMQ** for distributed message handling, optimizing system responsiveness and throughput.\nApplied **Git** for collaborative source code management, improving code quality through effective version control in Jenkins-based CI/CD processes.\nCollaborated with cross-functional teams to streamline workflows and integrations across **AWS SQS** for messaging and task queues, ensuring system resilience and performance.\nDeveloped automation scripts with Python for task scheduling and maintenance, supporting the overall infrastructure and operations in a multi-cloud environment.\nImplemented monitoring and alerting mechanisms for deployed services to ensure compliance with performance metrics and reliability standards, achieving uptime above **99.9%**.\nDelivered training sessions to junior engineers on best practices in Golang and microservices architecture, fostering knowledge sharing and team development."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Golang** for developing efficient and scalable microservices, ensuring high availability and performance in financial applications.\nImplemented **AWS** solutions, including **AWS CDK** and **Terraform**, to automate infrastructure deployment and management for cloud-based resources, achieving a **30% reduction** in provisioning time.\nLeveraged **Docker** to containerize applications, promoting consistency across environments and enhancing deployment workflows, resulting in a **40% increase** in deployment speed.\nIntegrated **Kafka** and **RabbitMQ** for effective message brokering and event-driven architecture, streamlining communication between microservices for real-time transaction processing.\nDeveloped data storage strategies using **NoSQL** and **SQL** databases to optimize the handling of diverse financial datasets, increasing data retrieval efficiency by **25%**.\nCollaborated with cross-functional teams using **Git** for version control, ensuring smooth integration and continuous delivery through **Jenkins**, achieving deployment success rates of over **95%**.\nExecuted testing and monitoring frameworks to maintain code quality and performance across developed solutions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend microservices for a global e-commerce platform using **Golang** and **Python** (FastAPI, Django), ensuring high availability and scalability, processing over **10,000** transactions per minute.\nEngineered real-time features with **Kafka** and **RabbitMQ** for facilitating responsive order updates and dynamic inventory tracking, supporting a reduction in latency of up to **30%**.\nDeveloped and maintained applications leveraging **AWS** services for CI/CD pipelines with **Docker** and **Jenkins**, ensuring smooth deployments and version control for applications serving over **1 million** users worldwide.\nIntegrated **NoSQL** (MongoDB, Cassandra) and **SQL** (PostgreSQL) databases for distributed data management, enabling efficient, fault-tolerant data access and fast retrieval for high-traffic workflows.\nImplemented secure and efficient microservices communication using **AWS SQS**, improving system reliability and scaling capabilities.\nApplied infrastructure as code principles using **AWS CDK** and **Terraform**, streamlining resource provisioning and management across different environments.\nUtilized version control with **Git** for collaborative development, maintaining code quality and consistency during various feature releases.\nAdopted best practices in API development and management, focusing on performance benchmarks and ensuring robust security measures, targeting a **90%** reduction in security vulnerabilities through stringent access controls.\nOptimized application performance with caching strategies, improving read times by **45%** and enhancing overall user experience.\nCreated seamless integration with third-party tools for payment processing, ensuring PCI compliance and secure handling of sensitive data across all transactions."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Golang\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\tRabbitMQ, Kafka, AWS SQS\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda, AWS CDK\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, NoSQL, SQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), Terraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "IDT Corporation"
+}

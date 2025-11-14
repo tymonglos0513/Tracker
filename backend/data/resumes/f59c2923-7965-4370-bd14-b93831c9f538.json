@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Golang Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Golang Engineer with 13+ years of experience in building distributed systems and microservices, utilizing **Golang** and proficient in **Kubernetes** for orchestration and deployment. Adept in API development and implementing event-driven patterns to enhance application performance. Experienced in continuous integration and version control, fostering collaboration among teams and prioritizing tasks effectively.\nDemonstrated success in delivering high-performance applications across the healthcare and financial industries, leveraging a diverse tech stack that includes **JavaScript/TypeScript**, **Python**, and **Flutter**. Strong background in developing AI/ML-powered platforms, utilizing **FastAPI**, **Django**, and deploying cloud-native systems on **AWS** and **Azure**. Proven expertise in compliance-driven development aligning with HIPAA, FHIR, PCI DSS, and SOC 2 standards, alongside a robust foundation in MLOps with tools such as **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained scalable microservices architectures using **Golang**, ensuring robustness and efficiency in distributed systems for various applications.\nEngineered API developments adhering to event-driven patterns, facilitating seamless communication between microservices and third-party integrations.\nLeveraged **Kubernetes** for container orchestration, streamlining deployment strategies and ensuring high availability for microservices in cloud environments.\nExecuted version control practices using tools like Git, enhancing collaboration among teams and ensuring code integrity across the project lifecycle.\nImplemented continuous integration workflows to automate testing and deployment processes, significantly reducing manual errors and deployment time by **30%**.\nCollaborated closely with cross-functional teams to prioritize tasks effectively, ensuring timely delivery of features aligned with business requirements.\nContributed to open source projects to enhance community integration and foster innovation within the Golang ecosystem, leading to a **15%** increase in feature adoption rates.\nExecuted performance monitoring and optimization strategies to ensure the scalability of applications, achieving over **99.9%** uptime across services.\nPioneered robust testing frameworks that include unit and integration testing for all services, resulting in a **40%** reduction in production bugs post-release.\nDesigned and implemented event-driven architecture patterns to improve system responsiveness and user experience, facilitating real-time data processing features.\nEnsured compliance with industry standards through rigorous testing and validation processes across developed systems, significantly mitigating security risks."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Led the migration of core financial systems to microservices architecture utilizing **Golang** and **Kubernetes**, significantly improving scalability and performance in high-volume environments.\nImplemented robust **API development** practices ensuring efficient communication among microservices, adhering to the **Model Context Protocol** for enhanced compatibility and operational performance.\nPioneered the adoption of **event-driven patterns** using **Kafka** and **RabbitMQ**, which facilitated asynchronous processing for critical workflows, optimizing systems for handling payments, alerts, and compliance notifications.\nUtilized advanced version control strategies in collaborative environments, implementing **continuous integration** processes to streamline deployment and enhance team productivity.\nManaged the development of distributed systems with a focus on task prioritization and efficient resource allocation across teams, enhancing overall project timelines by **30%**.\nEngaged in open-source projects to stay at the forefront of technology trends, incorporating best practices into development workflows and contributing to community initiatives.\nContributed to the design and implementation of a secure microservices ecosystem, ensuring compliance with industry standards and protocols while driving user engagement and financial analytics."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and optimized **microservices** architecture using **Golang** for a high-traffic e-commerce platform, ensuring efficient API development and scalability across key functionalities.\nEngineered event-driven solutions with **Kubernetes** and **distributed systems**, enabling robust and scalable backend services to support real-time data processing and task prioritization.\nImplemented continuous integration pipelines utilizing version control tools to enhance collaboration among development teams and streamline the deployment process.\nDesigned high-performance APIs with a focus on establishing a simplified **model context protocol** for effective communication between microservices and frontend applications.\nLeveraged **open source** tools to enable rapid development cycles and integrate community-driven best practices into the project.\nEnhanced system reliability through effective collaboration within cross-functional teams, resulting in a **30%** reduction in deployment time and improved task prioritization for upcoming sprints.\nAdopted event-driven patterns for improved responsiveness and real-time feature deployment, achieving an **85%** increase in system responsiveness.\nConducted code reviews and mentoring to promote best practices in **API development** and **continuous integration**, fostering an environment of learning and growth among junior developers.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tGolang, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI development\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMicroservices, Distributed systems, Event-driven patterns, Version control, Continuous integration, Collaboration, Task prioritization, Open source, MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "Stacklok"
+}

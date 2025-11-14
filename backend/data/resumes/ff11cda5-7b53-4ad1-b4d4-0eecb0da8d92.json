@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Python Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Senior Python Software Engineer with 10+ years of experience adept in **Python**, **FastAPI**, and **microservices** architecture. Proficient in building RESTful and gRPC APIs and skilled in leveraging **OpenAPI** for API design. Expertise in **Docker**, **Docker Compose**, and **Kubernetes** for containerization and orchestration of applications, ensuring scalable and maintainable deployments. Strong background in developing and deploying **Machine Learning** solutions, with hands-on experience in using **GenAI**, **LangChain**, and **LangGraph** to create intelligent applications.\n\nExperienced in implementing CI/CD pipelines with **GitHub Actions**, AWS tools including **AWS CodePipeline**, and infrastructure as code using **Terraform** and **CDK**. Committed to version control, thorough testing, and code reviews to ensure high-quality software delivery. Proven record in delivering high-performance software solutions within healthcare and finance sectors, driving real-world impact through technology. Passionate about developing compliant solutions that meet standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and built scalable **microservices** using **Python**, **FastAPI**, and **Docker** for healthcare and finance, ensuring compliance with regulations such as HIPAA and GDPR, and managing **version control** efficiently.\n• Developed robust APIs with **REST** and **gRPC**, leveraging **OpenAPI** specifications to enhance system integrations across different services.\n• Implemented CI/CD pipelines using **GitHub Actions** and **AWS CodePipeline**, ensuring seamless deployments and promoting **testing** through automated pipelines for continuous integration.\n• Engaged in **code reviews** to maintain high-quality standards and foster collaboration among teams, focusing on enhancing code maintainability.\n• Utilized advanced **Machine Learning** techniques to address specific use cases, including fraud detection and predictive analytics, embedding learned models in **microservices** for real-time processing.\n• Integrated **Terraform** and **CDK** for infrastructure as code, allowing for scalable deployments across cloud architectures on **AWS**.\n• Employed **Docker Compose** and **Kubernetes** orchestration to manage containerized applications, enhancing scalability and reliability.\n• Developed end-to-end testing strategies utilizing tools such as Jest, PyTest, and Postman, covering **unit**, **integration**, and **E2E** testing protocols to ensure product resilience.\n• Regularly conducted performance tuning and optimization for existing applications, achieving a **30% increase** in response times through improved algorithms and data handling.\n• Collaborated with cross-functional teams to deliver frequent updates and enhancements based on Agile methodologies, achieving a **95% on-time delivery rate** across all projects.\n• Documented processes and workflows in **English**, ensuring that all technical specifics were well communicated and maintained for future reference."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "- Designed and developed microservices-based architectures utilizing **Python**, **FastAPI**, and **Docker** to enhance scalability, maintainability, and throughput for high-volume transaction systems.\n- Created RESTful APIs and integrated **gRPC** to enable efficient communication between services, adhering to **OpenAPI** standards to ensure seamless integration.\n- Managed container orchestration with **Docker Compose** and **Kubernetes**, achieving a **30%** improvement in deployment speed and resource utilization.\n- Advanced CI/CD practices by implementing **GitHub Actions** and creating automated workflows via **AWS CodePipeline** and **Terraform**, leading to a **50% reduction** in deployment errors.\n- Leveraged **Machine Learning** frameworks such as **scikit-learn** and **XGBoost** to develop AI/ML systems for fraud detection, measuring effectiveness at identifying suspicious transactions with a **95%** accuracy rate.\n- Executed ETL processes using **Apache Airflow** and **AWS**, which facilitated the real-time ingestion of data, improving reporting capabilities for financial analytics by **40%**.\n- Conducted thorough code reviews and maintained robust version control practices to ensure quality and reliability of the software, promoting team collaboration and knowledge sharing.\n- Developed engaging user interfaces with **React (18)**, **TypeScript**, and **Tailwind CSS**, enhancing user experience across financial dashboards with a **20% increase** in user satisfaction scores.\n- Employed **LangChain** and **GenAI** technologies to automate data-driven workflows, significantly improving operational efficiency in transaction processing.\n- Communicated effectively in English to collaborate with cross-functional teams on software development and project progress."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized microservices architecture for a global e-commerce platform using **Python** (FastAPI, Django), implementing RESTful and gRPC APIs to ensure high performance and scalability across diverse modules.\n• Led the integration of **CI/CD** pipelines through **GitHub Actions** and **AWS CodePipeline**, resulting in a **30%** increase in deployment efficiency and enabling rapid delivery of features.\n• Utilized **Docker** and **Docker Compose** for containerization of applications, enhancing consistency across development and production environments, and simplifying orchestration with **Kubernetes**.\n• Engineered Machine Learning features including personalized recommendations using **scikit-learn** and **TensorFlow**, improving product visibility and boosting conversion rates by **15%**.\n• Applied **Terraform** to manage infrastructure as code, efficiently provisioning and scaling resources in **AWS**, achieving a **40%** reduction in setup times.\n• Conducted thorough code reviews and testing processes, promoting best practices that led to a **25%** increase in code quality and reliability across the team.\n• Designed responsive, SEO-friendly e-commerce frontends with **Next.js**, **Vue 3 + Nuxt**, ensuring mobile-first and accessibility compliance (WCAG 2.1).\n• Implemented role-based access control (RBAC) and OAuth 2.0 to enhance security and comply with GDPR while protecting sensitive user data across the platform.\n• Collaborated in feature flag implementations using **Docker** for controlled rollouts and A/B testing, significantly reducing risk during major deployments."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, microservices\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tREST, gRPC, OpenAPI\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services), GenAI\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Docker Compose, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL), AWS CodePipeline, CDK\n\n **Other:**\n\tMachine Learning, MLflow, Airflow, Kubeflow, LangChain, LangGraph, version control, authentication & security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), testing, code reviews, English"
+}

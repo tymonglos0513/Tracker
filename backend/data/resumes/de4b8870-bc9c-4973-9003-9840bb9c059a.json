@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "DevOps Engineer with 13+ years of experience proficient in **Kubernetes**, **Terraform**, **Ansible**, **AWS**, **Azure**, and **GCP** for building scalable, high-availability infrastructure. Adept in implementing **DevOps practices**, **infrastructure as code**, and automation scripts to streamline deployment and enhance operational efficiency. Demonstrated expertise in observability tools like **Prometheus**, **Grafana**, and the **ELK stack**, ensuring robust monitoring and troubleshooting.\n With a solid background in complex problem-solving and ownership of projects, I have successfully delivered high-performance applications in the healthcare and financial industries. My skill set includes strong competencies in **JavaScript/TypeScript**, **Python**, **Flutter**, alongside frontend and backend frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experienced in building AI/ML-powered platforms and deploying cloud-native systems, consistently aligning solutions with compliance standards like HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented **Kubernetes** for orchestrating containerized applications to ensure high availability and fault tolerance in cloud deployments.\nCreated and maintained infrastructure as code using **Terraform** and **Ansible** to simplify provisioning and management of cloud environments on **AWS**, **GCP**, and **Azure**.\nOptimized **PostgreSQL** and **Redis** databases for performance and scalability, handling over **1 million** transactions per week with a response time less than **100 ms**.\nDesigned disaster recovery plans ensuring zero data loss and minimal downtime, achieving **99.99%** uptime across all services.\nDeveloped automation scripts to streamline CI/CD pipelines, incorporating DevOps best practices to reduce deployment time by **50%** and enhance productivity.\nMonitored and visualized system performance using **Prometheus** and **Grafana**, enabling real-time alerting and observability with a focus on proactive issue resolution.\nManaged high-availability setups for applications across multiple cloud platforms, enhancing system resilience and ensuring seamless user experiences during peak loads.\nConducted infrastructure assessments and complex problem-solving to address system bottlenecks, optimizing resource allocation and performance across environments.\nCollaborated with cross-functional teams to enhance DevOps practices, ensuring clear ownership of system components and promoting a culture of shared responsibility.\nDeveloped deployment strategies using **Helm** to manage Kubernetes applications, increasing deployment speed by **40%** and reducing configuration errors.\nEngaged in continuous improvement initiatives, contributing to a reduction in incident response times for complex issues by implementing structured monitoring and logging with the **ELK stack**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **infrastructure as code** solutions using **Terraform** and **Ansible** to automate the deployment of high-availability setups across **AWS**, **GCP**, and **Azure** environments, improving operational efficiency by **30%**.\nManaged container orchestration with **Kubernetes**, ensuring seamless deployment and scaling of applications in dynamic environments, resulting in **99.9%** uptime for critical services.\nMonitored system performance and application reliability using **Prometheus** and **Grafana**, enhancing observability to proactively identify issues and optimize resource utilization.\nDesigned and executed disaster recovery strategies, ensuring continuity of services and data integrity for 50+ internal applications and 100+ external users, minimizing potential downtime to under **2 hours**.\nDeveloped automation scripts to streamline CI/CD pipelines, facilitating complex deployments that support over **1 million** daily transactions.\nUtilized **Redis** for caching solutions to decrease response times by **50%**, improving overall user experience across platforms.\nImplemented logging and monitoring solutions using the **ELK stack**, providing insights into system health and performance, and resolving issues within **30%** faster.\nApplied complex problem-solving skills to troubleshoot and resolve high-impact incidents quickly, ensuring minimal disruption to business operations and maintaining ownership of critical projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged **Kubernetes** for orchestrating containerized applications, ensuring high-availability and streamlined deployments for a global e-commerce platform.\nImplemented **Terraform** and **Ansible** for infrastructure as code, automating provisioning and configuration management across cloud platforms such as **AWS**, **GCP**, and **Azure**.\nEngineered monitoring and observability solutions using **Prometheus** and **Grafana**, tracking performance metrics and ensuring system reliability across 99.9% uptime on high-traffic services.\nDeveloped disaster recovery strategies leveraging **Helm** and **Docker**, minimizing application downtime and ensuring seamless restoration of services in case of failures.\nApplied complex problem-solving skills to optimize CI/CD pipelines, driving deployment speeds up to **3x** faster using automation scripts and industry-best DevOps practices.\nMaintained **PostgreSQL** and **Redis** databases for fault-tolerant data access, achieving read latency reduction of **30%** for high-usage workloads.\nUtilized the **ELK stack** for efficient logging and troubleshooting, enabling real-time data analysis and enhancing operational insights.\nPromoted ownership of production systems, fostering a culture of accountability and continuous improvement among engineering teams.\nImplemented security best practices, including role-based access control (RBAC) and compliance measures, ensuring adherence to GDPR regulations in cloud environments.\n"
+    }
+  ],
+  "skills": "**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tOVH, AWS, GCP, Azure\n\tPrometheus, Grafana, ELK stack\n\thigh-availability setups, disaster recovery, observability\n\n**Other:**\n\tcomplex problem-solving, ownership, automation scripts, DevOps practices, infrastructure as code"
+}

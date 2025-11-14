@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-driven Senior Software Engineer with 13+ years of experience developing high-performance applications in diverse industries, including healthcare and finance. Proficient in **Python** and experienced in **Go**, with a strong focus on building robust, scalable solutions. Expertise in leveraging **Kubernetes** for container orchestration, ensuring efficient management of APIs and system resources through **APIServer**, controllers, and persistent volumes. Skilled in deploying adaptable systems with **Cluster Autoscaler** and **Karpenter** for resource optimization.\n\nExperienced in full-stack development using **JavaScript/TypeScript**, **Flutter**, and backend frameworks like **Node.js**, **FastAPI**, and **Django**. Committed to implementing compliance-driven engineering practices in alignment with HIPAA and PCI DSS standards. Strong foundation in AI/ML with MLOps experience, utilizing tools like MLflow, Airflow, and Kubeflow for orchestration and predictive analytics. Dedicated to continuous integration and continuous deployment (CI/CD) pipelines to enhance software delivery efficiency.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Kubernetes** for managing containerized applications, ensuring scalability and reliability through features like **HPA** (Horizontal Pod Autoscaler) and **Cluster Autoscaler** to optimize resource allocation.\nDeveloped applications in **Go** and **Python**, contributing to various backend services and ensuring robust performance in distributed systems.\nImplemented control measures by designing **APIServer** integrations and developing custom **controllers** that enhance system capabilities and monitor resource usage effectively.\nConstructed backend services using **C#** and **Java**, focusing on high-performance application development and maintenance to support business objectives.\nWorked with **volumes** management in **Kubernetes** to ensure persistent storage solutions that meet operational needs and data retention requirements.\nCollaborated in cross-functional teams to optimize performance metrics and deployment workflows for services in production environments, benefiting from auto-scaling features.\nApplied clean coding principles in **Rust** and **C++** for performance-critical components, ensuring code efficiency and maintainability in long-term projects.\nDemonstrated expertise in both frontend and backend development, ensuring application performance through effective resource management and deployment strategies.\nMaintained and optimized deployment practices, utilizing modern CI/CD techniques to ensure seamless integration and delivery of software updates across multiple projects."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Implemented container orchestration solutions with **Kubernetes**, optimizing cluster management and ensuring high availability in a microservices architecture.\n• Developed backend services using **Go** and **Python** that efficiently handle high loads, enhancing performance and reducing latency for business-critical applications.\n• Designed robust APIs leveraging **APIServer** concepts, ensuring seamless integration and efficient communications between services.\n• Applied advanced coding practices in **C++** and **Rust** for performance-critical components, delivering optimized solutions that align with scalability requirements.\n• Implemented auto-scaling policies using **Cluster Autoscaler** and **Karpenter**, maintaining desired performance levels while optimizing costs in cloud environments.\n• Contributed to building scalable software solutions, enhancing deployment workflows through effective **HPA** and **VPA** configurations to meet application demand.\n• Collaborated in the infrastructure setup utilizing controllers and **volumes** management strategies to ensure efficient resource allocation and persistent data storage.\n• Delivered high-impact software solutions, maintaining code quality and performance through best practices and relevant programming languages such as **C#** and **Java**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Kubernetes** to orchestrate containerized applications, managing **HPA (Horizontal Pod Autoscaler)** and **Cluster Autoscaler** for optimal resource allocation and performing drive performance improvements across a global e-commerce platform.\nDesigned and developed scalable backend services using **Python** with frameworks such as **FastAPI** and **Django** to support high-traffic transactions, achieving a response time reduction of up to **30%** in critical processes like checkout and order fulfillment.\nImplemented advanced controllers within the **Kubernetes** architecture, facilitating seamless integration and management of **volumes** for data persistence, ensuring reliable service operation and minimizing downtime.\nCollaborated on event-driven architecture solutions using **Kafka** and **RabbitMQ**, which enhanced system responsiveness and allowed for real-time processing of up to **5,000** concurrent shopping cart sessions.\nCrafted efficient APIs in **Go** for microservices, ensuring easy integration with frontend applications and maintaining adherence to required standards for system security and performance.\nDeveloped and optimized data storage solutions utilizing **PostgreSQL**, **MongoDB**, and **Cassandra**, leading to a performance improvement of **40%** in data retrieval operations under load conditions.\nIntegrated CI/CD pipelines with **Kubernetes** for automated deployments, reducing deployment times to less than **15 minutes**, ensuring rapid iteration without sacrificing stability.\nCreated detailed documentation for **APIServer** interactions and best practices for using **Kubernetes** in conjunction with the e-commerce platform, enhancing team onboarding and knowledge sharing efforts across projects.\nUtilized C# to implement backend services that operate seamlessly with existing systems, ensuring stable interoperability between different technology stacks at the company.\nEmployed security best practices utilizing **RBAC** and **OAuth 2.0**, effectively protecting user data and ensuring compliance with GDPR regulations throughout the software lifecycle."
+    }
+  ],
+  "skills": " \n**Programming Languages:**\n\tPython, Go, C++, Rust, C#, Java\n \n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n \n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n \n**API Technologies:**\n\tAPIServer, controllers\n \n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, RDS, S3\n \n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n \n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n \n**Cloud & Infrastructure:**\n\tAzure: App Services, Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n \n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "Datadog"
+}

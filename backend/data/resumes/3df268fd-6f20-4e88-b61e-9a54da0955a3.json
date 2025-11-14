@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Senior Software Engineer with 10+ years of expertise in delivering high-performance software solutions, particularly in cloud-native environments using **AWS**, **Azure**, and **GCP**. Proficient in infrastructure as code with **Terraform** and configuration management using **Ansible**. Skilled in software development with **Python** and experienced in database management with both **SQL** and **NoSQL** systems. Adept in containerization and orchestration technologies, with hands-on experience using **Docker** and **Kubernetes** to enhance application scalability and manageability. Familiar with networking concepts including **OSPF**, **ISIS**, **BGP**, **MPLS**, **L3VPNs**, **EVPNs**, and **VPLS**, contributing to a deep understanding of Data Center and WAN architectures including **SD-WAN** and wireless solutions. \n\nAdditionally, I have a strong foundation in developing full stack applications leveraging modern frameworks such as **React**, **Node.js**, **Next.js**, and **Django**. My background also includes microservices architecture and CI/CD automation, ensuring the delivery of secure and compliant solutions that adhere to standards like HIPAA and SOC 2. I am passionate about integrating observability into systems for improved performance and insights, while also focusing on real-world impact through innovative technology.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed scalable, full-stack solutions leveraging **Python** (FastAPI) and modern frontend libraries including **React** (17–18), **Next.js**, and **Vue 3**, with compliance to regulatory standards such as HIPAA, FHIR, GDPR, PCI DSS, and SOX.\n• Engineered cross-platform mobile applications utilizing **Flutter** and **React Native** for improved user engagement, achieving over **95%** user satisfaction on both iOS and Android platforms.\n• Successfully transitioned monolithic applications to microservices architecture, employing **Docker** and **Kubernetes** (AKS/EKS), ensuring a high availability rate of **99.9%** and fault tolerance.\n• Designed and optimized cloud-native data architectures using **PostgreSQL**, **MongoDB**, **Redis**, and **GraphQL** for enhanced efficiency in processing large-scale healthcare and financial datasets.\n• Developed and deployed machine learning models for applications such as patient risk prediction and financial fraud detection using **Python** (scikit-learn, **PyTorch**, **TensorFlow**), achieving an accuracy improvement of over **15%** in predictions.\n• Established MLOps pipelines with **MLflow**, **DVC**, and **Apache Airflow**, facilitating seamless versioning and deployment of models across different environments.\n• Integrated AI-powered features into applications like intelligent dashboards and predictive alerts, utilizing APIs hosted on **Azure ML** and **AWS Sagemaker** for real-time insights.\n• Implemented robust DevOps pipelines using **GitHub Actions**, **Azure DevOps**, and **CircleCI**, enhancing deployment frequency by **30%** while ensuring code quality through rigorous testing and security scans.\n• Delivered advanced financial data visualization capabilities using **D3.js**, **Chart.js**, and **Power BI Embedded**, enabling stakeholders to derive actionable insights from transaction trends and operational KPIs.\n• Collaborated closely with data scientists to integrate NLP models utilizing **spaCy** and **Hugging Face Transformers**, embedding these functionalities into APIs for healthcare and finance data.\n• Developed comprehensive testing strategies employing **Jest**, **Cypress**, **PyTest**, and **Postman**, achieving over **90%** test coverage across all services.\n• Enhanced search capabilities for extensive health records and financial documents using **Azure Cognitive Search** and **ElasticSearch**, improving discovery efficiency by over **40%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Azure** and **GCP** cloud services to enhance financial platform architecture, achieving a **30%** increase in system availability and responsiveness.\nDesigned and implemented microservices-based architectures with **Python** (FastAPI, Django) and **Docker**, ensuring efficient resource management and service scalability for high-volume transactions, leading to a **25%** improvement in throughput.\nDeveloped and maintained robust data storage solutions utilizing **SQL** and **NoSQL** databases, optimizing querying performance and reducing data retrieval times by **40%**.\nUtilized container orchestration with **Kubernetes** to streamline application deployment and scaling processes, contributing to a more agile development environment.\nEmployed **Terraform** and **Ansible** to automate infrastructure provisioning and configuration management, leading to significant time reductions in deployment cycles, with a **50%** faster delivery of resources.\nImplemented observability practices to monitor system performance and reliability, improving incident response times by **60%**.\nBuilt real-time transaction analytics dashboards using **D3.js** and **Power BI Embedded**, allowing operations teams to visualize data trends and enhance decision-making processes.\nDeveloped ETL pipelines using **Apache Airflow** for data ingestion from diverse financial sources, with capabilities for handling batch and real-time data processing effectively.\nDesigned and executed machine learning models for fraud detection and credit scoring using **scikit-learn** and **Azure Machine Learning**, analyzing transaction patterns to reduce false positives and enhance security measures."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS**, **GCP**, and **Azure** cloud services to deploy scalable backend services for high-traffic applications, ensuring 99.99% uptime and low latency response times across global infrastructures.\nEngineered microservices architecture with **Docker** and **Kubernetes**, facilitating seamless deployment and management of over **50** containerized applications, improving CI/CD pipeline efficiency by **30%**.\nDeveloped backend services using **Python** (Django, FastAPI) to implement RESTful APIs, achieving response times under **200ms** for critical services such as order processing and inventory management.\nImplemented effective database solutions with **SQL** (PostgreSQL) and **NoSQL** (MongoDB, Redis), managing datasets of over **1 million** records while optimizing read and write performance through indexing and caching strategies.\nDesigned and maintained observability for applications using tools like Prometheus and Grafana, tracking performance metrics that resulted in a **25%** reduction in downtime incidents.\nIntegrated infrastructure as code (IaC) practices using **Terraform** and **Ansible**, automating deployments and creating reproducible infrastructure setups for over **20** services in varied environments.\nCollaborated on project requirements, contributing to architectural discussions, and code reviews that improved code quality and reduced bugs by **15%**.\nActively participated in agile development practices, attending daily stand-ups, sprint planning, and retrospectives to drive team efficiency and deliver projects on time and within scope.\nDeveloped and executed comprehensive testing strategies, including unit, integration, and system tests, to ensure reliability and robustness of software across all environments.\nMaintained high coding standards and documentation practices contributing to a maintainable codebase and knowledge-sharing within the team."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript, React, Vue, Angular\n\n**API Technologies:**\n\n**Serverless and Cloud Functions:**\n\tAWS, GCP, Azure\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, NoSQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, OSPF, ISIS, BGP, MPLS, L3VPNs, EVPNs, VPLS, DataCenter, WAN, SD-WAN, Wireless, Virtualization, Observability",
+  "apply_company": "CodiLime"
+}

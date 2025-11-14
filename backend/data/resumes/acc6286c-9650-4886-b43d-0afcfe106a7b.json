@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Software Engineer with over 10 years of expertise in delivering high-performance software solutions, proficient in **Python** and **JavaScript** with significant experience in **Django** for backend development. Strongly skilled in building robust **APIs** and adept at internationalization and localization practices to enhance global reach, leveraging tools like **moz-l10n** and **Pontoon**. Extensive knowledge of enhancing applications with support for **Rust** and **C++**, which strengthens the versatility and efficiency of software solutions.\n\nExperienced in deploying cloud-native applications with a focus on scalability and maintainability, while continuously integrating user-centric design and compliance standards such as HIPAA and PCI DSS. Strong background in developing enterprise-level systems utilizing microservices architecture, event-driven programming, and CI/CD automation methods to deliver secure and efficient software. Passionate about driving impact through innovative technology solutions and committed to producing high-quality code that meets industry best practices.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable, full-stack solutions using **Python** and **JavaScript** with modern frontends, ensuring adherence to regulatory standards.\n• Developed and integrated **APIs** for project architecture, focusing on internationalization and localization to enhance user experience and accessibility.\n• Led the re-architecture of monolithic applications into microservices, employing tools such as Docker and Kubernetes, achieving **99.9% uptime**.\n• Utilized **Django** as a framework for building resilient web applications, optimizing performance for large-scale user bases with over **10,000** concurrent users.\n• Collaborated with cross-functional teams to ensure seamless integration of modules, enhancing product localization capabilities with **Rust** for performance-critical components.\n• Delivered complex data visualization tools enabling real-time insights, allowing stakeholders to track changes in operational KPIs with **over 50% reduction** in processing time.\n• Established test strategies across front-end and back-end services, improving overall code quality and reducing bugs by **30%** through comprehensive test coverage.\n• Integrated advanced search capabilities using technologies that enhanced user interactions across millions of records, supporting effective data retrieval in healthcare and finance sectors.\n• Contributed to the development of shared libraries and tools such as **moz-l10n** and **Pontoon**, facilitating effective translations and localization efforts across multiple languages."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **JavaScript** to drive the development and modernization of financial platforms by adopting a microservices-based architecture, enhancing scalability and maintainability for high-volume transaction systems.\nDesigned and implemented **APIs** using **Django** to support integration with internal and third-party services, ensuring seamless data exchange and interoperability.\nDeveloped robust and reliable applications to support **internationalization** and **localization** requirements, leveraging tools such as **moz-l10n** and **Pontoon** for efficient language translations.\nLed the front-end architecture using **React** (18), **Vue 3**, **Next.js**, and **TypeScript** to build dynamic user interfaces, resulting in a 30% increase in user engagement across financial dashboards and admin portals.\nBuilt real-time transaction monitoring and analytics dashboards using **D3.js** and **Power BI Embedded**, allowing operations teams to track over **9,000** financial activities daily and detect anomalies promptly.\nIntegrated **Kafka**, **RabbitMQ**, and **Azure Service Bus** to establish a robust event-driven system, enhancing the throughput of transactions and alerts by **25%** for compliance workflows.\nDeveloped and orchestrated **ETL** pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, enabling batch and real-time ingestion of financial data from more than **5** internal and third-party sources.\nImplemented AI/ML-powered fraud detection systems with **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing transaction patterns to proactively flag suspicious activities, resulting in a **15%** reduction in fraudulent transactions.\nCreated machine learning pipelines for credit scoring and transaction classification using **MLflow** and **Airflow**, integrating model inference directly into backend services for real-time decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** (specifically **Django**) and **JavaScript** frameworks to design and optimize backend services for a global e-commerce platform, achieving high availability and low latency across modules like checkout, cart, and order fulfillment.\nDeveloped and integrated RESTful **APIs** to streamline communication between frontend and backend systems, enhancing functionality and user experience.\nImplemented strategies for **internationalization** and **localization** to ensure the platform catered to diverse global markets, increasing user engagement by **30%** in targeted regions.\nEngineered real-time order updates and features using **WebSockets**, **Kafka**, and **RabbitMQ**, which improved responsiveness by **25%** and enhanced customer support capabilities.\nDesigned efficient and responsive frontend applications utilizing **React 18** and **Vue 3**, paired with **TypeScript** and **Redux Toolkit**, boosting user satisfaction metrics by **15%**.\nConducted performance tuning with **MongoDB** and **PostgreSQL**, ensuring fault-tolerant data access even during peak traffic, with a system capable of handling **up to 10,000** transactions per second.\nIntegrated with AI/ML-powered recommendation engines utilizing **scikit-learn** and **TensorFlow**, resulting in increased conversion rates by **20%** based on real-time behavioral data.\nEstablished robust caching mechanisms with **Redis**, significantly improving product metadata retrieval speeds and reducing read pressure on databases by **40%**.\nImplemented feature flags and blue-green deployment strategies using **LaunchDarkly** and Kubernetes, facilitating controlled rollouts and enabling A/B testing for major updates, reducing deployment risks by **50%**.\nCreated SEO-friendly e-commerce UIs with **Next.js** and **HTML5/CSS3**, ensuring mobile-first engagement and compliance with **WCAG 2.1**, thereby widening user accessibility.\nBuilt secure payment processing workflows integrated with **Stripe** and **PayPal**, employing tokenization and PCI compliance protocols to safeguard sensitive data.\nApplied robust access controls using **RBAC** and **OAuth 2.0**, ensuring secure customer and admin access in compliance with GDPR standards."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, Rust, C++,\n\n**Backend Frameworks:**\n\tDjango,\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular,\n\n**API Technologies:**\n\tAPIs,\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL),\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis,\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD,\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose,\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, internationalization, localization, moz-l10n, Pontoon",
+  "apply_company": "Mozilla"
+}

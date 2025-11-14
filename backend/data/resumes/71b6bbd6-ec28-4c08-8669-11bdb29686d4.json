@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Full Stack Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Senior Full Stack Developer with 13+ years of experience in creating high-performance applications, specializing in **.NET**, **Python**, **React**, and **FastAPI**. Proficient in developing and integrating **REST APIs** and implementing geospatial features using **Leaflet**, **Mapbox GL JS**, **GeoJSON**, and **OpenMapTiles**. Experienced in deploying scalable systems on **Azure** and configuring cloud-native architectures that enhance performance and maintainability.\nDemonstrated ability to leverage **AI/ML** technologies for predictive analytics and real-time processing while adhering to compliance standards such as HIPAA and PCI DSS. Strong background in microservices and CI/CD pipelines, along with a commitment to fostering operational efficiency through MLOps practices utilizing technologies like **MLflow** and **Airflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Full Stack Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed robust web applications as a **Senior Full Stack Developer** leveraging **.NET** and **Python (FastAPI)**, ensuring high performance and reliability across health and finance sectors.\n• Created dynamic and interactive user interfaces utilizing **React** and integrating features like **Leaflet** and **Mapbox GL JS** for real-time geospatial data visualizations.\n• Designed and implemented **REST APIs** for seamless interaction between front-end and back-end components, adhering to established standards for security and performance.\n• Ensured real-time data processing and effective management of geographic data formats such as **GeoJSON**, using **OpenMapTiles** for optimized mapping solutions.\n• Led the integration of third-party services and libraries to support features like **BBOX** searches, vector features, and raster tiles, enhancing application capabilities.\n• Utilized cloud services on **Azure**, deploying applications with scalability in mind, while leveraging tools like **TiTiler** and **COG** for optimized geospatial data serving.\n• Spearheaded initiatives to enhance code quality and maintainability through rigorous testing frameworks and practices using tools such as **PyTest** and **Jest**, ensuring a minimum of **90% test coverage** across all projects.\n• Collaborated with cross-functional teams to deliver data-intensive applications capable of handling over **1 million** user requests per hour while maintaining response times under **200 ms**.\n• Delivered comprehensive documentation and training, fostering skill development amongst team members and ensuring knowledge transfer in the latest technology stacks used in projects."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** (FastAPI) and **.NET** to modernize core financial platforms by migrating to microservices architecture, which enhanced scalability and performance for high-volume transactional systems.\nDeveloped front-end applications with **React** (18), effectively utilizing **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels for over **30,000** users.\nImplemented REST APIs to seamlessly integrate with various back-end services, improving data flow efficiency by **25%** throughout the platform.\nDelivered real-time analytics dashboards with **React** and integrated with **Power BI Embedded**, providing operations teams with instant insights into transactions and reducing anomaly detection time by **40%**.\nDesigned and deployed a robust event-driven architecture using **Azure Service Bus** and **RabbitMQ**, ensuring asynchronous communication across critical workflows like payments and alerts, reducing system latency by **15%**.\nDeveloped ETL pipelines for ingesting financial data using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing of over **5TB** of data monthly.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn** and **XGBoost** on **Azure ML**, enhancing proactive detection of suspicious activities and reducing false positives by **30%**.\nCreated ML pipelines for real-time credit scoring and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into back-end services, achieving a processing time of under **2 seconds** per transaction."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and optimized applications using **Python** (FastAPI) and **.NET** frameworks, ensuring high performance and scalability for dynamic geospatial features on the platform.\nEngineered responsive frontend applications utilizing **React** while integrating **Leaflet**, **Mapbox GL JS**, and **GeoJSON** for enhanced data visualization in real-time mapping solutions.\nDesigned and implemented robust **REST APIs** for seamless interaction between the frontend and backend systems, facilitating smooth data exchanges and enhancing user experiences.\nLeveraged cloud services like **Azure** for deploying applications reliably, ensuring high availability and performance under varying traffic loads across key modules.\nUtilized **COG** (Cloud Optimized GeoTIFF) with efficient raster tiles management, delivering optimized map rendering while maintaining low latency under high user concurrency.\nImplemented advanced data analytics and visualization strategies using **OpenMapTiles**, driving insights and enhancing user engagement with geographic data.\nApplied role-based access control (RBAC) and OAuth 2.0 for secure user authentication and compliance with GDPR regulations, providing a secure environment for sensitive operations.\nManaged complex integrations with external mapping services and APIs, producing interactive and accessible experiences for a mobile-first audience.\nExecuted comprehensive version control and deployment workflows using CI/CD pipelines, achieving more than **90%** automation in deployment processes with zero downtime during updates.\nCollaborated across teams to achieve a **30%** reduction in response times through optimized query handling and caching strategies, improving overall application responsiveness significantly."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\t.NET\n\n**Frontend Frameworks:**\n\tReact\n\tVue\n\tAngular\n\tLeaflet\n\tMapbox GL JS\n\n**API Technologies:**\n\tREST APIs\n\tGeoJSON\n\tOpenMapTiles\n\tEsri\n\tBBOX\n\tvector features\n\tTiTiler\n\traster tiles\n\tprojections\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\n**DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n**Other:**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tKeycloak (OIDC, RBAC)\n\tOAuth2\n\tJWT\n\tNginx\n\tLet’s Encrypt\n\tCertbot"
+}

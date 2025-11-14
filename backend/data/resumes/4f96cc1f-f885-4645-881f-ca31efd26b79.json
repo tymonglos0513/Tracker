@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Senior Data Engineer with 13+ years of experience in crafting high-performance data solutions across the healthcare and financial sectors. Proficient in **Python**, **SQL**, and leveraging **Databricks** and **Spark** for efficient data modeling, performance tuning, and management of data lakes and warehouses. Skilled in deploying robust data processing systems using **AWS**, **Azure**, and **GCP**, ensuring compliance with data governance standards. Experienced in implementing CI/CD pipelines and monitoring systems to support data integration and automation workflows. Furthermore, I have a strong background in full stack development, utilizing **JavaScript/TypeScript**, **Flutter**, and frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django** to deliver comprehensive solutions. My hands-on experience also includes building AI/ML-powered platforms, incorporating MLOps practices with tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **SQL** to design and implement scalable data models for efficient data lakes and data warehouses, optimizing for performance tuning and analytics across healthcare and fintech sectors.\nDeveloped and maintained ETL processes using **Databricks** and **Spark**, ensuring high-quality data ingestion and transformation for real-time analytics and reporting, capable of handling over **10TB** of data daily.\nImplemented CI/CD pipelines tailored for data workflows, incorporating tools such as **AWS** CodePipeline and **Azure** DevOps, streamlining production deployments and enhancing monitoring capabilities with automated testing and validation.\nLed the integration of cloud services on **AWS**, **Azure**, and **GCP**, fostering a secure and scalable data architecture that supports multi-cloud environments and meets compliance standards.\nEstablished robust monitoring systems utilizing tools like **Prometheus** and **Datadog**, which provided insights on system performance and data pipeline efficiency, reducing downtime by **30%**.\nCollaborated with cross-functional teams to define data modeling standards, ensuring data quality and integrity for financial metrics and healthcare analytics, thereby improving decision-making processes.\nDesigned and implemented interactive data visualization dashboards using libraries suitable for business intelligence, enabling stakeholders to access real-time insights and operational KPIs, resulting in actionable strategies.\nConducted comprehensive performance tuning of SQL queries and data ingestion pipelines, achieving query response times reduced by up to **50%**.\nParticipated in Agile development processes, contributing to sprint planning, retrospectives, and maintaining documentation for workflows, improving team transparency and efficiency.\nMentored junior engineers on best practices in data engineering, fostering a culture of continuous learning and enhancement within the team."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** for developing and maintaining ETL pipelines, ingesting financial data into **data lakes** and **data warehouses**, enhancing data accessibility for analytics.\nEmployed **SQL** for querying and optimizing performance of large datasets, contributing to improved data modeling and reporting.\nImplemented **Databricks** and **Spark** tools for processing big data, ensuring high efficiency in handling **10M+ transactions** daily.\nDesigned scalable architectures in **Azure** and integrated **AWS** services to support data storage and analysis, achieving a **30%** increase in operational efficiency.\nDeveloped automated **CI/CD** pipelines to streamline data deployment workflows, reducing turnaround time by **40%**.\nSet up comprehensive monitoring systems to ensure data integrity and performance tuning, leading to a **25%** reduction in operational incidents.\nCollaborated with cross-functional teams to identify data needs and provide solutions, leading to more insightful analytics and reporting across projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Utilized **Python** for data processing tasks, enhancing data pipelines within the e-commerce platform, resulting in a **30%** increase in data retrieval speeds.\n- Developed robust SQL query structures, optimizing database interactions and contributing to improved performance metrics by **25%**.\n- Implemented data modeling strategies in line with industry standards, ensuring data integrity and seamless integration with data lakes and data warehouses in **AWS** and **Azure** environments.\n- Optimized data workflows with **Databricks** and **Spark**, facilitating real-time analytics and reporting capabilities, which reduced ETL processing time by **40%**.\n- Conducted performance tuning on SQL queries and Python scripts, resulting in a significant reduction in query execution time and overall system response times.\n- Established CI/CD practices for data workflows, allowing for **50%** faster deployment of data processing jobs with reduced downtime.\n- Incorporated comprehensive monitoring solutions to track data pipeline performance and alert on anomalies, enhancing system reliability.\n- Collaborated with cross-functional teams to ensure data completeness and accuracy, driving successful analytics initiatives across business units.\n"
+    }
+  ],
+  "skills": "  **Programming Languages:**\n\tPython, SQL\n\n  **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n  **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n  **API Technologies:**\n\t  \n\n  **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, Azure: App Services\n\n  **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n  **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n  **Cloud & Infrastructure:**\n\tAWS: RDS, S3, Azure: Blob Storage, SQL Database, GCP\n\n  **Other:**\n\tMLflow, Airflow, Kubeflow, Databricks, Spark, data modeling, data lakes, data warehouses, performance tuning, monitoring, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot"
+}

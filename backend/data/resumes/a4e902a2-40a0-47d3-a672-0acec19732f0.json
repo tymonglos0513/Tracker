@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Cloud Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a proficient Senior Cloud Engineer with 8 years of extensive experience, I specialize in deploying and managing cloud solutions leveraging **Microsoft Azure**, **IaaS**, and **Azure DevOps** for robust infrastructure automation. My skill set includes expertise in **PowerShell**, **Terraform**, and **Ansible** to streamline processes and enhance operational efficiency. I am proficient in establishing CI/CD pipelines to ensure smooth deployment and delivery of applications.\nAlongside my cloud engineering capabilities, I bring a solid background in full-stack development, where I utilized **JavaScript**, **TypeScript**, **Python**, and **Flutter** to create high-performance solutions within the healthcare and financial sectors. My experience encompasses utilizing frameworks such as **React**, **Next.js**, **Node.js**, and **Django** to build secure applications aligned with compliance standards including HIPAA, PCI DSS, and SOC 2. I have led the development of enterprise-grade platforms that incorporate AI/ML capabilities, utilizing tools like **MLflow**, **Airflow**, and **Kubeflow** for advanced predictive analytics and intelligent automation.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Cloud Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implemented enterprise-level CI/CD pipelines using **Azure DevOps**, integrating **PowerShell**, **Terraform**, and **Ansible** for automated deployment and configuration management across various environments (development, testing, production).\n- Designed and managed cloud infrastructure leveraging **Microsoft Azure** services including **IaaS** solutions to enhance application performance and reliability, achieving a 99.9% uptime metric.\n- Architected disaster recovery solutions utilizing **Azure ASR**, creating strategies to minimize downtime and ensure data integrity across cloud environments.\n- Developed automation scripts using **PowerShell** and **Azure CLI** to streamline IT operations, reducing manual tasks by 30%.\n- Worked collaboratively within ITIL framework to implement service management practices, ensuring optimal cloud resource utilization and incident response times.\n- Fostered continuous improvements through monitoring and optimizing deployments, achieving a **40% increase** in deployment speed.\n- Supported version control and collaboration using **Git**, ensuring code quality and facilitating team workflows in cloud-based environments.\n- Engaged in cost management and optimization of resources on **Microsoft Azure**, realizing a **25% reduction** in monthly expenditures by leveraging monitoring tools and architectural patterns.\n- Conducted training sessions to enhance team capabilities in using **Azure DevOps** for managing the software development lifecycle effectively."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Microsoft Azure** and **Azure DevOps** to design and implement scalable cloud solutions, enhancing infrastructure management and deployment efficiency through CI/CD pipelines and automation.\nUtilized **Terraform** and **Ansible** for infrastructure as code (IaaS) strategy, ensuring consistent and reproducible environments across multiple deployments.\nManaged backup solutions with **Commvault** and **Azure ASR**, providing robust data protection and disaster recovery for critical cloud services, achieving a **99.9%** data recovery rate.\nDeveloped and maintained PowerShell scripts for automation of routine tasks and resource management, improving operational efficiency by **30%**.\nCollaborated across teams to ensure ITIL practices were followed, driving a **15%** improvement in incident resolution time and overall service delivery.\nIntegrated version control using **Git** to enhance collaboration and versioning of deployment scripts, maintaining a clear history and rollback capabilities for cloud infrastructure changes.\nStreamlined processes through effective use of CI/CD tools, leading to faster development cycles and reduced time-to-deployment by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Leveraged **Microsoft Azure** for deploying scalable and resilient cloud solutions, ensuring optimal performance and resource management for infrastructure as a service (IaaS) environments.\nImplemented CI/CD pipelines using **Azure DevOps** and **Git**, facilitating a streamlined development process that reduced deployment times by **30%**.\nAutomated infrastructure provisioning and configuration management with **Terraform** and **Ansible**, resulting in faster application deployments and reduced manual effort by **40%**.\nManaged disaster recovery practices using **Azure ASR**, ensuring business continuity and data protection across critical cloud applications.\nDeveloped and maintained PowerShell scripts to automate routine tasks and system maintenance, enhancing operational efficiency and reducing errors in the environment by **15%**.\nUtilized **Commvault** for backup and recovery solutions, safeguarding against data loss and enabling quick restoration of critical systems, significantly improving recovery times by **50%**.\nDesigned and implemented ITIL-based processes for incident and change management, improving service delivery reliability and customer satisfaction metrics.\nCollaborated with cross-functional teams to drive cloud strategy initiatives, aligning technology investments with business objectives and operational best practices.\nProvided ongoing support and optimization recommendations for Azure resources to maintain adherence to budgetary guidelines and performance standards."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda, Azure Functions\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Azure DevOps\n\n **Cloud & Infrastructure:**\n\tMicrosoft Azure, AWS (ECS, RDS, S3), Azure App Services, Azure Blob Storage\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot, Commvault, PowerShell, IaaS, CI/CD, ITIL, Docker Compose",
+  "apply_company": "Element Solutions Inc"
+}

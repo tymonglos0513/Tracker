@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with 8 years of experience specializing in **AWS**, **Terraform**, **Kubernetes**, and **CI/CD** pipelines to deliver high-performance cloud-based solutions. Proficient in **GitOps** methodologies, I leverage **Python** and **Bash** scripting to optimize DevOps processes and enhance cloud security. My extensive background in infrastructure automation and configuration management has enabled me to successfully implement scalable solutions that align with industry best practices.\n\nAdept in cultivating collaborative environments by implementing SRE principles, I ensure seamless operations through continuous monitoring and proactive problem resolution. My technical skill set is complemented by rich experience in developing secure applications in compliance with standards such as HIPAA and PCI DSS. With a solid understanding of Groovy scripting, I also bring a strategic approach to process improvement and team efficiency.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented **CI/CD** workflows using **GitHub Actions**, **Azure DevOps**, and **CircleCI** to streamline deployment processes across **web** and **API** services, ensuring high availability and reliability.\nArchitected and maintained cloud infrastructure using **AWS** and **Terraform**, enforcing **cloud security** best practices to safeguard sensitive healthcare and financial data.\nUtilized **Kubernetes** for container orchestration, optimizing resource management and scaling applications effectively within a **DevOps** environment.\nAutomated infrastructure provisioning and management through **Bash** scripting and **Groovy**, enhancing repeatability and efficiency in deployment.\nLed incident response and implemented **SRE** principles to monitor system performance and reliability, achieving 99.9% uptime across critical services.\nCollaborated with cross-functional teams to establish and refine best practices for software delivery and infrastructure management, contributing to a **DevOps** culture across the organization.\nDeployed enterprise-level monitoring solutions using tools like **Prometheus** and **Grafana** to provide real-time insights and alerts for system health and performance metrics.\nConducted training sessions on **cloud security** frameworks and **DevOps** methodologies, improving team capabilities and awareness regarding industry standards.\nDesigned and created disaster recovery strategies ensuring data backup and system redundancy, reducing recovery time objectives (RTO) to under **2 hours**.\nUtilized **Python** to write automation scripts for system administration and maintenance tasks, increasing operational efficiency by **30%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented **AWS** cloud solutions and managed infrastructure as code using **Terraform** to support scalable and secure deployments.\nApplied **GitOps** principles to streamline version control and deployment processes, enhancing collaboration and reducing errors.\nDeveloped and maintained CI/CD pipelines leveraging **Kubernetes** for container orchestration, ensuring efficient application delivery and consistent environments across **Python** and **Groovy** based projects.\nConfigured and managed cloud security protocols to protect sensitive financial data and comply with industry regulations, ensuring secure integrations and data storage.\nAutomated deployment processes and system monitoring through **Bash** scripting, reducing deployment time by **30%** and improving system reliability.\nCollaborated with engineering teams to implement **DevOps** practices and **SRE** principles, creating a culture of ownership and accountability in system performance and reliability.\nLed initiatives that improved uptime to **99.9%** for critical financial applications, utilizing proactive monitoring and incident response strategies.\nExecuted regular system audits and performance tuning, resulting in an **improvement of response times by 25%** across deployed applications.\nProvided training and mentorship for junior engineers on best practices in **DevOps** and cloud technology integration, fostering team development and knowledge sharing."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** services for deploying and managing scalable applications, ensuring optimal performance and high availability across cloud resources.\nImplemented **Terraform** for Infrastructure as Code (IaC) to automate environment provisioning and configuration management, reducing deployment times by **30%**.\nDevised and maintained CI/CD pipelines using **GitOps** principles, achieving a deployment frequency increase of **50%** and improving release quality through automated testing.\nEngineered container orchestration using **Kubernetes** to manage microservices, enabling seamless application scaling and fault tolerance for critical systems.\nEmployed **Python** and **Bash** scripts to automate routine operational tasks, minimizing human error and enhancing system reliability.\nDeveloped monitoring and alerting solutions aligned with Site Reliability Engineering (SRE) best practices, ensuring system uptime of **99.9%** through comprehensive health checks and performance metrics.\nIntegrated cloud security measures to safeguard sensitive data, including deployment of role-based access control (RBAC) and proactive vulnerability assessments for continuous compliance.\nCollaborated cross-functionally using **Groovy** for Jenkins pipeline scripting, driving efficiency and consistency in build processes.\nChampioned DevOps culture by facilitating knowledge sharing sessions, contributing to an overall reduction in time-to-recovery from incidents by **40%**.\nStreamlined incident response processes through automation, improving response times to critical issues and enhancing overall system resilience."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, Groovy, Bash \n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django \n\n **Frontend Frameworks:** \n\tJavaScript, TypeScript, React, Vue, Angular \n\n **API Technologies:** \n\tOAuth2, JWT, Keycloak (OIDC, RBAC) \n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL) \n\n **Databases:** \n\tPostgreSQL, MySQL, MongoDB, Redis \n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose \n\n **Cloud & Infrastructure:** \n\tcloud security, CI/CD, GitOps, SRE \n\n **Other:** \n\tMLflow, Airflow, Kubeflow, Nginx, Certbot",
+  "apply_company": "H2O.ai"
+}

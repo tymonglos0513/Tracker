@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "Results-driven Senior Software Engineer with 8 years of experience specializing in full-stack development for high-performance solutions. Proficient in **Java**, **Spring**, **JPA**, **JDBC**, **Spring Data**, **JUnit**, **Angular**, **MariaDB**, **PostgreSQL**, **MySQL**, **Kafka**, and **Docker**. I possess a strong background in building scalable applications using **CI/CD** practices, **Kubernetes**, and **ArgoCD** to ensure robust software delivery and maintainability. \nMy expertise extends to event-driven architectures with **RabbitMQ**, **Solace**, and **MQTT**, and I bring hands-on experience with various databases including **MongoDB**, **Cassandra**, and **Redis**. Additionally, my experience includes developing microservices and implementing automated testing using **Cypress** and **Jest**, which enhance the reliability and performance of applications.\nMy solid understanding of cloud platforms such as **Azure** complements my ability to monitor and optimize applications with tools like **Grafana** and **Prometheus**. Possessing a deep commitment to compliance with industry standards, I leverage best practices to ensure security and maintainability across all development stages. I have a proven track record in leading teams through complex challenges while fostering innovation and collaboration.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Architected and developed robust, scalable applications using **Java**, **Spring**, and **Angular**, ensuring compliance with industry standards and best practices.\nImplemented CI/CD pipelines utilizing **Docker**, **Kubernetes**, and **ArgoCD** for streamlined deployment processes, improving release times by **30%**.\nDesigned and maintained database architectures with **PostgreSQL**, **MariaDB**, and **MongoDB**, optimizing queries for high-volume transaction processing, catering to **millions** of records.\nCollaborated with cross-functional teams to integrate messaging services such as **Apache Kafka** and **RabbitMQ**, ensuring reliable data flow across distributed systems.\nDeveloped feature-rich frontend components using **Angular** and **Angular Material Harness**, improving user experience and accessibility for applications.\nApplied testing strategies with **JUnit**, **Cypress**, and **Jest**, covering unit and integration tests to achieve **95%** code coverage for both front-end and back-end.\nLeveraged **ElasticSearch** for advanced search capabilities across structured and unstructured datasets, significantly enhancing performance for user queries.\nUtilized **Grafana** and **Prometheus** for real-time monitoring and visualization of application performance metrics, resulting in faster issue resolution.\nImplemented data migration strategies with **Liquibase**, ensuring zero downtime during database updates and versioning.\nEngaged in code reviews and mentoring junior developers, fostering a culture of quality and continuous improvement within the development team.\nIntegrated observability tools such as **OpenTracing** and **Jaeger** for end-to-end tracing of application transactions, leading to optimized performance diagnostics."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Spring** frameworks to architect robust back-end solutions, enhancing system reliability and performance by **30%**.\nDesigned and implemented **JPA** and **JDBC** integrations with databases such as **MariaDB**, **PostgreSQL**, and **MySQL**, ensuring efficient data management practices.\nConducted unit and integration testing with **JUnit**, enforcing high-quality code standards and reducing bug rates by **25%**.\nDeveloped dynamic front-end applications utilizing **Angular**, including **Angular Material Harness** for a responsive user experience, achieving a user satisfaction score of **90%**.\nOrchestrated CI/CD processes using **Docker**, **Kubernetes**, and **ArgoCD** to streamline deployments and improve release cycles by **40%**.\nImplemented real-time messaging solutions leveraging **Kafka** and **RabbitMQ**, enabling timely data processing and event-driven architecture.\nBuilt ETL pipelines employing **Apache Airflow** and **Azure Data Factory** for scalable data ingestion from various sources, achieving a **50%** reduction in data retrieval times.\nIntegrated **Grafana** and **Prometheus** for monitoring application performance, accumulating real-time insights that improved operational efficiency.\nLeveraged **JUnit** and **Cypress** for automated testing, further enhancing the robustness and maintainability of the applications.\nApplied version control with **Maven** and **Yarn**, ensuring consistent dependency management across multiple projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed backend services utilizing **Java**, **Spring** (version 5.3) and **JPA**, ensuring high performance and reliability for scalable e-commerce applications with emphasis on transaction management and data persistence across multiple databases like **PostgreSQL** and **MariaDB**.\nImplemented CI/CD pipelines using **Docker** and **Kubernetes**, deploying applications seamlessly with tools like **ArgoCD**, enhancing deployment speed by **30%** and enhancing rollback capabilities with zero downtime.\nEngineered high-throughput messaging solutions leveraging **Kafka** and **RabbitMQ**, achieving real-time data processing speeds, significantly improving order processing time by **25%**.\nDesigned responsive web interfaces using **Angular** (version 12) and **Angular Material**, integrating **Jest** and **Cypress** for automated testing to elevate code quality and decrease bug reports by **40%**.\nUtilized **Redis** for caching frequently accessed data and session storage, leading to a **50%** reduction in database load, ensuring faster response times across the application.\nImplemented secure API access using **OAuth 2.0** and applied role-based access control (RBAC) to manage user permissions effectively, enhancing data security and aligning with GDPR compliance.\nOrchestrated database versioning with **Liquibase** and ensured database performance tuning across **Cassandra** and **ElasticSearch**, capable of managing data retrieval efficiencies during peak traffic by over **60%**.\nEnsured code adherence to quality standards through the use of **JUnit** for unit testing, resulting in significant improvements in functional accuracy and a decrease in post-release issues by **20%**.\nUtilized monitoring tools like **Grafana** and **Prometheus** for performance tracking, facilitating proactive improvements in application reliability and user experience."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tJava, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tSpring, FastAPI, Flask, Django, Vertx\n\n**Frontend Frameworks:**\n\tAngular, React, Vue\n\n**API Technologies:**\n\tJDBC, JPA, Spring Data, Kafka, RabbitMQ, JMS, MQTT, Solace\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MariaDB, MongoDB, Redis, Cassandra\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, ArgoCD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tGrafana, Prometheus\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, JWT, OAuth2, Keycloak, Let’s Encrypt, Nginx, Certbot, Liquibase, Cypress, Jest, RXJava, Angular Material Harness, Storybook, ElasticSearch, OpenTracing, Jaeger",
+  "apply_company": "Gravitee"
+}

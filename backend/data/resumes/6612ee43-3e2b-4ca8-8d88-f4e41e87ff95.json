@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Software Engineer with 10+ years of experience in building robust distributed systems and handling large datasets in high-traffic environments. Proficient in **Go**, **Kubernetes**, and automated testing frameworks, ensuring high reliability and performance in all deliverables. Skilled at designing and implementing scalable backend architectures, leveraging cloud-native solutions and advanced technologies. Exceptional record of enhancing operational efficiency and delivering automation tools in top-tier firms like VISA, Sii Poland, and Reply Polska. Expertise in developing high-performing APIs and employing AI/ML strategies to optimize services using technologies like **Python** (**FastAPI**, **Django**, **Flask**) on platforms like **AWS** and **Azure**.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered robust **distributed systems** to handle **high traffic** scenarios, streamlining document automation, user onboarding, and reporting workflows.\nDeveloped scalable solutions for processing **large datasets** using **Python** and **FastAPI**, enhancing overall system performance.\nImplemented **automated testing** strategies within CI/CD pipelines to ensure code reliability and quality.\nDesigned and maintained complex event-driven architectures utilizing **Celery** and **Redis** for asynchronous processing of transaction requests, improving efficiency by **30%**.\nDeployed microservices on **Azure App Services**, employing **Terraform** for infrastructure as code management, which reduced deployment time by **40%**.\nCreated and maintained reliable data pipelines using **Apache Airflow** and **Azure Functions** for real-time data exchange, achieving a data accuracy rate of **99%**.\nLed security assessments to enhance system integrity by integrating **OAuth2** and **Azure AD B2C**, thereby improving authentication security.\nCollaborated with cross-functional teams, leveraging **Kubernetes** for container orchestration, to tackle system integration challenges and streamline release processes."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Engineered and maintained **distributed systems** capable of processing large datasets, utilizing **Python** and **FastAPI** to support scalable solutions for high traffic environments.\n• Implemented **automated testing** strategies to ensure code reliability and performance across the software development lifecycle.\n• Developed event-driven microservices leveraging **Celery** and **Redis** for asynchronous processing of financial data and transaction requests, improving performance by **30%**.\n• Managed deployment on **Azure App Services**, utilizing **Terraform** for infrastructure as code to ensure environments were consistent through **5** production releases.\n• Designed and implemented secure data pipelines for regulatory compliance, integrating **Apache Airflow** and **Azure Functions** to facilitate automated data workflows with an efficiency improvement of **25%**.\n• Conducted comprehensive security audits to ensure adherence to industry standards, integrating **OAuth2** and **Azure AD B2C** to bolster authentication processes and access control measures.\n• Collaborated regularly with cross-functional teams to ensure seamless system integration and transition, focusing on successful release management for **4** major projects."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Designed and developed **distributed systems** for high-frequency trading applications using **Python**, **Flask**, and **PostgreSQL**, resulting in a **30%** improvement in trade execution speed.\n• Engineered solutions for handling **large datasets** in real-time with **asyncio**, **WebSockets**, and **Redis**, which managed a data throughput of over **1 million** transactions per day.\n• Collaborated with teams to deliver resilient REST APIs and WebSocket channels, focusing on performance for **high traffic** environments.\n• Ensured regulatory compliance with standards such as MiFID II and GDPR while following internal data security protocols.\n• Implemented **automated testing** frameworks using **PyTest**, **tox**, and mock servers, reducing bug occurrence by **25%** in production releases.\n• Introduced job scheduling with **Celery** and **RabbitMQ**, optimizing task execution and improving process management by **40%**.\n• Actively contributed to the implementation of **Site Reliability Engineering** principles, enhancing system reliability and uptime for critical services."
+    }
+  ],
+  "skills": "  **Programming Languages**\n\tGo, Python (3.8+), SQL, Bash, JavaScript\n\n  **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n  **Frontend Frameworks**\n\n\n  **API Technologies**\n\tREST/gRPC APIs, Microservices, Kafka\n\n  **Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n  **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n  **DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Automated testing\n\n  **Cloud & Infrastructure**\n\n\n  **Other**\n\tDistributed systems, Large datasets, High traffic, Site Reliability Engineering, AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, PyTest, Git"
+}

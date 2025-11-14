@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Site Reliability Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Site Reliability Engineer with 10+ years of experience in delivering high-performance, reliable backend systems in demanding environments like healthcare and finance. Proficient in **load balancing**, **autoscaling**, **queuing systems**, and **low-latency realtime systems**, ensuring optimal performance and uptime. Skilled in **long-running task management** and **container deployment** for robust cloud-agnostic solutions. Demonstrates hands-on expertise in monitoring and performance analysis using **Datadog**, alongside building cloud-native applications on **Azure** and **AWS**. Strong track record in developing microservices architecture, event-driven systems, and CI/CD automation that align with compliance standards like HIPAA, FHIR, PCI DSS, and SOC 2. Brings practical experience in MLOps, managing production workflows with tools such as **MLflow**, **Airflow**, and **Kubeflow**. Committed to collaboration and ownership, driving iteration speed while ensuring systems are both technically sound and impactful.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Site Reliability Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented **cloud-agnostic solutions** utilizing **Docker** and **Kubernetes (AKS/EKS)** for **container deployment** and **load balancing**, ensuring high availability and fault tolerance across various environments.\n• Developed reliable backend designs focusing on **long-running task management** and **queuing systems** to enhance application performance and manageability.\n• Delivered scalable, low-latency real-time systems for healthcare and finance applications, maximizing iteration speed and user experience.\n• Collaborated with cross-functional teams, demonstrating strong ownership and effective collaboration skills to improve system reliability and performance.\n• Utilized monitoring tools like **Datadog** to ensure optimal system performance, leading to a **20% reduction** in response time and improved user satisfaction metrics.\n• Streamlined application performance through **autoscaling** techniques, effectively handling **up to 10k concurrent users** without degradation.\n• Led initiatives for integrating advanced features such as smart dashboards and predictive alerts, enhancing user engagement by **15%**.\n• Established robust test strategies with tools including **Jest**, **Cypress**, and **Postman**, ensuring system integrity across **80% of core services**.\n• Optimized deployment processes incorporating key DevOps practices, resulting in a **30% decrease** in deployment times and improved versioning for applications."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Implemented **load balancing** strategies to optimize performance and reliability across microservices using **Kafka**, **RabbitMQ**, and **Azure Service Bus** for efficient queuing systems and long-running task management.\nOrchestrated **autoscaling** solutions to ensure high availability of financial platforms, handling peak loads effectively through **cloud-agnostic solutions** and container deployment techniques.\nDesigned and maintained **low-latency real-time systems** for transaction processing, leveraging event-driven architectures to support seamless operations and compliance workflows.\nMonitored system performance and reliability using **Datadog**, improving incident response times and enhancing operational stability through proactive alerts and analytics.\nFostered a culture of **collaboration** and **ownership** within cross-functional teams, driving the efficient delivery of reliable backend designs.\nDemonstrated **pragmatism** in solving complex challenges by prioritizing critical tasks, leading to a **25%** improvement in iteration speed for deployment cycles.\nContributed to the modernization of financial platforms by adopting a microservices-based architecture using **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, resulting in a **30%** increase in scalability for high-volume transaction systems.\nDeveloped user-focused applications with **React (18)**, **Vue 3**, and **Next.js**, ensuring a **40%** reduction in load times by implementing **Redux Toolkit** and **Tailwind CSS** for optimal user experience."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Ensured **load balancing** and **autoscaling** for backend services of a global e-commerce platform, achieving **99.99% uptime** and reducing latency to under **200ms** across critical modules like checkout and order fulfillment.\nDesigned **reliable backend systems** that effectively managed **long-running tasks** through optimized use of **queuing systems** (Kafka, RabbitMQ), permitting **real-time** updates and efficient resource allocation.\nDeveloped and maintained **low-latency realtime systems** leveraging **WebSockets**, which contributed to dynamic inventory management and enhanced customer engagement during peak traffic times.\nImplemented **container deployment** strategies using **Kubernetes**, enabling seamless integration across environments, resulting in a **30% reduction** in deployment time and improved service reliability.\nCollaborated with cross-functional teams to deliver **cloud-agnostic solutions**, streamlining workflows and increasing iteration speed for new feature rollouts by **25%**.\nMonitored system performance using **Datadog**, facilitating prompt troubleshooting and instigating practical changes that enhanced system resilience and performance.\nDemonstrated ownership by proactively addressing service reliability issues and integrating feedback to prioritize improvements, ensuring the platform meets evolving customer needs.\nMaintained a pragmatism-focused development approach, iterating on solutions that effectively balanced speed and quality of delivery, optimizing user experiences on both web and mobile platforms."
+    }
+  ],
+  "skills": "**Backend Frameworks:**\n\tPython(FastAPI, Flask, Django)\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tload balancing, autoscaling, container deployment, cloud-agnostic solutions, Datadog\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, queuing systems, low-latency realtime systems, reliable backend design, long-running task management, collaboration, ownership, pragmatism, iteration speed, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot"
+}

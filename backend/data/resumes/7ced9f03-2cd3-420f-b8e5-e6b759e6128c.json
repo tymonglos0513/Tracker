@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Tech Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Tech Engineer with 8 years of extensive experience in developing scalable solutions utilizing **Node.js**, **TypeScript**, **React**, **Next.js**, and **Docker**. Proficient in implementing **CI/CD** processes and managing both **SQL** and **NoSQL** databases to enhance application performance and reliability. Expertise in architectures encompassing microservices and event-driven systems, supported by hands-on experience with **Kafka**, **Flink**, **Kubernetes**, and **Google Cloud** services.\n\nDemonstrated history of building high-performance applications for the healthcare and financial sectors, ensuring compliance with rigorous standards such as HIPAA, FHIR, and PCI DSS. Capable of integrating observability practices and API-Security measures to safeguard applications. My background includes spearheading enterprise-grade projects that leverage advanced **AI/ML capabilities**, utilizing tools like MLflow and Kubeflow, and continuously optimizing workflows to drive operational efficiency.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Tech Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and developed robust, scalable applications utilizing **Node.js** and **TypeScript**, ensuring high performance and maintainability.\n• Implemented efficient CI/CD pipelines using **Docker**, **Kubernetes**, and cloud services like **Google Cloud**, facilitating rapid deployment cycles and enhancing system observability.\n• Engineered user interfaces leveraging **React** and **Next.js**, focusing on responsive design to improve user experience and engagement with healthcare and financial applications.\n• Collaborated on Kafka-based asynchronous data processing, integrating **Flink** for real-time data handling and analytics within applications.\n• Secured APIs by establishing strong **API-Security** protocols and authentication mechanisms, protecting sensitive healthcare and financial data.\n• Optimized data management strategies using both **SQL** and **NoSQL** databases to meet diverse data storage and retrieval needs while ensuring compliance with regulatory standards in the healthcare and finance sectors.\n• Developed enterprise-level observability solutions to monitor application performance, diagnosing issues proactively to maintain service uptime above **99.9%**.\n• Conducted thorough code reviews and implemented best practices for enhancing code quality and security compliance across all development phases, resulting in a **30%** decrease in post-release defects.\n• Coordinated with cross-functional teams to gather requirements and deliver features, maintaining project timelines within an **80%** on-time delivery rate.\n• Led the implementation of unit, integration, and end-to-end testing strategies using industry best practices, improving test coverage by **40%**.\n• Drove technology modernization efforts, transitioning legacy systems to microservices architectures using distributed systems principles, improving scalability and maintainability.\n• Mentored junior developers in best practices for **Node.js**, **React**, and agile methodologies, fostering a culture of continuous improvement and professional growth."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Node.js** (NestJS/Express) and **TypeScript** to architect scalable and maintainable financial platforms, enhancing system throughput for over **100,000** concurrent transactions.\nDeveloped robust front-end applications using **React** (18) and **Next.js**, applying Redux Toolkit to ensure optimal performance and responsiveness for up to **10,000** daily active users on financial dashboards.\nImplemented an event-driven architecture by integrating **Kafka** and **RabbitMQ**, increasing system responsiveness and supporting real-time processing for critical transactions and alerts with over **99%** uptime.\nDesigned and built dynamic ETL pipelines utilizing Python, **Docker**, and **Apache Airflow**, facilitating efficient batch and real-time data ingestion of over **1 million** records from multiple financial sources.\nEstablished CI/CD pipelines on **Google Cloud** to streamline deployment processes, improving deployment frequency by **30%** while reducing rollback rates through enhanced observability measures.\nDeployed machine learning models for fraud detection using **Azure Machine Learning** and **scikit-learn**, achieving a fraud detection accuracy rate of **95%** by analyzing transaction patterns and user behavior.\nCreated and orchestrated machine learning pipelines for applications such as credit scoring and churn prediction, integrating them directly into backend services for real-time analytics and decision-making.\nParticipated in creating secure APIs by implementing **API-Security** protocols and ensuring proper **Authentication** methods to safeguard user data and financial transactions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed scalable backend services using **Node.js** (NestJS, Express) and integrated with **Kafka** for real-time data processing, ensuring high system availability and responsiveness across a **global e-commerce platform**.\n• Designed and optimized API endpoints with a focus on **API-Security** and authentication mechanisms, enhancing overall system reliability and performance metrics by **25%**.\n• Implemented CI/CD pipelines for efficient deployment using **Kubernetes** and **Docker**, facilitating automated testing and streamlined releases with a **40%** reduction in downtime during updates.\n• Engineered interactive frontend applications with **React** (18) and **Next.js**, utilizing **TypeScript** and enhancing client-side performance, achieving faster load times by **30%**.\n• Leveraged **Google Cloud** for distributed storage solutions, integrating **SQL** and **NoSQL** databases, ensuring data accessibility and fault tolerance for high-traffic situations.\n• Applied **observability** tools to monitor application performance and troubleshoot, contributing to a swift response time improvement of **15%** in critical system alerts.\n• Integrated container orchestration with **Kubernetes** for seamless application scaling during peak periods, managing workloads across **10+** microservices efficiently.\n• Conducted performance testing and load balancing strategies, leveraging **Flink** for data streaming and optimizing resource allocation based on real-time usage analytics.\n• Developed secure user authentication frameworks employing **OAuth 2.0** and role-based access control (RBAC), ensuring GDPR compliance and safeguarding user data.\n• Enhanced application APIs with observability features, providing insights into potential vulnerabilities and compliance with industry standards."
+    }
+  ],
+  "skills": "Programming Languages:\n\tNode.js, TypeScript, Python, JavaScript\n\n**Frontend Frameworks:**\n\tReact, Next, Vue, Angular\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**API Technologies:**\n\tKafka, Flink, API-Security, Authentication\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda), Azure (App Services), Google Cloud\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, NoSQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (RDS, S3), Azure (Blob, SQL)\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Observability",
+  "apply_company": "ZABEL"
+}

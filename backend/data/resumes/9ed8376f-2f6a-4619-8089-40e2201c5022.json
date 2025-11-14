@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Experienced Senior DevOps Engineer with 13+ years in full stack development, skilled in **Kubernetes**, **Terraform**, and **CI/CD** processes. Proficient in **Azure** cloud services, utilizing **Python** and **Go** for robust backend development. Expertise in managing databases including **MongoDB**, **CosmosDB**, and **PostgreSQL**. Versatile in JavaScript/TypeScript and **Node.js** for frontend and backend solutions. Demonstrated ability in creating effective monitoring systems using **Prometheus**, **Grafana**, **OpenTelemetry**, and **Datadog**.\n\nAdept at deploying and managing containerized applications with **Docker** and orchestrating workflows with **Jenkins**, **GitHub Actions**, **GitLab CI**, and **Argo CD**. Strong foundation in building AI/ML-powered platforms, specializing in model training and serving. Extensive experience in compliance-driven development, aligned with HIPAA, FHIR, PCI DSS, and SOC 2 standards.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and maintained CI/CD pipelines using **GitHub Actions**, **Jenkins**, and **GitLab CI**, ensuring seamless integration and delivery with automated testing and security checks.\nLed deployment strategies utilizing **Kubernetes** and **Docker** for container orchestration, achieving a **25%** reduction in deployment times across **15** microservices.\nDeveloped and optimized data storage solutions using **MongoDB**, **PostgreSQL**, and **CosmosDB**, resulting in enhanced performance for high-volume transactional applications.\nCollaborated with development teams utilizing **Python**, **Go**, and **Bash** scripting to automate workflows, achieving a **30%** efficiency increase in operational processes.\nMonitored and optimized performance with **Prometheus**, **Grafana**, and **Datadog**, implementing alerting solutions that reduced downtime by **20%**.\nIntegrated logging and monitoring solutions via **OpenTelemetry** and **ElasticSearch**, improving system observability and troubleshooting efficiency.\nManaged infrastructure as code using **Terraform**, automating resource provisioning and reducing deployment configuration errors by **15%**.\nDesigned and deployed scalable applications within **Azure** environments, ensuring compliance with industry standards and best practices.\nDeveloped custom solutions for dynamic workloads and developed strategies for quick scaling based on demand, utilizing cloud-native technologies.\nEngaged in training sessions on **Prompt Engineering** and **RAG** methodologies to foster innovation in machine learning model deployments.\nActively participated in cross-functional teams to define architectural standards and enhance DevOps practices utilizing **Argo CD** for continuous delivery automation."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines using **Jenkins**, **GitHub Actions**, and **GitLab CI** to optimize deployment processes, achieving a **30%** reduction in time-to-market for applications.\nManaged container orchestration with **Kubernetes**, ensuring seamless scaling and maintenance of a microservices architecture, improving system resilience by **25%**.\nAutomated infrastructure provisioning and management using **Terraform**, reducing manual interventions and improving consistency across environments by **40%**.\nLeveraged **Azure** services for cloud deployment, ensuring high availability and disaster recovery for critical applications, achieving a **99.9%** uptime.\nDeveloped and maintained monitoring and logging solutions using **Prometheus**, **Grafana**, **ElasticSearch**, and **Kibana**, providing real-time insights into system performance and application health.\nImplemented effective logging and observability strategies with **OpenTelemetry** and **Datadog**, enhancing troubleshooting capabilities and system performance tracking.\nCollaborated with cross-functional teams to create and maintain an infrastructure as code (IaC) framework, promoting best practices that led to a **50%** increase in deployment reliability.\nUtilized **Docker** for containerization of applications, facilitating a smooth development and production workflow with an emphasis on scalability and flexibility.\nProvided technical leadership and mentorship to junior engineers, fostering a culture of continuous improvement and innovation within the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines using **Jenkins**, **GitHub Actions**, and **GitLab CI**, enhancing deployment efficiency and reducing rollout times by up to **50%**.\nManaged container orchestration and deployment using **Kubernetes**, ensuring scalability and high availability of microservices across a global e-commerce platform.\nAutomated infrastructure provisioning and management with **Terraform**, achieving consistent and repeatable environments, reducing setup time by **30%**.\nOptimized backend services with **Python**, employing frameworks such as **Django** and **FastAPI**, to ensure low latency and high performance in critical modules including checkout and order processing.\nLeveraged **MongoDB**, **PostgreSQL**, and **CosmosDB** to manage distributed databases, ensuring data integrity and swift access for applications.\nDeveloped monitoring and observability solutions using **Prometheus**, **Grafana**, and **OpenTelemetry**, improving system reliability and performance tracking with real-time analytics.\nIntegrated logging and monitoring tools like **ElasticSearch**, **Kibana**, and **Datadog** for comprehensive system health tracking and incident response capabilities.\nFacilitated communication between systems using **Docker** containers, streamlining development workflows and isolated testing environments, leading to a **40%** reduction in deployment-related issues.\nImplemented advanced security measures including **RBAC** and **OAuth 2.0** to secure cloud resources and ensure compliance with industry standards such as **GDPR**.\nDesigned and implemented critical automated scripts in **Bash** and **Go** to enhance operational efficiencies and automate routine tasks, significantly reducing manual intervention."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, Go, Bash, TypeScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Node.js\n\n**Frontend Frameworks**\n\tReact, Vue, Angular\n\n**API Technologies**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, CosmosDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Argo CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure**\n\tPrometheus, Grafana, OpenTelemetry, ElasticSearch, Kibana, Datadog\n\n**Other**\n\tMLflow, Airflow, Kubeflow, LLMs, Prompt Engineering, RAG",
+  "apply_company": "Parloa"
+}

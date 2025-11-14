@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Data Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Proficient Data Engineer with 9+ years of experience in developing and implementing data-driven solutions. Skilled in **Python**, **Airflow**, **GCP**, **Kubernetes**, **Spark**, **Redis**, and **BigQuery**. Strong expertise in **CI/CD** practices, **DevSecOps**, and continuous delivery pipelines, ensuring high-quality, automated workflows. Demonstrated ability in applying **TDD** and **BDD** methodologies to produce maintainable code. Proven track record of fostering effective communication across teams and providing mentorship to junior developers. Adept at leveraging tools like **Kafka** and **MySQL** for efficient data processing and management, while ensuring robust observability in all deployed services.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Utilized **Python** along with **Apache Airflow** for orchestrating and automating data pipelines to ensure seamless data flow and processing.\nImplemented **GCP** services for scalable data storage and processing, enabling efficient handling of large datasets with **BigQuery**.\nDesigned and configured **Kubernetes** clusters for container orchestration, enhancing deployment efficiency and scalability of data applications.\nProcessed data using **Apache Spark**, leading to faster data transformation and analysis for reporting purposes.\nLeveraged **Redis** for caching intermediate results, which improved data retrieval times by 30%.\nDeveloped and maintained CI/CD pipelines utilizing **DevSecOps** practices, reducing deployment confusion by 50%.\nImplemented monitoring strategies with emphasis on **observability**, ensuring system health and performance metrics were tracked in real-time.\nEducated team members in **TDD** and **BDD** methodologies to improve overall coding standards and enhance collaboration among teams. \nImproved data query performance using **MySQL**, reducing query execution time by 25% through optimized indexing strategies.\nFostered effective **communication** and **mentorship** within the team, leading to a 20% increase in project delivery speed."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Leveraged **Python** to develop data pipelines and workflows orchestrated by **Airflow**, enhancing automation and reducing job execution times by **20%**.\nUtilized **GCP** services, including **BigQuery** for data warehousing, leading to a **30%** increase in data processing efficiency compared to previous methodologies.\nImplemented container orchestration using **Kubernetes** to manage application deployments, ensuring high availability and scaling based on load.\nDeveloped and maintained data processing solutions using **Spark**, contributing to a **40%** improvement in data transformation speeds.\nDesigned and integrated caching strategies with **Redis** to optimize data retrieval for analytical workloads, resulting in a **25%** decrease in query response times.\nEstablished CI/CD practices using automation tools to enhance deployment frequencies and reduce errors, achieving a **30%** reduction in deployment failures.\nImplemented observability practices for enhanced monitoring and logging of data systems, improving incident response times by **15%**.\nActively engaged in TDD and BDD to ensure quality and reliability of data solutions, fostering an environment focused on continuous delivery.\nProvided mentorship to junior team members, elevating team capabilities and ensuring the smooth transfer of knowledge in data engineering practices.\nFacilitated effective communication between development and operations teams as part of a DevSecOps approach, aligning project goals with business expectations."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Leveraged **Python** for data processing tasks, ensuring efficient data transformation and preparation for analysis.\nImplemented **Airflow** for orchestrating complex data workflows, streamlining the process for over **10** data pipelines.\nUtilized **GCP BigQuery** for querying large datasets, improving query speed by **30%** and reducing data retrieval time significantly.\nManaged container orchestration with **Kubernetes**, enhancing deployment processes and scalability for data services.\nEmployed **Spark** for real-time data processing, supporting analytics on streams with a throughput of over **1 million** records per hour.\nUtilized **Redis** for caching frequently accessed data, reducing database load and increasing response times by **25%**.\nImplemented CI/CD pipelines to automate deployment processes, resulting in a **40%** reduction in time-to-production for new features.\nDeployed **Kafka** for real-time data streaming, ensuring high availability and reliability of data flow across services.\nWorked with **MySQL** for data storage and management, improving transaction handling efficiency.\nParticipated in DevSecOps practices, ensuring security is integrated within the data engineering process throughout the software development lifecycle.\nChampioned TDD and BDD practices, leading to improved code quality and reduced bugs in production by **50%**.\nFostered a culture of continuous delivery and observability, enhancing system monitoring and response times.\nProvided mentorship to junior team members, promoting knowledge sharing and skill development within the team."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python\n\n**Backend Frameworks**\n\t NodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n\n**Frontend Frameworks**\n\t HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n**API Technologies**\n\t RESTful API, GraphQL\n\n**Serverless and Cloud Functions**\n\t AWS, Azure, GCP, Kubernetes, Cloud Functions\n\n**Databases**\n\t MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB\n\n**DevOps**\n\t CI/CD pipelines, DevSecOps, Continuous Delivery, automation, observability, SRE, TDD, BDD\n\n**Cloud & Infrastructure**\n\t Airflow, BigQuery\n\n**Other**\n\t UX/UI Design, Git, GitHub, Redis, Apache Kafka, RabbitMQ, Selenium, Moq, Postman, Cypress, JMeter, Jest, mentorship, communication, blockchain (Solidity, Ether.js, Web3.js, Ethereum)"
+}

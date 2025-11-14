@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience focused on building robust applications and APIs, utilizing **Python**, **JavaScript**, and **Django**. Proficient in implementing internationalization (i18n) and localization (l10n) strategies, ensuring software meets diverse user needs. Demonstrated expertise in open source development, effectively collaborating with teams to optimize performance and user experience. Adept in delivering high-quality, scalable solutions while ensuring clear and effective communication throughout the development lifecycle.\n\nHands-on experience in both frontend and backend development using **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Skilled in constructing AI/ML-powered platforms that facilitate predictive analytics and real-time processing. Proficient in deploying applications on **AWS** and **Azure** with a strong focus on microservices architecture, event-driven systems, and CI/CD pipelines. Versatile background in compliance-driven development, aligning solutions with standards such as HIPAA, FHIR, PCI DSS, and SOC 2, with deep knowledge in MLOps practices utilizing **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **JavaScript** to design and develop robust APIs, ensuring seamless data exchange and integration across applications.\nEngineered full-stack applications using modern frameworks, with a focus on **Django** for back-end services, enabling modular and maintainable code with support for **i18n** and **l10n** practices in a globalized context.\nImplemented best practices in open-source development, contributing to community-driven projects and enhancing collaboration within the development team.\nDirected improvements in communication strategies between front-end and back-end teams to ensure efficient workflows and timely project delivery.\nDeveloped scalable applications with a focus on performance, employing frameworks such as **React (17–18)** and **Vue 3** to create responsive user interfaces.\nChampioned cross-functional team efforts to develop software solutions utilized by over **100,000** end-users, enhancing user experience and accessibility across platforms.\nExecuted comprehensive testing procedures using tools like **Jest** and **Cypress** to maintain high code quality and reduce bugs by **25%** over the project lifecycle.\nCreated data models and employed **APIs** to facilitate robust data management in applications supporting real-time analytics and reporting.\nLeveraged agile methodologies to lead product development sprints, resulting in the successful release of **5** major updates and features in a **12-month** cycle.\nCollaborated with stakeholders to gather requirements and refine specifications for upcoming features, aligning software development with business objectives."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **JavaScript** to modernize core financial platforms by migrating to microservices architecture, enhancing scalability and performance for high-volume transactional systems.\nImplemented and maintained **APIs** using **Django** for seamless integration and data communication between various components of the financial systems.\nDeveloped interactive front-end applications with **React (18)**, **Vue 3**, **Next.js**, and **TypeScript**, ensuring adherence to **i18n** and **l10n** standards to enhance user experience across multiple languages and cultures.\nBuilt and deployed real-time analytics dashboards with **D3.js** and **Power BI Embedded**, empowering operations teams to leverage instantaneous insights into transactions and anomalies.\nDesigned a robust event-driven architecture utilizing **Kafka**, **RabbitMQ**, and **Azure Service Bus** (version 1.0), ensuring asynchronous communication across critical workflows including payments and alerts.\nEngineered ETL pipelines using **Apache Airflow** and **Azure Data Factory**, facilitating efficient financial data ingestion from both internal and third-party sources for both batch and real-time processing across **200+** data sets.\nCreated and integrated machine learning models for fraud detection with **scikit-learn**, **XGBoost**, and **Azure ML**, proactively identifying suspicious activity based on user behavior and transaction patterns, affecting **100,000+** transactions monthly.\nEstablished ML pipelines for real-time credit scoring, churn prediction, and transaction classification with **MLflow** and **Airflow**, streamlining model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **JavaScript** frameworks (Django, FastAPI, Node.js) to design and implement robust RESTful **APIs** that serve over **1 million** active users, ensuring high performance and scalability across global e-commerce operations.\nCollaborated on multilingual (**i18n** and **l10n**) support for diverse markets, fostering user accessibility and enhancing customer satisfaction metrics by **20%**.\nDeveloped and maintained backend services with an emphasis on security, leveraging best practices and frameworks to handle sensitive customer data while complying with **GDPR** regulations.\nEngineered real-time features using **WebSockets** and event-driven architectures such as **Kafka** and **RabbitMQ**, ensuring real-time functionalities facilitated responsive customer interactions and led to a **15%** increase in order processing efficiency.\nImplemented comprehensive testing strategies to validate code quality and reduce deployment failures, achieving a **99.9%** uptime across all services.\nMentored junior developers on best practices in **open source** contributions and software development, enhancing team productivity by **30%**.\nDrove proactive communication initiatives within cross-functional teams, ensuring alignment on project goals and development timelines while fostering a collaborative work environment.\nIntegrated **Redis** for caching strategies that improved data retrieval speed by **25%**, enhancing the overall user experience and reducing database read loads during high-traffic periods.\n\nDeveloped speedy frontend applications using **React (18)**, **Vue 3**, and **Angular**, resulting in a **40%** faster load time for critical user interfaces optimized for both desktop and mobile.\nSuccessfully implemented payment processing through **Stripe**, **PayPal**, and **Razorpay**, overseeing tokenized transactions and ensuring framework compliance with industry standards."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, Rust, C++\n\n **Backend Frameworks:**\n\tDjango\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tAPIs\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, i18n, l10n, moz-l10n, open source, communication",
+  "apply_company": "Mozilla"
+}

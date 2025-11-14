@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior Software Engineer with over 13 years of experience specializing in full stack development. Proficient in **.NET**, **C#**, **ASP.NET**, and **.NET Core**, complemented by strong skills in **JavaScript**, **TypeScript**, and **React.JS**. Demonstrated expertise in building responsive user interfaces and backend services, utilizing **AJAX**, **CSS**, and various database technologies including **RDBMS** (SqlServer, Oracle, PostgreSQL) and **Non-RDBMS** (MongoDB).\nAdept in creating robust API architectures with **REST** and **GraphQL**, and experienced in implementing microservices and containerization using **Docker** and **OpenShift**. Skilled in cloud services, particularly deploying secure applications on **AWS**, utilizing **AWS Secrets Manager**, and managing secrets in **Azure Keyvault** and **Hashicorp Vault**.\nFamiliar with CI/CD practices using **Azure DevOps** and capable of maintaining monitoring solutions with **Dynatrace**. Known for a team-oriented, user-focused approach to software development and solutions, consistently demonstrating a can-do attitude.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained full-stack applications utilizing **.NET Core**, **C#**, and **ASP.NET**, ensuring high performance and scalability for both healthcare and fintech solutions.\n- Implemented user-friendly interfaces utilizing **React.JS**, **TypeScript**, and **JavaScript**, optimizing client-side performance and improving user engagement by **30%**.\n- Careful application design including REST and GraphQL APIs to facilitate seamless integration between systems, ensuring data security and integrity across platforms.\n- Spearheaded the deployment of microservices architectures with **Docker** and **Kubernetes (K8s)**, achieving a **50%** reduction in deployment time while enhancing system reliability.\n- Utilized **PostgreSQL** and **MongoDB** for data management, focusing on optimizing data retrieval times, achieving a **40%** improvement in query performance.\n- Developed CI/CD pipelines using **Azure DevOps**, integrating automated testing and deployment strategies that resulted in a **90%** reduction in release cycles.\n- Collaborated with cross-functional teams to design robust testing frameworks using **Jest**, **Cypress**, and **PyTest**, maintaining code quality across **100%** of new features.\n- Championed the integration of monitoring solutions with **Dynatrace** to enhance application performance visibility and quickly troubleshoot issues, resulting in a **25%** decrease in downtime.\n- Leveraged **APIs: REST** and **APIs: GraphQL** for effective data exchange and service orchestration within microservices, enhancing system modularity.\n- Employed a user-oriented approach to software development, conducting user feedback sessions that led to a **20%** increase in user satisfaction scores.\n- Actively participated in team-oriented project planning sessions, fostering a collaborative environment that encouraged innovative solutions and technology adoption."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and enhanced scalable applications using **.NET**, **C#**, and **ASP.NET Core**, ensuring high performance and maintainability across **9** microservices in a cloud infrastructure.\nDesigned user-friendly interfaces using **React.JS (18)**, **TypeScript**, and **CSS**, applied best practices to leverage **AJAX** for asynchronous data loading, resulting in a **30%** increase in user engagement.\nBuilt and optimized RESTful and GraphQL APIs for seamless integration with **RDBMS** (SqlServer, Oracle, PostgreSQL) and **Non-RDBMS** (MongoDB) databases, achieving a **50%** reduction in response time.\nManaged application performance and dependencies with tools such as **Dynatrace**, and container orchestration with **Docker** and **K8s**, enhancing deployment efficiency and reliability across services.\nImplemented a robust DevOps pipeline using **Azure DevOps** and configured deployment strategies with **OpenShift**, leading to a streamlined CI/CD workflow with a **40%** decrease in deployment times.\nCollaborated closely with cross-functional teams to adopt a user-oriented approach to software development, focusing on delivering features that meet customer needs while fostering a team-oriented culture.\nUtilized **Maven** for project management in Java environments, ensuring consistent builds and dependencies across application releases, while integrating best coding practices and a can-do attitude into team projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized scalable backend services for a global e-commerce platform utilizing **.NET Core**, **C#**, and **ASP.NET**, ensuring high availability and low latency across key modules like checkout and order fulfillment with a focus on a user-oriented approach to software development.\nEngineered microservices architecture with an event-driven approach, employing **Docker** and **Kubernetes (K8s)** to streamline deployment processes, resulting in a **30%** reduction in deployment times across the team.\nDeveloped frontend applications using **React.JS**, enhanced with **TypeScript** and **CSS**, fostering fast, responsive user experiences that increased user engagement by **25%** on both web and mobile platforms.\nIntegrated secure API services utilizing **REST** and **GraphQL**, ensuring seamless data interaction and access control while managing sensitive information securely by implementing **OAuth 2.0** for user authentication.\nLeveraged **PostgreSQL** and **MongoDB** for data storage, ensuring efficient data access and providing fault tolerance in high-traffic e-commerce transactions, improving overall system reliability.\nImplemented monitoring solutions using **Dynatrace** to proactively identify system issues, resulting in a **40%** improvement in issue response times.\nUtilized **Azure DevOps** for continuous integration and delivery (CI/CD), achieving quicker turnaround times for feature enhancements and updates, enhancing team collaboration.\nCreated comprehensive documentation and facilitated team collaboration, maintaining a team-oriented approach that promoted knowledge sharing and innovation.\nConducted code reviews and ensured adherence to best practices, fostering a culture of quality and excellence within the engineering team, which contributed to a **15%** improvement in overall code quality metrics.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tC#, .NET, .NET Core, JavaScript, TypeScript, Python\n\n**Backend Frameworks:**\n\tASP.NET, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact.JS, React, Vue, Angular, CSS, AJAX, XML, XSLT\n\n**API Technologies:**\n\tAPIs: REST, APIs: GraphQL, OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, S3, Secrets Manager, ECS, RDS, Azure: App Services, Blob Storage, SQL Database, Azure Keyvault\n\n**Databases:**\n\tRDBMS (SqlServer), RDBMS (Oracle), RDBMS (PostgreSQL), Non-RDBMS (MongoDB), Redis, PostgreSQL (Fintech), MySQL (Healthcare)\n\n**DevOps:**\n\tDocker, Kubernetes, OpenShift, GitHub Actions, GitLab CI/CD, Azure DevOps, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, Microservices, Hashicorp Vault, Monitoring: Dynatrace\n\n**Other:**\n\tUser-oriented approach to software development, Team-oriented, Can-do attitude"
+}

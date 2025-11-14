@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a dynamic Senior DevOps Engineer with 8 years of experience, I excel in cloud environments, particularly **AWS** and **GCP**, leveraging **Terraform** for Infrastructure as Code and utilizing **Docker** and **Kubernetes** for container orchestration to create scalable systems. My proficiency in CI/CD practices enables me to optimize continuous deployment processes, ensuring high availability and efficiency in application delivery. I am skilled in using tools like **Jenkins**, **Ansible**, and **Packer** for automation and configuration management, as well as monitoring solutions including **Graphite**, **Prometheus**, and **Grafana** to ensure system performance and security.\n\nAdditionally, I bring a strong foundation in software development with experience in **Python**, **Node**, and **Ruby**, enabling effective collaboration with development teams for rapid deployment and integration of applications. My background in full-stack development enhances my ability to create robust solutions, and I have successfully implemented cloud-native architectures and 12-Factor applications while adhering to security best practices. I am dedicated to continuous improvement and committed to excellence in delivering high-performance, secure, and compliant systems.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented enterprise-level CI/CD pipelines utilizing **AWS**, **GCP**, **Jenkins**, and **Terraform**, ensuring continuous integration and deployment for web and API services across multi-environment setups.\nDesigned and deployed scalable, cloud-native applications, leveraging **Docker**, **Kubernetes**, and **Ansible** for orchestration and configuration management, achieving high availability with a **99.9%** uptime.\nManaged infrastructure as code (IaC) using **Terraform** to provision and maintain cloud resources systematically across multiple regions, enhancing deployment efficiency by **40%**.\nDeveloped and maintained microservices-based applications in **Python** and **Node.js**, adhering to **12-Factor** principles to optimize scalability and maintainability.\nMonitored system performance using **Prometheus**, **Grafana**, and **Graphite**, implementing alerting mechanisms that reduced system downtime by **30%**.\nAutomated the deployment of applications and infrastructure using **CI/CD** tools, ensuring robust versioning and rollback capability with **Docker** and **Kubernetes**.\nEnhanced cloud security postures by implementing best practices and compliance strategies for **cloud security**, reducing vulnerabilities by **25%**.\nIntegrated effective logging and monitoring solutions, enabling real-time visibility into system performance and security incidents, thereby improving incident response time significantly.\nCollaborated cross-functionally with development and operations teams to foster a DevOps culture, resulting in an overall operational efficiency improvement of **50%** in deployment cycles.\nTrained team members in **Infrastructure as Code** practices using **Bash** and **Ruby**, establishing a standardized process for infrastructure management across the organization."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented **AWS** and **GCP** cloud services to enhance deployment pipelines, improving reliability and efficiency by **30%** in application availability.\nDesigned and managed **Infrastructure as Code** using **Terraform** to streamline the provisioning process of resources, reducing setup time by **40%** for new environments.\nAutomated CI/CD processes using **Jenkins** and **Docker**, facilitating continuous deployment and minimizing downtime during updates by **25%**.\nOrchestrated containerized applications using **Kubernetes**, ensuring scalability and high-availability for critical systems supporting financial transactions.\nUtilized **Ansible** for configuration management in deploying and maintaining system configurations across various environments, enhancing consistency and reducing errors by **15%**.\nDeveloped real-time monitoring and alerting solutions using **Prometheus**, **Grafana**, and **Graphite**, providing insights into system performance and reducing incident response time by **20%**.\nEmployed **Bash** and **Python** scripts for automating routine tasks and managing server operations, improving operational efficiency by **10%**.\nIntegrated **HTTP APIs** for managing system interactions, ensuring secure data exchange between on-premise and cloud environments following **Cloud Security** best practices.\nCollaborated on multi-disciplinary teams to implement the **12-Factor** app principles, optimizing application design for cloud-native environments and improving code maintainability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented **Infrastructure as Code** strategies using **Terraform**, ensuring a reliable and reproducible cloud infrastructure across multiple environments on **AWS** and **GCP**.\nDesigned CI/CD pipelines utilizing **Jenkins**, enabling **Continuous Deployment** and efficient integration of code changes, reducing deployment times by **30%**.\nManaged container orchestration with **Kubernetes** and **Docker**, streamlining application deployment processes and enhancing scalability across production systems.\nConfigured monitoring and logging solutions with **Prometheus**, **Grafana**, and **Graphite**, achieving **99.9%** uptime and real-time system performance insights for troubleshooting.\nAutomated the provisioning of resources using **Ansible** and **Packer**, decreasing manual configurations and minimizing human error in the deployments.\nUtilized **Bash** and **Ruby** scripting for automation of repetitive tasks, improving operational efficiency and reducing downtime for critical applications.\nDeveloped robust security practices for cloud services, ensuring **Cloud Security** compliance, and implementing **role-based access control (RBAC)** and **OAuth 2.0** for API access management.\nOptimized DNS configurations and ensured best practices for **HTTP APIs**, enhancing application responsiveness and load handling for high-traffic scenarios.\nApplied **12-Factor** principles in application development to enhance scalability, portability, and resilience of critical business applications.\nConducted regular security audits and compliance checks for cloud-native applications, ensuring adherence to GDPR and internal governance standards."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Java, JavaScript, TypeScript, Ruby, Bash\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tHTTP APIs\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), GCP\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD, Ansible, Terraform, Packer\n\n**Cloud & Infrastructure:**\n\tCloud Native, Infrastructure as Code, 12-Factor, Cloud Security, CI/CD\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Graphite, Prometheus, Grafana",
+  "apply_company": "Cint"
+}

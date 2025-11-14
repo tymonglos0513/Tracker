@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "DevOps Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Results-driven DevOps Engineer with 10+ years of experience in backend system development and a strong focus on CI/CD practices and cloud infrastructure. Proficient in **Kubernetes**, **Docker**, **Jenkins**, **Azure**, **AWS**, and **Terraform**, ensuring high availability and scalability for applications. Skilled in **Ansible** for configuration management, and monitoring systems using **Zabbix**, **Grafana**, **Graylog**, and **PRTG**. Proven ability to integrate automation tools and manage infrastructure as code, enhancing deployment efficacy. Additionally, experienced in utilizing **Python** (FastAPI, Django, Flask), SQL, and modern version control systems like **Git** and **SVN**. A passionate team player with a history of delivering impactful projects at prestigious organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Docker** and **Kubernetes** for container orchestration to improve deployment efficiencies by **30%**.\nAutomated CI/CD pipelines with **Jenkins** to enhance development workflow, reducing deployment time by **25%**.\nEngineered backend services in **Python** using **FastAPI** to streamline document automation and reporting workflows improving overall processing speed by **20%**.\nDeveloped event-driven solutions with **Celery** and **Redis** to manage asynchronous processing for financial transaction requests with a throughput of **150 transactions/sec**.\nDeployed microservices on **Azure App Services** and utilized **Terraform** to manage infrastructure as code, ensuring seamless cloud operations with **99.9% uptime**.\nCreated and maintained data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, ensuring timely and accurate data flow for over **1,000 reports/month**.\nLed security assessments and integrated **OAuth2** and **Azure AD B2C** for secure, scalable authentication systems, enhancing security by **40%**.\nCollaborated with cross-functional teams to address system integration challenges, ensuring compliance, and overseeing release strategies with a focus on **high availability**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Azure** and **Terraform** for deploying and managing microservices, ensuring consistent and scalable environments in production.\nEmployed **Docker** and **Kubernetes** for containerization and orchestration of applications, leading to a **30%** reduction in deployment time.\nImplemented CI/CD pipelines using **Jenkins** for automated build and deployment processes, improving system integration and reducing human error by **25%**.\nAutomated infrastructure tasks and deployments with **PowerShell** and **Ansible**, enhancing operational efficiency and reducing deployment times to under **5 minutes**.\nDeveloped efficient backend systems in **Python** and **FastAPI** to optimize document workflows and facilitate user onboarding.\nEngineered event-driven microservices with **Celery** and **Redis**, capable of handling complex financial data and transaction requests, ensuring scalable solutions for increased workload.\nCreated secure data pipelines for regulatory compliance using **Apache Airflow** and **Azure Functions**, automating data flow to improve reporting processes.\nConducted thorough security audits and implemented authentication and access control measures using **OAuth2** and **Azure AD B2C**, maintaining compliance with industry security standards.\nCollaborated with cross-functional teams for successful system integration and release management, ensuring timely delivery of services and products."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Docker** and **Kubernetes** for container orchestration and management of applications, streamlining deployment processes by **40%**.\nImplemented CI/CD pipelines using **Jenkins** and **TeamCity** to automate testing and deployment, improving release frequency by **30%**.\nConfigured and managed cloud services on **AWS** and **Azure**, ensuring high availability and scalability of applications in production environments.\nAutomated infrastructure provisioning with **Terraform** and configuration management using **Ansible**, reducing manual intervention by **50%**.\nMonitored system performance with **Zabbix** and **Grafana**, effectively identifying and resolving latency issues to ensure optimal operation.\nDeveloped backend services using **Python**, integrating with databases like **PostgreSQL** and improving data retrieval speeds by **25%**.\nCreated REST APIs and real-time data processing tools utilizing **WebSockets** and **Redis**, facilitating seamless data flow for user interactions across the platform.\nEnsured regulatory compliance including MiFID II and GDPR while implementing internal data security protocols to safeguard sensitive information.\nDesigned comprehensive testing strategies with **PyTest**, enhancing code reliability and reducing incident reports during deployment phases."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, SQL, Bash, JavaScript, C#, Groovy\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, Azure DevOps\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, Jenkins, GitHub Actions, CI/CD, Ansible, Terraform\n\n**Cloud & Infrastructure**\n\tZabbix, Grafana, Graylog, PRTG, TeamCity, Istio, Unix-like, Windows Server\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Git, SVN"
+}

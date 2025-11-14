@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Data Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Data Engineer with 9+ years of experience in developing and optimizing ETL pipelines, leveraging cloud services such as **AWS** for scalable data solutions. Proficient in **Python** for data processing and creating **REST APIs** for seamless integrations. Skilled in **SQL** for querying and managing databases, and experienced with **Kubernetes** for container orchestration and deployment strategies. Adept at continuous integration and deployment practices using **git** to maintain robust code quality. Possess a strong background in data cleaning, web scraping, and sports analytics, combining technical expertise with analytical prowess to deliver actionable insights. Collaborative team player with a proven ability to manage projects effectively, driving them to successful completion while utilizing **Airflow** for workflow orchestration and implementing data science and machine learning techniques.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Developed and maintained **ETL pipelines** using **Apache Airflow** to streamline data processing and transformation, enhancing efficiency by **30%**.\nDesigned and implemented **REST APIs** for data access and integration, ensuring system interoperability and reduced response time by **25%**.\nOptimized **SQL** queries and database designs, resulting in a **20%** improvement in data retrieval speed and performance.\nUtilized **Kubernetes** for container orchestration, improving deployment flexibility and scalability of data-intensive applications.\nIntegrated **AWS** services for cloud storage and computing, enhancing data access and reliability by **15%**.\nEstablished **continuous integration** and **continuous deployment** (CI/CD) processes using **git** to automate testing and deployment, decreasing errors by **40%**.\nConducted data cleaning and preprocessing to ensure data integrity and quality, crucial for **data science** and **machine learning** initiatives.\nApplied **web scraping** techniques to gather sports data for analytics projects, embedding data into predictive models for enhanced insights.\nCollaborated with cross-functional teams to leverage **sports analytics** and **sports betting** data, driving business strategies based on insights derived from data analysis."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Designed and developed efficient **ETL pipelines** and data workflows to enhance **data cleaning** and **web scraping** processes, leading to a 20% increase in data processing speed.\nImplemented and managed **AWS** services for data storage and retrieval, optimizing cloud resource usage by 35%.\nCreated and managed **REST APIs** to ensure seamless integration between front-end applications and databases, ensuring real-time data access for analytics.\nUtilized **Python** for data manipulation and **SQL** for querying databases, achieving a 40% reduction in data retrieval time.\nLeveraged **Kubernetes** for deploying scalable applications, which improved system reliability and facilitated continuous integration and deployment.\nDeveloped and maintained data pipelines using **Apache Airflow**, enabling efficient scheduling and monitoring of workflows.\nConducted sports analytics projects utilizing **machine learning** techniques, improving prediction accuracy by 25%.\nCollaborated with data scientists to implement data models and supported various data science initiatives within the organization.\nPerformed code reviews and provided mentorship to junior data engineers, enhancing team collaboration and technical skills.\nMaintained version control using **git** to streamline code management and deployment processes."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Utilized **Python** and **SQL** to develop ETL pipelines, ensuring efficient data cleaning and transformation for accurate analytics.\nDesigned and implemented **REST APIs** to streamline data access between various systems, facilitating seamless integration and data sharing.\nManaged and orchestrated workflows using **Airflow**, improving the reliability of data processing tasks and decreasing failures by **15%**.\nDeployed containerized applications with **Kubernetes**, enhancing scalability and resource utilization across cloud environments like **AWS**.\nExecuted **web scraping** techniques to gather sports data, contributing to comprehensive **sports analytics** solutions for data-driven decision making.\nCollaborated in a **continuous integration** and **continuous deployment** (CI/CD) pipeline environment using **git**, ensuring stable releases and rapid iteration cycles.\nApplied **machine learning** algorithms to generate predictive models, which improved stakeholder insights into **sports betting** dynamics.\nProvided technical documentation and support for data processes, enhancing knowledge transfer and operational efficiency within the team.\nParticipated in code reviews to maintain high coding standards and foster team collaboration during daily standups, ensuring project alignment."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks**\n\tNodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n\n**Frontend Frameworks**\n\tHTML, CSS, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n**API Technologies**\n\tRESTful API, REST APIs, GraphQL\n\n**Serverless and Cloud Functions**\n\tAWS, Azure, CI/CD pipelines, Kubernetes\n\n**Databases**\n\tMSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB, SQL\n\n**DevOps**\n\tcontinuous integration, continuous deployment, git, GitHub\n\n**Cloud & Infrastructure**\n\tAirflow\n\n**Other**\n\tMessaging & Caching: Apache Kafka, RabbitMQ, Redis, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Blockchain: Solidity, Ether.js, Web3.js, Ethereum, UX/UI Design, web scraping, data cleaning, data science, machine learning, sports analytics, sports betting"
+}

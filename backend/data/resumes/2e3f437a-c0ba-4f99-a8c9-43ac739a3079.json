@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Python Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Python Engineer with 10+ years of experience delivering high-performance software solutions, particularly in the healthcare and finance sectors. Expert in **Python**, **Django**, **SQL**, and proficient in cloud services such as **AWS**. Demonstrates strong capabilities in **CI/CD** practices using **Git** and has hands-on experience with **Kubernetes** for container orchestration. Skilled in creating robust APIs using **REST** and **GraphQL**, following design principles like SOLID, DRY, and KISS to ensure maintainable code. Deep understanding of ORM implementations and committed to Test Automation, Code Reviews, and Technical Debt management.\n\nPossesses a solid track record of building and deploying cloud-native applications, with experience in microservices architecture and event-driven systems. Brings a wealth of expertise in leading projects that integrate AI/ML features for real-time analytics and automation. Passionate about writing secure, compliant solutions (HIPAA, FHIR, PCI DSS, SOC 2) and adept at Risk Mitigation and effective Communication to drive project success and collaboration.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Leveraged **Python** and **Django** to design and implement scalable, full-stack solutions for the healthcare and finance sectors, ensuring adherence to industry regulations such as HIPAA and GDPR.\n• Developed robust database solutions using **SQL** with **PostgreSQL** and **MongoDB**, optimizing data models for large-scale ingestion and querying in compliance with organizational standards.\n• Implemented **REST**ful APIs and **GraphQL** services to enhance data access and interaction between frontend applications and backend systems, facilitating robust communication.\n• Utilized **AWS** services to deploy applications in a cloud-native environment, ensuring high availability and performance through **Kubernetes** orchestration and service management.\n• Established CI/CD pipelines using **Git**, allowing for seamless integration and delivery of code changes in both development and production environments.\n• Executed thorough test automation strategies using tools such as **Jest**, **Cypress**, and **PyTest**, ensuring high-quality code through unit, integration, and end-to-end testing methodologies.\n• Engaged in code reviews to uphold best practices aligned with **SOLID**, **DRY**, and **KISS** principles, leading to improved code quality and reduced technical debt.\n• Employed design patterns and principles such as **Inversion of Control (IoC)** to enhance code modularity and maintainability in applications.\n• Collaborated with cross-functional teams to discuss risk mitigation strategies and promote effective communication throughout the software development lifecycle.\n• Provided mentorship to junior engineers, sharing knowledge on technical debt management, design patterns, and best engineering practices to foster a culture of continuous improvement."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Django** to design and implement scalable backend systems, ensuring adherence to **SOLID**, **DRY**, and **KISS** principles in a high-transaction environment, processing over **100,000** transactions per day.\nDeveloped efficient data models and complex **SQL** queries to enhance data retrieval and management, leading to a reduction in query execution time by **30%**.\nImplemented and maintained **CI/CD** pipelines using **Git** and automated testing frameworks, streamlining the deployment process and reducing release time by **25%**.\nDesigned and implemented RESTful APIs and **GraphQL** services to facilitate seamless communication between front-end applications and backend services, ensuring high performance and security.\nCollaborated closely with cross-functional teams to mitigate technical debt, mitigate risks, and enhance overall software quality, promoting effective communication and documentation practices.\nConducted regular **code reviews** and established best practice guidelines within the team, improving code quality and fostering a culture of continuous improvement.\nParticipated in the design and architecture of containerized applications on **Kubernetes** for scalability and maintainability, resulting in a robust deployment structure for production environments.\nTrained and mentored junior developers on **orm** techniques and test automation strategies, enhancing team expertise and productivity."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** with frameworks like **Django** and **FastAPI** to design and optimize backend services for a global e-commerce platform, achieving high availability, low latency, and scalability across **9** key modules, including checkout and order fulfillment.\nEmployed **SQL** for data management, ensuring efficient database interactions and optimal performance in high-traffic situations.\nImplemented **CI/CD** practices to streamline development and deployment processes, improving integration times and collaboration within the team.\nLeveraged **AWS** infrastructure to enhance application reliability, utilizing services like **S3** and **EC2** for scalable resource management.\nOrchestrated containerized services using **Kubernetes**, facilitating seamless deployment and management across different environments.\nIntegrated **GraphQL** and **REST** APIs, enhancing data retrieval efficiency and simplifying client-server interactions.\nApplied design principles such as **SOLID**, **DRY**, and **KISS**, ensuring maintainable code and best practices in software development.\nConducted thorough **Code Review** sessions to promote high coding standards and ensure effective knowledge sharing among team members.\nEmployed automated testing and **Test Automation** strategies to ensure code quality and prevent regressions, increasing overall product reliability by **30%**.\nFacilitated effective communication within cross-functional teams, aiding in collaborative project planning and timely execution.\nAddressed **Technical Debt** regularly and devised strategies for **Risk Mitigation**, ensuring the platform's ongoing health and adaptability.\n"
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython\n\n**Backend Frameworks:**\n\tDjango\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tREST\n\tGraphQL\n\n**Serverless and Cloud Functions:**\n\tAWS\n\tKubernetes\n\n**Databases:**\n\tSQL\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\n**DevOps:**\n\tDocker\n\tGitHub Actions\n\tGitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3)\n\tAzure (App Services, Blob, SQL)\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n**Other:**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tKeycloak (OIDC, RBAC)\n\tJWT\n\tOAuth2\n\tLet’s Encrypt\n\tNginx\n\tCertbot\n\tRedis\n\tCI/CD\n\tORM\n\tTest Automation\n\tCode Review\n\tDesign Patterns\n\tSOLID\n\tDRY\n\tKISS\n\tIoC\n\tTechnical Debt\n\tRisk Mitigation\n\tCommunication",
+  "apply_company": "Portside, Inc."
+}

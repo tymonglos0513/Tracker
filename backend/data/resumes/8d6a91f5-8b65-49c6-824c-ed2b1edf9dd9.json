@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Backend Engineer with 13+ years of experience in developing robust backend systems utilizing **PHP**, **Symfony**, **Laravel**, **Go**, and relational databases like **MySQL** and **PostgreSQL**. Demonstrated expertise in **REST API** design, **microservices** architecture, and implementing **CI/CD** practices using **Docker** and **Kubernetes** for seamless deployment and scaling of applications. Proficient in message queuing platforms such as **RabbitMQ**, **Apache Kafka**, and **Amazon SQS** to enhance system reliability and performance.\nSkilled in cloud services deployment on **AWS** and capable of optimizing cache solutions with **AWS Elastiсache**. Strong advocate of **SOLID principles**, **Clean Architecture**, and Domain-Driven Design (DDD) methodologies, ensuring maintainability and scalability of code bases. Excellent communication and collaboration skills, complemented by a problem-solving mindset, to effectively deliver high-quality technical solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained backend systems using **PHP** frameworks like **Symfony** and **Laravel**, ensuring robust and scalable architecture aligned with **SOLID principles** and **Clean Architecture**.\nImplemented microservices architecture to improve system reliability and scalability, leveraging **Docker** and **Kubernetes** (**1.21**) for container orchestration, enabling seamless deployment workflows.\nDesigned and optimized relational database schemas and queries using **MySQL** and **PostgreSQL**, achieving an **80%** reduction in query response times through efficient indexing and optimization techniques.\nManaged real-time data processing using **RabbitMQ** and **Apache Kafka**, ensuring asynchronous communication and reliability across distributed systems, handling **100,000+** messages per day.\nCreated CI/CD pipelines utilizing **GitHub Actions** and **CircleCI**, implementing automated testing and deployment strategies that decreased deployment times by **50%**.\nCollaborated with frontend teams to integrate **REST APIs** and improve internal documentation using **PlantUML** and **Mermaid**, enhancing team productivity and communication.\nImplemented advanced caching strategies using **AWS Elastiсache** and **Redis**, significantly improving application performance and reducing database load by **30%**.\nDeveloped unit and integration tests using **PHPUnit** to ensure code quality and stability, achieving coverage of over **90%** across critical application components.\nIntegrated search functionalities utilizing **Elasticsearch** and **OpenSearch** to enhance data retrieval capabilities across various applications.\nParticipated in agile project management and collaborated extensively with cross-functional teams to solve complex backend challenges, fostering a culture of communication and problem-solving."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented microservices architecture using **Go** and **PHP** frameworks like **Symfony** and **Laravel**, enhancing system scalability and maintainability for backend services.\nDeveloped and maintained REST APIs in accordance with **SOLID principles**, ensuring high-quality, easily testable code that adheres to industry standards.\nUtilized **MySQL** and **PostgreSQL** for efficient data management, achieving a **30%** improvement in query response times through optimized database structures and indexing.\nImplemented CI/CD pipelines using **Docker** and **Kubernetes**, automating deployments to achieve a **50%** reduction in release times and minimizing downtime.\nUtilized asynchronous messaging with **RabbitMQ** and **Apache Kafka** for event-driven architectures, facilitating real-time data processing across multiple services with **99.9%** uptime.\nOptimized caching strategies with **Redis** and **AWS Elastiсache** to increase application performance, resulting in a **25%** reduction in load times for high-traffic applications.\nCollaborated across teams to integrate **AWS** cloud services, ensuring robust and scalable backend solutions that support a growing user base.\nDeveloped comprehensive documentation and architectural diagrams using **PlantUML** and **Mermaid** to promote knowledge sharing and effective communication among team members.\nLeveraged problem-solving and collaboration skills to address technical challenges in delivering reliable backend systems that align with business needs."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and maintained robust backend services using **PHP** frameworks like **Symfony** and **Laravel**, ensuring adherence to **SOLID principles** and delivering high-quality, maintainable code.\nEngineered microservices architectures with **Docker** and **Kubernetes**, streamlining application deployment and scalability for high-demand applications, achieving a **95% uptime** record.\nImplemented REST APIs and integrated with **RabbitMQ** and **Apache Kafka** to enable efficient real-time data processing and communication between services, reducing latency to under **50ms** for critical operations.\nUtilized databases such as **MySQL**, **PostgreSQL**, and **Redis** for efficient data management, ensuring high performance and reliability in handling over **10,000 concurrent requests** during peak loads.\nEmployed **AWS Elasticache** for caching frequently accessed data, significantly improving application responsiveness and reducing load times by up to **70%**.\nDesigned CI/CD pipelines to automate testing and deployment processes using tools like **GitLab CI**, ensuring rapid delivery of features while maintaining code quality through **PHPUnit** testing.\nApplied essential architectural practices like **Clean Architecture** and **DDD** to enhance code organization and facilitate easier collaboration among team members.\nCreated comprehensive documentation using **PlantUML** and **Mermaid** to convey system designs and workflows to stakeholders, promoting better communication.\nEngaged in continuous collaboration with cross-functional teams to identify and resolve complex problems, leading to a **30% increase** in team efficiency.\nContributed to strategy development and implementation of **cloud services**, facilitating migrations and optimizations in various environments to improve overall performance."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPHP, Go, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tSymfony, Laravel, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tREST API, RabbitMQ, Apache Kafka, Amazon SQS\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3, AWS Elastiсache\n\n**Databases:**\n\tMySQL, PostgreSQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tLinux, CI/CD, Terraform, Ansible, Helm, Istio, Elasticsearch, OpenSearch, Apache Solr, SOLID principles, PHPUnit, microservices, Clean Architecture, DDD, PlantUML, Mermaid, communication, collaboration, problem-solving"
+}

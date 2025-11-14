@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Full Stack Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Senior Full Stack Engineer with 10+ years of experience specializing in building and deploying robust, scalable, and secure software solutions. Proficient in **React**, **TypeScript**, **CI/CD**, **AWS**, **Git**, and **SQL**, with extensive knowledge of **microservices**, **asynchronous architectures**, and cloud-native application design. Skilled in Agile methodologies, TDD, and BDD, ensuring high-quality code through rigorous testing practices. Experienced in leveraging **AI/ML** technologies and implementing **micro-frontends** for enhanced user experiences. Strong command over **Unix/Linux**, **Kubernetes**, and **Docker**, enabling streamlined deployment and management of applications.\n\nDemonstrated expertise in leading enterprise-level projects in healthcare and finance sectors, focusing on compliance with standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Adept at utilizing design patterns and SOLID principles to create maintainable codebases. Passionate about driving technology innovation that delivers real-world value.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Full Stack Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable microservices-oriented solutions for healthcare and finance using **React** and **TypeScript**, ensuring adherence to regulatory standards like HIPAA and GDPR.\n• Built and deployed CI/CD workflows using **Git**, facilitating seamless integrations and deployments across **AWS**, and leveraging **Kubernetes** and **Docker** for container orchestration and management.\n• Developed robust, asynchronous architectures with **Kotlin**, enabling high performance and responsiveness in client-facing applications.\n• Established TDD and BDD practices for unit, integration, and end-to-end testing using frameworks such as **Jest** and **Cypress**, improving code quality and reducing errors by **30%**.\n• Created cloud-native data solutions using **SQL** and optimized for high-availability and fault-tolerance while adhering to **SOLID principles** and design patterns for maintainable code.\n• Integrated AI/ML capabilities into applications, employing Python libraries such as **scikit-learn** and **TensorFlow** for predictive analytics, resulting in a **15%** increase in user engagement through personalized features.\n• Collaborated in Agile teams to deliver features on-time and effectively integrate user feedback, enhancing customer satisfaction metrics by **25%**.\n• Delivered detailed RESTful APIs that effectively communicate with both front-end and back-end components of the applications, ensuring smooth data flow and interaction.\n• Utilized version control effectively with **Git**, maintaining a clean commit history while managing collaboration with a team of **5+** developers, enforcing coding standards and best practices.\n• Continuous improvement of application performance through monitoring and optimization of existing features, leading to a **20%** reduction in load times and increased user satisfaction."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained dynamic, user-focused front-end applications utilizing **React (18)** and **TypeScript**, ensuring robust and responsive interfaces for financial dashboards and admin portals.\n• Designed and implemented CI/CD pipelines, leveraging **Git** for version control and **Docker** for containerization, streamlining the deployment processes and increasing delivery speed by **30%**.\n• Led the architecture and development of microservices with **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, enhancing system scalability and throughput for high-volume transaction processing.\n• Integrated asynchronous architectures using **Kafka**, **RabbitMQ**, and **Azure Service Bus** to facilitate real-time event processing, improving response times for transaction alerts and compliance workflows by **40%**.\n• Established testing frameworks based on TDD and BDD principles, improving code coverage to **85%** and enhancing the reliability of the financial systems.\n• Developed real-time transaction monitoring and analytics dashboards incorporating **D3.js** and **Power BI Embedded**, enabling teams to identify anomalies and generate actionable insights in a timely manner.\n• Executed ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory**, ensuring accurate ingestion of financial data from multiple sources with a processing time reduced by **50%**.\n• Implemented AI/ML algorithms for fraud detection using **scikit-learn** and **XGBoost**, deploying models in production to analyze transaction patterns and proactively flag suspicious activities.\n• Created Machine Learning pipelines for credit scoring and transaction classification, utilizing **MLflow** and **Airflow**, enabling real-time decision-making and increasing model inference speed.\n• Collaborated in Agile teams, applying design patterns and SOLID principles to enhance maintainability and clarity of the codebase, supporting a rapid development cycle."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "• Utilized **React** (18), **TypeScript**, and **Kotlin** to develop and optimize full-stack applications, ensuring maintainable code and adherence to **SOLID principles**.\n• Employed **CI/CD** practices with **Git** and **Docker** to automate deployment processes and streamline version control.\n• Designed and implemented RESTful APIs following asynchronous architectures to ensure high responsiveness and scalability of services.\n• Leveraged cloud platforms like **AWS** for hosting applications, optimizing resource management, and enhancing performance in a microservices environment.\n• Developed and maintained SQL and NoSQL databases, ensuring efficient data storage and retrieval, while implementing best practices for data integrity.\n• Implemented **TDD** and **BDD** methodologies for robust testing, leading to a **30%** reduction in production bugs and a more stable application.\n• Architected responsive micro-frontends to improve application modularity and facilitate faster deployment cycles, enhancing user engagement by **25%**.\n• Applied Agile methodologies in cross-functional teams to adapt quickly to changing requirements and ensure timely delivery of features.\n• Integrated AI/ML models for personalized user experiences, significantly improving conversion rates based on real-time analytics.\n• Championed the adoption of **Kubernetes** for orchestrating containerized applications, achieving a **40%** increase in deployment efficiency.\n• Ensured application security through role-based access control (RBAC) and **OAuth 2.0**, maintaining compliance with GDPR standards."
+    }
+  ],
+  "skills": "Python, Kotlin, JavaScript, TypeScript, FastAPI, Flask, Django, React, Vue, Angular, REST, AWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), PostgreSQL, MySQL, MongoDB, SQL, Redis, Docker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose, Git, Unix/Linux, Artificial Intelligence, Machine Learning, AI/ML, MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, asynchronous architectures, microservices, micro-frontends, TDD, BDD, testing, Agile, design patterns, SOLID principles"
+}

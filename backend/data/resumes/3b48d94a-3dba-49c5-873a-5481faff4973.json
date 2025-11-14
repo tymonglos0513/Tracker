@@ -1,0 +1,47 @@
+{
+  "name": "Sebastian Lukasz Nowak",
+  "role_name": "Senior Data Engineer",
+  "email": "sebastiannowak425@outlook.com",
+  "phone": "+48 732 489 778",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/sebastian-nowak-756157396/",
+  "profile_summary": "As a Senior Data Engineer with 8 years of experience, I bring extensive expertise in **AWS**, **Python**, and **CI/CD** processes, ensuring robust and scalable solutions for data-driven applications. I specialize in utilizing **Spark** for big data processing and have a solid foundation in **SQL** for efficient data management and querying.\nIn my previous roles, I have developed infrastructure-as-code strategies to streamline deployment and enhance system reliability. My proficiency in monitoring and logging tools ensures that applications maintain optimal performance while adhering to best practices in data contracts and compliance.\nAdditionally, my experience with **Scala** complements my skill set, allowing me to tackle diverse data challenges effectively. I possess strong communication skills and a sense of ownership, which drives successful collaboration and project delivery. I have also leveraged machine learning pipelines in production environments, incorporating technologies such as **MLflow** and **Airflow**, to deliver intelligent solutions that meet and exceed business objectives.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "",
+      "from_year": "2001",
+      "to_year": "2006",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "DeepInspire",
+      "from_date": "Oct 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** and **SQL** to design and maintain scalable data architectures that optimized for large-scale data ingestion, storage, and querying, ensuring high performance and efficiency.\nEngineered **CI/CD** pipelines for data workflows utilizing tools such as Jenkins and GitHub Actions, automating deployment and monitoring processes to enhance productivity and reliability across environments.\nImplemented monitoring and logging frameworks to support data pipeline health checks and alerts, improving system uptime and data integrity.\nCollaborated effectively with cross-functional teams to establish data contracts, ensuring clear communication and ownership of data quality standards across all projects.\nDeveloped data processing systems leveraging **Python** and **Scala**, enabling efficient batch and stream processing of healthcare and financial datasets.\nCreated data ingestion frameworks using Apache Spark, enhancing data transformation and analytics capabilities across multiple platforms while reducing processing time by **30%**.\nArchitected and deployed infrastructure-as-code strategies for data environments, utilizing **Terraform** and **CloudFormation**, to standardize provisioning and configuration management.\nEstablished robust testing strategies for data pipeline functionality, employing **unit tests**, **integration tests**, and end-to-end validations to ensure data consistency and accuracy.\nConducted in-depth performance tuning and optimization for existing data processes, achieving a **20%** improvement in overall system performance metrics.\nMentored junior engineers on best practices for data engineering and pipeline management, fostering a culture of learning and knowledge sharing within the team."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Britenet",
+      "from_date": "Sep 2015",
+      "to_date": "Sep 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS** and **SQL** to establish a robust cloud-based data architecture, ensuring efficient storage and retrieval of financial data while maintaining best practices for data management.\nEmployed **Python** for data transformations and analytics, leveraging **Spark** for big data processing to enhance performance and scalability across financial systems.\nImplemented **CI/CD** pipelines for data workflows, streamlining the development and deployment processes, resulting in a reduction of deployment time by **30%**.\nDeveloped Infrastructure-as-Code solutions for data infrastructure using tools like **Terraform**, ensuring consistent and repeatable deployments across environments.\nMonitored and logged data pipelines and systems using **CloudWatch** and **ELK Stack**, ensuring system reliability and performance, with uptime maintained above **99.9%**.\nFostered clear communication with cross-functional teams and stakeholders to manage project ownership, ensuring alignment on data strategy and deliverables.\nConducted regular reviews of data contracts to maintain data quality and compliance, ensuring alignment with business objectives and regulatory requirements.\nManaged data governance frameworks to define data ownership and accountability, facilitating smoother data usage across departments while improving data literacy by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Binary Studio",
+      "from_date": "Jan 2007",
+      "to_date": "Aug 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **SQL** to design and maintain ETL processes for data extraction, transformation, and loading, ensuring efficient data pipelines for analytics and reporting.\nImplemented data processing and analysis using **Spark** and **Scala**, processing over **10TB** of data daily while optimizing performance and resource allocation.\nLeveraged **AWS** services such as **S3**, **Lambda**, and **Redshift** for scalable data storage, computation, and analytics, achieving a **25%** reduction in query times.\nDeveloped and executed CI/CD pipelines to automate the deployment of data applications, enhancing delivery frequency by **40%** and minimizing downtime during updates.\nEstablished and enforced Data Contracts to ensure data quality and integrity across data sources, improving team collaboration and communication by **30%**.\nDesigned and implemented monitoring and logging solutions using tools like **CloudWatch** and **ELK Stack**, providing real-time insights and alerts on data processing workflows.\nFostered a culture of ownership within the data team by leading code reviews and mentoring junior engineers on best practices in data engineering and architecture.\nMaintained comprehensive documentation for data models, pipelines, and workflows, ensuring transparency and knowledge transfer across the team and stakeholders."
+    }
+  ],
+  "skills": " **Programming Languages** \n\tPython, Scala \n\n **Backend Frameworks** \n\tFastAPI, Flask, Django \n\n **Frontend Frameworks** \n\tJavaScript/TypeScript (React, Vue, Angular) \n\n **API Technologies** \n\tJWT, OAuth2, Keycloak (OIDC, RBAC) \n\n **Serverless and Cloud Functions** \n\tAWS (Lambda, ECS), Azure (App Services) \n\n **Databases** \n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL \n\n **DevOps** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose \n\n **Cloud & Infrastructure** \n\tAWS (RDS, S3), Azure (Blob, SQL) \n\n **Other** \n\tArtificial Intelligence & Machine Learning (MLflow, Airflow, Kubeflow), Monitoring, Logging, Data Contracts, Communication, Ownership, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Finanzguru"
+}

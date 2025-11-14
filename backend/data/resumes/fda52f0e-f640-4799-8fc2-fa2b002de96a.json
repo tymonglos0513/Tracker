@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Engineer III (Senior)",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Results-driven Full Stack Developer with 13+ years of experience in delivering high-performance applications across diverse industries, particularly healthcare and finance. Proficient in **AWS**, **Serverless**, **CDK**, **Node.js**, **JavaScript**, **TypeScript**, **React**, and experienced in database management with **Postgres** and **DynamoDB**. Hands-on expertise in developing cloud-native solutions utilizing **CloudFormation**, **Lambda**, **API Gateway**, **Step Functions**, **EventBridge**, and **S3**. \nDeep understanding of infrastructure as code, implementing **GitHub Actions** for CI/CD practices, and employing **CloudWatch** for monitoring deployments. Skilled in Agile methodologies, fostering strong teamwork, interpersonal communication, and alignment with compliance standards, including HIPAA and PCI DSS. Additionally, I have a solid foundation in Object-Oriented Programming and design patterns, with experience in testing frameworks like **Jest** and **Playwright**. Proven ability to develop innovative AI/ML-driven systems that enhance predictive analytics and real-time functionality.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer III (Senior)",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** services including **Lambda**, **API Gateway**, **DynamoDB**, and **CloudFormation** to design and build full-stack platforms in compliance with stringent regulations such as HIPAA and GDPR.\nDeveloped high-performance applications using **Node.js**, **TypeScript**, and **React** (17–18), alongside modern design patterns for scalable and maintainable code.\nEngineered CI/CD pipelines leveraging **GitHub Actions** and **CloudFormation**, ensuring automation for tests, deployment, and monitoring with **CloudWatch**.\nImplemented **Infrastructure as Code** practices using **AWS CDK** for streamlined deployment processes, increasing efficiency by **30%** in project execution.\nOptimized database solutions with **PostgreSQL**, enabling complex queries and real-time analytics for critical business insights, resulting in improved data retrieval speeds by **40%**.\nCollaborated with cross-functional teams emphasizing communication and interpersonal skills to drive Agile development practices and deliver quality software on schedule.\nDesigned and integrated secure APIs to facilitate seamless data exchange across platforms, enhancing user interactions by implementing best practices in **Object-Oriented programming**.\nCreated robust testing strategies utilizing **Jest** and **Playwright**, achieving a **95%** code coverage and ensuring software reliability and performance consistency across environments.\nFostered teamwork by mentoring junior developers and leading design discussions, which resulted in a **25%** reduction in integration issues during sprints.\nApplied best practices in cloud architecture by leveraging **AWS Cognito** for secure user authentication and **S3** for scalable storage solutions, improving user data management and accessibility."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS** services such as **Lambda**, **API Gateway**, and **DynamoDB** to create serverless applications that improve development efficiency and reduce operational costs by **30%**.\nImplemented microservices architecture in **Node.js (Express)** and **TypeScript**, improving application scalability and reducing deployment times by **40%**.\nDeveloped and maintained web applications with **React (18)** and **Redux Toolkit**, achieving a **25%** improvement in user engagement through enhanced UI responsiveness and functionality.\nIntegrated testing frameworks like **Jest** and **Playwright** to ensure code quality and reliability, leading to a **50%** decrease in bug-related production issues.\nEmployed **CloudFormation** and **CDK** for Infrastructure as Code (IaC), automating the deployment process and minimizing manual configuration errors, resulting in a **30%** reduction in deployment time.\nCollaborated with cross-functional teams, demonstrating strong **interpersonal skills** and **teamwork**, facilitating effective communication to deliver software solutions aligned with business objectives.\nDesigned and deployed event-driven systems using **AWS EventBridge** and **Step Functions**, improving workflow efficiencies for critical applications by **20%**.\nMaintained high code quality and best practices through Agile methodologies, fostering continuous integration and delivery pipelines via **GitHub Actions** and maintaining version control best practices.\nManaged sensitive data with **KMS** and **Secrets Manager**, ensuring compliance with security standards and safeguarding user information effectively."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend services for a global e-commerce platform utilizing **AWS** technologies including **Lambda**, **API Gateway**, and **DynamoDB**, ensuring high availability, low latency, and scalability across crucial modules like checkout, cart, and order fulfillment.\nEngineered real-time features using **NodeJS** and event-driven architecture powered by **EventBridge** and **AWS Step Functions**, enabling responsive order updates, dynamic inventory tracking, and real-time customer support.\nDeveloped frontend applications using **React** (v18) and **TypeScript**, leveraging **GitHub** for version control and **GitHub Actions** for CI/CD, delivering fast, responsive user experiences on both web and mobile platforms.\nUtilized **Postgres** for distributed data storage, ensuring fast, fault-tolerant data access for high-traffic e-commerce workflows and applying **Infrastructure as Code** principles to manage cloud resources effectively.\nIntegrated AI/ML-based recommendation engines while collaborating with cross-functional teams, improving conversion rates by analyzing real-time behavioral data.\nImplemented **CloudFormation** for resource provisioning and management, enhancing deployment speed and reliability, and ensuring seamless updates across multiple environments.\nAdopted **Agile** methodologies for project management and fostered teamwork through clear communication and effective collaboration with stakeholders.\nCreated responsive, SEO-friendly e-commerce UIs using **Next.js** and enhanced with HTML5/CSS3 for accessible design, optimized for mobile-first engagement.\nBuilt secure payment workflows integrated with **Stripe**, applying tokenized transactions and ensuring PCI compliance for sensitive data handling. \nApplied role-based access control (RBAC) and **Cognito** for secure customer and admin access, ensuring GDPR compliance and user data protection throughout the platform."
+    }
+  ],
+  "skills": "Programming Languages:\n\tJavaScript, TypeScript\n\n**Backend Frameworks:**\n\tNodeJS\n\n**Frontend Frameworks:**\n\tReact\n\n**API Technologies:**\n\tAPI Gateway, Cognito\n\n**Serverless and Cloud Functions:**\n\tAWS, Lambda, Step Functions, EventBridge, Serverless\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, S3, CloudFormation, CloudWatch, Secrets Manager, KMS, CloudFront\n\n**Databases:**\n\tPostgres, DynamoDB\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Infrastructure as Code, CI/CD & Ansible, Terraform, Helm, Docker Compose\n\n**Other:**\n\tAgile, Object-Oriented programming, design patterns, interpersonal skills, teamwork, communication"
+}

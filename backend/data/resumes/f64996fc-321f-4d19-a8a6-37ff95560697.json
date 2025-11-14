@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Python Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Python Engineer with 13+ years of expertise in developing scalable applications with a strong focus on **Python**, **FastAPI**, **Docker**, **Kubernetes**, and **RESTful API**. Demonstrated proficiency in deploying cloud solutions on **AWS**, **Azure**, and **Google Cloud**, ensuring high availability and performance. Solid understanding of asynchronous programming with **Asyncio**, and managing databases with **PostgreSQL**. Skilled in messaging systems like **RabbitMQ** and caching solutions using **Redis**.\nProficient in implementing monitoring and observability tools, including **Prometheus**, **Grafana**, **ELK**, and **Loki**. Proven ability to create AI/ML-powered applications with experience in building platforms for predictive analytics and real-time processing. Committed to compliance-driven development, aligning projects with standards such as HIPAA and PCI DSS. A well-rounded developer experienced in both frontend and backend frameworks like **React**, **Next.js**, **Vue**, **Node.js**, and **Django**, as well as CI/CD methodologies.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed robust applications using **Python** with frameworks like **FastAPI** and integrated **Docker** and **Kubernetes** for efficient container management and orchestration in cloud environments such as **AWS** and **Azure**.\n- Designed RESTful APIs following asynchronous frameworks, ensuring scalable solutions and optimal performance across multiple environments.\n- Managed database systems including **PostgreSQL** and **Redis**, providing reliable data persistence and caching mechanisms for high-throughput applications.\n- Implemented CI/CD practices with tools such as GitHub Actions and integrated **OpenStack** for orchestrating cloud resources, significantly reducing deployment times by **30%**.\n- Enhanced application reliability and performance metrics utilizing monitoring tools like **Prometheus** and **Grafana**, tracking system health and key performance indicators.\n- Engineered data processing and messaging systems using **RabbitMQ** to facilitate real-time data handling and communication within distributed applications.\n- Developed microservices that are compliant with industry standards, implementing solutions that support high availability and disaster recovery strategies, achieving a **99.9%** uptime.\n- Leveraged cloud services including **Google Cloud** and **Azure** for deploying scalable applications while managing costs and optimizing resource utilization across platforms.\n- Collaborated with cross-functional teams to integrate logging and monitoring solutions via **ELK** stack, ensuring effective troubleshooting and performance tuning in development and production environments.\n- Architected robust testing frameworks using tools suitable for various application layers, contributing to a **50%** reduction in bug counts through proactive testing strategies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Developed scalable applications using **Python** (FastAPI, Django) adhering to **RESTful API** principles, significantly improving performance metrics by **50%**.\n• Utilized **Docker** and **Kubernetes** for containerization and orchestration, enhancing deployment efficiency across multiple environments by reducing setup time by **30%**.\n• Migrated core systems to a microservices architecture, integrating with **PostgreSQL** for robust data storage and retrieval capabilities, which improved transaction handling capacity by **40%**.\n• Implemented asynchronous programming with **Asyncio** for handling I/O-bound tasks, optimizing application responsiveness during peak loads.\n• Engineered event-driven solutions with **RabbitMQ** and integrated third-party services to support real-time communication for payment processing notifications.\n• Enhanced cloud infrastructure on **AWS** and **Azure**, leveraging services for scalable applications and maintaining uptime above **99.9%**.\n• Leveraged **Grafana** and **Prometheus** for monitoring system performance, enabling proactive issue resolution and increasing overall system reliability.\n• Created and optimized data pipelines for ingestion and processing of financial data, utilizing **Apache Airflow** and facilitating better data analysis and reporting.\n• Collaborated in a cross-functional environment, ensuring synchronization between development and operations teams, thereby accelerating project delivery timelines by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** (FastAPI) to design and optimize backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nImplemented **RESTful API** architecture to facilitate seamless communication between frontend and backend systems, enhancing overall system efficiency.\nPioneered containerization practices using **Docker** and orchestrated deployments within **Kubernetes** for improved application scalability and deployment consistency.\nLeveraged **PostgreSQL** for distributed data storage, ensuring fast, fault-tolerant access for high-traffic e-commerce workflows while caching frequently accessed resources with **Redis**.\nEngineered real-time features using **RabbitMQ** and event-driven architecture, enabling responsive order updates and dynamic inventory tracking, thus improving operational efficiency significantly.\nDeveloped robust CI/CD pipelines on cloud services including **AWS** and **Azure**, ensuring scalable, fault-tolerant deployments with real-time monitoring capabilities via **Prometheus** and **Grafana**.\nIntegrated logging and monitoring solutions using **ELK** stack and **Loki** to ensure application health and performance, allowing for proactive issue identification and resolution.\nFocused on API performance tuning and security practices; implemented role-based access control (RBAC) and OAuth 2.0 for secure customer and admin access, ensuring compliance with GDPR regulations.\nAchieved a **30%** reduction in load times through efficient caching and responsive UI designs, ensuring compliance with accessibility standards (WCAG 2.1).\nFacilitated team collaboration and knowledge sharing through thorough documentation and code reviews, fostering an environment of continuous improvement and innovation in coding practices."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tRESTful API\n\n**Serverless and Cloud Functions:**\n\tAWS, Azure\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tOpenStack, Google Cloud, ELK, Loki, Prometheus, Grafana\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Asyncio, Authentication & Security (Keycloak, OAuth2, JWT), Nginx, Let’s Encrypt, Certbot, CI/CD & Infrastructure as Code (Terraform, Ansible, Helm, Docker Compose)",
+  "apply_company": "Gcore"
+}

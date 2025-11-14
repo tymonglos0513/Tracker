@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Backend Engineer with 13+ years of experience specializing in **Node.js**, **TypeScript**, and **Python**. Proficient in designing and implementing **microservices**, **APIs**, and **distributed systems** that maximize performance and observability. Hands-on expertise in developing **gRPC** and **REST** services, along with experience in integration with **Kafka** and **PostgreSQL**. \nDedicated to building scalable and efficient backend architectures with a strong focus on serverless solutions and performance optimization. Effective in technical communication and mentoring team members to elevate project outcomes. Proven track record in delivering high-performance applications across the healthcare and financial sectors with attention to compliance-driven development standards.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Node.js** and **TypeScript** to architect and develop high-performance backend systems, ensuring efficient handling of **APIs** and seamless **microservices** integrations.\nImplemented **gRPC** and **REST** protocols to facilitate smooth communication between distributed systems, enhancing overall system performance and observability.\nEngineered data solutions with **PostgreSQL**, enabling robust database management and real-time analytics to support decision-making processes.\nDesigned and maintained scalable **serverless** architectures utilizing cloud services, streamlining operational workflows and reducing costs by up to **30%**.\nLed mentorship initiatives for junior engineers, fostering growth in technical communication and collaborative problem-solving skills across the team.\nCollaborated on developing and deploying distributed systems with a focus on system reliability and performance, achieving uptime metrics of over **99.9%**.\nIntroduced observability tools and strategies to monitor system health and performance, resulting in improved incident response times by **40%**.\nParticipated in code reviews and provided constructive feedback to maintain high-quality code standards, improving delivery speed of new features by **25%**.\nContributed to the integration of **Kafka** to enhance data streaming capabilities and support real-time processing needs across multiple applications.\nDeveloped and maintained best practices in API design and server architecture, ensuring scalability and maintainability in system operations."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Designed and implemented **microservices architecture** leveraging **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), targeting performance enhancements for high-volume transactional systems, improving scalability by **50%**.\n• Developed and optimized **REST** and **gRPC** APIs to facilitate seamless communication between microservices, ensuring performance metrics improved by **30%**.\n• Established a robust **Kafka** and **RabbitMQ**-based event-driven architecture, allowing for efficient asynchronous communication across critical workflows, which reduced processing times by **40%**.\n• Enhanced backend performance monitoring through observability practices, employing tools that provided insights into system behavior and potential bottlenecks.\n• Championed technical communication and mentorship within the team, fostering development skills and knowledge sharing that led to a **25%** improvement in team productivity.\n• Collaborated in the design and deployment of ETL pipelines utilizing **Python**, **Apache Airflow**, and **Azure Data Factory**, successfully processing **500k+** records daily from various sources.\n• Developed and fine-tuned machine learning models for fraud detection using **scikit-learn** and **XGBoost**, achieving detection accuracy rates of over **95%** based on observed transaction patterns.\n• Integrated ML pipelines for credit scoring and churn prediction into backend services using **MLflow** and **Airflow**, enhancing decision-making processes and reducing churn by **15%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized scalable backend services for a global e-commerce platform using **Node.js (NestJS, Express)** and **Python (FastAPI, Django)**, ensuring high availability, low latency, and performance across key modules like checkout and order fulfillment.\nImplemented efficient APIs using **gRPC** and **REST**, enhancing communication between distributed systems and microservices, contributing to a **30%** reduction in response times.\nEngineered real-time features with **Kafka** for event-driven architecture, enabling responsive order updates and dynamic inventory tracking, improving customer satisfaction metrics by **25%**.\nLeveraged **PostgreSQL**, implementing optimized queries and indexing strategies for fast, fault-tolerant data access across high-traffic e-commerce workflows.\nDeveloped and maintained a serverless architecture, optimizing costs and scaling automatically with demand surges, leading to a **40%** increase in system efficiency during peak traffic.\nApplied observability principles using monitoring tools, ensuring detailed tracking of performance, and addressing bottlenecks swiftly, resulting in a **15%** decrease in downtime incidents.\nCommunicated technical concepts effectively while mentoring junior team members, fostering a collaborative environment that improved team productivity.\nIntegrated AI/ML features for recommendation engines using Python libraries, contributing to a **10%** boost in conversion rates through personalized user experiences.\nImplemented feature flags and microservice deployments using **Kubernetes**, controlling workflows and allowing A/B testing for more robust deployment strategies.\nEnsured GDPR compliance and user data protection through role-based access control (RBAC) and **OAuth 2.0**, enhancing security measures for customer and admin access."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, NodeJS\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tREST, gRPC, APIs\n\n**Serverless and Cloud Functions:**\n\tserverless, AWS Lambda\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Kafka, distributed systems, microservices, performance, observability, technical communication, mentorship, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "UserTesting"
+}

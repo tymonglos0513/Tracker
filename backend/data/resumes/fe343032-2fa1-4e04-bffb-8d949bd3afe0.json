@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Software Engineer with 8 years of experience, proficient in C#, cloud services including **AWS** and **Azure DevOps**, and specialized in building secure and scalable applications using robust user management systems such as SSO and RBAC. I possess strong expertise in SQL and **MySQL**, ensuring optimal data handling and compliance with security standards like **OWASP**. \nMy technical breadth includes full-stack development leveraging **React**, **Node.js**, and **FastAPI**, complemented by a solid understanding of Agile methodologies and DevOps practices, enabling streamlined pipelines for continuous delivery. I have successfully led projects within the healthcare and financial sectors, integrating AI/ML capabilities and enhancing system efficiency through microservices architecture and event-driven systems. \nWith hands-on experience developing machine learning pipelines and effectively serving ML models in production environments, I am committed to driving innovation and delivering high-performance solutions.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained user management systems leveraging **C#**, using advanced features for **RBAC** and integrated **Identity providers** for enhanced security and **SSO** functionality.\n• Architected and implemented cloud-based solutions on **AWS** and **Azure**, ensuring efficient service deployment and integration as per **Agile** methodologies.\n• Designed and maintained scalable data storage solutions utilizing **MySQL** and **SQL** databases, optimizing performance for large-scale applications.\n• Established enterprise-level **DevOps** practices by automating CI/CD pipelines with **Azure DevOps**, enabling consistent and reliable software delivery.\n• Integrated security best practices aligned with **OWASP** standards, safeguarding applications against potential vulnerabilities.\n• Spearheaded the modernization of monolithic applications into modular architectures using microservices, enhancing system scalability and maintainability.\n• Coordinated with cross-functional teams to deliver high-quality software releases, ensuring adherence to project timelines and objectives.\n• Conducted code reviews and implemented best practices across the development team, fostering continuous improvement and knowledge sharing.\n• Led the integration of third-party and internal APIs, ensuring seamless connections for enhanced functionality across applications.\n• Employed Agile practices to plan sprints, prioritize backlog items, and facilitate efficient workflows within the development team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Leveraged **C#** to enhance secure user management and implement **RBAC** across platforms, ensuring seamless access control and compliance with licensing requirements for financial systems.\nDesigned and implemented **SSO** solutions with various **identity providers** to improve user experience and security for financial applications, streamlining authentication processes.\nArchitected cloud-based solutions using **AWS** and **Azure DevOps**, leading Agile development sprints that improved deployment efficiency by **30%** through effective use of CI/CD pipelines.\nDeveloped and optimized SQL queries for managing large datasets in **MySQL**, enhancing data retrieval speeds by **40%** for financial reporting and analytics.\nIntegrated robust security measures following **OWASP** guidelines to protect sensitive user and transaction data, reducing security vulnerabilities by conducting regular audits.\nLed the development and modernization of financial platforms by adopting a microservices-based architecture using **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, boosting scalability, maintainability, and throughput for high-volume transaction systems.\nBuilt dynamic, user-focused front-end applications using **React (18)**, **Vue 3**, **Next.js**, and **TypeScript**, applying **Redux Toolkit** and **Tailwind CSS** to create responsive and performant user interfaces for financial dashboards and admin portals.\nDeveloped real-time transaction monitoring and analytics dashboards using **React**, **D3.js**, and **Power BI Embedded**, enabling operations teams to track financial activity, detect anomalies, and generate actionable insights.\nIntegrated **Kafka**, **RabbitMQ**, and **Azure Service Bus** to establish a robust event-driven architecture, supporting asynchronous communication and real-time event processing for transactions, alerts, and compliance workflows.\nBuilt and orchestrated ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, enabling batch and real-time ingestion of financial data from internal and third-party sources.\nImplemented AI/ML-powered fraud detection systems using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing transaction patterns and user behavior to proactively flag suspicious activities in banking systems.\nCreated ML pipelines for credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, integrating model inference directly into backend services for real-time decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed secure user management systems using **C#** and **SQL**, including the implementation of **RBAC** and **Identity providers** to ensure robust access control and compliance with **GDPR**.\n• Designed and implemented Single Sign-On (**SSO**) solutions to enhance user experience and streamline access across multiple platforms and services.\n• Utilized **Azure DevOps** for CI/CD pipelines, enhancing deployment frequency by **25%** and ensuring code quality through automated testing in an **Agile** environment.\n• Developed RESTful APIs and microservices architecture using **Cloud services** such as **AWS**, focusing on efficiency and scalability, achieving a system uptime of **99.9%**.\n• Enforced **OWASP** best practices to secure applications against vulnerabilities while handling sensitive data and transactions.\n• Managed databases with **MySQL** and **SQL**, ensuring optimal performance for high-volume transactions through effective indexing and query optimization, improving response times by **30%**.\n• Applied licensing strategies to manage third-party resources and services, ensuring compliance and cost-effectiveness in service usage.\n• Collaborated with cross-functional teams to deliver seamless integration and user workflows, adapting to dynamic project requirements while delivering on time.\n• Actively participated in code reviews and contributed to the development of best practices, enhancing team productivity and code maintainability."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript, TypeScript, C#\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Other:**\n\tAgile, Identity providers, SSO, Licensing, User management, RBAC, Cloud services, OWASP",
+  "apply_company": "Everway"
+}

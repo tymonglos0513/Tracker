@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior ML Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior ML Engineer with over 10 years of experience in **Machine Learning**, **AI**, **Data Science**, and **MLOps**. Expertise in **productionisation** of models and building **real-time systems** and **batch processing** solutions. Proficient in **Python** frameworks such as **FastAPI**, **Django**, and **Flask**, as well as cloud solutions including **AWS** and **Azure**. Highly skilled in developing high-performing APIs, automation tools, and scalable services tailored for financial platforms. Demonstrated success in collaborative environments with a strong emphasis on **testing**, **monitoring**, and comprehensive **documentation**. Proven track record of driving impactful projects for industry leaders like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Python** to engineer backend services focusing on **Machine Learning**, **AI**, and **Data Science** for document automation, user onboarding, and reporting workflows.\nImplemented **productionisation** strategies in **real-time systems** and **batch processing** for financial services using **FastAPI**.\nDeveloped robust event-driven architectures with **Celery** and **Redis** for managing asynchronous processing of financial transaction requests, achieving a **95%** success rate in request handling.\nDeployed microservices on **Azure App Services** and utilized **Terraform** (version **1.0.0**) to manage infrastructure as code, ensuring up to **99.9%** uptime of cloud operations.\nEngineered and maintained data pipelines for regulatory data exchange using **Apache Airflow** and **Azure Functions**, facilitating timely and accurate data flow with a processing time reduced by **30%**.\nConducted comprehensive security assessments and integrated **OAuth2** and **Azure AD B2C** for scalable authentication systems, enhancing security posture by **40%**.\nCollaborated with cross-functional teams to solve system integration challenges, ensuring compliance and overseeing release strategies with a focus on thorough **documentation** and **monitoring**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** to develop robust machine learning backend systems, enhancing automation in document workflows and optimizing user onboarding processes.\nImplemented **AI** and **Machine Learning** algorithms within microservices architecture to handle complex reporting and real-time data processing.\nLeveraged **MLOps** practices to manage deployment pipelines, ensuring the productionisation of machine learning models with rigorous testing and monitoring strategies.\nEngineered **real-time systems** and **batch processing** applications with a focus on high availability and performance, achieving a response time improvement of **30%**.\nBuilt and deployed microservices on **Azure** leveraging **Terraform** for infrastructure automation, ensuring a consistent and scalable environment, scaling to handle **1M+** transactions monthly.\nDeveloped and maintained secure data pipelines using **Apache Airflow** and **Azure Functions** for the safe exchange of regulatory data, achieving process efficiency improvements of **25%**.\nConducted comprehensive security audits, implementing **OAuth2** and **Azure AD B2C** for authentication to enhance data access control and safeguard sensitive information.\nCollaborated effectively with cross-functional teams to facilitate seamless system integration and adherence to regulatory standards, contributing to a successful release cycle with a **100%** compliance rate."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed machine learning models and AI-driven algorithms for enhanced decision-making in trading using **Python** and **Cloud** environments.\n• Engineered real-time systems to facilitate high-frequency transaction data processing, utilizing **asyncio**, **WebSockets**, and **Redis** to ensure timely and accurate information delivery.\n• Collaborated actively with cross-functional teams to integrate ML models via REST APIs and WebSocket channels, enhancing user interaction and data presentation.\n• Conducted batch processing and effectively monitored system performance to ensure efficient operation of trading strategies, addressing the dynamic market conditions.\n• Implemented robust testing protocols using **PyTest**, ensuring each component of the ML pipeline met quality standards before deployment, thus streamlining CI processes.\n• Delivered comprehensive documentation on model performance and operational guidelines, promoting transparency and knowledge sharing across teams.\n• Ensured compliance with regulatory standards and internal security protocols, including ensuring models are aligned with **MiFID II** and **GDPR** requirements.\n• Optimized data processing and job scheduling by integrating **Celery** and **RabbitMQ**, improving task execution times by over **30%** and enhancing backend efficiency."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python, SQL, JavaScript\n\n **Backend Frameworks**\n\t FastAPI, Flask, Django, Celery\n\n **Frontend Frameworks**\n\t \n\n **API Technologies**\n\t REST/gRPC APIs, Microservices\n\n **Serverless and Cloud Functions**\n\t AWS (EC2, S3, Lambda), Azure\n\n **Databases**\n\t PostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps**\n\t Docker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n **Cloud & Infrastructure**\n\t Cloud\n\n **Other**\n\t Machine Learning, AI, Data Science, MLOps, LLMOps, Productionisation, Real-time systems, Batch processing, Testing, Monitoring, Collaboration, Documentation, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, PyTest, Git",
+  "apply_company": "Ageas UK"
+}

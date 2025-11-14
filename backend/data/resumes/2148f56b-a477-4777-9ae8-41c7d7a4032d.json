@@ -1,0 +1,46 @@
+{
+  "name": "DANIEL HE",
+  "role_name": "Software Developer",
+  "email": "daniel.he8@outlook.com ",
+  "phone": "+48 730 743 032",
+  "address": "Rzeszów, Poland",
+  "linkedin": "https://www.linkedin.com/in/daniel-he-a5a536397/",
+  "profile_summary": "Dedicated Software Developer with expertise in **Java**, **Spring**, **Hibernate**, and **PostgreSQL**, ensuring the development of scalable and maintainable applications. Skilled in deploying applications using **Kubernetes** and leveraging **AWS** cloud services for optimal performance. Strong advocate for automated tests and delivering quality solutions through effective teamwork and clear communication. Proven track record of implementing impactful solutions in diverse sectors such as healthcare, eCommerce, and finance, leading to substantial improvements in operational efficiency and user satisfaction.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2016",
+      "location": "Beijing, China ",
+      "university": "Tsinghua University "
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Developer",
+      "company": "Britenet",
+      "from_date": "Feb 2023 ",
+      "to_date": "Present",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Utilized **Java** and **Spring** frameworks to design a microservices-based Clinical Patient Management System (CPMS) that achieved **95% accuracy** in patient tracking and improved adherence rates through automated reminders.\nImplemented **automated tests** for RESTful APIs developed with **Spring Data JPA**, enhancing data accuracy by **40%** and ensuring secure EHR integration using **Spring Security** and **OAuth2**.\nCollaborated with the team to enhance UI/UX for the pathway builder using **React** and **Ant Design**, resulting in a **30% reduction** in completion time.\nDeveloped a notification system utilizing **RabbitMQ**, ensuring **99% timely alert delivery** to improve patient engagement.\nEstablished CI/CD pipelines with **GitHub Actions** and **AWS CodePipeline**, leading to an **80% reduction** in deployment times.\nContainerized microservices with **Docker**, streamlining deployment processes across both staging and production environments.\nManaged services on **AWS EKS (Kubernetes)** using **Terraform**, achieving **99.9% uptime** and optimizing load handling with **Redis** caching for better performance."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Alibaba Group",
+      "from_date": "Oct 2020 ",
+      "to_date": "Dec 2022",
+      "location": "Hangzhou, China",
+      "responsibilities": "Utilized **Java** and **Spring Boot** to develop robust backend services, enhancing ticketing and customer support response times by **25%**.\nImplemented **automated tests** to ensure code quality and optimize deployment processes, fostering a collaborative environment through **teamwork** and effective **communication**.\nLeveraged **PostgreSQL** for database management, resulting in improved data retrieval speeds and storage efficiencies.\nDesigned a microservices architecture deploying on **AWS** utilizing **Kubernetes**, resulting in a scalable system conducive to evolving business needs.\nDeveloped a customer insights dashboard using **Vue.js** and **D3.js**, boosting resolution rates by **20%**.\nAutomated testing and deployment processes with **Jenkins** and **AWS CodePipeline**, ensuring consistent releases and reducing deployment errors by **30%**.\nImplemented infrastructure management with **Docker** and **Terraform**, cutting setup time by **50%**."
+    },
+    {
+      "role": "Software Engineer ",
+      "company": "Huawei Technologies Co., Ltd",
+      "from_date": "May 2016 ",
+      "to_date": "Sep 2020",
+      "location": "Shenzhen, China ",
+      "responsibilities": "• Developed and maintained backend REST APIs using **Java** and **Spring Boot**, targeting a 98% uptime with an efficient **PostgreSQL** database solution.\n• Leveraged **Angular** for frontend implementation, achieving a 40% improvement in load times while ensuring optimal user experience.\n• Conducted comprehensive automated tests utilizing **JUnit** and **Mockito**, leading to a 30% reduction in bugs and enhancing overall software quality.\n• Enhanced frontend performance through techniques like lazy loading and code splitting, significantly increasing load efficiency.\n• Deployed scalable solutions globally on **AWS** using **CloudFront** and **S3** for low-latency access and high availability, ensuring seamless user experiences."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tJava, JavaScript (React, Vue.js, Angular, Pixi.js, Vanilla JS, Node.js, TypeScript), Go, Python, SQL, Swift, Kotlin\n\n**Backend Frameworks**\n\tSpring Boot, Spring Security, Hibernate, Node.js, Express.js, JPA, Kafka, RabbitMQ\n\n**Frontend Frameworks**\n\tReact, Vue.js, Angular, Pixi.js, Redux, Next.js, React Router, Material-UI, Ant Design, D3.js, Webpack, Babel, Jest\n\n**API Technologies**\n\tRESTful API design\n\n**Serverless and Cloud Functions**\n\tAWS (EKS, RDS, CloudFront, S3, Lambda), API Gateway, CloudWatch\n\n**Databases**\n\tMySQL, PostgreSQL, Redis, MongoDB\n\n**DevOps**\n\tDocker, Kubernetes (AWS EKS), Jenkins, GitHub Actions, Terraform, AWS CodePipeline\n\n**Cloud & Infrastructure**\n\tGit, ELK Stack\n\n**Other**\n\tMicroservices, CI/CD, Infrastructure as Code (IaC), Data structures and algorithms, Agile/Scrum methodologies, automated tests, teamwork, communication"
+}

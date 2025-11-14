@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior FullStack Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Full Stack Engineer with 10+ years of experience delivering high-performance software solutions, specializing in **JavaScript**, **TypeScript**, **Node.js**, and **React**. Expertise in building scalable applications using modern technologies, including **Flutter**, with a strong proficiency across the full stack utilizing frameworks such as **Next.js**, **Vue**, **FastAPI**, and **Django**. Demonstrated ability to drive AI and Machine Learning initiatives with comprehensive knowledge in developing ML pipelines and deploying models, leveraging tools like **MLflow**, **Airflow**, and **Kubeflow**.\n\nProficient in employing **Agile** methodologies for project management while maintaining a robust focus on creating secure and compliant solutions aligned with healthcare standards such as HIPAA, FHIR, and PCI DSS. A strategic thinker with hands-on experience in cloud-native applications deployment on **Azure** and **AWS**, microservices architecture, event-driven systems, and CI/CD automation, resulting in enhanced operational efficiencies and real-time analytics. Committed to building impactful systems that are technically sound and align with organizational goals.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior FullStack Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tDeveloped full-stack solutions utilizing **JavaScript**, **TypeScript**, and **Node.js**, ensuring robust performance in healthcare and finance sectors while adhering to best practices and regulatory standards.\n•\tExecuted the design of dynamic frontend interfaces using **React** (versions **17-18**), optimizing user experience and responsiveness for various applications.\n•\tLed the integration of AI functionalities into applications by employing machine learning techniques for predictive analysis, enhancing the functionality of healthcare and financial dashboards.\n•\tApplied Agile methodologies to drive project execution and sprint-based development, ensuring timely delivery and alignment with project goals.\n•\tCollaborated in the implementation of cloud services for application deployment and scalability, focusing on efficient use of resources and service reliability.\n•\tImplemented IoT-driven solutions to enhance data collection mechanisms in healthcare, enabling real-time monitoring and analysis.\n•\tWorked on improving application performance through optimization of JavaScript and **Node.js** code, resulting in decreased load times by up to **30%**.\n•\tContributed to cross-functional teams with STEM expertise, mentoring junior developers and fostering knowledge sharing across disciplines.\n•\tEstablished testing frameworks with tools like Jest and Cypress, increasing code coverage to **95%**, ensuring application stability and reliability in production environments.\n•\tTransformed data processing pipelines using advanced analytics and visualization tools to facilitate informed decision-making in operational KPIs and fraud detection."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **JavaScript** and **TypeScript** to lead the development and modernization of financial platforms, enhancing scalability and maintainability through a microservices-based architecture with **Node.js** (NestJS/Express) and **Python** (FastAPI, Django).\nDeveloped responsive front-end applications with **React** (18), **Vue 3**, and **Next.js**, leveraging **Redux Toolkit** and **Tailwind CSS** to deliver high-quality user experiences for financial dashboards and admin portals.\nEngineered real-time transaction monitoring dashboards using **React**, **D3.js**, and **Power BI Embedded**, enabling operations teams to analyze financial activities and detect anomalies with actionable insights.\nEstablished an event-driven architecture by integrating **Kafka**, **RabbitMQ**, and **Azure Service Bus**, facilitating asynchronous communication for over **1,000** real-time transactions and alerts per second.\nDesigned and orchestrated ETL pipelines for financial data ingestion using **Python**, **Apache Airflow**, and **Azure Data Factory**, ensuring reliable data flow from over **50** internal and third-party sources in both batch and real-time modes.\nImplemented fraud detection algorithms using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing patterns to proactively identify suspicious activities, improving detection efficiency by **30%**.\nCreated machine learning pipelines for credit scoring and churn prediction using **MLflow** and **Airflow**, integrating models into back-end services to facilitate real-time decision-making in financial contexts."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **JavaScript**, **TypeScript**, and **Node.js** (NestJS, Express) to design and optimize backend services for a global e-commerce platform, ensuring high availability and low latency across key modules like checkout, cart, and order fulfillment.\nEngineered real-time features using **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ**, enabling responsive order updates and dynamic inventory tracking that improved customer satisfaction by **30%**.\nDeveloped dynamic frontend applications with **React** (18) and **Vue 3**, enhanced with TypeScript and **Redux Toolkit**, delivering fast, responsive user experiences on both web and mobile platforms that reduced load time by **25%**.\nLeveraged **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data storage, ensuring fast data access with a fault-tolerance rate of **99.9%** for high-traffic e-commerce workflows.\nIntegrated AI/ML-based recommendation engines using **scikit-learn**, **LightGBM**, and **TensorFlow** to personalize product listings and improve conversion rates, leading to a **20%** increase in sales.\nImplemented **Redis** caching for product metadata and search results, significantly improving application responsiveness and reducing read pressure on databases by **40%**.\nUtilized **LaunchDarkly** and **Kubernetes** namespaces for feature flags and blue-green deployments, enabling smoother rollouts and risk mitigation during major platform updates resulting in **zero downtime**.\nCreated responsive, SEO-friendly e-commerce UIs with **Next.js**, **Vue 3** + **Nuxt**, and **HTML5/CSS3**, optimized for mobile-first engagement while ensuring WCAG 2.1 compliance.\nBuilt secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, implementing tokenized transactions and ensuring PCI compliance to protect sensitive data.\nApplied role-based access control (**RBAC**) and **OAuth 2.0** for secure customer and admin access, upholding GDPR compliance and safeguarding user data throughout the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJavaScript, TypeScript, Python\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Agile, IoT, STEM, MachineLearning, AI",
+  "apply_company": "London Borough of Richmond upon Thames"
+}

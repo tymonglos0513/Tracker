@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "AWS Cloud Architect",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As an AWS Cloud Architect with 8 years of experience, I excel in leveraging **AWS** technologies, including **AWS Lambda**, **ECS**, **EC2**, **S3**, **RDS**, **Step Functions**, **IAM**, **Codebuild**, and **Elasticache**, to design and implement scalable cloud solutions. My proficiency in **Infrastructure-as-Code** with **AWS CDK** ensures efficient deployment and management of infrastructure, while my expertise in **SDLC** and automation enhances the development process. \nAdditionally, I’m skilled in programming with **Python** and **TypeScript**, utilizing frameworks such as **Angular**, and familiar with tools like **Docker** for containerization. I have hands-on experience with NoSQL and SQL databases, including **Redis** and **MySQL**, and I proficiently track and manage projects using **Jira**. \nWith a solid background in full-stack development using **React**, **Next.js**, **Vue**, and **Node.js**, and a focus on cloud-native architectures, I’ve successfully led the development of high-performance applications aligned with compliance standards such as HIPAA and PCI DSS, ensuring secure and reliable solutions. My experience also includes developing machine learning pipelines and implementing MLOps workflows, utilizing tools like **MLflow** and **Airflow** for operational efficiency.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AWS Cloud Architect",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Architected and managed AWS cloud infrastructure solutions leveraging **AWS** services including **Lambda**, **ECS**, **EC2**, **S3**, **RDS**, and **Step Functions** to ensure high availability and scalability of applications.\nImplemented Infrastructure-as-Code (IaC) using **AWS CDK** and **Terraform** to automate provisioning and management of cloud resources, enhancing deployment speed by **30%**.\nDesigned robust CI/CD pipelines with **CodeBuild** and **Docker**, facilitating continuous delivery while maintaining compliance with **SDLC** practices and security standards.\nDeveloped data storage solutions with **RDS** (MySQL) and caching strategies using **Elasticache**, optimizing query performance and service responsiveness for up to **1 million** users.\nUtilized **Bash** scripting for automating routine tasks within the AWS environment, improving operational efficiency by up to **25%**.\nEstablished and monitored application performance using **Grafana**, actively optimizing resource utilization and cost management in the AWS ecosystem.\nCollaborated with cross-functional teams and utilized **Jira** for project management, ensuring timely delivery and completion of cloud projects adhering to best practices.\nIncorporated **Redis** for session management and caching, enhancing the performance of high-traffic applications by **40%**.\nDesigned and maintained comprehensive security protocols including **IAM** roles and policies to protect sensitive data in line with regulatory compliance requirements.\nDeveloped real-time data streaming applications using **Pusher**, facilitating instantaneous communication between clients and servers in various operational contexts.\nLed the migration of existing applications to the AWS cloud, ensuring minimal downtime and preserving data integrity across environments.\nImplemented monitoring and alerting systems to proactively address issues and maintain the stability of cloud-hosted applications."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Leveraged **AWS** solutions including **S3**, **RDS**, **Lambda**, and **ECS** to architect and deploy scalable financial applications, achieving latency reductions of up to **40%**.\nImplemented **Infrastructure-as-Code** using **AWS CDK** to enable rapid deployment and automated resource management, reducing provisioning time by **60%**.\nDeveloped CI/CD pipelines utilizing **CodeBuild** and **Docker**, streamlining coding workflows and enhancing the software development lifecycle (SDLC) by delivering updates and fixes in under **24 hours**.\nDesigned and managed real-time data processing systems using **Redis** and **ElastiCache**, ensuring higher performance for transaction monitoring with improved retrieval speeds of over **30%**.\nBuilt comprehensive back-end services in **Python** and **TypeScript** adhering to best practices and enterprise-level security standards with **IAM** for access management, resulting in decreased vulnerabilities by **50%**.\nUtilized **Bash** and **Docker** to automate development environments, increasing developer productivity and reducing environment setup time.\nCollaborated with cross-functional teams to implement monitoring solutions using **Grafana**, allowing for proactive system monitoring and reduced downtime by **25%**.\nEmployed agile methodologies via **Jira** for project tracking and implementation, ensuring timely delivery of features tailored for high availability and reliability in financial applications.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend services with a focus on **AWS** components such as **Lambda**, **ECS**, **EC2**, and **RDS**, ensuring high availability and scalability for cloud-based applications.\nUtilized **Infrastructure-as-Code** principles using **AWS CDK** to streamline deployment processes, enhance reproducibility, and maintain configuration consistency across environments.\nImplemented containerization strategies with **Docker** to improve deployment efficiency and scalability, reducing environment discrepancies by **90%**.\nDeveloped and maintained CI/CD pipelines using **CodeBuild**, resulting in a **30%** reduction in deployment times and improved code quality through automated testing.\nEngineered robust logging and monitoring solutions using **Grafana**, allowing for real-time insights and proactive issue resolution across cloud infrastructure.\nApplied **Bash** scripting to automate routine cloud management tasks, enhancing operational efficiency and reducing manual overheads.\nLeveraged databases such as **MySQL** and **Redis** for high-performance data handling, ensuring quick retrieval and fault tolerance, particularly for high-traffic environments.\nCollaborated on managing user roles and permissions through **IAM** policies, ensuring secure access control within cloud applications and compliance with security best practices.\nUtilized **SDLC** methodologies to ensure development processes were streamlined and effective, showcasing a full development lifecycle approach from planning to deployment.\nUtilized project management tools like **Jira** for effective task tracking and team collaboration, resulting in a **25%** increase in project completion efficiency.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Angular\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular, nx\n\n **API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda, Azure Functions\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, EC2, S3, RDS, Step Functions, IAM), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Elasticache\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, CI/CD & Infrastructure as Code\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Grafana, Pusher, SDLC, Jira, Bash"
+}

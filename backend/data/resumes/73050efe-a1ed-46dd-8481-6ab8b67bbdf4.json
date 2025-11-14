@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-driven Software Engineer with 8 years of experience in software design, architecture, and full-stack development, specializing in **Python**, **CI/CD**, **Containerization**, and **MLOps** methodologies. Proficient in **AWS**, **Kafka**, and **RabbitMQ**, with a strong grasp of relational databases such as **MySQL** and **PostgreSQL**. Adept at implementing Infrastructure as Code (IaC) using **Terraform**, **CloudFormation**, and **Pulumi** while utilizing modern software development practices such as Test-Driven Development (TDD) and Behavior-Driven Development (BDD).\n\nPossessing deep knowledge of microservices architecture and event-driven systems, I excel at building scalable and maintainable solutions aligned with compliance standards. My experience in the healthcare and financial sectors includes the deployment of enterprise-grade platforms and development of machine learning pipelines, supported by familiarity with data science and analytics using **Databricks**. Strong interpersonal and communication skills enhance my collaborative efforts in cross-functional teams.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented software architecture frameworks, ensuring scalable and reliable systems using **Python** and modern software design principles such as Domain Driven Design.\n- Developed and deployed CI/CD pipelines leveraging **GitHub Actions**, **Azure DevOps**, and **CircleCI** for efficient software delivery and quality assurance through practices like TDD and BDD.\n- Utilized **Containerization** technologies, including **Docker** and **Kubernetes (K8s)**, to migrate monolithic applications to microservices architectures, achieving high availability and fault tolerance.\n- Managed cloud infrastructure effectively using **AWS** and automated resource provisioning with **Terraform** and **CloudFormation** to support robust and flexible environments.\n- Led the integration of messaging systems like **Kafka** and **RabbitMQ** to facilitate seamless communication between microservices.\n- Engineered and optimized databases such as **PostgreSQL** for large-scale data management, ensuring efficient storage and querying.\n- Collaborated with cross-functional teams to drive improvements in development processes and agile workflows, enhancing interpersonal and communication skills.\n- Developed MLOps pipelines incorporating tools such as **MLflow** for model versioning and deployment, ensuring continuous integration of machine learning features.\n- Integrated advanced analytics tools, including **Databricks**, for data science projects, applying statistical methods and model evaluation for effective decision-making.\n- Implemented and maintained enterprise-level test strategies using **Jest**, **Cypress**, **PyTest**, and **Postman**, covering unit, integration, and end-to-end testing.\n- Conducted training sessions and knowledge-sharing workshops, fostering a culture of continuous learning and improvement within the development team."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Implemented advanced **Software Design** principles and **Software Architecture** best practices while leading the development of financial platforms, resulting in a **30%** increase in system scalability and maintainability.\n• ORchestrated comprehensive **CI/CD** workflows using tools like **Terraform** and **CloudFormation** to streamline deployment processes, achieving **95%** deployment efficiency and reducing release cycles to **2 weeks**.\n• Leveraged **Python** frameworks (FastAPI, Django) and **Node.js** technologies (NestJS, Express) to create robust backend services, addressing high-volume transaction systems with **99%** uptime.\n• Enhanced code quality and reliability through **Test-Driven Development (TDD)** and **Behavior-Driven Development (BDD)** approaches, thereby decreasing bug counts by **40%** following releases.\n• Developed ETL pipelines utilizing **Apache Airflow** and **Azure Data Factory**, enabling the ingestion process of financial data from internal and third-party sources at a scale of **50TB** per month.\n• Designed event-driven architectures using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, improving the system's capability to handle real-time transaction processing with **1–2 seconds** latency.\n• Built real-time monitoring dashboards utilizing **React**, **D3.js**, and **Power BI Embedded**, enabling analytics that further improved operational response times by **25%**.\n• Applied **MLOps** methodologies to integrate AI/ML solutions for fraud detection with tools such as **scikit-learn** and **XGBoost**, reducing false positives in alerts by **15%**.\n• Developed ML pipelines using **MLflow**, driving predictions for credit scoring and churn detection that improved customer retention rates by **20%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** (FastAPI, Django) and **Node.js** (NestJS, Express) to design and optimize backend services for a global e-commerce platform, achieving **99.9%** uptime, low latency, and scalability in modules such as checkout, cart, and order fulfillment.\nImplemented **Kafka** and **RabbitMQ** for event-driven architecture, creating real-time features that enable responsive order updates, dynamic inventory tracking, and real-time customer support, improving operational efficiency by **30%**.\nApplied **CI/CD** practices and **Containerization** strategies using **Kubernetes** (K8s) to automate deployment pipelines, enhance collaboration, and reduce time to market by **25%**.\nEngineered and managed distributed data storage solutions with **MongoDB**, **PostgreSQL**, and **MySQL**, ensuring rapid and fault-tolerant data access for high-traffic e-commerce workflows, contributing to a **40%** decrease in query response times.\nDeveloped user-centric frontend applications with **React** (18), **Vue 3**, and **Angular**, utilizing **TypeScript**, **Redux Toolkit**, and **Tailwind CSS** to deliver a seamless user experience across various devices, enhancing customer engagement metrics by **20%**.\nDesigned AI/ML-driven recommendation engines leveraging **scikit-learn**, **LightGBM**, and **TensorFlow** to optimize search relevance and improve conversion rates, leading to a **15%** increase in sales.\nImplemented **TDD** and **BDD** methodologies to enhance software quality, ensuring robust application functionality through test-driven development practices.\nCreated feature flags and blue-green deployments using **LaunchDarkly** to facilitate controlled rollouts and A/B testing, significantly mitigating risks during major platform updates.\nEstablished secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, ensuring PCI compliance and secure handling of sensitive customer data.\nEnsured GDPR compliance and user data protection through **role-based access control (RBAC)** and **OAuth 2.0**, safeguarding customer and admin access across the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Rust, Elixir\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tOAuth2, JWT, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Knative\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tIaC, CloudFormation, Pulumi, K8s\n\n**Other:**\n\tSoftware Design, Software Architecture, TDD, BDD, MLflow, Airflow, Kubeflow, Kafka, RabbitMQ, Databricks, MLOps, Data Science, Insurance Knowledge, Interpersonal Skills, Communication Skills"
+}

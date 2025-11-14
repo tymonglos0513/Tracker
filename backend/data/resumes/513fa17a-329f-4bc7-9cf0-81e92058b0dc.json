@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Software Engineer with 8 years of full stack development experience, specializing in high-performance applications with a strong focus on **PHP**, **Node.js**, **Python**, and **React**. Proficient in **TypeScript**, **MySQL**, **DynamoDB**, **Redis**, and cloud services such as **AWS** to deliver robust solutions. Skilled in building scalable and secure systems using **Microservices** and **SaaS** architectures, alongside effective **System Design** practices.\n\nNotable achievements include the integration of **Docker** for containerization and **GitActions** for CI/CD workflows, streamlining development processes. I have extensive experience with testing frameworks like **Jest**, **Cypress**, and **PHPUnit** to ensure high-quality code output. Highly collaborative, fluent in English, and recognized for strong **Problem Solving** abilities that foster innovative solutions in agile environments.\n\nIn previous roles, I have led teams in developing enterprise applications while aligning with key compliance standards and integrating advanced technologies such as AI/ML for enhanced functionality.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed scalable, high-performance applications leveraging **Node.js**, **Python**, and **TypeScript** to meet user needs in a timely manner.\n- Employed modern frameworks like **React** and **Tailwind CSS** for creating dynamic web interfaces, with attention to usability and accessibility, adapting best practices from projects with **React (17-18)**.\n- Designed and implemented microservices architecture using **Docker** and cloud-native environments on **AWS** for building resilient applications that enhance application performance and reliability, achieving a **99.9% uptime**.\n- Integrated real-time data storage solutions utilizing **MySQL**, **DynamoDB**, and **Redis** for high-speed data retrieval and manipulation, accommodating increasing data volumes with a focus on performance optimization.\n- Applied CI/CD practices using **GitHub Actions** for automated testing using tools like **Jest**, **Cypress**, and **PHPUnit**, enabling rapid deployment cycles and maintaining high code quality across **100%** of services.\n- Championed collaborative problem-solving sessions to improve system design processes resulting in a **20% reduction** in development time across several projects.\n- Drove the transition to serverless architectures and optimized backend systems with **RabbitMQ** for messaging, enhancing scalability and reducing costs by **30%**.\n- Maintained documentation and participated in code reviews to foster an environment of continuous learning and improvement while promoting adherence to coding standards.\n- Successfully led workshops on best practices for SaaS applications, guiding the team in achieving compliance with industry standards and protocols.\n- Fostered collaborative communication with cross-functional teams to deliver projects on time and within budget, ensuring alignment with business objectives."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Designed and implemented scalable microservices utilizing **Node.js** (NestJS/Express) and **Python** (FastAPI, Django) to enhance performance and maintainability for high-volume financial transaction systems.\n• Engineered front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, employing **Redux Toolkit** and **Tailwind CSS** to optimize user experiences across financial dashboards and admin portals.\n• Developed and deployed real-time analytics dashboards utilizing **D3.js** and **Power BI Embedded**, providing insights on financial activity, including anomaly detection with a 10% increase in operational efficiency for team alerts.\n• Implemented an event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring reliable asynchronous communication and processing for up to 100,000 transactions per second.\n• Constructed and managed ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory**, handling both batch and real-time data ingestion from various internal and third-party sources to support data-driven decisions.\n• Designed AI/ML-driven fraud detection frameworks utilizing **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, significantly reducing fraudulent activities by over 30% through pattern recognition and user behavior analysis.\n• Developed machine learning pipelines for applications including credit scoring and churn prediction using **MLflow** and **Airflow**, integrating real-time model inference into backend services to enhance decision-making processes.\n• Collaborated with cross-functional teams, demonstrating strong problem-solving skills and ensuring alignment of technical solutions with business objectives while maintaining fluent communication in English."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and optimized backend services using **PHP**, **Node.js** and **Python** to ensure high availability and scalability across *e-commerce* platforms, successfully handling an average of **100,000** transactions per day.\nEngineered microservices architecture that supports the deployment of **Docker** containers, enabling flexible, low-latency operations and close to **99.9%** uptime.\nDesigned and maintained distributed databases including **MySQL**, **DynamoDB**, and **Redis**, implementing efficient caching strategies that improved data retrieval speeds by **30%** during peak traffic.\nDeveloped responsive frontend features utilizing **React** and **TypeScript**, achieving a **95%** page load speed score and enhancing user engagement metrics significantly across mobile and desktop platforms.\nIntegrated CI/CD pipelines using **GitActions** for seamless code deployments, reducing deployment times from **2 hours** to **15 minutes**, and ensuring code quality through test automation frameworks such as **Jest** and **Cypress**.\nCollaborated closely with cross-functional teams to define business requirements and translate them into technical specifications, fostering a problem-solving environment that improved project delivery timelines by **20%**.\nImplemented and managed cloud services with **AWS**, leading to optimized resource usage and a cost reduction of **25%** in hosting expenses.\nDesigned and implemented security measures including role-based access control (RBAC) and **OAuth 2.0**, ensuring compliance with regulatory standards like GDPR across the platform.\nConducted code reviews and mentored junior developers, promoting best practices in *system design* and efficient code maintenance within a collaborative team setting."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, PHP, NodeJS, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular, Tailwind CSS\n\n **API Technologies:**\n\tRabbitMQ, JWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS, Lambda, Serverless\n\n **Databases:**\n\tMySQL, PostgreSQL, MongoDB, DynamoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, S3, RDS), Azure (App Services, Blob, SQL)\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Jest, Cypress, PHPUnit, Microservices, SaaS, System Design, Problem Solving, Collaboration, Fluent English",
+  "apply_company": "ShippyPro"
+}

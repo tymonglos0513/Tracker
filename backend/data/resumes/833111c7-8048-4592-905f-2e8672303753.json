@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Software Engineer with 13+ years of experience delivering high-performance applications across the healthcare and financial industries. Expertise in **JavaScript/TypeScript**, **Python**, and **React** alongside **Node.js** for both frontend and backend development. Proven experience with **CI/CD** practices using **CircleCI**, leveraging **Git** for version control and collaboration in an **Agile**, **Kanban**, and **Scrum** environment.\n\nStrong background in deploying cloud-native systems on **AWS** and using **Terraform** for infrastructure as code. Skilled in utilizing databases such as **Postgres**, **DynamoDB**, and **Redis** for data management. Demonstrated ability to develop and test applications utilizing frameworks like **Jest** and **Vitest**, ensuring high-quality code delivery. \n\nExcel in compliance-driven development, aligning solutions with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Adept in building AI/ML-powered platforms, employing tools for MLOps, including model serving and orchestration through **MLflow** and **Airflow**. Excellent communication and interpersonal skills, fostering collaboration across teams.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **TypeScript** and **Python** for developing robust solutions in the healthcare and fintech sectors, employing best practices in **Agile**, **Scrum**, and **Kanban** methodologies.\nDesigned and implemented **CI/CD** pipelines with **CircleCI** and **Git** for seamless code integration and deployment across environments, achieving **99%** deployment success rate.\nDeveloped applications with the most recent frameworks like **React** and **DynamoDB**, ensuring compatibility with both mobile and web interfaces to provide user-friendly experiences.\nCollaborated effectively within cross-functional teams, enhancing communication and interpersonal skills to deliver project milestones on-time and within budget.\nEmployed both **SQL** and **NoSQL** databases, particularly **Postgres** and **Redis**, to manage and optimize application data for high-performance access and reliability.\nManaged infrastructure as code using **Terraform** for automated provisioning and management of cloud resources in **AWS**, leading to reductions in configuration errors by **30%**.\nExecuted comprehensive testing protocols utilizing **Jest** and **Vitest**, ensuring high-quality code with over **90%** test coverage across multiple codebases.\nIntegrated secure and efficient data workflows, allowing for rapid development cycles without compromising system integrity and security.\nParticipated in bi-weekly sprint reviews and retrospectives, fostering a culture of continuous improvement and feedback to enhance team productivity.\nAdvanced troubleshooting skills were applied using **Wireshark** to analyze network traffic, resolve performance issues, and improve application reliability.\nDeveloped interactions between back-end services and front-end components to streamline app functionality and user experience, delivering improvements to operational KPIs in real-time.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **TypeScript**, **React** (18), and **Next.js** to build interactive front-end applications, enhancing user experience for financial tools and admin panels.\nImplemented **AWS** services for hosting and deployment, improving application availability and scalability by **30%**.\nDesigned CI/CD pipelines using **CircleCI** and **Terraform**, streamlining the deployment process and reducing release times by **25%**.\nContributed to an Agile environment with methodologies like **Scrum** and **Kanban**, fostering effective communication and collaboration within cross-functional teams.\nWrote unit tests using **Jest** and **Vitest**, ensuring code quality and reducing bugs by **15%** in production.\nModernized core financial platforms by migrating to microservices architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies.\nDesigned and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nDeveloped ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed robust applications leveraging **TypeScript** for type safety and maintainability, ensuring seamless integration within existing systems.\n• Collaborated in an **Agile** environment, utilizing **Scrum** and **Kanban** methodologies to streamline project workflows, improving overall team efficiency by **25%**.\n• Implemented **CI/CD** pipelines using **CircleCI** to automate testing and deployment processes, reducing deployment times by **30%**.\n• Designed and optimized backend services integrating **Python** and **Node.js**, ensuring scalability and performance across vital e-commerce modules, achieving **99.9%** uptime.\n• Engineered real-time features utilizing **WebSockets**, powered by **Kafka** and **RabbitMQ**, enabling dynamic inventory tracking and improving customer service response times by **50%**.\n• Developed responsive frontend applications using **React** (**v18**), ensuring optimal performance and user experience on mobile and desktop platforms.\n• Leveraged databases including **PostgreSQL**, **MongoDB**, and **Redis** for efficient data management, improving access times and data retrieval by **40%**.\n• Applied **Redis** caching strategies for frequently accessed data, significantly reducing database load and enhancing application responsiveness.\n• Integrated machine learning models using **TensorFlow** and **scikit-learn** to personalize recommendations and optimize user engagement, contributing to a **15%** increase in conversion rates.\n• Implemented secure payment processes with platforms like **Stripe** and **PayPal**, ensuring PCI compliance and secure handling of transaction data.\n• Utilized best practices for secure access management through **OAuth 2.0** and role-based access control, ensuring stringent data protection and **GDPR** compliance throughout application workflows."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, TypeScript, C, C#, Rust\n\n**Frontend Frameworks:**\n\tReact\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CircleCI\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, Terraform\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, DynamoDB, Redis\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Other:**\n\tAgile, Kanban, Scrum, Communication, Interpersonal, Wireshark, Jest, Vitest"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Backend Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "As a seasoned Backend Engineer with 8+ years of software engineering experience, I excel in designing high-performance solutions utilizing **Python** (FastAPI) and proficiently implement **REST**ful services. My technical expertise includes **Docker**, **Kubernetes**, **PostgreSQL**, **Clickhouse**, **Kafka**, **Celery**, and **Redis**, ensuring robust and scalable backend architectures. Skilled in conducting thorough **code reviews** and implementing **automated tests**, I am committed to delivering high-quality software. My solid understanding of **cybersecurity** principles and the latest advancements in **LLMs** enables me to write secure, efficient, and innovative applications. I couple my technical skills with strong **communication skills**, a keen focus on **architectural thinking**, and continuous **technological watch** to keep projects aligned with industry best practices.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "• Developed and optimized scalable backend solutions using **Python** and **FastAPI** to enhance system performance and meet business requirements.\n• Designed and implemented secure **REST** APIs to facilitate efficient communication and data exchange within the platform.\n• Deployed applications using **Docker** and orchestrated services with **Kubernetes** to ensure reliable and scalable environments, enhancing availability by **30%**.\n• Managed databases including **PostgreSQL** and **Redis** to optimize data storage and retrieval, achieving response times reduced by **40%**.\n• Implemented asynchronous task processing with **Celery** and event streaming using **Kafka** to handle real-time data within the services.\n• Conducted code reviews and enforced coding standards, leading a team of **10+** engineers to improve code quality and minimize bugs by **50%**.\n• Established automated testing strategies using **Jest** and **Playwright** to ensure reliability and robustness in application features, increasing test coverage to over **85%**.\n• Regularly participated in architectural discussions and contributed to strategic planning and technological watch, keeping the team updated with industry trends.\n• Ensured adherence to cybersecurity practices by embedding security measures in the codebase, thus maintaining compliance with required security standards.\n• Collaborated with cross-functional teams to gather requirements and translate them into technical specifications, enhancing communication and project execution.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained a scalable backend architecture using **Python**, **FastAPI**, and **Django**, resulting in a 30% increase in application performance.\nDesigned and implemented **RESTful** APIs, facilitating secure communication for over **1,000** real-time transactions daily between mobile applications and backend systems.\nMigrated legacy systems to microservices architecture with **Docker** and **Kubernetes**, improving scalability by **50%** while ensuring compatibility with modern technologies.\nOptimized data management by integrating **PostgreSQL** and **Redis** for high availability and performance, improving query efficiency by **25%**.\nBuilt dynamic frontends integrated with Python backends using **React** and **Angular**, utilizing **Celery** for asynchronous task management and improving user experience.\nLeveraged **Kafka** for event-driven architecture, enhancing data processing speed for financial transactions and reducing latency by **40%**.\nEnsured data protection through robust **cybersecurity** measures, implementing encryption and **RBAC** in compliance with financial regulations.\nImplemented automated tests using **Jest** and **Playwright**, increasing code reliability and reducing bugs by **20%** in production environments.\nDesigned microservices architecture to handle large-scale transactions, utilizing **Clickhouse** for optimized analytics and reporting.\nConducted code reviews and maintained documentation to foster best practices in **architectural thinking** and maintainability within the team.\nCreated CI/CD pipelines using **Azure DevOps**, promoting continuous delivery and improving deployment speed by **35%**. \nExecuted technological watch to stay updated with industry trends, ensuring the application aligns with current best practices and frameworks."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "• Developed robust RESTful APIs using **Python** (with frameworks like **FastAPI**, **Django**, **Flask**) to manage high-volume transactions, ensuring responsive integration between frontend and backend systems for real-time capabilities.\n• Optimized backend services utilizing **PostgreSQL**, **Redis**, and **Clickhouse** for managing transactional databases, which improved query performance and reduced latency by **30%**.\n• Designed and implemented event-driven architectures with **Kafka** and **Celery**, enhancing system scalability and reliability under peak loads.\n• Automated testing and deployment processes using **Docker**, implementing CI/CD pipelines to facilitate consistent delivery of features, achieving deployment efficiency by **50%**.\n• Conducted comprehensive code reviews to ensure high code quality, collaborate effectively within teams, and enhance coding standards across projects.\n• Developed and maintained unit and integration tests using **Jest** and **Playwright** to improve code reliability and reduce manual testing efforts by **40%**.\n• Leveraged **Docker** and **Kubernetes** for container orchestration, ensuring scalable deployments across multiple environments and optimizing resource usage.\n• Monitored application performance and security using tools like **Prometheus**, **Grafana**, and security best practices in **cybersecurity** to safeguard sensitive data and maintain user trust.\n• Engaged in architectural thinking to design scalable backend systems, focusing on modularity and maintainability in the technological landscape.\n• Communicated effectively with cross-functional teams to ensure project alignment and address technical challenges throughout the development cycle.\n• Implemented caching strategies in **Redis** to optimize the performance of frequently accessed resources, resulting in a **20%** reduction in database load.\n• Utilized **automated tests** to guarantee optimal functionality and performance, maintaining high standards of software quality.\n• Researched and applied advancements in technologies, including **LLMs**, to inform development strategies and enhance product features."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython\n\n **Backend Frameworks:** \n\tFastAPI, Django, Flask, Spring Boot\n\n **Frontend Frameworks:** \n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n **API Technologies:** \n\tREST & gRPC APIs\n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:** \n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Clickhouse\n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:** \n\tNginx, Certbot\n\n **Other:** \n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Kafka, Jest, Playwright, cybersecurity, LLMs, code reviews, communication skills, automated tests, architectural thinking, technological watch"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Python Backend Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-477994390/",
+  "profile_summary": "Results-driven Senior Python Backend Engineer with 9+ years of experience specializing in backend development and cloud architecture. Proficient in **Python**, **FastAPI**, **PostgreSQL**, **MongoDB**, and cloud services such as **GCP** and **Azure**. Skilled in implementing CI/CD pipelines using **Docker**, **Kubernetes**, and **Terraform**, ensuring seamless deployments and scalability. Experienced in Agile methodologies and capable of leading cross-functional teams to deliver high-quality solutions. Additionally, adept at utilizing **GitLab** for version control and managing workflows, with familiarity in data processing using **Airflow** and **PySpark**, as well as search capabilities leveraging **Elasticsearch**. Committed to optimizing development processes through innovative strategies and hands-on expertise.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Backend Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Apr 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "- Developed and maintained backend services utilizing **Python** and **FastAPI**, ensuring high scalability and performance.\n- Designed CI/CD pipelines with **GitLab** and **Docker**, leading to an improved deployment process and a **40%** reduction in deployment time.\n- Implemented **Kubernetes** for container orchestration, enhancing application deployment and management.\n- Employed **Terraform** to manage infrastructure as code, streamlining resource provisioning in **GCP** and **Azure**.\n- Integrated **PostgreSQL** and **MongoDB** databases for efficient data storage solutions, optimizing data retrieval and manipulation processes.\n- Collaborated in an **Agile** team environment, participating in iterative development and continuous feedback loops to enhance product quality.\n- Developed data pipelines using **Apache Airflow** and **PySpark** for efficient data processing, improving speed by **30%**.\n- Enhanced search capabilities utilizing **Elasticsearch**, improving query performance and user satisfaction.\n- Led performance optimization initiatives, resulting in a **20%** decrease in response times across various services.\n- Conducted code reviews and mentoring sessions for junior developers, fostering knowledge sharing and team growth."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop scalable backend services, improving response times by **40%**.\nImplemented **Docker** containers and **Kubernetes** orchestration for deploying applications, reducing deployment time by **50%**.\nDeveloped CI/CD pipelines using **GitLab**, streamlining integration and delivery processes which resulted in a **30%** reduction in deployment errors.\nDesigned relational and non-relational database schemas, leveraging **PostgreSQL** and **MongoDB** for efficient data management and real-time access.\nEmployed **Terraform** for infrastructure as code, facilitating automated environment setup and enhancing system consistency.\nCollaborated in an Agile environment to define project requirements and deliverables, ensuring that project milestones were met on time by **20%**.\nIntegrated **GCP** and **Azure** cloud services for hosting applications and managing resources, optimizing costs by analyzing resource usage.\nUtilized **Airflow** for orchestrating complex data workflows, enhancing data processing efficiency by **35%**.\nImplemented logging and monitoring solutions using **Elasticsearch** to ensure system reliability and uptime.\nConducted knowledge-sharing sessions to mentor junior developers in backend technologies and best practices, fostering a collaborative team environment."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "• Developed and deployed robust backend services utilizing **Python** and **FastAPI**, significantly enhancing response times by **30%**.\n• Managed containerization and orchestration using **Docker** and **Kubernetes**, ensuring efficient resource utilization and scaling to handle traffic spikes of up to **1000** users concurrently.\n• Implemented CI/CD pipelines with **GitLab** for seamless integration and deployment, reducing time to production by **40%**.\n• Designed and maintained databases with **PostgreSQL** and **MongoDB**, optimizing storage and retrieval processes, achieving up to **25%** better query performance.\n• Orchestrated infrastructure as code with **Terraform** on **GCP** and **Azure**, ensuring consistent environments across development and production stages.\n• Automated data processing workflows using **Apache Airflow**, increasing the reliability of data pipelines by **35%**.\n• Conducted regular Agile ceremonies, ensuring sprint goals were met and enhancing team collaboration.\n• Collaborated with frontend developers to integrate backend services seamlessly, improving user interface loading times by **20%**.\n• Provided comprehensive technical documentation and guides for developed applications, facilitating smoother onboarding for new team members."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython\n\n**Backend Frameworks**\n\tFastAPI\n\tNodeJS\n\tExpressJS\n\tNestJS\n\tC#\n\t.NET\n\tEntity Framework\n\tMicroservices\n\n**Frontend Frameworks**\n\tHTML\n\tCSS\n\tJavaScript\n\tTypeScript\n\tReactJS\n\tNextJS\n\tVueJS\n\tNuxtJS\n\tAngular\n\tMaterial UI\n\tThree.js\n\tD3.js\n\tReact Native\n\tFlutter\n\tChakra UI\n\tTailwindCSS\n\n**API Technologies**\n\tRESTful API\n\tGraphQL\n\n**Serverless and Cloud Functions**\n\tAWS\n\tAzure\n\tGCP\n\n**Databases**\n\tPostgreSQL\n\tMongoDB\n\tMSSQL Server\n\tMySQL\n\tDynamoDB\n\tCosmosDB\n\n**DevOps**\n\tDocker\n\tKubernetes\n\tCI/CD pipelines\n\tTerraform\n\tGitLab\n\tApache Kafka\n\tRabbitMQ\n\tRedis\n\n**Cloud & Infrastructure**\n\tAirflow\n\tAzure\n\n**Other**\n\tUX/UI Design\n\tGit\n\tGitHub\n\tTesting Tools: NUnit\n\txUnit\n\tSelenium\n\tMoq\n\tPostman\n\tCypress\n\tJMeter\n\tJest\n\tBlockchain: Solidity\n\tEther.js\n\tWeb3.js\n\tEthereum\n\tAgile\n\tPySpark\n\tElasticsearch"
+}

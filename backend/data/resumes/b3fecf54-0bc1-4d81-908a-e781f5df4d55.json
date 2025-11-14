@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Data Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Data Engineer with over 10 years of experience specializing in building and optimizing data processing systems. Proficient in **Python**, **Scala**, **Spark**, and **Snowflake**, with extensive expertise in ETL processes and database management (both **SQL** and **NoSQL**). Skilled in implementing **CI/CD** pipelines and **Infrastructure as Code (IaC)**, ensuring robust deployment strategies. Well-versed in **Azure** and **AWS**, capable of orchestrating cloud-native solutions that enhance data accessibility and efficiency. Proven ability to conduct **unit testing** and **integration testing** to deliver high-quality data engineering solutions, fostering seamless **team collaboration**. Notable contributions to leading projects at prominent organizations such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to engineer robust backend services with **FastAPI**, enhancing document automation, user onboarding, and reporting workflows.\nDeveloped **ETL** processes and event-driven solutions with **Celery** and **Redis** for efficient asynchronous processing, successfully handling **9** financial transaction requests per second.\nImplemented **CI/CD** pipelines using **Terraform** for managing infrastructure as code on **Azure**, facilitating deployment of **microservices** and ensuring reliable and scalable cloud operations.\nConstructed and maintained data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, achieving **100%** accuracy in data flow and compliance.\nConducted comprehensive security assessments and integrated **OAuth2** and **Azure AD B2C** to establish secure authentication protocols, improving system security by **35%**.\nCollaborated effectively with cross-functional teams to tackle system integration challenges and oversee release strategies, enhancing project deliverable timelines by **20%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop efficient backend systems, automating document workflows and streamlining user onboarding processes, achieving a **30% reduction** in onboarding time.\nImplemented event-driven microservices with **Celery** and **Redis** for asynchronous processing, enhancing the transaction handling capacity to process up to **5000 requests per minute**.\nManaged and deployed microservices on **Azure App Services**, employing **Terraform** for infrastructure as code (IaC), ensuring a scalable environment that accommodated a **99.9% uptime**.\nEngineered robust data pipelines for secure regulatory data exchange using **Apache Airflow** and **Azure Functions**, automating the data flow processes, and reducing manual effort by **40%**.\nConducted thorough security audits to ensure compliance with industry regulations, successfully integrating **OAuth2** and **Azure AD B2C** to manage secure authentication and access controls.\nCollaborated effectively with cross-functional teams to enhance system integration, uphold regulatory compliance, and ensure successful release management, improving project delivery timelines by **20%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **SQL** to develop and maintain backend services for trade execution, portfolio management, and account tracking, supporting a trading operation handling over **1000** transactions per minute.\nEngineered real-time data processing solutions using **asyncio**, **WebSockets**, and **Redis**, maintaining latency under **50ms** to facilitate high-frequency trading needs.\nCollaborated with frontend teams to expose data via **REST APIs** and **WebSocket** channels, achieving an **uptime of 99.9%** to ensure uninterrupted user interactions.\nEnsured compliance with regulatory standards, including MiFID II and GDPR, implementing internal security protocols that protected over **10,000** user accounts.\nDesigned and executed robust testing frameworks utilizing **PyTest** and mock servers, resulting in a **30% reduction** in bug-related downtime through improved QA and CI processes.\nImplemented task queuing and scheduling strategies using **Celery** and **RabbitMQ**, optimizing backend processes that previously lagged by **25%** in execution time."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, SQL, Scala\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, NoSQL\n\n**Cloud & Infrastructure**\n\tAWS, Azure, Snowflake\n\n**Serverless and Cloud Functions**\n\tAWS Lambda\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, IaC, unit testing, integration testing\n\n**Other**\n\tETL, DBT, Apache Spark, Kafka, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, team collaboration, PyTest, Git",
+  "apply_company": "Plain Concepts"
+}

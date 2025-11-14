@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Data Engineer with 8 years of experience, I possess a strong proficiency in **Python**, **SQL**, and **AWS**, consistently delivering high-performance data solutions. My expertise includes building and managing **ETL** pipelines, developing **REST APIs**, and utilizing **Airflow** for orchestration, alongside a solid understanding of **Kubernetes** for container orchestration. I bring a strong foundation in data science and machine learning, with hands-on experience in web scraping to collect and analyze large datasets relevant to sports betting. Throughout my career, I've driven the development of robust data architectures that support predictive analytics and intelligent decision-making. With a commitment to compliance and best practices, I am adept at implementing data processing solutions that meet standards such as HIPAA and PCI DSS, while embracing agile methodologies through tools like **git**. I leverage my full stack development background to bridge the gap between data engineering and software development, enhancing the overall data ecosystem.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained scalable data pipelines and ETL processes using **Python** and **Airflow** to ingest, transform, and load significant datasets, ensuring high data quality and accessibility across platforms.\nImplemented **REST APIs** for seamless integration between data sources and consumer applications, facilitating efficient data retrieval and processing operations.\nUtilized **SQL** to perform complex queries and optimize database performance, ensuring the reliability and speed of data operations and analytics.\nDeployed and managed containerized applications using **Kubernetes**, enabling robust orchestration of microservices architecture within cloud environments.\nCollaborated closely with data scientists on **machine learning** initiatives, providing clean, structured data for model training and evaluation while applying effective data science methodologies.\nOrchestrated data workflows and pipelines for sports betting analytics applications, ensuring real-time data availability and insights generation for end-users.\nImplemented version control using **git** for improved collaboration across teams and streamlined code management processes.\nIntegrated serverless compute capabilities with **AWS**, enhancing data processing efficiency while minimizing operational costs.\nOptimized data retrieval processes and improved query performance using advanced indexing techniques and database optimization strategies, significantly reducing query execution time by up to **40%**.\nDesigned and implemented monitoring systems for data pipeline performance with alerting mechanisms, ensuring operational excellence and quick issue resolution.\nLed cross-functional teams in implementing best practices for data governance and compliance, resulting in enhanced data security and adherence to industry standards."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **SQL** to design and implement robust **ETL** pipelines that efficiently manage data ingestion and transformation processes, enabling real-time data flow from various internal and third-party sources.\nEmployed **Airflow** orchestrations to automate data workflows, reducing job completion time by **30%** through advanced scheduling techniques.\nLeveraged **Kubernetes** for container orchestration and deployment of data services, ensuring high availability and scalability of data processing applications across diverse environments.\nDeveloped REST APIs to support data access and integration for various applications, enhancing the seamless flow of data across platforms.\nIntegrated data science methodologies with machine learning algorithms in **Python** to create predictive models that inform business decisions, contributing to a **15%** improvement in data-driven strategies.\nCollaborated using **git** for version control in a cross-functional team, ensuring code quality and facilitating continuous integration.\nImplemented web scraping techniques to gather sports betting data, leading to the collection of real-time metrics and insights that guide strategic planning.\nContributed to the development of tools that support **data science** initiatives, enabling deeper insights and enhancing the analytics capabilities of the organization.\nMonitored and optimized data pipelines and workflows, resulting in a **20%** increase in processing efficiency, while ensuring data quality and integrity throughout.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** for data processing and backend development, including the integration of **SQL** databases and **ETL** processes to ensure seamless data flow for analytics and reporting.\nEngineered and orchestrated data pipelines using **Airflow** to automate and schedule complex workflows, ensuring timely delivery of data for analysis.\nImplemented **REST APIs** to facilitate data access and integration with various services, enhancing the ability to leverage insights across applications.\nManaged containerized deployments and orchestrated services using **Kubernetes**, streamlining development and deployment workflows for rapid iteration and scalability.\nWorked with **AWS** cloud services to build resilient data storage solutions and ensure high availability, leveraging tools like S3 and RDS for optimal performance.\nExecuted web scraping strategies to gather data for analytics, enhancing data sources utilized in machine learning applications.\nDeveloped machine learning models and performed data analysis to drive insights and optimize processes in sports betting, applying advanced statistical techniques and **data science** methodologies.\nMaintained version control using **git**, ensuring collaborative code management and streamlined project execution with a team of data engineers.\nEstablished best practices for data governance and security, guaranteeing compliance with GDPR and protecting sensitive user information across platforms.\nCollaborated closely with data analysts to transform raw data into actionable insights, effectively influencing business strategies and decision-making outcomes."
+    }
+  ],
+  "skills": "****Programming Languages:****\n\tPython\n\n****Backend Frameworks:****\n\tFastAPI, Flask, Django\n\n****Frontend Frameworks:****\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n****API Technologies:****\n\tREST APIs\n\n****Serverless and Cloud Functions:****\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n****Databases:****\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL\n\n****DevOps:****\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, git\n\n****Cloud & Infrastructure:****\n\tAWS, Azure\n\n****Other:****\n\tAirflow, MLflow, Kubeflow, ETL, web scraping, data science, machine learning, sports betting, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Swish Analytics"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Fullstack Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-kotlinski-08ba40390/",
+  "profile_summary": "As a Fullstack Engineer with 8 years of experience, I excel in both **backend development** and **frontend development** to create scalable **web-based applications**. Proficient in **React.js** and **Svelte**, I prioritize clean code and apply engineering principles to deliver robust solutions. My deep knowledge of **APIs** and cloud environments, particularly **AWS**, complements my expertise in implementing effective **continuous integration**, **deployment**, and **delivery practices**. I have a proven track record in utilizing **version control** systems, alongside **logging** and **monitoring tools**, to ensure application reliability and performance.\nI bring strong **problem-solving** abilities and a proactive mindset to collaborate effectively with teams and mentor junior developers. With hands-on experience in testing strategies, I ensure high-quality deliverables throughout the development lifecycle, integrating industry standards seamlessly.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Fullstack Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained **web-based applications** utilizing **React.js** and **Svelte**, focusing on both **frontend** and **backend development** to deliver seamless user experiences across platforms.\n• Designed, built, and integrated efficient **APIs** ensuring robust connectivity between client-side and server-side components, adhering to clean code and **engineering principles**.\n• Employed **continuous integration** and **delivery practices** utilizing **GitHub Actions** and **Azure DevOps** for enhanced code quality and automated deployment, improving deployment frequency by **30%**.\n• Leveraged **cloud environments** including **AWS**, through services like **AWS Lambda**, for scalable backend solutions, achieving high availability metrics at **99.9%** uptime.\n• Implemented comprehensive **testing strategies** using **Jest**, **Cypress**, and **Postman**, achieving a code coverage rate exceeding **85%** across all new features and integrations.\n• Developed real-time logging and monitoring solutions, employing tools like **Firebase Crashlytics** and **Sentry**, resulting in a **40%** reduction in bug reports post-deployment.\n• Collaborated with cross-functional teams, providing **mentorship** and fostering a **proactive mindset** within the development team to solve complex challenges efficiently.\n• Integrated deployment and delivery strategies to orchestrate the release of updates across multiple environments, enhancing the development workflow.\n• Utilized **version control** best practices to manage code changes and facilitate team collaboration, ensuring project timelines were adhered to.\n• Established efficient coding practices and carried out regular code reviews to maintain quality standards, thus improving code maintainability and performance."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Leveraged **backend development** skills to modernize financial platforms by adopting a microservices-based architecture using **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, enhancing scalability and maintainability for high-volume transaction systems.\n• Employed **frontend development** expertise to build dynamic, user-focused applications with **React (18)**, **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to create responsive interfaces for financial dashboards and admin portals.\n• Designed and implemented **APIs** to facilitate seamless integration between various application components, contributing to the development of web-based applications for banking.\n• Developed real-time transaction monitoring dashboards using **React**, **D3.js**, and **Power BI Embedded**, enabling operations teams to track financial activity, detect anomalies, and generate actionable insights based on over **50,000** transactions daily.\n• Integrated **Kafka**, **RabbitMQ**, and **Azure Service Bus** to establish a robust event-driven architecture supporting asynchronous communication for transactions, alerts, and compliance workflows, significantly reducing processing time by **30%**.\n• Built and orchestrated **ETL pipelines** with **Python**, **Apache Airflow**, and **Azure Data Factory**, enabling batch and real-time ingestion of financial data from internal and third-party sources, processing over **1 TB** of data weekly.\n• Implemented AI/ML-powered fraud detection systems using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing transaction patterns to proactively flag suspicious activities, improving fraud detection rates by **25%**.\n• Created **ML pipelines** for credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, integrating model inference for real-time decision-making, thereby enhancing customer engagement strategies.\n• Emphasized **clean code** and adherence to **engineering principles** throughout the development process while utilizing **version control** systems to maintain code integrity and facilitate collaboration among a **5-person** development team.\n• Fostered a **proactive mindset** in problem-solving and embraced **collaboration** and **mentoring** practices to uplift junior developers and improve overall team performance."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and optimized backend services for web-based applications utilizing **Python** (**FastAPI, Django**) and **Node.js** (**NestJS, Express**), ensuring high performance in high-load environments with a focus on scalability and maintainability.\nCreated robust and efficient APIs for seamless integration with frontend components and third-party services, enabling faster feature delivery with agile methodologies.\nEngineered responsive frontend applications using **React.js** (**18**), **Svelte**, and **Vue 3**, ensuring cross-platform compatibility and enhanced user experience based on clean coding principles.\nImplemented comprehensive testing strategies as part of continuous integration and delivery practices, enhancing code quality and deployment reliability across multiple environments.\nUtilized cloud environments like **AWS** to ensure a scalable architecture, effectively managing resources to handle **100,000+** concurrent users.\nMaintained version control using Git, enforcing clean code practices and facilitating collaboration across cross-functional teams.\nMonitored application performance and logs with established logging and monitoring tools, improving problem-solving capabilities and system reliability by identifying and addressing issues proactively.\nApplied robust engineering principles and engaged in mentoring junior developers, fostering knowledge-sharing and a proactive mindset among team members.\nConducted regular code reviews and collaborated closely with other engineers to ensure code readability, maintainability, and alignment with business goals, supporting a culture of continuous improvement."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular, Svelte\n\n**API Technologies:**\n\tAPIs\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda), Azure (App Services)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD & Infrastructure as Code (Terraform, Ansible, Helm, Docker Compose)\n\n**Cloud & Infrastructure:**\n\tAWS (RDS, S3), Azure (Blob, SQL)\n\n**Other:**\n\tVersion control, Logging tools, Monitoring tools, Problem-solving, Cloud environments, Continuous integration, Delivery practices, Testing strategies, Clean code, Engineering principles, Collaboration, Mentoring, Proactive mindset"
+}

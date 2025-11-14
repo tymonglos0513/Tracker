@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Senior Software Engineer with 10+ years of experience specializing in asynchronous processing systems, task orchestration, and distributed schedulers. Proficient in **Python**, **Go**, and **Node.js**, and adept in implementing queueing systems using **Celery**, **Sidekiq**, **BullMQ**, **SQS**, **Kafka**, and **RabbitMQ**. Skilled in building event-driven systems and designing fault-tolerant architecture, with a strong focus on observability through tools like **Prometheus**, **Grafana**, and **OpenTelemetry**. Expertise in orchestrating workflows using **Airflow**, **Temporal**, and **Argo** for robust task management.\n\nBringing hands-on experience in developing cloud-native applications on **Azure** and **AWS**, with a solid background in microservices architecture, CI/CD automation, and compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Proven track record in delivering high-performance software solutions in both healthcare and finance sectors, continuously driving real-world impact through innovative technology stacks, including **JavaScript/TypeScript**, **Flutter**, **React**, **Next.js**, **Vue**, **FastAPI**, and **Django**. Passionate about creating systems that blend technical excellence with practical functionality.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented asynchronous processing systems and queueing systems to enhance performance and reliability in healthcare and finance applications.\n• Developed task orchestration solutions using **Airflow**, enabling efficient management of distributed schedulers and implementation of event-driven systems.\n• Leveraged **Python** and **Node.js** to create fault-tolerant designs ensuring operational resilience in high-traffic environments.\n• Engineered and optimized APIs for multi-cloud deployment strategies, utilizing tools like **Kafka** and **RabbitMQ** for seamless messaging and event handling.\n• Spearheaded the integration of observability frameworks including **Prometheus** and **Grafana** for real-time monitoring of distributed systems, contributing to improved service uptime and performance insights.\n• Collaborated with cross-functional teams to build scalable solutions for systems supporting **Celery**, **Sidekiq**, and **BullMQ**, optimizing task execution and monitoring processes.\n• Delivered cloud-native applications aligned with industry standards, ensuring robust architecture leveraging cloud capabilities while adhering to compliance regulations (HIPAA, FHIR, etc.).\n• Pioneered machine learning models for predictive analytics, integrating them into backend services using frameworks such as **scikit-learn** and **TensorFlow** for enhanced decision-making in clinical settings.\n• Established CI/CD pipelines utilizing modern DevOps tools, ensuring high efficiency in deployment processes with a focus on security and quality through automated testing.\n• Delivered impactful data visualization tools using libraries such as **D3.js**, facilitating real-time insights and analytics for financial and health metrics, influencing strategic decisions across stakeholders.\n• Conducted testing strategies that included unit, integration, and E2E test cases employing **Jest** and **Cypress**, ensuring code integrity and application robustness.\n• Implemented advanced search capabilities using **Azure Cognitive Search** and **ElasticSearch** across large datasets of health records and financial documents, enhancing information retrieval effectiveness."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **asynchronous processing systems** and **queueing systems** such as **Kafka** and **RabbitMQ** to enhance application performance and reliability in high-volume transaction environments.\nDesigned and implemented **task orchestration** solutions using **Airflow** and **Celery**, facilitating the efficient scheduling and management of over **100** recurring batch jobs and real-time data processing tasks.\nDeveloped and maintained fault-tolerant **event-driven systems**, leveraging **Node.js** and **Python** frameworks like **FastAPI** and **Django**, achieving a **95%** uptime rate in real-time transaction processing workflows.\nLed the implementation of **distributed schedulers** utilizing **Apache Airflow**, which streamlined workflows and reduced data ingestion latency by over **30%** for financial data from internal and external sources.\nBuilt and optimized dynamic user interfaces for financial dashboards using **React (18)** and **Vue 3**, incorporating state management tools like **Redux Toolkit** to enhance user experience and application responsiveness.\nExecuted reliable ML pipelines using **scikit-learn** and **XGBoost**, directly influencing fraud detection performance, which decreased false positives by **20%** across banking systems.\nOrchestrated ETL processes utilizing **Azure Data Factory**, ensuring seamless batch and real-time data integration, leading to a consolidated data repository with a **40%** improvement in report generation speed.\nMonitored system performance and health metrics using **Prometheus** and **Grafana**, translating observability into actionable improvements that optimized system operations and user engagement."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Engineered and implemented **asynchronous processing systems** to enhance system responsiveness and throughput within high-traffic environments, using **Kafka** and **RabbitMQ** for **queueing systems**.\nDesigned and optimized **task orchestration** strategies employing tools such as **Celery**, **Sidekiq**, and **BullMQ** to efficiently manage complex workflows and reduce latency in service response times.\nDeveloped **event-driven systems** to support real-time features, leveraging **Google Pub/Sub** for seamless data streaming, and ensuring fault-tolerant design principles are implemented for uninterrupted service availability.\nUtilized **Python** and **Node.js** for backend service development, enhancing application performance with modern frameworks including **FastAPI** and **NestJS** to match scalability requirements across key application modules.\nImplemented **distributed schedulers** with **Temporal** and **Argo**, streamlining processes and improving overall system efficiency while handling large-scale data workloads effectively.\nMonitoring and observability were achieved through tools such as **Prometheus**, **Grafana**, and **OpenTelemetry**, ensuring proactive identification of system anomalies and maintaining optimal performance levels.\nFacilitated multi-cloud deployment strategies for application components, utilizing **Kubernetes** for orchestration and achieving operational resilience across different cloud providers.\nConducted thorough testing and evaluation of all systems to ensure reliability and compliance with industry standards and best practices, enhancing system reliability and user experience."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Go, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Celery, Node\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tmulti-cloud deployment strategies\n\n**Other:**\n\tasynchronous processing systems, queueing systems, task orchestration, distributed schedulers, event-driven systems, fault-tolerant design, observability, time-series monitoring, Prometheus, Grafana, OpenTelemetry, Airflow, Kafka, RabbitMQ, Google Pub/Sub, Sidekiq, BullMQ, Temporal, Argo\n"
+}

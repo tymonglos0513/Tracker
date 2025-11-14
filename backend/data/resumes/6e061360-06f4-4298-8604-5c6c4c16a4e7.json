@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Java Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Java Engineer with 10+ years of experience in delivering high-performance software solutions, proficient in **Java**, **JUnit**, **TestNG**, **Mockito**, and **Spring** framework. Demonstrated expertise in developing microservices with **JPA** and **Hibernate**, and adept in leveraging tools like **Maven** and **Gradle** for project management. Experienced in setting up CI/CD pipelines using **Jenkins**, **GitHub**, and **GitLab** to streamline software delivery. Competent in utilizing message brokers such as **Kafka** and **RabbitMQ** for event-driven architectures. \nAdditionally, skilled in cloud-native application development on **AWS** and **Azure**, while managing container orchestration with **Kubernetes**. Background in full-stack development with hands-on knowledge in **JavaScript/TypeScript**, and frameworks such as **React**, **Node.js**, and **FastAPI** brings versatility to the role. Strong focus on building secure, maintainable solutions, ensuring compliance with standards including HIPAA and PCI DSS. Passionate about driving real-world impact through innovative software solutions.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented microservices-based architectures utilizing **Java** and **Spring**, ensuring high availability and efficient service communication with tools like **Kafka** and **RabbitMQ** for robust message-driven solutions.\n• Developed and maintained testing frameworks using **JUnit**, **TestNG**, **Mockito**, and **TestContainers** to ensure code quality and reliability, achieving over **90%** code coverage in critical modules.\n• Managed CI/CD pipelines with **Jenkins**, **GitHub**, and **GitLab** for automated testing and deployments, reducing release times by **30%** and enhancing deployment frequency.\n• Engaged in code profiling and performance optimization utilizing **JProfiler** and **VisualVM**, improving application performance by **25%** through memory leak detection and CPU usage analysis.\n• Integrated cloud services on **AWS** and **Azure** to enhance application scalability and reliability, leveraging **Kubernetes** for orchestration and management of containerized applications across multiple environments.\n• Collaborated on database management and persistence layers utilizing **JPA** and **Hibernate**, optimizing query performance resulting in a **40%** reduction in response times for data retrieval tasks.\n• Executed Agile methodologies and participated in sprint planning, ensuring deliverables met business and regulatory requirements, including adherence to security practices and compliance standards.\n• Actively contributed to the design and implementation of RESTful APIs, improving interaction efficiency between front-end applications and back-end services, with an emphasis on secure data handling and processing. \n• Led knowledge sharing sessions and code reviews, strengthening team expertise in **Java**, **Microservices**, and DevOps practices, and fostering a culture of continuous improvement."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Fostered a robust microservices architecture using **Java**, **Spring**, and **JPA**, enhancing system performance and modularity across distributed financial applications.\nSpearheaded comprehensive unit and integration testing frameworks with **JUnit**, **TestNG**, and **Mockito**, ensuring 95% code coverage and improving release cycles by **30%**.\nStreamlined CI/CD processes utilizing **Jenkins** for consistent deployment pipelines, resulting in a **40%** reduction in deployment times.\nLeveraged **GitHub** and **GitLab** for version control and collaborative development, ensuring effective team synchronization and code quality through peer reviews.\nIntegrated message brokers like **Kafka** and **RabbitMQ** to support scalable communication patterns, enabling systems to handle over **1M** transactions per hour seamlessly.\nArchitected data access layers leveraging **Hibernate** for ORM capabilities, reducing data retrieval times by **20%** compared to previous implementations.\nOrchestrated ETL processes with **Maven** and **Gradle**, driving efficient data management workflows that improved data accuracy and consistency rates by **25%**.\nImplemented effective monitoring and profiling techniques using **JProfiler** and **VisualVM** to diagnose performance bottlenecks, improving application response times by **15%**.\nConducted comprehensive cloud solutions deployment on **AWS** and **Azure**, enhancing operational reliability and scalability for distributed applications, accommodating user growth by **50%**.\nUtilized **Kubernetes** for container orchestration, ensuring seamless scaling of microservices with minimal downtime in production environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Implemented and optimized **Java** microservices utilizing frameworks such as **Spring**, **Hibernate**, **JUnit**, and **Mockito**, ensuring high availability, low latency, and scalability across various modules.\nDeveloped backend testing strategies using **JUnit** and **TestNG**, ensuring code accuracy and reliability through continuous integration with **Jenkins** and **GitHub**.\nEngineered real-time messaging features leveraging **Kafka** and **RabbitMQ** for efficient data processing and event-driven architecture, enhancing user experience through rapid updates.\nUtilized **TestContainers** for seamless testing of service environments, ensuring reliable integration testing of the microservices on **AWS** and **Azure** cloud platforms.\nManaged builds and dependencies effectively using **Maven** and **Gradle**, streamlining deployment processes for **Kubernetes** environments.\nConducted performance profiling and tuning using **JProfiler** and **VisualVM**, addressing bottle-necks and ensuring optimal resource utilization, leading to performance improvements of up to **30%**.\nCollaborated with teams using **GitLab** for version control and project management, enabling more than **15** successful feature rollouts in a single quarter.\nDesigned and implemented robust APIs with **Spring JPA** to ensure efficient data access and management, achieving a response time reduction of **40%** across the application.\nParticipated in the enhancement of software security by applying **OAuth 2.0** for access control, ensuring compliance with industry standards and best practices.\nFostered a culture of quality and continuous delivery in agile environments, leading to an increase in sprint velocity by **20%** over **6 months**."
+    }
+  ],
+  "skills": "Programming Languages:\n\tJava, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tSpring, FastAPI, Flask, Django, JPA, Hibernate\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKafka, RabbitMQ, Microservices\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, JUnit, TestNG, Mockito, TestContainers, Maven, Gradle, IntelliJ, GitHub, GitLab, JVM, JProfiler, VisualVM, Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot)",
+  "apply_company": "AI Lab"
+}

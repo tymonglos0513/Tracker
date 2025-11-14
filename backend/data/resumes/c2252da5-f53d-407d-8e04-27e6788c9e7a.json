@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Accomplished Senior Data Engineer with 8 years of experience specializing in **Python**, **AWS**, including **S3**, **Redshift**, **FSx**, **Glue**, **Lambda**, and containerization technologies like **Docker**, **EKS**, and **Kubernetes**. My background includes extensive work with **NoSQL** databases and implementing **MLOps** practices, ensuring the seamless operation of data pipelines and model deployments. Familiar with healthcare data standards such as **CDISC**, **HL7**, **FHIR**, **SNOMED**, **OMOP**, and **DICOM**, I am adept at building secure, compliant data solutions aligned with industry regulations.\n\nI have a proven track record of leading data engineering projects that harness machine learning capabilities for actionable insights, backed by my experience in agile methodologies. With a solid foundation across modern frameworks and a commitment to developing scalable analytics solutions, I effectively enhance data-driven decision-making processes.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **SQL** to architect and implement data pipelines, ensuring efficient data ingestion and transformation in health and financial domains, complying with regulatory standards such as **FHIR** and **HIPAA**.\nDesigned and developed scalable data warehouse solutions on **AWS Redshift** with **S3** integration for optimized storage and querying of large datasets, achieving a **30%** improvement in query performance.\nEngineered ETL processes using **AWS Glue** for robust data preparation and integration, streamlining data flow across varied sources and reducing processing time by **40%**.\nManaged containerization and orchestration of applications with **Docker** and **Kubernetes (EKS)**, facilitating enhanced deployment strategies, reducing downtime, and maintaining high availability.\nEmployed **MLOps** frameworks to ensure deployment of machine learning models, utilizing **AWS Lambda** for serverless execution, which enabled seamless scaling and reduced costs.\nApplied Agile methodologies to coordinate multidisciplinary teams, contributing to timely delivery of data-driven solutions and iterative improvements based on user feedback.\nCollaborated with data analysts and scientists to design advanced analytical queries and machine learning pipelines using **NoSQL** databases, optimizing data retrieval processes and model training efficiency.\nImplemented mapping and transformation of healthcare data structures adhering to standards like **CDISC**, **HL7**, and **SNOMED**, ensuring compliance with healthcare data regulations.\nConducted performance tuning and optimization of data processes, resulting in a **25%** reduction in data retrieval times and substantial improvements in reporting capabilities.\nIntegrated data from various external APIs, enriching datasets with external financial indicators and healthcare statistics to enhance the overall data model and insights delivery.\nDeveloped comprehensive documentation and data lineage tracking for all implemented solutions, improving understanding and compliance among team members and stakeholders."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Leveraged **Python** and **SQL** to develop and maintain data pipelines, ensuring efficient data processing and transformation for analytics.\n- Employed **AWS** services including **S3**, **Redshift**, and **Glue** to optimize data storage and retrieval, enhancing speed and scalability of data operations for financial applications.\n- Managed and deployed containerized applications using **Docker** and **Kubernetes (EKS)**, streamlining development workflows with a focus on CI/CD principles and ensuring high availability.\n- Integrated **NoSQL** databases to support unstructured data storage, significantly improving data access times by **25%** for real-time analytics.\n- Implemented MLOps strategies using **Airflow** and model deployment pipelines for analytics, providing timely insights and predictive capabilities for financial services.\n- Utilized an **Agile** development methodology to enhance collaboration and accelerate the delivery of innovative data solutions, achieving a **30%** reduction in project timelines.\n- Designed robust ETL pipelines with **Apache Airflow** enhancing data ingestion from internal and external sources, achieving data processing speeds of up to **150 TB/month**.\n- Collaborated with cross-functional teams to implement ETL best practices, resulting in a **40%** increase in data accuracy and reliability for reporting purposes.\n- Developed and administered data quality checks to ensure compliance with standards such as **HL7** and **FHIR**, maintaining integrity within the healthcare data ecosystem."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **SQL** for data processing and transformation in an e-commerce ecosystem, ensuring efficient data management and integrity across various systems, while achieving a 30% improvement in data retrieval times.\nImplemented **AWS** cloud services including **S3**, **Redshift**, and **Lambda** to create scalable data pipelines that managed **1TB** of transactional data daily, facilitating seamless integration with real-time data analysis tools.\nDeveloped containerization solutions using **Docker** and deployed microservices using **Kubernetes (EKS)**, resulting in a 25% increase in deployment speed for data-driven applications.\nApplied **NoSQL** databases to enhance data storage capabilities and high-traffic handling, achieving reliable data access with an uptime of 99.9% across critical components.\nEngineered **MLOps** processes to streamline machine learning model deployment, significantly improving feedback cycles for new models and reducing training time by **40%** through automated workflows.\nCollaborated in an **Agile** development environment to deliver high-quality solutions rapidly, incorporating user feedback to refine features and prioritize tasks effectively, leading to a **15%** increase in team productivity.\nIntegrated health data standards such as **CDISC**, **HL7**, and **FHIR** to support data interoperability and compliance across multiple healthcare datasets, improving data quality and accessibility for analytical purposes.\nEnsured data security and compliance with frameworks like **RBAC** and **OAuth 2.0**, achieving full **GDPR** compliance and securing sensitive customer information in line with industry regulations."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, R\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\tMLflow, Airflow, Kubeflow, CDISC, HL7, FHIR, SNOMED, OMOP, DICOM\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda, S3), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL, Redshift, NoSQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, EKS\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS), Azure (Blob)\n\n **Other:**\n\tAuthentication & Security (Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), MLOps, Agile",
+  "apply_company": "Atorus"
+}

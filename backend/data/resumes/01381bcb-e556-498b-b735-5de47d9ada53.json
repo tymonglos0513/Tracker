@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Firmware Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Firmware Engineer with 13+ years of experience in developing high-performance applications. Strong expertise in **C** and **C++**, with a solid understanding of **RTOS** and **Linux** environments. Proficient in utilizing tools and concepts such as **JTAG**, **UART**, and **ICE** to enhance firmware robustness. Experienced in implementing security measures such as **secure boot**, **anti-rollback**, and **cryptographic signatures**. Adept at conducting **ransomware simulation** and **anomaly detection** to ensure firmware integrity.\n\nSkilled in other programming languages including **Python**, along with version control using **Git**. Proven ability to design solutions that align with industry standards. A strategic thinker with a track record in the healthcare and financial sectors, capable of delivering applications that leverage modern technologies.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Firmware Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **C** and **C++** programming languages to develop firmware solutions for embedded systems, ensuring efficient performance on **Linux** and real-time operating systems (**RTOS**).\nDesigned and implemented secure boot mechanisms, including **anti-rollback** features and **cryptographic signatures**, to enhance system security against unauthorized firmware modifications.\nDeveloped and conducted **ransomware simulation** tests to assess vulnerability, improving overall system resilience through comprehensive anomaly detection strategies.\nIntegrated **DMA** and **MMU** functionalities for optimized memory management, enhancing data throughput and processing efficiency in firmware applications.\nCollaborated on hardware communication protocols, implementing **JTAG**, **UART**, and **ICE** for debugging and programming embedded systems.\nEnhanced storage operations by utilizing **NVMe**, **ATA**, and tailored **FTL** for effective memory management, ensuring reliable data handling and performance.\nImplemented **ECC** and **TRIM** features for data integrity and optimization of storage resources, as well as conducting **Secure Erase** processes for secure data removal.\nLed firmware testing and versioning strategies using **Git**, ensuring robust management of firmware updates and bug tracking across **multi-environment deployments**.\nParticipated in the full **development lifecycle** for firmware projects, from initial design and implementation to unit testing and **release workflows**, promoting best practices in firmware development."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Developed and optimized low-level systems using **C** and **C++** for embedded firmware, enhancing performance and reliability in real-time operating systems (RTOS) on **Linux** platforms.\n• Implemented secure boot mechanisms with anti-rollback features, utilizing **cryptographic signatures** to ensure the integrity of firmware updates, achieving a 99% success rate in secure deployments.\n• Leveraged **DMA** and **MMU** technologies to streamline memory access for devices, resulting in a performance improvement of **30%** in data throughput for crucial firmware operations.\n• Conducted thorough testing and debugging of firmware using **JTAG**, **UART**, and **ICE**, significantly reducing time-to-market for firmware releases by **25%**.\n• Designed and maintained efficient data storage protocols for **NVMe** and **ATA** devices, applying **FTL** and **ECC** techniques to enhance data integrity and retrieval times.\n• Implemented advanced security protocols, including **secure boot** and **ransomware simulation**, ensuring firmware resilience against attacks and compliance with industry standards.\n• Managed version control and collaborative development using **Git**, fostering team communication and version tracking for firmware projects, leading to more streamlined deployment processes.\n• Spearheaded the integration of **TRIM** and **Secure Erase** functionalities in storage devices, optimizing performance and data security and achieving compliance with latest specifications.\n• Collaborated on the design and implementation of **UEFI** solutions, facilitating improvement in boot times by **15%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **C** and **C++** to develop and optimize firmware for embedded systems, ensuring seamless integration with **RTOS** and **Linux** environments, achieving efficient scheduling and reliable performance across device modules.\nImplemented **AXI** and **AHB** protocols to enhance system communication, successfully delivering data throughput improvements of **30%**.\nDesigned Memory Management Units (**MMU**) to enable secure and efficient memory allocation, improving system reliability and protection against unauthorized access.\nDeveloped Direct Memory Access (**DMA**) systems to offload tasks from the CPU, significantly reducing processing latency by **25%** during high-demand scenarios.\nExecuted secure boot processes incorporating **cryptographic signatures** and anti-rollback measures to safeguard firmware integrity, achieving compliance with industry standards.\nConducted **ransomware simulations** and **anomaly detection** assessments to identify vulnerabilities, resulting in a **40%** reduction of exploitable risks in firmware applications.\nMaintained device communication through advanced interfaces including **UART** and **JTAG**, facilitating effective debugging and real-time system monitoring.\nCollaborated with cross-functional teams using **Git** for version control, ensuring streamlined project management and code repository best practices across all development phases.\nOptimized data storage leveraging **NVMe** and **ATA** protocols, enhancing data retrieval times by **20%** in high-performance situations.\nIntegrated advanced features such as **FTL**, **ECC**, **TRIM**, and **Secure Erase** to improve data management and security for flash memory devices, aligning with modern compliance requirements.\nDeveloped and implemented **UEFI** standards for system firmware, ensuring robust boot processes and compatibility with secure platform standards."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, C, C++\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tOAuth2, JWT, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMachine Learning: MLflow, Airflow, Kubeflow\n\tSecurity: Nginx, Let’s Encrypt, Certbot\n\tLinux, UART, JTAG, ICE, secure boot, anti-rollback, cryptographic signatures, NVMe, ATA, FTL, ECC, TRIM, Secure Erase, UEFI, ransomware simulation, anomaly detection",
+  "apply_company": "GOODRAM | Wilk Elektronik SA"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Software Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Result-driven Software Engineer with 9+ years of experience in designing and implementing complex applications. Proficient in **AWS**, **Terraform**, **Git**, **CI/CD**, and **CircleCI**, leveraging agile methodologies including **Scrum** and **Kanban** to deliver high-quality solutions. Skilled in both front-end and back-end development with expertise in **React** and **C#**, alongside strong database knowledge in **SQL**, **NoSQL**, and **Postgres**. Experienced with microservices architecture and cloud services. Proven track record in optimizing application performance and streamlining development workflows while leading cross-functional teams to successful project completions.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Utilized **TypeScript** to enhance the development of a web-based customer management platform with **ReactJS** and **Next.js**, resulting in a **25%** increase in user satisfaction.\nEmployed **AWS** and **Terraform** for infrastructure management, ensuring robust deployment practices and scalability.\nImplemented **CI/CD** pipelines using **Azure DevOps**, achieving a **40%** reduction in deployment time.\nDeveloped modular microservices architecture leveraging **.NET Core** to improve scalability and maintainability of the application.\nIntegrated **Apache Kafka** for real-time data streaming and **RabbitMQ** for efficient task queuing, enhancing system resilience and throughput.\nApplied **Redis** for caching strategies, thus reducing database load and achieving a **35%** improvement in response times.\nDesigned and built RESTful APIs with **.NET**, utilizing a **MongoDB** database to facilitate seamless service data access.\nOptimized **MSSQL** database performance through strategic query optimization and indexing, reducing average query execution times by **20%**.\nWorked in an **Agile** environment, collaborating with UX/UI designers to significantly enhance the user interface and improve overall user experience.\nConstructed a dynamic reporting engine using **D3.js** and **Three.js** for enhanced interactive data visualizations.\nImplemented secure JWT-based authentication and authorization protocols to protect application access and data integrity."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "• Developed cloud-based applications using **Angular** and **.NET Core**, resulting in a 15% increase in team collaboration efficiency.\n• Designed and implemented **microservices architecture** leveraging **RabbitMQ** and **Apache Kafka**, enhancing system scalability to handle over **1,000** concurrent users.\n• Optimized backend performance by integrating **Redis** as a caching layer, which led to a **25% boost** in response times for API calls.\n• Built RESTful APIs with **.NET Core**, seamlessly integrated with **PostgreSQL** database for real-time data access.\n• Created user-friendly components using **ReactJS** and **Tailwind CSS**, which improved user engagement by **25%** on the platform.\n• Implemented CI/CD processes using **GitHub Actions** and **CircleCI**, reducing deployment errors by **30%** and speeding up release cycles.\n• Managed and optimized both **MSSQL** and **MySQL** databases for data storage, improving query performance by **40%**.\n• Collaborated with cross-functional teams using **Agile** methodologies (Scrum and Kanban), ensuring projects were delivered on time and met stakeholder expectations.\n• Developed interactive data visualization tools using **D3.js** for project status tracking, enhancing visibility into project progress.\n• Conducted thorough code reviews and mentorship sessions, significantly increasing team productivity and cohesiveness."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Utilized **Typescript** and **React** to enhance frontend features, significantly improving user engagement metrics by **25%**.\nImplemented CI/CD processes with **CircleCI** to automate deployments, reducing deployment time from **4 hours** to **1 hour** and enhancing development throughput.\nDeveloped reliable microservices using **Python** and **C#**, ensuring robust integration with various databases, including **Postgres** and **DynamoDB**.\nManaged configuration as code using **Terraform** for seamless infrastructure provisioning in **AWS**, leading to more consistent environment setups for development and production.\nDesigned and maintained scalable database solutions, leveraging **SQL** and **NoSQL** technologies, resulting in a **30%** improvement in data retrieval times.\nWorked in an **Agile** environment with **Scrum** and **Kanban** methodologies to facilitate cross-functional collaboration and improve project delivery speed.\nConducted unit testing with **Jest** and **Vitest** to ensure code quality and reliability, achieving a code coverage of over **85%**.\nCollaborated with cross-functional teams to integrate third-party services, enhancing overall system capabilities and operational efficiency.\nProvided mentorship to junior developers on best practices in **Git** version control and agile methodologies, fostering a culture of continuous improvement.\nProduced comprehensive technical documentation that improved onboarding time for new team members by **40%**."
+    }
+  ],
+  "skills": " **Programming Languages** \n\t TypeScript, Python, C, C#, Rust, JavaScript \n\n **Backend Frameworks** \n\t NodeJS, ExpressJS, NestJS, .NET, Microservices \n\n **Frontend Frameworks** \n\t ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS \n\n **API Technologies** \n\t RESTful API, GraphQL \n\n **Serverless and Cloud Functions** \n\t AWS, Azure \n\n **Databases** \n\t MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB \n\n **DevOps** \n\t CI/CD pipelines, CircleCI, Terraform \n\n **Cloud & Infrastructure** \n\t AWS \n\n **Other** \n\t UX/UI Design, Git, GitHub, Agile, Kanban, Scrum, SQL, NoSQL, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Vitest, Messaging & Caching: Apache Kafka, RabbitMQ, Redis, Blockchain: Solidity, Ether.js, Web3.js, Ethereum, Wireshark, Electrical Engineering "
+}

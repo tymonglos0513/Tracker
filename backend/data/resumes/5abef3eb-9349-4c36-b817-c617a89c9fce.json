@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior ML Engineer (Speech Synthesis)",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior ML Engineer with 13+ years of experience specializing in **Python**, **PyTorch**, **multilingual TTS**, **neural TTS**, and **speech synthesis**. Proven expertise in deploying ML models with **Kubeflow**, **MLflow**, and using **Ray** for scalable compute tasks. Skilled in integrating systems with **Kafka**, **Redis**, and working with databases like **PostgreSQL** and data formats such as **Parquet**. Proficient in converting models to optimized formats with **ONNX** and **TensorRT** for enhanced performance.\n\nStrong background in full stack development, with hands-on expertise in both frontend and backend frameworks including **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experienced in building AI/ML-powered platforms that support predictive analytics, automation, and real-time processing, while ensuring adherence to compliance standards including HIPAA, FHIR, PCI DSS, and SOC 2. Adept in deploying cloud-native systems on **AWS** and **Azure**, and implementing microservices and CI/CD pipelines.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer (Speech Synthesis)",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Leveraged **Python** to develop and optimize multilingual **TTS** and **speech synthesis** models, ensuring high-quality audio output and adherence to the latest standards in neural network design.\nUtilized **PyTorch** for building advanced **LLM-based approaches** to enhance the performance of text-to-speech conversions, resulting in an improvement of quality metrics by **25%**.\nDesigned and implemented scalable deployment solutions in **Docker** and **Kubernetes** environments for **Ray** and **Kubeflow**, allowing for seamless model training and inference on multi-node clusters, improving deployment efficiency by **40%**.\nIntegrated data processing pipelines with **Kafka** and **Redis** for real-time audio stream handling and caching, ensuring sub-second latency in TTS responses.\nDeveloped robust storage solutions using **PostgreSQL** to manage metadata for TTS datasets, supporting queries that resulted in a **30%** reduction in data retrieval times.\nImplemented **MLflow** and **Weights & Biases** for tracking experiments and optimizing hyperparameters, increasing model training reproducibility and efficiency by **20%**.\nCollaborated with cross-functional teams to define specifications for integrating multilingual TTS services into existing applications, enhancing user engagement metrics by **15%**.\nConducted rigorous model testing and validation to ensure high levels of reliability and performance, achieving robust compliance with industry standards in **neural TTS** functions.\nAuthored and maintained documentation for model development and deployment processes, improving team onboarding and knowledge sharing.\nStreamlined CI/CD processes for machine learning models using modern tools, reducing deployment times from days to hours while maintaining high standards of quality and security."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **PyTorch** to develop state-of-the-art multilingual TTS systems, enhancing speech synthesis performance and efficiency.\nImplemented neural TTS models and LLM-based approaches for improved naturalness and intelligibility in voice outputs.\nDeployed scalable infrastructures using **Docker** and **Kubernetes** for managing containerized applications and orchestration, resulting in a **50%** reduction in deployment time.\nDesigned and maintained high-performance data pipelines leveraging **Kafka** and **Redis** for smooth processing of real-time audio data streams.\nUtilized **PostgreSQL** and **Parquet** for efficient storage and querying of large datasets, achieving a **30%** increase in data retrieval speed.\nIntegrated machine learning workflows with **MLflow** and **Weights & Biases** for experiment tracking and model management, resulting in enhanced collaboration and reproducibility among data scientists.\nCollaborated with teams to utilize **Ray** and **Kubeflow** for distributing computations across large-data workloads, leading to reduced training duration by **40%**.\nEnsured model optimization and performance evaluation using **ONNX** and **TensorRT**, streamlining inference processes for deployment in production environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** for the development of advanced speech synthesis solutions, employing **PyTorch** for building and training **neural TTS** models that enhance multilingual text-to-speech capabilities.\nLeveraged **Kafka** for efficient data streaming and real-time processing, ensuring seamless integration of multilingual datasets for training **speech synthesis** algorithms.\nEmployed **Docker** and **Kubernetes** for containerization and orchestration of ML workflows, enabling consistent deployment of **LLM-based approaches** across diverse environments while streamlining version control (e.g., version **1.0** of the model).\nImplemented **Ray** for distributed computing to accelerate model training processes, enhancing efficiency by up to **30%** through parallelization.\nManaged ML lifecycle with tools like **MLflow** and **Weights & Biases**, providing visibility into experiments and facilitating reproducibility of results for various model iterations, including performance metrics at each stage.\nOptimized data handling with **PostgreSQL** and **Parquet** for effective storage and querying of training datasets, improving retrieval times by **40%** in high-traffic scenarios.\nConducted extensive evaluations of models using **ONNX** and **TensorRT** for optimizing inference speed and deployment in production environments, achieving inference time reductions to less than **50ms** per query.\nIntegrated caching strategies using **Redis** to store frequently accessed inference results, significantly boosting performance during peak usage times.\nCollaborated in cross-functional teams to design and implement robust **speech synthesis** functionalities using **neural TTS** architectures, improving accuracy and naturalness of generated speech.\nParticipated in agile practices to iterate on language models, ensuring timely updates and enhancements to the **speech synthesis** capabilities in response to user feedback and technological advancements."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, \n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, \n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular, \n\n **API Technologies:**\n\tKafka, \n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3, \n\tAzure: App Services, Blob Storage, SQL Database, \n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Parquet, \n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, \n\n **Cloud & Infrastructure:**\n\tAWS, Azure, \n\n **Other:**\n\tPyTorch, multilingual TTS, neural TTS, speech synthesis, LLM-based approaches, MLflow, Airflow, Kubeflow, Weights & Biases, ONNX, TensorRT"
+}

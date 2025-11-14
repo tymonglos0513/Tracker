@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Data Engineer with 8 years of experience in backend development and real-time data processing. Proficient in **Python**, **Node.js**, and **Django**, along with a strong focus on databases and system design, I specialize in building high-performance, scalable data solutions tailored to the healthcare and financial industries. Skilled in batch processing and data modeling, I have successfully led enterprise projects designed to enhance data integrity and accessibility.\nIn addition to my extensive backend expertise, I possess a solid foundation in **React**, **Next.js**, and **Vue** for full-stack development, leveraging **Azure** and **AWS** for cloud deployment. My work incorporates AI/ML integration through innovative pipelines and MLOps, utilizing tools such as **MLflow**, **Airflow**, and **Kubeflow**. Committed to adhering to compliance standards like HIPAA, FHIR, and PCI DSS, I deliver secure, reliable, and efficient applications.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented robust **backend** systems and architectures, ensuring efficient data flow for real-time and batch processing. \n- Developed scalable data models and optimized databases including PostgreSQL and MongoDB, managing high-volume healthcare and financial data with over **1 million** records in production. \n- Engineered **data pipelines** for real-time data processing, utilizing tools such as Apache Kafka, ensuring low-latency data ingestion and processing. \n- Executed system design projects that enhanced data accessibility and integrity, improved by **30%** through new strategies implemented. \n- Collaborated with cross-functional teams to analyze and model data requirements, aligning with best practices to support data analytics and reporting. \n- Conducted comprehensive data modeling activities, leading to the creation of well-defined structures for various data types, including healthcare and financial datasets. \n- Developed and maintained efficient batches for regular data processing workflows using **Python** and **Apache Airflow**, streamlining operations and reducing processing time by **25%**. \n- Ensured compliance with data governance standards, providing a solid framework for data management tailored to healthcare and financial regulations. \n- Implemented best practices for version control and deployment of data services, resulting in improved stability and performance of **data solutions**. \n- Spearheaded initiatives for cloud-based database solutions, effectively utilizing **AWS** and **Azure** services, enhancing system scalability and capitalizing on cloud capabilities. \n- Engaged in continuous performance monitoring and optimization of data systems, with logs and analytics improving overall system uptime to **99.9%**. \n- Built and supported test strategies for data quality assurance, integrating tools like **Jest** and **Postman** to ensure accuracy in ETL processes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Leverage backend expertise to lead the development and modernization of financial platforms through a microservices-based architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing scalability and maintainability for high-volume transaction systems.  \nFacilitate real-time data processing by integrating **Kafka**, **RabbitMQ**, and **Azure Service Bus**, establishing a robust event-driven architecture that supports asynchronous communication and real-time event processing for transactions and alerts.  \nConduct batch processing with the construction and orchestration of ETL pipelines employing **Python**, **Apache Airflow**, and **Azure Data Factory** to enable efficient ingestion of financial data from both internal and third-party sources.  \nUtilize strong system design capabilities to enhance financial applications, building dynamic, user-focused front-end applications using **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, ensuring responsiveness and performance for financial dashboards and admin portals.  \nImplement effective data modeling techniques through the development of real-time transaction monitoring and analytics dashboards leveraging **React**, **D3.js**, and **Power BI Embedded**, allowing operations teams to track financial activities and generate actionable insights.  \nUtilize advanced analytical tools for fraud detection, implementing AI/ML-powered systems using **scikit-learn**, **XGBoost**, and **Azure Machine Learning** to analyze transaction patterns, proactively flagging suspicious activities in banking systems.  \nDesign and create ML pipelines for credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, integrating model inference directly into backend services for real-time decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Designed and optimized **backend** services for a global e-commerce platform using **Python** (**FastAPI, Django**) and **Node.js** (**NestJS, Express**), ensuring high availability and scalability across business-critical modules like checkout and order fulfillment.\n- Engineered **real-time data processing** features using **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ**, enabling responsive order updates and dynamic inventory tracking.\n- Leveraged **databases** such as **MongoDB**, **PostgreSQL**, and **Redis** for efficient data storage, ensuring quick access and high performance for high-traffic workflows, improving read speed by **25%** through effective caching strategies.\n- Implemented robust **system design** principles for distributed systems, utilizing **Cassandra** for fault-tolerant data access and resilience.\n- Developed data models suitable for both **real-time** and **batch processing** scenarios, facilitating data pipelines that scaled to support traffic surges of over **10,000** concurrent users.\n- Integrated AI/ML models for predictive analytics and recommendations using **scikit-learn**, which resulted in a **15%** increase in conversion rates through optimized search relevance.\n- Applied comprehensive role-based access control (RBAC) and **OAuth 2.0** for secure data access, ensuring compliance with GDPR regulations and protecting user information.\n- Conducted iterative reviews of system architecture and performance metrics, continuously enhancing platform robustness and responsiveness."
+    }
+  ],
+  "skills": " **Backend Frameworks:** \n\tFastAPI, Flask, Django \n\n **Programming Languages:** \n\tPython, JavaScript, TypeScript \n\n **Frontend Frameworks:** \n\tReact, Vue, Angular \n\n **API Technologies:** \n\tNginx, JWT, OAuth2 \n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda), Azure (App Services)  \n\n **Databases:** \n\tPostgreSQL, MySQL, MongoDB, Redis \n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, MLflow, Airflow, Kubeflow \n\n **Cloud & Infrastructure:** \n\tAWS (RDS, S3), Azure (Blob, SQL) \n\n **Other:** \n\tKeycloak (OIDC, RBAC), Let’s Encrypt, Certbot, system design, real-time data processing, batch processing, data modeling",
+  "apply_company": "Yahoo"
+}

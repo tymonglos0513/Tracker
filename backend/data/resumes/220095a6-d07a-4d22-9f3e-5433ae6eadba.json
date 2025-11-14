@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Backend Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Results-driven Backend Engineer with over 10 years of experience in creating efficient and scalable backend systems, specializing in cutting-edge technologies such as **Node.js**, **TypeScript**, **Fastify**, and **PostgreSQL**. Proven expertise in building high-performing APIs and implementation of **CI/CD** pipelines, coupled with strong skills in **Docker** and **Terraform** for cloud-native environments. Experienced in enhancing ML model integration and conducting A/B testing using tools like **Polars** and **Pandas**. Adept at leveraging **Redis** for optimized data management and deploying seamless applications using frameworks like **React** and **Next.js**. Consistent history of driving impactful projects with leading organizations, ensuring high-quality service delivery.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered backend services using **Node.js** and **TypeScript** with **Fastify** to streamline document automation, user onboarding, and reporting workflows.\nDeveloped event-driven solutions with **Redis** to manage asynchronous processing for financial transaction requests in **version 2.0**.\nDeployed microservices in **Docker** on cloud services and utilized **Terraform** to manage infrastructure as code, ensuring seamless cloud operations across **3** environments.\nCreated and maintained data pipelines for regulatory data exchange with **PostgreSQL** and **Kysely**, ensuring timely and accurate data flow with a processing time under **100ms**.\nLed security assessments and integrated **OAuth2** for secure, scalable authentication systems within the application lifecycle.\nImplemented CI/CD methodologies to enhance deployment processes, achieving a deployment frequency of **5** releases per week.\nCollaborated with cross-functional teams to address system integration challenges, ensure compliance, and oversee release strategies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Developed backend systems in **Node.js** and **TypeScript** to enhance performance and scalability for document workflows, improving user onboarding by **30%**.\nCreated event-driven microservices using **Fastify** and **Redis**, enabling asynchronous processing of financial data and transaction requests, reducing latency by **25%**.\nManaged the deployment of microservices on cloud platforms, leveraging **Docker** and **Terraform** for infrastructure automation to maintain consistent and scalable environments with **0%** downtime during updates.\nEngineered data pipelines for the secure exchange of regulatory data using **PostgreSQL** and **Redis**, utilizing **Apache Airflow** and **Next.js** to automate and streamline the data flow, achieving compliance with industry standards.\nPerformed security audits to ensure compliance with industry standards, and integrated OAuth2 and Azure AD B2C for authentication and secure access controls, reducing vulnerabilities by **40%**.\nCollaborated with cross-functional teams to ensure smooth system integration and successful release management, employing an Agile methodology to enhance project delivery timelines."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed backend services using **Node.js**, **TypeScript**, and **PostgreSQL** to support trade execution, portfolio management, and account tracking, enhancing trading operations by **30%**.\nEngineered real-time data processing systems utilizing **Redis** and **Fastify** to provide instantaneous updates for high-frequency transactions, achieving latency reduction of **15ms**.\nCollaborated with frontend teams to design efficient APIs using **Fastify** and **Zod**, facilitating seamless data exchange and smooth user interactions with the platform.\nEnsured compliance with regulatory standards, including MiFID II and GDPR, while upholding data security protocols to protect sensitive information.\nImplemented robust CI/CD pipelines leveraging **Docker** and **Terraform**, contributing to a **50%** increase in deployment frequency.\nIncorporated testing frameworks such as **Jest** and **Supertest** for comprehensive test coverage, streamlining QA processes and reducing bugs by **25%**.\nDeployed solutions for job queuing and scheduling with **Celery** and **RabbitMQ**, optimizing task execution times and improving backend performance by **40%**.\nIntegrated ML models for A/B testing using **Pandas** and **Polars**, enhancing decision-making processes and user experience."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Node.js, TypeScript, Python (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\t FastAPI, Flask, Django, Celery, Fastify\n\n**Frontend Frameworks**\n\t React, Next.js\n\n**API Technologies**\n\t REST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\t AWS (EC2, S3, Lambda), Azure, Docker, Kubernetes, GitHub Actions, Azure DevOps\n\n**Databases**\n\t PostgreSQL, MySQL, MongoDB, Redis, Kysely\n\n**DevOps**\n\t CI/CD, Git, Docker, Terraform\n\n**Cloud & Infrastructure**\n\t AWS, Azure\n\n**Other**\n\t AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, A/B testing, ML model integration, Polars\n"
+}

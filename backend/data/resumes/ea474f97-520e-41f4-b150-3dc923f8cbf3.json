@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "AI Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As an AI Engineer with 8 years of experience, I excel in developing AI systems and deploying large language models (LLMs) into production. My technical expertise includes proficiency in **TypeScript**, **Python**, **React**, and building robust APIs, ensuring seamless integration and functionality of AI-driven solutions. I have significant experience in managing large data pipelines and working with distributed systems, which enhance the performance of AI applications.\n\nIn addition to my AI and engineering skills, I have a strong background in image processing and Optical Character Recognition (OCR), utilizing tools and frameworks to streamline data handling. I am also adept in leveraging **AWS** for scalable deployment and orchestration frameworks that manage complex workflows efficiently.\n\nWith a solid foundation in microservices architecture, I have successfully led the creation of enterprise-grade platforms that integrate AI/ML capabilities for intelligent automation and real-time data processing. My comprehensive understanding of compliance standards such as HIPAA and PCI DSS ensures that the applications I develop are secure and reliable. Additionally, I bring hands-on experience with **vector databases** and **embeddings** strategies, enhancing the efficiency of machine learning workflows.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and implemented AI systems leveraging **TypeScript** and **Python** to build robust, scalable applications designed for large data processing and distributed systems.\nArchitected vector databases and embeddings for efficient machine learning workflow integration, streamlining data access and management.\nDesigned and deployed APIs for seamless interaction between **AI** functionalities and client applications, ensuring efficient data communication and processing.\nIntegrated advanced image processing techniques and OCR technologies into applications, providing enhanced data extraction capabilities for large datasets.\nUtilized **AWS** services for scalable cloud-based solutions, managing large data pipelines that support real-time data processing and analytics.\nImplemented orchestration frameworks to automate workflows and manage dependencies across microservices in distributed systems.\nDeveloped machine learning models utilizing **React** for front-end deployment of AI features and services, optimizing the user experience through predictive analytics.\nCollaborated on projects deploying LLM production systems to deliver high-performance AI models in real-world applications.\nBuilt and scaled AI-powered solutions to handle datasets of up to **10 million records**, ensuring operational efficiency and accuracy.\nEstablished testing and integration strategies using tools like Jest and Cypress, ensuring the reliability of AI systems during development and deployment phases.\nEmployed **Python** libraries for model training and evaluation, enhancing the performance of AI applications across production environments.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and implemented **AI systems** to enhance financial analytics and decision-making processes, utilizing **Python** and **TypeScript**.\nDesigned and integrated **APIs** to facilitate communication between various microservices, ensuring seamless data exchange within distributed architectures.\nBuilt dynamic, user-focused front-end applications using **React (18)**, applying techniques to optimize performance and user experience in financial dashboards and admin portals.\nEstablished **large data pipelines** by orchestrating ETL processes with **Apache Airflow** and **Azure Data Factory**, efficiently handling data from over **50** internal and third-party sources.\nIntegrated **OCR** and **image processing** technologies to automate data entry and verification processes, improving operational efficiency by up to **30%**.\nImplemented **LLM production** systems using **scikit-learn** and **XGBoost** for analyzing transaction patterns and detecting anomalies in real-time, enhancing fraud detection capabilities.\nUtilized **vector databases** to optimize search and retrieval of embeddings, improving the performance of ML models in financial applications.\nCreated ML pipelines for tasks such as credit scoring and churn prediction, successfully deploying models into production environments for real-time insights and actions.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** to design and optimize APIs for AI systems, ensuring seamless integration for applications leveraging AI technologies.\nDeveloped and maintained robust, scalable **Python** applications, emphasizing effective orchestration frameworks for Large Language Model (LLM) production and real-time data processing.\nEngineered efficient data pipelines for processing large datasets, enhancing the performance and reliability of AI-driven features using distributed systems architecture.\nCreated and optimized frontend user interfaces with **React**, enhanced by **TypeScript**, ensuring responsive designs that facilitate user interaction with AI functionalities.\nImplemented **AWS** cloud services to host ML models, improving scalability and performance metrics, thereby processing an average of **500K** requests per day with a response time under **200ms**.\nIntegrated vector databases for efficient storage and retrieval of embeddings, crucial for AI model efficiency and speed in applications.\nCrafted image processing solutions leveraging OCR technologies to enhance data extraction capabilities, resulting in a **30%** increase in accuracy for automated data entry tasks.\nDeveloped comprehensive testing and deployment strategies in collaboration with team members, ensuring all AI systems were deployed with **zero** downtime.\nMaintained compliant and secure APIs aligned with GDPR regulations, safeguarding user data and strengthening platform security with role-based access control (RBAC).\nParticipated in innovative projects utilizing AI-driven techniques, continuously assessing emerging trends and technologies to improve deployment efficiency."
+    }
+  ],
+  "skills": " **Programming Languages** \n\t Python, TypeScript\n\n **Backend Frameworks** \n\t FastAPI, Flask, Django\n\n **Frontend Frameworks** \n\t React, Vue, Angular\n\n **API Technologies** \n\t APIs\n\n **Serverless and Cloud Functions** \n\t AWS (Lambda), Azure (App Services)\n\n **Databases** \n\t PostgreSQL, MySQL, MongoDB, Redis, Vector databases\n\n **DevOps** \n\t Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure** \n\t AWS (ECS, RDS, S3), Azure (Blob, SQL)\n\n **Other** \n\t MLflow, Airflow, Kubeflow, AI systems, LLM Production, Orchestration frameworks, OCR, Image processing, Large data pipelines, Distributed systems, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot"
+}

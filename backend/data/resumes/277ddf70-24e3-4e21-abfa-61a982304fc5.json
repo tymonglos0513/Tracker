@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with 8 years of experience specializing in cloud services and automation tools such as **Terraform**, **Puppet**, **Ansible**, and **Jenkins**. Proficient in managing cloud infrastructures across **AWS**, **GCP**, and **Azure**, while leveraging **Linux** environments for optimal application performance. I possess advanced scripting skills in **Bash** and **Python**, and have hands-on expertise with database management using **MySQL**, **MariaDB**, and **Galera**, along with cloud databases like **AWS RDS** and **AWS Aurora**. \nAdditionally, my solid foundation in full-stack development, utilizing **JavaScript**, **TypeScript**, **React**, **Node.js**, and **Django** contributes to a holistic view of software deployment and management. I’ve successfully implemented CI/CD pipelines and have deep knowledge of microservices architecture while ensuring compliance with industry standards. My experience extends to collaborative DevOps practices, fostering a culture of innovation and efficiency throughout the software development lifecycle.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented infrastructure as code using **Terraform**, ensuring efficient deployment and management of cloud resources across **AWS**, **GCP**, and **Azure** environments.\n- Automated application deployment and configuration management through **Ansible** and **Puppet**, increasing deployment speed by **40%** and reducing manual intervention.\n- Managed and optimized Linux server environments, enhancing system performance and security while achieving an **uptime** of **99.9%**.\n- Developed CI/CD pipelines with **Jenkins** and integrated **GIT** for version control, facilitating faster release cycles and reducing lead time by **30%**.\n- Deployed and managed database solutions such as **MySQL**, **MariaDB**, and **AWS RDS**, ensuring high availability and performance optimization through replication and load balancing.\n- Established monitoring systems using **Bash** scripting and orchestration tools, leading to a **50%** reduction in incident response times.\n- Collaborated with development teams to implement code quality checks and security scans in the deployment pipeline, ensuring compliance with best practices and reducing vulnerabilities by **25%**.\n- Provided support and troubleshooting for cloud-based applications across multiple environments, leveraging expertise in **Linux** and scripting to resolve issues efficiently.\n- Championed cloud migrations and integrations, ensuring seamless transition and operational continuity across **AWS Aurora**, **Cloud Spanner**, and other cloud services.\n- Led initiatives to document infrastructure and deployment processes, contributing to a comprehensive knowledge base that improved team onboarding and productivity.\n- Utilized **VMWare** for virtualized environments, optimizing resource allocation and enabling efficient scaling based on application demand."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Terraform**, **Ansible**, and **Puppet** to automate infrastructure provisioning and configuration management, enhancing deployment efficiency by **40%** across cloud environments including **AWS**, **GCP**, and **Azure**.\nManaged and optimized Linux-based environments, ensuring smooth operations of applications and services, contributing to a **99.9%** uptime of financial platforms.\nImplemented CI/CD pipelines using **Jenkins** and **Git**, streamlining the release process and reducing deployment time by **60%** through automated testing and integration.\nDesigned and maintained MySQL, MariaDB, and Galera databases, ensuring high availability and performance for transaction processing with replication and failover strategies.\nIntegrated cloud-native solutions like **AWS RDS** and **AWS Aurora** to enhance scalability and performance, supporting high-volume data transactions with low latency.\nDeveloped scripts in **Bash** for routine automation tasks, improving operational efficiency and reducing manual intervention.\nLed cloud migration projects, optimizing resource utilization and cost-effectiveness by **30%** using **Cloud Spanner** for scalable database solutions.\nFacilitated knowledge sharing and training for the team on best practices for cloud deployments and infrastructure as code (IaC) strategies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Terraform** to provision and manage infrastructure on **AWS**, **GCP**, and **Azure**, automating deployments and ensuring consistent environments.\nImplemented continuous integration/continuous deployment (CI/CD) pipelines using **Jenkins**, streamlining build processes across **Python** and **Ruby** applications with version control in **GIT**.\nConfigured and maintained server environments on **Linux**, optimizing performance using **Ansible** and **Puppet** for server configuration management, leading to a **25%** reduction in setup times.\nManaged relational databases like **MySQL**, **MariaDB**, and **Galera**, ensuring high availability and replication for fault tolerance in production environments.\nCollaborated with cross-functional teams to deploy containerized applications using **Docker** and orchestrated them with **Kubernetes**, enhancing scalability and load balancing across **15+** services.\nWrote **Bash** scripts to automate routine tasks and improve system administration efficiency, reducing manual efforts by **30%**.\nMonitored system performance with tools like **AWS CloudWatch** and **GCP Stackdriver**, implementing proactive measures that diminished downtime incidents by **40%**.\nEnsured compliance with corporate policies on security and data handling across all environments, including Role-Based Access Control (RBAC) and integration of OAuth 2.0.\nMaintained documentation for infrastructure processes and guidelines, contributing to a knowledge-sharing culture that improved team onboarding efficiency by **50%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Ruby, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MariaDB, MongoDB (Gaming), Redis, Galera, Cloud Spanner\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Jenkins, Puppet, Bash\n\n **Cloud & Infrastructure:**\n\tAWS, GCP, Azure, VMWare, Linux\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Certbot, Docker Compose",
+  "apply_company": "emerchantpay"
+}

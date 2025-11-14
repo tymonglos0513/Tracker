@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a skilled **DevOps Engineer** with 8 years of experience, I excel in provisioning and managing **multi-region AWS environments** utilizing services such as **AWS** (EKS, RDS, IAM, VPC, S3) alongside containerization tools like **Docker** and **Kubernetes**. Proficient in **Infrastructure as Code** using **Terraform**, **OpenTofu**, and **Crossplane**, I ensure efficient deployment and management of cloud resources. My expertise extends to monitoring solutions with **Prometheus**, **Grafana**, and **CloudWatch**, and I leverage CI/CD automation with **GitLab** and **Flux** for seamless integration and delivery.\n\nI have a robust understanding of **service mesh architectures** using **Linkerd** and **Istio**, and I champion **networking and security controls** that align with best practices for **disaster recovery** and **business continuity planning**. With a background in **cloud technologies** and full-stack development utilizing **JavaScript/TypeScript**, **Python**, and **Flutter**, I bring a diverse skill set to designing and implementing secure, high-performance solutions. My commitment to robust architecture and system resilience is demonstrated through my work in developing enterprise-grade platforms that incorporate predictive analytics, intelligent automation, and real-time data processing.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented Infrastructure as Code (IaC) strategies using **Terraform** and **OpenTofu** to manage and provision resources across **multi-region AWS environments** ensuring efficient resource allocation and disaster recovery planning.\nDesigned and maintained scalable CI/CD pipelines leveraging **GitLab** and **Flux**, enabling seamless deployments for applications running on **Kubernetes (EKS)** with automated tests and rollback strategies.\nDeveloped monitoring and alerting systems using **Prometheus** and **Grafana**, facilitating real-time observation of system performance and enhancing business continuity planning through proactive incident management.\nConfigured and secured cloud resources using **AWS IAM**, ensuring robust **networking and security controls** while facilitating access to **AWS S3**, **RDS**, and other services in a self-service portal manner for development teams.\nDeployed containerized applications using **Docker** and orchestrated them via **Kubernetes**, achieving high availability and container management, while optimizing resource utilization.\nEstablished service mesh architectures utilizing **Istio** and **Linkerd** to enhance microservices communications, improve observability, and enforce security policies across distributed services.\nConducted system upgrades and performance tuning on various cloud services and ensured compliance for regulatory requirements across environments, incorporating automated compliance checks.\nExecuted routine disaster recovery drills and updated plans to ensure smooth operation and data integrity against unexpected outages or failures, exemplifying strong business continuity strategies.\nCollaborated with cross-functional teams to provide innovative solutions that aligned with best practices in **networking and security**, delivering measurable improvements in system reliability and developer efficiency.\nUtilized **Bash** scripting to automate routine tasks related to system maintenance and deployments, reducing manual workload and increasing the efficiency of operational processes.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Managed **AWS** environments, implementing **EKS** for container orchestration and using **Docker** to streamline application deployment, contributing to a **50%** increase in deployment efficiency.\nDesigned and maintained **RDS** instances and optimized **S3** storage for critical applications, enhancing data retrieval speeds by **30%** through strategic configuration and access policies.\nDeveloped and deployed Infrastructure as Code (IaC) using **Terraform** and **OpenTofu**, enabling rapid environment provisioning and ensuring consistency across **multi-region AWS environments**.\nImplemented robust **IAM** policies to enforce security protocols, improving compliance and governance across systems and workflows.\nManaged **VPC** configurations to establish secure networking and security controls, integrating **service mesh architectures** like **Linkerd** and **Istio** to enhance microservices communication.\nCreated and monitored CI/CD pipelines using **GitLab** and **Flux**, achieving a **40%** reduction in deployment errors through automated testing and validation.\nSet up monitoring and alerting solutions with **Prometheus**, **Grafana**, and **CloudWatch**, providing real-time insights into system performance and reliability.\nUtilized **Bash** scripting for automation tasks, enhancing workflow efficiency by integrating self-service portals for development teams.\nParticipated in disaster recovery and business continuity planning initiatives, ensuring operational resilience and reducing downtime to an average of **2 hours** per month."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented Infrastructure as Code (IaC) strategies using **Terraform** for provisioning and managing resources in **multi-region AWS environments**, ensuring consistency and scalability across deployment stages.\nDesigned and configured CI/CD pipelines with **GitLab** and **Flux**, enabling automated testing and deployment of applications, promoting faster releases and higher code quality in a collaborative environment.\nManaged and monitored cloud resources on **AWS** using services like **CloudWatch**, **RDS**, and **S3**, leading to efficient resource utilization and cost optimization.\nUtilized **Docker** and **Kubernetes (EKS)** for container orchestration, ensuring dynamic scaling and high availability of microservices within the infrastructure.\nDeveloped monitoring solutions with **Prometheus** and **Grafana** for real-time performance analytics and alerting, enhancing system reliability and uptime metrics by **30%**.\nEngineered secure networking and security controls with **IAM**, **VPC**, and disaster recovery solutions, achieving compliance with industry standards and reducing security incidents by **25%**.\nLeveraged **Bash** scripting and **Go** programming for automation tasks, improving operational efficiency and reducing manual processes by **40%**.\nImplemented service mesh architectures using **Linkerd** and **Istio** for microservices communication, ensuring enhanced observability, security, and reliability in the application ecosystem.\nDesigned self-service portals for developers to easily deploy resources and manage their environments, reducing operational bottlenecks and accelerating deployment cycles by **50%**.\nConducted business continuity planning, ensuring resilient infrastructure and processes in place to maintain operations during outages and disasters."
+    }
+  ],
+  "skills": "**Cloud & Infrastructure:\n\tAWS, EKS, RDS, IAM, VPC, S3, multi-region AWS environments, disaster recovery, business continuity planning, self-service portals\n\n**DevOps:\n\tDocker, Kubernetes, Terraform, OpenTofu, Crossplane, GitHub Actions, GitLab CI/CD, Prometheus, Grafana, CloudWatch, Sentry, Flux\n\n**Backend Frameworks:\n\tPython (FastAPI, Flask, Django), Go\n\n**Frontend Frameworks:\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**Databases:\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**Other:\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Helm, Docker Compose, Bash, Infrastructure as Code, service mesh architectures, Linkerd, Istio, networking and security controls"
+}

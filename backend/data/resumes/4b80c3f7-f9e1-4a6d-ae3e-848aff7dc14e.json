@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Java Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Accomplished Senior Java Engineer with over 10 years of solid experience in developing and optimizing backend systems within financial environments. Proficient in **Java**, **Kotlin**, **Scala**, and leveraging **PostgreSQL**, **Redis**, alongside cloud solutions like **GCP**. Expert in creating robust applications using frameworks such as **SparkJava** and **JOOQ**, as well as implementing **TDD**, **DDD**, and Continuous Integration/Continuous Delivery methodologies. Proven ability to enhance operational efficiency with monitoring tools like **Grafana**, **Prometheus**, and **NewRelic**. Committed to delivering scalable, product-focused backend services, demonstrated through significant contributions at leading organizations including VISA and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Kotlin** to develop robust backend services, ensuring high performance and scalability.\nImplemented **PostgreSQL** for data management and optimized database queries for an application serving over **5,000** daily users.\nDesigned and deployed containerized applications using **Kubernetes**, streamlining the deployment process and reducing downtime by **30%**.\nMonitored application performance with **Grafana**, **Prometheus**, and **NewRelic**, leading to a significant reduction in system bottlenecks.\nParticipated in Agile methodologies, executing **Continuous Integration** and **Continuous Delivery (CI/CD)** practices to maintain high software quality and delivery speed.\nContributed to the development of event-driven architectures with **Redis** and ensured real-time data processing capabilities.\nEmployed **Test-Driven Development (TDD)** and **Domain-Driven Design (DDD)** principles to enhance code quality and ensure business alignment.\nCollaborated with cross-functional teams, applying a product-focused approach to effectively address challenges and fulfill business requirements, delivering features to production every **2 weeks**.  "
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Java**, **Spring** and **PostgreSQL** to develop robust backend systems that automate document workflows, enhancing user onboarding processes and enabling efficient reporting with **TDD** and **DDD** methodologies.\nImplemented event-driven microservices using **Redis** and **Kafka**, allowing for the asynchronous processing of financial data and improving transaction request handling scalability.\nManaged the deployment of services on **GCP** and **Kubernetes**, ensuring a consistent and scalable environment leveraging infrastructure as code with **Terraform**.\nEngineered secure data pipelines for regulatory compliance, utilizing **Apache Airflow** and **GCP Cloud Functions** to automate and streamline data flow across systems.\nConducted security audits and integrated **OAuth2** and **Azure AD B2C** for authentication, ensuring compliance with industry standards and maintaining secure access controls.\nCollaborated with cross-functional teams to facilitate seamless system integration, ensure regulatory compliance, and drive the successful implementation of product-focused initiatives."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Designed and implemented **backend services** using **Java** and **PostgreSQL**, focusing on trade execution, portfolio management, and account tracking to drive efficient trading operations.\n• Developed high-performance real-time price feed processors leveraging **Redis** and **Kubernetes** to ensure rapid data accessibility suitable for high-frequency transactions.\n• Collaborated with frontend teams to construct robust **REST APIs** and **WebSocket** channels, facilitating seamless user experiences on the trading platform.\n• Ensured compliance with industry regulations, such as MiFID II and GDPR, while integrating advanced data security measures throughout the development process.\n• Constructed **comprehensive test suites** utilizing **TDD** and tools like **JUnit** and **Mockito**, improving the quality assurance and continuous integration cycles by reducing bugs by **30%**.\n• Implemented job queuing and scheduling strategies using **RabbitMQ** and **Celery**, enhancing the performance of backend task execution and process management by **25%**.\n• Monitored application performance using tools such as **Grafana** and **Prometheus**, delivering insightful analytics to inform ongoing solution improvements.\n• Engaged in continuous deployment workflows, streamlining feature releases while maintaining a focus on a **product-centric approach** that aligns with startup agility."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tJava, Kotlin, Scala, Python (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery, SparkJava, JOOQ, Spock\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), GCP\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, Continuous Integration, Continuous Delivery, TDD, DDD\n\n**Cloud & Infrastructure**\n\tGrafana, Prometheus, NewRelic\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, CI/CD, PyTest, Git, Finance, Startup, Product-focused",
+  "apply_company": "Revolut"
+}

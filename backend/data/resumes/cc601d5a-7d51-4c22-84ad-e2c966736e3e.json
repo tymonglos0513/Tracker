@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Site Reliability Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a skilled Senior Site Reliability Engineer with 8 years of experience, I excel in utilizing **GCP**, **GKE**, **Docker**, **Kubernetes**, **Helm**, and **Terraform** to design and maintain high-performance, reliable infrastructures. My technical expertise includes **Python**, **GoLang**, and **Java**, along with a solid background in **Linux** environments such as **Debian** and **Ubuntu**. I am proficient in implementing **CI/CD** pipelines using **Bitbucket**, **ArgoCD**, and **Bitbucket Pipelines**, ensuring seamless software development and deployment processes.\n\nAdditionally, I have hands-on experience with observability tools such as **Prometheus** and **Grafana**, and have worked extensively with event-driven architectures using **Kafka** and caching with **Redis**. My strong knowledge of networking protocols, incident response, and disaster recovery allows me to uphold service level objectives and ensure compliance with best practices.\n\nI bring a problem-solving mindset and a proactive approach, qualified in developing efficient workflows while emphasizing accountability and teamwork. Furthermore, I am experienced in leading cross-functional collaboration using tools like **Jira**, **Slack**, **Google Meet**, and **Confluence** to foster effective communication within teams.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Site Reliability Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented enterprise-level **CI/CD** pipelines utilizing **Bitbucket Pipelines**, **GitHub Actions**, and **ArgoCD** to automate deployment processes, ensuring high reliability and consistent delivery of applications.\nDesigned and maintained observability frameworks using **Prometheus** and **Grafana** to monitor and visualize system performance and reliability metrics, adhering to **SRE principles**.\nConverted existing systems into microservices deployed using **Docker**, **Kubernetes (GKE)**, and **Helm**, improving scalability and maintainability across projects by **30%**.\nEstablished service reliability through rigorous **Incident response** protocols and redundancy strategies, achieving **99.9% uptime** for critical applications.\nUtilized **Google Cloud Platform (GCP)** to deploy scalable infrastructure and services, implementing **Terraform** for Infrastructure as Code (IaC) practices to manage cloud resources efficiently.\nAdministered **PostgreSQL** and **Redis** databases, optimizing queries and performance for applications, resulting in a speed improvement of **40%** in data retrieval times.\nExecuted disaster recovery strategies, minimizing downtime and data loss, achieving a recovery time objective (RTO) of under **2 hours**.\nCollaborated using platforms such as **Slack**, **Jira**, and **Confluence** for effective project management and team communication, fostering a culture of teamwork and accountability in project delivery.\nEnhanced networking capabilities by deeply understanding **TCP/IP**, **HTTP(s)**, and **DNS** protocols, ensuring reliable connectivity between microservices and external systems.\nDeveloped internal documentation and runbooks for services, promoting knowledge sharing and self-sufficiency among team members to reduce operational issues by **25%** per quarter."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Expertise in designing and implementing robust solutions on **GCP** and **GKE**, ensuring optimal performance and reliability for high-availability applications.\n• Utilized **Docker**, **Kubernetes**, and **Helm** for containerization and orchestration, enhancing deployment efficiency and scalability across **9** microservices.\n• Applied **Terraform** for infrastructure as code, enabling automated cloud resource provisioning and management.\n• Championed Site Reliability Engineering (SRE) principles to maintain service level objectives (SLOs) and metrics utilizing **Prometheus** and **Grafana** for monitoring and alerting critical application health.\n• Leveraged **Kafka** and **Redis** to build fast, reliable event-driven systems facilitating real-time data processing and immediate feedback for services operational on a **24/7** basis.\n• Established CI/CD pipelines through **Bitbucket** and **Bitbucket Pipelines**, automating the deployment processes resulting in improved efficiency by **30%**.\n• Implemented incident response strategies and redundancy measures that decreased downtime by **15%**, enhancing overall system resilience.\n• Collaborated effectively with cross-functional teams using tools like **Jira**, **Confluence**, and **Slack** to drive successful project deliveries, meeting deadlines consistently within **2 weeks** cycles.\n• Developed and maintained observability practices, ensuring transparency across systems and rapid incident resolution via **HTTP(s)**, **DNS**, and **TCP/IP** protocols.\n• Actively participated in disaster recovery planning and execution, ensuring business continuity strategies were in place for mission-critical applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Implemented **GCP** solutions including **GKE**, ensuring scalable and reliable infrastructure to meet **99.9%** uptime for all hosted services.\n• Utilized **Docker** and **Kubernetes** for container orchestration, improving deployment efficiency by **30%** through automated CI/CD pipelines using **Bitbucket Pipelines** and **ArgoCD**.\n• Spearheaded the integration of **Prometheus** and **Grafana** for observability, resulting in enhanced monitoring capabilities and **20%** faster incident response times.\n• Developed and maintained distributed systems with **Kafka** for asynchronous messaging and **Redis** for caching, significantly reducing latency in data retrieval by **40%**.\n• Employed **Terraform** for infrastructure as code, ensuring consistent deployment environments and enabling quick recoveries from outages.\n• Collaborated using **Jira**, **Slack**, and **Google Meet** for agile project management and efficient communication, fostering teamwork and accountability across the engineering team.\n• Designed backup and disaster recovery strategies in line with **SRE principles** to ensure **99.99%** data availability and integrity.\n• Applied **role-based access control (RBAC)** and **OAuth 2.0** in system security implementations, ensuring compliance with data protection regulations like **GDPR**.\n• Enhanced network performance and security settings with **TCP/IP**, DNS, and **HTTP(s)** protocols, facilitating smooth and secure communications across services.\n• Actively engaged in incident response strategies and redundancy planning to maintain system resilience, directly contributing to improved **Service Level Objectives** (SLOs).\n• Mentored junior engineers on best practices for reliability and performance, nurturing a culture of self-motivation and professional growth within the team."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, GoLang, Java, C++, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tHTTP(s), OAuth2, JWT, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), GCP, Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Elasticsearch\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Helm, Terraform, Ansible, Bitbucket, ArgoCD\n\n**Cloud & Infrastructure:**\n\tGKE, Debian, Ubuntu, Linux, Observability, Prometheus, Grafana\n\n**Other:**\n\tProblem-solving, Teamwork, Self-motivated, Accountable, Jira, Slack, Google Meet, Confluence, Bitbucket Pipelines, Networking protocols, Incident response, Redundancy, Disaster recovery, HPA, KEDA, CI/CD, SRE principles, Service Level Objectives"
+}

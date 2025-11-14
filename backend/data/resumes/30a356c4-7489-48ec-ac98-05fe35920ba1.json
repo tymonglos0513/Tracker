@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Solutions Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Solutions Engineer with 13+ years of experience in delivering cloud-based, high-performance applications within the healthcare and financial sectors. Proficient in **AWS** and **Azure** deployment, ensuring high availability and resilience through **DevOps** practices and microservices architecture. Expertise in **virtualization** and **container** technologies, and adept at implementing network solutions that enhance application reliability.\nStrong skills in building AI-driven applications leveraging **Python**, **JavaScript/TypeScript**, and frameworks such as **React**, **Next.js**, and **Django**. Experienced in creating efficient **CI/CD** pipelines and managing both application backup and storage solutions. Committed to compliance-driven development in line with HIPAA, PCI DSS, and SOC 2 standards, while demonstrating a solid background in MLOps with tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Solutions Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and implemented cloud solutions for high availability and fault tolerance using **AWS Lambda** and **Azure Functions** to ensure reliable service delivery in healthcare and fintech sectors.\n- Applied **DevOps** practices to build and maintain CI/CD pipelines utilizing **GitHub Actions**, **CircleCI**, and **Azure DevOps** for seamless integration and deployment across multiple environments.\n- Designed distributed systems architecture emphasizing **containerization** technologies such as **Docker** and orchestration tools like **Kubernetes (AKS/EKS)** for scalable application deployments.\n- Integrated advanced **AI** features by deploying machine learning models for risk scoring and fraud detection through **scikit-learn**, **PyTorch**, and **TensorFlow**, resulting in improved operational efficiency by **30%**.\n- Enhanced application reliability and performance with robust **storage** solutions using **PostgreSQL**, **MongoDB**, and **Redis**, capable of processing large-scale data with ingestion rates exceeding **10,000 records per minute**.\n- Ensured data security and compliance in applications adhering to standards such as HIPAA and PCI DSS.\n- Conducted regular system audits and implemented backup strategies to maintain data integrity and availability, achieving **99.9% uptime**.\n- Developed virtualization strategies to optimize resource utilization across cloud infrastructure.\n- Collaborated with IT teams to ensure seamless network connectivity and application performance.\n- Spearheaded initiatives to continuously improve application security through specialized testing strategies using **Jest**, **Cypress**, and **PyTest**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented cloud solutions to enhance **high availability** and **backup** strategies for core financial applications, ensuring resilience and disaster recovery.\nLeveraged **DevOps** practices to streamline application deployment and improve **container** management, resulting in a 30% reduction in deployment times.\nEmployed **network** architecture principles to secure data transmissions and optimize API performance across various microservices.\nModernized core financial platforms by migrating to microservices architecture using **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, enhancing scalability and performance for high-volume transactional systems.\nBuilt interactive front-end applications with **React (18)**, **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies, improving decision-making speed by **60%**.\nDesigned and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nDeveloped ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing of over **5 TB** of data monthly.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns, reducing fraud incidents by **25%**.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed high availability solutions utilizing **cloud** technologies and **DevOps** practices, ensuring seamless integration across diverse applications and networks in a global e-commerce environment.\n• Implemented robust application architectures, emphasizing **virtualization** and distributed data storage, contributing to **99.9%** uptime and enhanced disaster recovery protocols.\n• Engineered **AI** functionalities to drive smart decision-making and personalized customer experiences, using platforms like TensorFlow and scikit-learn.\n• Optimized application performance with resilient backup strategies and **storage** solutions, ensuring critical data integrity and quick recovery.\n• Designed and maintained network solutions to achieve scalable architecture capable of supporting over **100,000** concurrent users.\n• Advanced application monitoring using container strategies and tools like Kubernetes, facilitating rapid deployment cycles and maintaining software quality across versions.\n• Collaborated in cross-functional teams to integrate innovative network solutions, aligning application capabilities with modern **cloud** infrastructures.\n• Enhanced application security through role-based access control (RBAC) and OAuth 2.0 to guarantee safe operations and customer trust, ensuring compliance with GDPR standards.\n• Spearheaded initiatives to benchmark systems under load, achieving an increase in processing efficiency by **40%** while maintaining user satisfaction through improved uptime and response times.\n• Strengthened backup framework policies to improve data recovery time objectives (RTO) to under **30 minutes**, minimizing downtime while maximizing system reliability."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\n**Frontend Frameworks:**\n\tReact\n\tVue\n\tAngular\n\n**API Technologies:**\n\tNginx, Let’s Encrypt, Certbot\n\tOAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\n**DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n**Cloud & Infrastructure:**\n\tCloud\n\tStorage\n\tBackup\n\tVirtualization\n\tHigh Availability\n\n**Other:**\n\tAI\n\tApplication\n\tIT\n\tNetwork\n\tContainer",
+  "apply_company": "NetApp"
+}

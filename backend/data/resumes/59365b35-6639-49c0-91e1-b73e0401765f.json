@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Software Engineer with over 10 years of experience specializing in backend system design and development. Proficient in **AWS**, **GCP**, and **MongoDB**, leveraging **Python** (including **Django**, **FastAPI**, and **Flask**) for high-performance API development. Demonstrated expertise in **JavaScript** and **TypeScript**, with knowledge of **Vue.js** for front-end integration. Skilled in implementing **NoSQL** databases like **DynamoDB** and managing CI/CD pipelines using **CircleCI** and **GitHub Actions**. Strong understanding of **Event-Driven** architecture and proficient in using tools like **Kubernetes**, **Celery**, and **DataDog** for observability and monitoring. Committed to agile methodologies, enhancing collaboration, and fostering a growth mindset to drive customer-focused solutions. Proven success in contributing to significant projects at leading organizations, including VISA and Sii Poland.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to engineer backend services, enhancing document automation and user onboarding processes up to **30%** faster.\nDeveloped event-driven architectures using **Celery** and **Redis** for efficient asynchronous processing of financial transactions, improving processing time by **25%**.\nDeployed microservices on **AWS** and **GCP**, with automated infrastructure management using **Terraform**, ensuring reliable and scalable cloud operations.\nCreated and maintained data pipelines utilizing **Apache Airflow** and **Azure Functions**, achieving over **99%** accuracy in regulatory data exchange.\nConducted comprehensive security assessments and integrated **OAuth2** and **Azure AD B2C** for robust authentication systems, reducing security incidents by **40%**.\nCollaborated effectively with cross-functional teams to solve system integration challenges and improve release strategies, contributing to an **80%** reduction in deployment timelines.\nEmployed **GitHub Actions** and **CircleCI** for seamless CI/CD processes, enhancing deployment efficiency and reliability."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes.\n• Created event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests.\n• Managed the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation to ensure consistent environments with **99% uptime**.\n• Engineered data pipelines for the secure exchange of regulatory data, using **Apache Airflow** and **Azure Functions** to automate data flow with processing speeds improved by **30%**.\n• Performed security audits, ensuring compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for authentication and secure access controls across **5+ applications**.\n• Collaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management in an **Agile** environment, enhancing customer focus and collaboration."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed backend services for trade execution, portfolio management, and account tracking using **Python**, **Flask**, and **PostgreSQL** to enhance trading operations.\n\n- Designed and implemented scalable architectures on **AWS** and **GCP** to ensure high availability and fault tolerance for up to **1000** simultaneous transactions.\n- Engineered real-time price feed processors with **asyncio**, **WebSockets**, and **Redis** to deliver up-to-the-minute trading data for high-frequency transactions, minimizing latency to under **200ms**.\n- Collaborated closely with frontend teams using **REST APIs** and **WebSocket channels**, ensuring seamless user experiences and high customer satisfaction ratings exceeding **95%**.\n- Ensured compliance with regulatory requirements, including **MiFID II** and **GDPR**, while following internal data security protocols to protect customer information.\n- Implemented comprehensive test automation using **PyTest**, **tox**, and mock servers, streamlining QA and CI processes and reducing deployment times by **30%**.\n- Introduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and improving operational efficiency by **20%**.\n- Fostered a culture of collaboration and continuous improvement through an **Agile** development approach, embracing a growth mindset and ensuring customer focus in solutions."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks**\n\tDjango, FastAPI, Flask, Celery\n\n**Frontend Frameworks**\n\tVue.js\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), GCP, Azure, EventBridge\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, NoSQL, DynamoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CircleCI, CI/CD, Test Automation, Observability\n\n**Cloud & Infrastructure**\n\tDataDog, Event-Driven\n\n**Other**\n\tAgile, Collaboration, Growth Mindset, Customer Focus",
+  "apply_company": "Prolific"
+}

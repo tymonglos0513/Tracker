@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-driven Software Engineer with 8 years of experience specializing in building high-performance solutions in dynamic environments. Proficient in **TypeScript**, **AWS**, **Terraform**, and **Git**, I deliver scalable and efficient applications using CI/CD practices with tools such as **CircleCI**. My expertise in Agile methodologies (including **Scrum** and **Kanban**) ensures timely project delivery and collaboration within cross-functional teams.\n\nI have honed my skills in both SQL and NoSQL databases, with hands-on experience in **Postgres**, **DynamoDB**, and **Redis**. My solid technical background is supported by familiarity with testing frameworks like **Jest** and **Vitest**, enhancing the reliability of the software I develop. \n\nMoreover, I leverage cloud expertise in **AWS** and have a strong command of microservices architecture and event-driven systems. My passion for building compliant applications has led me to understand standards like HIPAA and PCI DSS, ensuring robust and secure software. I excel in communication and interpersonal skills, making me a valuable team player in collaborative environments.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **TypeScript** for building scalable full-stack applications, ensuring high performance and maintainability in software solutions.\nImplemented and managed **CI/CD** processes with **CircleCI**, integrating automated testing using frameworks like **Jest** and **Vitest** to maintain code quality and streamline deployments.\nDesigned and maintained cloud infrastructure using **AWS** services and **Terraform** for provisioning resources, ensuring system reliability and scalability up to **99.9%** uptime.\nManaged databases effectively using both **SQL** and **NoSQL** databases, including **Postgres** and **DynamoDB**, optimizing data storage and retrieval for large-scale applications.\nApplied Agile methodologies including **Scrum** and **Kanban** to coordinate development activities, enhancing team productivity and ensuring timely project delivery.\nFacilitated effective communication within cross-functional teams, leveraging strong **interpersonal skills** to drive collaborative problem-solving in fast-paced environments.\nDeveloped and delivered comprehensive training programs to onboard new team members on systems architecture and processes in line with **Agile** practices.\nConducted technical documentation and coding standards audits that aligned with company specifications to promote best practices across the team.\nCollaborated with product managers to refine user stories and incorporate stakeholder feedback, increasing project alignment with business objectives by **30%**.\nEngaged in troubleshooting and performance optimization for various applications through analytical skills and utilization of tools like **Wireshark** to enhance user experience demands."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **TypeScript** extensively to enhance scalability and maintainability for user-facing applications, contributing to a codebase with over **10,000** lines of clean, modular code.\nEmployed **AWS** services for deploying cloud-based solutions, optimizing infrastructure and cost management, leading to a reduction in operational costs by **25%**.\nManaged configurations and deployments using **Terraform**, ensuring consistent and repeatable environments across development and production.\nImplemented CI/CD pipelines with **CircleCI** to automate testing and deployment, which reduced deployment times by **30%** and improved release frequency to **bi-weekly**.\nPracticed Agile methodologies including **Scrum** and **Kanban**, enhancing project visibility and team collaboration for rapid delivery of financial features.\nDeveloped comprehensive testing strategies using **Jest** and **Vitest** to ensure robust and error-free code, reaching a test coverage of over **85%**.\nUtilized **SQL** and **NoSQL** databases, including **Postgres** and **DynamoDB**, for efficient data handling, leading to improved query performance by **40%** for data-intensive applications.\nApplied solid **communication skills** and **interpersonal skills** in cross-functional team settings, fostering collaboration with stakeholders to gather requirements and deliver high-quality software solutions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed robust and scalable applications utilizing **TypeScript**, ensuring high-quality code through Jest and Vitest for unit and integration testing while following Agile methodologies (Scrum, Kanban).\n• Managed server infrastructure on **AWS**, orchestrating deployments and infrastructure as code with **Terraform**, contributing to seamless CI/CD pipelines using **CircleCI**.\n• Implemented effective database solutions, leveraging both **SQL** (PostgreSQL) and **NoSQL** (Redis, DynamoDB) technologies, ensuring optimal data retrieval and storage practices for high-traffic applications.\n• Ensured application performance and reliability by applying caching strategies with **Redis**, leading to a **30%** reduction in database read pressure and enhanced responsiveness.\n• Designed and optimized backend services using **Python** (FastAPI, Django) and **Node.js** (NestJS, Express), focusing on availability and scalability across systems, including checkout and order fulfillment.\n• Facilitated effective communication and collaboration among cross-functional teams, utilizing excellent interpersonal skills to manage requirements and updates efficiently.\n• Executed feature flags and managed deployment strategies via **Git**, enabling controlled rollouts and A/B testing within the application lifecycle, resulting in a **50%** decrease in deployment-related issues.\n• Applied modern frontend frameworks such as **React** (18), **Vue 3**, and **Angular**, enhancing user experiences and achieving a **20%** improvement in page load times by optimizing components.\n• Integrated secure payment processing utilizing **Stripe**, **PayPal**, and **Razorpay**, ensuring PCI compliance and tokenized transactions for sensitive data protection.\n• Conducted regular network analysis and debugging using **Wireshark**, ensuring the integrity and resilience of application deployments across diverse environments."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, DynamoDB\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, CircleCI\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Jest, Vitest, Agile, Kanban, Scrum, Communication Skills, Interpersonal Skills, Let’s Encrypt, Nginx, Certbot, Wireshark, CI/CD"
+}

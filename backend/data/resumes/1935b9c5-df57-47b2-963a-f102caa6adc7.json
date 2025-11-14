@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Chain Protocol Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "As a skilled Chain Protocol Engineer with expertise in Go and Rust, I focus on developing and optimizing blockchain technology and protocol infrastructure. My hands-on experience with EVM, WASM, and Cosmos SDK, alongside deep understanding of Substrate modules, JSON-RPC, and gRPC, allows me to build robust and efficient blockchain solutions. I bring a strong background in validator and sequencer operations, coupled with a keen understanding of zero-knowledge integration techniques, including PLONK and Groth16, ensuring security and reliability in all developments. With over 8 years in software engineering, I have a solid grasp of CI/CD practices, extensive testing methodologies, and thorough documentation strategies, complemented by valuable contributions to open-source projects. I also possess knowledge of cross-chain technologies, including light clients, optimistic bridges, validity bridges, and IBC/XCM, enabling innovative and adaptable protocol designs.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Chain Protocol Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "- Developed and maintained **protocol infrastructure** utilizing **Go** and **Rust**, ensuring robust operation of blockchain mechanisms and supporting validator and sequencer operations.\n- Engineered **JSON-RPC** and **gRPC** interfaces for seamless communication between blockchain clients and services, enhancing cross-chain experience and interoperability.\n- Led testing initiatives for **blockchain client internals**, implementing automated CI/CD pipelines to streamline development processes and ensure high code quality.\n- Collaborated on **cross-chain integration** projects, deploying **optimistic bridges** and **validity bridges** to enhance system capabilities and extend network functionalities.\n- Configured and optimized databases for transaction logging and data retrieval, focusing on performance tuning using modern practices.\n- Actively contributed to open-source blockchain projects, providing enhancements and security updates based on latest standards and community feedback.\n- Designed documentation standards for internal processes, ensuring clear articulation of procedures and best practices for peer developers.\n- Implemented security features including **replay protection** and **zero-knowledge integration** utilizing **PLONK**, **Groth16**, and **FRI** protocols to bolster system integrity and confidentiality.\n- Participated in advanced architecture discussions around **light clients** and **identity standards**, pushing the envelope of what can be achieved with Ethereum Virtual Machine (**EVM**) and **WASM** environments.\n- Designed unit and integration tests to validate the performance and security of blockchain components, achieving a target coverage of **90%** across critical modules.\n- Maintained compliance with industry-standard security practices for blockchain applications, assuring alignment with emerging trends and regulations.\n- Provided mentorship and guidance to junior engineers on **submodule development** leveraging **Cosmos SDK**, promoting knowledge-sharing and skill development across the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "- Developed and implemented secure **gRPC** and **JSON-RPC** APIs for the integration of blockchain functionalities, ensuring optimal communication between system components and smart contracts.\n- Contributed to blockchain client internals with a focus on **EVM**, **WASM**, and **Cosmos SDK**, enhancing performance and interoperability for cross-chain operations.\n- Designed and optimized **protocol infrastructure** using **Go** and **Rust**, ensuring efficient validator operations and **sequencer operations** for transaction processing.\n- Integrated testing procedures and automated CI/CD pipelines using **GitHub Actions** and **Azure DevOps**, achieving a **30%** reduction in deployment times and improving overall software quality.\n- Conducted database tuning and optimization for **validator** and **sequencer** databases, ensuring high availability and performance for blockchain transactions.\n- Established secure practices incorporating **zero-knowledge integration** with **PLONK**, **Groth16**, and **FRI** to safeguard sensitive transaction data and maintain compliance with identity standards.\n- Enhanced the security framework by implementing replay protection measures and cross-chain experiences, establishing a robust environment for user transactions.\n- Documented technical specifications and guidelines for **light clients** and bridge mechanisms such as **optimistic bridges** and **validity bridges**, ensuring clarity for future open-source contributions.\n- Leveraged blockchain frameworks and previously developed infrastructure to create a seamless user experience, maintaining a focus on efficient integration with existing platforms.\n- Developed specialized modules in **Substrate** for adding additional functionalities and improving existing capabilities in the blockchain hierarchy."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "- Developed and implemented robust **gRPC** and **JSON-RPC** protocols for seamless communication within blockchain client internals, facilitating **validator operations** and **sequencer operations**.\n- Engineered **CI/CD** pipelines to automate the deployment of blockchain applications, enhancing the efficiency and reliability of protocol infrastructure.\n- Conducted thorough **testing** procedures for **zero-knowledge integration** features, particularly utilizing **PLONK**, **Groth16**, and **FRI** methods to ensure accuracy and security.\n- Contributed to the open-source community by integrating **Cosmos SDK** and **Substrate modules**, enhancing cross-chain capabilities and optimizing blockchain interactions.\n- Designed and optimized database architectures following best practices in **database tuning**, resulting in significant performance improvements in query responses and overall system efficiency.\n- Implemented security measures to ensure **replay protection** and compliance with **identity standards**, safeguarding user transactions within the blockchain network.\n- Collaborated on the development of **light clients** to enable efficient interactions with lightweight blockchain nodes, making blockchain technology accessible to a wider audience.\n- Participated in the architectural design of **optimistic** and **validity bridges**, ensuring effective cross-chain communication and interoperability.\n- Authored comprehensive documentation of protocols and standards, ensuring clarity and maintaining high quality in development practices.\n- Engaged in real-world performance validation of protocols, utilizing stress testing methodologies to confirm system stability under high transaction loads."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tGo, Rust, Python (FastAPI, Django, Flask)\n\n**Backend Frameworks:**\n\tSpring Boot, Celery, FastAPI\n\n**Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n**API Technologies:**\n\tREST & gRPC APIs, JSON-RPC\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, database tuning\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\n**Cloud & Infrastructure:**\n\tsecurity, protocol infrastructure, validator operations, sequencer operations, testing, zero-knowledge integration, PLONK, Groth16, FRI, identity standards, replay protection\n\n**Other:**\n\tblockchain client internals, EVM, WASM, Cosmos SDK, Substrate modules, cross-chain experience, light clients, optimistic bridges, validity bridges, IBC, XCM, open-source contributions, documentation"
+}

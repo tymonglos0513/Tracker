@@ -1,0 +1,47 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior Firmware Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-107978395/",
+  "profile_summary": "As a Senior Firmware Engineer with 8+ years of experience in software engineering, I bring a robust set of skills in Embedded C, Embedded C++, and RTOS, critical for developing high-performance firmware solutions. My proficiency in Linux and hardware interfaces like AXI, AHB, and MMU allows me to create secure and efficient embedded systems. I have hands-on experience with DMA operations and secure boot processes, ensuring reliability and integrity in firmware applications. My technical expertise is complemented by my knowledge of cryptographic signatures, anti-rollback mechanisms, and JTAG for effective debugging. I leverage tools such as Git for version control, and I am familiar with Flash Translation Layer, wear-leveling, garbage collection, and ECC to optimize storage solutions. Additionally, I possess strong analytical capabilities in anomaly detection, while my background in Python facilitates effective cross-platform development. My dedication to delivering robust engineering solutions has been demonstrated across diverse sectors, paving the way for innovative technology integration.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Firmware Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "Utilized **Embedded C** and **Embedded C++** for developing efficient firmware solutions on **Linux** platforms, ensuring optimal performance and reliability in embedded systems.\nImplemented real-time operating systems (**RTOS**) to enhance system responsiveness and resource management, achieving a reduction in latency by **30%**.\nDesigned and maintained hardware interfaces using **AXI**, **AHB**, **JTAG**, and **UART**, facilitating effective communication between microcontrollers and peripheral devices.\nIntegrated secure boot mechanisms and cryptographic signatures, enhancing device security against unauthorized access and threats, ensuring compliance with industry security standards.\nEngineered anti-rollback mechanisms and dynamic memory allocation using **DMA**, enabling improved firmware resilience and stability across various hardware versions.\nLed the implementation of wear-leveling and garbage collection techniques for flash translation layers, extending the lifespan and efficiency of storage solutions and reducing write amplification by **40%**.\nDeveloped firmware features focused on **anomaly detection** to identify and rectify issues in real-time, improving device diagnostics and reducing failure rates by **25%**.\nCollaborated with cross-functional teams to conduct rigorous testing and validation of firmware applications, supporting seamless integrations and compliance with project timelines.\nTracked and managed source code using **Git**, ensuring version control and efficient collaboration among team members.\nOversaw the creation of reliable interfaces using **NVMe** and **ATA**, optimizing data transfer rates and enhancing overall system performance.\nMentored junior engineers in embedded systems design, best practices for firmware development, and contributed to knowledge sharing across the engineering teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and implemented firmware solutions using **Embedded C** and **Embedded C++**, optimizing performance and resource usage in **RTOS** environments.\nLed the transition of legacy systems to **Linux**-based architectures, enhancing system reliability and maintainability across **AXI**, **AHB**, and **MMU** interfaces.\nEngineered solutions for **DMA** operations, ensuring efficient data handling and reduced CPU load, leading to a **30%** increase in throughput.\nDesigned and integrated security features such as **Secure Boot**, **Cryptographic Signatures**, and **Anti-Rollback** mechanisms to protect firmware against vulnerabilities.\nUtilized **JTAG** and **UART** for debugging and communication interfaces, improving debug efficiency by **20%**.\nCollaborated on high-speed memory solutions involving **NVMe** and **ATA**, achieving data transfer rates exceeding **500 MB/s**.\nManaged version control using **Git**, ensuring efficient team collaboration and code integrity across multiple projects.\nDeveloped and implemented advanced memory management techniques including **Flash Translation Layer**, **Wear-Leveling**, and **Garbage Collection**, improving memory longevity and operational reliability.\nDesigned error correction strategies utilizing **ECC** to significantly reduce data corruption rates in flash storage systems.\nContributed to anomaly detection efforts, identifying potential issues proactively using advanced statistical methods and machine learning techniques.\nImplemented CI/CD practices to automate builds, tests, and deployments, ensuring continuous integration and delivery for firmware projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Developed and optimized firmware for embedded systems using **Embedded C** and **Embedded C++**, enhancing system performance and reliability in **RTOS** environments.\nDesigned and implemented low-level drivers for **UART**, **JTAG**, and **DMA**, ensuring efficient data communication and device control in Linux-based systems.\nImplemented secure boot mechanisms, cryptographic signatures, and anti-rollback strategies to enhance firmware security and protect against unauthorized modifications, ensuring compliance with industry standards.\nEngineered memory management features leveraging **MMU** and **Flash Translation Layer**, facilitating effective wear-leveling and garbage collection, which improved data integrity and lifespan by **30%**.\nConducted thorough anomaly detection and debugging processes using **ICE** and **Git**, leading to a **25%** reduction in hardware failure rates post-deployment.\nCollaborated in performance optimization of storage solutions using **NVMe** and **ATA**, achieving a **50%** increase in read/write speeds for firmware-related applications.\nImplemented testing protocols for firmware stability using advanced tools, achieving consistent pass rates above **95%** during QA assessments.\nDesigned and articulated system architecture incorporating **AXI** and **AHB** interfaces, ensuring high-data throughput for embedded applications.\nParticipated in cross-functional teams to introduce best practices for firmware development, leading to an increase in efficient workflows by **20%**.\nMentored junior engineers on firmware design principles and debugging techniques, fostering a culture of knowledge-sharing and continuous improvement."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tEmbedded C, Embedded C++, Python\n\n**Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot\n\n**Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n**API Technologies:**\n\tREST & gRPC APIs\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Git\n\n**Cloud & Infrastructure:**\n\tNginx, Certbot\n\n**Other:**\n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Anomaly Detection, Linux, AXI, AHB, MMU, DMA, Secure Boot, Cryptographic Signatures, Anti-Rollback, JTAG, UART, ICE, NVMe, ATA, Flash Translation Layer, Wear-Leveling, Garbage Collection, ECC",
+  "apply_company": "WILK ELEKTRONIK S.A."
+}

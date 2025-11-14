@@ -1,0 +1,47 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior Devops Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-9b9455391/",
+  "profile_summary": "As a seasoned Senior DevOps Engineer with 8+ years of experience in software engineering, I excel in implementing and managing scalable and reliable systems using a robust tech stack that includes **AWS**, **Terraform**, **Kubernetes**, **Linux**, **Cassandra**, **Elasticsearch**, **Druid**, **Kafka**, **Hazelcast**, **Prometheus**, **Grafana**, **ELK**, **Github Actions**, and **ArgoCD**. I specialize in automating infrastructure, monitoring system performance, and optimizing deployment pipelines. My proficiency encompasses building microservices architecture and developing secure REST/gRPC APIs using **Python** frameworks such as **FastAPI**, **Django**, and **Flask**, while ensuring effective database management and optimization with **PostgreSQL**, **MySQL**, and **MongoDB**. I am dedicated to delivering high-performance solutions and enhancing operational efficiencies in dynamic environments, particularly within the e-commerce, financial, and healthcare sectors.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Devops Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "- Led the migration and orchestration of applications on **Kubernetes** (AKS/EKS), enhancing deployment speed and scalability for cloud-native environments.\n- Engineered robust infrastructure as code (IaC) solutions using **Terraform**, automating the provisioning and management of cloud resources in **AWS**.\n- Established monitoring and observability strategies integrating **Prometheus**, **Grafana**, and **ELK** stack for proactive issue resolution and metrics visualization.\n- Championed deployment automation through **GitHub Actions** for CI/CD pipelines ensuring consistent delivery with automated testing and security scans.\n- Designed and implemented high-performance data processing pipelines utilizing **Kafka** for event-driven architectures, optimizing communication between microservices.\n- Integrated **Elasticsearch** into Python applications to enhance search capabilities, significantly reducing query times for large datasets.\n- Mentored and trained cross-functional teams of 10+ engineers on best practices in **DevOps**, cloud architecture, and containerization technologies.\n- Spearheaded security compliance initiatives ensuring adherence to **SOC 2**, **ISO 27001**, **HIPAA**, and **PCI DSS** frameworks within all areas of development and deployment.\n- Leveraged Linux environments for automation and scripting solutions, enhancing system performance and operational efficiency.\n- Developed and maintained complex containerized applications, facilitating high availability and fault tolerance across various services.\n- Automated log aggregation and monitoring using the **ELK** stack, ensuring seamless operational insights and compliance reporting.\n- Coordinated cross-team collaborations to deploy software solutions while ensuring consistency and quality through standardized processes and tooling.\n- Provided support and maintenance of production systems, ensuring uptime and reliability for mission-critical applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "• Leveraged **AWS** and **Terraform** for efficient infrastructure management and provisioning, implementing solutions that improved deployment times by **30%**.\n• Managed and orchestrated **Kubernetes** clusters to deploy microservices, enabling seamless rolling updates, auto-scaling, and high availability of applications.\n• Developed monitoring solutions integrating **Prometheus** and **Grafana** to enhance system performance tracking and alerting by over **40%**.\n• Implemented the **ELK** stack (Elasticsearch, Logstash, Kibana) for centralized logging from multiple environments, leading to a **50%** reduction in troubleshooting times.\n• Enhanced application performance through optimized configuration of **Kafka** for event streaming, supporting **1M+** messages per second.\n• Designed and built distributed data systems using **Cassandra**, ensuring high availability and consistent data access across geographies.\n• Integrated deployment automation using **GitHub Actions** and **ArgoCD** for continuous deployment, achieving deployment frequency improvements by **2x**.\n• Developed secure CI/CD pipelines that included automated testing and static analysis to maintain code quality and reliability across applications.\n• Utilized **Linux** for system administration tasks, enhancing operational stability and security for hosted applications.\n• Collaborated with cross-functional teams to create scalable solutions, significantly improving overall application reliability and performance.\n• Implemented networking and storage solutions within cloud environments to optimize resource utilization for **Druid** and **Hazelcast** services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Implemented and managed **AWS** cloud infrastructure for scalable applications, ensuring high availability and security across all deployed services.\nDesigned and deployed infrastructure as code using **Terraform**, streamlining resource management and provisioning while maintaining cost efficiency.\nOrchestrated containerized applications using **Kubernetes**, enhancing deployment efficiency and enabling seamless scaling of applications across multiple environments.\nMonitored system performance and reliability with **Prometheus** and **Grafana**, analyzing metrics to ensure optimal operations and proactively address issues.\nIntegrated logging solutions using the **ELK** stack (Elasticsearch, Logstash, Kibana) to enhance observability and track system performance in real time.\nAutomated CI/CD processes utilizing **GitHub Actions** and **ArgoCD**, ensuring reliable and repeatable application deployment and updates.\nManaged and optimized NoSQL databases such as **Cassandra** for high-volume transactions, ensuring low latency and high availability.\nEnhanced system performance and resilience by implementing distributed caching solutions with **Hazelcast**, optimizing response times for frequently accessed data.\nLeveraged **Kafka** to implement event-driven architectures, streamlining communication between microservices and enhancing data processing capabilities.\nConfigured and maintained Linux servers to support various services, ensuring security, performance, and operability within the infrastructure.\nConducted load and performance testing using tools like Apache JMeter and Locust, identifying bottlenecks and optimizing infrastructure deployment to support **99.99% uptime**.\nCollaborated on the integration of real-time analytics solutions using **Druid**, ensuring the platforms could handle large data influxes and deliver insights on demand.\nDeveloped disaster recovery strategies and executed recovery drills to ensure system resilience and data integrity across maintained services.\nMonitored and tuned database performance across various instances, ensuring all systems managed over **1M** transactions daily with optimal efficiency."
+    }
+  ],
+  "skills": "**Cloud & Infrastructure**:\n\tAWS, Terraform, Azure (App Services, Blob, SQL), Linux\n\n**DevOps**:\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, ArgoCD, Prometheus, Grafana, ELK\n\n**Programming Languages**:\n\tPython (FastAPI, Django, Flask)\n\n**Backend Frameworks**:\n\tSpring Boot, SQLAlchemy, Pydantic, Celery\n\n**API Technologies**:\n\tREST & gRPC APIs\n\n**Frontend Frameworks**:\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n**Databases**:\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Cassandra, Elasticsearch, Druid\n\n**Other**:\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Kafka, Hazelcast",
+  "apply_company": "Signify"
+}

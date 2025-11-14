@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Data Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Data Engineer with over 10 years of experience in backend development and a strong focus on data engineering. Proficient in **Python**, **pandas**, **SQL**, and cloud-native technologies, with a deep understanding of **ETL** and **ELT** processes, **Data Lakehouse**, **Data Warehouses**, and **Data Lakes**. Experienced with big data tools such as **Apache NiFi**, **Kafka**, **PySpark**, and data integration platforms like **Airbyte** and **Fivetran**. Adept at utilizing **Apache Hudi** for data management and implementing robust data quality monitoring solutions. Proven success in high-impact projects across renowned companies, including VISA, Sii Poland, and Reply Polska, demonstrating a commitment to excellence in delivering scalable and efficient data solutions. Skills include containerization with **Docker** and orchestration with **Kubernetes**, alongside experience in graph databases.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to develop robust data pipelines and applications that enhanced data quality monitoring and compliance with regulatory standards.\nLeveraged **pandas** and **SQL** for efficient data manipulation and analysis, ensuring accurate reporting and data integrity in workflows.\nEngineered ETL processes using **Apache NiFi** and **Kafka** to facilitate seamless data flow from multiple sources into the **Data Lakehouse** or **Data Warehouses**.\nImplemented ELT strategies, utilizing **PySpark** for large-scale data processing, optimizing performance up to **3x** faster.\nDesigned and maintained data lakes integrating tools like **Apache Hudi** and **Airbyte** for reliable data ingestion and transformation.\nEmployed containerization and orchestration using **Docker** and **Kubernetes** to streamline deployment and scalability of data engineering solutions.\nEstablished data quality monitoring frameworks to ensure the accuracy and reliability of data across all platforms and integrations.\nOptimized and debugged existing data workflows, leading to a performance improvement of **25%** in data retrieval times."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **pandas** to develop robust data processing solutions for enhancing data quality and ensuring compliance, efficiently handling **12M+** records monthly.\nDesigned and implemented ETL and ELT processes using **Apache NiFi** and **Apache Hudi**, streamlining data pipelines and improving processing times by **30%**.\nDeveloped and maintained data lakes and data warehouses employing **SQL** and **Data Lakehouse** concepts, optimizing data storage and accessibility for analytics.\nLeveraged **Kafka** for real-time data streaming, allowing for near-instantaneous data processing and reducing latency on financial transactions by **25%**.\nCreated and orchestrated data workflows using **Apache Airflow**, increasing automation of tasks and reducing manual workload by **50%**.\nImplemented Docker and Kubernetes for containerization and orchestration of data applications, enhancing deployment efficiency and system reliability across environments.\nEnsured best practices in data quality monitoring and validation to guarantee integrity and accuracy of datasets across systems, achieving a **99.9%** accuracy rate in reporting.\nConducted security audits and integrated OAuth2 protocols into data solutions for robust access control and compliance with regulatory standards."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **SQL** to develop robust backend services for seamless trade execution, portfolio management, and account tracking, enhancing trading operations significantly.\nEngineered real-time price feed processors employing **asyncio**, **WebSockets**, and **Redis**, ensuring delivery of up-to-the-minute trading data with latencies under **100ms** for high-frequency transactions.\nCollaborated effectively with frontend teams, delivering over **10** REST APIs and WebSocket channels for enriched user interaction with the platform.\nEnsured strict adherence to regulatory requirements, including **MiFID II** and **GDPR**, while implementing internal data security protocols for safeguarding sensitive information.\nExecuted comprehensive test suites with **PyTest**, **tox**, and mock servers, streamlining QA and CI processes, reducing bug detection time by **30%**.\nIntroduced job queuing and scheduling solutions using **Celery** and **RabbitMQ**, optimizing backend task execution, enhancing process management, and achieving a **20%** decrease in job execution times."
+    }
+  ],
+  "skills": "  **Programming Languages** \tPython (3.8+), SQL, Bash, JavaScript  **AI/ML Tools** \tPandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow  **Backend Frameworks** \tFastAPI, Flask, Django, Celery  **API Technologies** \tREST/gRPC APIs, Microservices, Kafka  **Databases** \tPostgreSQL, MySQL, MongoDB, Redis, graph databases, Data Lakes, Data Warehouses, Data Lakehouse  **ETL Tools** \tApache NiFi, Airbyte, Fivetran, PySpark  **Cloud & Infrastructure** \tAWS (EC2, S3, Lambda), Azure, Docker, Kubernetes  **DevOps** \tGitHub Actions, Azure DevOps, CI/CD  **Other** \tData Quality Monitoring",
+  "apply_company": "ZABEL"
+}

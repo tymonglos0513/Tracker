@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Software Engineer with over 10 years of extensive experience in developing robust backend systems and components, specialized in financial platforms and cloud-native architectures. Proficient in **Java**, **Kotlin**, and **Python** with frameworks like **FastAPI**, **Django**, and **Flask**. Skilled in building scalable services and creating high-performing **RESTful APIs** while utilizing technologies such as **AWS**, **Kubernetes**, and databases like **PostgreSQL**, **MySQL**, and **MongoDB**. Experienced in implementing **CI/CD** pipelines and test automation practices to enhance deployment efficiency. Proven expertise in distributed systems, natural language processing (NLP), and machine learning models (LLMs), with a strong commitment to mentoring and effective communication. Successfully delivered impactful projects for esteemed organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to engineer backend services with **FastAPI**, enhancing document automation and user onboarding workflows by 50%.\nImplemented **RESTful APIs** for seamless integration with front-end applications, promoting a smooth user experience across various services.\nLeveraged **Java** and **Kotlin** to develop microservices that improved system scalability and performance by 30%.\nManaged asynchronous processing through **Celery** and **Redis**, optimizing financial transaction request handling by 40%.\nDeployed applications using **AWS** and **Kubernetes**, ensuring high availability with **99.9% uptime** across cloud operations.\nDesigned and maintained data pipelines with **Apache Airflow** for regulatory data exchange and utilized **Azure Functions**, ensuring data flow was timely and accurate by 100%.\nConducted thorough security assessments, integrating **OAuth2** and **Azure AD B2C** for robust authentication systems, significantly enhancing security posture.\nMentored junior developers and collaborated with cross-functional teams, addressing system integration challenges and fostering effective communication, resulting in improved team efficiency by 20%."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes, resulting in a **30%** reduction in processing time.\n• Engineered event-driven microservices with **Celery** and **Redis**, facilitating asynchronous processing of over **1 million** financial data transactions daily.\n• Managed deployment across **Azure App Services**, utilizing **Terraform** for infrastructure automation, ensuring consistent and scalable environments with a **99.9%** uptime.\n• Designed and implemented data pipelines for the secure exchange of regulatory data, employing **Apache Airflow** and **Azure Functions** to automate and streamline data flows, increasing efficiency by **40%**.\n• Conducted thorough security audits for compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for robust authentication and secure access controls.\n• Collaborated cross-functionally to ensure smooth system integration and regulatory compliance, playing a critical role in successful release management and achieving **on-time delivery** for **5** major projects."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed backend services leveraging **Python**, **PostgreSQL**, and **Flask** to enhance trading operations, supporting over **10,000** trades per day.\n• Engaged in CI/CD processes using **Docker** and **Kubernetes** to ensure smooth deployments with a **99.9% uptime**.\n• Created real-time price feed processors using **asyncio**, **WebSockets**, and **Redis** capable of handling **5,000** data points per second for high-frequency transactions.\n• Collaborated with frontend teams, delivering data through **RESTful APIs** and **WebSocket** channels to ensure a seamless user experience for **1,000+** active users.\n• Ensured compliance with regulatory requirements including MiFID II and GDPR, aligning internal policies to shield over **2TB** of sensitive data.\n• Implemented extensive test automation frameworks using **PyTest**, improving code quality with a **30%** reduction in bugs during production.\n• Streamlined backend task execution through the implementation of job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing process management for backend operations."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tJava, Kotlin, Python, SQL, Bash, JavaScript\n\n **Frontend Frameworks**\n\tFlutter, React, Next.js\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n **API Technologies**\n\tREST/gRPC APIs, RESTful APIs, Microservices\n\n **Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda)\n\n **Cloud & Infrastructure**\n\tAzure, Docker, Kubernetes, GitHub Actions, Azure DevOps\n\n **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps**\n\tCI/CD, Git, test automation\n\n **Other**\n\tPandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, ELK, Prometheus, Sentry, NLP, LLMs, Langgraph, CrewAI, distributed systems, mentoring, communication",
+  "apply_company": "QuintoAndar"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Software Development Engineer in Test (SDET)",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-107978395/",
+  "profile_summary": "Results-driven Software Development Engineer in Test (SDET) with 8+ years of experience in software engineering, specializing in Python and testing frameworks such as **Pytest**. Proficient in **CI/CD** practices using tools like **GitLab CI** and **Jenkins**, I have a deep understanding of cloud services such as **AWS** including **Glue**, **Lambdas**, and **S3**. Adept at implementing testing solutions for complex data manipulation and analytics with libraries like **Pandas** and **NumPy**. Experienced in utilizing message brokers such as **Kafka** and **RabbitMQ**, along with monitoring tools like **Prometheus**, **Grafana**, and **ELK** for system performance and reliability. My background in microservices architecture and testing REST/gRPC APIs ensures high-quality deliverables aligned with industry standards, complemented by my skills in databases including **PostgreSQL** and **Clickhouse**. I excel in creating scalable solutions tailored to business needs, ensuring enterprise-grade application efficiency.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Development Engineer in Test (SDET)",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "Designed and implemented robust test strategies for **Python** applications utilizing **PyTest**, ensuring comprehensive unit and integration tests for effective quality assurance.\nDeveloped and maintained **CI/CD** pipelines for automated testing and deployment using **GitLab CI** and **Jenkins**, achieving a 30% reduction in deployment time.\nAutomated performance testing using **Apache JMeter** and **k6**, leading to enhanced application reliability and improved load handling by **up to 40%** under peak traffic conditions.\nCollaborated with cross-functional teams to integrate test automation frameworks for various **AWS** services including **Lambdas**, **S3**, and **Glue**, streamlining the end-to-end testing process across cloud environments.\nImplemented continuous monitoring of applications using **Prometheus**, **Grafana**, and **Sentry**, allowing for real-time visibility and proactive issue resolution in production systems.\nUtilized **Kafka** and **RabbitMQ** for messaging in asynchronous test processes, improving test response times and resource utilization by **25%**.\nExecuted data validation and ETL testing by employing **Pandas** and **NumPy** for effective data manipulation and analysis, ensuring data integrity across systems.\nDeveloped automated test scripts for next-gen applications using **Redis**, **Postgresql**, and **Clickhouse**, optimizing query performance and reducing response times in data-intensive scenarios.\nMentored team members in **SDET** best practices, facilitating knowledge sharing in test automation strategies and maintaining high code quality standards.\nEnhanced legacy testing frameworks integrated with cloud services, ensuring compatibility with ongoing developments in **AWS** infrastructure.\nCoordinated with development teams to maintain test data environments, ensuring accurate and up-to-date test scenarios, which supported a reduction in bugs by **40%** pre-release.\nLeveraged **ELK** stack for log analysis and error tracking, significantly reducing investigation time for failed test cases and improving overall development velocity.\nParticipated in agile ceremonies, contributing to sprint planning and retrospectives to refine testing processes and improve team collaboration."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "Focused on implementing robust testing strategies within the **Python** ecosystem, leveraging tools such as **Pytest** for automated unit testing and ensuring service reliability through continuous integration and deployment (CI/CD) processes using **GitLab CI**.\nUtilized **AWS Lambda** and **Glue** to create serverless ETL pipelines, enhancing data processing capabilities while minimizing infrastructure complexity.\nDeveloped comprehensive test plans and cases for various microservices built with **Python**, ensuring thorough validation of **SQL** databases like **PostgreSQL** and optimizing query performance with real-time reporting tools such as **Grafana** and **Prometheus**.\nImplemented Continuous Integration and Continuous Deployment pipelines integrating **Jenkins** and **ArgoCD** for robust software delivery, allowing for **rolling updates** and automated testing phases.\nApplied best practices in test automation using **Pandas** and **NumPy** to validate data correctness and consistency within large datasets.\nLeveraged **Kafka** and **RabbitMQ** event streams to ensure high-throughput and reliable message processing in the testing scenarios, improving overall application performance metrics.\nCreated and maintained a centralized logging system using the **ELK** stack (**Elasticsearch**, **Logstash**, **Kibana**) for monitoring application behavior and testing outcomes.\nManaged containerized services using **k8s** to replicate testing environments efficiently, allowing for scalability during peak testing phases.\nMaintained documentation for unit tests, static analysis, and integrated testing outcomes through tools like **Sentry** and **Qase** for all **Python** based applications to facilitate smoother collaboration across teams.\nDeveloped secure integration tests for APIs, ensuring compliance with security standards through thorough inspection of HTTP requests and responses, validating expected versus actual outcomes against defined specifications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "- Developed automated testing frameworks using **Python** and **Pytest**, ensuring robust test coverage for backend services and applications.\n- Designed and implemented **CI/CD** pipelines utilizing **GitLab CI** and **Jenkins** for streamlined deployment processes, achieving a **60%** reduction in release times.\n- Employed data analysis libraries such as **Pandas** and **NumPy** to generate metrics and reports that evaluate test efficiency and performance.\n- Collaborated with cross-functional teams to define and refine test strategies that encompass service performance using **Prometheus**, **Grafana**, and **Sentry** for monitoring application health.\n- Leveraged **AWS** cloud services including **S3**, **Lambdas**, and **Glue** to enhance application testing environments and data handling capabilities, reducing infrastructure costs by **25%**.\n- Integrated message queuing services like **Kafka** and **RabbitMQ** in testing scenarios, facilitating real-time data flow evaluation and validating microservices communication.\n- Implemented comprehensive logging and analytics solutions using the **ELK** stack to provide insights on application behavior under test conditions.\n- Conducted testing of database performance with **PostgreSQL** and **Clickhouse**, optimizing query responsiveness and data retrieval times by **35%**.\n- Executed load tests using **JMeter** and **k6**, simulating user traffic to ensure system stability under peak loads and improving resource allocation strategies.\n- Established data caching mechanisms utilizing **Redis** to enhance test speeds for high-frequency access points, decreasing execution times by **40%**.\n- Actively participated in the development of robust testing strategies for both frontend and backend systems, aligning with **AWS** architectures on **k8s** for improved scalability.\n- Generated comprehensive test documentation and performance reports leveraging **Qase** to track test results and issues, ensuring continuous quality improvement."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Pytest, Pandas, NumPy, SQL\n\n**Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot\n\n**Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n**API Technologies:**\n\tREST & gRPC APIs\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), AWS Glue, GCP (Cloud Functions)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Clickhouse\n\n**DevOps:**\n\tDocker, Kubernetes (k8s), GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), Nginx, Certbot\n\n**Other:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, RabbitMQ, Kafka, ELK, Prometheus, Grafana, Sentry, Qase"
+}

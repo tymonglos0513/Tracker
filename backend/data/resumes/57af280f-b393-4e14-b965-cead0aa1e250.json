@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Senior DevOps Engineer with 13+ years of comprehensive experience in cloud-native and microservices architectures. Proficient in **Kubernetes**, **Terraform**, **Ansible**, and **CI/CD** processes, with a strong track record utilizing **GitLab** and **Argo CD** for streamlined deployments. Adept at monitoring and observability stacks using **Prometheus**, **Grafana**, and **EFK Stack** to ensure high-performance and reliable application operations. Experienced in implementing infrastructure as code with **Helm**, **Terragrunt**, and managing data with **MongoDB**, **Clickhouse**, and **ElasticSearch**.\n\nSkilled in **AWS** and **GCP** environments, specializing in DevOps practices that enhance automation and efficiency. Background in developing AI/ML-powered platforms that facilitate predictive analytics, automation, and real-time processing using **Python** and **Django**. Committed to maintaining compliance with standards such as HIPAA and PCI DSS while delivering robust solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and implemented **CI/CD** pipelines using **GitLab**, **Argo CD**, and **GitOps** practices to ensure efficient software delivery and infrastructure management, enabling multiple deployments per week.\n- Leveraged **Kubernetes** for orchestrating containerized applications and services, facilitating seamless scaling and management of production environments.\n- Utilized **Terraform** and **Helm** for infrastructure as code, streamlining environment provisioning and configuration management across **AWS** and **GCP** platforms.\n- Integrated monitoring and observability solutions such as **Prometheus**, **Grafana**, and **VictoriaMetrics**, achieving 99.9% uptime and reducing incident response time by **30%**.\n- Conducted system performance tuning and optimization, achieving a **25%** reduction in load times and ensuring high reliability across complex microservices architectures.\n- Designed robust logging frameworks using **EFK Stack** for efficient searching and management of application logs, improving troubleshooting times by **40%**.\n- Managed data storage with various technologies including **MongoDB** and **ElasticSearch**, enhancing query response times for large datasets.\n- Implemented automated security checks and compliance audits across deployment pipelines, adhering to industry standards and regulatory requirements.\n- Collaborated with cross-functional teams to define and enforce infrastructure standards and best practices, ensuring consistency and reliability across development and production environments.\n- Orchestrated real-time data processing and event streaming solutions using **Kafka**, enabling the integration of critical insights into business operations and applications.\n- Developed and maintained extensive documentation for operational processes, effectively onboarding new engineers and reducing ramp-up time by **50%**.\n- Streamlined application deployment processes through **Ansible** automation scripts, which facilitated quicker and more reliable deployment cycles."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Managed cloud infrastructure using **AWS** and **GCP**, implementing **Kubernetes** for container orchestration, which enhanced deployment efficiency by **30%**.\n- Implemented CI/CD pipelines with **GitLab**, facilitating automated testing and deployment processes, reducing deployment time by **50%**.\n- Configured and maintained monitoring systems using **Prometheus**, **Grafana**, and **VictoriaMetrics**, achieving uptime improvements to **99.9%**.\n- Deployed applications with **Helm** and managed infrastructure as code using **Terraform** and **Ansible**, ensuring consistency and repeatability across environments.\n- Enhanced service reliability and observability with **Service Mesh** and **Cilium**, leading to a **20%** reduction in incident response times.\n- Streamlined data management processes using **MongoDB**, **Clickhouse**, and **ElasticSearch**, optimizing data retrieval speeds and improving query performance by **40%**.\n- Established GitOps practices employing **Argo CD**, which automated deployment workflows and ensured that environmental states matched repository configurations.\n- Developed and maintained robust data pipelines leveraging **Kafka** for real-time data streaming, significantly improving data integration across multiple services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines using **GitLab** and **Argo CD**, ensuring automated deployments and seamless integration of code with frequency of 10+ releases per week.\nEmployed **Kubernetes** and **Helm** for orchestration and management of containerized applications, achieving uptime of 99.99% across cloud environments like **AWS** and **GCP**.\nUtilized **Terraform** and **Ansible** for infrastructure as code (IaC) to provision and manage cloud resources efficiently, reducing deployment times by **40%**.\nMonitored application performance and resource utilization with tools like **Prometheus**, **Grafana**, and **VictoriaMetrics**, enabling early detection of issues and performance bottlenecks in live services.\nImplemented logging and monitoring solutions using **EFK Stack** (Elasticsearch, Fluentd, and Kibana) to centralize logs from **Kubernetes** pods, improving troubleshooting speed by **30%**.\nDesigned service mesh architecture with **Cilium** to enhance microservices communication and security, significantly increasing network policy enforcement and visibility.\nDeveloped data pipelines using **Kafka** for real-time data processing, improving data handling capabilities for applications by handling over **1 million** messages per day.\nLeveraged **MongoDB** and **Clickhouse** for optimized data storage solutions, achieving rapid data retrieval and analytics capabilities tailored for operational efficiency.\nExecuted GitOps practices to ensure consistency and version control in deployment configurations, enhancing collaboration and reducing conflict in development environments.\nConducted regular performance reviews and security assessments to ensure compliance with GDPR regulations, achieving full compliance for over **100,000** user accounts managed on the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\tJavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\n**Frontend Frameworks:**\n\tReact\n\tVue\n\tAngular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC)\n\tOAuth2\n\tJWT\n\n**Serverless and Cloud Functions:**\n\tAWS\n\tAzure\n\n**Databases:**\n\tPostgreSQL\n\tMySQL\n\tMongoDB\n\tClickhouse\n\tElasticSearch\n\n**DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tHelm\n\tTerraform\n\tAnsible\n\tArgo CD\n\tPrometheus\n\tGrafana\n\tVictoriaMetrics\n\tEFK Stack\n\n**Cloud & Infrastructure:**\n\tGCP\n\tGitOps\n\tCilium\n\tService Mesh\n\tTerragrunt\n\n**Other:**\n\tCI/CD\n\tRedis\n\tNginx\n\tLet’s Encrypt\n\tCertbot\n\tMLflow\n\tAirflow\n\tKubeflow"
+}

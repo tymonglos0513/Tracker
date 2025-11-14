@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior AI Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior AI Engineer with 13+ years of experience in developing high-performing applications in the healthcare and financial sectors. Expert in **MLOps**, utilizing frameworks like **Scikit-learn** and **PyTorch** to implement predictive models. Proficient in **data pipelines**, clinical decision support, and model evaluation strategies. Skilled in deploying solutions on **Microsoft Azure**, including **Azure ML** and **Azure OpenAI**, ensuring compliance with **HIPAA** and **FHIR** standards. Adept in **AI observability** and model explainability techniques to enhance risk management practices. Understands the nuances of coding with technologies such as **JavaScript/TypeScript**, **Python**, and **Flutter**, leveraging frameworks like **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Demonstrated ability in building AI/ML-powered platforms that provide automation, real-time processing, and intelligent insights.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented MLOps processes using **MLflow**, **DVC**, and **Airflow** to manage model training, validation, and deployment pipelines with a focus on clinical decision support.\n- Developed and deployed machine learning models utilizing **scikit-learn**, **PyTorch**, and **Hugging Face** for NLP tasks, including document parsing and anomaly detection, ensuring alignment with **HIPAA** regulations.\n- Led efforts in integrating large language models (LLMs) and AI observability frameworks into production environments for improved model evaluation and explainability.\n- Engineered and maintained data pipelines facilitating real-time analytics and risk management strategies, harnessing the power of **Microsoft Azure**, **Azure ML**, and **Azure OpenAI**.\n- Conducted thorough model evaluation practices, including A/B testing and validation phases, to enhance the robustness and reliability of AI-driven solutions.\n- Collaborated with cross-functional teams to implement advanced risk management strategies that comply with **ICD**, **CPT**, **FHIR**, and industry best practices.\n- Designed full-stack platforms for healthcare applications ensuring compliance with regulatory standards while maximizing performance and user interaction.\n- Implemented secure data solutions, optimizing storage and retrieval in environments with high data throughput and regulatory scrutiny.\n- Contributed to the creation of intelligent features powered by AI models, delivering significant improvements in clinical decision-making and operational efficiency.\n- Actively participated in code reviews, mentoring junior engineers, and defining best practices in AI and model lifecycle management."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Led the development and deployment of machine learning models for fraud detection and clinical decision support using **scikit-learn**, **XGBoost**, and **Azure ML**, improving the accuracy of risk management by **30%**.\n• Integrated **MLOps** strategies to enhance model evaluation and monitoring, ensuring compliance with **HIPAA** standards for sensitive financial and healthcare data processing.\n• Designed and implemented data pipelines for real-time processing of large datasets, utilizing **Azure Data Factory** and **Apache Airflow** to manage ETL workflows effectively.\n• Built natural language processing (NLP) applications using **PyTorch** and **Hugging Face**, enabling advanced analytics and insights from unstructured data within the financial ecosystem.\n• Developed and maintained machine learning pipelines for LLMs and clinical data processing, achieving 95% efficiency in model deployment cycles through automation.\n• Conducted thorough risk evaluation and management analysis supported by insights derived from various financial datasets, aligning with **ICD**, **CPT**, and **FHIR** standards to enhance data governance.\n• Ensured high levels of AI observability and explainability in deployed models, applying strategies that led to a **50%** reduction in deployment errors and increased stakeholder confidence."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Engineered and deployed **MLOps** pipelines to streamline machine learning workflows, leveraging **Azure ML** for model training and evaluation, ensuring compliance with **HIPAA** standards.\nImplemented **PyTorch** and **scikit-learn** for developing and fine-tuning **NLP** models, achieving a **95%** accuracy rate in clinical decision support applications.\nUtilized **Hugging Face** Transformers for building large language models (LLMs) tailored to healthcare use cases, enhancing patient data processing and analysis performance by **40%**.\nDesigned data pipelines using Azure services to manage and preprocess datasets efficiently, reducing data bottlenecks and improving processing times by **30%**.\nConducted model evaluation and performance monitoring to ensure diagnostic accuracy and efficacy in real-time clinical settings while adhering to **ICD**, **CPT**, and **FHIR** standards.\nImplemented AI explainability techniques to provide transparent insights into model decisions, thereby improving trust and compliance with regulatory requirements.\nConducted risk management assessments around AI applications to ensure health data security, uptime, and adherence to **HIPAA** regulations.\nCollaborated with cross-functional teams to ensure alignment on project goals and compliance needs, contributing to the development of a robust decision-support system for clinical applications."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**Backend Frameworks:**\n\tMLOps\n\tPyTorch\n\tscikit-learn\n\tHugging Face\n\n**Frontend Frameworks:**\n\t\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tMicrosoft Azure\n\tAzure: App Services, Blob Storage, SQL Database\n\tAzure ML\n\tAzure OpenAI\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tCI/CD & Infrastructure as Code: Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\t\n\n**Other:**\n\tArtificial Intelligence & Machine Learning:\n\tMLflow, Airflow, Kubeflow\n\tNLP\n\tLLMs\n\tclinical decision support\n\tmodel evaluation\n\tdata pipelines\n\tHIPAA\n\tICD\n\tCPT\n\tFHIR\n\tAI observability\n\texplainability\n\trisk management\n\tAuthentication & Security:\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot",
+  "apply_company": "COPE Health Solutions"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Python Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Python Engineer with 13+ years of experience specializing in **FastAPI**, **Python**, and **React** to develop high-performance applications. Proficient in building **scalable architecture** and developing **model inference APIs** while utilizing **Docker** for consistent deployment. Experienced in **CI/CD** practices that enhance development efficiency and reliability.\nSkilled in machine learning technologies with hands-on experience in **ML** and **NLP**, delivering AI-driven solutions for predictive analytics and real-time processing. Demonstrated expertise in deploying applications on **AWS**, including utilizing **ECS** and **Fargate** for cloud-native systems.\nA strong advocate for compliance-driven development, ensuring adherence to standards such as HIPAA, FHIR, PCI DSS, and SOC 2, thereby aligning projects with regulatory requirements. Well-versed in data processing techniques and MLOps principles, enabling effective model training and orchestration.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **FastAPI** to design and build full-stack platforms for healthcare and fintech, ensuring scalable architecture and compliance with industry standards.\nImplemented **CI/CD** pipelines for mobile applications, enhancing deployment efficiency and incorporating automated testing workflows.\nDeveloped robust data processing workflows using Python and integrated **AWS** services, such as **ECS** and **Fargate**, for seamless microservices deployment.\nLeveraged **Docker** to containerize applications, facilitating rapid and consistent delivery across development and production environments.\nDelivered AI-powered solutions by deploying ML methods for risk scoring and fraud detection using libraries like **scikit-learn** and **TensorFlow**, integrating model inference APIs for real-time processing.\nCollaborated in teams to design and execute NLP models, harnessing technologies such as **spaCy** and **Hugging Face Transformers**, to enhance document processing capabilities.\nParticipated in creating and maintaining a scalable architecture, effectively managing data infrastructure with **PostgreSQL**, **MongoDB**, and foundational analytics tools.\nConstructed data visualization tools using **D3.js** and **Power BI Embedded**, producing insightful dashboards tailored to finance and health analytics.\nEngaged in defining testing strategies across the stack, employing **pytest** and other tools to ensure comprehensive coverage and maintain code integrity.\nImplemented search solutions with **Azure Cognitive Search** and **Elasticsearch**, enhancing querying performance for extensive health and financial datasets."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and deployed scalable architectures utilizing **FastAPI**, **Python**, and **Docker** for building robust microservices that enhance performance and maintainability of financial applications.\nEngineered interactive front-end applications using **React (18)**, fostering responsive user interfaces that seamlessly integrate with back-end services via model inference APIs.\nImplemented CI/CD pipelines, ensuring efficient and reliable deployment of updates to applications across AWS services, particularly **ECS** and **Fargate**, optimizing workflow for a team of 9 developers.\nDesigned and executed advanced data processing solutions using **Python** and **Apache Airflow** to streamline ETL processes for handling **100K** transactions daily from multiple sources.\nDeveloped and tested machine learning models for fraud detection and NLP applications, leveraging **scikit-learn** and cloud-based **AWS** services to enhance prediction accuracy by **15%**.\nCreated ML models for real-time credit scoring and churn prediction, effectively integrating them with backend services for immediate implementation of insights into business strategies.\nDelivered comprehensive solutions for data artifacts versioning and model management with MLflow, addressing the key requirements for model inference and compliance in financial environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Designed and optimized scalable architecture for backend services of a global e-commerce platform using **Python** (FastAPI), ensuring high availability and low latency with an uptime of **99.9%**.\n• Engineered data processing features leveraging AWS ECS and Fargate, facilitating seamless container orchestration and reduced deployment times by **30%**.\n• Developed and deployed model inference APIs utilizing ML and NLP techniques, enhancing data analysis and customer insights, contributing to a **25%** increase in user engagement.\n• Implemented CI/CD pipelines using **Docker**, streamlining the development workflow and reducing bug count during releases by **40%**.\n• Built responsive frontend applications employing **React** to ensure a modern user interface with a performance score of **90+** on Lighthouse.\n• Integrated real-time data processing features using frameworks like Kafka, providing instant updates and a positive customer experience during high traffic periods.\n• Collaborated on AWS-based cloud services to uphold system robustness, achieving a processing efficiency improvement by **50%**.\n• Applied advanced role-based access control (RBAC) and security measures for managing customer and admin access, ensuring compliance with GDPR.\n• Managed continuous model refinement for machine learning processes, resulting in enhanced product recommendations and a conversion rate increase of **15%**.\n• Contributed to technical documentation and knowledge sharing, enhancing team productivity and onboarding efficiency for new engineers."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tmodel inference APIs\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, Fargate\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, S3, Azure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Terraform, Ansible, Helm, Docker Compose, CI/CD, scalable architecture, data processing, ML, NLP",
+  "apply_company": "Natobotics"
+}

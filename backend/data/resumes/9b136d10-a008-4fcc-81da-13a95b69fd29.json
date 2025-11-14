@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-oriented Senior Software Engineer with 8 years of comprehensive experience in modern **JavaScript/TypeScript**, **Python**, and database management using **MongoDB**, **PostgreSQL**, and **MySQL**. Adept at building high-performance applications leveraging **Express.js**, **NestJS**, and **React** frameworks, with a strong focus on developing **RESTful API** and **GraphQL** solutions within the healthcare and financial sectors. My robust cloud experience encompasses **Azure** and **AWS**, supporting scalable deployments and operations.\n\nProficient in implementing **DevOps** practices to enhance CI/CD pipelines for efficient software delivery, ensuring applications meet compliance standards such as HIPAA and PCI DSS. Passionate about coaching team members and promoting agile methodologies, I excel in practical problem-solving and thrive in collaborative environments. I have also integrated **GenAI** technologies to elevate user experiences, while leveraging my fluency in **English** and **German** to enhance communication across teams.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed scalable and efficient applications using **TypeScript**, **Python** (FastAPI), and modern frameworks like **React** (17-18) and **GraphQL**.\n- Designed and implemented RESTful APIs ensuring robust data handling with **MongoDB** and **PostgreSQL**.\n- Led the development of backend services with a focus on microservices architecture utilizing **Node.js**, **Express.js**, and **NestJS**.\n- Collaborated on cross-functional teams to foster **DevOps** practices, optimizing CI/CD pipelines through tools like GitHub Actions and **Azure DevOps**.\n- Delivered high-performance applications incorporating **GenAI** techniques, enhancing user engagement and operational efficiency.\n- Coached and mentored junior developers in agile methodologies, best coding practices, and effective communication in both **English** and **German**.\n- Maintained thorough testing strategies using **Jest**, **Cypress**, and **PyTest**, achieving over 90% test coverage across services.\n- Engaged in pragmatism-driven development, iterating quickly while implementing comprehensive feature sets across all project stages.\n- Integrated advanced analytics and visualization tools using **D3.js** and **Power BI Embedded**, generating key business insights from data across projects.\n- Ensured compliance with relevant data protection regulations and standards throughout the software development lifecycle.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed exceptional front-end applications using **React** (18), **TypeScript**, and **Next.js** to enhance user experience for financial products, showcasing innovative use of modern frameworks and libraries.\n• Led the creation of a microservices-based architecture using **Node.js** (**Express.js**, **NestJS**) and **Python** (**Django**, **FastAPI**) to improve system scalability, maintainability, and throughput for processing over **10,000** transactions per minute.\n• Engineered real-time transaction monitoring tools with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with immediate analytics capabilities to respond to anomalies swiftly.\n• Established an event-driven architecture integrating **Kafka**, **RabbitMQ**, and **Azure Service Bus**, enabling seamless asynchronous communication and enhancing real-time transaction processing, particularly for compliance workflows.\n• Constructed ETL pipelines leveraging **Python**, **Apache Airflow**, and **Azure Data Factory**, facilitating the ingestion of financial data from various sources, improving data accessibility within **24 hours** of data retrieval.\n• Implemented AI/ML-powered fraud detection utilizing **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, proactively identifying and flagging suspicious transaction activity impacting a user base of over **500,000**.\n• Developed ML pipelines tailored for credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, ensuring real-time inferencing capabilities were integrated into backend services, enhancing decision-making efficiency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **TypeScript** to develop and optimize backend services for a global e-commerce platform, maximizing performance and scalability in key modules such as checkout and order fulfillment.\nEngineered robust RESTful API and **GraphQL** solutions, ensuring data integration from **MongoDB** and **PostgreSQL** for efficient data retrieval under high traffic, improving database performance by over **30%**.\nDesigned responsive frontend applications using **React** (v18) and **NestJS**, implementing **Express.js** for server-side logic to enhance user interactions and reduce page load times by **25%**.\nEmployed event-driven architecture with **WebSockets**, **Kafka**, and **RabbitMQ** for seamless real-time updates and notifications, resulting in improved customer engagement and support resolution times by **40%**.\nImplemented comprehensive caching strategies using **Redis** to significantly enhance application responsiveness, achieving an average of **50%** reduction in database reads.\nLed the integration of AI/ML tools, such as **scikit-learn** and **TensorFlow**, to implement personalized recommendations, resulting in a **20%** increase in conversion rates based on user behavior.\nApplied DevOps practices for continuous integration and deployment, utilizing **Kubernetes** and feature flags with **LaunchDarkly** for efficient rollouts and minimized risks during updates.\nCoached junior developers on best practices in software development and agile methodologies, fostering a collaborative team environment and improving project delivery timelines by **15%**.\nEnsured compliance with security and data protection standards through the implementation of **OAuth 2.0** and role-based access control (RBAC), safeguarding sensitive user data and ensuring GDPR compliance throughout the platform.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tTypeScript, Python\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Express.js, NestJS\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tRESTful API, GraphQL\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Coaching, English, German, Pragmatism",
+  "apply_company": "catchHR Jobs"
+}

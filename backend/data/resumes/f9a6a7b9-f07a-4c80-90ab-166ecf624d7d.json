@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Java Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Java Engineer with 13+ years of experience developing high-performance applications, primarily in the healthcare and financial sectors. Expert in **Java**, **J2EE**, **Spring Boot**, and **Hibernate**, with a solid understanding of **REST** and **SOAP** services. Proficient in utilizing **GitHub** for version control and **Maven** for project management, ensuring streamlined CI/CD processes through tools like **Jenkins**. \nSkilled in designing and implementing **RDBMS** solutions, with hands-on experience in **MySQL**, **Oracle**, **SQL Server**, and **PostgreSQL**. Adept at leveraging modern frameworks including **Vue.js** for frontend development, ensuring robust user experiences.\nAdditionally, I bring expertise in deploying cloud-native systems on **AWS** and implementing microservices and event-driven architectures. Strong commitment to compliance-driven development, ensuring alignment with standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Well-versed in MLOps practices, enhancing the capabilities of AI/ML platforms with a focus on predictive analytics and real-time processing.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed robust backend applications utilizing **Java** and **J2EE**, ensuring compliance with industry standards and practices.\n- Employed **Spring Boot** for microservices architecture, optimizing application performance and scalability for high-traffic environments with over **100,000** concurrent users.\n- Designed and implemented CI/CD pipelines using **GitHub** and **Jenkins**, reducing deployment time by **30%** and enhancing release frequency.\n- Integrated REST and SOAP APIs for seamless communication between services, achieving a response time of under **200ms** for critical transactions.\n- Managed databases including **PostgreSQL**, **MySQL**, and **Oracle**, ensuring data integrity and optimizing queries for performance (average query time reduced by **50%**).\n- Automated testing processes with **JUnit**, **Cucumber**, and **Selenium**, increasing test coverage to **90%** for key functionalities, ensuring reliability and performance.\n- Collaborated with front-end teams using **Vue.js** for user interface development, improving user satisfaction scores to over **95%**.\n- Facilitated the integration of legacy systems with modern applications, successfully transitioning over **50%** of critical services to updated frameworks, enhancing maintainability and performance.\n- Led code reviews and knowledge-sharing sessions focusing on best practices in **Java** development and database management.\n- Monitored application performance and stability using various tools, achieving a service uptime of **99.9%** across all environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Developed and maintained robust Java applications using **Java** and **J2EE**, ensuring high performance and scalability for enterprise-level financial systems.\n- Implemented CI/CD processes with **Jenkins** and **GitHub**, resulting in a **30% reduction** in deployment time and increased efficiency.\n- Utilized **Spring Boot** and **Hibernate** for RESTful services, streamlining data access and enhancing application integration with **PostgreSQL** and **MySQL** databases.\n- Conducted unit testing and integration testing using **JUnit** and **Cucumber**, achieving a **95% code coverage** and significantly reducing the number of defects in production.\n- Designed and developed SOAP and REST APIs to facilitate seamless communication between services, enhancing overall system interoperability.\n- Implemented asynchronous processing using **RabbitMQ** and event-driven systems, which improved processing time by **40%** for critical transactions.\n- Collaborated with cross-functional teams to deliver high-quality software solutions by adhering to Agile methodologies and participating in daily stand-ups and sprint planning.\n- Leveraged **Maven** for project management and dependency management, ensuring consistent build and deployment processes across multiple environments.\n- Maintained and optimized RDBMS systems including **Oracle** and **SQL Server**, supporting complex queries and improving data retrieval times by **20%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and maintained scalable backend services leveraging **Java**, **Spring Boot**, and **J2EE**, ensuring robust performance and high availability across critical modules.\nImplemented CI/CD pipelines utilizing **Jenkins** for automated testing and deployment, achieving a deployment frequency of over **10 times per month**.\nUtilized **GitHub** for version control, enabling seamless collaboration and code integrity within the team.\nDesigned resilient REST APIs to facilitate data exchange between frontend and backend systems, adhering to **REST** principles for efficient communication.\nConducted unit and integration testing with **JUnit** and **Cucumber**, increasing test coverage to **95%** and improving software reliability.\nEngaged in efficient database management using **PostgreSQL**, **MySQL**, and **Oracle**, optimizing SQL queries for performance and implementing RDBMS solutions for data integrity.\nOrchestrated builds using **Maven**, streamlining dependency management and build processes, resulting in reduced build times by **30%**.\nIntroduced tests using **Selenium** for end-to-end verification of web applications, enhancing user experience and application reliability.\nCollaborated with frontend teams employing **Vue.js** to create dynamic user interfaces, improving responsiveness and overall application performance.\nLeveraged **AWS** services for cloud deployment, ensuring scalability and reliability of applications in response to increasing user demands.\nUtilized **SoapUI** for testing and validating SOAP-based web services, ensuring high-quality service integration with third-party applications."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tJava, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tSpring, Spring Boot, Hibernate, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tVue.js, React, Angular\n\n**API Technologies:**\n\tREST, SOAP, SoapUI\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, S3\n\n**Databases:**\n\tPostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, Jenkins\n\n**Cloud & Infrastructure:**\n\tAWS: RDS\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot\n\tCI/CD: Maven, GitHub, JUnit, Cucumber, Selenium",
+  "apply_company": "Exadel"
+}

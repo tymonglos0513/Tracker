@@ -1,0 +1,55 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Data Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Results-driven Senior Data Engineer with 9+ years of experience in data architecture and performance optimization. Proficient in **Apache Kafka**, **Docker**, **Kubernetes**, and cloud services like **AWS**. Skilled in implementing ETL and ELT processes using **Python**, **SQL**, and **Scala**. Experienced with data workflow management tools including **Apache Airflow** and **dbt**. A proven track record in using **CI/CD** practices, particularly with **GitHub Actions**, to enhance development efficiency. Demonstrated ability to design and implement robust data solutions, govern data quality, and lead cross-functional teams to achieve project goals.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Utilized **Apache Kafka** for real-time data streaming, enhancing data processing capabilities and ensuring data integrity.\nImplemented ETL processes using **Apache Hadoop** and **Spark**, facilitating data transformation and loading by 25% faster than previous methods.\nDesigned data pipelines with **Apache Flink** to enable stream processing, supporting real-time analytics requirements.\nContainerized applications using **Docker** and orchestrated them with **Kubernetes** for improved scalability and deployment efficiency.\nIntegrated **AWS** services for data storage and processing, ensuring high availability and durability of datasets.\nAutomated workflows with **Airflow**, optimizing task execution and resource management.\nUtilized **dbt** for data modeling and transformation, providing clear documentation and maintainability.\nStreamlined CI/CD processes with **GitHub Actions**, decreasing deployment frequency by 40% and improving code quality.\nImplemented performance optimization strategies, reducing data processing time by 30% through efficient SQL queries and indexing.\nDeveloped data governance frameworks to ensure data quality and compliance with industry standards."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Developed and optimized ETL processes using **Apache Spark** and **Apache Flink** for efficient data processing, enhancing data flow by **30%**.\nImplemented data governance best practices to ensure compliance and high data quality across projects, leveraging tools like **dbt** for transformations.\nCreated data pipelines using **Kafka** and **Confluent**, ensuring reliable and scalable event-driven architectures for data ingestion.\nUtilized **Docker** and **Kubernetes** to containerize applications, improving deployment efficiency and scalability by **40%**.\nDesigned data architectures aligned with business needs, contributing to a **20%** increase in reporting performance with optimized **SQL** queries.\nOrchestrated workflows with **Apache Airflow**, streamlining task scheduling and management processes in data operations.\nManaged cloud resources on **AWS** for data storage and computing, optimizing resource utilization leading to **15%** cost savings.\nParticipated in CI/CD using **GitHub Actions**, ensuring swift and efficient code deployment cycles and reducing deployment errors by **30%**.\nLed cross-functional collaboration efforts to define and prioritize backlog items related to analytics and data engineering initiatives.\nMentored junior data engineers in best practices for coding and performance optimization, fostering a knowledge-sharing culture within the team."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Utilized **Python** to design and implement data pipelines within a **Docker** containerized environment, enhancing data processing speed by **30%**.\nApplied **SQL** and **Scala** to optimize ETL processes, significantly improving data retrieval queries and reducing processing time by **25%**.\nImplemented **Apache Kafka** for real-time data streaming, ensuring reliable data flow between systems and reducing latency by **15%**.\nCollaborated with cross-functional teams to establish **Data Governance** protocols, improving data quality and compliance across projects.\nManaged deployment processes through **Kubernetes** and **CI/CD** practices with **GitHub Actions**, resulting in an increase in deployment efficiency by **40%**.\nEngineered data workflows using **Apache Airflow** to automate tasks and streamline operations for improved reliability.\nContributed to the development of data architecture and performance optimization strategies, leading to a **35%** reduction in overall data processing costs.\nEngaged in daily standups and code reviews to maintain adherence to coding standards and project objectives.\nProduced comprehensive technical documentation and user guides for data processes, facilitating knowledge transfer within teams."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, SQL, Scala, JavaScript, TypeScript, C#, .NET\n\n**Backend Frameworks:**\n\tNodeJS, ExpressJS, NestJS, Microservices, Entity Framework\n\n**Frontend Frameworks:**\n\tReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n**API Technologies:**\n\tRESTful API, GraphQL\n\n**Serverless and Cloud Functions:**\n\tAWS, Azure, Docker, Kubernetes\n\n**Databases:**\n\tMSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB\n\n**DevOps:**\n\tCI/CD, Git, GitHub, GitHub Actions, Apache Kafka, RabbitMQ, Redis\n\n**Cloud & Infrastructure:**\n\tETL, ELT, Airflow, dbt, Performance Optimization, Data Governance, Data Architecture\n\n**Other:**\n\tTesting Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Blockchain: Solidity, Ether.js, Web3.js, Ethereum, UX/UI Design",
+  "apply_company": "Cloudbeds"
+}

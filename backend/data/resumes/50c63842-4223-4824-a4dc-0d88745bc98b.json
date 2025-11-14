@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Backend Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a skilled Backend Engineer with 8 years of extensive experience, I excel in developing scalable and robust server-side applications using **PHP** frameworks like **Symfony** and **Laravel**, along with **Go** programming. My comprehensive knowledge of databases such as **MySQL** and **PostgreSQL**, coupled with in-memory data caching using **Redis** and **AWS Elastiсache**, allows me to optimize performance for high-load systems.\nProficient in containerization with **Docker** and orchestrating applications using **Kubernetes** alongside **Helm** for seamless deployment, I am equipped to effectively manage CI/CD pipelines to ensure smooth, agile workflows. My expertise extends to implementing microservices architectures and utilizing messaging systems like **RabbitMQ** and **Apache Kafka**, as well as cloud services on **AWS**.\nWith a solid understanding of **SOLID principles**, **Clean Architecture**, and **Domain-Driven Design (DDD)**, I deliver clean, maintainable code while adhering to best practices for software design. Additionally, I possess strong communication and collaboration skills, enabling me to solve complex technical challenges effectively, contribute to team success, and foster a dynamic working environment.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed robust backend solutions using **PHP** frameworks such as **Symfony** and **Laravel**, adhering to **SOLID** principles and **Clean Architecture** methodologies.\nImplemented **MySQL** and **PostgreSQL** databases for efficient data management and optimized performance in handling large data sets.\nDesigned and deployed microservices architectures utilizing **Docker** and **Kubernetes**, enhancing scalability and manageability while ensuring high availability.\nEstablished CI/CD pipelines for automated deployment and testing, leveraging tools such as **GitHub Actions**, and **CircleCI** for streamlined integration.\nManaged message queue systems using **RabbitMQ** and **Apache Kafka**, ensuring reliable communication between services in a distributed system environment.\nDeveloped and integrated **REST APIs** for seamless interaction between microservices and client applications, following best practices for API design and documentation using **PlantUML** and **Mermaid**.\nConducted unit testing utilizing **PHPUnit** and integrated continuous testing strategies to maintain code quality and reliability throughout the development lifecycle.\nOptimized application performance and search capabilities using **Elasticsearch** and **OpenSearch**, facilitating real-time data retrieval and analytics.\nCollaborated effectively with cross-functional teams to solve complex challenges, showcasing strong communication and collaborative skills while adhering to best practices in software development.\nLed efforts to mentor junior developers on best coding practices and software design patterns, fostering a culture of learning and growth within the team."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Designed and developed scalable backend systems utilizing **PHP** frameworks like **Symfony** and **Laravel**, adhering to **SOLID principles** to enhance code maintainability.\n• Implemented robust **microservices** architecture to support asynchronous processing and the creation of responsive **REST APIs**, ensuring seamless integration with various systems.\n• Managed databases such as **MySQL** and **PostgreSQL** for efficient data storage and retrieval, optimizing queries for high-performance transactions.\n• Engineered message queuing solutions using **RabbitMQ** and **Apache Kafka** for event-driven processing, facilitating near real-time communications across distributed systems.\n• Developed and maintained CI/CD pipelines utilizing **Docker** and orchestrated deployments using **Kubernetes**, improving deployment frequency by **30%**.\n• Applied caching strategies using **AWS Elastiсache** to enhance application performance, reducing database load by **25%** during peak traffic.\n• Leveraged **Docker** to containerize applications, ensuring consistency across development, testing, and production environments.\n• Collaborated with cross-functional teams to implement Clean Architecture and Domain-Driven Design (**DDD**) principles, promoting a shared understanding of the system.\n• Wrote unit tests using **PHPUnit** to ensure code quality and robustness, achieving a test coverage of over **85%**.\n• Enhanced system reliability by integrating **Helm** for managing Kubernetes applications, simplifying deployments and upgrades."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented efficient backend services in **PHP** using frameworks like **Symfony** and **Laravel**, ensuring adherence to **SOLID principles** and delivering robust, scalable solutions for e-commerce functionalities.\nDeveloped **REST APIs** and microservices architecture, optimizing application integrations and promoting a modular codebase for enhanced maintainability and scalability.\nLeveraged **MySQL** and **PostgreSQL** for structured data management, ensuring fast data retrieval and high-performance transactions across **10,000+** daily users.\nUtilized **Redis** for caching strategies, including AWS Elastiсache, effectively reducing data access latency by **30%** and improving overall application responsiveness.\nEmployed **Docker** for containerization of services, ensuring consistent environments from development to production, and facilitating streamlined **CI/CD** pipelines with **Kubernetes**, promoting rapid deployment cycles.\nImplemented asynchronous processing using **RabbitMQ** and **Apache Kafka** for handling background tasks and event-driven communication, maintaining a transaction volume of **50,000+** messages per day.\nDesigned and maintained distributed systems architectures to support scalability, reliability, and fault tolerance through best practices and **Clean Architecture** principles.\nCollaborated cross-functionally with front-end developers to ensure synchronization between backend logic and UI experiences, actively participating in code reviews to maintain quality standards.\nUtilized monitoring tools and techniques to optimize system performance, preemptively addressing potential bottlenecks, resulting in a **20%** increase in application stability during peak traffic times.\nDrove team communication and collaboration, enhancing workflows and problem-solving effectiveness across technical challenges and project milestones."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript, PHP, Go\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Symfony, Laravel\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tREST APIs, RabbitMQ, Apache Kafka, Amazon SQS\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, AWS Elastiсache\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Helm, Terraform, Ansible, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS services, Linux, microservices\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Elasticsearch, OpenSearch, Apache Solr, SOLID principles, PHPUnit, distributed systems, Clean Architecture, DDD, PlantUML, Mermaid, communication skills, collaboration skills, problem-solving skills"
+}

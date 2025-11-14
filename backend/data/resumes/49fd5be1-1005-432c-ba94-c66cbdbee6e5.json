@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior Backend Engineer with 13+ years of experience in developing scalable, reliable, and secure high-performance applications in the healthcare and financial sectors. Proficient in **Node.js**, integrating **GraphQL**, and managing databases with **PostgreSQL**. Demonstrated expertise in Test-Driven Development (TDD), ensuring robust and maintainable code.\nSkilled in deploying applications on **AWS** and implementing effective cloud strategies, while focusing on scalability and reliability. Strong analytical and problem-solving skills, complemented by hands-on experience in both frontend and backend development using **React**, **Next.js**, **Vue**, **FastAPI**, and **Django**.\nExperienced in building AI/ML-powered platforms for predictive analytics and real-time processing, with a solid foundation in compliance-focused development, aligning solutions with industry standards like HIPAA and PCI DSS. Adept in MLOps practices utilizing **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained backend systems with **Node.js**, ensuring high **scalability** and **reliability** in applications that process over **100,000** user requests per day.\n• Designed GraphQL APIs for seamless data interaction, effectively handling over **1 million** queries monthly to optimize data retrieval.\n• Implemented robust **PostgreSQL** databases, achieving a **99.9%** uptime and designing schemas to accommodate complex data models while ensuring security compliance.\n• Championed **Test-Driven Development (TDD)** practices, reducing bug rates by **30%** in production through rigorous unit and integration testing.\n• Leveraged **AWS** cloud services for deploying applications in a fault-tolerant architecture, resulting in cost savings of **25%** due to efficient resource scaling.\n• Architected solutions supporting high **security** standards to comply with regulations such as HIPAA and PCI DSS, conducting regular audits and implementing necessary enhancements.\n• Enhanced analytical capabilities, implementing tools for monitoring system performance and user behavior, leading to improved decision-making processes.\n• Demonstrated strong **problem-solving skills** by addressing complex issues encountered during deployments, ensuring timely resolutions that minimized downtime."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Node.js** (NestJS/Express) to modernize core financial platforms, facilitating scalability and performance improvements in high-volume transactional systems.\nEmployed **PostgreSQL** for database management to ensure reliability and efficiency in data storage.\nImplemented **GraphQL** for efficient data querying, enhancing the speed and flexibility of data retrieval for applications.\nPromoted **Test-Driven Development** (TDD) practices to guarantee code quality and reduce bugs by over **30%** in production environments.\nAdopted **AWS** services to enhance the security of deployments, achieving a **99.9%** uptime rate and safeguarding sensitive financial transactions.\nEnsured system scalability by building interactive front-end applications with React (18), Vue 3, and Next.js, utilizing TypeScript and Redux Toolkit for responsive design.\nDesigned and deployed a robust event-driven architecture using **Kafka** and **Azure Service Bus**, streamlining communication across workflows for payment processing and compliance.\nDelivered real-time analytics dashboards with React and **D3.js**, providing insights into transactions and detecting anomalies instantly.\nDeveloped ETL pipelines using **Python** and **Apache Airflow** for efficient financial data ingestion from various sources, bolstering analytical capabilities.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, significantly reducing false positives by **25%** through thoughtful feature engineering and model tuning."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Focused on **Scalability** and **Reliability** by designing and optimizing backend services for a global e-commerce platform using **Node.js** (NestJS, Express) and **PostgreSQL**, achieving latency under **200ms** and availability above **99.9%**.\nApplied **Test-Driven Development (TDD)** methodologies to ensure code quality, with **90% test coverage**, reducing bugs in production and enhancing overall project reliability.\nImplemented APIs with **GraphQL** to efficiently fetch data, enabling **50%** reduction in payload sizes and improving client-side performance for high-traffic modules including checkout and order management.\nManaged cloud infrastructure with **AWS** to ensure scalable deployment and efficient resource management, resulting in a **30%** cost reduction through optimized resource allocation.\nApplied **Security** best practices including role-based access control (RBAC) and **OAuth 2.0** to safeguard sensitive user data, ensuring compliance with GDPR standards.\nUtilized analytical skills to identify performance bottlenecks, employing proactive problem-solving skills to reduce database query times by **40%** through efficient indexing and query optimization.\nEngineered features in a highly collaborative environment, participating in architecture discussions and adopting continuous integration practices to streamline deployment pipelines."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tNode.js, Python, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tGraphQL\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Test-Driven Development, Scalability, Reliability, Security, Analytical skills, Problem-solving skills, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot"
+}

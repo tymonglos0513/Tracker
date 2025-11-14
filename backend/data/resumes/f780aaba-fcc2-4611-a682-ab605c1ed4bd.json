@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Rust Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Rust Engineer with 8 years of experience, I bring a robust skill set in software development, particularly in **Rust**, complemented by expertise in **Python**, **JavaScript**, and **TypeScript**. I have a strong foundation in CI/CD practices, ensuring efficient and continuous integration and deployment of applications. My proficiency in memory safety, concurrency, error handling, and defect documentation has enabled me to build high-quality software that meets rigorous standards.\n\nAlongside my technical skills, I have successfully developed and maintained systems that integrate AI capabilities, utilizing frameworks and libraries to enhance performance. My experience in SQL contributes to efficient database management and data annotation for machine learning projects. Additionally, I excel in debugging, profiling, and benchmarking applications to optimize their performance.\n\nMy background includes developing enterprise solutions for the healthcare and financial sectors, where I led initiatives that emphasized secure coding practices and compliance with industry regulations. I am adept at conducting code reviews to maintain quality and foster collaborative team environments, ensuring all aspects of the development lifecycle are addressed.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Rust Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and optimized scalable applications using **Rust** with a focus on **memory safety**, **concurrency**, and **error handling** for performance reliability.\nDesigned and implemented CI/CD processes utilizing tools such as **cargo**, **quickcheck**, and **Clippy**, ensuring efficient code reviews and seamless integrations.\nConducted thorough **profiling** and **debugging** practices to enhance application performance and stability across various platforms.\nExecuted robust **data annotation** methodologies to support machine learning initiatives, improving algorithm accuracy by **25%**.\nImplemented automated benchmarking tools leading to **30%** reduction in execution time for critical features in product releases.\nCollaborated with machine learning teams to integrate **AI** solutions, ensuring adaptability of algorithms within Rust applications for enhanced user experience.\nParticipated in cross-functional code reviews to maintain high standards of quality and documentation, fostering team adherence to **defect documentation** practices.\nArchitected and deployed innovative solutions leveraging **Python** and **JavaScript**, enhancing overall system interoperability while mentoring junior developers.\nUtilized SQL databases for reliable data storage, optimizing access times for large datasets with structured query efficiencies, achieving a **15%** improvement.\nDelivered high-quality software under tight deadlines through effective project management and agile methodologies, impacting overall team productivity positively."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Rust** for developing high-performance applications, ensuring memory safety and concurrency in multi-threaded environments.\nImplemented **CI/CD** pipelines to streamline the software development lifecycle, achieving a **30%** reduction in deployment times.\nConducted thorough **code reviews** to maintain code quality and ensure best practices in **error handling** and **debugging**, enhancing overall team performance by **20%**.\nIntegrated **Python** for building supportive backend services, enhancing system performance with minimal latency in data processing workflows.\nApplied **benchmarking** techniques to identify bottlenecks in existing systems, leading to an improvement of **15%** in application throughput.\nLeveraged **JavaScript** and **TypeScript** for developing robust user interfaces, focusing on scalability and maintainability of frontend components.\nEngaged in **data annotation** and profiling processes to enhance machine learning models in fraud detection systems based on patterns and user behavior.\nEnhanced software reliability through rigorous testing using **quickcheck** and ensuring proper coding standards with **Clippy** and **rustfmt**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Rust** for developing high-performance backend services, focusing on memory safety, concurrency, and error handling to ensure robust application stability in a global e-commerce environment.\nImplemented CI/CD pipelines to automate testing and deployment processes, ensuring code quality through rigorous **code review** practices and real-time **profiling** and **debugging** strategies.\nEngineered AI-driven features leveraging statistical methods and **data annotation** techniques to enhance product recommendations and improve user engagement through personalized experiences.\nConducted comprehensive **benchmarking** for application performance, identifying areas for improvement using tools such as **quickcheck** and **Clippy** to maintain high standards of code quality and optimize runtime efficiency.\nDesigned and optimized scalable database architectures using **SQL** databases like MongoDB and PostgreSQL to ensure fast, fault-tolerant data access for high-traffic e-commerce operations.\nCollaborated with cross-functional teams for feature development while maintaining a focus on **memory safety** and **defect documentation** to ensure technical excellence in all releases.\nEnhanced existing backend applications using **Python** frameworks like FastAPI to integrate real-time capabilities for seamless user experiences across the platform.\nImplemented concurrency strategies to improve responsiveness and reliability, ensuring system availability during peak usage times, targeting a throughput of **1000+** concurrent users without service degradation.\nLeveraged **JavaScript** and **TypeScript** for frontend optimizations, ensuring fast, responsive user interfaces leveraging libraries such as React and Vue, contributing to a user satisfaction rate improvement of **15%**.\nApplied secure coding principles to protect user data while integrating payment systems like Stripe, enforcing PCI-compliance for safe transaction handling."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, Rust, JavaScript, TypeScript, SQL \n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django \n\n **Frontend Frameworks:** \n\tReact, Vue, Angular \n\n **API Technologies:** \n\tKeycloak (OIDC, RBAC), JWT, OAuth2 \n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL) \n\n **Databases:** \n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis \n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose \n\n **Cloud & Infrastructure:** \n\tCI/CD, MLflow, Airflow, Kubeflow \n\n **Other:** \n\tcode review, profiling, debugging, data annotation, benchmarking, memory safety, concurrency, error handling, defect documentation, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "FRATCH"
+}

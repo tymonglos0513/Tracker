@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with over 13 years of experience in cloud-native deployment and automation, specializing in **AWS**, **Kubernetes**, **Terraform**, and **CI/CD** practices. Proficient in **Python** and **Go** programming, demonstrating a strong ability to streamline operations and improve infrastructure efficiency. Expertise in implementing GitOps strategies to enhance deployment processes, ensuring seamless integration and delivery.\n\nSkilled in building high-performance applications across diverse sectors, including healthcare and finance, with a solid understanding of compliance standards such as HIPAA and PCI DSS. Proven track record in developing AI/ML-powered solutions, leveraging technologies like **FastAPI** and orchestrating workflows using **MLflow** and **Airflow**. Well-versed in site reliability engineering (SRE) principles, aiming to enhance system reliability and automation.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and managed **CI/CD** pipelines using **GitOps** principles with **GitHub Actions**, **CircleCI**, and **Azure DevOps**, ensuring automated testing, security checks, and multi-environment deployments across **3** different stages.\nUtilized **Kubernetes** (AKS/EKS) to orchestrate microservices architectures, enhancing system reliability and scalability for applications in both healthcare and fintech sectors by **40%** in user traffic handling.\nEmployed **Terraform** for infrastructure as code to provision and manage cloud environments, resulting in reduced deployment times by **25%** and seamless rollback strategies.\nDeveloped and maintained robust automation workflows for deploying applications and managing infrastructure, leveraging **AWS** services for high availability and fault tolerance.\nWorked with **Python** and **Go** to create REST APIs for microservices, optimizing response times by **30%** through efficient code practices and caching strategies with **Redis**.\nIntegrated advanced monitoring and alerting systems into DevOps practices to ensure system reliability, employing tools like **Prometheus** and **Grafana** for real-time performance analytics.\nCollaborated with SRE teams to build resilient systems and apply site reliability principles across all phases of the software development lifecycle (SDLC), ensuring 99.9% uptime.\nLed automation efforts for operational tasks and incident response protocols, enabling quicker resolution times and improved system reliability by **15%**.\nContinuously evaluated and optimized existing automation tools and frameworks, recommending upgrades and new tools to enhance operational efficiency and reduce time to market for new features.\nGenerated detailed documentation and reports for internal systems and processes, facilitating knowledge sharing and compliance with industry standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **AWS** services and orchestrated containerized applications using **Kubernetes** to enhance system reliability and scalability.\nAutomated infrastructure provisioning and management using **Terraform**, significantly reducing deployment times by **50%**.\nCollaborated with development teams to establish **CI/CD** pipelines, improving code deployment efficiency by **30%** and ensuring seamless integration with existing workflows.\nUtilized **GitOps** principles for version control and deployment automation, enforcing best practices in application delivery.\nDesigned and built automation scripts in **Python** to streamline operational processes, reducing manual tasks by **40%**.\nMonitored system performance and availability using SRE practices, maintaining uptime above **99.9%** for critical applications.\nEmployed **Go** for developing microservices that integrate with cloud-native applications, enhancing service responsiveness and performance.\nConducted regular system reviews and quality checks, implementing performance tuning measures that improved resource utilization by **25%**.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Employed **AWS** services for seamless cloud infrastructure management, ensuring high availability and scalability of backend services.\nAutomated infrastructure setup and deployment pipelines using **Terraform** and **Kubernetes**, resulting in a **30%** reduction in provisioning times.\nImplemented CI/CD practices using automation tools, improving deployment frequency by **50%** and reducing rollbacks by **20%**.\nDesigned and optimized backend services in **Python** for improved performance and reliability.\nCollaborated with development teams to enhance GitOps workflows, ensuring efficient version control and deployments across environments.\nLeveraged **SRE** principles to monitor service reliability and uptime, achieving over **99.9%** service availability.\nApplied best practices for container orchestration to efficiently manage microservices architectures using **Kubernetes**.\nDeveloped automation scripts to streamline operational tasks, aiming for an overall improvement in team productivity.\nParticipated in incident response and root cause analysis, implementing measures that reduced system outages.\nFostered a culture of continuous improvement through retrospectives and feedback in the DevOps process."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Go\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tOAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, GitOps, automation\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database, Terraform\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot, Helm, Docker Compose, Ansible",
+  "apply_company": "Qinshift"
+}

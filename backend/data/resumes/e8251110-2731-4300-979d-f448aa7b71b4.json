@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevSecOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a dedicated DevSecOps Engineer with 8 years of Full Stack Development experience, I specialize in ensuring robust security and compliance throughout the software development lifecycle. My expertise includes implementing containerization and orchestration technologies such as **Docker**, **Harbor**, and **Bitnami**, as well as vulnerability management tools like **Trivy**, **Clair**, and **Grype** to safeguard enterprise applications.\nI’ve successfully integrated security practices within CI/CD pipelines, ensuring adherence to compliance standards like CIS, HIPAA, PCI DSS, and SOC 2. Leveraging my full stack experience with **JavaScript/TypeScript**, **Python**, **React**, **Node.js**, and **Flutter**, I design secure applications that optimize performance and maintain scalability.\nAdditionally, my background in cloud services on **Azure** and **AWS** strengthens my ability to deploy secure applications within cloud environments, fostering a culture of security within Agile workflows. I am adept in developing AI/ML capabilities to enhance security measures, ensuring real-time analytics and proactive threat detection.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevSecOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented **Docker**-based containerization strategies for deploying secure applications, enhancing scalability and manageability across multiple environments while adhering to **CIS** security benchmarks.\n- Managed secure image repositories using **Harbor** to facilitate compliance and security monitoring of container images across all development stages.\n- Integrated security scanning tools such as **Trivy**, **Clair**, and **Grype** into CI/CD pipelines, ensuring detection of vulnerabilities in containers at **every build iteration**.\n- Developed and enforced security policies aligned with best practices for **Bitnami** and **ChainGuard**, streamlining DevSecOps processes.\n- Collaborated with cross-functional teams to implement automated security assessments within deployment workflows, achieving a **50% reduction** in security resources and enhancing overall application security posture.\n- Trained engineering teams on **best security practices** in cloud-native application development and deployment to foster a security-first mindset.\n- Led initiatives to ensure compliance with industry regulations through proactive risk management and continuous monitoring strategies, resulting in a **30% increase** in compliance adherence metrics.\n- Leveraged expertise in software delivery pipelines to integrate functional and security testing seamlessly, contributing to a **25% faster release cycle** without compromising code quality or security standards."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented security best practices in CI/CD pipelines utilizing **Docker** and **Harbor**, ensuring compliance with **CIS** benchmarks to maintain robust security for application deployments.\nConducted vulnerability assessments on container images and runtime environments using tools like **Grype**, **Clair**, and **Trivy**, identifying and mitigating risks pre-deployment, enhancing the security posture by **30%**.\nCollaborated with cross-functional teams to integrate security scans and compliance checks into the DevOps workflow using **ChainGuard** and **Bitnami**, leading to a **25%** reduction in security incident response times.\nMaintained and optimized container orchestration using **Docker Swarm** and Kubernetes, managing scaling up to **100+** containers in production environments to ensure high availability and performance.\nDeveloped automated security governance policies, improving code quality and risk management in development by crafting enforceable policies within **Docker** environments.\nManaged and monitored system health and security of containerized applications, providing actionable insights and system enhancements that leading to improved performance metrics by **15%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented security measures and compliance practices using **Docker**, **Harbor**, and **Bitnami** to ensure secure containerized applications, facilitating continuous integration and deployment processes across **9** environments.\nConducted vulnerability assessments and security scans utilizing **Trivy**, **Clair**, and **Grype** to maintain integrity and compliance with **CIS** benchmarks, identifying and mitigating risks in real-time within **3** critical deployments.\nOptimized deployment pipelines by integrating security checks and audits using **ChainGuard**, enhancing the development workflow to improve efficiency by **25%** while maintaining robust security posture.\nWorked closely with engineering teams to implement infrastructure as code and security policies aligned with best practices, successfully reducing security incidents by **40%** year-over-year.\nDesigned and managed CI/CD workflows to support seamless updates with minimal downtime, leveraging tooling such as **Kubernetes** for orchestration and scaling in cloud environments.\nDelivered comprehensive documentation and training to developers on secure coding practices and tools, boosting security awareness and compliance across **7** development teams.\nParticipated in regular security reviews and incident response drills, ensuring preparedness for potential threats, leading to an effective risk management strategy implemented during **2** major product launches.\nCollaborated with cross-functional teams to instill a culture of security, contributing to the overall security strategy and enhancing the organizational maturity towards DevSecOps practices."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, Harbor, ChainGuard, Bitnami, Trivy, Clair, Grype, CIS\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL)\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Sii Poland"
+}

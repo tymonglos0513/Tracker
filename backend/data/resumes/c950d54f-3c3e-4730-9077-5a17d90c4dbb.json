@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Data Scientist",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Data Scientist with 13+ years in software development, experienced in Python and robust implementations of Machine Learning, Deep Learning, and NLP techniques. Proven track record in MLOps, employing **MLflow**, **Airflow**, and **Kubeflow** to streamline model training, serving, and orchestration. Proficient in data analysis and SQL, and skilled in applying **TensorFlow** and **PyTorch** for Computer Vision tasks. Adept in developing RESTful Web Services, and leveraging **Docker** for containerization to enhance deployment workflows.\n\nExperienced in developing cloud-native solutions on **Azure** and implementing Continuous Integration and Continuous Deployment (CI/CD) practices. Strong background in compliance-driven development, ensuring adherence to industry standards such as HIPAA and PCI DSS. Committed to delivering high-performance applications while aligning innovative technology with business objectives.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Scientist",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** for building machine learning models and deploying real-time predictive analytics in healthcare and finance domains.\nApplied MLOps principles using **MLflow** and **DVC** to manage model training, validation, and deployment pipelines, increasing efficiency by **30%** during the development life cycle.\nDeveloped and implemented **deep learning** models with **TensorFlow** and **PyTorch** for risk scoring and anomaly detection, achieving an accuracy rate of over **90%**.\nLeveraged **SQL** databases for robust data storage, enabling the processing of large datasets and supporting real-time data analysis with **PostgreSQL** and **MongoDB**.\nDesigned and executed testing strategies utilizing **unit testing** frameworks such as **PyTest** and **Cypress**, resulting in a **40%** decrease in production bugs.\nBuilt Docker containers for seamless deployment across environments, streamlining workflows and enhancing reproducibility of data science experiments.\nCollaborated with teams to integrate **RESTful Web Services** with **NLP** models powered by **spaCy** and **Hugging Face Transformers**, facilitating intelligent document processing capabilities.\nImplemented continuous integration and deployment (CI/CD) pipelines using **GitHub Actions** and **CircleCI**, leading to a **50%** improvement in deployment frequency.\nAnalyzed data trends and created visualizations using libraries like **D3.js** and **Chart.js**, providing stakeholders with actionable insights into financial activities and operational KPIs."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to develop and optimize machine learning models for fraud detection, integrating **Azure Machine Learning** for model training and deployment, achieving a detection accuracy of over **95%**.\nImplemented **MLOps** practices to streamline the model lifecycle, facilitating **Continuous Integration** and **Continuous Deployment**, resulting in a reduction of model deployment time by **40%**.\nApplied data analysis techniques to preprocess and clean financial datasets using **SQL** and **Pandas**, improving data quality and readiness for model training by **30%**.\nLeveraged **Deep Learning** frameworks such as **TensorFlow** and **PyTorch** to enhance model capabilities in predicting transaction anomalies and user behaviors.\nDesigned RESTful Web Services for easy integration of machine learning models into existing financial applications, ensuring seamless interaction between front-end and backend systems.\nConducted extensive data visualization using **D3.js** and **Power BI Embedded** to present insights and support decision-making processes for operational teams.\nDeveloped robust ETL pipelines using **Apache Airflow** and **Azure Data Factory**, ensuring efficient data workflows for both batch and real-time processing of over **10TB** of financial data.\nWrote comprehensive unit tests to validate model performance and data processes, maintaining a code coverage of above **80%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **TensorFlow** to develop machine learning models focusing on predictive analytics and customer behavior insights, employing techniques including **Deep Learning**, **NLP**, and **Computer Vision** to enhance product recommendations and search functionalities.\nEmployed **SQL** for data extraction and analysis, ensuring efficient data manipulation and reporting for informed decision-making related to customer preferences and sales trends.\nImplemented **MLOps** strategies for the smooth deployment and monitoring of machine learning models, optimizing their performance in production environments and enabling continuous improvement based on real-time feedback.\nManaged data pipelines using **Docker** for containerization, facilitating the seamless integration of various microservices and ensuring consistent development, testing, and production environments.\nConducted thorough **unit testing** on machine learning models and back-end services, ensuring reliability and robustness of AI-driven features.\nLeveraged **Azure Machine Learning** services to automate model training processes and implement effective model versioning and monitoring, leading to increased efficiency in data analysis workflows.\nDeveloped RESTful web services for data retrieval and model predictions, ensuring secure and efficient communication between front-end applications and machine learning backends.\nAnalyzed large datasets for trends and patterns using relevant statistical methods and data visualization techniques to communicate actionable insights to stakeholders.\nCollaborated across teams to incorporate best practices in **Continuous Integration** and **Continuous Deployment**, streamlining the development process and enhancing team productivity.\nEnsured compliance with data protection regulations such as GDPR by implementing appropriate security measures and best practices in handling sensitive data, focusing on maintaining user privacy."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tRESTful Web Services\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database, Azure Machine Learning\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Continuous Integration, Continuous Deployment, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tMachine Learning, Deep Learning, MLOps, NLP, Computer Vision, TensorFlow, PyTorch, MLflow, Airflow, Kubeflow, Data Analysis, Object-Oriented Programming, Unit Testing, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot"
+}

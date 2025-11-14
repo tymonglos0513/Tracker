@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Intermediate Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Intermediate Software Engineer with 10+ years of experience specializing in **Ruby on Rails**, **PostgreSQL**, **AWS**, **Terraform**, **Kubernetes**, and **Docker**. Proficient in **CI/CD** methodologies, leveraging tools such as **GitHub Actions** and **CircleCI** to automate deployment processes effectively. Skilled in modern development languages, including **JavaScript** and **TypeScript**, with a strong focus on building cloud-native applications on **GCP** and **Azure**. Adept at implementing robust monitoring and error tracking solutions using **Datadog**, **Sentry**, and **Elasticsearch** for enhanced application performance. Proven ability to collaborate across teams, facilitating seamless communication and project execution.\n\nBrings hands-on experience in MLOps, including the development of ML pipelines and model deployment using **MLflow**, **Airflow**, and **Kubeflow**. Passionate about creating secure and scalable software solutions that adhere to compliance standards while delivering real-world impact.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Intermediate Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained robust applications utilizing **Ruby on Rails**, **JavaScript**, and **TypeScript**, ensuring high-quality code and adherence to industry standards.\n• Designed, implemented, and maintained scalable databases with **PostgreSQL** to handle growth, optimizing performance for over **10 million** records of transactional and user data.\n• Built CI/CD pipelines using **GitHub Actions** and **CircleCI**, conducting continuous integration and deployment processes for multiple projects, significantly reducing deployment times by **30%**.\n• Leveraged **AWS** and **Kubernetes** to manage cloud deployments, ensuring high availability and security for applications, with monitoring capabilities implemented via **Datadog** and **Sentry**.\n• Created and managed Docker containers for application deployment, increasing the efficiency of development and testing workflows by **50%**.\n• Collaborated cross-functionally with design and product teams to deliver high-impact features, enhancing user engagement through **feedback loops** and effective communication.\n• Implemented advanced logging and monitoring solutions using **Elasticsearch**, gaining real-time insights into application performance and user behavior, leading to performance improvements of up to **40%**.\n• Utilized **Terraform** for infrastructure as code, streamlining the provisioning of cloud resources across **AWS** and **GCP**, ensuring consistency and reliability.\n• Fostered a collaborative team environment that promoted innovative solutions through regular stand-up meetings and retrospectives, improving overall team productivity.\n• Established best practices for software development, including code reviews and pair programming, enhancing code quality and reducing bugs in production by **25%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS** and **Azure** to deploy scalable applications, adopting **Docker** and **Kubernetes** for container orchestration, ensuring consistent environments across development and production.\nEngineered backend services leveraging **Ruby on Rails** and **PostgreSQL**, optimizing database interactions to handle over **100,000** transactions per day with an emphasis on performance and reliability.\nImplemented CI/CD pipelines using **GitHub Actions** and **CircleCI**, reducing deployment time by over **50%** and increasing development productivity through automated testing and deployment strategies.\nCollaborated with cross-functional teams to refine software requirements, enhancing the communication process and increasing project delivery speed by **30%**.\nDeveloped efficient caching strategies using **Redis** and **Elasticsearch**, boosting application response times by **25%** and improving user experience.\nMaintained infrastructure as code practices using **Terraform** and **Ansible**, facilitating smooth deployment and rollback processes while ensuring compliance with industry standards.\nIntegrated monitoring solutions like **Datadog** and **Sentry** to implement proactive system health checks, leading to a **40%** reduction in downtime through early detection and resolution of issues.\nContributed to the software development lifecycle with strong collaboration and communication skills, actively participating in code reviews and agile ceremonies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Ruby on Rails** for backend development to create modular and maintainable services, enhancing team collaboration and project workflows across the organization.\nEngineered solutions with **PostgreSQL** for robust data storage, optimizing queries to handle **10K+** transactions per minute, ensuring high performance and scalability of applications.\nFacilitated CI/CD pipelines via **GitHub Actions** and **CircleCI** for efficient deployment processes, reducing release time by **30%** using automated testing and integration.\nImplemented cloud infrastructure on **AWS** and **GCP** utilizing **Terraform** and **Kubernetes** for container orchestration, significantly enhancing the deployment frequency to **weekly releases**.\nEnhanced application performance monitoring through **Datadog** and **Sentry**, identifying bottlenecks and reducing error response time by **20%** through proactive analysis.\nCollaborated with cross-functional teams leveraging **Docker** for consistent environment setups, improving collaboration and reducing configuration conflicts by **40%**.\nApplied **Elasticsearch** for efficient search functionalities within applications, delivering results at scale with an index size of **over 1 million documents**.\nPracticed effective communication skills to articulate technical concepts to non-technical stakeholders, fostering a collaborative environment within the team and across departments.\nImplemented infrastructure as code (IaC) using **Ansible** and **Pulumi**, ensuring streamlined configurations and enhancing system reproducibility and backup strategies.\n\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJavaScript, TypeScript, Python\n\n **Backend Frameworks:**\n\tRuby on Rails, FastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CircleCI, Terraform, Ansible, Helm, Docker Compose, Pulumi\n\n **Cloud & Infrastructure:**\n\tAWS, Azure, GCP\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Datadog, Sentry, Elasticsearch, Communication Skills, Collaboration, CI/CD, Let’s Encrypt, Nginx, Certbot"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior DevOps Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with over 10 years of experience in managing and orchestrating backend systems and cloud-native architectures. Proficient in **Terraform**, **Puppet**, **Ansible**, **AWS**, **GCP**, **Azure**, and Linux environments, with a strong ability to streamline processes and automate deployments. Skilled in creating and optimizing CI/CD pipelines using **Jenkins** and **GIT**, while ensuring high security and compliance standards including PCI-DSS. Demonstrated expertise in programming with **Python** and **Ruby**, and proficient in database solutions such as **MySQL**, **MariaDB**, **Galera**, **AWS RDS**, and **AWS Aurora**. A proven contributor to significant projects at leading firms, such as VISA and Reply Polska, with a commitment to delivering scalable, reliable, and high-performance services.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Implemented robust infrastructure as code using **Terraform** to automate deployments and manage resources across multiple environments.\nUtilized **Python** for backend development, crafting microservices to enhance system scalability and performance.\nManaged CI/CD pipelines with **Jenkins**, ensuring continuous integration and efficient deployment strategies while maintaining version control with **GIT**.\nConfigured and orchestrated containerized applications on **AWS**, **GCP**, and **Azure**, deploying high-availability services across cloud platforms.\nAutomated server configuration and management using **Ansible** and **Puppet**, reducing deployment times by **30%**.\nAdministered databases such as **MySQL**, **MariaDB**, and **AWS RDS**, optimizing queries to improve performance by **25%**.\nImplemented monitoring solutions to track system performance and compliance with **PCI-DSS** standards, achieving a **99.9%** uptime.\nCollaborated with development teams to ensure proper integration of services and a rapid response to software release cycles."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Terraform** for infrastructure automation, managing deployment processes to ensure consistent and scalable environments on **Azure App Services**.\nEmployed **Python** and **FastAPI** to develop backend systems, automating document workflows for over **1000** users and enhancing user onboarding experiences.\nEngineered event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing for **500+** financial transactions daily.\nDesigned and implemented robust data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, improving data flow efficiency by **30%**.\nConducted comprehensive security audits and ensured compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** to manage secure access for **2000+** users.\nCollaborated with cross-functional teams to guarantee successful release management and regulatory compliance, contributing to the launch of **5+** major projects annually.\n"
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "- Designed and implemented infrastructure as code using **Terraform** and **Ansible** to automate deployment processes, enhancing the efficiency of backend services for trade execution and portfolio management.\n- Managed cloud resources across **AWS**, **GCP**, and **Azure**, ensuring reliable service uptime and security compliance with **PCI-DSS** regulations.\n- Developed and maintained CI/CD pipelines with **Jenkins** and **Git**, enabling seamless integration and deployment cycles for backend applications across multiple environments.\n- Collaborated with teams using **Bash** scripting and **Python** to streamline operational tasks and enhance the monitoring and performance of trade-related processes.\n- Optimized database performance by deploying **MySQL**, **PostgreSQL**, and **AWS RDS**, resulting in a **30%** improvement in query response times.\n- Spearheaded the implementation of container orchestration solutions with tools like **Docker** and orchestrated environments using **VMWare** for improved scalability.\n- Architected real-time data processing solutions employing **asyncio**, **WebSockets**, and **Redis**, facilitating high-frequency transactions and handling over **10,000** concurrent connections.\n- Produced comprehensive documentation and training materials for the team to ensure adherence to regulatory frameworks, including **MiFID II** and **GDPR**, while maintaining internal data security protocols."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python, SQL, Bash, JavaScript, Ruby\n\n **Backend Frameworks**\n\t FastAPI, Flask, Django, Celery\n\n **Frontend Frameworks**\n\t \n\n **API Technologies**\n\t REST/gRPC APIs, Microservices, Kafka\n\n **Serverless and Cloud Functions**\n\t AWS (Lambda), Azure, GCP\n\n **Databases**\n\t PostgreSQL, MySQL, MongoDB, Redis, MariaDB, Galera, AWS RDS, AWS Aurora, Cloud Spanner\n\n **DevOps**\n\t Docker, Kubernetes, GitHub Actions, Azure DevOps, Terraform, Puppet, Ansible, Jenkins, CI/CD\n\n **Cloud & Infrastructure**\n\t AWS (EC2, S3), Azure, VMWare, Linux\n\n **Other**\n\t AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Git, PyTest, PCI-DSS",
+  "apply_company": "emerchantpay"
+}

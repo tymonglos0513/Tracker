@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a seasoned Senior Software Engineer with 8 years of comprehensive experience, I am proficient in **C#.NET**, **multithreading**, and **Test Driven Development (TDD)**. I have a solid understanding of **Git** for version control and possess expertise in **SQL** for database management, ensuring efficient data storage and retrieval. My experience encompasses **Docker** for containerization, enabling seamless application deployment, and I am well-versed in Linux environments, enhancing system performance and reliability. I have successfully contributed to projects involving **Distributed services** and have hands-on experience with **Agile** methodologies to foster effective team collaboration.\n\nIn addition to the required skills, I also possess extensive full-stack development experience utilizing **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. My cloud expertise spans **Azure** and **AWS**, coupled with a strong foundation in **microservices architecture**, **event-driven systems**, and **CI/CD automation**, which have been instrumental in building robust and secure applications. I have designed and implemented enterprise-grade platforms integrating AI/ML capabilities for predictive analytics and intelligent automation, and I am adept at developing machine learning pipelines and MLOps workflows using frameworks such as **MLflow**, **Airflow**, and **Kubeflow**. My commitment to quality aligns with compliance standards like HIPAA, FHIR, PCI DSS, and SOC 2.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **C#.NET** to architect and develop robust distributed services focused on healthcare and financial systems, improving system performance by **25%**.\nEmployed multithreading techniques to enhance application responsiveness, achieving a reduction in latency by **15%**.\nImplemented Test Driven Development (TDD) practices, ensuring a **99%** code coverage rate and enhancing overall software quality.\nManaged source control efficiently using **Git** for version control and collaboration, facilitating seamless team workflows.\nDeveloped and implemented Voice over IP (VoIP) solutions using **Asterisk** and **Kamailio**, enhancing communication tools within the platforms.\nLeveraged **Docker** to containerize applications, leading to simplified deployment processes and improved scalability in cloud environments.\nConducted system testing and debugging using **Wireshark** to analyze network protocols, ensuring reliability in VoIP communications.\nDesigned and maintained SQL databases for data integrity and performance optimization, achieving **50%** faster query response times.\nCollaborated in Agile methodologies to optimize team process efficiency and project delivery timelines, resulting in a **30%** improvement in project turnaround.\nEmployed **Team City** for continuous integration and delivery pipelines, automating testing and deployment for faster production cycles.\nIntegrated SIP and RTP protocols to enhance telecommunication features, ensuring high-quality audio streaming across the board.\nParticipated in the design and implementation of BDD strategies to improve code quality and collaboration between technical and non-technical stakeholders, aligning project outcomes with business objectives.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **C#.NET** to develop and maintain distributed services, improving performance across multiple financial applications.\nImplemented **multithreading** techniques to enhance system responsiveness, achieving processing speeds of up to **5x** faster for high-load scenarios.\nEmployed **Test Driven Development (TDD)** and **Behavior Driven Development (BDD)** methodologies to ensure code quality, reducing bugs reported in production by **30%**.\nManaged version control and collaboration effectively using **Git**, streamlining the development process across teams.\nDeveloped and tested communication protocols using **SIP**, **RTP**, and **VoIP**, integrating with **PBX** systems to enhance customer support functionalities.\nConfigured and maintained CI/CD pipelines using **TeamCity** and **Docker**, leading to a **25%** reduction in deployment times and improving version control consistency.\nLeveraged **SQL** for optimized database querying, boosting data retrieval performance by **40%** in core applications.\nAnalyzed and debugged network traffic using **Wireshark** to troubleshoot communication issues in the VoIP infrastructure.\nEmbraced **Agile** methodologies to support iterative development and enhance team collaboration and delivery times.\nCollaborated with cross-functional teams to design and implement scalable architecture, leveraging key technologies such as **Asterisk** and **Kamailio** to support high availability and performance in financial services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **C#.NET** and multithreading to develop and optimize high-performance distributed services in a cloud environment, ensuring exceptional scalability and reliability for applications.\nExecuted Test Driven Development (TDD) and Behavior Driven Development (BDD) methodologies, enhancing code quality and reducing bugs by **30%** through comprehensive test coverage.\nEmployed **SQL** databases and **Docker** containers to facilitate smooth deployment processes and efficient resource management across various service components.\nApplied **Git** for version control, managing code repositories effectively and optimizing collaboration within the Agile team.\nConfigured and maintained **VoIP** solutions using **Asterisk** and **Kamailio**, supporting seamless communication workflows that improved operational efficiency by **20%**.\nImplemented session initiation protocols (SIP) and Real-time Transport Protocol (RTP) standards to deliver high-quality audio and video across multiple platforms.\nMonitored application performance and network traffic using **Wireshark**, quickly identifying and resolving bottlenecks to ensure optimal service delivery.\nDeployed CI/CD pipelines with **Team City**, enhancing deployment frequency and reducing mean time to recovery (MTTR) by **25%** during system updates.\nEnsured system security and compliance with industry standards while achieving GDPR compliance through the implementation of role-based access control (RBAC) and secure data handling practices.\nCollaborated in an Agile environment to drive feature enhancements and resolve technical issues, fostering a culture of continuous improvement and team engagement."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript, C#\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tSIP, RTP, VoIP, PBX\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Team City, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (RDS, S3), Azure (Blob, SQL), Linux\n\n **Other:**\n\tAuthentication & Security (Keycloak, JWT, OAuth2, Nginx, Certbot), MLflow, Airflow, Kubeflow, multithreading, Test Driven Development (TDD), Behavior Driven Development (BDD), Git, Wireshark, Distributed services, Agile, Asterisk, Kamailio",
+  "apply_company": "Saab"
+}

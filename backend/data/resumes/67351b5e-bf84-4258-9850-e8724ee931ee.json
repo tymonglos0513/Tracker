@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Software Developer with 13+ years of experience in delivering high-performance applications, specializing in **.NET**, **C#**, **SQL**, and **Docker**. Proficient in **Kubernetes** for orchestrating cloud-native applications and experienced in implementing **Agile** methodologies such as Scrum and Kanban. Skilled in developing robust solutions with a focus on **TDD**, **BDD**, and **DDD** principles to enhance code quality and maintainability.\nWell-versed in building event-driven architectures, implementing **CI/CD** pipelines, and performing comprehensive unit and integration testing.\nAdditionally, adept in **Java** and passionate about leveraging modern technologies. Strong background in AI/ML integrations, and a solid understanding of compliance standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained robust software applications utilizing **.NET** and **C#** as core technologies, ensuring efficient development practices through Agile methodologies like **Scrum** and **Kanban**.\nImplemented data storage solutions using **SQL** and **Redis**, optimizing data retrieval and caching mechanisms for high-performance applications.\nDesigned and implemented cloud-native applications using **Docker** and **Kubernetes** for container orchestration, achieving **99.9%** uptime and scalable deployments.\nCreated CI/CD pipelines leveraging industry-standard tools for seamless code integration, delivery, and deployment, enhancing developer productivity by **40%**.\nApplied test-driven development (TDD) principles to ensure code quality, executing both unit testing and integration testing using frameworks like **xUnit** and **NUnit**.\nEngaged in event-driven architecture strategies to improve application responsiveness and scalability, enabling real-time processing for various system components.\nCollaborated closely with cross-functional teams, maintaining compliance with project specifications and timelines, driving project delivery with a **12%** increase in efficiency.\nParticipated in regular code reviews and refactoring sessions, fostering a culture of continuous improvement within the development team.\nIntegrated third-party services and APIs to enhance application capabilities, leveraging tools like **OpenSearch** for improved search functionalities.\nContributed to the development and maintenance of comprehensive documentation, facilitating easier onboarding and knowledge sharing across the team."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **.NET** and **C#** to develop backend services ensuring robust performance and maintainability of applications.\nEmployed **SQL** for efficient data storage and retrieval, managing high-volume transaction data and optimizing query performance to reduce response times by **30%**.\nImplemented **Redis** for caching frequently accessed data, improving application response times by **25%** and enhancing user experience.\nIntegrated **OpenSearch** for advanced search functionality, enabling quick data retrieval and analysis in applications with complex data sets.\nUtilized containerization with **Docker** and orchestration with **Kubernetes** to streamline application deployment and scaling, reducing operational overhead by **40%**.\nAdopted Agile methodologies, including **Scrum** and **Kanban**, to improve project management and team collaboration, ensuring timely delivery of software features.\nEmployed **Test-Driven Development (TDD)** and **Behavior-Driven Development (BDD)** to ensure high code quality, enabling reliable feature delivery with reduced bugs by **50%**.\nDesigned and developed applications using **Event-driven architecture**, leveraging tools such as Kafka and RabbitMQ for effective asynchronous communication.\nConducted unit testing and integration testing to validate application functionality and ensure code stability across all environments.\nEmphasized CI/CD practices to automate application deployment, achieving faster release cycles and reducing deployment errors by **35%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed scalable backend services for applications using **.NET** and **C#**, ensuring high performance and low latency, particularly for high-traffic modules with a focus on **SQL** databases.\nEngineered microservices architecture leveraging **Docker** and **Kubernetes** for efficient deployment and management of applications, ensuring streamlined CI/CD processes with a compliance rate exceeding **95%**.\nUtilized **Redis** for caching strategies that improved application responsiveness and reduced database load by **40%** during peak usage times.\nImplemented **Agile** methodologies, including **Scrum** and **Kanban**, to promote collaboration and iterative development, contributing to a **30%** improvement in project delivery timelines.\nApplied advanced testing strategies such as **TDD**, **BDD**, and **Unit testing** to enhance code quality, achieving a code coverage of **85%** across all developed services.\nDesigned event-driven architecture principles for responsive features, ensuring real-time processing and data integrity across distributed services using tools and frameworks related to **Event-driven architecture**.\nIntegrated logging and monitoring solutions using **OpenSearch** to analyze application performance and troubleshoot issues effectively, maintaining system uptime at **99.9%**.\nContributed to the development of secure APIs ensuring compliance with industry standards for data protection and privacy, including adherence to **GDPR** guidelines.\nCollaborated with cross-functional teams to gather requirements and translate them into technical specifications, enhancing user experience and aligning with business goals."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tC#, .NET, Java, Golang, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tOAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Agile, Scrum, Kanban, TDD, BDD, DDD\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tKeycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot, MLflow, Airflow, Kubeflow, Event-driven architecture, Unit testing, Integration testing, Redis, OpenSearch"
+}

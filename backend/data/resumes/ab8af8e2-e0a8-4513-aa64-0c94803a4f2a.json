@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Site Reliability Engineer (SRE)",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Site Reliability Engineer (SRE) with 13+ years of experience enhancing application performance within the healthcare and financial industries. Proficient in **AWS**, **Terraform**, **Kubernetes**, **Ansible**, and **Linux**, driving operational excellence via robust **CI/CD** practices and tools such as **FluxCD**, **ArgoCD**, and **Github Actions**. Skilled in monitoring and observability using **Prometheus**, **Grafana**, and **Loki**, ensuring system reliability and performance.\nExperienced in implementing cyber security measures aligned with **ISO 27001**, and well-versed in compliance-driven development, adhering to standards like HIPAA, FHIR, PCI DSS, and SOC 2. Solid programming expertise in **Python** and a strong foundation in project management, possessing hands-on experience in both frontend and backend technologies like **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Additionally, I bring a strong background in AI/ML, driving innovative solutions with predictive analytics, automation, and real-time processing.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Site Reliability Engineer (SRE)",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and maintained **CI/CD** pipelines using **GitHub Actions**, ensuring seamless integration and deployment across environments with automated testing and security checks to enhance reliability.\nUtilized **Kubernetes** for orchestrating containerized applications and employed **Terraform** for infrastructure as code, ensuring consistent environments and reducing deployment times by **30%**.\nMonitored application performance and system health using **Prometheus**, **Grafana**, and **Loki**, setting up alerting mechanisms that improved incident response times by **40%**.\nExecuted configuration management and provisioning using **Ansible**, enhancing deployment consistency across multiple environments and reducing configuration drift.\nAdministered Linux servers, optimizing performance and availability, ensuring compliance with **ISO 27001** standards to bolster security measures across all deployments.\nFacilitated project management processes, coordinating cross-functional teams to foster collaboration and ensure timely delivery of SRE-related projects.\nArchitected disaster recovery solutions leveraging **AWS** services, improving uptime and data integrity in critical applications.\nDeveloped automated system checks and security audits to ensure adherence to Cyber Security protocols, maintaining system compliance and reducing vulnerabilities.\nConducted regular infrastructure assessments, resulting in system improvements that enhanced performance by **25%** and improved user experience in application deployments.\nStreamlined operational workflows through the adoption of **FluxCD** and **ArgoCD**, enabling automated rollback and revision control for Kubernetes deployments."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **AWS** cloud solutions to enhance the reliability and scalability of various financial applications, ensuring minimal downtime and optimal performance.\nUtilized **Terraform** for infrastructure as code, automating the provisioning and management of cloud resources, leading to a **40%** reduction in deployment time.\nManaged container orchestration using **Kubernetes** to facilitate smooth operations and increased deployment efficiency for microservices.\nConfigured CI/CD pipelines with **Github Actions**, enabling seamless integration and delivery processes, ultimately improving deployment frequency by **30%**.\nEnhanced system observability by integrating monitoring tools such as **Prometheus**, **Grafana**, and **Loki**, ensuring timely identification and resolution of performance bottlenecks.\nEnsured compliance with **ISO 27001** standards by implementing stringent **cyber security** practices and conducting regular security audits, reducing vulnerabilities by **50%**.\nCollaborated in project management to align engineering efforts with business objectives, maintaining clear communication across cross-functional teams to deliver projects on time.\nProvided expertise in **Linux** environments, enhancing system performance and security through extensive system hardening practices.\nDeveloped and maintained automation scripts using **Ansible** to streamline configuration management and improve operational efficiency, resulting in a **25%** decrease in manual tasks."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented and managed infrastructure as code using **Terraform** and **Ansible**, streamlining deployment processes for high-availability applications in an **AWS** environment.\nEngineered CI/CD pipelines utilizing **GitHub Actions**, **FluxCD**, and **ArgoCD**, reducing deployment times by **40%** and improving the frequency of releases to support rapid feature delivery.\nEnsured system reliability and performance monitoring through **Prometheus** and **Grafana**, with alerts set to trigger on metrics thresholds, enhancing operational response time by **30%**.\nDeveloped and maintained containerized applications using **Kubernetes**, ensuring smooth scaling and rollouts in a cloud-native architecture.\nImplemented security best practices aligning with **ISO 27001** standards, focusing on **cyber security** measures that safeguarded sensitive data and application access.\nUtilized **Linux** for server management, optimizing resource allocation and ensuring system uptime across distributed environments.\nConducted project management for cross-functional teams, coordinating efforts to enhance overall system reliability and performance.\nMonitored log data with **Loki** for troubleshooting and performance tuning, improving the identification of issues that affect uptime.\nParticipated in on-call rotations, maintaining a **99.9%** uptime for critical services and applications, while addressing incidents within SLA commitments.\nCollaborated on continuous improvement initiatives, utilizing automated tools to reduce manual tasks, significantly boosting team productivity."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tOAuth2, JWT, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, FluxCD, ArgoCD, CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database, Linux\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Let’s Encrypt, Certbot, Prometheus, Grafana, Loki, cyber security, ISO 27001, project management"
+}

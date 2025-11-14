@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a Senior Data Engineer with 8 years of experience, I excel in **data architecture**, **data engineering**, and **data ingestion** to build high-performance solutions in the healthcare and financial sectors. My technical expertise encompasses **data storage**, **data warehousing**, and **data validation**, alongside modern technologies such as **JavaScript/TypeScript**, **Python**, and **Flutter**. I have successfully engineered platforms that integrate **machine learning** capabilities for enhanced analytics and intelligent automation.\n\nI am proficient in **orchestration**, **data transport**, and **batch processing**, leveraging tools and frameworks like **React**, **Next.js**, **Vue**, **Node.js**, **Django**, and **FastAPI**. My experience with **infrastructure as code** and **scheduling** aligns with industry best practices to guarantee scalability and cost optimization.\n\nWith a strong focus on **data quality** and **data integrity**, I uphold compliance standards while promoting **team collaboration** and demonstrating **proactivity** and **autonomy** in project execution. My background in microservices architecture and CI/CD automation allows me to build robust, secure applications that meet complex requirements.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and maintained cloud-native **data architecture** using **PostgreSQL**, **MongoDB**, **Redis**, and **GraphQL**, optimizing for large-scale healthcare and financial **data ingestion**, storage, and querying.\nImplemented **data validation** and optimization techniques for effective **data transport**, ensuring **data quality** and integrity within systems, managing over **5 TB** of data daily, while following best practices for scalability and cost optimization.\nLed the enhancement of **data engineering** processes, creating efficient **data modeling**, storage, and warehousing solutions, improving retrieval speed by over **30%** through advanced indexing.\nArchitected batch processing systems integrated with **Apache Airflow** for scheduling and orchestration, managing over **100** simultaneous data pipelines without performance degradation.\nIntegrated **machine learning** models for real-time data insights, enabling proactive decision-making through predictive analytics and anomaly detection with solutions developed using **Python** and frameworks like **scikit-learn** and **TensorFlow**.\nCollaborated closely with diverse teams, leading **team collaboration** efforts to align data strategy while maintaining high standards of **data integrity** throughout project lifecycles.\nSpearheaded the implementation of **infrastructure as code** practices through tools like **Terraform**, ensuring seamless replication of environments across development and production.\nUtilized data visualization tools **D3.js**, **Chart.js**, and **Power BI Embedded** to deliver intuitive dashboards that communicate key metrics and trends, enabling real-time insights derived from processed datasets.\nEstablished proactive monitoring and reporting techniques for ongoing **data quality** checks and performance evaluations, driving continuous improvements.\nFostered an environment of **proactivity** and **autonomy** within the data engineering team, leading to enhanced efficiency and innovative approaches to large-scale data challenges."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Executed data architecture and engineering best practices by designing and implementing a **microservices**-based architecture using **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, resulting in a **30%** increase in system scalability and maintainability.\nLed data ingestion and validation processes, ensuring high levels of data quality and integrity for high-volume transaction systems by building ETL pipelines with **Apache Airflow** and **Azure Data Factory**.\nImplemented robust data transport solutions using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, establishing an event-driven architecture that enhanced asynchronous communication and real-time processing of transactions with a **99%** uptime.\nOrchestrated batch and real-time data processing workflows, effectively managing data storage and warehousing solutions to optimize performance across **multiple terabytes** of financial data. \nUtilized machine learning frameworks such as **scikit-learn** and **XGBoost** to develop AI-powered fraud detection systems, proactively analyzing transaction patterns to identify suspicious activities with a detection accuracy improvement of **15%**.\nCollaborated with cross-functional teams to ensure alignment on data modeling strategies and the implementation of proactive monitoring for data integrity, employing **infrastructure as code** for seamless deployment and management.\nApplied scheduling techniques using **Airflow**, which streamlined operational workflows and significantly reduced processing time by **20%** through smart orchestration of data tasks.\nEnhanced team collaboration and communication by leveraging best practices in data governance and ensuring rigorous adherence to compliance standards across all data engineering projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **data architecture** principles to design and implement scalable backend services for a global e-commerce platform using **Python** (**FastAPI, Django**) and **Node.js** (**NestJS, Express**), achieving high availability and low latency.\nEngineered **data engineering** solutions leveraging **Kafka** and **RabbitMQ** for event-driven **data transport**, facilitating real-time order updates and dynamic inventory tracking with a significant reduction in data lag by **30%**.\nConducted **data validation** and **data quality** assessments across multiple services, ensuring a fault-tolerant environment using **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** to achieve a **99.5%** uptime in high-traffic e-commerce environments.\nDeveloped machine learning applications using **scikit-learn**, **LightGBM**, and **TensorFlow** to enhance personalized product recommendations, resulting in a **15%** increase in conversion rates through optimized data insights.\nImplemented robust **data storage** solutions and automated **data ingestion** pipelines to facilitate seamless **data warehousing** strategies, utilizing orchestration tools for scheduling data processes and efficiency.\nApplied best practices in **infrastructure as code** with **Kubernetes** for managing applications, enabling rapid scalability and cost optimization by **20%** during major updates.\nFostered team collaboration and knowledge sharing to ensure proactive data governance and maintaining **data integrity** across all systems.\nExhibited autonomy in decision-making regarding the deployment of **features** and orchestration methods to support robust and scalable e-commerce applications, enhancing overall system performance by **25%**.\nConducted regular reviews of **data modeling** techniques and implemented industry standards to maintain high levels of data quality and architectural compliance."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL)\n\n **Other:**\n\tMachine Learning, Data Architecture, Data Engineering, Data Ingestion, Data Validation, Data Transport, Data Storage, Data Warehousing, Orchestration, Batch Processing, Scheduling, Data Modeling, Data Quality, Data Integrity, Best Practices, Scalability, Cost Optimization, Team Collaboration, Proactivity, Autonomy"
+}

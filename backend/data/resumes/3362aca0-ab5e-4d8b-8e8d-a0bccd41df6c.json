@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Cloud Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Cloud Engineer with 13+ years of experience specializing in **AWS** services including **EC2**, **S3**, **ECS**, **RDS**, and deployment of **CloudFormation** and **Terraform** infrastructures. Proficient in designing and implementing **CI/CD** pipelines and managing **Kubernetes** and **Docker** environments for scalable applications. Strong background in scripting with **Bash**, **Python**, and **PowerShell**, along with expertise in **Ansible** for automation and orchestration.\nAdept at monitoring and troubleshooting cloud-native solutions, ensuring compliance with standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Experienced in developing high-performance applications using **JavaScript/TypeScript**, **Flutter**, and backend development with **Node.js** and **FastAPI**. Well-versed in building AI/ML-powered platforms utilizing **Machine Learning** tools and frameworks, providing predictive analytics and real-time processing capabilities.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Cloud Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented cloud infrastructure using **AWS** services including **EC2**, **S3**, **ECS**, **RDS**, **VPC**, **IAM**, and **CloudWatch**, ensuring optimal configuration for security and performance across various applications.\nDesigned and executed **CI/CD** pipelines using tools like **Terraform** and **Ansible**, automating deployment processes and enhancing code delivery efficiency by **30%**.\nUtilized **Docker** and **Kubernetes** for orchestrating containerized applications, enabling scalability and maintaining high availability in production environments.\nDeveloped and maintained serverless solutions with **AWS Lambda** and **Step Functions**, achieving fault tolerance and reducing infrastructure costs by **25%** compared to traditional setups.\nConducted monitoring and troubleshooting using **CloudWatch** and custom scripts written in **Bash** and **PowerShell**, successfully decreasing incident response times by **40%**.\nCollaborated with teams to enforce encryption standards and compliance regulations (e.g., HIPAA, GDPR) across cloud deployments, ensuring data protection and privacy.\nLeveraged APIs for seamless integration between cloud services and applications, improving data flow and user experience.\nDefined robust backup and disaster recovery strategies using **AWS RDS** snapshots and **S3** storage, mitigating risks and ensuring business continuity.\nOptimized resource allocation and performance tuning of cloud architecture, resulting in operational efficiencies and cost reductions.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented and managed cloud infrastructure utilizing **AWS** services such as **EC2**, **S3**, **RDS**, and **ECS**, ensuring high availability and scalability of applications by approximately **30%**.\nDesigned and maintained CI/CD pipelines employing **Terraform**, **CloudFormation**, and **Docker**, leading to a **40%** reduction in deployment times while adhering to best practices in compliance and security.\nAutomated infrastructure provisioning and configuration management using **Ansible**, improving operational efficiency by **25%** through streamlined processes.\nDeveloped and deployed serverless applications with **AWS Lambda** and **Step Functions**, facilitating on-demand computing and orchestration for enhanced agility in responding to user demands.\nLeveraged **Kubernetes** for container orchestration, ensuring consistent deployment and management of services across **3 environments** (development, staging, production).\nConducted robust monitoring and troubleshooting strategies utilizing **CloudWatch** and other logging tools, identifying and resolving performance bottlenecks in under **2 hours**.\nImplemented data encryption and compliance measures to secure sensitive financial data across **multiple** applications, adhering to industry standards and regulations.\nCollaborated with cross-functional teams to develop APIs that integrate seamlessly with internal and external systems, enhancing the overall functionality and maintainability of the platform."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** tools such as **EC2**, **S3**, **ECS**, **RDS**, and **VPC** to design and manage cloud architecture, ensuring robust deployment environments and resource optimization for high-availability e-commerce services.\nImplemented automated infrastructure provisioning using **CloudFormation** and **Terraform**, streamlining deployment processes and achieving a **95%** reduction in manual configurations.\nDeveloped and maintained CI/CD pipelines leveraging **GitHub Actions** and **Docker**, facilitating rapid deployment cycles and maintaining a **10x** improvement in deployment frequency.\nConfigured **AWS CloudWatch** for comprehensive monitoring and logging of all services, achieving real-time insights into application performance and maintaining system uptime above **99.9%**.\nAutomated configuration management with **Ansible** and scripting in **Bash** and **PowerShell**, effectively reducing system configuration errors by **80%** and enhancing workflow efficiencies.\nImplemented security measures such as **encryption**, **role-based access control (RBAC)**, and **OAuth 2.0**, ensuring compliance with **GDPR** regulations and protecting sensitive user data across all components.\nManaged serverless architecture using **AWS Lambda** and **Step Functions** to execute workflows, achieving cost savings and improving scalability for dynamic e-commerce tasks.\nTroubleshot and optimized cloud services, leading to enhanced application responsiveness and reduced latency for **real-time transactions and updates**.\nCollaborated in a microservices architecture using **Kubernetes** for container orchestration, significantly improving resource utilization and deployment speed by **70%**.\nPlayed a pivotal role in creating disaster recovery plans and strategies to ensure **data integrity** and uptime in compliance with industry standards."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Bash, PowerShell\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tAPI, OAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda, Step Functions\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Ansible\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, S3, RDS, VPC, IAM, CloudWatch, CloudFormation\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot, Terraform, Helm, Docker Compose, encryption, compliance, monitoring, troubleshooting",
+  "apply_company": "Real-Time Innovations (RTI)"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior DevOps Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior DevOps Engineer with 10+ years of experience in driving efficient software delivery and operational excellence. Proficient in **AWS**, **Azure**, **Kubernetes**, **OpenShift**, **CI/CD** practices, **Jenkins**, and **Git** to streamline development workflows and enhance system reliability. Deep understanding of **Linux** environments, **Networking** concepts, and infrastructure automation technologies such as **Ansible** and **Chef**. Skilled in using programming languages like **Python**, **Golang**, and **Ruby** to develop scalable DevOps solutions, and experienced in leveraging **Docker** and container orchestration for high-performance deployments.\n\nDemonstrated success in implementing best practices in DevOps while leading cross-functional teams to foster a culture of collaboration and continuous improvement. Proven problem-solver with a commitment to building secure, maintainable systems that adhere to compliance standards. Passionate about optimizing system performance and driving real-world impact through effective communication and a proactive approach.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tImplemented enterprise-level DevOps pipelines using **GitHub Actions**, **Azure DevOps**, and **CircleCI**, incorporating linting, testing, security scans, and multi-environment deployments for both web and API services, resulting in a **40%** reduction in deployment times.\n•\tDesigned and maintained cloud infrastructure leveraging **AWS** and **Azure**, optimizing resource allocation and reducing costs by **30%** through effective utilization of services.\n•\tLed the re-architecture of applications to microservices-based architectures using **Kubernetes** and **Docker**, enhancing scalability and resilience by **50%** during peak traffic.\n•\tAutomated configuration management using tools like **Ansible** and **Chef**, streamlining server provisioning and application deployment processes.\n•\tCollaborated with cross-functional teams to resolve operational issues, ensuring uptime and reliability through rigorous monitoring and log analysis on **Linux** systems.\n•\tImplemented CI/CD best practices for continuous integration and deployment, using **Jenkins** and version control systems like **Git** to maintain code quality and streamline development processes.\n•\tEstablished comprehensive networking strategies and configurations to support seamless communication between distributed services and enhance system performance.\n•\tDeveloped and documented standard operating procedures for system maintenance, backups, and disaster recovery plans to ensure operational continuity.\n•\tProvided mentoring and training to junior engineers on **DevOps** practices and tools, enhancing team skills and productivity.\n•\tSolved complex infrastructure-related problems with innovative solutions that improved system reliability and reduced downtime."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Implemented and maintained **CI/CD** pipelines using **Jenkins** and **Git**, enhancing deployment efficiency by **50%** and reducing rollback incidents to below **5%**.\nManaged infrastructure as code with **Ansible** and **Chef**, streamlining the provisioning process which reduced server setup time by **30%**.\nConfigured and optimized **Linux** servers for application deployments, ensuring high availability and performance across **AWS** and **Azure** cloud environments.\nLeveraged **Kubernetes** for container orchestration, achieving seamless scaling of applications while lowering operational costs by **20%**.\nDesigned and executed disaster recovery plans that ensured **99.9%** uptime for critical systems, utilizing **OpenStack** for virtualization.\nConducted network performance tuning, enhancing throughput and minimizing latency for application traffic by **15%**.\nDeveloped monitoring and alerting systems using **Prometheus** and **Grafana**, enabling real-time visibility into application health and system metrics, promoting proactive incident management.\nFostered a culture of continuous improvement and collaboration by enhancing communication across cross-functional teams, contributing to improved problem-solving strategies and operational excellence."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "- Implemented **CI/CD** practices using **Jenkins** to automate deployment pipelines, improving deployment speed by **30%** while minimizing downtime.\n- Managed infrastructure using **Ansible** and **Chef**, ensuring consistent environment configurations and reducing setup time by **50%**.\n- Optimized system performance on **Linux** servers, leading to a **20%** reduction in resource usage and enhancing the overall efficiency of application hosting.\n- Conducted networking solutions to enhance connectivity and reliability, achieving **99.9%** uptime across applications.\n- Developed and maintained scripts in **Python** and **Golang** to automate monitoring and reporting, significantly reducing manual intervention.\n- Deployed and managed container orchestration with **Kubernetes** to facilitate microservices architecture, resulting in easier scaling and deployment of applications.\n- Collaborated effectively across teams, demonstrating strong **communication** and **problem-solving** skills to troubleshoot and resolve infrastructure issues promptly.\n- Leveraged cloud services, including **AWS** and **Azure**, to architect and maintain scalable, reliable environments, leading to improved operational efficiency by **25%**.\n- Integrated third-party services, like **Artifactory** and **Git**, for version control and artifact management to streamline the development workflow.\n- Played a pivotal role in implementing security best practices using **RBAC** and **OAuth 2.0**, ensuring compliance with GDPR and safeguarding user data."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Golang, Ruby, Scala\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript, React, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Ansible, Chef, Terraform, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tOpenStack, OpenShift, Linux, Networking\n\n **Other:**\n\tSRE, CI/CD, Artifactory, Communication, Problem-solving, MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot\n",
+  "apply_company": "Blip"
+}

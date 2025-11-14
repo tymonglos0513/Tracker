@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Ruby Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Ruby Engineer with over 13 years of experience in developing robust applications and deploying them in compliance-driven environments. Proficient in **Ruby**, **Ruby on Rails**, **SQL**, and **PostgreSQL**, along with a strong focus on **Docker**, **Terraform**, and **Kubernetes** for containerization and orchestration. Skilled in API development and implementation of **test-driven development** methodologies to ensure high-quality code and maintainable software solutions.\nDemonstrated ability to engage in **open-source supply chain** management and enhance application security through solid **cybersecurity** practices. Additionally, I bring extensive experience in JavaScript/TypeScript, Python, and **AI/ML** technologies, with hands-on expertise across frameworks like **React**, **Next.js**, and **Django**. My background includes deploying cloud-native solutions on **AWS** and **Azure**, integrating microservices, and establishing CI/CD pipelines, which ensures efficient and seamless development workflows.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Ruby Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained robust backend systems using **Ruby** and **Ruby on Rails**, ensuring high performance, scalability, and security.\nImplemented **SQL** queries and database management using **PostgreSQL** to optimize data retrieval and storage processes for various applications.\nUtilized **Docker** for containerization, enhancing development workflows and ensuring consistent deployment environments across **Kubernetes** clusters.\nEstablished CI/CD practices with **Capistrano** for automated application deployments and efficient version control management.\nLeveraged **Terraform** for infrastructure as code, enabling automated provisioning and management of cloud resources.\nLed efforts in implementing **test-driven development (TDD)** to enhance code quality and maintainability across all applications, ensuring robust testing support.\nDesigned and prototyped RESTful APIs to facilitate interactions between frontend and backend services with best practices in cybersecurity to safeguard data integrity.\nDeployed background processing with **Sidekiq** to handle asynchronous jobs, improving application responsiveness and user experience.\nDefined and enforced coding standards and best practices within the team, aiding in the successful integration of an open-source supply chain strategy."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Ruby** and **Ruby on Rails** to enhance financial application infrastructures, implementing scalable solutions to support high-volume transaction processing.\nUtilized **SQL** and **PostgreSQL** for effective database management and to optimize data retrieval processes, ensuring reliable and rapid access to critical information.\nImplemented CI/CD processes using **Docker**, **Terraform**, and **Kubernetes** for efficient deployment and management of application services, improving deployment frequency by **30%**.\nStreamlined background processing tasks with **Sidekiq**, ensuring the system handles asynchronous job executions efficiently, reducing response time by **20%**.\nIntegrated API services adhering to test-driven development practices, enhancing code quality and reducing bugs in production by **15%**.\nEngaged in cybersecurity best practices to protect sensitive financial data, ensuring compliance with industry standards across all systems.\nParticipated in open-source supply chain management initiatives, contributing to community-driven projects that enhanced application security and efficiency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented robust **Ruby on Rails** applications focusing on high performance and maintainability, leveraging **SQL** for efficient database interactions and ensuring aggregates over **PostgreSQL**.\nDesigned and developed containerized applications using **Docker**, facilitating streamlined deployment and scalability across environments while utilizing **Kubernetes** for orchestration and management.\nDeveloped background job processing with **Sidekiq**, significantly improving asynchronous tasks and workload distribution for high-demand features on the platform.\nManaged infrastructure as code using **Terraform**, enabling consistent and repeatable deployments and updates for cloud resources.\nApplied test-driven development principles to ensure high-quality code, resulting in a **20%** reduction in post-deployment issues.\nConfigured **Capistrano** for seamless application deployment processes, reducing deployment times by **30%** through automation.\nEngaged in maintaining API integrity and security, implementing **cybersecurity** best practices to protect customer data and comply with regulatory standards.\nIntegrated open-source technologies to enhance the supply chain, leveraging community-driven improvements and innovations.\nMonitored application performance metrics leading to a **15%** increase in application responsiveness after implementing optimization strategies."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tRuby,\n\tPython,\n\tJavaScript/TypeScript,\n\n**Backend Frameworks:**\n\tRuby on Rails,\n\tFastAPI,\n\tFlask,\n\tDjango,\n\tSidekiq,\n\tCapistrano,\n\n**Frontend Frameworks:**\n\tReact,\n\tVue,\n\tAngular,\n\n**API Technologies:**\n\tAPI,\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3,\n\tAzure: App Services, Blob Storage, SQL Database,\n\n**Databases:**\n\tPostgreSQL,\n\tMySQL,\n\tMongoDB,\n\tRedis,\n\tSQL,\n\n**DevOps:**\n\tDocker,\n\tKubernetes,\n\tGitHub Actions,\n\tGitLab CI/CD,\n\tTerraform,\n\tAnsible,\n\tHelm,\n\tDocker Compose,\n\n**Cloud & Infrastructure:**\n\tCybersecurity,\n\n**Other:**\n\tMLflow,\n\tAirflow,\n\tKubeflow,\n\ttest-driven development,\n\topen-source supply chain,\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT,\n\tNginx, Let’s Encrypt, Certbot",
+  "apply_company": "Mend.io"
+}

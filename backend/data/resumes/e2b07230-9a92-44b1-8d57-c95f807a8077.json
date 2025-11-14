@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Python Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-driven Python Engineer with 8 years of experience specializing in full-stack development using **Python**, **SQL**, and **API development**. Proficient in building distributed systems and developing concurrent code, I have integrated **Docker** and **K8s** into my workflows to enhance application deployment and scalability. I have a proven track record of using **Ansible** and **TeamCity** for CI/CD automation, as well as implementing effective **monitoring** and **alerting** systems.\n\nMy technical acumen extends to **GCP** for cloud solutions and agile prototyping techniques such as sketching, enabling rapid development cycles. I also possess a strong foundation in developing high-performance solutions, particularly in the healthcare and financial sectors, while ensuring compliance with regulatory standards. My expertise includes modern frameworks and libraries such as **React**, **Next.js**, **Vue**, as well as server-side technologies including **FastAPI** and **Django**. Additionally, I have led projects that integrate AI/ML capabilities for analytics and automation, and I am experienced in advanced MLOps workflows utilizing tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Python Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and implemented robust APIs using **Python** and **SQL** to facilitate seamless data interactions and integrations with distributed systems.\n- Leveraged **Docker** for containerization, ensuring consistent environments across development and production, and utilized **Kubernetes (K8s)** for orchestrating deployments, enhancing scalability.\n- Established effective monitoring and alerting systems to proactively manage application performance and reliability in complex ecosystems.\n- Designed and built concurrent code structures to optimize backend processing, significantly improving response times by **30%**.\n- Utilized **Ansible** to automate configuration management, ensuring efficient setup and maintenance of infrastructure with an emphasis on reproducibility and speed.\n- Integrated CI/CD practices using **Teamcity**, streamlining workflows and reducing deployment times by **25%**, allowing for faster iteration and prototyping of features.\n- Conducted prototyping and sketching sessions to gather requirements and validate concepts, fostering collaboration across cross-functional teams and aligning with project goals.\n- Actively contributed to the development of distributed systems architectures, enhancing system resilience and reducing downtime by implementing redundancy strategies.\n- Participated in the transition of legacy systems to cloud platforms like **GCP**, ensuring a smooth migration and achieving cost efficiency with a **20%** reduction in operational costs."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed robust APIs leveraging **Python** frameworks such as FastAPI and Django for efficient data handling and interaction, ensuring high performance for concurrent requests.\nUtilized **SQL** to manage and optimize database interactions, improving query performance by **30%** through efficient indexing and database design strategies.\nImplemented **Docker** for containerization, ensuring consistent environments across development, staging, and production, which reduced deployment time by **40%**.\nOrchestrated containerized applications using **Kubernetes**, ensuring high availability and scalability of services deployed in a microservices architecture.\nAutomated deployment processes and infrastructure management with **Ansible**, facilitating seamless updates and scaling operations for distributed systems.\nDeveloped and monitored CI/CD pipelines with **TeamCity**, enhancing build efficiency and reducing integration issues by **25%**.\nImplemented comprehensive monitoring and alerting solutions to improve system reliability and response times for distributed applications.\nCollaborated on prototypes and sketches for new features, employing agile methodologies to iterate quickly and gather team feedback.\nEngaged in performance tuning and optimization of distributed systems, contributing to improved throughput and resilience under load, achieving **99.9%** uptime metrics."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Developed and optimized **API development** solutions using **Python** with frameworks like FastAPI and Django, focusing on efficient data flows and integrations.\n- Engineered **distributed systems** that ensure high availability and low latency across critical services within a global e-commerce platform, managing **concurrent code** for enhanced performance.\n- Implemented **monitoring** and **alerting** strategies to proactively identify and resolve issues within the system 24/7, leading to a **20% reduction** in downtime incidents.\n- Leveraged **SQL** and NoSQL databases like MongoDB and PostgreSQL, ensuring efficient and scalable data handling capable of supporting over **100,000** concurrent users.\n- Utilized **Docker** and **K8s** for containerization and orchestration, enabling seamless deployment processes and reducing deployment times by **30%**.\n- Collaborated through **Ansible** for automated application configurations and management across multiple environments, improving consistency and reliability.\n- Contributed to the **GCP** deployment strategy, optimizing cloud resources, and reducing operational costs by approximately **15%**.\n- Participated in **prototyping** and **sketching** sessions to draft out scalable architecture, ensuring alignment with organizational objectives.\n- Developed features that communicated with real-time systems and APIs, enhancing user interaction and strengthening product offerings.\n- Implemented CI/CD pipelines using TeamCity, streamlining the release process and increasing development efficiency by **25%**."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, SQL\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tAPI development\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes (K8s), GitHub Actions, GitLab CI/CD, Ansible, Teamcity\n\n**Cloud & Infrastructure:**\n\tTerraform, Helm, Docker Compose, GCP\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, monitoring, alerting, distributed systems, concurrent code, prototyping, sketching"
+}

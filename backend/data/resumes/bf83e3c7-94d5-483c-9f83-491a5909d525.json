@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience in software development, focusing on **Python** and **MLOps** including hands-on expertise with **TensorFlow**, **Kubeflow**, and **Airflow**. Proficient in deploying cloud solutions leveraging **Google Cloud Platform** services such as **BigQuery**, **BigTable**, and **GCS**. Adept at implementing **CI/CD** practices with tools like **Git**, **GitLab**, and **Jira**, and comfortable in Agile and DevOps environments.\n\nDemonstrated success in building high-performance applications across healthcare and financial sectors, incorporating **microservices** and **event-driven architectures**. Strong background in data processing using **MongoDB**, **Redis**, and **Spark**, with a commitment to compliance-driven development aligning with standards such as HIPAA and PCI DSS. Excellent communication and collaboration skills, with a strong initiative and commitment to continuous learning.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed full-stack solutions leveraging **Python** and **MLOps** methodologies, ensuring seamless integration with **Google Cloud Platform** services for enhanced performance and scalability.\n• Led the design and implementation of CI/CD pipelines utilizing **GitLab**, **GitHub Actions**, and **CircleCI**, achieving a **30% reduction** in deployment times while maintaining rigorous testing protocols.\n• Collaborated in Agile environments with cross-functional teams, facilitating efficient communication and agile project management using tools like **Jira** and **Productboard**.\n• Created reliable microservices architectures through the utilization of **Docker** and **Kubernetes**, improving system scalability and ensuring deployment across multiple environments.\n• Managed and optimized data storage solutions with **MongoDB** and **Redis**, achieving a **40% improvement** in query performance for health and finance applications.\n• Developed and deployed machine learning models utilizing frameworks including **TensorFlow**, **Scikit-learn**, and **Kubeflow**, leading to enhanced predictive capabilities for real-time analytics.\n• Implemented robust MLOps workflows with **Airflow** and **Prefect**, streamlining model training and deployment processes across various stages of the development lifecycle.\n• Enhanced data visualization capabilities using tools like **Grafana** and **Power BI Embedded**, resulting in clearer insights and increased stakeholder engagement in project findings.\n• Established strong testing frameworks incorporating tools such as **Sentry** and **PyTest**, significantly improving code quality and reliability across applications.\n• Actively pursued continuous learning and development within the tech stack, focusing on new technologies and best practices to drive innovation in projects."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **scikit-learn** to develop and deploy machine learning models for fraud detection, significantly enhancing transaction monitoring with a focus on accuracy and efficiency.\nImplemented **MLOps** practices to create ML pipelines for real-time credit scoring, churn prediction, and transaction classification, ensuring seamless integration into backend services and continuous improvement.\nDesigned robust ETL pipelines leveraging **Apache Airflow** and **Azure Data Factory** for ingesting financial data from both internal and third-party sources, effectively supporting batch and real-time processing.\nCollaborated with cross-functional teams utilizing **Agile** methodologies and tools like **Jira** and **GitLab** to streamline project management and enhance communication on a daily basis.\nContributed to the modernization of core financial platforms by migrating to microservices architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), improving application scalability and performance for high-volume transactions by **30%**.\nDeveloped interactive front-end applications with **React** (18), **Vue 3**, and **Next.js**, employing **TypeScript** and **Redux Toolkit** to deliver responsive user interfaces and a seamless user experience.\nProduced real-time analytics dashboards using **D3.js** and **Power BI Embedded**, equipping operations teams with immediate insights into transactional anomalies, resulting in a **50%** reduction in response time for critical alerts.\nDesigned and implemented an event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus** to enhance asynchronous communication across crucial workflows including payments and compliance checks.\nEmployed tools such as **Grafana** and **Sentry** for monitoring and error tracking, ensuring high system reliability and proactive issue resolution to maintain uptime above **99.9%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Google Cloud Platform** technologies, including **TensorFlow** and **MLOps** to design and optimize backend services for a global e-commerce platform, achieving a system uptime of **99.9%** and supporting up to **100,000** concurrent users.\nEngineered real-time features with **Kafka** and **RabbitMQ** for responsive order updates and dynamic inventory tracking, enhancing customer experience and reducing update latency to less than **200ms**.\nDeveloped frontend applications using **React 18**, **Vue 3**, and **Angular**, incorporating **TypeScript** and **Redux Toolkit**, which resulted in a **30%** increase in user engagement and a sustainable path toward mobile-first design.\nLeveraged **MongoDB**, **Redis**, and **Cassandra** for distributed data storage, ensuring quick access to data for high-traffic workflows and implementing caching strategies that led to improved retrieval times by **50%**.\nIntegrated AI/ML-based recommendation systems using **scikit-learn**, **LightGBM**, and **TensorFlow**, achieving a **20%** increase in product conversion rates through better search relevance and personalized recommendations.\nImplemented caching with **Redis** for product metadata and search results, drastically improving response times and decreasing database read loads by **40%**.\nExecuted feature flagging and blue-green deployments utilizing **Kubernetes** and **LaunchDarkly**, which facilitated controlled rollouts and A/B testing, decreasing deployment-related incidents by **15%**.\nCreated responsive and SEO-friendly e-commerce UIs with **Next.js** and **HTML5/CSS3**, ensuring compliance with accessibility standards (WCAG 2.1) and improving mobile user experience ratings.\nBuilt secure payment processing workflows with **Stripe**, **PayPal**, and **Razorpay**, ensuring robust PCI compliance and improving transaction processing speeds by **10%**.\nApplied role-based access control (**RBAC**) and **OAuth 2.0** protocols for secure customer and admin access, sustaining GDPR compliance and enhancing data protection across the platform."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, TensorFlow\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Google Cloud Platform, VertexAI\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Git, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database, Grafana, Sentry\n\n**Other:**\n\tMLOps, MLflow, Airflow, Kubeflow, Spark, Agile, Jira, Productboard, PagerDuty, BigQuery, BigTable, GCS, Dataproc, Prefect, strong initiative, communication skills, collaboration skills, commitment to continuous learning"
+}

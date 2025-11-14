@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Java Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Java Engineer with 8 years of full-stack development experience. Proficient in **Java**, **Spring Boot**, and **Micronaut** for building powerful backend services, with hands-on expertise in both **MySQL** and **MariaDB** for robust database management. Skilled in implementing secure RESTful APIs and leveraging **Swagger** and **OpenAPI** for documentation and integration. Strong grasp of **JUnit** and **Mockito** for comprehensive software testing, ensuring high-quality and reliable code. Well-versed in **Kanban** and **SCRUM** methodologies for effective project management and team collaboration.\n\nIn addition to my Java proficiency, I have a solid foundation in modern web technologies, including **React**, **Node.js**, and **Python**, allowing me to engage with full-stack projects effectively. My background includes developing solutions for the healthcare and financial sectors with a focus on deploying enterprise-grade platforms under compliance standards such as HIPAA and PCI DSS. Notable experience in cloud solutions with **AWS** and **Azure**, alongside advanced architectural knowledge in microservices, event-driven systems, and CI/CD automation.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Java**, **Spring Boot**, and **Quarkus** to architect and develop scalable, full-stack healthcare and financial platforms, ensuring compliance with industry standards such as HIPAA and PCI DSS.\nImplemented **HTTP-REST** APIs and integrated **MySQL** and **MariaDB** databases to facilitate efficient data access and manipulation across platforms.\nEmployed **Redis** for caching solutions to enhance application performance, serving over **10,000** concurrent user sessions effectively.\nDesigned and implemented robust unit and integration tests using **JUnit** and **Mockito**, achieving a **90%** test coverage across critical services to ensure software reliability and minimize bugs during deployment.\nLed the adoption of Agile methodologies such as **Kanban** and **SCRUM**, enhancing team collaboration and project management which resulted in a **30%** acceleration in delivery timelines.\nExecuted code reviews and established coding standards that improved code quality and maintainability across the development team for a sustainable development practice.\nDeveloped and documented REST APIs using **Swagger** and **OpenAPI**, improving the clarity of endpoint capabilities, making it easier for consumers to integrate with internal and external services.\nApplied **Object-Oriented Programming** principles and design patterns to create maintainable and extensible architecture, resulting in a significant reduction in technical debt and improving code reuse across projects.\nIntegrated security best practices into development workflows, ensuring that all web applications adhered to modern **Web Security** protocols, safeguarding sensitive healthcare and financial data against vulnerabilities.\nMaintained an agile development environment with regular stand-ups and retrospectives, fostering a culture of continuous improvement and adaptation among the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Spring Boot** to develop and modernize financial platforms, enhancing architecture with **microservices** to improve scalability and throughput for high-volume transaction systems, achieving a **40%** increase in system responsiveness.\nImplemented **HTTP-REST** APIs to ensure seamless communication between services, adhering to **OpenAPI** specifications to enhance system integration and documentation.\nConducted code reviews and implemented **design patterns** to enhance code quality and maintainability, leading to a **30%** reduction in bugs and technical debt.\nApplied **Object-Oriented Programming** principles and **Dependency Injection** techniques to write clean and maintainable code, ensuring efficient software testing with **JUnit** and **Mockito** frameworks.\nManaged and optimized database interactions using **MySQL** and **MariaDB**, coordinating data storage solutions and improving query performance by **25%** through proper indexing and optimization strategies.\nAdopted **Kanban** and **SCRUM** methodologies to enhance team collaboration and project management, leading to on-time delivery of critical financial features in **3** iterations.\nEnsured robust web security by implementing best practices for API security, proactively establishing measures to guard against common vulnerabilities.\nMentored junior developers on best coding practices and software development principles, fostering a culture of quality and continuous improvement within the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and optimized high-performance backend services for a global e-commerce platform using **Java** (Spring Boot, Quarkus, Micronaut), ensuring high availability, low latency, and scalability across key modules like checkout and order fulfillment.\nImplemented robust data solutions using **MySQL** and **MariaDB**, ensuring fast, fault-tolerant access for high-traffic workflows, while also leveraging **Redis** for caching frequently accessed resources, leading to a **30%** improvement in application performance.\nWrote comprehensive unit and integration tests using **JUnit** and **Mockito**, ensuring robust software quality and minimizing regressions, with a target test coverage of **95%**.\nApplied Object-Oriented Programming principles and Design Patterns to enhance code maintainability and reusability across projects, implementing Dependency Injection to streamline application structure.\nDesigned and documented RESTful APIs using **Swagger** and **OpenAPI**, ensuring clear communication and smooth collaboration between frontend and backend teams, facilitating an increase in API usability by **40%** as reported in user feedback.\nParticipated in agile methodologies, including **Kanban** and **SCRUM**, contributing to iterative development cycles and maintaining high team productivity during feature rollouts.\nConducted code reviews focusing on best practices in **Web Security** and software testing, fostering a culture of continuous improvement and knowledge sharing within the team.\nCollaborated with cross-functional teams to identify and resolve bottlenecks, enhancing overall team output and achieving a **25%** reduction in delivery timeframes for major features."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tJava, Python, JavaScript, TypeScript\n\n **Backend Frameworks:** \n\tSpring Boot, Quarkus, Micronaut, FastAPI, Flask, Django\n\n **Frontend Frameworks:** \n\tReact, Vue, Angular\n\n **API Technologies:** \n\tHTTP-REST, OpenAPI, Swagger\n\n **Serverless and Cloud Functions:** \n\tAWS Lambda, Azure Functions\n\n **Databases:** \n\tMySQL, MariaDB, PostgreSQL, MongoDB, Redis\n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:** \n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Other:** \n\tMLflow, Airflow, Kubeflow, JUnit, Mockito, Kanban, SCRUM, Object-Oriented Programming, Dependency Injection, Design Patterns, Software Testing, Code Review, Web Security, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "LUMASERV"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Platform Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Platform Engineer with 13+ years of experience in cloud-native system deployment and infrastructure management on **AWS**, **Azure**, and **GCP**. Extensive knowledge in **Kubernetes** for container orchestration and adept at using **Terraform** and **Ansible** for infrastructure as code. Proven proficiency in **Python** for automation and service implementation, ensuring high-performance and robust cloud solutions.\nSkilled in managing remote teams and aligned with industry standards, driving compliance within platforms. A track record of developing applications in healthcare and financial sectors, leveraging advanced technologies, including AI/ML. Recognized for building and maintaining effective workflows that enhance productivity and foster collaborative remote work environments.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Platform Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and managed **cloud infrastructure** solutions across **AWS**, **Azure**, and **GCP** for seamless deployment and scaling of applications.\nLed infrastructure automation using **Terraform** and **Ansible** to ensure efficient provisioning and configuration management across environments.\nDesigned and optimized systems using **Kubernetes** for container orchestration, enabling reliable deployment of microservices.\nCrafted full-stack platforms leveraging **Python** (FastAPI) in conjunction with modern front-end frameworks to fulfill client requirements in diverse industries.\nPioneered CI/CD practices to enhance development workflows, integrating tools like **GitHub Actions** and **CircleCI** for continuous integration and deployment.\nOversaw team management and collaboration in a **remote work** setting, fostering effective communication and project delivery across multiple teams.\nAnalyzed system performance metrics to implement continuous improvement strategies, achieving up to **30%** reduction in deployment times.\nAchieved compliance with industry regulations like HIPAA and PCI DSS for healthcare and finance sectors, ensuring data protection and security.\nDeveloped and maintained advanced monitoring systems using **Azure** and **AWS** services that improved uptime metrics by **15%**.\nUtilized **Kubernetes** (version **1.21**) to enhance application scalability and reliability across various production environments.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Designed and managed cloud infrastructure solutions using **AWS**, **Azure**, and **GCP**, optimizing deployment workflows and enhancing system reliability.\nImplemented container orchestration with **Kubernetes**, ensuring seamless scalability and management of microservices architecture.\nAutomated infrastructure provisioning and management with **Terraform** and **Ansible**, reducing deployment time by **30%** and enhancing consistency across environments.\nCollaborated with cross-functional teams to drive platform enhancements, utilizing strong team management skills to ensure timely project delivery and promote remote work efficiency.\nModernized core financial platforms by migrating to microservices architecture using **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, enhancing scalability and performance for high-volume transactional systems.\nBuilt interactive front-end applications with **React (18)**, **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies.\nDesigned and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nDeveloped ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS**, **Azure**, and **GCP** for cloud infrastructure management, implementing and maintaining scalable, secure, and reliable backend services for a global e-commerce platform.\nLed the deployment and orchestration of containerized applications using **Kubernetes**, ensuring high availability and efficient resource utilization, while managing a team to enhance collaboration and code quality across projects.\nDesigned and optimized backend services using **Python** (FastAPI, Django) and Node.js (NestJS, Express), ensuring robust performance with **99.99%** uptime and low latency across key modules such as checkout, cart, and order fulfillment.\nImplemented **Terraform** and **Ansible** for infrastructure as code, streamlining the deployment process, and managing infrastructure changes with version control, reducing deployment times by **40%**.\nEngineered real-time features using WebSockets and event-driven architecture powered by Kafka and RabbitMQ, enabling responsive order updates and real-time customer support, improving user satisfaction metrics by **30%**.\nDeveloped frontend applications leveraging frameworks including React (18), Vue 3, and Angular, enhanced with TypeScript and Redux Toolkit, achieving an **80%** increase in page load speed on both web and mobile platforms.\nTransformed data storage solutions utilizing MongoDB, PostgreSQL, Redis, and Cassandra for distributed access, optimizing database response times and improving performance under high traffic conditions.\nCreated feature flags and blue-green deployments using **Kubernetes** and LaunchDarkly, facilitating controlled experimentation and allowing for safer rollouts, reducing downtime during major updates by **50%**.\nImplemented AI/ML algorithms using scikit-learn, LightGBM, and TensorFlow, personalizing user interfaces and enhancing product visibility, which contributed to a **20%** increase in conversion rates.\nEnsured secure payment processes integrated with **Stripe**, **PayPal**, and **Razorpay**, employing industry best practices to maintain PCI compliance and handle sensitive data effectively.\nApplied role-based access control (RBAC) alongside **OAuth 2.0** for secure user authentication, adhering to GDPR regulations and ensuring data protection throughout the platform."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tNginx, Let’s Encrypt, Certbot, Keycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\tGCP\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tTeam Management, Remote Work",
+  "apply_company": "Filigran"
+}

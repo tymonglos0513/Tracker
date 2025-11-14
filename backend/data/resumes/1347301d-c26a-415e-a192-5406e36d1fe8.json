@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Golang Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Golang Engineer with 13+ years of experience in developing scalable **distributed systems** and implementing **microservices** and **event-driven architectures**. Proficient in **API design**, **Kubernetes**, and **version control**, ensuring robust solutions through **continuous integration** practices and open-source collaboration. Proven ability to decompose tasks effectively in complex projects.\n\nBringing a diverse tech stack including **JavaScript/TypeScript**, **Python**, and **Flutter**, with hands-on experience in both frontend and backend development using **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Developed AI/ML-powered platforms for predictive analytics and real-time processing, leveraging skills in model training and orchestration with **MLflow**, **Airflow**, and **Kubeflow**. Well-versed in deploying cloud-native systems on **AWS** and **Azure**, with a strong commitment to compliance-driven development aligned with HIPAA, FHIR, PCI DSS, and SOC 2 standards.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Engineered distributed systems architecture utilizing **Go** and **Kubernetes** to ensure robust microservices deployment and management, optimizing for scalability and performance.\n• Developed RESTful APIs following best practices in API design, ensuring efficient communication across microservices.\n• Championed continuous integration practices with **GitHub Actions** and **CircleCI**, facilitating rapid iteration and high-quality code through automated test pipelines.\n• Collaborated in open source projects to enhance capabilities of existing tools and foster community innovation, integrating feedback loops for continuous improvement.\n• Structured task decomposition strategies for complex projects, facilitating clearer responsibilities and enhanced collaboration among team members, resulting in a **30%** increase in development speed.\n• Maintained version control best practices across all projects, employing **Git** to manage codebase changes effectively.\n• Coordinated cross-functional collaboration with machine learning teams, applying models and data effectively for application features and insights.\n• Implemented event-driven architecture principles to allow systems to react to events, enhancing system responsiveness and reducing downtime by **15%**.\n• Developed and refined microservices to support high-load scenarios, ensuring system reliability and scalability through efficient use of **API Design** principles. \n• Fostered collaboration among team members through peer reviews and agile ceremonies, harnessing open communication to drive project success."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented **API Design** strategies for scalable microservices using **Go** and **Kubernetes**, ensuring high availability and performance for distributed systems.\nLed the development of **Event-Driven Architecture** solutions utilizing messaging platforms like **Kafka** and **RabbitMQ** to enhance communication across microservices in a **Kubernetes** environment.\nParticipated in **Continuous Integration** practices with version control tools like **Git**, enabling smoother code deployment and collaboration among teams on various projects.\nDecomposed complex tasks into manageable units, adopting **Microservices** best practices to facilitate smooth software development workflows.\nContributed to the development of open-source projects, enhancing the overall ecosystem while fostering collaboration among developers and communities.\nConducted regular code reviews and provided mentorship to junior engineers, enhancing team skills and promoting best practices in software development.\nCollaborated with cross-functional teams to align technical objectives with business goals, facilitating efficient project execution and timely delivery of product milestones.\nTracked and documented system versions, ensuring compatibility and maintaining robust documentation across projects, influencing future development decisions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized **API** services for a global e-commerce platform using **Go**, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nEngineered robust **Microservices** and implemented **Event-Driven Architecture** using **Kubernetes** and **Kafka** for responsive order updates and dynamic inventory tracking.\nDeveloped effective strategies for **Distributed Systems**, delivering high performance and reliability, accommodating over **1,000,000** concurrent users.\nUtilized **Continuous Integration** practices, ensuring that all deployments met rigorous quality standards with a **95%** success rate in production rollouts.\nApplied **Version Control** techniques across development processes, ensuring that code integrates seamlessly and allowing for rollback capabilities when necessary.\nCollaborated effectively with cross-functional teams, utilizing open source tools to enhance collaboration and implement best practices in **Task Decomposition** that streamlined project flows.\nIntegrated monitoring and logging capabilities for enhanced observability, achieving an incident response time improvement of **30%** compared to previous iterations.\nImplemented containerization with **Kubernetes**, allowing for easy scaling and management of **Microservices**, reducing deployment times by **50%**.\nConducted rigorous testing and validation of service-level agreements (SLAs) for performance, achieving sub-second response times in **99%** of use cases.\nDesigned secure and compliant deployment pipelines utilizing open source technologies and best practices to meet legal standards including **GDPR** compliance."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tGo, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI Design\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Continuous Integration, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database\n\n**Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow, Distributed Systems, Microservices, Event-Driven Architecture, Open Source, Collaboration, Task Decomposition, Version Control, Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "Stacklok"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Cloud Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Cloud Engineer with 13+ years of experience specializing in **AWS**, **Docker**, **Kubernetes**, **Terraform**, and **CI/CD** processes using **Jenkins**. Proficient in **Python**, **Bash**, and **Node.js**, delivering cloud-native systems and managing infrastructure as code. Experienced in implementing microservices and event-driven architectures, as well as deploying robust monitoring solutions with **Prometheus**, **Grafana**, and **Graphite**. Skilled in ensuring cloud security and compliance across solutions, aligning with standards like HIPAA and PCI DSS. \nStrong background in full stack development with hands-on expertise in technologies like **JavaScript/TypeScript**, **Flutter**, **React**, **Next.js**, **Vue**, **FastAPI**, and **Django**, combined with a focus on AI/ML implementations for advanced analytics and automation.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Cloud Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented cloud infrastructure as code using **Terraform** and **Ansible**, optimizing deployments on **AWS** and **GCP** for scalable applications with automated provisioning.\nDesigned and configured containerized environments with **Docker** and **Kubernetes** for microservices architectures, achieving a **30%** reduction in deployment time.\nDeveloped CI/CD pipelines utilizing **Jenkins** and **Git**, ensuring a reliable and repeatable build process across multiple projects, with deployment frequency reaching **5 times per week**.\nManaged infrastructure monitoring and logging with **Grafana**, **Prometheus**, and **Graphite**, resulting in enhanced observability and reduced incident recovery times by **40%**.\nUtilized scripting languages such as **Python**, **Bash**, and **Ruby** to automate routine tasks and streamline cloud operations, improving efficiency by **25%**.\nEnforced cloud security best practices, ensuring compliance with industry standards and securing environments through robust policies and practices.\nCollaborated with development teams to integrate microservices with cloud functionalities, delivering reliable services and maintaining high system availability at **99.9%** uptime.\nIntegrated and optimized performance monitoring tools to analyze application metrics and enhance system reliability, improving response times by up to **50%**.\nDeveloped documentation and conducted training sessions for cloud provisioning and management practices, fostering a well-informed team environment and increasing operational efficiency.\nLed the migration of on-premises applications to cloud platforms, providing a seamless transition experience while reducing operational costs by the end of **20%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented cloud infrastructure utilizing **AWS** and **GCP** to support scalable application deployments and manage cloud security policies, enhancing overall operational reliability.\nEmployed **Terraform** and **Ansible** for infrastructure as code (IaC), facilitating consistent environment provisioning and configuration management across development and production phases.\nOrchestrated containerization using **Docker** and **Kubernetes** for microservices, improving deployment efficiency by **75%** and reducing downtime.\nDeveloped CI/CD pipelines with **Jenkins** to automate build and release processes, boosting deployment frequency from **3 times a week** to **daily**.\nMonitored system performance and application health using **Prometheus**, **Grafana**, and **Graphite**, ensuring real-time alerts and maintaining service uptime above **99.9%**.\nImplemented log aggregation and analytics tools to enhance observability and troubleshoot issues faster, leading to a **50%** reduction in incident response time.\nCollaborated with cross-functional teams using **Git** for version control, ensuring seamless code integration and fostering a culture of continuous improvement and teamwork.\nOptimized application performance by profiling codebases in **Python** and **Node.js**, resulting in a **30%** increase in processing efficiency for critical services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged **AWS** and **GCP** for deploying and managing cloud infrastructures, ensuring optimal performance and scalability for backend services across a global e-commerce platform.\nUtilized **Terraform** for infrastructure as code (IaC) to automate cloud resource provisioning, resulting in a **30%** reduction in deployment times across environments.\nImplemented **Docker** containers to streamline application deployment and execution, achieving consistent environments across development, testing, and production.\nConfigured **Ansible** for automated configuration management, reducing manual setup time by **25%** and enhancing system reliability.\nDeveloped CI/CD pipelines using **Jenkins** to automate testing and deployment processes, achieving up to **5 deployments per day** with zero downtime.\nMonitored system performance and application metrics using **Grafana**, **Prometheus**, and **Graphite**, ensuring system observability for proactive issue resolution in a high-traffic environment.\nEmployed version control with **Git**, maintaining organized and efficient code management practices among cross-functional teams.\nEnhanced security protocols by implementing cloud security best practices, applying **role-based access control (RBAC)** and **OAuth 2.0** for secure customer and admin access to sensitive data.\nProgrammed backend services utilizing **Python**, **Node.js** (NestJS, Express) ensuring the development of high-availability features with low latency for core functionalities such as checkout and order fulfillment.\nEngineered communication protocols using **Kubernetes** for orchestrating container management, enabling seamless scaling and self-healing capabilities in response to traffic spikes.\nApplied **Bash** scripting to automate routine tasks, improving operational efficiency and reducing manual errors.\nCreated and maintained secure payment integrations with platforms like Stripe and PayPal, adhering to PCI standards for safe transaction processing."
+    }
+  ],
+  "skills": "  **Programming Languages:**\n\tPython, Bash, Ruby, Node, Golang, Java\n\n  **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n  **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n  **API Technologies:**\n\tHTTP\n\n  **Serverless and Cloud Functions:**\n\tAWS, GCP\n\n  **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n  **DevOps:**\n\tDocker, Kubernetes, Jenkins, Git, GitHub Actions, GitLab CI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n  **Cloud & Infrastructure:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\tPacker\n\n  **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Graphite, Prometheus, Grafana, Cloud Security",
+  "apply_company": "Cint"
+}

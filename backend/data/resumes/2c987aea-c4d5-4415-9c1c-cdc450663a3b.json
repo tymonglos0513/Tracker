@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior Data Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "As a highly skilled Senior Data Engineer with 8+ years of experience in software engineering, I excel in leveraging **Apache Hadoop**, **Spark**, **Flink**, and **ETL/ELT** processes to design and implement robust data solutions. I have a strong proficiency in **Python**, **SQL**, and **Scala**, enabling me to create efficient data pipelines. My expertise in orchestration with **Airflow**, and transformation through **dbt** ensures streamlined data workflows aligned with performance optimization and data governance goals. Additionally, I am proficient in **Docker** and **Kubernetes** for containerization, and **Kafka** and **Confluent** for data streaming and integration. With my solid experience in cloud platforms like **AWS** and in deploying CI/CD pipelines using **GitHub Actions**, I am adept at improving data architecture and governance while delivering high-performance applications tailored for e-commerce, financial, and healthcare sectors.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "Designed and developed robust ETL pipelines using **Apache Airflow** and **Kafka**, supporting both batch and real-time data processing for healthcare data, ensuring efficient data flows and governance.\nImplemented data architecture strategies to optimize data storage and querying in **SQL** databases, ensuring high performance and data integrity across large datasets, with a focus on compliance with industry standards.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration of data processing applications, significantly enhancing scalability and maintainability of the data infrastructure while deploying on **AWS**.\nLed the integration of **Apache Hadoop** and **Spark** for big data processing, allowing for the effective handling of large volumes of healthcare data and supporting analytical workloads.\nAutomated CI/CD pipelines using **GitHub Actions** for seamless deployment and version control of data engineering projects, reducing deployment times by **30%**.\nCollaborated with cross-functional teams to ensure data quality and governance, demonstrating proficiency in **Performance Optimization** strategies across data pipelines.\nMentored junior data engineers in best practices for **dbt** and **SQL** optimization, enhancing team performance and knowledge sharing within the data engineering domain.\nAchieved compliance with data governance frameworks, ensuring adherence to **HIPAA** and other regulatory standards through sound data architecture and security practices.\nConducted performance testing and optimization of ETL processes, achieving a **25%** increase in efficiency and reducing processing times substantially.\nLed the migration of legacy data systems to modern **cloud-based** solutions using a combination of **AWS** services, optimizing for cost and scalability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "• Leveraged **Python** and **SQL** to design and implement efficient ETL processes, optimizing data flows and ensuring high performance in data management.\n• Developed, maintained, and optimized data pipelines using **Apache Hadoop**, **Spark**, and **Airflow** for large-scale data processing, improving data retrieval times by **40%**.\n• Managed **Kubernetes** clusters to deploy data processing applications, enabling seamless scaling and rolling updates, ensuring **99.9%** uptime for critical data services.\n• Implemented **dbt** for data transformation processes, enhancing reliability and maintainability of data models across multiple environments.\n• Employed **Kafka** and **Confluent** to facilitate real-time data streaming, improving data ingestion rates by **30%** in analytics systems.\n• Integrated **Docker** to streamline deployment of data applications, ensuring consistency across development and production environments.\n• Enabled **CI/CD** pipelines through **GitHub Actions** for automated testing and deployment, decreasing deployment time by **50%** and ensuring code quality through rigorous tests.\n• Implemented data governance strategies to comply with regulations, enhancing the integrity and security of financial data exchanges.\n• Collaborated with cross-functional teams to design robust data architecture that supports business intelligence and analytics initiatives, ensuring accessibility and reliability of data sources.\n• Conducted performance optimization for existing data solutions, achieving **up to 60%** improvement in query response times with resilient data infrastructures.\n• Designed and executed unit tests and automated testing strategies in Python, ensuring software quality and reliability in data engineering tasks.\n• Developed advanced analytics solutions using **Scala** for complex transformations, integrating with external data sources for enriched business insights."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "• Optimized data processing workflows using **Apache Kafka** and **Flink**, enhancing ETL performance by **30%** and ensuring efficient data movement across systems.\n• Developed and maintained containerized applications with **Docker** and orchestrated deployments using **Kubernetes**, resulting in streamlined operations across **5** environments.\n• Implemented data integration strategies with **Apache Hadoop** and **Spark** to process large datasets, improving data handling capabilities and reducing processing time by **40%**.\n• Designed and managed scalable data architectures in **AWS**, leveraging **Airflow** for orchestration and **dbt** for data transformations, ensuring compliance with data governance policies.\n• Utilized **SQL** and **Python** to manipulate and query data efficiently, improving query performance and reducing execution times by **25%**.\n• Implemented CI/CD pipelines with **GitHub Actions** to automate the deployment of data applications, ensuring consistent delivery and minimizing downtime.\n• Conducted thorough performance testing and optimization of data pipelines, identifying bottlenecks and ensuring systems handled peak traffic loads effectively.\n• Collaborated with cross-functional teams to define data governance frameworks, improving data quality and accessibility across departments.\n• Engaged in troubleshooting and debugging of ETL processes, enhancing overall system reliability and performance.\n• Developed real-time analytics solutions using **Kafka** for streaming data, enabling near-instantaneous insights and reporting for business intelligence needs."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, SQL, Scala\n\n **Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot, Airflow, dbt\n\n **Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n **API Technologies:**\n\tREST & gRPC APIs\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL), Nginx, Certbot\n\n **Other:**\n\tApache Hadoop, Spark, Flink, ETL, ELT, Kafka, Confluent, Performance Optimization, Data Governance, Data Architecture"
+}

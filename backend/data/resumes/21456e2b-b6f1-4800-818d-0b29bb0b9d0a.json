@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Python Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Results-driven Senior Python Engineer with over 10 years of experience in building high-performance software solutions in healthcare and finance. Expertise in **Python**, **FastAPI**, and modern software architecture, with a proven track record of developing and deploying cloud-native applications on **AWS**, **Azure**, and **Google Cloud**. Skilled in designing and implementing **REST APIs**, employing **Docker** and **Kubernetes** for containerization and orchestration, and utilizing **PostgreSQL**, **RabbitMQ**, and **Redis** for reliable data handling and messaging. Demonstrated proficiency in building robust applications with **Asyncio** for asynchronous programming and leveraging observability tools such as **ELK**, **Loki**, **Prometheus**, and **Grafana** for monitoring and logging. Additionally experienced in microservices architecture, CI/CD automation, and ensuring compliance with industry standards including HIPAA and PCI DSS. Passionate about applying AI/ML capabilities to drive intelligent analytics and decision-making in production workflows.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable, full-stack solutions using **Python**, **FastAPI**, and **PostgreSQL**, ensuring adherence to regulatory standards such as HIPAA and GDPR while maximizing performance for **AWS** and **Azure** environments.\n• Employed **Docker** and **Kubernetes (AKS/EKS)** to lead the re-architecture of monolithic applications into microservices-based ecosystems, enabling high availability and fault tolerance for applications handling over **100,000** transactions monthly.\n• Developed and deployed REST APIs utilizing **Asyncio** for asynchronous processing of requests, significantly reducing average response times by **30%**.\n• Integrated **RabbitMQ** and **Redis** for efficient message brokering and caching solutions, leading to an overall improvement in throughput across distributed systems by **25%**.\n• Established cloud-native data architectures leveraging **PostgreSQL** and **AWS** services, optimizing data storage and query performance for large-scale applications managing beyond **10 million** records.\n• Implemented enterprise-level DevOps pipelines using **GitHub Actions** and integrated monitoring tools like **Grafana** and **Prometheus** to ensure seamless deployments across multiple environments.\n• Architected data ingestion processes utilizing **ELK** stack for comprehensive logging and monitoring solutions, resulting in enhanced operational insights and trend analysis.\n• Collaborated in machine learning initiatives for predictive analytics in healthcare, extracting insights from data using **Python** which contributed to a **40%** increase in prediction accuracy for patient risk assessments.\n• Integrated **OpenStack** components to enhance cloud infrastructure management, thus reducing infrastructure costs by **15%** while maintaining service scalability.\n• Developed testing frameworks with **PyTest** and automated tests for REST APIs, achieving **95%** coverage in both unit and integration tests for improved code quality."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained scalable applications using **Python** and **FastAPI**, ensuring high performance and reliability across multiple financial platforms.\n• Implemented **REST API** services to facilitate seamless integration between microservices, enhancing overall system architecture and reducing latency by **30%**.\n• Leveraged **Docker** and **Kubernetes** for containerization and orchestration, improving deployment efficiency and scalability across various environments by **25%**.\n• Managed data persistence with **PostgreSQL**, optimizing queries that reduced average response time by **15%** and improved data retrieval processes for financial transactions.\n• Integrated messaging systems like **RabbitMQ** for asynchronous communication, ensuring real-time processing of financial events and alerts to enhance system reliability.\n• Deployed cloud services on **AWS** and **Azure**, focusing on security and cost-efficiency, and conducting regular audits to ensure adherence to compliance standards.\n• Created and managed CI/CD pipelines using **Azure** DevOps, reducing deployment times by **40%** and enhancing the continuous integration process.\n• Utilized monitoring tools such as **Prometheus** and **Grafana** to establish performance benchmarks for financial applications, enabling proactive system health checks.\n• Designed and implemented logging systems using **ELK** stack and **Loki**, providing better insights into application performance and operational anomalies.\n• Collaborated in cross-functional teams, incorporating Agile methodologies to deliver high-quality software within **2-week** sprints, consistently meeting project deadlines."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** (specifically **FastAPI** and **Asyncio**) to design and optimize scalable backend services for a high-traffic e-commerce platform, achieving a **99.9% availability** rate across critical modules such as checkout and order fulfillment.\nImplemented **Docker** and **Kubernetes** for containerization and orchestration, ensuring seamless deployment processes and enhancing operational efficiency during deployment cycles by **40%**.\nEngineered RESTful APIs to facilitate smooth communication between backend services and client applications, enhancing user experiences by reducing response times by **30%**.\nLeveraged **PostgreSQL** for robust and fault-tolerant data storage, ensuring data integrity while managing up to **1 million transactions per day** with minimal latency.\nUtilized **Redis** for caching and session management, leading to a **50% reduction** in database read pressure and significantly improving application performance.\nIntegrated **RabbitMQ** into the architecture to support event-driven communication, enhancing real-time data processing and improving system responsiveness.\nAdopted cloud services using **AWS** and **Azure** for scalable infrastructure, successfully reducing hosting costs by **15%** through effective resource allocation.\nImplemented monitoring tools, including **Prometheus** and **Grafana**, to maintain system health and performance metrics, leading to quicker identification and resolution of issues.\nApplied role-based access control (RBAC) and **OAuth 2.0** for secure user authentication and authorization, ensuring compliance with GDPR and enhancing overall platform security.\nConducted performance testing and optimization, achieving response times of sub-200ms for API endpoints under load, leading to improved user satisfaction and engagement."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tREST API\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Google Cloud\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tOpenStack, ELK, Loki, Prometheus, Grafana\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, RabbitMQ",
+  "apply_company": "Gcore"
+}

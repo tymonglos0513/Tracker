@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior FullStack Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Full Stack Engineer with 10+ years of experience leveraging **Python**, **JavaScript**, **TypeScript**, **Node.js**, **React**, and **Vue.js** to deliver high-performance software solutions, particularly in the healthcare and finance sectors. Proficient in both frontend and backend development, with hands-on expertise in **Docker** and a strong understanding of Test Driven Development and Test Planning methodologies. Demonstrated ability in code review processes, ensuring high-quality standards and maintainable code. Experienced in building cloud-native applications and deploying them on platforms like Azure and AWS. Skilled in crafting microservices architectures and implementing event-driven systems. Committed to fostering effective communication and collaboration within teams to drive project success. Additionally, possesses practical experience in MLOps—developing ML pipelines and managing workflows using tools like MLflow and Kubeflow—while maintaining a focus on solutions that adhere to vital compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior FullStack Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tDeveloped robust full-stack applications utilizing **Python**, **JavaScript**, and **TypeScript**, ensuring high-quality code through thorough **Code Review** processes and adhering to **Test Driven Development** methodologies to meet project specifications and enhance maintainability.\n•\tImplemented microservices architecture using **Docker** and **Node.js**, facilitating seamless deployment and scaling while improving system reliability and responsiveness.\n•\tCreated rich user interfaces with **React** and **VueJS**, optimizing performance in applications with a user base exceeding **10,000** active users.\n•\tLed testing initiatives through **Test Planning** strategies, implementing unit and integration tests using tools such as **Jest** and **Cypress** to ensure application stability and performance across **5** production releases per quarter.\n•\tEnhanced development workflows by collaborating cross-functionally, utilizing effective **Communication** skills to bridge gaps between technical and non-technical stakeholders.\n•\tAdopted Agile project management techniques to deliver features in **2-week sprints**, iterating based on user feedback and performance metrics, aligning deliverables with business objectives.\n•\tParticipated in the maintenance and optimization of the tech stack, incorporating latest frameworks such as **NestJS** in backend development for streamlined API management and enhanced security features.\n•\tContributed to architectural discussions on technology migrations, making informed decisions on tool selections that align with business needs and technological advancements.\n•\tMentored junior developers on best practices and guided them through the complexities of building scalable applications, fostering a collaborative learning environment."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **JavaScript** frameworks such as **Node.js** (NestJS) and **React** (18) to lead the development and modernization of financial platforms, enhancing scalability and throughput for high-volume transaction systems.\nEmployed **TypeScript** and **VueJS** to create dynamic, user-focused front-end applications, implementing **Redux Toolkit** and **Tailwind CSS** to deliver responsive and high-performance user interfaces for financial dashboards and admin portals.\nArchitected real-time transaction monitoring and analytics dashboards leveraging **React**, **D3.js**, and **Power BI Embedded**, enabling operations teams to track financial activity and generate actionable insights.\nEstablished an event-driven architecture by integrating **Kafka**, **RabbitMQ**, and **Azure Service Bus**, facilitating asynchronous communication for transactions and alerts, while enhancing compliance workflows.\nDesigned and implemented ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, ensuring batch and real-time ingestion of financial data from internal and third-party sources.\nDeveloped AI/ML-powered fraud detection systems using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, effectively analyzing transaction patterns to proactively flag suspicious activities in banking systems.\nCreated machine learning pipelines for credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, successfully integrating model inference directly into backend services for near real-time decision-making.\nFacilitated comprehensive test planning and execution, employing **Test Driven Development** practices and conducting code reviews to ensure high-quality deliverables."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **JavaScript** in the development and optimization of backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability across modules, resulting in a **30%** improvement in checkout speeds.\nEngineered real-time features with **WebSockets** and **Kafka**, enabling responsive order updates and tracking, which contributed to a **25%** increase in customer satisfaction through prompt notifications.\nDeveloped robust frontend applications using **React (18)** and **Vue 3**, enhanced with **TypeScript** and **Redux Toolkit**, achieving a responsive user experience that reduced load times by **40%**.\nLeveraged **MongoDB**, **PostgreSQL**, and **Redis** for efficient distributed data storage, achieving high-traffic workflow management and improving caching efficiency by **20%**.\nIntegrated AI/ML engines with **scikit-learn** and **TensorFlow** for personalized recommendations, achieving a **15%** uplift in conversion rates based on behavioral analysis.\nImplemented **Redis** caching for product metadata and shopping sessions, significantly improving application responsiveness and lowering read pressure by **35%**.\nUsed **Docker** and **Kubernetes** for deployment strategies including feature flags and blue-green deployments, enhancing deployment efficiency and reducing rollback times.\nCrafted SEO-friendly e-commerce UIs using **Next.js** and **HTML5/CSS3**, ensuring mobile-first design and compliance with accessibility standards (WCAG 2.1).\nBuilt secure payment workflows integrated with **Stripe** and **PayPal**, successfully applying PCI-compliance and ensuring secure handling of customer transactions.\nEstablished role-based access control (RBAC) with **OAuth 2.0**, ensuring compliance with GDPR while securing user data across the platform."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, Javascript, Typescript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js, NestJS\n\n**Frontend Frameworks:**\n\tReact, Angular, VueJS\n\n**API Technologies:**\n\tNone\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Test Planning, Test Driven Development, Code Review, Communication, Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot)",
+  "apply_company": "Turing"
+}

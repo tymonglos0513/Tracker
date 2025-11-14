@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience in backend development and real-time data processing within the healthcare and financial sectors. Proficient in **JavaScript/TypeScript**, **Python**, and **Flutter**, with extensive hands-on expertise in building scalable applications using **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. \n\nSkilled in system design and data modeling, leveraging advanced strategies for both batch and real-time data processing. Experienced in deploying robust cloud-native systems on **AWS** and **Azure**, implementing microservices and CI/CD pipelines for streamlined operations. \n\nDemonstrated capability in compliance-driven development, ensuring alignment with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Strong foundation in MLOps, focusing on model training, serving, and orchestration with tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained robust **backend** systems ensuring seamless **real-time** and **batch** data processing for healthcare and fintech applications.\nDesigned and architected data models within databases like **PostgreSQL**, **MongoDB**, and **Redis** to support high-volume workloads, enabling efficient data retrieval and analysis.\nImplemented effective **system design** principles, transforming legacy systems into modern architectures utilizing **Docker**, **Kubernetes** (AKS/EKS), and **serverless** technologies.\nEngineered data processing pipelines tailored for both **real-time** and **batch** workflows, employing tools such as **Apache Kafka**, **Apache Spark**, and **Airflow** for orchestrating complex data operations.\nLed initiatives to optimize database performance, achieving a **25%** reduction in query latency through indexing and advanced data modeling techniques.\nFostered collaboration with cross-functional teams to ensure alignment on **data processing** requirements and final output quality.\nCreated detailed documentation for system designs and processes ensuring compliance with industry standards like HIPAA, **GDPR**, and PCI DSS.\nMentored junior engineers on best practices for **system design** and **data modeling**, facilitating knowledge transfer within the team.\nUtilized modern frameworks like **FastAPI** and **Node.js** to build efficient RESTful services enabling streamlined integration with frontend applications.\nImplemented robust security measures across the tech stack, ensuring data integrity and compliance with regulations throughout the software lifecycle."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Emphasized **backend** development by modernizing core financial platforms through a migration to **microservices architecture** utilizing **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), resulting in a **30%** improvement in system scalability and performance for high-volume transactional workloads.\nDesigned efficient **data processing** solutions by developing ETL pipelines for ingesting financial data from both internal and third-party sources, utilizing **Python**, **Apache Airflow**, and **Azure Data Factory**, enabling **real-time** as well as batch data processing with a throughput increase of **45%**.\nImplemented **system design** strategies to create a robust event-driven architecture with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring seamless asynchronous communication across critical workflows such as payments and compliance notifications.\nDelivered **real-time** analytics dashboards leveraging **React**, **D3.js**, and **Power BI Embedded**, granting the operations team instant access to transaction insights with an **80%** reduction in data retrieval time.\nCreated high-performing **databases** and optimized data models that supported advanced use cases in fraud detection by developing machine learning models using **scikit-learn**, **XGBoost**, and **Azure ML** to proactively identify suspicious activities based on user behavior, achieving a **95%** accuracy rate.\nDeveloped ML pipelines for real-time credit scoring and churn prediction, effectively integrating model inference into backend services through **MLflow** and **Airflow**, ensuring swift deployments and updates to analytical models."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Engineered and optimized **backend** services for a global e-commerce platform using **Python (FastAPI, Django)** and **Node.js (NestJS, Express)**, ensuring high availability, low latency, and scalability across key modules like checkout and order fulfillment, serving over **200K transactions** per day.\n• Developed and implemented **real-time** features utilizing **WebSockets** and event-driven architecture with **Kafka** and **RabbitMQ**, which facilitated responsive order updates and dynamic inventory tracking, significantly improving customer support response times by **30%**.\n• Applied **data processing** methods to manage key workflows, leveraging **MongoDB**, **PostgreSQL**, and **Redis** for efficient **data modeling** and storage, ensuring quick, fault-tolerant access for high-traffic e-commerce processes, while reducing data retrieval time by **50%**.\n• Improved the architecture of e-commerce applications by designing scalable **system design** solutions, enabling feature integration with AI/ML-based recommendation engines using **scikit-learn**, **LightGBM**, and **TensorFlow**, which boosted product conversion rates by **15%**.\n• Integrated comprehensive **databases** for distributed data access and utilized **Redis** for caching, enhancing application responsiveness and reducing database load during peak traffic periods by up to **40%**.\n• Instituted feature flags and managed blue-green deployments with **LaunchDarkly** and **Kubernetes**, applying **batch** processing strategies that allowed for seamless A/B testing and risk mitigation during major releases.\n• Created dynamic, SEO-friendly e-commerce user interfaces using **Next.js**, **Vue 3 + Nuxt**, and **HTML5/CSS3**, adhering to mobile-first principles and optimizing for accessibility compliance (WCAG 2.1) and achieving a **95% Lighthouse score**.\n• Built secure payment transactions integrated with **Stripe**, **PayPal**, and **Razorpay**, ensuring **PCI-compliance** through tokenized transactions and the secure handling of sensitive information.\n• Employed role-based access control (RBAC) and **OAuth 2.0** to safeguard customer and admin access through secure protocols, ensuring GDPR compliance and rigorous user data protection across the platform."
+    }
+  ],
+  "skills": "**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Let’s Encrypt, Certbot, real-time processing, batch processing, data processing, system design, data modeling",
+  "apply_company": "Yahoo"
+}

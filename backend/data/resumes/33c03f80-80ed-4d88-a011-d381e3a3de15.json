@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Data Engineer with 13+ years of experience delivering high-performance data solutions across the healthcare and financial industries. Proficient in **Python**, **SQL**, **NoSQL**, **API REST**, and **Bash/Shell scripting**, with hands-on experience in **Databricks**, **Spark**, and **Airflow** for efficient data processing and orchestration. Experienced in deploying cloud-native systems on **AWS**, **Azure**, and **GCP**, ensuring robust and scalable architectures.\nSkilled in implementing DevOps and DataOps practices to streamline data workflows, enhance collaboration, and optimize resource management. Additionally, well-versed in compliance-driven development, aligning solutions with HIPAA, FHIR, PCI DSS, and SOC 2 standards, and bringing a strong background in building AI/ML-powered platforms tailored for predictive analytics and automation.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and various **SQL** datastores, including **PostgreSQL** and **MongoDB**, to design and implement robust data pipelines that support real-time analytics for health and finance domains.\nDeveloped and optimized **ETL processes** using **Apache Airflow** and **Databricks** to ensure seamless data ingestion and processing for large datasets, processing over **1 million rows** per hour.\nCreated RESTful **APIs** to expose data endpoints, ensuring compliance with security and data governance standards, collaborating on projects with an emphasis on microservices architecture using **AWS** and **Azure**.\nManaged and built infrastructure leveraging **NoSQL** solutions like **Redis** and **HBase**, successfully reducing query response times by **30%** through optimized indexing.\nImplemented **DataOps** practices to streamline both data and model workflows, increasing team efficiency by **25%** through automation and collaboration.\nArchitected and maintained data lakes using **Hive** and **Spark**, enabling analytics teams to run complex queries and extract insights at scale while processing up to **5 TB** of data daily.\nLed initiatives for cloud data integration across **AWS**, **GCP**, and **Azure**, ensuring secure and efficient data migration and storage strategies.\nAutomated job scheduling and monitoring using **Bash/Shell scripts**, enhancing data pipeline reliability and reducing downtime by **40%**.\nConducted performance tuning and optimization of SQL queries, using tools such as **Impala** and **Solr**, improving data retrieval times significantly.\nEngaged in cross-functional collaboration to define business requirements for data products, aligning technical capabilities with organizational goals."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** alongside **SQL** and **NoSQL** databases to design and implement scalable data pipelines that support core financial platforms, enhancing data handling capabilities for high-volume transactions.\nDeveloped and maintained **API REST** services to facilitate seamless data interaction between multiple microservices, increasing system interoperability and efficiency.\nAutomated data ingestion and transformation processes using **Apache Airflow**, creating reliable ETL pipelines that supported both batch and real-time data processing requirements, improving operational efficiency by over **30%**.\nLeveraged **Azure** services, including **Azure Data Factory** and **Azure ML**, to deploy machine learning models for financial applications such as fraud detection, resulting in a proactive fraud detection rate increase of **25%**.\nImplemented data storage solutions with **HBase** and **Hive**, optimizing data retrieval times by **40%** and ensuring high performance for analytical queries on structured and unstructured datasets.\nUtilized **Bash/Shell scripts** for automating repetitive tasks within the data pipeline process, reducing manual effort and errors in data operations.\nIntegrated **Databricks** and **Spark** for analytics, processing large datasets efficiently, and enabling advanced data exploration capabilities across financial data sources.\nCollaborated on **DevOps** and **DataOps** practices to ensure smooth deployment and management of data applications, fostering a culture of continuous improvement and monitoring across the platform."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **SQL** for data processing and ETL workflows, ensuring data pipelines are efficient, scalable, and maintainable across multiple environments in line with DataOps best practices.\nDesigned, developed, and maintained APIs following RESTful principles to facilitate seamless data retrieval and integration with applications, leveraging **NoSQL** solutions like **MongoDB** and **Cassandra** for rapid data access.\nImplemented **Bash/Shell scripts** for automating data monitoring tasks and enhancing operational efficiency, resulting in a **25%** reduction in manual intervention.\nExecuted data storage strategies employing **Hive**, **Impala**, and **HBase** for a structured approach to handling large datasets, which enabled advanced analytics and reporting functionalities.\nDeployed cloud infrastructure with **Azure**, **AWS**, and **GCP** to ensure reliable and scalable data services while controlling costs and improving disaster recovery strategies.\nEngineered real-time data processing frameworks using **Spark** and **Airflow**, achieving real-time analytics with processing times reduced by **50%** compared to previous batch processing methods.\nDeveloped integration solutions using **Databricks** to enhance collaboration between data engineering and data science teams, streamlining workflows for operational efficiency.\nEnsured data quality and processing integrity through the implementation of logging and monitoring systems with actionable alerts generated through **DevOps** practices.\nConducted thorough performance tuning and optimization of data pipelines, resulting in improved data throughput and efficiency across multiple systems.\nAssured compliance with data governance policies and standards, implementing security measures necessary for safeguarding sensitive data and maintaining user trust."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Bash/Shell script\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, NoSQL\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tAPI REST\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob Storage, SQL Database)\n\n **Cloud & Infrastructure:**\n\tGCP, Terraform, Ansible, Helm, Docker Compose\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Hive, Impala, HBase, Solr, Databricks, Spark, DevOps, DataOps, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot"
+}

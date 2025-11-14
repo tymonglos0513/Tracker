@@ -1,0 +1,47 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior Java Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-9b9455391/",
+  "profile_summary": "As a seasoned Senior Java Engineer with 8+ years of software engineering experience, I excel in delivering high-performance solutions and possess strong expertise in **Java**, **Spring**, and **PostgreSQL**. My proficiency in modern development practices includes continuous integration and delivery (CI/CD) using **Git**, **GitHub Actions**, and **Jenkins**, as well as containerization and orchestration with **Docker** and **Kubernetes**. I have a solid understanding of real-time data processing with **Kafka** and reactive programming through **Akka**. Additionally, I bring a strong foundation in designing and implementing scalable microservices architectures and RESTful APIs, with a track record in optimizing system performance and reliability across various sectors.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "• Developed and maintained Java-based applications using **Spring** framework, ensuring high performance and reliability in delivering healthcare solutions.\n• Designed and optimized database interactions with **PostgreSQL**, implementing indexing and partitioning strategies to enhance data retrieval speed by up to **50%**.\n• Implemented messaging-driven architectures using **Kafka** for event handling, successfully improving data processing efficiency and scalability for healthcare transactions.\n• Created CI/CD pipelines utilizing **GitHub Actions** and **Jenkins**, automating deployment processes to achieve a deployment frequency of over **20 times** per month.\n• Containerized applications with **Docker** and orchestrated services using **Kubernetes**, enabling seamless scaling and resilient application deployment in cloud environments.\n• Collaborated with cross-functional teams to design RESTful APIs in Java, ensuring compliance with security standards, thus enhancing API response time by **30%**.\n• Participated in code reviews and maintained version control using **Git**, ensuring high code quality and adherence to industry best practices.\n• Championed clean code principles and adherence to Agile methodologies, leading to improved team productivity and reduction of technical debt by **40%** over a **6-month** period.\n• Mentored junior developers in Java, Spring, and cloud-native patterns, fostering a collaborative team environment and accelerating project deliverables.\n• Integrated existing systems with third-party services to enhance platform capabilities, contributing to a **25%** growth in user engagement and satisfaction."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Spring** frameworks to design and implement scalable microservices, improving application performance by **30%** and ensuring robust service integration with **PostgreSQL** for effective data management.\nDeveloped RESTful APIs in **Java**, enabling seamless communication and enhancing transaction processing speed by **25%**.\nStreamlined the deployment process using **Docker** and managed **Kubernetes** clusters to facilitate container orchestration, resulting in **50%** faster deployment times and high availability.\nCollaborated with cross-functional teams to implement **Kafka** for event-driven architecture, significantly improving application responsiveness during peak loads.\nExecuted CI/CD pipelines using **GitHub Actions** and **Jenkins** to automate testing and deployments, increasing code release frequency by **40%**.\nMaintained version control and collaboration with **Git** to ensure code integrity and efficient team workflows.\nImplemented effective version management strategies ensuring optimal compatibility across systems with emphasis on backward compatibility in microservice architecture.\nApplied unit testing, integration testing, and static code analysis to maintain high code quality and reliability across application modules.\nDesigned user-centered applications leveraging frameworks such as React or Angular alongside **Java** backend services to enhance user engagement and satisfaction.\nMentored junior developers in **Java** best practices, contributing to team skill upgrades and enhanced project delivery times.\nContributed to logging and monitoring solutions using the ELK stack for effective performance tracking and incident management within services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Designed and optimized backend services for high-performance applications using **Java** and **Spring**, enhancing scalability and performance across multiple modules.\nDeveloped robust RESTful APIs in **Java** to manage high-volume transactions, ensuring seamless integration between frontend interfaces and backend systems for real-time customer interactions.\nLeveraged **PostgreSQL** alongside **Java Spring** to optimize and manage transactional databases, resulting in improved query performance and reduced latency by **30%**.\nBuilt dynamic, responsive frontends integrated with **Java** backends using **React** and **Angular**, applying modern state management techniques for an enhanced user experience.\nAutomated builds, testing, and deployments with CI/CD pipelines using **GitHub Actions**, **Jenkins**, and **Docker** to ensure consistent and reliable delivery of features across environments.\nContainerized **Java** applications using **Docker**, streamlining deployments and enabling scalable operations across multiple environments.\nWorked with messaging systems like **Kafka** to facilitate event-driven architectures, efficiently handling order processing and notifications.\nImplemented caching strategies utilizing in-memory solutions, reducing database load and improving response times for frequently accessed resources by **40%**.\nConducted performance testing with **Apache JMeter** and **Locust**, identifying bottlenecks and optimizing **Java** services to handle peak traffic loads up to **10,000** concurrent users.\nDeveloped observability in **Java services** using monitoring tools to track performance, detect errors, and ensure system health.\nMigrated legacy applications to **Java Spring** microservices, modernizing backend systems while ensuring critical business workflows remained uninterrupted.\nUtilized **Kubernetes** for orchestrating containerized applications, enhancing system reliability and management.\nImplemented secure authentication mechanisms including **OAuth 2.0** for user verification and access control to sensitive features.\nOptimized workflow processes related to payments, inventory management, and user authentication, ensuring fast processing times under **3 seconds** for user transactions.\nCollaborated with cross-functional teams to design and build SEO-optimized, mobile-friendly applications, ensuring cross-device accessibility and user satisfaction."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Java\n\n**Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring, Spring Boot, Akka\n\n**Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n**API Technologies:**\n\tREST & gRPC APIs\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure (App Services)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (Blob, SQL)\n\n**Other:**\n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Kafka, Git",
+  "apply_company": "Cision"
+}

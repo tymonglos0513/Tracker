@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Data Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Data Engineer with over 10 years of experience specializing in **Data Architecture**, **Performance Optimization**, and **Data Governance**. Proficient in leveraging **Apache Hadoop**, **Spark**, **Flink**, and **Kafka** to design and implement robust data pipelines. Expertise in **Docker** and **Kubernetes** for containerization and orchestration, with a strong focus on CI/CD practices using **GitHub Actions**. Skilled in programming with **Python** and **SQL**, along with experience in **Scala** for data processing. Competent in utilizing cloud services such as **AWS** to build scalable and efficient data solutions. Proven success in delivering high-impact projects within prominent organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "• Developed and optimized data architectures utilizing **Apache Hadoop**, **Spark**, and **Kafka** to enhance data processing efficiency, achieving a **25%** reduction in latency.\n• Engineered scalable data pipelines using **Apache Airflow** and **dbt** for effective ETL processes, ensuring a **100%** compliance rate for data regulatory exchanges.\n• Implemented CI/CD practices with **GitHub Actions**, streamlining deployment processes and reducing release times by **30%**.\n• Utilized **Docker** and **Kubernetes** for containerization and orchestration, enhancing system scalability and maximizing resource utilization by **40%**.\n• Leveraged **Python** and **SQL** for data manipulation and analytics, delivering insights that improved decision-making processes by **20%**.\n• Collaborated extensively with multi-disciplinary teams to foster data governance and strategically address performance optimization challenges, leading to improved overall system performance.\n• Conducted thorough security assessments and integrated secure data frameworks, including **OAuth2** and **AWS** services, enabling robust data protection strategies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop backend systems that automate document workflows, enhance user onboarding processes, and execute complex reporting tasks.\nDesigned and implemented data pipelines using **Apache Airflow** for the secure exchange of regulatory data, ensuring a streamlined data flow with automated processes.\nCreated event-driven microservices with **Celery** and **Redis**, facilitating the asynchronous processing of financial data and efficiently handling transaction requests, optimizing performance by **30%**.\nManaged deployment processes of microservices on **Azure App Services** and utilized **Terraform** for infrastructure automation, achieving a consistent and scalable environment across **9** applications.\nConducted comprehensive security audits to assure compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for robust authentication and secure access controls.\nCollaborated closely with cross-functional teams to ensure seamless system integration and regulatory compliance, contributing to successful release management with a **100%** success rate in deployments.\nOptimized data architecture processes utilizing **SQL** and **Docker**, which led to a reduction in data processing time by **40%**.\nImplemented CI/CD practices through **GitHub Actions** to support continuous integration and ensure high-quality software delivery."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **SQL** to develop backend services for data processing and portfolio management, improving data handling efficiency by **30%**.\nImplemented robust data architecture models leveraging **Apache Hadoop**, **Spark**, and **Flink**, achieving faster data processing times for analytics by **15%**.\nDesigned and deployed CI/CD pipelines using **GitHub Actions** and **Docker**, reducing deployment times by **40%** and increasing release frequency.\nEngineered real-time data streaming solutions through **Kafka** and **Confluent**, facilitating seamless data ingestion with latency reduced to below **100ms** for time-sensitive applications.\nCollaborated with cross-functional teams to ensure best practices in Data Governance and compliance with industry standards, including data quality and security measures.\nOptimized data processing workflows using **Airflow** and **dbt**, improving performance metrics by **20%** and enhancing overall data reliability.\nLeveraged **Kubernetes** for container orchestration, ensuring scalable deployment of applications and reducing manual intervention significantly.\nConducted performance tuning of data pipelines, identifying and resolving bottlenecks to improve overall throughput and system reliability."
+    }
+  ],
+  "skills": "Programming Languages: Python, SQL, Scala\n\n\tBackend Frameworks: FastAPI, Flask, Django, Celery\n\n\tFrontend Frameworks: \n\n\tAPI Technologies: REST/gRPC APIs, Microservices, Kafka\n\n\tServerless and Cloud Functions: AWS (EC2, S3, Lambda), Azure\n\n\tDatabases: PostgreSQL, MySQL, MongoDB, Redis\n\n\tDevOps: Docker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n\tCloud & Infrastructure: Apache Hadoop, Spark, Flink, Confluent\n\n\tOther: AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, dbt, Data Governance, Performance Optimization, Data Architecture",
+  "apply_company": "Cloudbeds"
+}

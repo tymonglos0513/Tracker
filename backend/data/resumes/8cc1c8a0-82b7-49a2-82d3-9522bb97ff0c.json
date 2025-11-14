@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer – Automation",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-kotlinski-08ba40390/",
+  "profile_summary": "As a dynamic Senior DevOps Engineer with 8 years of experience, I bring a strong focus on automation and infrastructure management utilizing **Ansible**, **Terraform**, and **Kubernetes**. My hands-on expertise with **Linux**, **PostgreSQL**, **MongoDB**, and **Redis** ensures high availability and performance of applications. I am proficient in CI/CD processes leveraging tools such as **FluxCD** and **ArgoCD**, allowing for seamless deployment and automation of infrastructure.\n\nAdditionally, my background includes in-depth experience with **networking fabric controllers**, **VMware vCenter**, and **NetApp ONTAP**, further enhancing my capabilities in managing large-scale systems. I have implemented robust monitoring and observability solutions through **OpenTelemetry** and orchestrated containerized applications with **Rancher** and **RKE2**, ensuring operational excellence.\n\nWith a foundation in full-stack development, I have effectively built high-performance solutions across the healthcare and financial sectors utilizing **JavaScript/TypeScript**, **Python**, and **Flutter**. I have also led initiatives on enterprise-grade platforms integrating AI/ML capabilities, thus delivering innovative technology solutions aligned with compliance standards like HIPAA, PCI DSS, and SOC 2.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer – Automation",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented enterprise-level DevOps solutions using **Ansible**, **Terraform**, and **Kubernetes**, driving automation and efficiency in deployment processes across development and production environments.\nDesigned and maintained CI/CD pipelines leveraging **FluxCD** and **ArgoCD**, enabling seamless deployment across microservices while ensuring high availability and fault tolerance.\nConfigured and managed **Linux** server environments, optimizing performance and reliability for distributed applications.\nManaged database solutions with **PostgreSQL**, **MongoDB**, and **Redis**, implementing robust data storage and retrieval strategies to support scalable applications.\nDeveloped and executed test automation strategies using **pytest** and **unittest**, ensuring high code quality and maintaining rigorous testing standards.\nLed the integration of **Rancher** and **RKE2** for container orchestration, improving deployment workflows and resource management within Kubernetes clusters.\nUtilized **JFrog Artifactory** for efficient artifact storage and retrieval, streamlining the development lifecycle.\nImplemented **HashiCorp Vault** for secure secret management, safeguarding sensitive data across development and deployment processes.\nEmployed **OpenTelemetry** to monitor application performance across various cloud environments, ensuring optimal system health.\nCollaborated on networking strategies using **Networking fabric controllers** to enhance cloud infrastructure and connectivity.\nIntegrated VMware solutions through **VMware vCenter** for effective virtual machine management and resource allocation.\nUtilized **NetApp ONTAP** and **Ceph** for scalable storage solutions, adapting to the dynamic needs of the organization.\nSuccessfully managed multiple projects with measurable outcomes, ensuring compliance with industry standards and practices."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines using **Terraform** and **Ansible** to automate deployment processes, resulting in a **40%** reduction in release times and improved deployment consistency across environments.\nManaged container orchestration through **Kubernetes** and **Rancher**, achieving **99.9%** uptime for critical applications, enhancing reliability and scalability of services.\nOptimized cloud infrastructure on **VMware vCenter** and **NetApp ONTAP**, leading to a **50%** decrease in infrastructure costs by optimizing resource utilization and performance.\nMaintained databases including **PostgreSQL**, **Redis**, and **MongoDB**, ensuring **99.99%** data availability and implementing backup strategies that reduced recovery time by **30%**.\nCreated and managed observability solutions utilizing **OpenTelemetry**, enhancing system monitoring and troubleshooting capabilities, significantly reducing incident response times by **25%**.\nDeveloped automated testing strategies using **pytest** and **unittest**, enhancing code quality and reducing bugs in production by **60%** through effective unit and integration testing.\nIntegrated continuous delivery tools such as **FluxCD** and **ArgoCD** to promote workflows that automatically sync deployment configurations, increasing deployment accuracy and developer productivity.\nConfigured networking fabric controllers to enhance network performance and reliability in multi-cluster environments, simplifying network management and reducing latency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines and automated deployment processes using **Terraform**, **Kubernetes**, and **FluxCD**, maintaining high efficiency in application delivery and infrastructure as code across multiple environments.\nManaged container orchestration and microservices architecture using **Kubernetes** and **RKE2**, ensuring streamlined operations and effective resource utilization for a highly scalable application deployment.\nUtilized **PostgreSQL** and **MongoDB** to maintain efficient database management, ensuring data integrity and fault tolerance within critical application workflows with an average uptime of **99.9%**.\nAutomated server provisioning and configuration management through **Ansible** and **Rancher**, significantly reducing the time to deploy environments and increasing productivity by **30%**.\nImplemented monitoring and logging solutions using **OpenTelemetry** and **RKE2**, achieving real-time insights into system performance and ensuring robust visibility across the platform.\nUtilized **Redis** for efficient caching strategies, resulting in improved application response times by **40%** and reduced database load during peak usage hours.\nMaintained legacy systems on **Linux** and optimized networking fabric controllers for improved data routing and accessibility, increasing network performance by **25%**.\nEnsured secure storage and retrieval of sensitive data using **HashiCorp Vault** and **JFrog Artifactory**, maintaining standards for data protection and compliance throughout operations.\nConducted thorough testing using **pytest** and **unittest**, ensuring the reliability and robustness of automated workflows while improving code quality and reducing bug incidence in production by **15%**.\nCollaborated closely with cross-functional teams to establish and maintain best practices for software deployment and environment management, fostering a culture of continuous improvement and innovation."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, Ansible, Terraform, GitHub Actions, GitLab CI/CD, Rancher, RKE2, JFrog Artifactory, HashiCorp Vault, OpenTelemetry, FluxCD, ArgoCD\n\n **Cloud & Infrastructure:**\n\tLinux, Networking fabric controllers, VMware vCenter, NetApp ONTAP, Ceph\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, pytest, unittest, Nginx, Certbot, Keycloak (OIDC, RBAC), Docker Compose"
+}

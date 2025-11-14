@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Engineer - POS Integrations",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Software Engineer with 13+ years of experience specializing in **Java**, **Kotlin**, and **Spring** for building robust POS integration solutions. Proficient in developing **REST** and **gRPC** APIs, and experienced in implementing **event-driven systems** using **Kafka** and **RabbitMQ**. Skilled in CI/CD practices and adept at using **Terraform** and **Helm** for infrastructure as code deployments. Strong understanding of data quality strategies, observability tools such as **Datadog**, and implementing caching and rate limiting to ensure optimal performance.\n\nAdept in frontend technologies like **React** to enhance user experiences, with strong mentorship and communication skills. Previously delivered high-performance applications in healthcare and financial sectors, leveraging expertise in **JavaScript/TypeScript**, **Python**, and **Flutter**. Experienced in compliance-driven development with a focus on standards like HIPAA, FHIR, and SOC 2, ensuring secure and reliable solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer - POS Integrations",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and built scalable **event-driven systems** using **Java** and **Kotlin** with frameworks like **Spring**, implementing **REST** and **gRPC** APIs to ensure robust integrations for POS systems.\n• Developed and maintained **CI/CD** pipelines with **Terraform**, **Helm**, and **Datadog**, automating deployment workflows and ensuring high observability and performance monitoring metrics.\n• Implemented secure authentication protocols, including **OAuth2** and **mTLS**, managing API keys for secure transactions in financial applications.\n• Integrated **Kafka** and **RabbitMQ** for effective message brokering and real-time data processing, improving system efficiency by **30%**.\n• Led initiatives to enhance **caching**, **rate limiting**, and **data quality strategies**, resulting in a **20%** reduction in response times and maintaining optimal data integrity.\n• Mentored junior developers on best practices in software development and integration while fostering effective communication within cross-functional teams.\n• Collaborated closely with the backend and ML teams to ensure seamless integration of microservices, enhancing operational efficiencies by **25%**.\n• Enforced robust testing strategies throughout the development lifecycle using unit and integration tests, ensuring high-quality deliverables and adherence to industry standards.  \n• Implemented observability tools to monitor system performance and health, allowing for proactive maintenance and quick identification of system issues."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Kotlin** to develop scalable POS integration systems, implementing **Spring** frameworks to enhance functionality and performance.\nArchitected RESTful and **gRPC** APIs, ensuring efficient data interchange and communication between POS systems and backend services.\nImplemented CI/CD pipelines using **Terraform** and **Helm**, automating deployment processes to accelerate software delivery and improve reliability.\nIntegrated observability tools, including **Datadog**, for monitoring applications and maintaining high availability of POS systems.\nDesigned and developed event-driven systems using **Kafka** and **RabbitMQ**, ensuring real-time data processing and seamless interaction across diverse integrations.\nEstablished data quality strategies to maintain high standards in transactional data, employing caching and rate limiting techniques for optimized performance.\nMentored junior engineers, fostering effective communication and collaboration within the team to enhance development practices and knowledge sharing.\nSuccessfully led the integration of OAuth2 and mTLS protocols for secure authentication and communication, implementing industry standards for data security.\nCollaborated with cross-functional teams to enhance system capabilities, ensuring seamless integration of financial tools through regular retrospectives and iterative improvements."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and developed scalable backend services using **Java**, **Kotlin**, and **Spring**, applying RESTful and gRPC APIs to ensure seamless integration with POS systems and high system availability.\nImplemented CI/CD pipelines utilizing tools like **Terraform** and **Helm** for efficient deployment processes, ensuring consistent delivery across **10+** service environments.\nEngineered event-driven architecture through **Kafka** and **RabbitMQ**, enhancing communication between distributed systems and improving response time by **30%** for transaction processing.\nDeveloped state-of-the-art frontend applications with **React** ensuring optimal user experience, achieving **95%** performance on Lighthouse metrics across platforms.\nEstablished data quality strategies, leveraging **Datadog** for monitoring and observability, effectively reducing downtime by **25%** through proactive issue identification.\nIntegrated caching mechanisms to optimize system performance, applying effective rate limiting to handle up to **1000** concurrent requests without degradation in service quality.\nImplemented OAuth2 for secure user authentication, ensuring user data protection and compliance with GDPR regulations, enhancing trust for customers across different POS channels.\nMentored junior developers, fostering a culture of knowledge sharing and enhancing team productivity by **15%** through effective communication strategies and regular feedback sessions.\nUtilized mTLS for secure communication between services, enforcing strict security protocols, and employing API keys for additional layer protection across all integrations.\nEnabled robust testing frameworks to maintain high code quality, achieving a code coverage of **90%**, ensuring reliable and maintainable software solutions."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Kotlin, Python, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tSpring, FastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tREST, gRPC, OAuth2, mTLS, API keys\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Datadog, Kafka, RabbitMQ, event-driven systems, caching, rate limiting, data quality strategies, observability, mentoring, communication"
+}

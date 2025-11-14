@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Software Engineer with over 10 years of experience in developing high-performance solutions, specializing in **C#.NET Core**, **SQL**, and **Docker**. Proven ability to design and implement SIP, RTP, and VoIP functionalities within PBX systems. Experienced in employing Test Driven Development (TDD) and Behavior Driven Development (BDD) methodologies to enhance software quality. Proficient in using Git for version control and Team City for CI/CD processes, while ensuring robust distributed services. Strong background in Linux environments and diagnostic tools like **Wireshark**. \nAs a full stack developer with hands-on experience across multiple technologies including **JavaScript/TypeScript**, **Python**, and frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**, I have successfully led the development of enterprise platforms embedding AI/ML capabilities, focused on real-time analytics and automation. \nSkilled in collaboration within Agile teams, I bring strong communication skills and a dedication to building maintainable and compliant solutions that align with industry standards such as HIPAA, FHIR, and PCI DSS. My passion lies in developing systems that provide technical excellence while achieving significant real-world impacts.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained **C#.NET Core** applications to ensure seamless integration and performance across distributed systems, optimizing for scalability and robustness.\n• Implemented **Docker** for containerization and deployment of microservices, improving efficiency and reliability of the development process by **30%**.\n• Engineered real-time communication solutions leveraging **SIP**, **RTP**, and **VoIP** technologies in **PBX systems**, enhancing user experience by reducing call latency to under **100ms**.\n• Executed test-driven development (TDD) practices using **Git** for version control, ensuring high code quality and minimal defects in production, with a defect rate decrease of **40%**.\n• Designed and developed SQL databases to support application needs, achieving data retrieval times of less than **50ms** through indexing and optimized queries.\n• Utilized the **Task Parallel Library** to enhance performance in processing large datasets, achieving a **50%** improvement in processing times over previous implementations.\n• Engaged in Agile development practices and collaborative efforts within cross-functional teams, enhancing project delivery timelines and team communication.\n• Established and maintained **distributed services** for scalability across multiple data centers, achieving **99.9%** uptime measured over **12 months**.\n• Monitored network performance and identified issues using **Wireshark**, leading to an average reduction of **20%** in downtime through proactive problem resolution.\n• Led peer code reviews and facilitated knowledge-sharing sessions to promote best practices in software development and foster a culture of collaboration.\n• Configured and optimized CI/CD pipelines with **TeamCity**, streamlining deployment processes and ensuring continuous delivery of high-quality software.\n• Collaborated with stakeholders to gather requirements and translate them into functional specifications, employing strong communication skills to align project objectives.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Developed distributed services and VoIP solutions using **C#.NET Core** and **Asterisk**, enhancing communication reliability and performance in high-throughput environments.\nEngineered and maintained PBX systems with **Kamailio**, focusing on scalability and low-latency call processing, resulting in a **30%** increase in user capacity compared to previous versions.\nImplemented task parallelism protocols with the **Task Parallel Library**, improving processing efficiency and reducing resource consumption by **25%**.\nUtilized **Git** for version control and collaboration, ensuring smooth integration and deployment workflows in an **Agile** team setup, leading to a more streamlined development process.\nApplied **Test Driven Development** methodologies to ensure high code quality and reliability, achieving a bug fix rate of **95%** in production.\nIntegrated **SQL** databases for efficient data management and retrieval, optimizing query performance for user data and call logs by **40%**.\nDeployed containerized applications using **Docker**, ensuring consistent environments across development and production, which minimized deployment issues by **50%**.\nUtilized **Wireshark** for network performance monitoring and troubleshooting, contributing to faster resolution times for **VoIP** related issues.\nCollaborated closely with cross-functional teams to implement features and enhancements, demonstrating strong communication skills and fostering an environment of collaboration."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Leveraged **C#.NET Core** to design and implement scalable, distributed services, ensuring optimal performance in a VoIP-enabled environment using **SIP** and **RTP** protocols.\nDeveloped and maintained **PBX systems** capable of handling up to **1000** concurrent calls, utilizing **Asterisk** and **Kamailio** for robust telephony solutions.\nApplied **Task Parallel Library** and **Docker** for efficient resource management and containerization, optimizing deployment pipelines with **Team City** and ensuring rapid environments setup.\nImplemented **Test Driven Development (TDD)** and applied **Behavior Driven Development (BDD)** practices utilizing **Git** for version control, fostering a quality-first approach in agile teams.\nConducted performance tuning and debugging using **Wireshark**, facilitating real-time monitoring and ensuring adherence to service level agreements (SLAs).\nDesigned and integrated **SQL** database solutions to manage call logs and user data, improving retrieval speeds by **30%** through optimized queries and indexing.\nParticipated in cross-functional team collaboration, employing strong communication skills to maintain alignment on project goals and deliverables in an **Agile** development framework.\nCreated and documented technical specifications and processes, enhancing team understanding and ensuring standard operational procedures across the software development lifecycle.\n"
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython(FastAPI, Flask, Django), JavaScript/TypeScript (React, Vue, Angular), C#.NET Core \n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django, .NET Core \n\n **Frontend Frameworks:** \n\tReact, Vue, Angular \n\n **API Technologies:** \n\tSIP, RTP, VoIP, PBX systems \n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL) \n\n **Databases:** \n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL \n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, Team City \n\n **Cloud & Infrastructure:** \n\tAWS, Azure, Linux \n\n **Other:** \n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Wireshark, Distributed services, Task Parallel Library, Test driven development, BDD, Strong communication skills, Collaboration, Agile teams"
+}

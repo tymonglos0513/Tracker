@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Backend Developer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "As a highly skilled Backend Developer with 8+ years in software engineering, I specialize in **Java**, **Kotlin**, and **Spring Framework** for building robust and scalable applications. I am proficient in databases such as **PostgreSQL** and **MySQL**, ensuring optimal performance and reliability in data management. My technical expertise includes **Git** for version control and **Gradle** for build automation, applying best practices in software development. Additionally, I have experience with cloud services like **AWS**, and I emphasize **microservices** architecture, delivering enterprise-grade solutions that address business requirements. With a solid background in **Python** development, unit testing, and integration testing, I bring a comprehensive approach to software design and implementation.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Developer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "Utilized **Java** and **Kotlin** to develop backend services, implementing **Spring Framework** for building robust microservices, ensuring scalability and performance.\nDesigned and optimized SQL queries for **PostgreSQL** and **MySQL** databases, achieving a **30%** improvement in data retrieval times for large datasets.\nImplemented **Unit Testing** and **Integration Testing** frameworks to ensure the reliability of backend services, achieving over **95% code coverage** through test automation.\nMigrated existing applications to a microservices architecture, leading to a **40%** reduction in downtime and improved deployment frequency.\nCollaborated with frontend teams to integrate APIs and ensure seamless user experiences across applications, utilizing **Git** for effective version control and collaboration.\nEngaged in CI/CD practices using **Gradle** for build automation, allowing for consistent and quick deployments to production environments.\nMonitored system performance and reliability to troubleshoot and optimize backend processes, leading to improved response times by **20%**.\nParticipated in code reviews and knowledge sharing sessions to promote best practices in service development and integration.\nChampioning cloud deployment strategies on **AWS**, improving the infrastructure's elasticity and reducing operational costs by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained robust **microservices** architecture using **Python** (FastAPI, Django, Flask), enhancing scalability and performance.\n• Designed and implemented reliable and efficient RESTful APIs with **Python**, ensuring secure communication between client applications and backend services.\n• Integrated data management systems such as **PostgreSQL** and **MySQL** with efficient query optimization, improving access speeds by **20%**.\n• Implemented automated **unit testing** and **integration testing** practices using **PyTest** and **Selenium**, achieving **95%** code coverage and increasing deployment reliability.\n• Conducted deployment and management of services on **AWS**, utilizing various tools including **Git** and **Gradle** for version control and build processes.\n• Collaborated on **microservices** design patterns, improving code maintainability and enhancing deployment times by **30%**.\n• Established CI/CD pipelines in **GitHub Actions** and **Azure DevOps** for continuous integration and delivery, reducing build times by **40%**.\n• Utilized **PostgreSQL** and **MySQL** for data storage solutions within **Python** applications, ensuring high availability and security of transactional data.\n• Ensured effective and efficient source code management practices, leveraging **Git** for version control and collaboration among development teams.\n• Participated in architectural discussions and collaborated with cross-functional teams to define best practices in service interactions and data-handling strategies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Developed and maintained microservices using **Java** and **Kotlin** within the **Spring Framework**, optimizing backend functionality and enhancing system performance for efficient transaction processing.\nEngineered robust RESTful APIs integrated with **PostgreSQL** and **MySQL**, facilitating high-volume transactions that significantly improved latency and query performance.\nImplemented unit and integration testing protocols to ensure code quality and reliability, utilizing tools and frameworks such as **JUnit** and **Mockito**.\nCollaborated on cloud-based solutions leveraging **AWS** for scalable architecture, ensuring seamless deployment and management of microservices.\nUtilized **Git** for version control and collaboration to maintain a clean project history and facilitate smooth team development.\nStreamlined build processes using **Gradle**, improving deployment efficiency through automation and version management.\nEnsured application performance under load by conducting stress testing and performance optimization, resulting in decreased downtime and enhanced user experience.\nDesigned data storage solutions with **PostgreSQL** and **MySQL** to support optimized data retrieval for real-time application use, resulting in improvements of up to **25%** in response time.\nAutomated CI/CD pipelines, improving deployment frequency for new features and updates, achieving a **50%** reduction in release times.\nEngaged in code reviews and performance tuning strategies, ensuring best practices in **microservices** architecture were consistently applied across the team."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, Java, Kotlin\n\n**Backend Frameworks**\n\tFastAPI, Django, Flask, Spring Boot, Spring Framework\n\n**Frontend Frameworks**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n**API Technologies**\n\tREST & gRPC APIs\n\n**Serverless and Cloud Functions**\n\tAWS (ECS, Lambda, RDS, S3)\n\n**Databases**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, AWS, Git\n\n**Cloud & Infrastructure**\n\tAzure (App Services, Blob, SQL)\n\n**Other**\n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Gradle, microservices, Unit Testing, Integration Testing"
+}

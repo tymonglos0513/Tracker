@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Site Reliability Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-driven Senior Site Reliability Engineer with 8 years of extensive experience in developing and managing high-performance solutions, particularly in the healthcare and financial sectors. Proficient in critical technologies such as **GCP**, **Kubernetes**, **Docker**, **Python**, and **Node.js**, with a strong foundation in **GoLang**, **C++**, and **Java**. I have a proven track record in implementing robust CI/CD pipelines and infrastructure using **Terraform**, ensuring seamless deployment processes.\nDemonstrating expertise in observability and monitoring with tools such as **Prometheus**, **Grafana**, and **Kibana**, I excel at creating scalable systems aligned with compliance standards including HIPAA, FHIR, PCI DSS, and SOC 2. My hands-on experience includes managing microservices architecture, event-driven systems, and employing **Redis** for in-memory data structures.\nFurthermore, I leverage advanced logging and tracing mechanisms using **Elasticsearch**, **FluentD**, and **OpenTelemetry** to enhance system reliability and performance. I am committed to maximizing uptime and performance through innovative strategies, strong collaboration using tools like **Jira**, **Confluence**, and **Bitbucket**, and a solid grasp of networking principles (HTTP(s), DNS, TCP/IP).",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Site Reliability Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented enterprise-level CI/CD pipelines using **GitHub Actions**, **Azure DevOps**, and **CircleCI**, ensuring automated testing and multi-environment deployment for both web and API services, resulting in a **30% reduction** in deployment time.\n- Architected and maintained microservices architectures using **Docker** and **Kubernetes (AKS/EKS)**, enhancing application scalability and fault tolerance, achieving a **99.99% uptime**.\n- Deployed container orchestration strategies with **Prometheus** and **Grafana**, enabling effective resource monitoring and alerting across multiple services, leading to an improved response time of **25%** during incidents.\n- Wrote and maintained infrastructure as code scripts using **Terraform**, streamlining provisioning processes and reducing configuration drift by **40%**.\n- Integrated **Redis** and **PostgreSQL** for caching and high availability data storage, optimizing read and write operations to efficiently handle **millions** of records in real-time.\n- Utilized **OpenTelemetry** and **Elasticsearch** for observability and distributed tracing, enhancing performance visibility across systems and reducing latency by **15%**.\n- Collaborated with cross-functional teams using **Jira** and **Confluence** for project management and documentation, ensuring clear communication and progress tracking for over **10 ongoing projects**.\n- Developed logging solutions with **FluentD** and **Kibana**, improving log analysis time by **50%**, thus allowing for quicker identification of system issues.\n- Managed service configurations and access permissions using **Okta**, enhancing security and compliance across applications in line with industry standards.\n- Implemented high-performance caching strategies and load balancing in network layers using **Nginx**, resulting in a notable increase in application throughput by **20%**.\n- Conducted automated security scans using tools such as **TFsec** and **Trivy**, ensuring the codebase compliance with security best practices across all environments.\n- Performed incident management and root cause analysis, utilizing **Bash** scripting for automation, directly contributing to a **25% decrease** in time to resolution for production outages.\n- Established disaster recovery plans utilizing **CI/CD** best practices, ensuring system resilience and data integrity under high-stress scenarios."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Enhanced system reliability and performance for financial platforms by implementing **Kubernetes** for orchestration and **Docker** for containerization, achieving a deployment success rate of **99.9%**.\n• Developed and optimized automated CI/CD pipelines using **Terraform** and **GitLab CI**, reducing deployment times by **40%** and ensuring consistent code quality.\n• Pioneered the implementation of **Prometheus** and **Grafana** for monitoring system metrics, leveraging **OpenTelemetry** for distributed tracing, leading to a **30%** reduction in incident response time.\n• Managed and optimized PostgreSQL databases for enhanced query performance, ensuring uptime of **99.95%** through proactive maintenance and scaling techniques.\n• Implemented robust logging and monitoring solutions using **Elasticsearch**, **Kibana**, and **FluentD** to maintain critical visibility over system health and application behavior.\n• Collaborated closely with development teams to integrate observability practices, enabling real-time insights into application performance and system stability.\n• Streamlined system configurations and security measures utilizing **Bash**, **SOPS**, and security scanning tools like **Trivy** and **TFsec**, ensuring compliance with industry best practices.\n• Leveraged asynchronous messaging via **Kafka** and **RabbitMQ** to develop reliable event-driven architectures that improved system responsiveness and fault tolerance.\n• Studied performance metrics and conducted capacity planning, achieving seamless scalability of services to handle up to **1 million** transactions per day with zero downtime."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented and orchestrated microservices architecture on **GCP** to ensure maximum uptime and performance for a global e-commerce platform, leveraging **Kubernetes** and **Docker** for containerization and orchestration processes.\nEnhanced backend reliability using tools like **Prometheus** for monitoring and **Grafana** for visualization, successfully reducing incident response time by **30%** through proactive alerting and metrics analysis.\nEngineered robust CI/CD pipelines utilizing **Argo CD** and **Argo Rollouts** for streamlined deployments, enabling **10+** major releases with zero downtime over a quarter while employing **Terraform** for infrastructure as code.\nDeveloped automated scaling strategies with **HPA** and **KEDA** to manage fluctuating traffic demands effectively, ensuring consistent performance even during peak periods, achieving up to **99.9%** availability.\nImplemented logging and observability solutions with **Elasticsearch**, **FluentD**, and **Kibana**, facilitating efficient root cause analysis and troubleshooting, which resulted in a **40%** reduction in time to resolve incidents.\nConfigured efficient service mesh strategies using **Istio** to manage traffic flow and secure service communication across the platform, enhancing resilience and simplifying microservices management.\nAssured compliance with security best practices applying **OAuth 2.0** for secure access management and utilizing **Okta** for identity management, thus aligning with GDPR requirements.\nConducted performance tuning on databases like **PostgreSQL** and caching mechanisms with **Redis** to achieve rapid data retrieval and higher throughput, increasing user engagement by **25%**.\nCollaborated on agile project management tools such as **Jira** and **Confluence** for seamless communication and documentation across teams, leading to an accelerated development lifecycle.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, GoLang, C++, Java, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tREST, OAuth2, JWT, OpenTelemetry\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Argo CD, Argo Rollouts, Prometheus, Grafana, Grafana Mimir, FluentD, Elasticsearch, Loki, Trivy, TFsec, Istio, SSH\n\n **Cloud & Infrastructure:**\n\tLinux, SOPS, Bash, DNS, TCP/IP, HTTP(s)\n\n **Other:**\n\tAuthentication & Security (Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot), Jira, Confluence, Bitbucket, Kafka, HPA, KEDA, Affinity & Anti-affinity rules"
+}

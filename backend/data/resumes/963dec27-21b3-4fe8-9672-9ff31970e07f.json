@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior CDEngineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior CDEngineer with over 10 years of robust experience in backend system design and delivery, specifically within financial platforms and AI/ML pipelines. Proficient in implementing CI/CD practices using **Jenkins**, **GitLab**, **AzureDevOps**, and **CircleCI** to streamline deployment processes. Skilled in scripting with **Python**, **Bash**, and **PowerShell** to enhance automation and efficiency. Expertise in managing infrastructure as code with **Ansible** and **Terraform**, and orchestrating containerized applications using **Kubernetes**. Committed to high-quality code and continuous testing with frameworks such as **pytest**, **GoogleTest**, and **Allure**. Demonstrated ability to develop and maintain high-performing APIs and scalable services while optimizing troubleshooting and debugging processes across both **Windows** and **Linux** environments. A proven collaborator with a strong track record of delivering impactful solutions at leading organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior CDEngineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Developed and implemented Continuous Deployment/Continuous Integration (CD/CI) pipelines using **Jenkins**, **GitLab**, and **AzureDevOps** to enhance deployment efficiency by **30%**.\nAutomated configuration management and orchestration using **Ansible** and **Terraform** for infrastructure provisioning, maintaining consistency across development environments.\nEngineered backend services in **Python** utilizing **FastAPI** to streamline document automation, user onboarding, and reporting workflows.\nManaged version control and code quality through **GitLab**, enhancing collaboration and reducing integration errors by **25%**.\nDeployed microservices on **Azure App Services** and utilized **Terraform** to manage infrastructure as code, ensuring seamless cloud operations.\nCreated and maintained data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, ensuring timely and accurate data flow under tight deadlines.\nLed security assessments and integrated **OAuth2** and **Azure AD B2C** for secure, scalable authentication systems.\nUtilized **Kubernetes** for container orchestration, improving scalability and resource utilization by **40%**.\nCollaborated with cross-functional teams to address system integration challenges, ensure compliance, and oversee release strategies, fostering a culture of effective communication and problem-solving.\nConducted rigorous testing with **pytest** and **GoogleTest** to ensure application reliability and maintainability, achieving a code coverage of **90%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Implemented CI/CD pipelines using **AzureDevOps**, **CircleCI**, and **Jenkins** to ensure smooth integration and timely deployment of applications, improving release cycles by **30%**.\n• Developed robust backend systems in **Python** and **FastAPI** for automating document workflows, streamlining user onboarding processes, enhancing efficiency by **20%**.\n• Created event-driven microservices utilizing **Celery** and **Redis**, facilitating asynchronous processing of financial data, improving transaction handling speeds by **50%**.\n• Managed deployment of microservices on **Azure App Services**, employing **Terraform** for infrastructure automation to achieve consistent and scalable environments with a **99.9% uptime**.\n• Engineered secure data pipelines for regulatory data exchange using **Apache Airflow** and **Azure Functions**, automating and optimizing data flow processes.\n• Conducted thorough security audits to ensure compliance with industry standards, incorporating **OAuth2** and **Azure AD B2C** for secure authentication and access control.\n• Collaborated with cross-functional teams to facilitate seamless system integration, ensure regulatory compliance, and manage successful software releases."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **Flask** to develop scalable backend services for trade execution, portfolio management, and account tracking, enhancing operational efficiency by **30%**.\nImplemented **CD/CI** practices using **Jenkins**, **GitLab**, and **AzureDevOps** to automate deployment processes, achieving a deployment frequency increase of **50%**.\nEngineered real-time price feed processors with **asyncio**, **WebSockets**, and **Redis**, ensuring delivery of trading data with latency under **200ms** for high-frequency transactions.\nPioneered the creation and execution of comprehensive test suites using **pytest** and **mock servers**, improving QA process speed by **40%** and maintaining high code quality standards.\nCollaborated with cross-functional teams to effectively deliver data through **REST APIs** and **WebSocket** channels, ensuring smooth user interaction with the trading platform.\nManaged infrastructure using **Ansible** and **Terraform**, facilitating consistent environment replication and reducing setup times by **60%**.\nLeveraged **Kubernetes** for deploying containerized applications, enhancing scalability and resource management of the trading ecosystem.\nIntroduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution that improved process management by **25%**.\nEnsured compliance with regulatory requirements such as **MiFID II** and **GDPR**, while adhering to robust internal data security standards."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Bash, PowerShell, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins, GitLab, CircleCI, Ansible, Terraform, CI/CD, PyTest, GoogleTest, Allure, TestRail\n\n**Cloud & Infrastructure**\n\t\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, debugging, troubleshooting, communication, HLSL, ML",
+  "apply_company": "AMD"
+}

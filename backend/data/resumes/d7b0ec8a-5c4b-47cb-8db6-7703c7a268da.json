@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Data Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Results-driven Senior Data Engineer with over 10 years of experience in implementing robust data engineering solutions, proficient in key technologies such as **Python**, **Hadoop**, **Pyspark**, **GCP** (including **Dataproc** and **Dataflow**), and RDBMS. Expert in ETL and ELT processes, data warehousing, data wrangling, and data modeling, complemented by a strong foundational knowledge in **SQL** and infrastructure as code. Demonstrated ability in automated testing and quality assurance, ensuring the delivery of high-quality data products. Proven history of collaboration and stakeholder management at leading organizations like VISA, Sii Poland, and Reply Polska, alongside essential skills in critical thinking, problem-solving, and effective communication.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** in conjunction with **FastAPI** to engineer robust backend services, enhancing document automation and reporting workflows by **45%**.\nImplemented **RDBMS** strategies and **SQL** for efficient data management and querying, resulting in a **30%** reduction in query response times.\nDesigned and executed ETL/ELT processes utilizing **Apache Airflow** and **Azure Functions** for seamless regulatory data exchange, achieving compliance with data handling processes across **12** departments.\nDeveloped data pipelines with **Hadoop** and **Pyspark** for scalable data processing environments, improving data throughput by **60%** on **GCP Dataproc** and **Dataflow**.\nDeployed applications on **Azure App Services**, leveraging **Terraform** for Infrastructure-as-Code to automate deployment processes and reduce operational overhead.\nLed security assessments and integrated **OAuth2** with **Azure AD B2C**, enhancing user security and authentication efficiency in applications for **over 1000** users.\nCollaborated with cross-functional teams to address integration challenges and streamline project releases, effectively communicating with stakeholders to ensure aligned objectives."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Designed and developed data warehousing solutions using **Python** and **RDBMS** to enhance data accessibility and reporting capabilities, resulting in a 30% reduction in query response times.\n• Implemented ETL processes by leveraging **Apache Airflow** and **SQL** to efficiently extract, transform, and load data, optimizing data flow and reducing processing time by 25%.\n• Created scalable data pipelines on **GCP** using **Dataproc** and **Dataflow**, enabling real-time data processing and handling up to **10 million** records per day.\n• Engineered and managed infrastructure using **Terraform**, automating provisioning and scaling of resources on **Azure**, ensuring high availability and a seamless deployment workflow.\n• Conducted data wrangling and data modeling to simplify complex datasets for analysis, enhancing data quality and reducing data preparation time by 20%.\n• Collaborated across cross-functional teams to facilitate automated testing and quality assurance processes, leading to a **15%** decrease in post-release defects.\n• Developed and documented best practices for data management and security, ensuring compliance with industry regulations and integrating **OAuth2** and **Azure AD B2C** for secure access.\n• Actively communicated with stakeholders, providing insights and recommendations that improved data strategy and operations significantly."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **SQL** to develop robust backend services for trade execution, portfolio management, and account tracking, improving overall trading operations by up to **30%**.\nEmployed **Hadoop** and **Pyspark** for data processing and manipulation, enhancing data handling capabilities for large datasets by managing **10TB** of data.\nEngineered real-time data processing systems using **asyncio**, **WebSockets**, and **Redis** to ensure high-frequency transactions processed up to **1000 transactions per second**.\nImplemented comprehensive ETL processes leveraging **GCP**, **Dataproc**, and **Dataflow**, ensuring efficient data warehousing and advanced data wrangling techniques aligned with business intelligence needs.\nCollaborated with cross-functional teams to deliver REST APIs and WebSocket channels, ensuring seamless integration with frontend applications while improving communication by **40%**.\nMaintained compliance with regulations such as MiFID II and GDPR, implementing internal security protocols to safeguard sensitive trading data.\nDeveloped automated testing frameworks using **PyTest** and **tox**, reducing QA cycles by **20%** and enhancing overall quality assurance practices.\nIntroduced job queuing and scheduling solutions using **Celery** and **RabbitMQ**, optimizing backend task execution and improving process management efficiency by **50%**."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, SQL, Java, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs\n\n**Serverless and Cloud Functions**\n\tAWS (Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, RDBMS\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\tAWS (EC2, S3), GCP, Dataproc, Dataflow, Infrastructure-as-Code\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Hadoop, Pyspark, Netsuite, SAP, ETL, ELT, data warehousing, data wrangling, data modelling, automated testing, quality assurance, documentation, critical thinking, communication, problem-solving, stakeholder management"
+}

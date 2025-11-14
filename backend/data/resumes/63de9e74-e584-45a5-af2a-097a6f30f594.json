@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Solutions Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Solutions Engineer with 13+ years of experience in designing and implementing SaaS solutions within the healthcare and financial sectors. Proficient in **AWS**, **Azure**, and skilled in creating API workflows and technical proof of concepts that enhance customer engagement and collaboration. Strong ability to utilize **GitHub**, **BitBucket**, and **GitLab** for efficient version control and team collaboration. \nExpert in delivering impactful communication through analytical thinking and problem-solving, ensuring seamless integration of technologies like **JavaScript/TypeScript**, **Python**, **Flutter**, **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. \nWell-versed in developing AI/ML-powered platforms, deploying cloud-native systems, and implementing microservices and event-driven architectures. Experienced in aligning solutions with compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2, alongside a strong background in MLOps using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Solutions Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and implemented **SaaS** platforms utilizing **AWS** and **Azure**, ensuring high availability and scalability for healthcare and fintech markets.\n- Designed robust **API workflows**, enabling seamless integration with third-party services while focusing on deployment security and compliance with standards such as HIPAA and PCI DSS.\n- Collaborated with cross-functional teams using tools like **GitHub**, **BitBucket**, and **GitLab** to manage version control for over **20** projects, enhancing productivity and ensuring coherent workflows.\n- Led technical proof of concepts that demonstrated innovative solutions to complex problems, employing analytical thinking and effective problem-solving skills in real-world scenarios.\n- Enhanced customer engagement by implementing feedback loops into product development, gathering insights from over **100** users across various platforms.\n- Conducted impactful communication initiatives through presentations and documentation, clarifying technical concepts to non-tech stakeholders and fostering a collaborative work environment.\n- Optimized existing healthcare applications, leading to a **30%** reduction in processing time through strategic integration of **GCP** services for back-end processing.\n- Utilized **Okta** for secure user authentication and authorization processes, enhancing the security protocols of applications by over **40%**.\n- Spearheaded the adoption of **Google Workspace** tools across teams to streamline collaboration and project management, improving task completion times by **25%**.\n- Implemented advanced testing strategies leveraging tools such as Jest and Cypress to ensure robust application integrity, achieving over **90%** test coverage across multiple products."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS**, **Azure**, and **GCP** to implement scalable **SaaS** solutions, driving seamless customer engagement and enhancing service delivery.\nConducted technical proof of concepts to validate architectural decisions, demonstrating impactful communication and collaboration with cross-functional teams, leading to a **25%** reduction in deployment time.\nDesigned and implemented secure **API workflows** with **Okta** and **Entra ID**, ensuring robust identity management and authentication for both internal and external applications, improving user experience by **30%**.\nModernized core financial platforms by migrating to microservices architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\nBuilt interactive front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies, leading to a **15%** increase in operational efficiency.\nDeveloped **ETL** pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing.\nDesigned and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Collaborated on technical proof of concepts to demonstrate and validate **SaaS** solutions, ensuring alignment with client needs and enhancing customer engagement.\nDesigned and optimized scalable backend services for a global e-commerce platform using **Python** (FastAPI, Django) and **Node.js** (NestJS, Express), achieving **99.9%** uptime and response times under **200ms** across key modules like checkout, cart, and order fulfillment.\nEngineered real-time features using **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ**, resulting in **30%** faster order updates and dynamic inventory tracking.\nDeveloped user-centric frontend applications using **React** (18), **Vue 3**, and **Angular**, enhanced with **TypeScript**, **Redux Toolkit**, and **Tailwind CSS**, improving user satisfaction metrics by **25%**.\nLeveraged **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data storage, ensuring **50%** faster access to high-traffic e-commerce workflows and effectively caching frequently accessed resources.\nIntegrated AI/ML-based recommendation engines utilizing **scikit-learn**, **LightGBM**, and **TensorFlow**, enhancing product relevance and improving conversion rates by **40%** using real-time behavioral data.\nImplemented **Redis** caching for product metadata, shopping cart sessions, and search results, significantly improving application responsiveness and reducing database read pressure by **20%**.\nUtilized feature flags and blue-green deployments with **LaunchDarkly** and **Kubernetes** namespaces for controlled rollouts and A/B testing, actively managing risk during deployments.\nCreated responsive, SEO-friendly e-commerce UIs using **Next.js**, **Vue 3** + **Nuxt**, and **HTML5/CSS3**, optimized for mobile-first engagement and compliance with accessibility standards (WCAG 2.1).\nBuilt secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, ensuring PCI compliance for handling sensitive data through tokenized transactions.\nApplied role-based access control (RBAC) and **OAuth 2.0** for secure customer and admin access, fully complying with GDPR regulations and enhancing platform security."
+    }
+  ],
+  "skills": "**Backend Frameworks:**\n\tPython: FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tAPI workflows\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tGitHub, BitBucket\n\tCI/CD & Infrastructure as Code: Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS\n\tGCP\n\tAzure\n\n**Other:**\n\tSaaS\n\tOkta\n\tGoogle Workspace\n\tEntra ID\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot\n\tAnalytical thinking\n\tImpactful communication\n\tCollaboration\n\tProblem-solving\n\tCustomer engagement\n\tTechnical proof of concepts"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Test Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Test Engineer with over 10 years of experience in developing and delivering robust testing frameworks for backend systems. Proficient in **Playwright**, **Selenium**, and **TypeScript** to ensure high-quality software delivery. Skilled in utilizing **Python**, **Django**, and **PostgreSQL** for backend integration testing, along with experience in continuous integration via **GitHub Actions**. Demonstrated expertise in automation tools using **Celery** and message brokers like **RabbitMQ**. Experienced with cloud services including **Azure** and familiar with container orchestration using **k8s** and infrastructure as code with **Terraform**. Proven ability to collaborate within cross-functional teams following Agile methodologies, and a strong history of impactful contributions to leading financial tech organizations such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Test Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Implemented automated testing strategies using **Selenium** and **Playwright** to enhance software quality and performance across multiple applications.\nDesigned test frameworks with **TypeScript**, integrating with CI/CD pipelines utilizing **GitHub Actions** for automated builds and deployments.\nConducted performance and load testing on applications deployed on **Azure** and **GCP**, ensuring scalability and reliability under varying load conditions.\nCollaborated in an **Agile** environment to continuously improve testing processes and respond promptly to changes in project requirements.\nBuilt and maintained robust test databases using **PostgreSQL** and integrated with backend systems developed in **Python** with **Django** and **SQL Alchemy**.\nManaged message queues and asynchronous tasks using **Redis**, **Celery**, and **RabbitMQ** to optimize the testing of event-driven architectures.\nExecuted API testing with structured documentation utilizing **OpenAPI** standards, ensuring comprehensive coverage of endpoints.\nConducted containerized testing deployments using **k8s** and **Helm**, achieving a **50%** reduction in integration testing time.\nProvided mentorship and guidance to junior testers, fostering skill development in testing methodologies and tools."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Playwright** and **Selenium** for automated testing of web applications, ensuring robust test coverage and quality assurance across platforms.\nDeveloped backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes.\nCreated event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests.\nManaged the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation to maintain consistent and scalable environments.\nEngineered data pipelines for the secure exchange of regulatory data, using **Apache Airflow** and **Azure Functions** to automate and streamline the data flow.\nImplemented testing frameworks in **TypeScript** and utilized **GitHub Actions** for continuous integration and deployment, boosting deployment frequency by **30%**.\nPerformed security audits with a focus on compliance with industry standards and integrated **OAuth2** and **Azure AD B2C** to manage authentication and secure access controls.\nCollaborated with cross-functional teams to ensure smooth system integration, ensuring regulatory compliance and successful release management, resulting in **100%** compliance during audits."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Implemented automated testing frameworks using **Playwright**, **Selenium**, and **TypeScript** to ensure robust application performance and reliability across platforms.\nConducted in-depth testing of backend services developed in **Python** and integrated with **PostgreSQL** and **Redis**, leading to a **25%** reduction in bugs prior to release.\nEnhanced CI/CD pipelines using **GitHub Actions**, increasing deployment frequency by **40%** while maintaining high-quality standards.\nCollaborated with development teams to design and maintain detailed **OpenAPI** documentation for RESTful services, improving team efficiency by **30%**.\nUtilized **Celery** and **RabbitMQ** to create and monitor job queuing systems, improving backend responsiveness for high-load situations by **50%**.\nDeveloped and executed test plans for cloud services deployed on **Azure**, **GCP**, and **Heroku**, ensuring compliance with release schedules and cloud standards.\nMaintained testing infrastructure with **Django**, **SQL Alchemy**, and container orchestration using **k8s**, resulting in improved application scalability and maintainability.\nApplied Agile methodologies throughout the project lifecycle to drive continuous improvement and foster a culture of iterative development."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, SQL, TypeScript\n\n**Backend Frameworks**\n\tDjango, Flask, FastAPI, Celery, SQL Alchemy, RabbitMQ\n\n**Frontend Frameworks**\n\tReact\n\n**API Technologies**\n\tREST/gRPC APIs, OpenAPI\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, GCP, Heroku\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, Terraform, Helm\n\n**Cloud & Infrastructure**\n\tAWS, Azure, GCP, Heroku\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, CI/CD, PyTest, Git, Agile, Microservices, k8s, Selenium, Playwright",
+  "apply_company": "Sphera"
+}

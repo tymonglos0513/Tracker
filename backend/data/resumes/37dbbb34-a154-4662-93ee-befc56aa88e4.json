@@ -1,0 +1,55 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Quarkus Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "As a Senior Quarkus Engineer with 9+ years of experience, I excel in building resilient applications employing **Quarkus**, **RESTful**, **SOAP**, and **Clean Code** principles. My expertise encompasses TDD, utilizing **JUnit**, **Mockito**, and **RestAssured** for robust testing practices, alongside proficiency in **Docker**, **Kubernetes**, and CI/CD tools such as **Jenkins** and **GitHub Actions**. I specialize in microservices architecture, implementing patterns like **CQRS**, **SAGA**, and **Event Sourcing** to enhance application scalability and maintainability. Additionally, I have substantial experience with cloud services and databases, including **Redis**, **MongoDB**, and **RDBMS** technologies within **Linux** environments. My strong background in distributed systems is complemented by hands-on skills in **Apache Kafka** and user management with **Keycloak**. Known for delivering high-quality software solutions, I am committed to optimizing development processes while fostering cross-team collaboration to drive projects to successful completion.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Quarkus Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Utilized **Quarkus** for backend development, ensuring adherence to **Clean Code** principles and the **SOLID** design pattern throughout the application build.\nDeveloped and maintained scalable RESTful and SOAP APIs to facilitate smooth data interactions, applying **TDD** practices to ensure high code quality and reliability.\nImplemented continuous integration and delivery pipelines using **Jenkins** and **GitHub Actions**, achieving a **40%** reduction in deployment time.\nEmployed **Docker** for containerization of microservices, enhancing development workflows and consistency across various environments.\nAchieved high performance of the application by optimizing database interactions with **MongoDB** and **Redis**, improving response times by **35%**.\nIntegrated real-time data processing using **Kafka** for event-driven architecture, contributing to improved data throughput and system scalability.\nExecuted testing strategies using **JUnit**, **Mockito**, and **RestAssured**, leading to enhanced coverage and reliability of the code base.\nLeveraged **H2** for in-memory testing, contributing to faster test execution and efficiency during the development cycles.\nCollaborated in a cross-functional team utilizing **Jira** for project management and tracking progress, ensuring timely delivery of features.\nEngaged in architectural design discussions utilizing **CQRS** and **SAGA** patterns for improved application resilience and scalability.\nUtilized **Kubernetes** for orchestrating containerized applications, enhancing reliability and manageability of cloud-native solutions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Utilized **Quarkus** to design and develop a cloud-based project management tool, which resulted in a **15%** increase in team collaboration efficiency.\nEmployed **Clean Code** principles and applied **SOLID** design for scalable microservices architecture using **RabbitMQ** for task orchestration and **Apache Kafka** for event-driven data streams.\nImplemented caching strategies with **Redis** to reduce latency in API calls, achieving a **25%** boost in system performance.\nDeveloped and integrated **RESTful** APIs with **.NET Core** and **PostgreSQL** for real-time data processing.\nConstructed and maintained user interfaces with **React** and **Tailwind CSS**, leading to a **25%** improvement in user engagement.\nSpearheaded CI/CD pipeline implementation with **GitHub Actions**, decreasing deployment errors by **30%**.\nManaged and optimized **MSSQL** and **MySQL** databases for enhanced data storage and retrieval performance.\nFacilitated stakeholder collaborations to gather system requirements and set development timelines, ensuring projects were delivered on schedule.\nCreated dynamic visualizations with **D3.js** for interactive project status tracking and reporting.\nConducted thorough code reviews and mentorship for junior developers, fostering a culture of continuous improvement and increased team productivity."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "- Implemented **Quarkus** for building high-performance, cloud-native applications, enhancing deployment speed by **30%**.\n- Ensured adherence to **Clean Code**, **SOLID** principles, and **TDD** methodologies, which led to a **25%** reduction in bug fixing time across projects.\n- Designed and developed RESTful services and integrated **SOAP** APIs for efficient data exchange, processing over **10,000** requests daily.\n- Collaborated with cross-functional teams to manage source control using **GitHub Actions** and **Jenkins**, achieving continuous integration and delivery.\n- Employed **Docker** for containerization of applications, resulting in consistent environment setups and reduced deployment times by **40%**.\n- Utilized **Redis** and **MongoDB** for effective caching and data storage requirements, improving data retrieval speed by **50%**.\n- Orchestrated services using **Kubernetes**, ensuring high availability and reliability in production environments.\n- Implemented **Reactive Java** patterns alongside **CQRS** and **Event Sourcing** strategies to optimize data processing flows.\n- Achieved real-time observability across services, utilizing **Circuit Breaker**, **Retry**, and **Bulkhead** patterns to enhance application resilience.\n- Participated in Agile methodologies with tools like **Jira** and **Bitbucket**, ensuring timely delivery of project milestones.\n- Mentored junior engineers on best practices, fostering knowledge sharing through code reviews and technical documentation."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python, JavaScript, TypeScript, C#, Solidity\n\n**Frontend Frameworks**\n\t ReactJS, NextJS, Angular, VueJS, NuxtJS, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n**Backend Frameworks**\n\t NodeJS, ExpressJS, NestJS, Quarkus, .NET, Entity Framework, Microservices\n\n**API Technologies**\n\t RESTful API, GraphQL, OpenAPI, SOAP\n\n**Databases**\n\t MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB, H2\n\n**DevOps**\n\t AWS, Azure, Docker, Jenkins, GitHub Actions, CI/CD pipelines, Kubernetes, Bitbucket, OnRancher\n\n**Cloud & Infrastructure**\n\t Kafka, Redis, Keycloak\n\n**Other**\n\t Clean Code, SOLID, TDD, NUnit, xUnit, JUnit, Mockito, RestAssured, Selenium, Moq, Cypress, JMeter, Jest, UX/UI Design, Git, GitHub, Jira, Linux, Reactive Java, CQRS, SAGA, Event Sourcing, Circuit Breaker, Retry, Bulkhead, Observabilidad",
+  "apply_company": "Apiux Tech"
+}

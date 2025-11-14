@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Tech Lead",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Tech Lead with 13+ years of experience architecting high-performance applications, specializing in **Java**, **PHP**, and **React.js** for both backend and frontend development. Proven ability in API-first design and modular design, ensuring scalable solutions through effective asynchronous communications and scaling patterns. Experienced in Agile and Lean methodologies, fostering a collaborative environment to enhance team performance.\nProficient in deploying cloud-native applications using **AWS** and implementing robust **CI/CD** pipelines to ensure code quality and seamless integration. Demonstrated expertise in **Docker** for containerization and deploying scalable microservices.\nAdditional strengths include building AI-driven solutions with a focus on performance and reliability, alongside a commitment to testing and DevOps practices, which enhances overall application robustness.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Tech Lead",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized agile and lean methodologies to lead cross-functional teams in delivering high-quality solutions, ensuring robust collaboration and communication across departments.\nDeveloped and maintained scalable backend services using **PHP** and **Java** integrated with **React.js** for dynamic front-end experiences, reinforcing an API-first design strategy to enhance modularity.\nImplemented best practices for asynchronous communications to ensure efficient data flow and responsiveness across systems, optimizing overall application performance.\nDesigned and built CI/CD pipelines leveraging **Docker** and **AWS** services to automate deployments, focusing on continuous integration and delivery for superior code quality.\nEmphasized rigorous testing protocols and code quality standards using unit tests and integration tests to uphold application reliability and maintainability.\nGuided teams in embracing DevOps culture, fostering a mindset that encourages collaboration between development and operations for rapid delivery cycles.\nOversaw architecture planning and implementation of scaling patterns to support growing application demands, introducing solutions for horizontal and vertical scaling.\nFacilitated code reviews and technical discussions to promote knowledge sharing and code quality improvements among team members.\nIntegrated AI solutions and LLMs to enhance functionalities and user experiences, ensuring innovative features are continuously aligned with user needs and industry trends.\nDirected project timelines and deliverables in an Agile environment, effectively managing stakeholder expectations and project priorities."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Led the modernization of core financial platforms by migrating to a **microservices architecture** using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), significantly improving scalability and performance for high-volume transactional systems.\n- Implemented an **API-first design** within interactive front-end applications using **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, paired with **Redux Toolkit** and **Tailwind CSS** to create responsive interfaces for financial tools and admin panels.\n- Delivered real-time analytics dashboards using **React**, **D3.js**, and **Power BI Embedded**, equipping operations teams with immediate insights into transactions and anomalies, enhancing decision-making capabilities.\n- Designed and deployed a robust **event-driven architecture** with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring seamless asynchronous communication across critical workflows such as payments, alerts, and compliance.\n- Developed ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing, which improved data availability by **30%**.\n- Built and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns, reducing fraud by **20%**.\n- Created ML pipelines for real-time credit scoring, churn prediction, and transaction classification, utilizing **MLflow** and **Airflow** to integrate model inference into backend services, thereby reducing processing time by **50%**.\n- Employed **Docker** for containerization and continuous integration/continuous deployment (**CI/CD**) strategies, enhancing deployment efficiency and improving code quality through consistent testing practices.\n- Collaborated within **Agile** and **Lean methodologies** frameworks for iterative development and effective team communication, fostering a culture of collaboration and innovation across the engineering team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Led the design and optimization of backend services using **PHP** and **Java**, ensuring performance and scalability in alignment with API-first and modular design principles across a global e-commerce platform.\n• Implemented asynchronous communications and scaling patterns to enhance system reliability and responsiveness, achieving a **30% reduction** in latency for key services.\n• Collaborated within Agile and Lean methodologies to streamline development processes, ensuring timely delivery of features while maintaining code quality and testing standards through CI/CD practices.\n• Contributed to frontend development with **React.js**, creating responsive user interfaces that enhance user engagement and accessibility, achieving a **25% increase** in user satisfaction scores based on feedback.\n• Fostered team collaboration and effective communication to enhance project dynamics, resulting in a **15% improvement** in sprint completion rates.\n• Integrated Docker for containerization and AWS services for cloud solutions, enabling efficient deployment and scaling in production environments, reducing downtime by **40%**.\n• Led the development of features incorporating AI and LLMs to drive personalized user experiences, optimizing product recommendations and search functionalities, which increased conversion rates by **20%**.\n• Established best practices for DevOps, ensuring smooth collaboration between development and operations teams, and enhancing system reliability and deployment efficiency.\n• Actively participated in code reviews and ensured adherence to high testing standards, driving improvements in code quality and maintainability across the team.\n• Mentored junior developers in leveraging industry best practices and technologies to enhance their skills and productivity, resulting in a more capable and versatile team."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPHP, Java, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular, React.js\n\n**API Technologies:**\n\tAPI-first design, asynchronous communications\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Agile methodologies, Lean methodologies, code quality, testing, collaboration, communication, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, scaling patterns, LLMs"
+}

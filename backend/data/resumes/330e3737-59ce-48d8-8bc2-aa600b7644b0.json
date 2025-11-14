@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with 8 years of experience specializing in cloud infrastructure and automation solutions. Proficient in **AWS**, **GCP**, and implementing infrastructure as code using **Terraform**. Strong expertise in containerization and orchestration with **Docker** and **Kubernetes**, coupled with CI/CD automation using **Jenkins**. Skilled in scripting with **Python** and **Bash**, I ensure robust deployment pipelines and efficient system integrations.\n\nDemonstrated ability in managing cloud security and networking across Linux environments, while enhancing operational efficiency with monitoring tools like **Grafana** and **Prometheus**. My background includes building secure, compliant infrastructures aligned with standards such as HIPAA and PCI DSS. I hold a solid foundation in automation using **Ansible** and **Packer**, ensuring reliable and repeatable deployments. With experience optimizing machine learning workflows, I integrate innovative solutions to support enterprise needs.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD strategies leveraging **Jenkins**, **Docker**, and **Terraform** to enhance deployment efficiency and reliability across multiple environments, achieving deployment speed improvements by **40%**.\nManaged cloud infrastructure on **AWS** and **GCP**, ensuring high availability and performance optimization of services, while maintaining a focus on **Cloud Security** practices to protect sensitive data.\nAutomated infrastructure provisioning using **Packer** and **Ansible**, reducing setup times for new environments by **75%**, and maintaining configuration consistency across development and production.\nMonitored system performance and application health using **Grafana** and **Prometheus**, with real-time alerting that improved incident response times by **30%**.\nDeveloped and maintained scripts in **Bash** and **Python** to automate operational tasks, enhancing productivity and minimizing manual intervention errors.\nOrchestrated containerized applications using **Kubernetes**, achieving seamless scaling, and recovery from failures of microservices, thereby enhancing system resilience.\nImplemented network security measures, including firewalls and intrusion detection systems, to safeguard cloud environments and ensure compliance with industry standards.\nStreamlined application delivery processes through the adoption and configuration of **CI/CD** pipelines, promoting a culture of continuous integration and delivery within the development team.\nConducted regular security audits and vulnerability assessments, driving remediation efforts that resulted in a **20%** reduction in security incidents.\nCollaborated with cross-functional teams to document processes, ensuring compliance with operational guidelines and facilitating knowledge transfer across teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines with **Jenkins** and **Docker**, enhancing deployment frequency by **50%** and reducing lead time for changes by **30%** in cloud-based environments.\nUtilized **AWS** and **GCP** services for infrastructure management and deployment, increasing system reliability and achieving **99.9%** uptime for critical applications.\nAutomated infrastructure provisioning and management using **Terraform**, ensuring consistent environments and reducing setup time by **40%** across various projects.\nManaged container orchestration with **Kubernetes**, deploying and scaling applications effectively, which resulted in improved workload efficiency and resource utilization by **60%**.\nMonitored system performance via **Grafana** and **Prometheus**, proactively resolving bottlenecks and ensuring optimal performance of services running on both **AWS** and **GCP**.\nConducted security assessments and implemented best practices in **Cloud Security**, safeguarding sensitive financial data and reducing potential vulnerabilities by **70%**.\nDeveloped automation scripts in **Python** and **Bash** to streamline daily operations and maintenance tasks, improving operational efficiency by **25%**.\nOrchestrated configuration management using **Ansible**, enabling zero-downtime deployments and maintaining consistency across multiple environments.\nEnsured robust network infrastructure and adherence to security protocols, maintaining best practices for secure operations in a Linux environment."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines using **Jenkins** and **Terraform** for automated deployments on **AWS** and **GCP**, enhancing deployment speed by **40%** and increasing overall operational efficiency.\nManaged container orchestration and microservices deployment using **Docker** and **Kubernetes**, ensuring high scalability and reliability for production environments with **99.9%** uptime.\nMonitored infrastructure performance and application metrics with **Grafana** and **Prometheus**, achieving proactive system health checks and reducing incident response time by **30%**.\nStreamlined infrastructure provisioning and management processes through infrastructure as code (IAC) techniques using **Terraform**, decreasing provisioning time by **50%** for new environments.\nImplemented robust cloud security measures and best practices, ensuring compliance with industry standards and safeguarding sensitive data across multiple platforms.\nAutomated system configuration and software deployment using **Ansible**, significantly reducing manual intervention and enhancing configuration consistency across diverse environments.\nDeveloped and maintained scripts in **Python** and **Bash** for task automation, enhancing operational agility and reducing repetitive workload by **25%**.\nCollaborated on network architecture and optimization strategies, ensuring secure communication between services while enhancing network performance metrics.\nSpearheaded the integration of monitoring tools and performance reporting, facilitating real-time insights and operational awareness for the DevOps team.\nExecuted disaster recovery plans and backup strategies, successfully ensuring data integrity and availability across all systems and applications."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, Bash, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), GCP\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), Cloud Security, Network, Linux\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Grafana, Prometheus, Let’s Encrypt, Nginx, Certbot, Packer",
+  "apply_company": "Cint"
+}

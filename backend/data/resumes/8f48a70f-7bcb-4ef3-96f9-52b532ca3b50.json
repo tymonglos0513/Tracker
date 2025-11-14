@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Solutions Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Solutions Engineer with 8 years of experience, I excel in harnessing **AI** technologies to deliver high-performance solutions, particularly within the healthcare and financial sectors. My technical expertise includes proficiency in **JavaScript**, **TypeScript**, and cutting-edge tools such as **ChatGPT** and **Claude** for enhanced functionality. I possess strong skills in **API** development and integration, enabling seamless system interactions.\n\nMy extensive background in full-stack development encompasses frameworks like **React**, **Next.js**, **Vue**, **Node.js**, as well as backend technologies like **FastAPI** and **Django**. Additionally, I have substantial cloud experience on platforms such as **Azure** and **AWS**, which complements my ability to create scalable solutions. I prioritize security and compliance, understanding the intricacies of standards like HIPAA and PCI DSS.\n\nI leverage my entrepreneurial background and goal-centered mindset to drive projects forward while solving complex problems with creativity and empathy. Proactively, I lead initiatives that integrate modern tools like **Git** and automation platforms such as **N8N** to optimize development workflows and enhance productivity.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Solutions Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Leveraged **JavaScript** and **TypeScript** to architect and develop scalable, full-stack healthcare and financial platforms, ensuring compliance with regulatory standards such as HIPAA and GDPR.\n- Implemented effective problem-solving strategies in system design, enhancing platform functionality and user experience.\n- Demonstrated creativity by integrating AI-based features, including smart dashboards and predictive alerts, utilizing models from **ChatGPT** and other AI frameworks.\n- Collaborated proactively with cross-functional teams to deliver mobile applications using **Flutter** and **React Native** for iOS and Android, achieving a user satisfaction rate of over **85%**.\n- Strategized the re-architecture of monolithic applications to microservice architectures using **Docker** and **Kubernetes (1.21-1.22)**, improving deployment speed by **40%**.\n- Optimized large-scale data ingestion and storage using **PostgreSQL** and **MongoDB**, handling up to **10 million** records efficiently.\n- Built and maintained MLOps pipelines with **MLflow** and **Apache Airflow**, enabling continuous training and deployment while reducing model deployment time by **30%**.\n- Designed robust enterprise-level DevOps pipelines using **GitHub Actions** and **Azure DevOps**, which included automated linting and security scans across multiple environments for both web and API services.\n- Delivered insightful financial data visualization tools with **D3.js** and **Chart.js**, facilitating real-time insights that influenced strategic decisions.\n- Established extensive test strategies with tools like **Jest** and **Cypress**, ensuring comprehensive coverage across both front-end and back-end services, maintaining a **95%** or higher test pass rate.\n- Integrated advanced search capabilities through **Azure Cognitive Search** and **ElasticSearch**, enhancing access to millions of health and financial records, significantly improving retrieval times.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Demonstrated problem-solving skills by leading the development and modernization of financial platforms, leveraging **Node.js** (NestJS/Express) and **Python** (FastAPI, Django) to adopt a microservices-based architecture that improved scalability, maintainability, and throughput for high-volume transaction systems.\nUtilized **JavaScript**, **TypeScript**, and frameworks such as **React** (18), **Vue 3**, and **Next.js** to build dynamic, user-focused front-end applications, enhancing user experience through responsive and performant interfaces for financial dashboards and admin portals.\nEmployed creativity in developing real-time transaction monitoring and analytics dashboards using **React**, **D3.js**, and **Power BI Embedded**; enabled operations teams to track financial activity, detect anomalies, and generate actionable insights with visualizations.\nIntegrated messaging services including **Kafka**, **RabbitMQ**, and **Azure Service Bus** to establish a robust event-driven architecture, enhancing asynchronous communication and real-time event processing, thereby supporting more than **1000** transactions per second.\nEngineered and orchestrated ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, enabling batch and real-time ingestion of financial data from both internal and third-party sources, processing over **1TB** of data weekly.\nImplemented AI/ML-powered fraud detection systems utilizing **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing transaction patterns and user behavior to proactively flag suspicious activities in banking systems, achieving a detection rate improvement of **30%**.\nCreated machine learning pipelines for credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, integrating model inference directly into backend services to enhance real-time decision-making processes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **JavaScript** and **TypeScript** to design and optimize backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nApplied **AI** technologies to engineer real-time features using WebSockets and event-driven architecture powered by Kafka and RabbitMQ, enhancing order updates, dynamic inventory tracking, and real-time customer support.\nLeveraged **Git** for version control and collaborative development, maintaining smooth project workflows across a team of engineers.\nEmployed **API** integrations for frontend applications built using **React (18)**, **Vue 3**, and **Angular**, enhanced with **Redux Toolkit**, delivering fast, responsive user experiences on both web and mobile platforms.\nImplemented data storage solutions using **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra**, ensuring fast and fault-tolerant data access for high-traffic e-commerce workflows, achieving performance gains by caching frequently accessed resources.\nIntegrated AI/ML-based recommendation engines with **scikit-learn**, **LightGBM**, and **TensorFlow** to personalize product listings and optimize search relevance, improving conversion rates based on real-time behavioral data.\nExecuted Redis caching strategies for product metadata, shopping cart sessions, and search results, which significantly improved application responsiveness and reduced read pressure on databases by **30%**.\nUtilized **Git** for source code management to facilitate team collaboration and maintain version control across development tasks.\nImplemented feature flags and blue-green deployments using **LaunchDarkly** and **Kubernetes** namespaces, enabling controlled rollouts, A/B testing, and effective risk mitigation during major platform updates.\nDesigned responsive, SEO-friendly e-commerce UIs using **Next.js**, **Vue 3** + **Nuxt**, and **HTML5/CSS3**, optimized for mobile-first engagement and compliance with accessibility standards (WCAG 2.1).\nDeveloped secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, ensuring tokenized transactions and PCI-compliant handling of sensitive data.\nApplied role-based access control (RBAC) and **OAuth 2.0** for secure customer and admin access, ensuring **GDPR** compliance and robust user data protection throughout the platform."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:** \n\tReact, Vue, Angular\n\n **API Technologies:** \n\tAPI\n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:** \n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:** \n\tAWS, Azure\n\n **Other:** \n\tAI, MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Git, N8N, Problem solving, Creativity, Empathy, Proactivity, Goal-centered mindset, Entrepreneurial background",
+  "apply_company": "Keplero AI"
+}

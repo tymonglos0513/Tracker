@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a skilled Data Engineer with 8 years of experience, I specialize in developing efficient data processing pipelines and implementing ETL/ELT processes using **Python**, **AWS** services such as **S3**, **Glue**, **Lambda**, **DynamoDB**, and **Athena**. I possess comprehensive knowledge in SQL and NoSQL databases, ensuring high-quality data governance and security practices. My expertise includes leveraging **Airflow** for data orchestration and automating workflows while adhering to software engineering best practices, version control, CI/CD, and automated testing.\n\nI bring a strong background in big data frameworks like **Spark** and **Hadoop**, coupled with experience in integrating Generative AI capabilities to enhance analytics outcomes. Additionally, my deep understanding of data processing and event-driven architecture positions me well to support organizations in their data-driven initiatives.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and developed **data processing pipelines** utilizing **Python**, **AWS Glue**, and **AWS Lambda** to ensure seamless ETL/ELT processes for large-scale healthcare and financial data ingestion, optimizing data workflows.\n- Implemented automated testing and CI/CD practices using **AWS CodePipeline**, ensuring reliable and efficient deployments throughout the development cycle, aligning with **software engineering best practices**.\n- Leveraged **AWS S3**, **DynamoDB**, and **Athena** for effective data storage, transformation, and querying of both **SQL** and **NoSQL** databases, enhancing data accessibility for analytical processes.\n- Built and maintained MLOps workflows with **Apache Airflow**, ensuring continuous integration and deployment of machine learning models, maximizing operational efficiency and scalability in production.\n- Developed big data processing solutions using **Apache Spark** and **Hadoop**, enabling high-volume data analytics and processing capabilities, tailored for complex healthcare and financial datasets.\n- Established data governance and security measures in compliance with standards such as **HIPAA** and **GDPR**, protecting sensitive information across all data handling processes.\n- Created data orchestration solutions with **AWS Step Functions** and **Prefect**, facilitating effective coordination of various data workflows and improving the overall reliability of data operations.\n- Integrated **Generative AI** into data pipelines for advanced analytics, improving insights through predictive models and real-time data processing capabilities.\n- Collaborated with cross-functional teams to enhance data quality through version control practices, ensuring robust data integrity and reliability.\n- Delivered on critical projects on time, achieving an average processing speed improvement of **30%** over prior methodologies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and managed **data processing pipelines** utilizing **Python**, **AWS** services such as **Lambda**, **S3**, **Glue**, and **DynamoDB**, ensuring seamless batch and real-time data ingestion for financial platforms.\nDesigned and implemented **ETL** and **ELT** processes using **Airflow** and **Azure Data Factory**, enhancing data flow efficiency and governance for high-volume transaction systems.\nApplied **SQL** and **NoSQL** principles to structure data, ensuring optimal storage and retrieval with **Athena** for ad-hoc querying and analytics.\nEstablished and maintained software engineering best practices with version control, **CI/CD** techniques, and automated testing frameworks, resulting in a **30%** increase in deployment efficiency.\nLeveraged **Generative AI** techniques for advanced analytics, improving fraud detection capabilities by integrating machine learning models for real-time processing and decision-making.\nEngineered robust **data orchestration tools** strategies that supported complex workflows, providing a solid basis for data governance and security across transactions and compliance operations.\nManaged the integration of big data frameworks such as **Spark** and **Hadoop** to enhance processing speed and scalability, facilitating the analysis of large datasets with an **80%** reduction in computation time compared to previous methods.\nUtilized tools like **Apache Kafka**, **RabbitMQ**, and **Azure Service Bus** for message-driven architecture, ensuring reliable communication and reducing transaction latency by **40%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Designed and optimized data processing pipelines for a global e-commerce platform, ensuring high availability, low latency, and scalability using **Python** and **AWS** services such as **Lambda**, **Glue**, and **DynamoDB**.\nEngineered ETL workflows utilizing **Airflow** and **Step Functions** for efficient data orchestration, processing over **1 million records** daily to support real-time analytics and insights.\nImplemented automated testing and CI/CD practices with version control systems, enhancing deployment efficiency by **30%** and minimizing software regressions.\nLeveraged **AWS S3** for secure data storage, ensuring compliance with data governance policies and managing data access through robust security protocols.\nDeveloped and maintained SQL and NoSQL databases (*including PostgreSQL and MongoDB*) for structured and unstructured data, improving data retrieval times by **40%** for high-traffic workflows.\nCreated scalable data transformation processes with **Spark** and **Hadoop**, facilitating batch processing of **TB**-sized datasets while adhering to software engineering best practices.\nIntegrated Generative AI functionalities, enhancing product recommendation systems based on real-time behavioral data and driving engagement metrics up by **25%**.\nOptimized data security measures through role-based access control (RBAC) and data encryption, ensuring GDPR compliance and safeguarding user information throughout the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda, S3, Glue), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), DynamoDB, NoSQL, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS), Azure (Blob, SQL)\n\n **Other:**\n\tMachine Learning, MLflow, Airflow, Kubeflow, data processing pipelines, ETL, ELT, software engineering best practices, version control, CI/CD, automated testing, Generative AI, data orchestration tools, Step Functions, Prefect, big data frameworks, Spark, Hadoop, data governance, data security"
+}

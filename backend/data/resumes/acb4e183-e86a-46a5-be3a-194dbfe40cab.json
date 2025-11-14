@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior DevOps Engineer with 13+ years of experience in cloud-native application delivery and infrastructure automation. Proficient in **Terraform**, **Puppet**, and **Ansible** for configuration management and orchestration. Extensive expertise in deploying applications on **AWS**, **GCP**, and **Azure**, ensuring compliance with **PCI-DSS** regulations. Skilled in managing Linux environments and scripting with **Bash**. Solid background in programming with **Python** and **Ruby**, as well as experience with **Jenkins** for CI/CD pipelines and version control using **GIT**.\n\nDemonstrated ability to build robust, high-performance applications in the healthcare and financial industries, leveraging technologies such as **JavaScript/TypeScript**, **Flutter**, **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Strong experience in AI/ML-powered platforms that enable predictive analytics and real-time processing. Proficient in database management with **MySQL**, **MariaDB**, **Galera**, and cloud database services like **AWS RDS**, **AWS Aurora**, and **Cloud Spanner**. Well-versed in compliance-driven development, aligning solutions with HIPAA, FHIR, and SOC 2 standards. Significant MLOps experience, including model training and orchestration using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented infrastructure as code using **Terraform** and **Ansible** to automate deployments across cloud services including **AWS**, **GCP**, and **Azure**, ensuring robust and scalable environments.\nManaged CI/CD pipelines with **Jenkins**, **GitHub Actions**, and **CircleCI**, achieving a **30%** reduction in deployment times through automated testing and security checks.\nConfigured and maintained database systems such as **MySQL**, **MariaDB**, and **AWS Aurora**, enhancing data performance and security compliance with **PCI-DSS** standards for financial applications.\nDeveloped monitoring solutions leveraging **AWS** and custom **Bash** scripts to ensure system health and reliability, achieving **99.9%** uptime across services.\nStreamlined operations through efficient use of **Linux** servers and **Docker** containers, ensuring smooth deployment and scalability for on-premise and cloud applications.\nCollaborated on configurations with **Puppet** and **VMware** to manage virtualized environments effectively, facilitating the management of resources in a hybrid cloud setup.\nContributed to the development and integration of **Python** and **Ruby** applications within the DevOps pipeline to enhance automation of infrastructure management and operational tasks.\nProvided technical guidance in the adoption of key DevOps practices, improving team efficiency by implementing best practices in configuration management and deployment strategies.\nCreated detailed documentation and runbooks for operational procedures, increasing the team's capability to manage and troubleshoot systems effectively while reducing incident response times by **40%**.\nAssisted in incident resolution processes by applying effective debugging techniques and collaborating with development teams to ensure application performance and reliability."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented Infrastructure as Code practices using **Terraform**, **Ansible**, and **Puppet** to automate deployment processes and maintain consistent environments across **AWS**, **Azure**, and **GCP**.\nManaged CI/CD pipelines utilizing **Jenkins** to streamline application delivery, achieving deployment frequency of up to **30** releases per month while reducing lead time by **40%**.\nEnsured system security compliance with **PCI-DSS** guidelines, conducting regular audits and integrating security best practices into the development lifecycle.\nAdministered relational databases like **MySQL**, **MariaDB**, and **Galera**, optimizing performance and scaling solutions for user demand, leading to improved query response times by **50%**.\nMonitored system performance and reliability using **Linux** tools and **Bash** scripts, resulting in a **99.9%** uptime rate across production environments.\nCollaborated with cross-functional teams to implement cloud-native solutions, leveraging services from **AWS** such as **RDS**, **Aurora**, and **Cloud Spanner** to support scalable applications with a focus on cost-efficiency.\nDeveloped and maintained configuration management libraries and scripts for seamless infrastructure provisioning, reducing manual intervention by up to **70%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented infrastructure as code using **Terraform**, **Ansible**, and **Puppet** to automate deployment and configuration management across AWS, GCP, and Azure environments, resulting in a **30% increase** in deployment speed.\nDeveloped CI/CD pipelines with **Jenkins** to streamline code integration and delivery workflows, ensuring **99.9% uptime** for production applications and enabling rapid deployment cycles.\nManaged and optimized cloud resources across **AWS RDS**, **Cloud Spanner**, and **AWS Aurora** for scalable data storage solutions, improving database performance by **40%** during peak traffic.\nUtilized **Linux** and **Bash** scripting for system administration and automation tasks, enhancing operational efficiency and enabling seamless server management across diverse environments.\nApplied **GIT** for version control, facilitating collaborative workflows and code reviews while maintaining high-quality standards in code development processes.\nCollaborated on implementing security best practices in line with **PCI-DSS** guidelines to ensure secure access and data protection across all applications.\nMonitored system performance and stability through robust logging and alerting mechanisms, leading to a **25% reduction** in incident response time.\nProvided support for MySQL, MariaDB, and Galera clusters to ensure availability and reliability of database services for high-traffic applications.\nEngineered backup and disaster recovery strategies across multiple platforms to safeguard critical data and ensure quick recovery time objectives (RTO).\n"
+    }
+  ],
+  "skills": "  **Programming Languages:**\n\tPython, Ruby\n\n  **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n  **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n  **API Technologies:**\n\tOAuth2, JWT, Keycloak (OIDC, RBAC)\n\n  **Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n  **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MariaDB, Galera, MongoDB (Gaming), Redis\n\n  **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose\n\n  **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Aurora, Azure: App Services, Blob Storage, SQL Database, GCP, VMware, Linux, Bash\n\n  **Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Let’s Encrypt, Certbot, PCI-DSS",
+  "apply_company": "emerchantpay"
+}

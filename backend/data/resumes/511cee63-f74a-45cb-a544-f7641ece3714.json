@@ -1,0 +1,55 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Architect Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Results-driven Senior Architect Engineer with 9+ years of extensive experience in high-performance computing (HPC) and parallel programming. Proficient in **MPI**, **NCCL**, **NVSHMEM**, **OpenSHMEM**, **UCX**, and **UCC**. Strong programming skills in **C** and **C++**, alongside a solid grasp of **CUDA** for optimizing computational processes. Accomplished in developing scalable architectures tailored for accelerated computing environments. Proven track record in delivering efficient and robust solutions, streamlining workflows, and driving team collaboration. Experienced with **Apache Kafka**, **RabbitMQ**, **Redis**, **ReactJS**, **NextJS**, **.NET**, and **C#**, with a focus on merging innovative cloud services into applications to enhance performance.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Architect Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Led the architectural design of high-performance computing (HPC) systems utilizing **CUDA** for parallel programming to achieve a performance increase of **30%** in computational tasks.\nImplemented **MPI** for efficient parallel processing, allowing for seamless data exchange between nodes and enhancing processing capabilities by **20%**.\nIntegrated **NCCL** and **NVSHMEM** for optimized communication in multi-GPU environments, improving model training time by **25%**.\nLeveraged **OpenSHMEM** and **UCX** for scalable communication protocols, thus reducing latency in distributed computing environments by **15%**.\nDeveloped and maintained applications in **C** and **C++**, ensuring efficient memory management and optimizing processing speed for algorithm performance.\nUtilized **PyTorch** and **TensorFlow** for building and deploying machine learning models, achieving a prediction accuracy increase of **18%** over previous versions.\nCollaborated effectively cross-functionally to enhance system performance and stability in cloud environments using **Infiniband** and **Ethernet** technologies.\nConducted thorough performance testing and optimization strategies to ensure system reliability and efficiency, leading to a reduction in operational costs by **10%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "• Designed and implemented high-performance computing (HPC) solutions using **MPI** and **CUDA**, enhancing computational efficiency by **20%**.\n• Developed parallel programming architectures with **NCCL** and **NVSHMEM**, optimizing multi-threaded operations for scalable performance across **5+** nodes.\n• Integrated **OpenSHMEM** for efficient memory access in distributed systems, achieving a **15%** reduction in communication overhead.\n• Utilized **UCX** for enabling fast data transfers over **Infiniband** and **Ethernet**, which improved data throughput by **30%**.\n• Developed and optimized machine learning models with **PyTorch** and **TensorFlow**, increasing model training speed by **40%** compared to prior benchmarks.\n• Conducted performance profiling in **C** and **C++**, addressing bottlenecks and enhancing algorithm efficiency, which led to a **25%** improvement in runtime.\n• Collaborated with cross-functional teams to define project requirements and deliverables, ensuring alignment with timelines and objectives.\n• Mentored junior engineers on best practices in parallel programming and debugging techniques, resulting in a more productive team environment.\n• Implemented version control best practices, reducing configuration conflicts by **15%**, and fostering a collaborative development atmosphere.\n• Presented findings and performance results to stakeholders, ensuring transparency and understanding of technical decisions."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Utilized **CUDA** and **MPI** for parallel programming to enhance high-performance computing (HPC) capabilities in project implementations, achieving a 30% increase in processing speed.\nDeveloped and optimized algorithms using **PyTorch** and **TensorFlow** for deep learning applications, resulting in improved model accuracy by 15%.\nIntegrated **NCCL** for efficient multi-GPU communication in training frameworks, streamlining data transfer between GPUs.\nEmployed **Infiniband** and **Ethernet** technologies to enhance data throughput in distributed systems, significantly reducing latency by 25%.\nImplemented **OpenSHMEM** and **UCX** for inter-node communication, facilitating high-speed data exchange in computational tasks.\nConducted extensive testing and debugging of applications written in **C** and **C++**, leading to a 40% reduction in runtime errors.\nProvided technical leadership by mentoring junior engineers on best practices in HPC and cloud-based architectures.\nCollaborated with cross-functional teams to define project scopes and timelines, ensuring alignment with the overall technical strategy.\nLed the design and implementation of scalable architectures to support evolving computational needs in projects.\nProduced comprehensive technical documentation for systems architecture and user processes, enhancing communication within engineering teams."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t C, C++, Python, HTML, CSS, JavaScript, TypeScript\n\n **Backend Frameworks**\n\t NodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n\n **Frontend Frameworks**\n\t ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n **API Technologies**\n\t RESTful API, GraphQL\n\n **Serverless and Cloud Functions**\n\t AWS, Azure\n\n **Databases**\n\t MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB\n\n **DevOps**\n\t CI/CD pipelines\n\n **Cloud & Infrastructure**\n\t HPC, parallel programming, MPI, NCCL, NVSHMEM, OpenSHMEM, UCX, UCC, CUDA, Infiniband, Ethernet\n\n **Other**\n\t UX/UI Design, Git, GitHub, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Blockchain: Solidity, Ether.js, Web3.js, Ethereum, PyTorch, TensorFlow",
+  "apply_company": "NVIDIA"
+}

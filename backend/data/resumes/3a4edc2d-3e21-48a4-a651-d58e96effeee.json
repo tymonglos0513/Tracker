@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Software Engineer with 8 years of experience, I excel in creating scalable solutions using **JavaScript**, **TypeScript**, **Node.js**, **React**, **AWS**, **Serverless**, and **DynamoDB**. My proficiency in **HTML5** and **CSS** complements my full-stack capabilities, enabling me to build high-performance applications tailored to client needs.\nI have a proven track record of leveraging cloud services like **AWS** and **Azure DevOps** to deliver robust and compliant applications. In previous roles, I led the development of innovative platforms that seamlessly integrate AI capabilities to enhance user experience and operational efficiency.\nAdditionally, I have a solid foundation in microservices architecture, event-driven systems, and CI/CD automation, ensuring that the software I develop meets industry standards and includes best practices for security and performance.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained web applications using **JavaScript**, **TypeScript**, and **Node.js**, ensuring robust and high-quality code through established best practices.\n- Designed and implemented scalable user interfaces with **React** (versions **17-18**) while ensuring adherence to modern web standards and performance optimization.\n- Leveraged **AWS** cloud services and **serverless** architectures for efficient deployment and management of applications, enhancing scalability and reducing operational costs.\n- Integrated essential DevOps processes using **AzureDevOps** for continuous integration and delivery pipelines, facilitating faster project timelines and seamless deployment.\n- Collaborated in the creation of dynamic and responsive designs utilizing **HTML5** and **CSS**, improving user engagement and accessibility across platforms.\n- Implemented AI-driven features within applications to enhance user experiences and provide intelligent insights, powered by **AI** technologies and algorithms.\n- Led migration efforts to modernize legacy systems using microservices architecture, opening pathways for enhanced modularity and future readiness.\n- Developed to enhance operational KPIs through innovative solutions crafted using advanced data visualizations with tools such as D3.js and Power BI Embedded.\n- Established comprehensive test strategies including unit and integration tests using frameworks like Jest, ensuring high-quality deliverables and reduced bug rates.\n- Collaborated with cross-functional teams to integrate and deploy essential modules and features, guaranteeing alignment with business goals and user needs."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed dynamic, user-focused front-end applications utilizing **React (18)**, **TypeScript**, and **HTML5**, enhancing the user experience of financial dashboards and admin portals.\n• Implemented scalable and maintainable microservices-based architecture using **Node.js** (NestJS/Express), significantly improving the throughput for high-volume transaction systems.\n• Leveraged **AWS** and **AzureDevOps** to manage cloud services, ensuring seamless deployment and integration of applications in real-time environments.\n• Utilized **CSS** and **Tailwind CSS** to create responsive and performant interfaces, enhancing both accessibility and user engagement across platforms.\n• Built and orchestrated ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory** to efficiently process and ingest **10TB+** of financial data from diverse sources.\n• Designed real-time transaction monitoring dashboards through **D3.js** and **Power BI Embedded**, facilitating the tracking of unusual activities, contributing to a **30%** increase in detection efficiency.\n• Integrated serverless architecture with tools such as **Lambda functions** on **AWS**, optimizing the event-driven processes and improving transaction handling capabilities.\n• Implemented AI/ML models with tools like **scikit-learn** and **XGBoost**, leading to a **20%** reduction in fraud incidents by proactively analyzing transaction patterns.\n• Created ML pipelines for critical processes like credit scoring and churn prediction using **MLflow** and **Airflow**, directly integrating results into backend services for real-time decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Leveraged **JavaScript**, **Node.js**, and **TypeScript** to design and optimize backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nEngineered real-time features using **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ**, achieving up to **95%** reduction in order update latency and enabling responsive inventory tracking and customer support.\nDeveloped frontend applications using **React (18)** and **HTML5/CSS3**, enhanced with **Redux Toolkit** and **Tailwind CSS**, delivering fast, responsive user experiences on both web and mobile platforms, achieving a **40%** improvement in page load speed.\nUtilized **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data storage, ensuring fast and fault-tolerant data access for high-traffic e-commerce workflows, resulting in a **300%** increase in transaction handling capacity.\nIntegrated **AI**-based recommendation engines using **scikit-learn** and **TensorFlow** to personalize product listings, optimizing search relevance, and improving conversion rates by **25%** based on real-time behavioral data.\nImplemented **Redis** caching for product metadata and shopping cart sessions, enhancing application responsiveness and reducing read pressure on databases by up to **60%**.\nUtilized **LaunchDarkly** and **Kubernetes** for feature flags and blue-green deployments, enabling controlled rollouts and A/B testing for feature releases in a production environment.\nCreated responsive, SEO-friendly e-commerce UIs using **Next.js**, **Vue 3 + Nuxt**, and adherent to accessibility compliance standards (WCAG 2.1), significantly improving user engagement metrics.\nBuilt secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, ensuring a **100%** compliance with PCI standards during tokenized transaction processing.\nApplied role-based access control (RBAC) and **OAuth 2.0** for secure customer and admin access, reinforcing GDPR compliance and user data protection throughout the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJavaScript, Node.js, TypeScript, Python\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular, HTML5, CSS\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda, ECS), Azure (App Services), Serverless\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, DynamoDB\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (RDS, S3), Azure (Blob, SQL)\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Let’s Encrypt, Nginx, Certbot, AI",
+  "apply_company": "SquaredUp"
+}

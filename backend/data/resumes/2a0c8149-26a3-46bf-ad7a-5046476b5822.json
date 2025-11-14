@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Data Engineer with 13+ years of experience in Data Engineering and building scalable Data Warehousing solutions. Proficient in data modeling, ETL and ELT processes, leveraging **Python** and **dbt** for data transformation. Experienced with **Snowflake** and **Databricks** for data storage and analytics, ensuring the implementation of robust data structures.\nExpert in deploying infrastructure using **AWS**, **Terraform**, and **CloudFormation**, focusing on Infrastructure as Code principles. Demonstrated experience in high-performance applications within healthcare and financial sectors, aligning with compliance standards like HIPAA and PCI DSS. Well-versed in developing cloud-native systems, with technical skills in **JavaScript/TypeScript**, **Flutter**, and full stack development using **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django** for comprehensive solution delivery. Strong background in AI/ML, leveraging tools like **MLflow**, **Airflow**, and **Kubeflow** for operational excellence.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and implemented **ETL** and **ELT** processes to efficiently move and transform data utilizing **Python** and **dbt**, ensuring seamless data flow within **AWS** and **Snowflake** environments.\n• Designed and maintained data warehousing solutions in **Snowflake**, enabling robust data storage and access for analytical purposes in the healthcare and fintech sectors.\n• Created and optimized data models following the **Kimball** approach to facilitate effective querying and reporting for stakeholders, improving response times by **30%**.\n• Leveraged **Databricks** for big data processing, enabling on-demand data analytics and insights generation through advanced **Data Engineering** practices.\n• Implemented Infrastructure as Code (IaC) strategies using **Terraform** and **CloudFormation** to automate the provisioning of data infrastructure, reducing setup times by **40%**.\n• Collaborated with cross-functional teams to ensure best practices in data governance and compliance, achieving full adherence to data regulations like GDPR and HIPAA within **6 months**.\n• Created efficient data pipelines that support daily data ingestion of over **1 million** records, optimizing storage management and processing time.\n• Conducted performance tuning of complex SQL queries, resulting in an average improvement of **25%** in query execution time.\n• Established data quality metrics and implemented monitoring systems to track and rectify anomalies, ensuring data integrity across all platforms.\n• Spearheaded the use of tools and frameworks to enhance the overall **Data Engineering** workflow, integrating automated job scheduling and reporting mechanisms to improve operational efficiency."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented **ETL** processes using **Python**, **Apache Airflow**, and **dbt**, enhancing data integration and transformation workflows to support robust **Data Engineering** practices.\nOptimized **Data Warehousing** strategies through the deployment of **Snowflake** solutions, achieving **25%** improved query performance and data accessibility for analytical purposes.\nDeveloped and maintained **data models** in compliance with the **Kimball** methodology, facilitating streamlined data organization and enhanced reporting capabilities across the organization.\nImplemented **Infrastructure as Code** using **Terraform** and **CloudFormation**, ensuring efficient environment provisioning and management, resulting in **30%** reduction in deployment time.\nBuilt robust **data pipelines** on **Databricks** to handle complex data processing tasks, ensuring scalability and reliability in data ingestion and transformation processes.\nCollaborated with cross-functional teams to leverage **AWS** services, enabling seamless accessibility of large datasets for analysis, leading to increased operational efficiency.\nContinuously improved data workflows and system integrations, ensuring compliance and performance metrics are met, measured by a performance increase of up to **40%** in data retrieval times."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and optimized data pipelines for efficient **ETL** and **ELT** processes utilizing **Python** and **dbt**, ensuring seamless data flow from diverse sources to central repositories for analytical workloads.\nEngineered scalable data models adhering to the **Kimball** methodology, enhancing data accessibility and analytical performance across business departments with **Snowflake** and **Databricks**.\nImplemented **Data Warehousing** solutions with **AWS**, transforming large datasets into actionable insights while maintaining high availability and low latency.\nDeveloped Infrastructure as Code (IaC) utilizing **Terraform** and **CloudFormation**, streamlining deployment, scaling, and management of multi-cloud data architecture.\nAutomated data transformation workflows using **Python** and strategic orchestration tools, resulting in a **30%** reduction in data processing time and improved operational efficiency.\nCollaborated with analytics teams to identify key metrics and KPIs, enabling data-driven decision-making through meticulous **Data Modeling** techniques that improved report generation time by **45%**.\nDesigned and implemented monitoring solutions for data pipeline performance, achieving real-time insights into data accuracy, quality, and availability, aiding in reducing pipeline failures by **50%**.\nLeveraged version control systems to manage data engineering project iterations, ensuring compliance with best practices and facilitating timely rollbacks if necessary.\nChampioned data governance initiatives to ensure adherence to regulatory requirements, enhancing data security and user privacy while implementing **role-based access control (RBAC)** frameworks."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript\n\tReact\n\tVue\n\tAngular\n\n **API Technologies:**\n\tNginx\n\tOAuth2\n\tJWT\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n **Databases:**\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\tSnowflake\n\n **DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n **Cloud & Infrastructure:**\n\tAWS: ECS\n\tAWS: RDS\n\tAzure: App Services\n\tAzure: Blob Storage\n\tAzure: SQL Database\n\tInfrastructure as Code\n\tCloudFormation\n\n **Other:**\n\tData Engineering\n\tData Warehousing\n\tETL\n\tELT\n\tData Modeling\n\tdbt\n\tDatabricks\n\tKimball",
+  "apply_company": "Olo"
+}

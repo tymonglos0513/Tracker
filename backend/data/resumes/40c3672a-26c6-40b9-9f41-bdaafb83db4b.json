@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Results-driven Software Engineer with 13+ years of experience in full-stack application development. Proficient in **TypeScript**, **React**, and **Ruby on Rails**, with a solid foundation in **Postgres** and **Redis** for data management. Skilled in deploying scalable solutions using **AWS CDK** and **Docker**, optimizing application performance and reliability.\nDemonstrated expertise in creating high-performance applications, particularly in the healthcare and financial sectors, with a strong focus on compliance-driven development standards. Knowledgeable in AI/ML-based solutions, facilitating predictive analytics and automation. Proven track record in implementing microservices and CI/CD pipelines to enhance development workflows.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed full-stack applications utilizing **Ruby on Rails** and **TypeScript**, ensuring efficient and maintainable code structure.\n• Designed responsive user interfaces with **React** (17–18), applying best practices for performance optimization and user experience.\n• Engineered database solutions using **Postgres** and **Redis** to handle data storage and caching, providing reliable data persistence and fast access for web applications.\n• Implemented CI/CD pipelines leveraging **AWS CDK** to enable automated build, test, and deployment processes across development environments.\n• Containerized applications using **Docker**, ensuring consistent environments from development through production, thus improving deployment speed by **40%**.\n• Collaborated with cross-functional teams to integrate third-party APIs and ensure smooth data flow and application functionality, contributing to a **50%** improvement in feature delivery times.\n• Maintained high code quality through rigorous testing and code reviews, ensuring over **90%** test coverage and adherence to industry standards.\n• Provided mentoring and support for junior developers in the use of best practices and modern web development tools, fostering a culture of continuous learning and improvement.\n• Executed performance analysis and optimizations, achieving a **30%** reduction in load times for critical application workflows.\n• Employed agile methodologies to manage project timelines and deliverables, resulting in consistent on-time project completions and increased stakeholder satisfaction."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained scalable web applications using **TypeScript** and **React** (18), enhancing user experience for financial tools and admin panels.\nImplemented RESTful APIs employing **Ruby on Rails** and **Postgres**, optimizing data retrieval and storage for high-traffic applications.\nDesigned and utilized Redis for caching strategies, improving application response times by **30%**.\nManaged containerized applications using **Docker**, enabling consistent development and production environments for deployment.\nCollaborated in an Agile team, leveraging best practices in software development to deliver features in **2-week sprints**, contributing to efficient project management and faster time-to-market.\nIntegrated cloud services using **AWS CDK**, enabling infrastructure as code for rapid provisioning and deployment of resources.\nImproved application performance and scalability by employing microservices architecture, employing best practices in service design and deployment.\nConducted code reviews and participated in continuous integration and deployment (CI/CD) processes, ensuring high-quality software delivery."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Ruby on Rails** for building and optimizing backend services, ensuring high performance and scalability for critical e-commerce operations with a focus on transaction speed and data integrity.\nDeveloped interactive user interfaces using **React** (version 18) and **TypeScript**, which enhanced user engagement leading to an increase in user retention by **15%**.\nEngineered effective data management solutions using **Postgres** and **Redis**, achieving a **30%** improvement in query response times through strategic caching mechanisms.\nImplemented containerization using **Docker** to streamline deployment processes, leading to a **50%** reduction in environment setup times across development and production.\nLeveraged **AWS CDK** for infrastructure as code, automating the provisioning of resources, which resulted in faster deployment of services and enhanced monitoring capabilities.\nCreated feature-rich applications focused on dynamic user experiences through proactive use of modern frameworks, enhancing mobile-first engagement and accessibility compliance (WCAG 2.1).\nIntegrated secure payment processing through third-party APIs, ensuring PCI compliance and safeguarding sensitive user data through vigilant security practices.\nEnhanced application performance and responsiveness by deploying caching strategies with **Redis**, effectively managing session data and optimizing load times during peak traffic.\nBuilt scalable applications using modern methodologies which included feature flag implementations and thorough testing to ensure high availability and reliability of services."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tRuby, TypeScript, Python\n\n**Backend Frameworks:**\n\tRails, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: RDS, S3, Azure: App Services, Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot\n"
+}

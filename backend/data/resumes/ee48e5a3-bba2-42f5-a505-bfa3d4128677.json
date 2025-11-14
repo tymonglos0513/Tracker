@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Integrations Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As an Integrations Engineer with 8 years of experience, I possess a strong command of modern software development practices, including **Java**, **Kotlin**, and **Spring** for creating scalable backend solutions. My expertise extends to implementing **CI/CD** processes that enhance deployment efficiency and reduce time-to-market. I have hands-on experience with **React** for creating dynamic front-end applications and have utilized **Terraform** and **Helm** for infrastructure management. My proficiency in observability tools such as **Datadog**, along with deep understanding of REST, gRPC, and security standards including **OAuth2** and **mTLS**, ensures robust and secure integrations. \n\nI have a proven track record of developing high-performance solutions in the healthcare and financial sectors, leveraging **microservices architecture** and **event-driven systems** to build resilient applications. Additionally, I excel in **caching** strategies, **rate limiting**, and **performance analysis**, guaranteeing optimal system performance. My capabilities in **Kafka** and **RabbitMQ** facilitate seamless message-driven architectures, while I advocate for best practices in **secrets management** and **incremental rollouts**. My original strengths include a solid foundation in full-stack development with **React**, **Next.js**, **Node.js**, as well as experience in developing enterprise-grade platforms integrating AI/ML capabilities.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Integrations Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained integrations using **Java** and **Kotlin** with **Spring** framework, ensuring seamless data communication between healthcare and financial systems through **REST** and **gRPC** APIs.\n- Implemented **CI/CD** pipelines utilizing **Terraform** and **Helm** for efficient deployment and management of applications across multi-environment setups, achieving a **30%** reduction in deployment time.\n- Employed **Datadog** for performance analysis, monitoring, and observability of integrated systems, enhancing application reliability and reducing downtime by **25%**.\n- Designed caching strategies and rate limiting solutions to optimize response times and overall system performance, resulting in a **15%** improvement in service efficiency.\n- Integrated messaging services such as **Kafka** and **RabbitMQ** to facilitate asynchronous communication, improving system scalability and responsiveness during high-load periods by handling **up to 10,000** messages per second.\n- Ensured secure data exchanges through implementation of **OAuth2** for authentication, and **mTLS** for secure communication channels, safeguarding sensitive financial and healthcare information.\n- Developed and executed advanced monitoring and logging strategies, improving observability of the integrations and allowing for quicker identification and resolution of issues.\n- Collaborated on incremental rollouts of new features using **API keys** and **secrets management** practices, allowing for safer deployment and minimizing disruptions in service.\n- Conducted performance analysis to identify and eliminate bottlenecks in integrated architectures, achieving a **20%** increase in system throughput.\n- Engaged in cross-functional collaboration with product teams to gather requirements and deliver high-quality integrations that align with business objectives, improving stakeholder satisfaction scores by **40%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Kotlin** to develop and enhance integration services, ensuring seamless communication across microservices while implementing REST and gRPC for efficient API management.\nDesigned and maintained **Spring** frameworks to create robust, scalable applications that meet demanding integration requirements for financial systems.\nImplemented CI/CD pipelines to streamline deployment processes, significantly reducing time-to-market and increasing reliability within the integration of financial platforms.\nManaged infrastructure as code using **Terraform** and **Helm**, facilitating automated provisioning and configuration of cloud resources for enhanced integration capabilities.\nIntegrated messaging systems through **Kafka** and **RabbitMQ**, enabling high-throughput, asynchronous communication across various financial services, optimizing performance and reliability.\nFocused on caching strategies and rate limiting to improve performance and resource management across applications, leading to a **30%** reduction in latency for user requests.\nConducted performance analysis and observability with **Datadog** to monitor and enhance system performance, ensuring reliable uptime and efficient incident response mechanisms.\nImplemented security measures utilizing OAuth2 and **mTLS** for secure communication and compliance with data protection regulations in all integrations.\nExecuted incremental rollouts and effective secrets management to maintain consistency and integrity across integration environments, achieving a **95%** success rate in deployment objectives, while minimizing downtime."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Leveraged **Java** and **Kotlin** to develop and optimize backend services for integration with various APIs, ensuring robust performance and minimal downtime across integration points.\nEngineered **RESTful** and **gRPC** services to enable seamless communication between microservices, enhancing system resilience and scalability, contributing to over **95%** uptime across operations.\nImplemented CI/CD pipelines using **Terraform** and **Helm** for automated deployment, allowing for **incremental rollouts** and enabling quick iteration of features with reduced risk on production environments.\nUtilized **Kafka** and **RabbitMQ** for message queuing and event-driven architecture, resulting in high throughput and low-latency processing of events, supporting thousands of transactions per second.\nConducted performance analysis and optimization of integrated services, achieving a **30%** reduction in response time and improving observability using tools like **Datadog**.\nEnsured secure data access through the implementation of **OAuth2** and **mTLS** for authentication, safeguarding sensitive data and upholding compliance with GDPR.\nDeveloped caching strategies to enhance service responsiveness, utilizing various caching solutions and achieving a **40%** improvement in data retrieval speeds.\nImplemented rate limiting and API key management to protect services and maintain quality of service for high-traffic applications.\nCreated thorough documentation for all integration points and workflows, improving team onboarding and operational transparency.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython,\n\tJava,\n\tKotlin,\n\n**Backend Frameworks:**\n\tFastAPI,\n\tFlask,\n\tDjango,\n\tSpring,\n\n**Frontend Frameworks:**\n\tJavaScript,\n\tTypeScript,\n\tReact,\n\tVue,\n\tAngular,\n\n**API Technologies:**\n\tREST,\n\tgRPC,\n\tOAuth2,\n\tAPI keys,\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3),\n\tAzure (App Services, Blob, SQL),\n\n**Databases:**\n\tPostgreSQL (Fintech),\n\tMySQL (Healthcare),\n\tMongoDB (Gaming),\n\tRedis,\n\n**DevOps:**\n\tDocker,\n\tKubernetes,\n\tGitHub Actions,\n\tGitLab CI/CD,\n\tCI/CD,\n\tTerraform,\n\tAnsible,\n\tHelm,\n\n**Cloud & Infrastructure:**\n\tDocker Compose,\n\tDatadog,\n\n**Other:**\n\tMLflow,\n\tAirflow,\n\tKubeflow,\n\tKeycloak (OIDC, RBAC),\n\tJWT,\n\tLet’s Encrypt,\n\tNginx,\n\tCertbot,\n\tKafka,\n\tRabbitMQ,\n\tCaching,\n\tRate limiting,\n\tPerformance analysis,\n\tObservability,\n\tIncremental rollouts,\n\tSecrets management"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Golang Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Golang Engineer with 13+ years of experience delivering high-performance applications across healthcare and financial industries. Proficient in **Go**, **AWS**, **Azure**, and **GCP**, with hands-on expertise in **Kubernetes**, **Terraform**, **Git**, and **Linux**. Well-versed in CI/CD practices, GitOps, and implementing infrastructure as code. Demonstrated strengths in problem-solving, collaboration, and effective communication in diverse team settings.\nSkilled in building AI/ML-powered platforms leveraging frameworks like JavaScript/TypeScript, Python, **Flutter**, **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experienced in deploying cloud-native systems, developing microservices, and applying event-driven architectures. Committed to security and compliance-driven development in alignment with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Solid foundation in MLOps, incorporating model training, serving, and orchestration with tools such as **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Go** for developing high-performance, scalable applications, contributing to enhanced system performance in the healthcare and fintech sectors.\nImplemented **AWS** and **Azure** solutions, ensuring smooth integration with existing infrastructures and adherence to security best practices.\nManaged container orchestration using **Kubernetes** for deploying microservices, ensuring seamless scaling and operation in production environments.\nDesigned and implemented **infrastructure as code** using **Terraform**, achieving 100% reproducibility and reducing deployment times by **30%**.\nDeveloped and maintained CI/CD pipelines leveraging **GitOps** principles to automate release processes, leading to an increase in deployment frequency by **40%**.\nEnforced security protocols throughout the development lifecycle, enhancing system resilience and data protection in compliance with industry standards.\nCollaborated with cross-functional teams leveraging **Linux** environments, ensuring effective communication and problem-solving during project execution.\nImplemented observability practices to monitor distributed systems, proactively identifying performance bottlenecks to improve user experience.\nConducted thorough testing strategies, incorporating unit and integration tests for new features using testing frameworks to achieve over **90%** code coverage.\nFostered a culture of collaboration, effectively communicating technical concepts to both technical and non-technical stakeholders, improving project transparency."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **Go** to modernize core financial platforms by migrating to microservices architecture, enhancing scalability and performance for high-volume transactional systems.\nUtilized **AWS**, **Azure**, and **GCP** to build interactive front-end applications, integrating essential features in environments orchestrated by **Kubernetes**.\nLeveraged **Terraform** to manage infrastructure as code, ensuring efficient deployment processes across multiple cloud platforms.\nDelivered real-time analytics dashboards incorporating security best practices, providing operations teams with instant insights into transactions.\nDesigned and deployed a robust event-driven architecture using **Kafka** and **RabbitMQ**, ensuring asynchronous communication across crucial workflows such as payments and compliance.\nDeveloped ETL pipelines for ingesting financial data using **Git** for version control and **Linux** for robust environment management, supporting both batch and real-time processing.\nImplemented **CI/CD** practices to streamline software delivery, and maintained observability across systems to monitor performance and reliability.\nCollaborated with teams to build and deploy machine learning models for fraud detection using Python and integrated with CI/CD, enabling proactive detection of suspicious activity based on user behavior.\nEnhanced team communication and problem-solving capabilities by adopting **GitOps** practices for continuous deployment and versioning of microservices."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and maintained scalable backend services for a global e-commerce platform using **Go** (Golang), implementing high-availability strategies on **AWS**, **Azure**, and **GCP**, ensuring performance efficiency across checkout, cart, and order fulfillment modules.\nLeveraged **Kubernetes** and **Terraform** for infrastructure as code, achieving continuous integration and deployment (CI/CD) to automate workflows, resulting in a **30%** reduction in deployment time.\nCollaborated with cross-functional teams to enhance observability and security protocols, applying **GitOps** principles for version control and streamlined deployments while ensuring GDPR compliance for user data protection.\nEngineered real-time features using **WebSockets** and event-driven architecture with Kafka, enabling dynamic order updates and supporting high-traffic spikes with **99.9%** uptime during peak seasons.\nApplied testing strategies to ensure robust application performance and integrated monitoring tools to improve observability metrics, which resulted in a **25%** decrease in incident response time.\nImplemented role-based access control (RBAC) and OAuth 2.0 frameworks, improving the security posture of the platform and refining customer and admin access management.\nFostered effective communication and collaboration within teams, resolving critical issues and enhancing problem-solving capabilities across the organization to improve overall project outcomes."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tGo, Python, JavaScript/TypeScript\n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:** \n\tReact, Vue, Angular\n\n **API Technologies:** \n\tOAuth2, JWT\n\n **Serverless and Cloud Functions:** \n\tAWS, Azure, GCP\n\n **Databases:** \n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:** \n\tDocker, Kubernetes, Git, GitOps, CI/CD, Linux, Terraform, Ansible, Helm, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:** \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob Storage, SQL Database)\n\n **Other:** \n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow, Nginx, Let’s Encrypt, Certbot, security, observability, testing, communication, collaboration, problem-solving ",
+  "apply_company": "Elastic"
+}

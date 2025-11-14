@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Accomplished Senior DevOps Engineer with 8 years of experience, specializing in cloud infrastructure and automation using **AWS**, **Terraform**, **Ansible**, **Docker**, and **Kubernetes**. Proven track record in deploying scalable solutions, ensuring high availability, and optimizing performance across distributed systems. My strong command of **network protocols** and proficiency in **bash**, **Python**, and **Ruby** enable me to collaborate effectively with development teams, streamlining CI/CD processes and enhancing incident response capabilities.\nAdditionally, I possess rich experience in implementing and managing observability tools such as **Prometheus**, **Grafana**, and **Elasticsearch**, ensuring robust monitoring and logging systems that align with compliance standards. Coupled with my solid background in full-stack development, including **React**, **Next.js**, and **Node.js**, I bring a unique perspective to infrastructure management and application delivery that drives organizational success.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implemented enterprise-level DevOps pipelines incorporating **Docker**, **Kubernetes**, **Terraform**, and **Ansible**, focusing on automation, continuous integration, and continuous deployment processes across development and production environments.\n- Utilized **AWS** services, including **Fargate**, for deploying and managing containerized applications, ensuring high availability and scalability in cloud environments.\n- Developed monitoring solutions using tools such as **Prometheus**, **Grafana**, and **Elasticsearch** to enhance observability and incident response capabilities, ensuring system reliability and performance across **100+** microservices.\n- Managed configurations and deployments effectively using **Chef** and **Terraform**, streamlining infrastructure provisioning and maintaining consistency across cloud resources.\n- Constructed data pipelines for log management and analytics using **Logstash** and **Kibana**, facilitating real-time insights into system performance and user behavior across various applications.\n- Collaborated with cross-functional teams to establish robust networking protocols and optimize performance, ensuring seamless communication among distributed systems and services.\n- Leveraged scripting in **bash** and **Python** to automate routine tasks, enhance system operations, and drive efficiency in server management and maintenance activities.\n- Designed and maintained scalable distributed databases, integrating **Redis** and **Cassandra** for fast data retrieval and processing to support large-scale application demands.\n- Spearheaded incident response initiatives, employing best practices in monitoring and alerting to mitigate downtime and improve service quality in production environments.\n- Established a strong culture of documentation and code review to maintain high standards of quality and operational integrity within DevOps practices.\n- Mentored junior engineers on best practices for **AWS** cloud architecture, container orchestration, and automation techniques, fostering skill development within the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Enhanced infrastructure and deployment processes by utilizing **AWS** services for scalable solutions, successfully managing over **1000+** deployments across various environments.\nImplemented Infrastructure as Code (IaC) using **Terraform** and **Ansible**, automating the setup of servers and services to reduce deployment times by **40%**.\nDesigned and deployed containerized applications using **Docker** and orchestration with **Kubernetes**, achieving greater operational efficiency and fault tolerance in production environments.\nManaged a continuous integration and continuous deployment (CI/CD) pipeline enhanced through tools like **GitLab CI**, resulting in improved code release frequency by **30%** across development teams.\nConfigured and maintained monitoring solutions using **Prometheus**, **Grafana**, and **Elasticsearch** to ensure system reliability and performance, reducing incident response time by **25%**.\nUtilized **Kafka** for real-time streaming data processing, establishing a robust message brokering system that improved data integration across services.\nStreamlined configuration management using **Chef** and ensured system stability, enabling teams to achieve higher compliance ratings through consistent environment setups.\nExecuted system architecture designs leveraging **Redis** and **Cassandra** for high-performance data storage solutions, providing capabilities for handling **up to 10 million** transactions per day.\nCollaborated with cross-functional teams to define network protocols and standards, enhancing incident response strategies and ensuring system integrity during failover scenarios."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Utilized **AWS** and **Terraform** to deploy, manage, and scale infrastructure efficiently, improving system reliability by **30%**.\n- Implemented **Docker** and **Kubernetes** for container orchestration, reducing deployment times by **50%** for microservices across cloud environments.\n- Developed configuration management solutions using **Chef** and **Ansible**, resulting in a **25%** decrease in configuration drift and enhanced system consistency.\n- Engineered monitoring and logging systems with **Prometheus**, **Grafana**, and **Elasticsearch**, achieving a **40%** reduction in incident response times through proactive alerts and enhanced visibility.\n- Designed event-driven architectures employing **Kafka** and **RabbitMQ** for real-time data processing, accelerating data throughput by **20%** for critical applications.\n- Managed distributed databases including **Redis** and **Cassandra**, ensuring high availability and fault tolerance for dynamic e-commerce workloads, supporting over **10,000** concurrent users.\n- Conducted incident response drills and optimized system reliability strategies based on best practices, upholding uptime requirements above **99.9%**.\n- Led implementation of **Fargate** for serverless container deployment, simplifying management and contributing to a **35%** reduction in operational overhead.\n- Scripted automation tasks using **bash** and **JSON** to streamline deployment processes and reduce manual intervention.\n- Employed network protocols to enhance security measures across the DevOps pipeline, ensuring compliance with industry standards."
+    }
+  ],
+  "skills": "**API Technologies**:\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Backend Frameworks**:\n\tPython (FastAPI, Flask, Django)\n\n**Cloud & Infrastructure**:\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Terraform, Ansible, Docker, Kubernetes, Fargate\n\n**Databases**:\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Cassandra, Elasticsearch\n\n**DevOps**:\n\tGitHub Actions, GitLab CI/CD, Linux (Unix), Docker Compose\n\n**Frontend Frameworks**:\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**Other**:\n\tMLflow, Airflow, Kubeflow, Prometheus, Sensu, Logstash, Kibana, Graphite, Grafana, Kafka, Pulsar, Bash, Ruby, HCL, JSON, Incident Response",
+  "apply_company": "TigerConnect"
+}

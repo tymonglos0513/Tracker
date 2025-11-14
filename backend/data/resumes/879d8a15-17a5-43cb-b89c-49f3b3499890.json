@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience in **full-stack development**, leveraging a strong proficiency in **React**, **TypeScript**, and **Python**. Demonstrated expertise in building high-performance applications across the healthcare and financial sectors. Proven track record in utilizing **MySQL**, **MyRocks**, **Memcached**, and **Redis** to optimize backend architecture. \nSkilled in developing scalable applications and implementing microservices with a focus on collaboration and mentoring team members to foster a high-performance culture. Adept in delivering AI/ML-powered solutions that involve predictive analytics and real-time processing. Experienced in deploying cloud-native applications on **AWS** and **Azure**, employing CI/CD practices, and integrating **GraphQL** for data management. Knowledgeable in compliance-driven development, ensuring alignment with standards such as HIPAA, FHIR, PCI DSS, and SOC 2.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed full-stack solutions using **React** and **TypeScript**, ensuring seamless integration and efficient data flow throughout applications for enhanced user experiences.\nLeveraged **Python** in backend development, implementing scalable APIs and optimizing existing systems while advocating best coding practices and performance tuning.\nUtilized **GraphQL** for managing data-fetching mechanisms, enabling clients to request precisely the data they need, improving bandwidth usage by up to **30%**.\nImplemented advanced caching solutions using **Redis** and **Memcached** to enhance application responsiveness, achieving a reduction in load times by **50%**.\nEngaged in collaboration initiatives, mentoring junior developers on best practices in **full-stack development**, and participating in code reviews to uphold quality standards across projects.\nContributed to the development of high-scale applications, utilizing **MySQL** with **MyRocks** storage engine to streamline data operations and enhance transaction performance.\nDesigned user-friendly interfaces and ensured cross-browser compatibility, directly improving user satisfaction metrics by **25%** based on feedback.\nEnhanced team collaboration through Agile methodologies, ensuring timely project deliveries while maintaining flexibility for iterative improvements.\nAssisted in the creation of comprehensive documentation and training materials, enhancing onboarding processes for new team members and improving knowledge sharing within the team.\nLeveraged collaborative tools to integrate feedback mechanisms, allowing for real-time adjustments to project scopes based on team and client inputs, resulting in overall project success."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **React (18)** and **TypeScript** to build scalable and responsive front-end applications for financial tools and admin panels, enhancing user experience through **Redux Toolkit** and **Tailwind CSS**.\nCollaborated with cross-functional teams to modernize core financial platforms by migrating to microservices architecture using **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, resulting in improved system scalability and performance for high-volume transactional systems.\nMentored junior developers on best practices in **full-stack development**, fostering collaboration and knowledge sharing within the team.\nDesigned robust data management solutions utilizing **MySQL**, **MyRocks**, **Memcached**, and **Redis**, ensuring efficient data retrieval and storage for transaction processing systems.\nDelivered real-time analytics dashboards with **D3.js** and **Power BI Embedded**, providing operations teams with immediate insights into transactions and anomalies, improving decision-making processes.\nBuilt and maintained ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing with **99.9% uptime**.\nDeveloped and deployed machine learning models for fraud detection utilizing **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activities with a **95% accuracy rate**.\nCreated machine learning pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging **MLflow** and **Airflow** to integrate model inference into backend services, thereby improving operational efficiency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed dynamic frontend applications using **React (18)** and **TypeScript**, driving innovative full-stack development solutions.\n• Optimized backend services leveraging **Python** and enhanced database performance with **MySQL** and **Memcached**, ensuring efficiency and scalability across critical systems.\n• Collaborated with cross-functional teams to implement **GraphQL** for optimized data retrieval, streamlining API interactions across the platform.\n• Mentored junior developers in best practices for coding and architecture, fostering a collaborative environment to promote knowledge sharing and skill progression.\n• Integrated **Redis** caching mechanisms to accelerate response times by up to **50%**, significantly enhancing user experience and reducing server load.\n• Utilized deployment strategies with **Kubernetes** and **LaunchDarkly** to enable A/B testing, allowing for controlled rollouts with minimal risk during updates.\n• Engineered responsive designs that comply with **WCAG 2.1**, ensuring accessibility and enhancing user engagement on all devices.\n• Implemented robust security protocols with **OAuth 2.0** for role-based access control, safeguarding user data and ensuring GDPR compliance across the application.\n"
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, TypeScript\n\n**Frontend Frameworks:**\n\tReact\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**API Technologies:**\n\tGraphQL\n\n**Databases:**\n\tPostgreSQL, MySQL, MyRocks, MongoDB, Redis, Memcached\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tfull-stack development, collaboration, mentoring, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot"
+}

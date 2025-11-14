@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Full Stack Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Full Stack Engineer with 10+ years of experience specializing in building high-performance applications using **C#**, **.NET**, **JavaScript**, **TypeScript**, **React**, **MySQL**, **PostgreSQL**, and cloud technologies **AWS**, **GCP**, and **Azure**. Demonstrated ability to develop robust solutions utilizing both relational and NoSQL databases, including **DynamoDB**. Experienced in applying Agile methodologies, test-driven development with **Gherkin** and **SpecFlow**, and infrastructure as code using **Terraform** to streamline development processes.\n\nSkilled in encompassing the full development lifecycle, with a strong background in creating secure and compliant applications adhering to standards such as HIPAA and PCI DSS. Adept at leading teams to deliver enterprise platforms that incorporate machine learning capabilities, ensuring systems not only meet technical specifications but also deliver impactful business outcomes. Passionate about coding best practices, continuous integration, and building systems that positively influence the industry.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable, full-stack solutions leveraging **C#**, **.NET**, and **JavaScript**, ensuring adherence to regulatory standards like HIPAA, FHIR, GDPR, PCI DSS, and SOX.\n• Built and deployed cross-platform mobile applications with **React**, ensuring smooth user experiences and state management across **iOS** and **Android** platforms.\n• Led the migration from monolithic architectures to microservices using **AWS** and **Azure**, enhancing system resilience and uptime to 99.9% availability.\n• Engineered robust data architectures utilizing **PostgreSQL** and **MySQL**, optimizing for data ingestion and querying processes for large-scale applications.\n• Designed and deployed machine learning applications targeting patient risk prediction and financial anomalies, incorporating libraries such as **TensorFlow** and **scikit-learn** for model training and inference.\n• Developed MLOps pipelines utilizing **Terraform** for infrastructure management and **Apache Airflow** for orchestration, achieving streamlined model deployment cycles and reducing time-to-market by 30%.\n• Integrated advanced search capabilities using **Azure Cognitive Search** and **ElasticSearch**, effectively processing millions of health and financial documents with improved query performance.\n• Implemented CI/CD pipelines with **GitHub Actions** and **Azure DevOps**, ensuring thorough testing and deployment across environments, achieving 100% automation in the release process.\n• Delivered immersive financial data visualization tools using **D3.js** and **Power BI**, enhancing decision-making processes through real-time analytics.\n• Collaborated with cross-functional teams following **Agile** methodologies to deliver responsive and user-centric designs, achieving sprint goals 20% faster.\n• Established automated testing strategies using **Jest**, **Cypress**, and **Postman**, ensuring comprehensive coverage and quality assurance across both frontend and backend systems."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **C#** and **.NET** to develop robust web applications, improving performance by **30%** and ensuring high availability across **100+** concurrent users.\nDesigned and managed databases with **MySQL**, **PostgreSQL**, and **DynamoDB**, ensuring data integrity and optimizing queries for quicker access, achieving load times reduced by **25%**.\nDeveloped interactive web applications using **JavaScript**, **TypeScript**, and **React (18)**, creating responsive user interfaces that enhanced user engagement by **40%** for client-facing platforms.\nImplemented unit and integration testing using **Gherkin** and **SpecFlow**, which improved code coverage to **85%** and reduced defects in production.\nDeployed solutions to **AWS** and **GCP** cloud services, leveraging **Terraform** for infrastructure as code, enabling automated deployments and scaling capabilities.\nAdopted Agile methodologies to boost team productivity by **20%**, facilitating better sprint planning and iteration reviews.\nCollaborated with cross-functional teams to create and refine user stories, ensuring alignment with business objectives and improving product delivery timelines by **15%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **C#** and **.NET** to design and optimize full-stack solutions, ensuring high performance, security, and scalability for a global e-commerce platform.\nEmployed **MySQL** and **PostgreSQL** for reliable and efficient database management, achieving up to **75%** faster query response times for critical modules including checkout and order management.\nDeveloped responsive frontend applications using **React** (version **18**), enriched with **TypeScript** for type safety and improved maintainability, creating seamless user experiences across both web and mobile interfaces.\nImplemented Agile methodologies for collaborative development and continuous improvement, facilitating quicker turnaround times and adaptable project management.\nLeveraged cloud services including **AWS**, **GCP**, and **Azure** for deploying scalable applications, effectively managing operational costs while providing robust infrastructure.\nIntegrated CI/CD pipelines using tools like **Terraform** to automate deployments across environments, significantly reducing deployment errors by **40%**.\nConducted behavior-driven development utilizing **Gherkin** and **SpecFlow**, improving stakeholder engagement and ensuring product features met business requirements with maximum clarity.\nIncorporated modern frontend frameworks and libraries, enhancing UX/UI design for SEO-friendly applications, leading to a traffic increase of **30%** post-launch.\nParticipated in code reviews and mentorship programs, fostering knowledge sharing that improved team efficiency by **25%** and helped onboard new developers effectively.\nRefined data access methods by utilizing **DynamoDB** for high traffic scenarios, reducing latency and ensuring fault-tolerant performance across user workflows."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, C#, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, .NET\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tGherkin, SpecFlow\n\n **Serverless and Cloud Functions:**\n\tAWS, GCP, Azure (App Services, Blob, SQL), Lambda\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, DynamoDB\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), Agile"
+}

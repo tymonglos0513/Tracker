@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior Machine Learning Engineer (Speech Synthesis)",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "As a Senior Machine Learning Engineer with a strong focus on machine learning and related technologies, I possess extensive experience in designing and implementing solutions specifically for speech synthesis and neural TTS. Over 8 years of proficiency in **Python** frameworks such as **PyTorch**, I excel in developing LLM-based approaches and multilingual modeling with a production mindset. My technical expertise includes utilizing **Docker**, **Kubernetes**, **Ray**, **Kubeflow**, **MLflow**, and **Weights & Biases** for efficient workflow management, analytics, and model deployment. I am adept at managing data streaming with **Kafka** and optimizing performance with **Redis** and databases like **PostgreSQL** and **Parquet**. Additionally, I have experience in microservices architecture and API development, enabling the delivery of high-performance systems tailored to business needs, while also showcasing strong team leadership skills.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Machine Learning Engineer (Speech Synthesis)",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "Implemented **machine learning** models for **speech synthesis** using **Python**, **PyTorch**, and **Kafka** to enhance the quality and scalability of neural Text-to-Speech (TTS) systems.\nDesigned and optimized multilingual modeling solutions, leveraging **LLM-based approaches** and integrating **Docker** for containerization and **Kubernetes** for orchestration in production environments, achieving a deployment efficiency improvement of **30%**.\nUtilized **Ray** and **Kubeflow** for distributed training of large-scale models, significantly reducing runtime by **40%** compared to traditional methods.\nDeveloped predictive capabilities using ONNX and **TensorRT** to expedite inference processes in real-time applications with a target latency of less than **100 ms**.\nManaged a team of 10+ engineers, fostering a culture of collaboration and innovation to deliver robust machine learning solutions with a strong **production mindset**.\nOptimized data preprocessing and feature extraction pipelines with **PostgreSQL**, using **Parquet** format to enhance loading times and processing efficiency by **25%**.\nIntegrated **Redis** for in-memory data caching, enabling faster data access patterns and improving system responsiveness by **50%**.\nContributed to the ML workflow lifecycle utilizing **MLflow** and **Weights & Biases** for tracking experiments, hyperparameter tuning, and model versioning, ensuring reproducible results across models.\nConducted regular code reviews and mentorship sessions to enhance team skills in **machine learning**, emphasizing best practices and modern **Python** programming techniques.\nCollaborated with cross-functional teams to define project requirements and objectives, delivering high-performance solutions that significantly improved user experience in speech synthesis applications.\nMaintained robust documentation of architecture, APIs, and workflows to facilitate knowledge sharing and ease of onboarding for new team members."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "- Spearheaded the implementation of **Python** and **PyTorch** for developing and deploying neural TTS models, enhancing multilingual modeling capabilities, and improving synthesis quality by **30%**.\n- Designed and utilized the **Kubeflow** framework for managing machine learning workflows, resulting in faster iteration cycles and streamlined model training processes that reduced deployment time by **40%**.\n- Led a team of engineers in deploying scalable machine learning models using **Docker** and **Kubernetes**, achieving a robust and scalable architecture for model serving with **99.9%** uptime.\n- Developed multilingual speech synthesis systems using advanced **LLM-based approaches** and **Ray** for distributed computing, effectively increasing processing efficiency for real-time applications.\n- Integrated **Weights & Biases** into the model training process for comprehensive tracking of experiments, allowing for a structured comparison of model performance metrics over **150+** iterations.\n- Implemented a robust data pipeline leveraging **Kafka** and **Redis** to handle high-throughput audio data, ensuring seamless integration with existing systems and achieving a **50%** reduction in latency for model inference.\n- Created training and evaluation scripts using **MLflow** to streamline the model lifecycle, improving team collaboration on machine learning projects and documentation.\n- Contributed to the enhancement of machine learning models through the use of **ONNX** and **TensorRT**, optimizing model size and inference speed for deployment on edge devices.\n- Focused on assembling a production-ready environment with strong emphasis on team leadership and fostering a production mindset, which enhanced the team's delivery efficiency by **20%**.\n- Conducted code reviews and mentorship in best practices for **Python** development, ensuring maintainable code and adherence to standards within the team.\n- Actively participated in the design and integration of machine learning solutions within existing applications, ensuring reliable performance across platforms."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "- Developed and optimized **machine learning** models for speech synthesis utilizing **Python** and **PyTorch**, resulting in a **20%** improvement in voice naturalness and clarity.\n- Designed and implemented **multilingual modeling** strategies, enabling support for **5** languages, enhancing accessibility and user engagement.\n- Integrated **neural TTS** systems within existing applications, leveraging **Kafka** for real-time data streaming and processing, which improved system responsiveness by **30%**.\n- Containerized **machine learning** applications using **Docker** and orchestrated with **Kubernetes**, streamlining deployment and scaling processes for production environments.\n- Utilized **Redis** for caching intermediate computation results in **machine learning** workflows, reducing model inference latency by **15%**.\n- Worked with **PostgreSQL** as the primary relational database for storing user interaction data, optimizing schema design to support rapid querying and improving data retrieval times.\n- Implemented metrics tracking using **MLflow** and **Weights & Biases** for model performance monitoring and experiment tracking, facilitating effective iteration and analysis of model versions.\n- Led a cross-functional team in the development and deployment of **LLM-based approaches**, achieving a **25%** increase in team productivity through clear communication and effective prioritization.\n- Conducted performance benchmarking on models using **ONNX** and **TensorRT**, optimizing inference speed and enabling **real-time applications** in speech synthesis.\n- Developed pipelines with **Ray** and **Kubeflow** for distributed training of large language models, ensuring high throughput and efficient resource utilization in cloud computing environments.\n- Spearheaded projects aimed at enhancing overall **production mindset** within the team, leading to a culture of continuous improvement and proactive problem-solving.\n- Collaborated with cross-disciplinary teams to ensure the successful integration of **machine learning** models into user-facing applications, focusing on seamless user experience and functionality."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot\n\n **Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n **API Technologies:**\n\tREST & gRPC APIs\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot\n\n **Other:**\n\tmachine learning, speech synthesis, neural TTS, multilingual modeling, LLM-based approaches, PyTorch, Ray, Kubeflow, MLflow, Weights & Biases, Kafka, Parquet, ONNX, TensorRT, team leadership, production mindset"
+}

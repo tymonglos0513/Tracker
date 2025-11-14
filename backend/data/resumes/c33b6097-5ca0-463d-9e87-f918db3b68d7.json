@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Full-Stack Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Full-Stack Engineer with over 10 years of experience in delivering high-performance B2B and SaaS software solutions. Expert in both frontend and backend technologies including **Python**, **TypeScript**, and **APIs**. Proven proficiency in modern frameworks such as **React**, **Next.js**, and **Node.js**, along with backend frameworks like **FastAPI** and **Django**. Adept at integrating cloud services on **Azure** and **AWS**, specializing in secure and compliant solutions that adhere to standards like HIPAA and PCI DSS.\nDemonstrated ability to lead the development of enterprise-level applications that incorporate integrations and advanced security measures. Strong focus on compliance and security, ensuring software meets necessary regulatory standards. Practical experience in building scalable systems with a solid understanding of microservices architecture and CI/CD automation, enhancing delivery speed and product quality. Passionate about leveraging technology to create impactful solutions, with hands-on expertise in MLOps using tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Full-Stack Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable full-stack solutions for enterprise-level healthcare and finance applications using **TypeScript** and **Python (FastAPI)**, ensuring security and compliance with regulations like HIPAA and GDPR.\n• Developed robust frontend applications with frameworks such as **React (17–18)** and **Next.js**, creating seamless user experiences for B2B and SaaS products.\n• Launched and maintained API integrations, ensuring high performance and security standards are met, tailored for both backend and frontend components.\n• Spearheaded re-architecture initiatives to transition monolithic applications into microservices, utilizing **Docker** and **Kubernetes (AKS/EKS)** for enhanced scalability and reliability.\n• Designed cloud-native data architectures with databases like **PostgreSQL** and **MongoDB**, managing and querying large datasets effectively for financial and healthcare applications.\n• Implemented and evaluated machine learning models for critical use cases, employing **scikit-learn** and **PyTorch**, to optimize business processes in patient risk assessment and fraud detection.\n• Established MLOps pipelines using **MLflow** and **Apache Airflow** for continuous integration and deployment (CI/CD) of machine learning models, ensuring version control and consistent performance in production.\n• Integrated AI-driven features into applications, providing personalized recommendations and insights powered by Azure ML and AWS Sagemaker.\n• Developed enterprise DevOps pipelines employing **GitHub Actions** and **Azure DevOps**, resulting in a streamlined development lifecycle through automated testing and multi-environment deployments with comprehensive security checks.\n• Created complex financial data visualization tools using **D3.js**, delivering real-time insights into transaction trends and operational KPIs to enhance decision-making processes.\n• Collaborated with data scientists in the implementation of NLP models for document parsing, integrating these capabilities into core services via RESTful APIs.\n• Established comprehensive test strategies utilizing **Jest** and **Cypress**, ensuring code quality across unit, integration, and end-to-end testing for both front-end and backend services.\n• Integrated **Azure Cognitive Search** and **ElasticSearch** to support advanced search functionalities across extensive health records and financial documents."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Developed and modernized financial platforms by leveraging **Python** (FastAPI, Django) and **TypeScript** in both **frontend** and **backend** development, enhancing scalability and maintainability for systems handling over **1M transactions daily**.\n• Designed and implemented secure and compliant **APIs** utilizing cutting-edge frameworks such as **Node.js** (NestJS/Express), ensuring seamless **integrations** with various **B2B** and **SaaS** solutions while adhering to industry regulations.\n• Crafted dynamic user-focused **frontend** applications with **React** (18), **Vue 3**, and **Next.js**, applying **Redux Toolkit** and **Tailwind CSS** to create responsive interfaces that improved user engagement by **30%**.\n• Integrated systems with event-driven architectures using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, enhancing real-time processing of transactions, alerts, and compliance workflows with an average response time improvement of **40%**.\n• Engineered and orchestrated **ETL** pipelines employing **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting batch and real-time data ingestion from numerous sources, increasing data processing efficiency by **25%**.\n• Developed AI/ML-based fraud detection solutions utilizing **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing transaction patterns to preemptively flag suspicious activities, effectively reducing fraud rates by **20%**.\n• Established robust ML pipelines for credit scoring, churn prediction, and transaction classification leveraging **MLflow** and **Airflow**, enabling real-time model inference directly integrated into backend services.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized **backend** services utilizing **Python** (FastAPI, Django) and **Node.js** (NestJS, Express), achieving **99.9%** uptime and low latency across critical components like checkout and order fulfillment.\n• Crafted **API** integrations for real-time functionalities using WebSockets powered by **Kafka** and **RabbitMQ**, facilitating dynamic updates and responsive customer interactions.\n• Built **frontend** applications with **React (18)**, **Vue 3**, and **Angular**, employing **TypeScript**, enhancing performance and responsiveness for **over 500K** users across web and mobile.\n• Executed data management with **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra**, ensuring data access efficiency and scalability for high-traffic e-commerce processes with **5ms** average response time.\n• Implemented AI/ML recommendation systems using **scikit-learn**, **LightGBM**, and **TensorFlow**, resulting in a **20%** increase in conversion rates through personalized user experiences.\n• Administered **Redis** caching to optimize application speed for product metadata and shopping cart sessions, leading to an improved load time of **30%**.\n• Deployed feature flags and blue-green deployments with **LaunchDarkly** and **Kubernetes**, ensuring smooth transitions and A/B testing capabilities during major updates.\n• Designed responsive, SEO-friendly e-commerce interfaces with **Next.js**, **Vue 3 + Nuxt**, and HTML5/CSS3, ensuring compliance with accessibility standards (WCAG 2.1) and a **30%** uplift in mobile user engagement.\n• Established secure payment processing workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, adhering to PCI compliance and implementing tokenized transactions.\n• Ensured data security through role-based access control (RBAC) and **OAuth 2.0**, maintaining GDPR compliance and safeguarding user information throughout the platform."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, TypeScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks**\n\tReact, Vue, Angular\n\n**API Technologies**\n\tAPIs, Integrations\n\n**Serverless and Cloud Functions**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Other**\n\tArtificial Intelligence & Machine Learning (MLflow, Airflow, Kubeflow), Security (Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), Compliance, Enterprise, B2B, SaaS, Temporal",
+  "apply_company": "Ben"
+}

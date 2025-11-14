@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Python Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Python Engineer with over 10 years of experience in developing scalable backend systems, leveraging expertise in **Python** and frameworks like **FastAPI**, and designing RESTful and gRPC APIs with **OpenAPI** specifications. Proficient in containerization and orchestration using **Docker** and **Kubernetes**, and adept at implementing microservices architectures. Extensive experience with cloud computing platforms, specifically **AWS** (services such as **S3**, **EC2**, **Lambda**, and **API Gateway**) and infrastructure as code using **Terraform** and **CDK**. Skilled in CI/CD practices with tools like **GitHub Actions** and **AWS CodePipeline**, and well-versed in testing, code reviews, and design patterns to ensure high-quality deliverables. Proven ability to contribute to high-impact projects at leading organizations, including VISA, Sii Poland, and Reply Polska, with a strong emphasis on collaboration and communication.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to design and implement backend services, improving document automation workflows by **30%**.\nEngineered **REST**ful APIs and **gRPC** interfaces for efficient communication between microservices, achieving response time reductions of **20%**.\nManaged containerization and orchestration using **Docker** and **Kubernetes**, leading to increased deployment efficiency and application reliability.\nImplemented CI/CD pipelines with **GitHub Actions** and **AWS CodePipeline**, reducing deployment times by **15%** and enhancing code quality through rigorous **Code Reviews**.\nDeveloped and maintained microservice architectures under **AWS** using **EC2**, **S3**, and **Lambda**, ensuring scalability and high availability under variable loads.\nCreated event-driven solutions with **Celery** and **Redis**, effectively handling asynchronous tasks involved in financial transactions, leading to a **25%** improvement in processing speed.\nLeveraged **Terraform** for Infrastructure as Code, optimizing deployment processes on **Azure App Services**, and conducting regular infrastructure audits to ensure compliance with regulatory standards.\nDesigned and implemented data pipelines with **Apache Airflow** and **Azure Functions**, ensuring timely regulatory data exchange and minimizing errors while maintaining accuracy in data handling.\nLed security enhancements by integrating **OAuth2** and **Azure AD B2C**, ensuring user authentication is both secure and user-friendly.\nFostered collaboration among cross-functional teams to navigate system integration challenges and develop a cohesive release strategy."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Developed backend systems utilizing **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and enhance complex reporting processes, managing over **500** transactions daily.\nImplemented **REST** API architecture and designed **gRPC** interfaces to facilitate efficient data communication, achieving a **30%** reduction in response time.\nCreated event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests, resulting in improved processing speed by **40%**.\nManaged the deployment of microservices on **Azure App Services**, utilizing **Terraform** for infrastructure automation, ensuring consistent and scalable environments across **5** applications.\nEngineered robust data pipelines for secure regulatory data exchange, leveraging **Apache Airflow** and **Azure Functions** to automate and streamline the data flow across **3** major systems.\nConducted comprehensive security audits to ensure compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for managing authentication and securing access controls.\nCollaborated with cross-functional teams to guarantee seamless system integration, maintain regulatory compliance, and ensure successful release management for over **20** projects.\nDemonstrated strong communication and design pattern implementation skills, contributing to effective **code reviews** and **testing** processes."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "- Developed robust microservices using **Python**, emphasizing scalable architecture and optimized performance for mission-critical applications.\n- Leveraged **FastAPI** for building high-speed RESTful APIs, delivering responses in less than **100ms** for primary user interactions.\n- Implemented **Docker** and **Kubernetes** for container orchestration, resulting in consistent deployments and improved resource utilization by **30%**.\n- Engineered data processing pipelines incorporating **gRPC** and **OpenAPI** specifications for reliable cross-service communication.\n- Utilized **AWS** services including **S3**, **EC2**, and **Lambda** to enhance cloud capabilities, achieving a **40%** reduction in operational costs.\n- Integrated **GitHub Actions** and **AWS CodePipeline** for streamlined CI/CD processes, reducing deployment time from **2 hours** to under **30 minutes**.\n- Conducted rigorous code reviews emphasizing design patterns and best practices, fostering a culture of continuous improvement and shared knowledge.\n- Developed test cases and frameworks using **pytest**, ensuring code reliability and robustness while decreasing bug rates by **25%** during production releases.\n- Collaborated with cross-functional teams, enhancing communication and improving project delivery timelines by **15%**."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST, gRPC, OpenAPI, API Gateway\n\n**Serverless and Cloud Functions**\n\tAWS (Lambda, S3, EC2), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, AWS CodePipeline, Terraform, CDK, CI/CD\n\n**Cloud & Infrastructure**\n\tAWS, Azure\n\n**Other**\n\tMicroservices, Kafka, Design Patterns, Code Reviews, Testing, Communication, AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow",
+  "apply_company": "Grupo Digital"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "DevOps Engineer with 13+ years of experience in delivering high-performance applications within the healthcare and financial sectors. Proficient in deploying cloud infrastructure using **AWS**, **Kubernetes**, **Docker**, and **Terraform** to build scalable, resilient systems. Experienced in implementing **CI/CD** pipelines and utilizing monitoring tools such as **DataDog**, **Grafana**, and **Prometheus** to ensure system reliability.\nSkilled in scripting with **Bash** and proficient in database management with **PostgreSQL**. Strong capabilities in automation with **Ansible** and data streaming using **Kafka**. Additionally, a strong full-stack background with hands-on expertise in **Python** and various frameworks, including React, Next.js, Vue, Node.js, FastAPI, and Django. Proven track record in developing AI/ML-powered solutions, complying with industry standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and managed **CI/CD** pipelines using **GitHub Actions** and **CircleCI**, ensuring smooth deployments and high availability across diverse environments.\nAutomated infrastructure provisioning with **Docker**, **Kubernetes** (version **1.21**), and **Terraform**, achieving a reduction in deployment times by **30%**.\nMonitored and optimized application performance using tools like **DataDog**, **Grafana**, and **Prometheus**, facilitating a **20%** improvement in incident response time.\nDeveloped robust automation scripts using **Bash** and **Python** to streamline operational tasks, thereby reducing manual efforts by **25%**.\nUtilized **PostgreSQL** and **Kafka** for efficient data management and processing, designed to support scalability and high-throughput requirements for production applications.\nCollaborated in cross-functional teams to ensure best practices are followed in the deployment of applications within **AWS** environments, focusing on security and compliance.\nExecuted troubleshooting and root cause analysis of deployment failures and incidents, maintaining a **99.9%** uptime across systems.\nEngaged in continuous improvement initiatives, applying feedback to enhance deployment processes and build efficiencies within the team.\nMaintained comprehensive documentation of existing infrastructure and deployment processes, ensuring that team members have access to critical operational knowledge.\nPromoted a culture of collaboration by leveraging version control through **Git**, enabling efficient code reviews and feature integrations."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines and infrastructure as code using **Terraform**, **Docker**, and **Kubernetes** to streamline deployment of financial applications, enabling 95% faster release cycles.\nManaged cloud infrastructure on **AWS**, utilizing services like EC2 and RDS to ensure 99.9% uptime for critical applications, while optimizing resource allocation and cost management.\nMonitored and optimized application performance using **DataDog**, **Grafana**, and **Prometheus**, achieving a 30% reduction in response times through proactive monitoring and alerting strategies.\nAutomated server configurations and deployments with **Ansible** and Bash scripting, reducing manual intervention by 80% and increasing system reliability across environments.\nMaintained and optimized a PostgreSQL database, handling over **2 million** transactions per day, ensuring data integrity and performance tuning.\nConfigured and managed messaging queues with **Kafka** to support asynchronous processing, improving transaction throughput by 50% in high-demand scenarios.\nCollaborated with development teams to create efficient containerized applications using **Docker**, enhancing scalability and reliability across multiple environments. \nLead efforts in implementing security best practices across **Kubernetes** clusters and **AWS** resources to ensure compliance and safeguard sensitive financial data."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines using **Git**, **Docker**, and **Kubernetes** to automate deployment processes, enhancing delivery speed by **30%** for production-ready applications.\nDesigned and managed scalable infrastructure on **AWS** with tools such as **Terraform**, leading to a **25%** cost reduction in cloud resource usage.\nUtilized **Grafana** and **Prometheus** for performance monitoring and alerting throughout the deployment lifecycle, improving system reliability with a **99.9%** uptime.\nAutomated server provisioning and configuration management using **Ansible** and **Bash**, reducing setup time by **40%** for new environments.\nDeployed containerized applications using **Docker**, streamlining the transition from development to production and enhancing overall application portability.\nConfigured and maintained logging and monitoring solutions with **DataDog** to ensure high visibility across systems and applications, leading to faster issue resolution times.\nManaged data storage solutions and database management systems using **PostgreSQL**, enabling efficient data handling and access across distributed applications.\nLeveraged **Kafka** for managing real-time data pipelines, ensuring reliable message delivery and enabling event-driven architectures for dev/testing environments.\nSupported application performance improvements through effective load balancing and RESTful service management across deployed instances in the cloud.\nCollaborated across multi-functional teams to enforce best practices for DevOps culture and established governance in toolkit adoption and configuration management."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, Bash\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, S3\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, Git, GitHub Actions, GitLab CI/CD, DataDog, Grafana, Prometheus, Ansible, Terraform, CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "Product Pulse"
+}

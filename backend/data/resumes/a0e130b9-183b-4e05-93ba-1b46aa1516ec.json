@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior ML Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior ML Engineer with 13+ years of experience specializing in **Python**, **ML**, **NLP**, and **Generative AI** technologies. Proven expertise in building scalable systems utilizing **AWS**, **GCP**, and **Azure** for cloud-native deployments, as well as containerization using **Docker** and orchestration with **Kubernetes**. Skilled in creating embedding pipelines and using vector databases to enhance AI-driven solutions.\nDemonstrated ability to implement **Terraform** and **CDK** for infrastructure as code and proficient in leveraging **Elastic Stack** for data analysis and visualization.\nExperienced in delivering high-performance applications in compliance-driven environments, with a strong focus on security and collaboration. Adept at using state-of-the-art frameworks and tools such as **FastAPI**, **Django**, and ML frameworks that drive predictive analytics and automate workflows. Strong background in MLOps, including model training and orchestration with **MLflow** and **Airflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Leveraged **Python** to develop and fine-tune machine learning models for risk assessment, fraud detection, and document classification, ensuring high accuracy and reliability.\n- Collaborated on projects incorporating **NLP** techniques using **spaCy** and **Hugging Face Transformers** for advanced document parsing and anomaly detection.\n- Designed scalable, containerized applications using **Docker** and orchestrated deployments with **Kubernetes** for efficient resource management in cloud environments such as **AWS** and **Azure**.\n- Implemented and maintained data pipelines utilizing **SQL** databases and **vector databases** for effective data processing and storage, maximizing data retrieval performance.\n- Integrated cloud services with **Terraform** and **CDK** for infrastructure as code, automating deployments in **GCP** and **Azure** environments to ensure efficient and reproducible infrastructure management.\n- Utilized **Elastic Stack** for powerful data analytics capabilities, enabling real-time monitoring and insights from financial and health-related data.\n- Developed and deployed secure applications, adhering to best practices in **security** to protect sensitive user data and ensure compliance with regulations.\n- Championed collaborative project development, ensuring cross-functional teamwork between data scientists and engineers to drive solutions leveraging **ML** and **GenAI**.\n- Pioneered the implementation of **embedding pipelines** and **RAG-based AI** to enhance AI-driven user experiences, focusing on personalized use cases in health and finance.\n- Supported model validation and performance tracking using tools like **MLflow** to maintain rigorous standards throughout the development lifecycle.\n- Created CI/CD workflows with a focus on test automation using tools like **GitHub Actions** and **CircleCI**, enforcing quality standards for all deployments.\n- Enabled advanced data visualization with tools like **D3.js** and **Power BI Embedded** to present insightful analyses and drive business decisions effectively."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Enhanced machine learning (ML) capabilities by implementing scalable solutions using **Python** and real-time analytics tools, applying **scikit-learn** and **XGBoost** for fraud detection systems in a high-volume environment.\n• Developed and optimized **ETL pipelines** with **Apache Airflow** and **Azure Data Factory**, processing data from diverse sources and supporting batch and real-time analytics with a monthly data ingestion of over **5TB**.\n• Designed and deployed ML models for credit scoring and churn prediction, utilizing **MLflow** for versioning and model management, successfully improving prediction accuracy by **15%**.\n• Architected and implemented cloud solutions using **Azure** and **Docker**, integrating container orchestration frameworks such as **Kubernetes** for efficient deployment across environments, which reduced deployment times by **30%**.\n• Collaborated on developing financial applications using **React (18)** and **Next.js**, achieving performance enhancements that provided a **40%** increase in user engagement based on session time metrics.\n• Leveraged **AWS** and **GCP** for machine learning model deployment and data storage solutions, ensuring high availability and fault tolerance across multiple regions.\n• Integrated natural language processing (NLP) features for improved user interaction in financial applications, providing insights and automating key processes with enhanced security measures.\n• Engaged in security collaborations to implement best practices across all pipelines and applications, ensuring compliance with financial regulations and safeguarding user data."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **machine learning** techniques to develop and optimize algorithms for recommendation systems, improving customer engagement and conversion rates by **25%** through personalized product suggestions.\nCollaborated with cross-functional teams to implement **NLP** techniques for enhanced user interaction, successfully reducing drop-off rates in the user journey by **15%**.\nDesigned and deployed scalable solutions on **AWS** and **GCP**, leveraging **Docker** and **Kubernetes** for container orchestration, ensuring seamless application deployment and management.\nImplemented **ML** models using **scikit-learn** and **TensorFlow**, achieving an accuracy rate of over **90%** in predictive analytics for customer behavior.\nDeveloped and maintained data pipelines with **SQL** and **vector databases**, ensuring efficient handling of large datasets and real-time analytics to support ongoing business objectives.\nCreated infrastructure as code (IaC) using **Terraform** and **CDK**, facilitating quick deployments and scalable architecture across cloud environments.\nIntroduced security measures including tokenization and **OAuth 2.0** for secure access management, maintaining strict compliance with **GDPR** while protecting sensitive user data.\nFostered collaboration across teams to align on project objectives and integrated AI enhancements, enhancing average response time for customer service queries by **30%** through real-time processing.\nOptimized embedding pipelines for efficient model training, ensuring a seamless workflow for deploying generative AI features with ongoing improvements to performance metrics and scalability."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, ML, NLP, GenAI, LLM\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tOAuth2, JWT, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database, GCP\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL, vector databases\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure, GCP, CDK, Elastic Stack\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, embedding pipelines, RAG-based AI, security, collaboration",
+  "apply_company": "sevdesk"
+}

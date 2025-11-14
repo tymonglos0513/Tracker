@@ -1,0 +1,55 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Web Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Dynamic Senior Web Engineer with 9+ years of experience specializing in application development and implementing robust web solutions. Proficient in **Playwright**, **Selenium**, **TypeScript**, **Python**, **React**, **Django**, **SQL Alchemy**, **PostgreSQL**, **Redis**, **Celery**, and leveraging **RabbitMQ** for efficient messaging. Experienced in CI/CD practices using **GitHub Actions** and container orchestration with **k8s**. Strong background in cloud services, including **Azure**, **Heroku**, and **GCP**. Demonstrated ability to collaborate effectively in Agile environments, leading teams to deliver high-quality projects on time while optimizing development processes and application performance.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Web Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Utilized **Playwright** and **Selenium** for automated testing of web applications, ensuring a 99% bug-free release cycle.\nDeveloped and maintained applications using **React** and **TypeScript**, enhancing performance and scalability of features by 30%.\nImplemented and utilized **Celery** for asynchronous task management in conjunction with **RabbitMQ**, improving task completion rates by 25%.\nDesigned database schemas and managed interactions with **PostgreSQL** and **SQL Alchemy**, optimizing data retrieval processes and reducing latency by 15%.\nLeveraged **Redis** for caching strategies, cutting down data retrieval time and improving overall application responsiveness.\nCollaborated with cross-functional teams in an **Agile** environment to align project goals and deliver updates every 2 weeks.\nUtilized **GitHub Actions** for CI/CD processes, streamlining deployments and reducing manual errors in the deployment pipeline by 30%.\nDeployed applications on **Azure** and **Heroku**, utilizing **k8s** for orchestration and **Terraform** for infrastructure management, improving deployment efficiency.\nSuccessfully executed and managed scalable solutions using **Helm** for easier Kubernetes package management.\nEnhanced application security with integrated JWT for authentication and authorization, ensuring compliance with top security standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Utilized **Playwright** and **Selenium** for automating testing processes, ensuring a 30% reduction in overall testing time.\nImplemented test scripts using **TypeScript** and **Python** to enhance test coverage for the development team, achieving a 95% successful test pass rate.\nDesigned and developed user interfaces with **React** and **Tailwind CSS**, resulting in a 25% increase in user engagement across the platform.\nArchitected microservices with **RabbitMQ** and **Celery** for task orchestration and distributed task management, improving system performance by 30%.\nIntegrated **Django** with **SQL Alchemy** for backend services and data persistence, facilitating seamless communication with a **PostgreSQL** database.\nLeveraged **Redis** as a caching strategy to minimize latency in APIs, yielding a 25% performance improvement in user transactions.\nEstablished CI/CD workflows using **GitHub Actions**, leading to a 30% decrease in deployment errors and ensuring a smooth rollout of application updates.\nImplemented container orchestration with **k8s** (Kubernetes) and infrastructure as code using **Terraform** and **Helm**, increasing the reliability of application deployments.\nDeployed applications on cloud platforms such as **Azure**, **Heroku**, and **GCP**, scaling services to meet a 200% increase in user demand.\nCollaborated using Agile methodologies to define project requirements, ensuring timely deliveries and stakeholder satisfaction.\nMentored junior developers through code reviews, facilitating professional growth and enhancing team overall productivity."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "• Developed automated testing frameworks using **Selenium** and **Playwright** to enhance software quality and reliability, achieving test coverage of **95%**.\n• Utilized **TypeScript** and **React** for building dynamic user interfaces, resulting in a **30%** reduction in frontend loading times.\n• Implemented asynchronous task management with **Celery** and **RabbitMQ**, improving system responsiveness and efficiency during peak hours.\n• Enhanced backend performance by optimizing queries using **PostgreSQL** and **SQL Alchemy**, achieving a **40%** improvement in data retrieval speed.\n• Leveraged **Django** for robust server-side logic, optimizing channel management for app scalability.\n• Utilized cloud services such as **Azure** and **GCP** to deploy applications, ensuring high availability and reliability with **99.9%** uptime.\n• Collaborated on container orchestration using **k8s**, enhancing deployment consistency and scalability across environments.\n• Established CI/CD pipelines with **GitHub Actions** and **Terraform**, streamlining release processes and reducing deployment time by **50%**.\n• Participated in Agile methodologies, contributing to sprint planning and iteration retrospectives to align team objectives.\n• Conducted thorough code reviews and provided mentorship to junior developers, fostering knowledge sharing and skill development within the team."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t TypeScript, Python\n\n**Frontend Frameworks**\n\t React, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n**Backend Frameworks**\n\t Django, NodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices, Celery, SQL Alchemy\n\n**API Technologies**\n\t RESTful API, GraphQL, RabbitMQ\n\n**Messaging & Caching**\n\t Apache Kafka, RabbitMQ, Redis\n\n**Databases**\n\t PostgreSQL, MSSQL Server, MySQL, MongoDB, DynamoDB, CosmosDB\n\n**Cloud & Infrastructure**\n\t AWS, Azure, Heroku, GCP, k8s, Terraform, Helm\n\n**DevOps**\n\t CI/CD pipelines, GitHub Actions\n\n**Other**\n\t Agile, UX/UI Design, Git, GitHub, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Blockchain: Solidity, Ether.js, Web3.js, Ethereum",
+  "apply_company": "Sphera"
+}

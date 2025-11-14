@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Backend Engineer with 13+ years of experience specializing in **Python** development, building robust **microservices** and scalable **APIs** that enhance application performance. Proficient in **containerization** technologies, ensuring seamless deployment and orchestration. Skilled in **asynchronous** programming and **concurrency** concepts aimed at optimizing application efficiency. Adept in **debugging**, **profiling**, and ensuring **observability** in complex systems, and experienced with **streaming** technologies to support real-time data processing.\n\nStrong background in developing AI/ML-driven applications, leveraging tools for advanced analytics and automation. Well-versed in cloud deployment on **AWS** and **Azure**, with a focus on compliance-driven development that meets standards like HIPAA, FHIR, PCI DSS, and SOC 2. A proven track record in applying **MLOps** principles to improve model training and orchestration using **MLflow**, **Airflow**, and **Kubeflow**. Committed to delivering high-performance solutions across the healthcare and financial sectors.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Focused on developing and maintaining high-performance **APIs** and microservices architectures using **Python** (FastAPI), ensuring optimal **concurrency** and **asynchronous** processing in backend systems.\nImplemented **containerization** strategies with **Docker** for scalable application deployments, contributing to more efficient debugging and profiling of live systems.\nLed the creation and management of CI/CD pipelines utilizing **GitHub Actions** and **Azure DevOps**, incorporating observability tools to monitor system health and performance.\nDesigned RESTful services integrated with various third-party APIs, enhancing system capabilities and interoperability across healthcare and fintech sectors.\nParticipated in code reviews and debugging sessions to ensure robust, clean code and adherence to best practices in software development, contributing to effective error handling and observability in back-end processes.\nContributed to the transition of legacy systems into **microservices**, focusing on performance improvements and streamlined resource management for high-load scenarios.\nUtilized advanced profiling tools and techniques to identify and eliminate bottlenecks in application performance, optimizing resource utilization by up to **30%**.\nLeveraged **streaming** technologies to implement real-time data processing capabilities, enhancing system responsiveness for end-users.\nEngaged in collaborative efforts with ML teams to integrate Large Language Models (**LLM**) for enhanced text processing and analysis within backend services.\nCollaborated closely with cross-functional teams to gather requirements and deliver high-quality backend solutions meeting business needs in a timely manner, with a proven track record of successfully delivering **8+** major projects within stipulated timelines."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and extensive **Microservices** architecture to modernize core financial platforms, enhancing scalability and performance for **high-volume transactional systems**.\nImplemented **APIs** for robust service interactions, ensuring smooth asynchronous processes, concurrency, and effective debugging across financial applications.\nOptimized systems through profiling and observability techniques, achieving performance improvements of up to **40%** in data processing times.\nMigrated existing services using containerization strategies and technologies, improving deployment efficiency and artifact management, achieving a container startup time of less than **1 second**.\nDeveloped asynchronous communication methods, utilizing technologies such as **Kafka** and **RabbitMQ**, to streamline critical workflows involved in payments and alerts, processing over **1 million** transactions daily.\nEngaged in machine learning model development for fraud detection, using tools like **scikit-learn** and **XGBoost**, which reduced false positive rates by **25%** through advanced pattern recognition.\nCollaborated with front-end teams to support the seamless integration of backend systems with frameworks such as **React** and **Vue**, ensuring a cohesive and responsive user experience for financial tools.\nConducted real-time data ingestion and ETL processes with **Apache Airflow** and **Azure Data Factory**, capable of processing both batch and real-time data streams, handling up to **500,000** records per hour."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** to design and develop **microservices** that power APIs for a global e-commerce platform, ensuring low latency and high scalability in critical areas like checkout and order fulfillment.\nImplemented **containerization** strategies to streamline application deployment and orchestration, enhancing the scalability and reliability of backend services.\nOptimized asynchronous processes and **concurrent** operations using advanced debugging and profiling techniques, resulting in performance improvements of over **30%** in response times.\nEnhanced **observability** of services through the integration of monitoring tools, allowing for proactive identification and resolution of issues, reduced downtime by **15%**.\nDeveloped real-time data processing features utilizing **streaming** technologies such as Kafka and RabbitMQ, supporting dynamic inventory updates and responsive customer interactions.\nEngineered and deployed automated CI/CD pipelines, leveraging **microservices** architecture to facilitate efficient management and deployment of various backend components.\nEnsured compliance with data protection regulations (GDPR) by implementing **role-based access control (RBAC)** and secure authentication protocols like **OAuth 2.0** across all backend services.\nImproved throughput by integrating observability tools, reducing erroneous transaction rates by **20%** through effective logging and monitoring of application metrics.\nLeveraged **asynchronous** programming patterns to enhance API responsiveness, achieving an application throughput of **500+ requests per second** under load tests."
+    }
+  ],
+  "skills": "  **Programming Languages:**\n\tPython\n\n  **Backend Frameworks:**\n\tFastAPI, Flask, Django, Microservices\n\n  **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n  **API Technologies:**\n\tAPIs\n\n  **Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n  **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n  **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD & Infrastructure as Code: Terraform, Ansible, Helm, Docker Compose\n\n  **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3; Azure: App Services, Blob Storage, SQL Database\n\n  **Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow; Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT; Nginx, Let’s Encrypt, Certbot; Asynchronous, Concurrency, Debugging, Profiling, Observability, Streaming, LLM",
+  "apply_company": "HAMS.AI | همس"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior AI Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior AI Engineer with 8 years of experience, I excel in AI and ML, focusing on advanced technologies such as **PyTorch**, **scikit-learn**, and **Hugging Face**. My strong background in MLOps enables me to effectively manage model lifecycles and develop robust data pipelines, ensuring seamless integration into clinical decision support systems. I have hands-on experience utilizing **Azure** services, including **Azure ML** and **Azure OpenAI**, to build innovative AI solutions while adhering to healthcare standards like HIPAA and PHI handling.\n\nIn addition to my technical skills, I have a proven track record in implementing CI/CD practices for deploying AI applications, coupled with an acute attention to detail and effective risk management strategies. My adaptability and strong communication skills have been key in delivering high-performance solutions in both the healthcare and financial sectors, ensuring alignment with compliance standards and fostering collaboration in multi-disciplinary teams.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and deployed scalable AI-driven applications leveraging **ML frameworks** such as **scikit-learn**, **PyTorch**, and **Hugging Face** for predictive analytics and document classification.\n- Built and maintained automated **CI/CD** pipelines utilizing **Azure DevOps** and **GitHub Actions** to ensure quick and secure deployments of AI models and services.\n- Integrated natural language processing (NLP) capabilities for healthcare and financial data analysis using **spaCy** and **Hugging Face Transformers**, enhancing clinical decision support and anomaly detection.\n- Designed robust **data pipelines** for training and deployment of machine learning models in **MLOps** environments using **MLflow** and **Apache Airflow**, streamlining model lifecycle management.\n- Collaborated with cross-functional teams to adapt AI models to meet regulatory compliance with healthcare standards such as HIPAA and risk management protocols.\n- Demonstrated strong communication skills by articulating technical concepts to non-technical stakeholders, ensuring clarity around project goals and methodologies.\n- Maintained attention to detail throughout the model development and deployment process, ensuring adherence to best practices in AI and **data governance**.\n- Showcased adaptability by quickly learning new tools and technologies in the evolving field of AI, particularly in utilizing **Azure ML** and **Azure OpenAI** for advanced model training.\n- Achieved improved accuracy rates of **30%** in patient risk predictions and enhanced fraud detection capabilities in financial services through AI model optimization and rigorous testing.\n- Implemented responsive AI features in client-facing applications, increasing user engagement and satisfaction by providing personalized recommendations and real-time insights.\n- Developed clinical decision support tools embedded with machine learning capabilities, monitoring compliance with **PHI handling** regulations and promoting user trust in AI applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Developed AI/ML-powered fraud detection systems utilizing **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing transaction patterns to proactively identify suspicious activities in banking systems.\n- Established MLOps practices and implemented model lifecycle management ensuring efficient deployment and monitoring of AI models in production environments, greatly enhancing **risk management** processes.\n- Designed and built robust data pipelines using **Apache Airflow** and **Azure Data Factory** for real-time and batch ingestion of financial data, ensuring compliance with **healthcare standards** and effective **PHI handling**.\n- Led the modernization of financial platforms by adopting a microservices architecture with **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, improving system scalability and maintainability for over **100,000** transactions per hour.\n- Created real-time monitoring and analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, allowing operations teams to generate actionable insights from **over 50 million** records and detect anomalies in financial activity.\n- Built dynamic front-end applications using **React (18)**, **Vue 3**, and **Next.js**, applying **Redux Toolkit** and **Tailwind CSS** to deliver responsive user interfaces for financial dashboards serving **250,000+** end-users.\n- Integrated asynchronous communication frameworks like **Kafka**, **RabbitMQ**, and **Azure Service Bus** to streamline event-driven architecture supporting transaction alerts and compliance workflows, enhancing overall system performance.\n- Generated and orchestrated **ML pipelines** for credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, enabling real-time decision-making integrated directly into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Leveraged **AI**, **ML**, and **NLP** technologies to develop intelligent solutions, utilizing frameworks like **scikit-learn**, **PyTorch**, and **Hugging Face** to enhance predictive capabilities and decision-making processes.\nEngineered **data pipelines** for efficient model training and evaluation, ensuring robust performance in clinical decision support systems that adhere to healthcare standards and manage **PHI** securely.\nImplemented **MLOps** practices and CI/CD workflows to streamline model lifecycle management, facilitating seamless updates and deployments while minimizing risks during production changes.\nDesigned and maintained **Azure** solutions, including **Azure ML** and **Azure OpenAI**, to deploy various AI models, enabling scalable application of learned insights in live environments.\nAdopted best practices in risk management to ensure compliance with relevant regulations (GDPR, HIPAA), with a focus on safeguarding user data through role-based access control (RBAC) and secure data handling techniques.\nCommunicated complex AI concepts and outcomes clearly to stakeholders, demonstrating strong **communication** skills, attention to detail, and adaptability in fast-paced project environments.\nFostered an environment of continuous **learning**, staying updated with the latest advancements in AI technologies and modeling techniques to drive innovation within the team."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython (FastAPI, Flask, Django), JavaScript/TypeScript (React, Vue, Angular)\n\n**Backend Frameworks:**\n\tNone\n\n**Frontend Frameworks:**\n\tNone\n\n**API Technologies:**\n\tNone\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAzure, Azure ML, Azure OpenAI\n\n**Other:**\n\tAI, ML, NLP, LLMs, MLOps, PyTorch, scikit-learn, Hugging Face, CI/CD, data pipelines, clinical decision support, model lifecycle management, healthcare standards, PHI handling, risk management, communication, attention to detail, adaptability, learning",
+  "apply_company": "COPE Health Solutions"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Dynamic Senior Software Engineer with 13+ years of experience specializing in cloud-native systems and infrastructure management using **AWS**, **Kubernetes**, **Terraform**, and **Ansible**. Adept at developing and deploying applications with a focus on **Infrastructure-as-Code** and **CI/CD** practices, including **GitHub Actions** and **Jenkins**.\nProficient in modern programming languages such as **JavaScript**, **Go**, and **Ruby**, with a strong command of front-end technologies like **ReactJS**, and back-end frameworks including **Node.js** and **FastAPI**.\nSkilled in system design and proactive ownership, ensuring compliance with standards such as HIPAA and PCI DSS. Passionate about cross-team collaboration and strategic thinking for building high-performance applications in the healthcare and financial sectors. Experienced with AI and Machine Learning frameworks and tools to enhance predictive analytics and automation in deployed solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented Infrastructure-as-Code solutions using **Terraform** and **Ansible** to automate deployment and manage cloud infrastructure on **AWS** and **Kubernetes** (versions 1.20+), supporting **proactive ownership** principles.\nDesigned and maintained **CI/CD pipelines** leveraging **GitHub Actions** and **Jenkins** for automation and efficiency in code deployment across multiple projects, streamlining release processes by **30%**.\nCollaborated with cross-functional teams to architect and develop high-performance applications utilizing **Apache Kafka**, **RabbitMQ**, and **DataDog** for real-time data streaming and observability.\nDeveloped scalable data storage solutions utilizing **Amazon RDS** and **Apache Druid** suited for large-scale health and finance applications, achieving a **25%** reduction in query response times.\nLed system design activities, crafting microservices architecture that enhanced system reliability and scalability through effective use of **Docker** and orchestrated deployments with **Kubernetes**.\nSpearheaded initiatives to refine development workflows that enhanced **cross-team collaboration**, enabling smoother transitions between DevOps and software engineering disciplines.\nUtilized advanced JavaScript frameworks including **ReactJS** to create engaging user interfaces and streamline user experiences in financial applications, boosting user engagement metrics by over **40%**.\nEngaged in strategic thinking sessions to outline project roadmaps and development strategies, building rapport with stakeholders to ensure alignment on objectives.\nExecuted advanced data visualization strategies employing **D3.js** and **Chart.js** for real-time insights into application performance, measuring operational KPIs effectively.\nIntegrated monitoring tools to enhance proactive system ownership, using platforms like **DataDog** to track application health and performance across environments.\nFacilitated knowledge sharing and rapport building among team members to foster a cooperative team environment, reducing onboarding time for new engineers by **20%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS** and **Terraform** to implement Infrastructure-as-Code, enabling seamless deployment pipelines and enhancing proactive ownership in development workflows.\nImplemented CI/CD pipelines using **GitHub Actions** and **Jenkins** for efficient code integration and delivery, resulting in a **50%** reduction in deployment time.\nDesigned and integrated scalable, event-driven architectures using **Apache Kafka** and **RabbitMQ**, improving system reliability and communication for **high-volume transactional systems**.\nModernized core financial platforms by migrating to microservices architecture using **Node.js** (**NestJS**/**Express**) and **Python** (**FastAPI**, **Django**), enhancing scalability and performance.\nBuilt front-end applications with **React** (**18**), **Vue 3**, **Next.js**, and **TypeScript**, leveraging **Redux Toolkit** and **Tailwind CSS** for responsive UI design.\nDelivered **real-time analytics dashboards** using **React**, **D3.js**, and **Power BI Embedded**, providing immediate insights into transactions, improving decision-making efficiency by **30%**.\nDeveloped ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory** for ingesting and processing financial data from internal and third-party sources.\nCreated and deployed machine learning models for fraud detection with **scikit-learn**, **XGBoost**, and **Azure ML**, significantly boosting the detection rate of fraudulent transactions by **40%**.\nEstablished ML pipelines for **real-time credit scoring** and churn prediction, utilizing **MLflow** and **Airflow** for seamless integration into backend services, streamlining operational workflows."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Demonstrated **proactive ownership** by designing and optimizing backend services for a global e-commerce platform using **Python** (**FastAPI**, **Django**) and **Node.js** (**NestJS**, **Express**), ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\n• Leveraged **Apache Kafka** and **RabbitMQ** to engineer real-time features through event-driven architecture, facilitating responsive order updates and dynamic inventory tracking.\n• Developed frontend applications using **ReactJS** (**18**), **Vue 3**, and **Angular**, enhanced with **TypeScript**, **Redux Toolkit**, and **Tailwind CSS**, providing fast, responsive user experiences on both web and mobile platforms.\n• Employed **Amazon RDS**, **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data storage solutions for high-traffic e-commerce workflows, ensuring fault-tolerant data access and performance optimization.\n• Integrated AI/ML-based recommendation engines using **scikit-learn**, **LightGBM**, and **TensorFlow** to personalize product offerings and improve conversion rates based on real-time behavioral data.\n• Achieved significant performance improvements by implementing **Redis** caching for product metadata, shopping cart sessions, and search results, reducing read pressure on databases by over **30%**.\n• Successfully implemented feature flags and managed blue-green deployments using **Kubernetes** namespaces and tools like **LaunchDarkly**, supporting controlled rollouts, A/B testing, and risk mitigation during major updates.\n• Created responsive and SEO-friendly e-commerce UIs with **Next.js**, **Vue 3** + **Nuxt**, and **HTML5/CSS3**, ensuring compliance with accessibility standards (**WCAG 2.1**) and optimizing for mobile-first engagement.\n• Established secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, adhering to PCI compliance while managing sensitive data with tokenized transactions.\n• Applied **role-based access control (RBAC)** and **OAuth 2.0** for enhanced security, ensuring GDPR compliance and robust user data protection across the platform."
+    }
+  ],
+  "skills": "Programming Languages:\n\tJavaScript, Python, Go, Ruby, Elixir, Swift\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, ReactJS, Vue, Angular\n\n**API Technologies:**\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, S3, ECS, RDS\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Amazon RDS, Amazon ElastiCache, Apache Druid\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, Jenkins, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAzure: App Services, Blob Storage, SQL Database, Infrastructure-as-Code, System Design\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, DataDog, Apache Kafka, RabbitMQ, Proactive Ownership, Cross-Team Collaboration, Strategic Thinking, Rapport Building",
+  "apply_company": "Glia"
+}

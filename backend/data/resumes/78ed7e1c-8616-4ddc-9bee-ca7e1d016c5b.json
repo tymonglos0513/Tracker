@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Java Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Java Engineer with 13+ years of experience specializing in delivering high-performance applications within the finance sector. Proficient in **Java**, **Kotlin**, and **Scala**, with a strong background in developing robust backend systems and microservices. Experienced in employing **Continuous Integration** and **Continuous Delivery** practices to streamline development processes.\nSkilled in leveraging **GCP** for cloud-native deployments, with expertise in container orchestration using **Kubernetes**. Knowledgeable in real-time performance monitoring tools like **Grafana**, **Prometheus**, and **NewRelic** to ensure optimal application uptime and reliability.\nAdditionally, I bring a wealth of experience in **PostgreSQL** and **Redis** for database management, and I have a track record of adhering to extensive compliance standards. My original strengths include building AI/ML-powered platforms and implementing automation strategies that drive efficiency and innovation.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and optimized robust back-end services using **Java**, ensuring alignment with **TDD** and **DDD** methodologies.\n- Managed data persistence solutions incorporating **PostgreSQL** and **Redis**, with focus on optimizing query performance and data handling.\n- Led deployment strategies utilizing **Kubernetes** for container orchestration, enhancing application scalability and maintainability, using **GCP** for cloud services.\n- Implemented monitoring and observability through **Grafana**, **Prometheus**, and **NewRelic**, to provide real-time performance insights and alerting systems.\n- Designed and executed CI/CD pipelines, employing principles of **Continuous Integration** and **Continuous Delivery** to streamline development processes and ensure delivery efficiency.\n- Collaborated on financial software products, integrating best practices from startup environments to enhance feature sets and user experiences, and achieving a performance increase of **30%** in critical transactions.\n- Utilized **Spock** and **Flyway** for advanced testing and database migrations, fostering a culture of quality and continuous improvement.\n- Applied **SparkJava** for building lightweight and fast web services, contributing to reduced latency and improved user response times.\n- Engaged in regular code reviews and pair programming sessions, driving knowledge sharing and skill enhancement among team members.\n- Participated in cross-functional team meetings to align technical deliverables with business objectives, ensuring on-time project completion and successful product iterations.\n- Championed the adoption of agile methodologies within development teams, resulting in an **increase of 40%** in product delivery timelines."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Java** in developing high-performance financial applications, ensuring robust and efficient software solutions tailored to business needs.\nImplemented **Kubernetes** for container orchestration, scaling applications seamlessly to handle high-volume transactions with a peak load capacity of **10,000+** transactions per second.\nUtilized **GCP** to enhance infrastructure reliability and scalability, optimizing cloud data storage with **PostgreSQL** and **Redis** for real-time financial data access.\nCreated and monitored application performance dashboards using **Grafana** and **Prometheus**, resulting in a **30%** reduction in downtime through effective monitoring and alerting practices.\nAdopted Test-Driven Development (**TDD**) and Domain-Driven Design (**DDD**) methodologies to ensure code quality, achieving a **50%** decrease in bugs reported post-deployment.\nEngaged in Continuous Integration and Continuous Delivery (CI/CD) practices, facilitating the seamless deployment of financial products and reducing deployment time by **40%**.\nContributed to agile product development within a startup environment, enhancing time-to-market for innovative financial services and tools.\nCollaborated in implementing scalable applications using frameworks like **SparkJava** and tools like **Flyway** for database version control, ensuring consistent data migrations across environments.\nIntegrated advanced analytics tools for performance tracking, delivering product insights that improved customer satisfaction ratings by **20%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Java** and **Kotlin** to design and develop robust backend services for a global e-commerce platform, ensuring **high scalability** and **fault tolerance** across critical modules like checkout and order processing.\nLeveraged **PostgreSQL** and **Redis** for efficient data management and optimization, resulting in **30% faster query performance** in high-traffic environments.\nImplemented **GCP** infrastructure to enhance system reliability, achieving **99.9% uptime** with automated monitoring using **Prometheus** and **Grafana**.\nEmployed **Kubernetes** for container orchestration, facilitating **blue-green deployments** and enabling smooth rollouts of new features with zero downtime.\nCreated and maintained robust CI/CD pipelines using *Spock* and *SparkJava*, significantly enhancing development velocity and deployment accuracy through **test-driven development (TDD)** practices.\nDeveloped and optimized finance-related applications by applying **DDD (Domain-Driven Design)** principles, ensuring high coherence and modularity in service architecture.\nIntegrated **NewRelic** for performance monitoring, addressing performance bottlenecks, and ensuring proactive issue resolution, improving overall system performance by **20%**.\nParticipated in architectural discussions in a fast-paced **startup** environment, collaborating with cross-functional teams to deliver innovative product solutions aligned with business goals.\nAdopted best practices in **Continuous Integration** and **Continuous Delivery**, streamlining release processes and incorporating automated testing to increase code quality and reliability."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tJava, Kotlin, Scala, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, SparkJava, Spock, JOOQ\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tOAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, GCP\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Grafana, Prometheus, NewRelic, Continuous Integration, Continuous Delivery, TDD, DDD, Authentication & Security (Keycloak, Nginx, Let’s Encrypt, Certbot), Finance, Startup, Product",
+  "apply_company": "Revolut"
+}

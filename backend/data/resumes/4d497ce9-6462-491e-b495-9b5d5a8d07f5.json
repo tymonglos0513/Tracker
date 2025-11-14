@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Golang Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Golang Engineer with 13+ years of experience in developing scalable and high-performance applications, proficient in **Golang**, **Kubernetes**, and **Microservices** architecture. Skilled in building and deploying **API**-driven services within **Distributed Systems**, employing **Continuous Integration** practices and **Version Control** systems to enhance collaboration and code quality.\nExpertise in creating reliable, compliant applications, ensuring alignment with industry standards while leveraging strong problem-solving and collaboration skills. Demonstrated success in employing **open-source** solutions and methodologies to enhance software development processes. Strong background in full-stack development with a proven track record using **JavaScript/TypeScript**, **Python**, **Flutter**, **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**, along with experience in AI/ML platforms for predictive analytics, integrated with cloud services such as **AWS** and **Azure**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Golang** for developing scalable microservices and distributed systems, ensuring robust API designs and efficient collaboration across teams.\nImplemented **Kubernetes** for orchestration and management of containerized applications, facilitating seamless deployments and enhanced continuous integration workflows.\nEstablished comprehensive testing methodologies across microservices, employing testing frameworks and tools to ensure high-quality code and adherence to best practices.\nLed version control strategies using Git, maintaining a structured workflow for code review and collaboration on open-source projects.\nFacilitated task decomposition within the team, enabling clear assignment of responsibilities and streamlined project execution.\nDesigned and built full-stack platforms for healthcare and fintech using **Python (FastAPI)**, **TypeScript**, and **Node.js**, while ensuring compliance with HIPAA, FHIR, GDPR, PCI DSS, and SOX standards.\nDelivered mobile applications for iOS and Android using **Flutter** and **React Native**, integrating native modules while managing state with Provider and Redux for real-time user interactions.\nCreated CI/CD pipelines tailored for mobile utilizing **Fastlane** and **App Center**, incorporating test automation and crash analytics with **Firebase Crashlytics** and **Sentry**.\nLed the transformation of legacy systems into microservices architectures, leveraging **Docker**, **Kubernetes (AKS/EKS)**, and serverless functions like **AWS Lambda** and **Azure Functions** for scalable deployments.\nBuilt and maintained data infrastructure using **PostgreSQL**, **MongoDB**, **Redis**, and **GraphQL** to support heavy data ingestion and real-time analytics in health and finance sectors.\nDeployed ML models for risk scoring, fraud detection, and document classification with **scikit-learn**, **PyTorch**, and **TensorFlow**, seamlessly integrating backend inference into live systems.\nImplemented MLOps workflows with **MLflow**, **DVC**, and **Airflow**, managing training, validation, and deployment pipelines effectively.\nIntegrated intelligent features into frontend applications, providing personalized dashboards and predictive alerts powered by models hosted on **Azure ML** and **AWS Sagemaker**.\nConstructed DevOps pipelines using **GitHub Actions**, **CircleCI**, and **Azure DevOps**, ensuring full test automation and multi-environment deployment workflows.\nDeveloped advanced data visualization tools with **D3.js**, **Chart.js**, and **Power BI Embedded**, enabling real-time analysis of KPIs and fraud trends.\nCollaborated with ML teams to implement NLP models (**spaCy**, **Hugging Face Transformers**) for document parsing, exposed through secured REST APIs.\nDefined and enforced testing strategies utilizing **Jest**, **Cypress**, **Postman**, and **PyTest** to cover unit, integration, E2E, and contract testing comprehensively.\nIntegrated search functionalities using **Azure Cognitive Search** and **Elasticsearch** to enhance querying capabilities across structured and unstructured datasets."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained microservices using **Golang**, ensuring scalability and performance for distributed systems in high-volume transactional environments.\nDesigned APIs that facilitate seamless integration between various services, promoting collaboration and task decomposition among cross-functional teams.\nImplemented and managed **Kubernetes** for orchestrating containerized applications, achieving **99% uptime** and enhancing system reliability.\nConducted rigorous testing practices including unit, integration, and end-to-end testing, leading to a **30% reduction** in production bugs.\nEnhanced continuous integration pipelines using tools like Jenkins and Git, implementing version control systems that increased deployment efficiency by **40%**.\nParticipated in code reviews and promoted best practices in open-source frameworks, fostering a culture of collaboration and continuous improvement.\nContributed to the design of distributed systems architecture, leveraging techniques for effective scalability and resilience.\nUtilized modern development methodologies to ensure rapid and consistent delivery of features in **Agile** environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed high-performance microservices using **Golang**, ensuring efficient API interactions and seamless integration within distributed systems for a large-scale application.\nImplemented robust testing strategies to maintain code quality and reliability, applying version control practices to manage updates effectively.\nUtilized **Kubernetes** for orchestrating container deployment, achieving continuous integration and delivery, and enhancing application scalability and resilience.\nCollaborated with cross-functional teams to decompose complex tasks into manageable components, refining workflows and driving project efficiency by 30%.\nDesigned and optimized backend services for a global e-commerce platform, ensuring high availability and low latency across critical modules like checkout and order fulfillment.\nEngineered real-time features using event-driven architecture, enabling responsive order updates and dynamic inventory tracking.\nDeveloped applications leveraging modern frontend frameworks and libraries, enhancing responsiveness and user engagement on multiple platforms.\nEnsured distributed data storage solutions provided fault-tolerant access to high-traffic e-commerce workflows, improving performance by 25%.\nIntegrated AI/ML capabilities for personalized user experiences, optimizing search relevance and increasing conversion rates by 15%.\nApplied security measures for payment transactions, ensuring compliance with industry standards and data protection regulations."
+    }
+  ],
+  "skills": "Programming Languages:\n\tGolang, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI, Microservices\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, Continuous Integration, Version Control\n\n**Cloud & Infrastructure:**\n\tCloud skills (AWS, Azure)\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Distributed Systems, Open Source, Collaboration, Task Decomposition, Testing",
+  "apply_company": "Stacklok"
+}

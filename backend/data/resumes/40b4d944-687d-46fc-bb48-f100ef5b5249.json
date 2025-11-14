@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Data Engineer with 13+ years of experience specializing in data architecture and cloud solutions, with extensive hands-on expertise in **Python**, **SQL**, **Docker**, **Kubernetes**, **Terraform**, **Airflow**, and **Prefect**. Proven track record in managing data workflows and developing robust ETL pipelines leveraging **Snowflake** and **Databricks**. Skilled in deploying CI/CD processes to streamline data deployment and enhance workflow efficiency.\n\nSuccessfully developed AI/ML-powered platforms that deliver predictive analytics and automation. Experienced in compliance-driven development, ensuring adherence to HIPAA, FHIR, PCI DSS, and SOC 2 standards. A collaborative professional with exceptional problem-solving skills, adept at bridging the gap between data engineering and application development.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Leveraged **Python** and **SQL** to design and build robust data architectures for healthcare and fintech applications, ensuring efficient data processing and integration.\nUtilized **DBT** and **Snowflake** to transform and model complex datasets, enhancing data quality and accessibility for analytics.\nImplemented orchestration workflows using **Airflow** and **Prefect** to automate ETL processes, ensuring timely and reliable data delivery.\nContainerized applications and services with **Docker**, deploying scalable microservices on **Kubernetes** for efficient resource management and orchestration.\nDeveloped CI/CD pipelines using **Terraform**, facilitating seamless infrastructure provisioning and deployment practices to enhance operational efficiency.\nCollaborated with cross-functional teams to design and deploy data pipelines, supporting analytics and reporting needs across various business units.\nConducted performance tuning and optimization of data workflows, improving processing times by up to **30%** through advanced query techniques and system enhancements.\nMonitored and maintained data infrastructure to ensure high availability and compliance, addressing potential vulnerabilities proactively.\nDesigned and implemented secure data integration methods, adhering to compliance requirements such as GDPR and HIPAA.\nUtilized versioned data repositories and documentation practices, managing workflows across development and production environments with version control strategies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and optimized data architectures using **Snowflake**, **Databricks**, and **Docker**, ensuring efficient data storage and retrieval for large-scale financial transactions.\nImplemented ETL processes leveraging **Python** and **Apache Airflow**, enhancing data workflows and allowing for both batch and real-time processing of over **1 million** records daily.\nUtilized **SQL** and **DBT** to create data transformation scripts, improving data accuracy and consistency across reporting platforms by **30%**.\nAutomated CI/CD pipelines with **Terraform** and **Kubernetes**, streamlining deployments and reducing integration time by **25%**.\nCollaborated with cross-functional teams to design and maintain scalable infrastructure on cloud platforms, enhancing system resilience and availability for critical applications.\nExecuted data lineage and performance monitoring strategies, ensuring compliance and optimizing query performance for complex datasets.\nDelivered high-quality data solutions by effectively managing internal and third-party data integration using tools like **Airflow** and **Prefect**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged **Python** for data manipulation and processing, utilizing frameworks like **DBT** and **Airflow** to streamline ETL workflows with a focus on efficiency and scalability.\nDeveloped data pipelines using **Snowflake** and **Databricks**, ensuring robust data architecture capable of handling hundreds of thousands of records daily while maintaining performance and reliability.\nImplemented **Terraform** for infrastructure as code, enabling automated provisioning and management of cloud resources across environments.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration, enhancing deployment speed and consistency across multiple cloud services.\nDesigned and maintained SQL databases, optimizing queries to improve data retrieval times by **30%** and ensuring the integrity and availability of data.\nCreated data models and architecture suited for analytics and reporting needs, which supported decision-making across different business units.\nEstablished CI/CD practices to automate testing and deployment processes, improving deployment frequency by **50%** and reducing lead time for changes.\nDeveloped comprehensive documentation for data workflows and architecture, assisting teams in understanding and leveraging the data ecosystem efficiently.\nCollaborated with cross-functional teams to understand data requirements, ensuring the delivered solutions met business needs and adhered to industry best practices."
+    }
+  ],
+  "skills": "Programming Languages:\n\t**Python**\n\t**SQL**\n\n**Backend Frameworks:**\n\t**FastAPI**\n\t**Flask**\n\t**Django**\n\n**Frontend Frameworks:**\n\t**JavaScript/TypeScript**\n\t**React**\n\t**Vue**\n\t**Angular**\n\n**API Technologies:**\n\t**Airflow**\n\t**MLflow**\n\t**Kubeflow**\n\t**Prefect**\n\n**Serverless and Cloud Functions:**\n\t**AWS: ECS, Lambda, RDS, S3**\n\t**Azure: App Services, Blob Storage, SQL Database**\n\n**Databases:**\n\t**PostgreSQL (Fintech)**\n\t**MySQL (Healthcare)**\n\t**MongoDB (Gaming)**\n\t**Redis**\n\t**Snowflake**\n\t**Databricks**\n\n**DevOps:**\n\t**Docker**\n\t**Kubernetes**\n\t**GitHub Actions**\n\t**GitLab CI/CD**\n\n**Cloud & Infrastructure:**\n\t**Terraform**\n\t**Ansible**\n\t**Helm**\n\t**Docker Compose**\n\n**Other:**\n\t**data architecture**\n\t**Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT**\n\t**Nginx, Let’s Encrypt, Certbot**"
+}

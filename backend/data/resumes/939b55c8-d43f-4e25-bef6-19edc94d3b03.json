@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Backend Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Backend Engineer with 8 years of full-stack experience, I excel in crafting high-performance APIs and backend solutions utilizing **Ruby**, **Go**, and **TypeScript**. My proficiency in backend development is complemented by my ability to implement robust observability measures and ensure software quality. I bring a strong problem-solving mindset and a sense of ownership in all projects I undertake. \nMy technical expertise also includes modern frameworks like **React**, **Next.js**, **Vue**, and **Node.js**, alongside comprehensive cloud experience with **Azure** and **AWS**. I have successfully led the development of enterprise-grade platforms, incorporating AI/ML capabilities for predictive analytics and real-time data processing. I am well-versed in microservices architecture and CI/CD automation, ensuring compliance with industry standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Additionally, I possess hands-on experience in developing machine learning pipelines and implementing MLOps workflows with tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Focused on API design and development by creating robust backend services to ensure seamless communication between client applications and databases.\nUtilized **TypeScript** effectively in building maintainable and scalable server-side applications, exhibiting strong software quality and ownership.\nEmployed advanced problem-solving skills to troubleshoot performance bottlenecks and optimize existing backend systems, achieving a reduction in response times by **30%**.\nArchitected and developed scalable services using **Ruby** and **Go**, leading the migration of legacy systems to microservices architecture, which improved system resilience and deployment efficiency.\nImplemented observability practices by integrating logging and monitoring tools, resulting in a **25%** decrease in downtime through proactive issue identification.\nCollaborated with cross-functional teams to enhance API endpoints, leading to an increase in user satisfaction scores by **20%** through improved performance and reliability.\nParticipated in code reviews to ensure adherence to best practices in software quality, contributing to lowering the defect rate by **15%**.\nDesigned CI/CD workflows utilizing tools like **GitHub Actions** which streamlined deployment processes and increased release frequency by **40%**.\nRegularly engaged in problem-solving sessions to identify and resolve technical challenges, showcasing strong ownership of projects and tasks.\nMaintained an agile approach to project management, ensuring timely delivery of features and updates aligned with business objectives and user needs."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Demonstrated strong **API** design and implementation using **Node.js** and **Python**, contributing to a service-oriented architecture that promotes system ownership and problem-solving capabilities.\n• Leveraged **TypeScript** to enhance software quality and maintainability in backend applications, ensuring high performance and responsiveness.\n• Developed and integrated microservices with a focus on observability, utilizing technologies like **Kafka** and **RabbitMQ** for reliable message brokering.\n• Implemented scalable transaction systems within a **microservices** framework, utilizing **Django** and **FastAPI**, to optimize throughput for a user base exceeding **100,000**.\n• Utilized advanced debugging techniques and established observability practices, resulting in a **30%** decrease in response time for critical operations.\n• Actively engaged in problem-solving during the architecture design phase, leading to an optimized ETL process that reduced data ingestion time by **40%** with **Apache Airflow** and **Azure Data Factory** integration.\n• Applied ownership principles by leading the creation of AI/ML-powered solutions for fraud detection using **scikit-learn** and **XGBoost**, resulting in the identification of suspicious transactions occurring at a rate of **5%**.\n• Collaborated effectively with cross-functional teams to enhance functionality and provided real-time insights via analytics dashboards using tools such as **Power BI Embedded** and **D3.js**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Demonstrated ownership in designing and optimizing robust RESTful **API** services for a global e-commerce platform using **Python** (FastAPI, Django) and **Node.js** (NestJS, Express), ensuring high performance and scalability.\nImplemented observability practices to monitor and troubleshoot backend systems, leading to a **20%** reduction in downtime.\nUtilized **TypeScript** to enhance code quality and maintainability in backend services, resulting in a **15%** decrease in bug reports.\nCollaborated on software quality initiatives, employing rigorous testing strategies and code reviews, thus increasing overall system reliability by **30%**.\nProficiently utilized **Go** and **Ruby** to develop microservices, enhancing modularity and performance across the e-commerce infrastructure.\nApplied problem-solving skills to address and resolve production issues, ensuring minimal impact on service availability and user experience.\nEngineered real-time features using WebSockets and event-driven architecture powered by **Kafka** and **RabbitMQ**, enabling responsive order updates and dynamic inventory tracking.\nLeveraged **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data storage, ensuring fault-tolerant data access and performance optimizations.\nIntegrated AI/ML-based recommendation engines utilizing **scikit-learn**, **LightGBM**, and **TensorFlow** to optimize search relevance and improve conversion rates.\nImplemented feature flags and blue-green deployments using **LaunchDarkly** and **Kubernetes**, refining the deployment process with controlled rollouts and A/B testing.\nEnsured secure payment processing workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, applying tokenized transactions for PCI compliance.\nWorked on implementing role-based access control (RBAC) and **OAuth 2.0** for secure user access and GDPR compliance throughout the platform."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, JavaScript, TypeScript, Ruby, Go, Elixir\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tNginx, Keycloak (OIDC, RBAC), Let’s Encrypt, Certbot\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Observability, Software Quality, Problem-Solving, Ownership",
+  "apply_company": "Gigs"
+}

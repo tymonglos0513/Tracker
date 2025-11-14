@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior DevOps Engineer with 8 years of comprehensive experience, I possess extensive expertise in **AWS** and robust CI/CD practices using **GitLab CI/CD** and **Terraform**. My skill set includes proficiency in container orchestration with **Kubernetes** and containerization using **Docker**, enabling efficient deployment and scaling of applications. With a strong background in monitoring and performance optimization tools such as **Prometheus**, **Grafana**, **InfluxDB**, and load testing frameworks like **Locust**, **Gatling**, and **K6**, I ensure high availability and responsiveness of systems.\nAdditionally, I have experience in programming with **Python** and scripting with **Bash**, allowing for custom automation solutions. My previous roles involved building and maintaining high-performance infrastructures in sectors such as healthcare and finance, aligning with compliance standards like HIPAA and PCI DSS. I bring a proven ability to collaborate cross-functionally and drive initiatives that enhance operational efficiency and system reliability.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented enterprise-level DevOps pipelines leveraging **GitLab CI/CD** to ensure automated testing, security scans, and multi-environment deployments for web and API services.\nUtilized **Docker** and **Kubernetes** container orchestration (AKS/EKS) to manage microservices and achieve high availability and fault tolerance in cloud environments.\nMaintained and monitored system performance using **Prometheus** and **Grafana**, ensuring optimal resource utilization across applications and infrastructures.\nDesigned and executed infrastructure as code strategies with **Terraform**, enabling consistent and repeatable deployments across multiple environments.\nConducted performance testing with tools such as **Locust**, **Gatling**, and **K6**, generating comprehensive reports on application scalability and load handling under various scenarios.\nCollaborated with developers to streamline workflows using **Bash** scripts for automation and orchestration within CI/CD processes.\nManaged cloud resources on **AWS**, ensuring cost-effective scaling and high availability of applications and databases.\nOptimized database solutions using resilient data stores like **InfluxDB**, enhancing data ingestion and storage capabilities for time-series data.\nDeveloped clear documentation and standard operating procedures to onboard teams and enhance cross-functional collaboration on DevOps best practices.\nLed the migration of legacy systems to cloud environments, resulting in a **30%** increase in system performance and a **50%** reduction in deployment times.\nExecuted regular security penetration testing, focusing on security compliance across DevOps practices to align with standards such as PCI DSS and GDPR.\nEstablished several monitoring and alerting systems that improved incident response times by **40%** by leveraging real-time data visualization tools."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines utilizing **GitLab CI/CD** to automate the deployment process, ensuring high-quality delivery of applications in a multi-cloud environment with **AWS**.\nUtilized **Docker** and **Kubernetes** for container orchestration and management, improving application scalability and availability, achieving a **40%** decrease in deployment time.\nConfigured monitoring and alerting systems with **Prometheus** and **Grafana**, enabling real-time visibility of application performance and infrastructure metrics, reducing incident response time by **30%**.\nDeveloped infrastructure as code templates using **Terraform** to manage and provision cloud resources on **AWS**, resulting in consistent and reproducible environments across development and production.\nConducted performance testing with tools like **Locust**, **Gatling**, and **K6**, ensuring applications can handle **1000+** concurrent users and maintain optimal response times under load.\nPlayed a crucial role in migrating existing applications to microservices architecture, contributing to enhanced system resilience and operational efficiency.\nUsed **Python** and **Bash** scripts for automation of routine tasks, improving operational efficiency by **25%** through reduced manual effort.\nCollaborated with development teams to ensure seamless integration of code changes and enhance the overall software delivery lifecycle."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** services to design and manage scalable infrastructure for a global e-commerce platform, optimizing resource allocation and cost-effectiveness with significant performance improvements.\nImplemented **Docker** containers for consistent development, testing, and production environments, facilitating smoother deployment cycles through GitLab CI/CD.\nManaged orchestration with **Kubernetes**, achieving a **99.9%** uptime and enabling seamless rollouts and rollbacks across multiple microservices.\nAutomated infrastructure provisioning using **Terraform**, reducing setup times by **40%** and ensuring reproducibility across environments.\nMonitored system performance with **Prometheus** and visualized metrics through **Grafana**, identifying bottlenecks and enhancing application resilience, which resulted in faster response times by **25%**.\nExecuted load testing strategies employing **Locust**, **Gatling**, and **K6**, successfully simulating user traffic of over **10,000** concurrent users while maintaining system stability.\nDeveloped backend services using **Python**, employing frameworks like FastAPI and Django, optimizing for low latency with scalable solutions across key modules in the application.\nImplemented security best practices including role-based access control (RBAC) and OAuth 2.0, ensuring compliance with GDPR and safeguarding sensitive user data throughout the platform.\nLeveraged **Bash** scripting for automating deployment tasks, enhancing the team’s operational efficiency by reducing manual efforts by **30%**.\nCollaborated cross-functionally to integrate monitoring solutions with **InfluxDB** to track performance metrics, aiding in proactive troubleshooting and system health assessments."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Java, Bash\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAWS, REST, GraphQL\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, InfluxDB\n\n**DevOps:**\n\tDocker, Kubernetes, Terraform, GitLab CI/CD, Prometheus, Grafana, Locust, Gatling, K6\n\n**Cloud & Infrastructure:**\n\tGitHub Actions, Azure (App Services, Blob, SQL), Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Sii Ukraine"
+}

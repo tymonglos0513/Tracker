@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Software Engineer with over 10 years of experience in developing and optimizing backend systems for financial platforms and cloud-native architectures. Proficient in **JavaScript**, **TypeScript**, **React**, **Node.js**, **Express**, and extensive cloud services including **AWS** (**Lambda**, **ECS**, **Fargate**, **API Gateway**, **S3**, and **CloudWatch**) to create robust, scalable solutions. Expertise in **SQL** and **Data Modeling** to ensure optimal data management and performance; adept at implementing **Microservices**, **RESTful APIs**, and achieving performance optimization through automated testing and CI/CD pipelines. Experienced with infrastructure as code tools like **Terraform** and **CDK**, as well as event-driven architectures utilizing **SNS**, **SQS**, and **EventBridge**. Proven contributor to impactful projects at leading organizations, alongside strong communication and collaboration skills.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Developed and implemented **RESTful APIs** using **Node.js**, **Express**, and **Koa** to enhance application performance and scalability.\nEngineered microservices architectures with **Docker** and **Kubernetes**, achieving a **30%** improvement in deployment efficiency.\nUtilized **AWS** services such as **Lambda**, **ECS**, and **Fargate** to design serverless applications that handle over **1000** requests per second.\nConducted **automated testing** and **CI/CD** practices to ensure seamless integration and deployment cycles, reducing deployment failures by **40%**.\nImplemented data modeling strategies with **SQL** and orchestrated data processing workflows using **dbt** and **Athena**, enabling effective data analytics and insights.\nCollaborated with cross-functional teams to design a **multi-tenant B2B SaaS** solution, resulting in a **25%** increase in customer satisfaction scores.\nManaged infrastructure using **Terraform** and **CDK**, facilitating version control and environment management, leading to a **50%** decrease in infrastructure provisioning times.\nLed performance optimization initiatives to improve application response times by **15%**, enhancing user experience significantly."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Developed and maintained **RESTful APIs** utilizing **Node.js** and **Express** to support efficient user interactions and improve application performance by **30%**.\nEngineered event-driven architectures with **AWS Lambda** and **SNS**, resulting in a reduction of processing time for transactions by **50%**.\nImplemented **microservices** architecture using **Docker** and **Kubernetes**, enabling seamless deployment and scaling of applications across **3** environments.\nLeveraged **SQL** for data modeling and query optimization, leading to a **20%** increase in data retrieval speeds and improving overall system responsiveness.\nUtilized **Terraform** for infrastructure automation, achieving consistent deployment across environments and reducing manual configuration errors by **90%**.\nEstablished CI/CD pipelines with **AWS CodePipeline**, facilitating faster feature releases and minimizing downtime during updates by **15%**.\nExecuted automated testing strategies with **Jest** and **Mocha**, increasing test coverage to **85%**, resulting in more reliable software.\nCollaborated with cross-functional teams to ensure effective communication and integration across different systems, achieving project milestones on time.\nConducted performance optimization sessions to identify key bottlenecks, improving overall application runtime by **25%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed and maintained **RESTful APIs** and **WebSocket** channels to facilitate seamless communication between frontend and backend services, enhancing overall user experience.\nImplemented scalable microservices using **Node.js**, **Express**, and **TypeScript** to improve the architecture and response times by up to **35%**.\nEngineered event-driven architectures incorporating **AWS Lambda**, **SNS**, and **SQS** to streamline message processing and resource utilization in multi-tenant applications.\nDesigned robust data models and optimized SQL queries for enhanced performance and reliability, reducing database response times by **20%**.\nConfigured and deployed infrastructure as code solutions using **Terraform** and **AWS CloudFormation**, resulting in a more stable and reproducible environment.\nLed CI/CD initiatives utilizing **AWS CodePipeline** and **GitHub Actions**, optimizing deployment processes and improving release cycle times by **50%**.\nConducted automated testing with **Jest** and **Mocha**, ensuring code quality and reducing bugs in production by **30%** while adhering to continuous integration protocols.\nCollaborated with cross-functional teams to ensure compliance with data privacy standards, enhancing data security and platform integrity."
+    }
+  ],
+  "skills": "Programming Languages:\n\tJavaScript, TypeScript, Python (3.8+), SQL, Bash\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Celery, Node.js, Express, Koa\n\n**Frontend Frameworks:**\n\tReact\n\n**API Technologies:**\n\tREST/gRPC APIs, Microservices, RESTful APIs, API Gateway\n\n**Serverless and Cloud Functions:**\n\tAWS (EC2, S3, Lambda), Lambda, ECS, Fargate, CloudWatch\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Data Modeling, Athena, Glue, dbt\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Containers, Infrastructure as Code, CDK, Terraform\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Automated Testing, Performance Optimization, Event-Driven Architectures, QuickSight, SNS, SQS, EventBridge, Multi-Tenant B2B SaaS, Communication",
+  "apply_company": "Safeguard Global"
+}

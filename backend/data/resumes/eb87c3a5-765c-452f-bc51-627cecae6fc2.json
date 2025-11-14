@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior MLOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a Senior MLOps Engineer, I bring 8 years of experience in full-stack development with a strong focus on MLOps, CI/CD, and cloud services. My technical expertise encompasses **Python**, **Docker**, **Kubernetes**, **Jenkins**, and cloud platforms including **AWS**, **Azure**, and **Google Cloud**. I have successfully designed and implemented CI/CD pipelines to automate machine learning workflows, ensuring rapid deployment and continuous integration of models.\nMy background in machine learning includes hands-on experience with **TensorFlow** and **PyTorch**, enabling the creation and deployment of robust ML models in production environments. I am proficient in utilizing monitoring tools like **Prometheus** and **Grafana** to ensure system performance and reliability.\nAdditionally, I possess strong problem-solving skills and effective communication abilities, which have empowered me to lead cross-functional teams in developing secure and compliant applications aligned with industry standards such as HIPAA and PCI DSS. I have a proven track record in building high-performance solutions in healthcare and finance, leveraging modern architectures and fostering innovation through intelligent automation.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior MLOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and implemented **MLOps** pipelines using **MLflow**, **DVC**, and **Apache Airflow** for continuous training, validation, versioning, and deployment of models across development and production environments, enhancing operational efficiency by **30%**.\nArchitected and deployed **CI/CD** frameworks with tools like **GitHub Actions**, **Azure DevOps**, and **CircleCI**, achieving automated testing and seamless multi-environment deployments in **4** different stages.\nEmployed **Docker** and **Kubernetes (AKS/EKS)** to containerize applications and manage microservices, leading to a **50%** reduction in deployment times and improved scalability.\nIntegrated and collaborated with data scientists to employ **Python** libraries such as **scikit-learn**, **TensorFlow**, and **PyTorch** for machine learning model development, achieving superior accuracy in patient risk prediction and financial fraud detection with a **20%** increase in prediction accuracy.\nImplemented comprehensive monitoring solutions using **Prometheus** and **Grafana** to track the performance and health of MLOps workflows, directly enhancing system reliability and operational readiness.\nManaged data security compliance throughout the MLOps lifecycle, ensuring adherence to best practices and standards in data handling, crucial for healthcare and financial applications.\nFacilitated communication between development teams and stakeholders, resolving complex problems in model deployment strategies and ensuring alignment with business objectives.\nConducted thorough testing strategies across front-end and backend services using **Jest**, **Cypress**, **PyTest**, and **Postman**, ensuring quality assurance with **95%** test coverage on all critical functionalities.\nCollaborated in establishing cloud-native solutions leveraging **AWS** and **Azure**, optimizing resource management and system responsiveness in model inference processes.\nDelivered complex data security audits and solutions within MLOps frameworks, contributing to the maintenance of sensitive financial and healthcare data integrity."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented MLOps best practices to streamline machine learning workflows and improve model deployment efficiency.\nManaged CI/CD pipelines using **Jenkins** and **Docker**, ensuring robust build and deployment processes for ML models and applications.\nDesigned scalable containerized applications orchestrated with **Kubernetes**, enhancing deployment processes and enabling effective resource management.\nCollaborated on machine learning projects utilizing **Python** with libraries including **TensorFlow** and **PyTorch**, focusing on high-performance solutions for fraud detection and scoring algorithms.\nDeveloped and maintained monitoring solutions with **Prometheus** and **Grafana** to track model performance and system health, resulting in a 30% reduction in downtime.\nEnsured data security and compliance by implementing best practices and security measures across cloud services like **AWS**, **Azure**, and **Google Cloud**.\nEmployed effective problem-solving skills to address and resolve challenges in machine learning model deployment and performance tuning.\nFostered communication and collaboration with cross-functional teams to ensure alignment on project goals and deliverables, enhancing workflow efficiency across **4** key projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines using **Jenkins**, facilitating seamless integration and deployment processes, reducing delivery times by **30%**.\nDeveloped and maintained containerized applications using **Docker** and managed orchestration with **Kubernetes**, ensuring consistent runtime environments across **AWS**, **Azure**, and **Google Cloud**.\nEngineered machine learning models and deployed them in production using **TensorFlow** and **PyTorch**, optimizing workflows through MLOps principles.\nMonitored and analyzed application performance with **Prometheus** and **Grafana**, providing insights that enhanced operational efficiency and reduced downtime by **15%**.\nApplied comprehensive data security measures, ensuring compliance with GDPR, by implementing role-based access control (RBAC) and OAuth 2.0 protocols.\nCommunicated effectively with cross-functional teams to address issues, implement solutions, and foster collaborative problem-solving, enhancing project delivery.\nUtilized Python and R for data processing and model training, achieving improved performance metrics on prediction tasks by **25%**.\nLed troubleshooting efforts, resolving complex technical issues and minimizing impact on production systems through effective problem-solving strategies.\nDesigned and implemented scalable, secure infrastructure for machine learning workflows using cloud services, contributing to overall project scalability and reliability."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, R\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Google Cloud\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure, Google Cloud, monitoring tools, Prometheus, Grafana\n\n **Other:**\n\tMLOps, MLflow, Airflow, Kubeflow, TensorFlow, PyTorch, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, data security, problem-solving, communication"
+}

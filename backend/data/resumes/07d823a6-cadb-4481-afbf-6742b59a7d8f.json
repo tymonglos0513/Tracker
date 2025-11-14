@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior DevOps Engineer with 13+ years of experience specializing in cloud infrastructure, CI/CD, and scalable systems management. Expert in deploying containerized applications using **Docker** and **Kubernetes**, while managing infrastructure as code with **Terraform**. Proficient in CI/CD pipeline automation using **Jenkins**, alongside strong experience in scripting with **Bash** for enhanced workflow efficiency.\nSkilled in monitoring and observability tools including **Grafana** and **Google Cloud Monitoring**, ensuring high availability and performance of applications in cloud environments, particularly on **GCP**. Strong background in security practices and incident management, with a focus on error budgets and cost management strategies.\nVersatile developer with solid expertise in **Python**, having delivered high-performance applications across healthcare and financial industries. Hands-on experience in both frontend and backend development technologies such as **React**, **Next.js**, **Node.js**, **FastAPI**, and **Django**. Familiar with compliance-driven development aligned with HIPAA, FHIR, PCI DSS, and SOC 2 standards, as well as in building AI/ML-powered platforms for predictive analytics and real-time processing.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and managed **CI/CD** pipelines using **Jenkins**, **GitHub Actions**, and **CircleCI**, incorporating test automation and security checks for seamless deployment workflows.\nUtilized **Docker** and **Kubernetes** for container orchestration and management, ensuring high availability and scalability of applications in cloud environments, specifically with Google Cloud Platform (**GCP**) and Azure.\nLed incident management strategies and implemented monitoring solutions using **Grafana** and **Google Cloud Monitoring** to maintain operational excellence and oversee system performance.\nDeveloped infrastructure as code using **Terraform** for provisioning and managing cloud resources, aiming toward cost efficiency and security compliance in deployment environments.\nEnsured robust security measures across the infrastructure, including error budgeting and proactive incident management, to minimize downtime and enhance system reliability.\nCollaborated closely with cross-functional teams in an **Agile** environment, promoting best practices and continuous improvement throughout the development lifecycle.\nManaged database services such as **PostgreSQL**, **MongoDB**, and **Redis**, optimizing data handling and ensuring fast data access for applications across various domains.\nCreated scripts in **Bash** for automating routine tasks, enhancing operational workflows and team efficiencies.\nConducted training sessions and workshops to educate team members on **SRE** principles and practices, ensuring deep understanding and adherence to standards across the organization.\nDesigned and executed monitoring dashboards and alerts using **Grafana**, enabling real-time visibility into system performance metrics and proactive identification of potential issues.\nProduced detailed documentation and reports on system performance, security compliance, and incident outcomes to facilitate continuous learning and improvement."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented robust CI/CD pipelines with **Jenkins** and **Terraform** to enhance deployment efficiency across **Docker** containers and **Kubernetes** clusters, improving release times by **30%**.\nManaged incident management processes while ensuring high availability and reliability of services through effective application of **SRE** principles, leading to a **15%** reduction in downtime.\nCollaborated in agile teams to streamline operations, utilizing **Bash** scripts for automation tasks that increased productivity and operational efficiency by **20%**.\nDeployed scalable cloud solutions on **GCP**, optimizing resource utilization and cost management, achieving a **10%** reduction in overall cloud expenses.\nMonitored system performance using **Grafana** and **Google Cloud Monitoring**, implementing effective strategies for security and compliance, significantly reducing security incidents by **25%**.\nDeveloped and managed databases using **PostgreSQL** and **Mongo**, ensuring data integrity and availability for critical applications, which supported over **100,000** active users.\nSupported error budgeting practices that aligned with service level objectives, enhancing reliability and user satisfaction by implementing best practices.\nMaintained operational excellence by proactively addressing performance issues and collaborating with cross-functional teams to foster a culture of continuous improvement."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented **GCP** solutions for cloud infrastructure, ensuring high availability, cost management, and efficient incident management for deploying applications and services.\nManaged containerization and orchestration using **Kubernetes** and **Docker**, optimizing build and deployment pipelines within a **CI/CD** framework with **Jenkins** for continuous integration and delivery.\nUtilized **Terraform** for infrastructure as code, automating setup and configuration of resources across multiple environments, achieving a **50%** reduction in manual deployment errors.\nDeveloped and monitored infrastructure applications using **Python** scripts for automated health checks, performance metrics, and runtime monitoring implemented with **Grafana** and **Google Cloud Monitoring**, which improved system reliability by **30%**.\nConducted detailed incident management tasks, ensuring rapid response and resolution of production issues, effectively minimizing downtime to **less than 5%** annually.\nStrengthened overall security posture by implementing security best practices, including **RBAC** and **OAuth 2.0**, and conducting regular audits for compliance, ensuring adherence to GDPR and other regulations.\nEngaged in efficient cost management strategies to optimize GCP resources, achieving a noticeable decrease in operational expenses over a **12-month** period.\nCollaborated in an **Agile** environment, participating in daily stand-ups and sprint planning, contributing to the team's success in delivering high-quality features and enhancements swiftly.\nFostered a culture of continuous improvement by evaluating and enhancing workflow processes, allowing the development team to leverage a commitment to error budgets and reliable performance standards."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript\n\tReact\n\tVue\n\tAngular\n\n**API Technologies:**\n\tOAuth2\n\tJWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\tGoogle Cloud Platform (GCP)\n\n**Databases:**\n\tPostgreSQL\n\tMySQL\n\tMongoDB\n\tRedis\n\n**DevOps:**\n\tDocker\n\tKubernetes\n\tJenkins\n\tGitHub Actions\n\tGitLab CI/CD\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\tGoogle Cloud Monitoring\n\n**Other:**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tBash\n\tGrafana\n\tSRE\n\tAgile\n\tincident management\n\tsecurity\n\tcost management\n\terror budgets",
+  "apply_company": "Digital Science"
+}

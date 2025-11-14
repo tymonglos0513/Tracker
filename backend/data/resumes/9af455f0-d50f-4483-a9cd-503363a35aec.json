@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior ML Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior ML Engineer with 10+ years of experience in Machine Learning, Artificial Intelligence, and Data Science, complemented by a strong background in MLOps. Highly skilled in **Python** and adept at creating robust ML pipelines and managing production workflows. Proficient in **cloud computing** solutions on **Azure** and **AWS**, ensuring seamless deployment of applications for real-time processing and batch processing. Experienced in building systems that harness AI/ML capabilities for actionable insights and enhancements.\nExpert in collaborative problem solving and thorough code documentation, ensuring best practices in testing and production monitoring. A proven track record in developing scalable, secure software solutions while adhering to compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Passionate about leveraging technology to create impactful solutions in both healthcare and finance domains, with comprehensive hands-on experience in frameworks including **React**, **Next.js**, **Node.js**, **FastAPI**, and **Django**.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tUtilized **Python** for developing and deploying **Machine Learning** models focused on patient risk prediction and financial fraud detection, integrating real-time inference services into the backend environments with a commitment to continuous performance improvement.\n•\tDesigned and implemented **MLOps** pipelines using **MLflow**, **DVC**, and **Apache Airflow**, achieving a streamlined process for model training, validation, versioning, and deployment across multiple environments, including **production** and **development**.\n•\tCollaborated effectively with data scientists and cross-functional teams to enhance processes utilizing **Artificial Intelligence** features, ensuring seamless integration with client-facing applications to generate personalized and predictive analytics.\n•\tImplemented robust testing frameworks utilizing **Jest**, **Cypress**, **PyTest**, and **Postman**, achieving a comprehensive coverage in unit, integration, and E2E tests across all deployable components.\n•\tLed the deployment of **cloud computing** solutions, integrating technologies like **AWS Lambda** and **Azure Functions**, to enhance the availability and scalability of services and utilizing Docker and Kubernetes (AKS/EKS) for seamless deployments.\n•\tDesigned and maintained cloud-native data architectures leveraging **PostgreSQL**, **MongoDB**, and **Redis**, accommodating large volumes of healthcare and financial data with high efficiency in storage and querying, impacting over **1M** records per day.\n•\tPioneered the use of NLP models with **spaCy** and **Hugging Face Transformers** to enhance healthcare document parsing and financial anomaly detection, successfully embedding these models into existing applications via **RESTful APIs**.\n•\tDeveloped enterprise-grade **production monitoring** tools ensuring operational KPIs were met while optimizing for **real-time processing** with technologies such as **ElasticSearch** and **Azure Cognitive Search**.\n•\tEstablished collaborative workflows for **Code Documentation** and best practices in **problem-solving**, enhancing team productivity and project turnaround times by **30%**.\n•\tIntegrated advanced visualization tools such as **D3.js** and **Chart.js**, providing real-time insights into transactional trends, thereby contributing to enhanced decision-making capabilities for finance and healthcare sectors.\n•\tAchieved high standards in production monitoring and quality assurance through the implementation of **batch processing** strategies across various pipeline stages, yielding improvements in data processing times by over **40%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Leveraged **Python** and various frameworks such as **FastAPI** and **Django** for developing AI/ML models and pipelines, enhancing real-time decision-making for financial applications.\n• Integrated **Machine Learning** models and tools like **scikit-learn** and **XGBoost** to analyze transaction patterns, improving fraud detection rates by **30%**.\n• Designed and implemented end-to-end **MLOps** workflows using **Apache Airflow** for seamless deployment and monitoring of machine learning models, ensuring a **99.9%** uptime for critical applications.\n• Developed robust ETL pipelines with **Azure Data Factory** for batch and real-time processing of financial data, achieving a data ingestion rate of over **1 million records** per hour.\n• Implemented **Cloud Computing** solutions using **Azure Machine Learning** to facilitate scalable, on-demand model training and deployment, reducing model development time by **40%**.\n• Improved problem-solving and collaboration efforts by documenting code and processes effectively to enhance team understanding and streamline project workflows.\n• Conducted thorough testing and production monitoring to maintain system integrity and performance, adhering to best practices in **Code Documentation** to ensure transparency across development cycles."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Applied **Machine Learning** and **Artificial Intelligence** to enhance backend services for a global e-commerce platform, focusing on data-driven algorithms to optimize product recommendations and search relevance.\nEngineered **real-time processing** features using **Kafka** and **RabbitMQ**, enabling immediate order updates and dynamic inventory tracking, significantly improving user experience across key modules by reducing latency by up to **50%**.\nUtilized **Python** for developing comprehensive data processing pipelines, ensuring robust **batch processing** capabilities that streamlined data workflows and enhanced data accessibility.\nConducted **Code Documentation** and implemented best practices for testing, leading to a **30%** reduction in production issues and improving team collaboration.\nCollaboratively optimized MLOps practices to manage machine learning workflow, ensuring seamless integration and deployment within cloud environments, enhancing model performance monitoring by **40%**.\nDeveloped and maintained documentation for complex machine learning models and workflows, supporting future scalability and team onboarding processes.\nParticipated in cross-functional teams to design and implement innovative solutions for real-time customer support applications, enhancing overall platform agility and responsiveness.\nImplemented production monitoring tools for insights on model performance and operational metrics, contributing to ongoing improvements and development.\nEmployed problem-solving strategies to address challenges in data processing and user engagement, driving an increase in conversion rates by **25%** through targeted machine learning interventions."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:** \n\tReact, Vue, Angular\n\n **API Technologies:** \n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:** \n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:** \n\tAWS, Azure\n\n **Other:** \n\tMachine Learning, Artificial Intelligence, Data Science, MLOps, LLMOps, Batch Processing, Real-time Processing, Code Documentation, Testing, Production Monitoring, Problem Solving, Collaboration",
+  "apply_company": "Ageas UK"
+}

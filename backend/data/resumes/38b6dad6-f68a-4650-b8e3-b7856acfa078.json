@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Fullstack Developer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Senior Full Stack Developer with over 10 years of experience specializing in **React.js**, **Node.js**, and **Microservices architecture**. Proven track record in developing robust database solutions with **SQL** and **MongoDB**, ensuring high performance in healthcare and finance sectors. Expert in building cloud-native applications leveraging industry-leading technologies, doing so on major platforms like **Azure** and **AWS**. Adept at architecting full-stack applications and implementing secure, scalable systems, with a strong focus on compliance standards including HIPAA and PCI DSS.\n\nEquipped with a deep understanding of database architecture and a solid grasp of CI/CD practices to streamline development processes. Excellent command of English, enabling effective communication and collaboration across teams. Committed to creating high-quality software solutions that positively impact user experiences and drive organizational success.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Fullstack Developer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable full-stack solutions utilizing **React.js** and **Node.js**, adhering to modern development standards.\n• Led the transition from monolithic applications to **microservices architecture**, leveraging **Docker** and **Kubernetes** (AKS/EKS) to enhance application performance and reliability.\n• Developed and optimized **SQL** and **MongoDB** database architectures to support large-scale applications, processing over **1 million** records efficiently.\n• Ensured high coding standards through comprehensive testing strategies using Jest, PyTest, and Postman, achieving over **95%** code coverage on critical components.\n• Collaborated effectively within cross-functional teams, communicating complex technical concepts fluently in **Intermediate-advanced English**, enabling clear project discussions and timely decision-making.\n• Architected cloud-native data solutions, integrating database management systems, facilitating seamless data processing and retrieval, and improving application response times by **30%**.\n• Facilitated code reviews and mentorship sessions, helping bridge knowledge gaps among team members, contributing to a **20%** increase in team productivity."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Developed dynamic, user-focused front-end applications using **React (18)**, applying modern libraries and frameworks to enhance UI performance and responsiveness.\n• Led the implementation of a **microservices architecture** using **Node.js** (NestJS/Express) to increase scalability and maintainability of financial platforms, resulting in a **30%** boost in throughput for high-volume transaction systems.\n• Enhanced database architecture by utilizing **SQL** and **MongoDB**, ensuring efficient data storage and retrieval for diverse financial applications.\n• Built and integrated real-time dashboards using **D3.js** and **Power BI Embedded**, enabling teams to monitor transactions and analyze financial data with greater accuracy and speed.\n• Established a robust event-driven architecture by integrating **Kafka**, **RabbitMQ**, and **Azure Service Bus**, facilitating better asynchronous communication that improved transaction processing efficiency by **25%**.\n• Designed and orchestrated ETL pipelines with **Apache Airflow** and **Azure Data Factory**, achieving real-time ingestion of financial data and leveraging internal and third-party sources.\n• Implemented advanced AI/ML algorithms for fraud detection using **scikit-learn** and **XGBoost**, improving risk assessment accuracy by **40%** through enhanced pattern analysis and anomaly detection.\n• Created and managed ML pipelines for credit scoring and transaction classification using **MLflow** and **Airflow**, streamlining real-time decision-making processes for financial operations."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **React.js** and **Node.js** to design and develop robust microservices architecture that supports a global e-commerce platform, ensuring high availability and scalability across various applications.\nEngineered high-performance backend services using **Python** and **FastAPI**, delivering low latency solutions for core functionalities such as checkout and order fulfillment across **9** key modules.\nDeveloped and maintained **SQL** databases, including **MongoDB** and **PostgreSQL**, enhancing the database architecture for improved data integrity and accessibility, capable of handling **10K** concurrent transactions.\nOptimized the user experience on web and mobile platforms by developing responsive UI components in **React.js** (version **18**) and **Vue 3**, leveraging **TypeScript** and **Tailwind CSS** to ensure rapid load times and user engagement.\nImplemented caching strategies utilizing **Redis** for shopping cart sessions and search results, leading to a **50%** reduction in database read pressure and a significant boost in application responsiveness.\nDesigned an event-driven architecture with **Kafka** and **RabbitMQ** to power real-time features, facilitating dynamic inventory tracking and live order updates, thus enhancing customer interaction.\nCreated secure and efficient payment processing workflows with **Stripe**, **PayPal**, and **Razorpay**, focusing on PCI-compliance and tokenized transactions to safeguard sensitive customer data.\nLeveraged advanced data techniques with **AI/ML** tools including **scikit-learn** and **TensorFlow** to personalize user experiences that improved conversion rates by **30%** from real-time behavioral data insights.\nImplemented role-based access control (RBAC) and **OAuth 2.0**, ensuring secure and compliant access management, which meets GDPR standards while enhancing platform security during updates.\nEstablished best practices for deployment pipelines using **Kubernetes** for managing blue-green deployments, contributing to smooth rollouts and A/B testing for new features."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular, React.js\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, SQL, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Microservices architecture, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Intermediate-advanced English"
+}

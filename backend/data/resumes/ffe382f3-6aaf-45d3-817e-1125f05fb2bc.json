@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Java Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Java Engineer with 8 years of experience, I excel in developing microservices-based architectures using **Java**, **Spring**, **Docker**, and **Kubernetes**. My skill set includes CI/CD practices leveraging **GitHub**, along with building robust applications with **PostgreSQL** for database management. I have a strong foundation in **REST** APIs and messaging systems like **RabbitMQ** to facilitate smooth data exchange. \n\nI also bring expertise in **Python** development, utilizing frameworks such as **FastAPI** and **Flask**, alongside libraries like **SQLAlchemy** and **Celery** for asynchronous task management. With hands-on experience in **TypeScript** and modern front-end frameworks like **Angular**, I develop comprehensive solutions that address both backend and frontend needs.\n\nFurther enhancing my profile is my commitment to observability and logging, ensuring applications meet compliance standards in industries like healthcare and finance. I have effectively employed **Terraform** for infrastructure management and have integrated automation through platforms like **Retool** and **Zapier**. My diverse tech stack and experience in enterprise-grade solutions make me a valuable asset to any development team.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Utilized **Java** and **Spring** to architect and develop scalable, full-stack healthcare and financial platforms, ensuring compliance with HIPAA, FHIR, GDPR, and financial regulatory standards.\n- Employed microservices architecture using **Docker** and **Kubernetes** to enhance application performance, enabling a **high availability** solution that supports over **10,000** concurrent users.\n- Established robust CI/CD pipelines with **GitHub Actions** and integrated testing frameworks to facilitate continuous deployment, achieving a deployment frequency increase of **50%**.\n- Designed and optimized cloud-native data models with **PostgreSQL** for effective data ingestion, storage, and querying, handling over **1 million** records in real-time.\n- Led initiatives integrating observability and logging solutions for monitoring services within microservices, significantly improving troubleshooting efficiency by **40%**.\n- Developed service-oriented architectures using **REST** APIs and implemented message brokering using **RabbitMQ** for reliable inter-service communication and task distribution.\n- Employed **KNative** for serverless computing solutions, allowing the architectural design to auto-scale according to demand, enhancing cost-efficiency.\n- Collaborated closely with cross-functional teams to ensure seamless integration of frontend applications built with frameworks including **Angular** and **TypeScript**.\n- Implemented security practices and logging mechanisms ensuring robust data protection and user privacy through advanced encryption protocols.\n- Monitored application performance and resolved bottlenecks using industry-standard observability tools, leading to a **30%** reduction in response times.\n- Mentored junior engineers on best practices in application design, microservices implementation, and CI/CD processes, fostering a culture of knowledge sharing and professional growth."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Spring** frameworks to develop microservices architecture, enhancing system scalability and maintainability for high-transaction financial platforms.\nImplemented **PostgreSQL** databases for robust data storage solutions, achieving a **20%** improvement in query performance.\nOrchestrated container deployments using **Docker** and **Kubernetes**, ensuring seamless integration with CI/CD processes for efficient software delivery.\nEngineered RESTful APIs to support asynchronous communication, integrating **RabbitMQ** and implementing observability practices for improved system monitoring.\nDeveloped and maintained critical ETL processes utilizing **Python** with **FastAPI** and **Celery**, achieving real-time data ingestion from various sources, ensuring data accuracy and integrity.\nLeveraged **Terraform** for infrastructure as code, simplifying deployment and scaling of cloud resources.\nConducted dynamic web application development using **Angular** and **TypeScript**, enhancing user experience through responsive designs integrated with **Retool** tools for admin functionalities.\nImplemented comprehensive logging and observability systems to monitor application health and performance, reducing incident response times by **30%**.\nCollaborated in cross-functional teams to design and execute software development workflows on **GitHub**, employing best practices for version control in a **CI/CD** environment."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Java** and **Spring** to design and optimize robust microservices for a global e-commerce platform, ensuring high availability and scalability across core modules such as checkout and order fulfillment, handling **up to 1 million** transactions daily.\nImplemented **PostgreSQL** for distributed data storage, ensuring fast, fault-tolerant data access, achieving a **25%** reduction in query response time for high-traffic workflows.\nDeveloped and maintained CI/CD pipelines using **Docker** and **Kubernetes**, facilitating smooth deployments with **zero downtime** through blue-green deployment strategies.\nApplied observability and logging best practices, enhancing system monitoring to achieve a **98%** incident response time efficiency using tools like **ELK Stack** and **Prometheus**.\nIntegrated message brokers like **RabbitMQ** to facilitate real-time event-driven architecture, improving system responsiveness and data consistency across services.\nEngineered scalable backend services using **Python** with **FastAPI** and **Flask**, optimizing performance for specific endpoints to handle over **1000** concurrent users.\nEmployed **GitHub** for version control and collaboration, enhancing development workflows and team productivity.\nAdopted **CI/CD** practices to streamline application delivery processes, reducing deployment times by **40%** through automated testing and deployment scripts.\nUtilized **TypeScript** in developing responsive UI components, leveraging frameworks like **Angular** and **React**, ensuring accessibility compliance across all platforms.\nPrototype the application using **Terraform**, establishing infrastructure as code to manage microservices effectively and consistently across environments.\nEmphasized code quality and security by implementing role-based access control (RBAC) and OAuth mechanisms to comply with GDPR, ensuring user data protection and privacy."
+    }
+  ],
+  "skills": "Programming Languages:\n\t**Java**, **Rust**, **C++**, **Python**, **JavaScript**, **TypeScript**\n\n**Backend Frameworks:**\n\t**Spring**, **FastAPI**, **Flask**, **Django**, **Celery**\n\n**Frontend Frameworks:**\n\t**React**, **Vue**, **Angular**\n\n**API Technologies:**\n\t**REST**, **RabbitMQ**, **KNative**\n\n**Serverless and Cloud Functions:**\n\t**AWS (ECS, Lambda, RDS, S3)**, **Azure (App Services, Blob, SQL)**\n\n**Databases:**\n\t**PostgreSQL**, **MySQL**, **MongoDB**, **Redis**, **SQLAlchemy**\n\n**DevOps:**\n\t**Docker**, **Kubernetes**, **GitHub Actions**, **GitLab CI/CD**, **CI/CD**\n\n**Cloud & Infrastructure:**\n\t**Terraform**, **Ansible**, **Helm**, **Docker Compose**\n\n**Other:**\n\t**Keycloak (OIDC, RBAC)**, **JWT**, **OAuth2**, **Let’s Encrypt**, **Nginx**, **Certbot**, **MLflow**, **Airflow**, **Kubeflow**, **Observability**, **Logging**, **Retool**, **Zapier**",
+  "apply_company": "Protolabs"
+}

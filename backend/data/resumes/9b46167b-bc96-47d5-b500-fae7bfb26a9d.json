@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience in designing and deploying applications across the healthcare and financial sectors. Proficient in **Golang**, SQL, and data warehousing technologies, with hands-on expertise in building robust APIs and implementing clean code principles. Equipped with knowledge of messaging systems such as **Nats** and **Kafka**, and experience in blockchain technologies and **EVM**. \nSkilled in **AWS** for cloud services, with a strong understanding of monitoring tools like **Prometheus** and **Grafana**. Committed to agile methodologies and testing practices for delivering high-quality software solutions. Additionally, well-versed in developing high-performance applications using **JavaScript/TypeScript**, **Python**, and **Flutter**, and frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experienced in AI/ML platforms, compliance-driven development including HIPAA and PCI DSS standards, and MLOps orchestration using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Golang** to design and implement scalable microservices, ensuring high availability and performance in line with enterprise standards.\nDeveloped and optimized SQL queries for efficient data retrieval and manipulation within **AWS** data warehousing solutions, enhancing data accessibility for analytics.\nIntegrated **NATS** and **Kafka** for reliable messaging and streaming data across distributed systems, ensuring real-time data processing capabilities.\nDesigned and built RESTful **API** interfaces to enhance system interoperability and facilitate smooth data exchange between various applications.\nMonitored applications and infrastructures using **Prometheus** and **Grafana**, ensuring system reliability and performance with real-time metrics and alerting systems.\nParticipated in agile development practices, leading sprint planning and reviews, driving team alignment and project focus to deliver features efficiently.\nApplied clean coding principles to maintain code quality, ensuring the codebase is modular, maintainable, and adheres to industry best practices.\nConducted comprehensive testing strategies using tools like Jest and PyTest, ensuring high-quality releases with rigorous unit, integration, and E2E testing frameworks.\nImplemented robust cryptography protocols to secure sensitive data and enhance overall application security in compliance with industry regulations.\nArchitected data pipelines to support the ingestion of large datasets leveraging **AWS** resources, ensuring the infrastructure can handle up to **10TB** of data per day.\nStreamlined CI/CD processes, achieving deployment times reduced by **40%** through automation and integration of testing in the build process.\nCollaborated with cross-functional teams to enhance product features, increasing customer satisfaction scores by up to **25%** across multiple deployments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Golang** to build scalable backend services, optimizing performance and reliability in high-volume data environments.\nDesigned and implemented **SQL** database schemas and queries to support data warehousing solutions that improved data retrieval efficiency by **30%**.\nCollaborated with cross-functional teams to ensure adherence to **agile** methodologies, enhancing project delivery timelines by **25%**.\nLeveraged **Kafka** and **Nats** for building distributed messaging systems that improved event processing times by **40%** and maintained system resiliency.\nDeveloped secure APIs for integration with third-party services, employing best practices in **clean code** and **cryptography** to protect sensitive financial data.\nImplemented **Prometheus** and **Grafana** monitoring solutions to ensure system uptime and performance metrics were met, reducing incident response times by **50%**.\nConducted thorough testing and QA processes throughout the software development lifecycle to ensure the delivery of high-quality features and bug fixes.\nActive participation in code reviews and mentoring of junior engineers to uphold coding standards and best practices in software development."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Golang** to develop robust backend services for complex workflows, enhancing system performance and reliability in line with the company's objectives.\nEmployed **SQL** for efficient data querying and database management, ensuring optimal data retrieval and storage architecture for large-scale applications.\nImplemented data warehousing strategies to optimize data storage solutions, enabling fast access and analysis of large datasets crucial for decision-making processes.\nLeveraged **Kafka** for event streaming and reliable message handling in a microservices architecture, improving data flow between services and responsiveness of applications.\nUtilized **Nats** for lightweight messaging, facilitating seamless communication across distributed systems to support microservices implementation.\nConducted rigorous **testing** methodologies to ensure code quality and adherence to clean coding principles as part of a comprehensive **agile** development process.\nMonitored application performance and operational metrics using **Prometheus** and **Grafana**, ensuring uptime and responsiveness in production environments.\nEngaged in secure coding practices, employing cryptography techniques to protect user data and ensure compliance with security standards throughout software development.\nOrchestrated API development and integration for effective communication between services, utilizing best practices to create efficient and scalable endpoints.\nContributed to the adoption of **blockchain** technology in application design for enhancing data integrity and security, exploring **EVM** features for smart contract implementations.\nDesigned architectures that accommodate future advancements and integrations with **AWS**, ensuring cloud resources are utilized effectively to meet project requirements."
+    }
+  ],
+  "skills": "Programming Languages:\n\tGolang, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Nats, Kafka, data warehousing, blockchain, EVM, Prometheus, Grafana, agile, clean code, testing, cryptography, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "Consensys"
+}

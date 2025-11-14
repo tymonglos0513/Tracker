@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Interoperability Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Interoperability Engineer with 13+ years of experience in developing high-performance applications in compliance-driven environments, particularly within healthcare and financial sectors. Proven skills in **Java**, **Python**, and **CI/CD** methodologies, proficient in designing and implementing **RESTful APIs** and integrating systems using **Apache Camel** and **Mirth Connect**.\nExpertise in leveraging **Kafka** for real-time data streaming and event-driven architectures, with a strong foundation in **SQL** and **NoSQL** databases, including **MySQL**, **PostgreSQL**, and **MongoDB**. In-depth knowledge of healthcare standards such as **HL7** and **FHIR**, ensuring alignment with regulatory requirements including HIPAA.\nAdept in deploying scalable solutions in the cloud using **AWS**, **Azure**, and **Google Cloud**, while effectively utilizing **Docker**, **Kubernetes**, and the **ELK Stack** for maintaining system performance and reliability. Committed to implementing best practices in **MLOps** through tools like **MLflow** and **Airflow**. Additional strengths include strong analytical skills, effective collaboration, and a passion for innovative technology solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Interoperability Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and built full-stack platforms for healthcare utilizing **Python**, implementing **HL7** and **FHIR** standards to ensure interoperability and compliance with regulations such as HIPAA and GDPR.\nDeveloped RESTful APIs for seamless data exchange across systems with a focus on security and scalability, leveraging **Spring Boot** and **Apache Camel**.\nImplemented **CI/CD** practices for automated deployment workflows using tools like **Docker** and **Kubernetes**, enhancing the development cycle efficiency by up to **30%**.\nCreated data storage solutions utilizing **PostgreSQL** and **MongoDB** for structured and unstructured data, ensuring optimized performance for high-volume transactions.\nConfigured message brokers such as **Kafka** for efficient real-time data processing and communication between microservices, achieving a **99%** uptime in data delivery.\nConducted thorough unit and integration testing with tools like **JUnit** and **Mockito**, achieving over **95%** code coverage to ensure reliability and maintainability of applications.\nDesigned and executed Azure-based cloud storage solutions with **S3** compatible services, optimizing data access and storage costs by **20%**.\nCollaborated with cross-functional teams to integrate monitoring tools such as **Prometheus** and **Grafana** for comprehensive system performance tracking and alerting.\nUtilized **ELK Stack** for effective logging and troubleshooting to enhance system transparency and fault resolution time.\nDeveloped a microservices architecture to replace monolithic systems, leading to an increase in deployment frequency and a reduction in lead time for changes by **40%**.\nParticipated in the use of **Mirth Connect** for health information exchange, ensuring compliance with industry standards and certification for data interoperability.\nContinuously improved existing systems by updating and optimizing legacy codebases utilizing **Java** and **Docker** for rich, feature-enhanced applications."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **RESTful API** solutions leveraging **Java** and **Spring Boot**, fostering seamless data exchange and interoperability across healthcare systems.\nDeveloped data integration workflows utilizing **Apache Camel** and **Mirth Connect**, effectively handling HL7 and FHIR standards to ensure compliance with healthcare regulations.\nBuilt robust solutions that utilized **Kafka** for real-time data streaming, guaranteeing high availability and resilience in patient data management systems.\nDesigned and executed **CI/CD** pipelines with **Docker** and **Kubernetes**, automating deployment processes to improve operational efficiency by **30%**.\nManaged and optimized structured and unstructured data storage solutions using **MySQL**, **PostgreSQL**, and **MongoDB**, achieving a **25%** improvement in query performance.\nIncorporated monitoring solutions utilizing **Prometheus** and **Grafana**, enhancing system observability with real-time metrics tracking and alerting capabilities.\nIntegrated data lakes using **AWS S3** and **Azure Blob Storage**, providing a scalable solution for storing vast amounts of healthcare data.\nEmployed testing frameworks like **JUnit** and **Mockito** to enhance software reliability through automated unit testing, ensuring a **90%** code coverage rate."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **HL7** and **FHIR** standards to ensure seamless integration and interoperability of health data across multiple systems for better patient outcomes.\nDeveloped and maintained backend services using **Java** and **Python** with **Spring Boot**, focusing on RESTful API design for efficient data exchange in healthcare applications.\nImplemented message brokering solutions with **Apache Camel** and **Mirth Connect** to enable real-time communication between disparate healthcare systems, reducing latency by **20%**.\nLeveraged **Kafka** for event-driven architecture, enhancing the reliability of data streams and enabling real-time analytics with **1M+** messages processed daily.\nOrchestrated CI/CD pipelines to automate deployment processes, improving release efficiency by **30%** and ensuring high software quality through automated testing with **JUnit** and **Mockito**.\nEmployed **Docker** and **Kubernetes** for containerization and orchestration, resulting in increased application scalability and streamlined development workflows across environments.\nDesigned and optimized database solutions using **SQL** (MySQL, **PostgreSQL**) and **NoSQL** (MongoDB), ensuring efficient data storage and access for high-traffic interoperability applications.\nIntegrated cloud storage solutions using **AWS S3**, enabling the secure and scalable storage of healthcare data with **99.9%** uptime in disaster recovery scenarios.\nMonitored application performance with **Prometheus** and **Grafana**, enabling proactive management and response to system performance issues before impacting end users.\nImplemented security practices ensuring compliance with healthcare regulations by applying role-based access control (RBAC) and OAuth 2.0, safeguarding sensitive patient information."
+    }
+  ],
+  "skills": "****Programming Languages:****\n\tPython, Java\n\n****Backend Frameworks:****\n\tFastAPI, Flask, Django, Spring Boot\n\n****Frontend Frameworks:****\n\tJavaScript/TypeScript: React, Vue, Angular\n\n****API Technologies:****\n\tRESTful API, HL7, FHIR, Apache Camel, Mirth Connect\n\n****Serverless and Cloud Functions:****\n\tAWS: Lambda, ECS, S3, Azure: App Services, Blob Storage, SQL Database, Google Cloud\n\n****Databases:****\n\tPostgreSQL, MySQL, MongoDB, NoSQL\n\n****DevOps:****\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\n****Cloud & Infrastructure:****\n\tTerraform, Ansible, Helm, Docker Compose, ELK Stack, Prometheus, Grafana\n\n****Other:****\n\tMLflow, Airflow, Kubeflow, Kafka, JUnit, Mockito, Redis, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Confluent Schema Registry"
+}

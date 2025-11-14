@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-driven Data Engineer with 8 years of experience in Data Engineering and AI/ML, specializing in building high-performance data solutions for the healthcare and financial sectors. Proficient in **Python**, **SQL**, and data management frameworks such as **dbt**, **Dagster**, and **Prefect**. Extensive experience with cloud platforms including **Azure** and **AWS**, and skilled in containerization and orchestration using **Docker** and **Kubernetes**.\n\nExpert in developing and optimizing ETL/ELT pipelines, data warehousing solutions in **Snowflake**, and ensuring data integrity and governance with tools like **Monte Carlo** and **Great Expectations**. Known for implementing effective **DevOps** practices to automate workflows, alongside a strong foundation in data modeling and real-time data processing.\n\nAdditionally, I possess leadership capabilities with a track record of innovative problem-solving and teamwork, contributing to successful project outcomes while maintaining clear communication and ownership of deliverables.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained robust **ETL/ELT** pipelines leveraging **Python** and **SQL**, ensuring seamless data ingestion and transformation for large-scale datasets in financial and healthcare sectors.\n- Designed and optimized data models and architecture using **PostgreSQL**, **MongoDB**, and **Redis**, enabling efficient data storage, querying, and governance processes.\n- Implemented **cloud-native** data warehousing solutions utilizing **Snowflake** for enhanced data accessibility and performance in analytics tasks.\n- Built scalable **MLOps** pipelines with **MLflow** and **DAGs** using **Prefect** and **Dagster**, facilitating continuous training, validation, and deployment of machine learning models across development and production environments.\n- Collaborated with cross-functional teams to integrate AI/ML features, leveraging advanced libraries like **scikit-learn**, **PyTorch**, and **TensorFlow** for predictive analytics and real-time data processing.\n- Established intuitive data visualization tools powered by **D3.js** and **Power BI Embedded**, providing actionable insights for operational KPIs and fraud detection projects across 10 million+ records.\n- Orchestrated containerized microservices using **Docker** and **Kubernetes**, ensuring high availability and resilience in deploying data pipelines and applications across cloud environments.\n- Drove the implementation of enterprise-level **DevOps** practices utilizing **GitHub Actions** and **Azure DevOps**, streamlining workflows with linting, testing, and security integration, contributing to a 30% reduction in deployment time.\n- Enhanced data quality and governance through integration with tools like **Monte Carlo** and **Great Expectations**, leading to a 25% improvement in data accuracy and reliability for reporting and analysis.\n- Led communication strategies for data initiatives, fostering teamwork and innovation while solving complex problems in data engineering through ownership of project cycles."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained robust **ETL/ELT** pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, enabling efficient batch and real-time ingestion of financial data from **5+** internal and third-party sources.\n• Leveraged **SQL** for data manipulation and querying, ensuring data integrity and accuracy across multiple databases in financial systems.\n• Collaborated with cross-functional teams to implement **AI/ML**-powered fraud detection systems using libraries such as **scikit-learn** and **XGBoost**, analyzing transaction patterns to proactively identify suspicious behavior, resulting in a **30%** reduction in fraudulent activities.\n• Designed and deployed data models and analytics dashboards utilizing **Snowflake** and **Power BI Embedded**, facilitating real-time financial insights for operational teams and enabling quick decision-making.\n• Integrated **Cloud Platforms** including **Azure Service Bus**, **Kafka**, and **RabbitMQ** to establish a scalable, event-driven architecture, supporting asynchronous communication and real-time alerts for **10,000+** transactions daily.\n• Utilized **Docker** and **Kubernetes** for containerization and orchestration of data services, ensuring seamless deployment and scaling while maintaining high availability.\n• Actively participated in code reviews and contributed to **Data Governance** practices to ensure compliance and accuracy, fostering a culture of ownership and teamwork within the data engineering team.\n• Innovated data processing workflows using **dbt**, **Dagster**, and **Prefect**, improving data pipeline efficiency by **20%** and enhancing overall data quality and reliability.\n• Engaged in continuous learning and adaptation of new technologies to drive innovation, fostering a problem-solving mindset and delivering impactful data solutions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **SQL** for comprehensive **Data Engineering** solutions, implementing ETL processes that served over **10 million records** daily, resulting in increased efficiency and reliability of data workflows.\nDesigned and developed scalable data pipelines using **Docker** and **Kubernetes** for container orchestration, optimizing deployment processes and achieving deployment success rates of **99%**.\nEmployed **Redis** for effective data caching, leading to a **40%** reduction in data retrieval times and enhanced application performance during peak traffic.\nCollaborated on **AI/ML** initiatives by integrating algorithms using **scikit-learn** and **TensorFlow**, doubling the speed of data-driven decision-making and boosting recommendation accuracy by **30%**.\nImplemented data modeling and warehousing strategies utilizing **Snowflake**, enabling streamlined access to critical insights and facilitating a **5x** increase in reporting efficiency.\nExecuted strict **Data Governance** protocols, ensuring compliance with industry standards and maintaining data integrity across multiple platforms, while fostering a culture of continuous innovation and problem-solving within the team.\nLeveraged tools such as **dbt**, **Dagster**, and **Prefect** for advanced **ETL/ELT** workflows, which enhanced data quality checks and streamlined processes to ensure timely and accurate data delivery.\nCommunicated complex data insights clearly across teams, cultivating strong teamwork and effective collaboration throughout various phases of project developments.\nDemonstrated ownership in managing data projects, delivering critical features and enhancements consistently aligned with user needs and strategic objectives."
+    }
+  ],
+  "skills": "****Programming Languages****\n\tPython\n\n****Backend Frameworks****\n\tFastAPI, Flask, Django\n\n****Frontend Frameworks****\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n****API Technologies****\n\t\n\n****Serverless and Cloud Functions****\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n****Databases****\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL, Snowflake\n\n****DevOps****\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n****Cloud & Infrastructure****\n\t\n\n****Other****\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow\n\tETL/ELT, dbt, Dagster, Prefect, Data Engineering, AI/ML, DataHub, Data Modeling, Data Warehousing, Data Governance, Communication, Teamwork, Innovation, Problem Solving, Ownership"
+}

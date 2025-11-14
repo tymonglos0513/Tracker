@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior ML Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior ML Engineer with 8 years of full-stack development experience, I excel in **Python**, developing **Machine Learning** solutions, and building robust **Backend Systems** that meet high-performance criteria. My background includes designing and implementing **Data Pipelines** for efficient data processing and analysis. I possess a strong foundation in **Distributed Computing** and **High-Performance Computing**, allowing me to tackle complex challenges in dynamic environments.\n\nMy technical toolkit encompasses **JavaScript**, **TypeScript**, and **Flutter**, as well as frameworks such as **React**, **Next.js**, and **Node.js**. I have deep cloud experience working with **Azure** and **AWS**. I have led the development of enterprise-grade platforms with integrated AI/ML capabilities for predictive analytics and intelligent automation.\n\nI bring hands-on expertise in automated testing and code review practices, ensuring maintainable and aligned code quality. My commitment to effective communication and collaboration enhances team dynamics and project outcomes, while my proficiency in CI/CD automation aligns with compliance standards including HIPAA, FHIR, and SOC 2. Additionally, I have experience developing machine learning pipelines and serving models in production using tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and optimized **Python**-based backend systems for machine learning applications, ensuring high performance and scalability.\n- Designed and built robust data pipelines for continuous data ingestion and processing, facilitating efficient ML model training and deployment.\n- Implemented machine learning solutions using various frameworks including **scikit-learn**, **PyTorch**, and **TensorFlow** for applications such as patient risk prediction and financial fraud detection.\n- Collaborated with cross-functional teams to integrate ML models into production systems, enhancing communication and project alignment.\n- Led automated testing strategies with tools like **PyTest** and systemized code reviews, contributing to improved code quality and maintainability.\n- Ensured high-performance computing practices in distributed systems by leveraging **Docker** and **Kubernetes (1.21)** for container orchestration.\n- Spearheaded the establishment of CI/CD pipelines for ML model lifecycle management, enhancing deployment efficiency and time-to-market by **30%**.\n- Engaged in effective communication with data scientists and stakeholders to align on project goals and requirements for AI-driven financial solutions.\n- Authored comprehensive documentation for data pipeline architecture and ML model performance evaluations, ensuring clarity and knowledge sharing across teams.\n- Developed insightful data visualizations and dashboards to monitor model performance using tools like **Power BI** and **D3.js**, facilitating data-driven decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to develop robust backend systems that support high-performance computing and data processing, ensuring efficient handling of complex machine learning algorithms and data pipelines.\nDesigned and implemented automated testing strategies for machine learning models, enhancing the reliability and accuracy of predictive systems in financial transactions.\nIntegrated distributed computing solutions to improve scalability and performance in real-time data processing frameworks, leveraging cloud services for increased operational efficiency.\nOrchestrated ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, achieving a **30%** increase in data ingestion speed from both internal and third-party financial sources.\nDeveloped machine learning models for fraud detection using advanced libraries such as **scikit-learn** and **XGBoost**, incorporating analyzing transaction patterns to improve detection accuracy by **25%**.\nLed code review processes to maintain code quality and enhance collaboration among team members, contributing to a **50%** reduction in deployment errors.\nEmployed clear communication skills to work with cross-functional teams, ensuring alignment on project goals and effective delivery of machine learning solutions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend systems using **Python** to implement high-performance computing for a global e-commerce platform, ensuring scalability and low latency across key modules like checkout and order fulfillment.\nEngineered data pipelines for machine learning features utilizing **Kafka** and **RabbitMQ**, enabling dynamic inventory tracking and real-time customer support with efficient processing.\nDeveloped robust automated testing strategies and conducted thorough code reviews to maintain code quality across applications, emphasizing team collaboration and communication.\nLeveraged high-performance distributed computing with **MongoDB**, **PostgreSQL**, and **Redis** for fast data access, ensuring fault-tolerance in high-traffic e-commerce workflows, significantly reducing database load.\nImplemented machine learning models for personalized user experiences using **scikit-learn**, **LightGBM**, and **TensorFlow**, resulting in a conversion rate improvement of **15%** through optimized search relevance based on real-time behavioral data.\nBuilt and integrated secure payment workflows with **Stripe**, **PayPal**, and **Razorpay**, maintaining PCI compliance for handling sensitive customer data while achieving a transaction success rate of **99.5%**.\nApplied role-based access control (RBAC) and **OAuth 2.0** to ensure secure, GDPR-compliant access for both customers and administrators across the platform.\nUtilized **Golang** and **Rust** for performance-critical modules, driving innovation and optimization in backend service architecture, with a focus on maintaining high throughput.\nFacilitated effective communication with cross-functional teams to ensure alignment on project goals and deliverables, enhancing collaboration during the machine learning model deployment phase."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Golang, Rust\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\t\n\n **Other:**\n\tMachine Learning, MLflow, Airflow, Kubeflow, Automated Testing, Code Review, Communication, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Cosmose, Inc."
+}

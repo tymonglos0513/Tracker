@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Software Engineer with 13+ years of experience in high-performance application development, specializing in **Python**, **FastAPI**, and **AI/ML technologies**. Proven expertise in implementing **TDD**, **DDD**, and **Clean Architecture** principles to deliver high-quality code. Skilled in modern development methodologies, including **Agile principles** and **Scrum methodology**, facilitating effective teamwork through **pair programming** and robust use of collaboration tools. Proficient in integrating and deploying microservices with **Kubernetes** and **Helm**, utilizing **Postgres** for database management and **Kafka** for event streaming. Experienced in conducting **unit testing** and **integration testing** to ensure reliability and maintainability of applications. Strong background in building AI/ML-powered solutions for predictive analytics and automation, with hands-on experience in **GitLab CI** for seamless CI/CD processes. Passionate about producing high-quality, efficient software solutions across diverse industries.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed high-quality software solutions leveraging **Python** and **FastAPI** to create robust applications, adhering to **Agile principles** and **Scrum methodology** for efficient project management.\n- Employed **Postgres** as a primary database to ensure reliable data management and storage, optimizing performance for applications with high data throughput.\n- Designed and implemented microservices architecture using **Kubernetes** and **Helm**, enabling scalable, maintainable systems that support continuous integration and delivery (CI/CD) practices through **GitLab CI**.\n- Applied **Test-Driven Development (TDD)** practices to maintain high code quality, incorporating both unit testing and integration testing to cover critical application functionalities, reducing bugs by **30%**.\n- Led collaborative coding sessions and **pair programming** initiatives to enhance team productivity and knowledge sharing, resulting in an improvement of cross-functional skills among team members.\n- Integrated **AI/ML technologies** and algorithms to enhance application capabilities, using frameworks compatible with **LangChain** for dynamic processing and responsiveness to user needs.\n- Implemented data pipelines and real-time ingestion using **Kafka**, supporting immediate data processing and analysis, critical for achieving timely insights and decision-making.\n- Actively participated in code reviews and maintained coding standards to ensure high-quality code that aligns with best practices and enhances overall system performance.\n- Championed the adoption of **Clean Architecture** principles, improving the modularity and testability of applications, which reduced feature rollout times by **25%**.\n- Collaborated with diverse teams to gather requirements and deliver tailored solutions that meet businesses and customer needs, fostering strong stakeholder relationships through regular updates and feedback sessions."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Developed high-quality software solutions leveraging **Python**, ensuring adherence to **TDD** and **Agile principles**, contributing to over **90% test coverage** in codebases.\n• Implemented microservices architecture using **FastAPI** for scalable application development, which improved system scalability by **50%** for transaction processing.\n• Collaborated in an Agile environment using **Scrum methodology** and **pair programming**, leading to a **30% reduction** in delivery time for high-priority features.\n• Enhanced data integrity and performance in financial systems utilizing **Postgres** as a reliable database solution, with **99.9%** uptime achieved.\n• Spearheaded the use of **Kubernetes** for container orchestration, ensuring seamless deployment and scaling of services, achieving an average deployment time reduction of **40%**.\n• Designed and executed integration tests and unit tests using **GitLab CI**, improving deployment reliability and reducing rollback incidents by **25%**.\n• Employed **Kafka** for building a robust event-driven system, which facilitated real-time data processing and enhanced workflow efficiency across critical applications.\n• Integrated AI/ML technologies into the financial systems, resulting in the deployment of predictive models that improved fraud detection accuracy by over **15%**.\n• Maintained a collaborative development environment through the use of advanced collaboration tools, ensuring streamlined communication within cross-functional teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** (FastAPI) and integrated **Postgres** for backend development, ensuring high-quality code and adherence to **TDD** practices for reliable user-facing features.\nAdopted **Golang** and **C#** for microservices architecture, promoting **Clean Architecture** principles and enhancing maintainability across various service deployments.\nDesigned and implemented data pipelines using **Kafka** for real-time analytics and decision-making, contributing to a **30% increase** in system responsiveness.\nEmployed **Kubernetes** and **Helm** for robust deployment strategies, managing scalable applications with minimum downtime, including a **90% reduction** in failed deployments.\nCollaborated using **GitLab CI** for continuous integration and delivery processes, implementing **Agile principles** and **Scrum methodology** for efficient team collaboration and project tracking.\nCreated and maintained thorough unit and integration tests within the **AI/ML** technology stack for continual performance evaluation and code reliability.\nEngaged in pair programming to foster knowledge sharing and maintain high coding standards, promoting a culture of iterative improvement.\nDeveloped secure applications by applying **OAuth 2.0** for user authentication and ensuring compliance with **GDPR** guidelines for data security.\nImplemented real-time capabilities and features aligning with **DDD** principles, enhancing user engagement by dynamically tracking and updating services.\nStandardized development processes to strengthen team collaboration and improve overall software quality and deployment speed."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Golang, C#, Java, Kotlin\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, LangChain\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Postgres\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, GitLab CI, Helm, Terraform, Ansible\n\n**Cloud & Infrastructure:**\n\tNginx, Let’s Encrypt, Certbot\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Kafka, DDD, Clean Architecture, AI/ML technologies, TDD, Agile principles, Scrum methodology, pair programming, high-quality code, unit testing, integration testing, collaboration tools"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior AWS Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior AWS Engineer with 13+ years of experience in developing and maintaining high-performance applications, particularly in the healthcare and financial sectors. Highly skilled in **AWS**, **CI/CD**, and **Jenkins**, with extensive knowledge of **Terraform** and **AWS CDK** for infrastructure as code (IaC). Proficient in deploying cloud-native systems and managing CI/CD pipelines, ensuring robust and scalable solutions.\nExceptional in automating testing and monitoring processes using tools like **Selenium**, **Snyk**, **Sentry**, and **SumoLogic**, enabling rapid deployment cycles while ensuring compliance with industry standards.\nRecognized for my strong programming foundation in **Python** and scripting via **Bash** and **Groovy**, as well as my hands-on experience in both frontend and backend technologies such as **React**, **Next.js**, and **Node.js**. Committed to building innovative solutions and guiding teams through compliance-driven development aligned with HIPAA and PCI DSS standards.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AWS Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented **CI/CD** pipelines utilizing **Jenkins**, **Bitbucket**, and **Selenium**, ensuring automated testing and seamless deployment across development environments.\nDesigned and executed **Infrastructure as Code (IaC)** using **AWS CDK** and **Terraform** to provision secure, scalable infrastructure for applications running on **AWS**.\nLeveraged **AWS** cloud services to deploy microservices architectures, ensuring high availability and fault tolerance across multiple environments.\nIntegrated monitoring and logging solutions such as **Snyk**, **Sentry**, and **SumoLogic** to maintain application performance and security across various deployments.\nCollaborated in cross-functional teams to optimize build processes with **GitHub Actions**, enhancing the efficiency of software delivery.\nDeveloped automated testing strategies using **BDD** and **Gherkin**, implementing test cases in **Python** and **Groovy** to ensure software quality and compliance with project requirements.\nExecuted scripts using **Bash** to manage deployment workflows and maintain continuous integration systems, reducing manual effort by **75%**.\nImproved deployment frequency by **40%** with robust **CI/CD** practices, leading to faster feature releases and enhanced customer satisfaction.\nConducted security assessments using tools like **Snyk** to identify vulnerabilities in application dependencies and ensure code security throughout the lifecycle.\nMaintained comprehensive documentation of infrastructure setups, deployment processes, and automation strategies, contributing to team knowledge sharing and onboarding efforts."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **AWS** services to modernize core financial platforms, leveraging **CI/CD** with **Jenkins**, **Bitbucket**, and **Terraform** for automated deployments, achieving a 30% reduction in deployment time.\nDeveloped and maintained Infrastructure as Code (IaC) using **AWS CDK** and **Terraform**, which improved version control and scalability of the infrastructure, resulting in 99.9% uptime.\nConducted continuous integration and testing using **Selenium** and **XRAY** to ensure high quality and reliability of applications, achieving a 40% decrease in production bugs through effective BDD practices with **Gherkin**.\nDesigned robust monitoring and logging systems using **Snyk** for security scanning and **SumoLogic** for real-time data analysis, enhancing incident response times by 50%.\nAutomated deployment processes and application monitoring using **Python** and **Groovy**, streamlining operational workflows and increasing team efficiency by 25%.\nLed the creation of automated testing strategies that integrated seamlessly into existing workflows, ensuring code quality and delivering features two weeks ahead of schedule on average.\nContributed to the development of supplemental internal tools using **Bash** scripts to automate routine tasks, thereby saving over 150 hours per month in manual labor."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged **AWS** cloud services to design and deploy scalable backend infrastructures for a global e-commerce platform, ensuring continuous integration and delivery (CI/CD) utilizing **Jenkins** and **Bitbucket**.\nDeveloped Infrastructure as Code (IaC) using **Terraform** and **AWS CDK**, automating deployment processes and achieving a **30% reduction** in provisioning time for new environments.\nImplemented automated testing strategies using **Selenium** and **XRAY**, enhancing software reliability by integrating Behavior Driven Development (BDD) principles with **Gherkin**, leading to a **25% increase** in test coverage.\nOptimized performance monitoring and error logging through **Snyk** and **Sentry**, resulting in a **15% decrease** in application incidents and improved response times for user-facing services.\nDesigned resilient backend services with **Python** and integrated automation scripts developed in **Groovy** and **Bash** to streamline infrastructure maintenance tasks.\nIntegrated monitoring and logging solutions using **SumoLogic** to ensure proactive system health checks and optimize resource utilization for high-traffic e-commerce workflows.\nContributed to the development of microservices architecture, ensuring high availability and fault tolerance across services through effective use of **AWS** components and automated deployment pipelines.\nApplied industry best practices to enhance security posture, ensuring compliance with GDPR and securing sensitive data for user transactions and access controls.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Groovy, Bash\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS Lambda\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD, Snyk, Sentry\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, AWS CDK, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Bitbucket, Selenium, XRAY, BDD, Gherkin, Terraform, Ansible, Helm, Docker Compose, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, IaC, SumoLogic",
+  "apply_company": "Mitratech"
+}

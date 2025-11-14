@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Dynamic Senior Software Engineer with 8 years of comprehensive experience in full-stack development, focusing on high-performance solutions in challenging sectors. Proficient in **Java**, **Kotlin**, **Scala**, **Python**, **TypeScript**, **React**, and backend frameworks such as **Spring Boot**. I excel in cloud environments like **AWS** and have hands-on expertise in containerization and orchestration using **Docker**, **Kubernetes**, and infrastructure as code with **Terraform**.\n\nI have a proven track record of leading development for scalable platforms and implementing CI/CD pipelines with tools like **Jenkins**, **Spinnaker**, and monitoring solutions such as **Datadog**. My experience includes working with event-driven architectures and messaging systems using **Kafka**, reinforcing modern software development practices such as Agile and SDLC. \n\nWith a solid understanding of design patterns and strong communication skills, I excel in collaborative team environments and value constructive feedback to enhance project outcomes. I am committed to delivering secure, compliant applications and actively contribute to the refinement of agile methodologies.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented full-stack solutions using **TypeScript**, **Python** (FastAPI), and **React** (17-18), ensuring high-quality, scalable applications that meet the needs of healthcare and financial sectors.\nArchitected microservices with **Docker**, **Kubernetes** (AKS/EKS), and **AWS Lambda**, facilitating efficient service management and deployment across **Agile** environments.\nDeveloped RESTful APIs that connect cross-platform mobile applications built with **Flutter** and **React Native**, enhancing user engagement across both iOS and Android.\nOrchestrated CI/CD pipelines using **GitHub Actions**, **Jenkins**, and **Azure DevOps**, streamlining development workflows and ensuring consistent delivery through automated testing and deployments.\nUtilized **PostgreSQL** and **MongoDB** for robust data storage solutions, optimizing large-scale data handling for healthcare and finance applications.\nDesigned and integrated machine learning models utilizing **Python** (scikit-learn, **TensorFlow**) for key functionalities such as patient risk assessment and fraud detection, enabling proactive decision-making.\nSpearheaded the introduction of real-time analytics dashboards leveraging **D3.js** and **Power BI Embedded**, delivering actionable insights to stakeholders.\nEstablished testing strategies using **Jest**, **Cypress**, and **Postman** that resulted in a 30% reduction in production bugs by ensuring comprehensive coverage across both front-end and back-end services.\nEnhanced operational efficiency with advanced search implementations using **Azure Cognitive Search** and **ElasticSearch** to navigate vast amounts of structured and unstructured data.\nCollaborated effectively within cross-functional teams, fostering a culture of **communication**, **feedback**, and continuous improvement in the software development lifecycle (SDLC)."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented robust software solutions leveraging **Kotlin**, **Java**, and **Scala**, collaborating with cross-functional teams in an **Agile** environment to ensure high-quality deliverables.\nArchitected scalable applications utilizing **AWS** services, establishing a reliable infrastructure with **Docker**, **Terraform**, and **Kubernetes** for seamless deployment and scalability.\nDeveloped RESTful APIs and microservices using **Spring Boot** and **Python**, enhancing system integration and performance, while adhering to **SDLC** methodologies.\nCreated responsive and interactive user interfaces with **React** (18) and **TypeScript**, optimizing performance and usability in line with user requirements.\nUtilized message brokers like **Kafka** and **Azure Service Bus** to implement event-driven architectures, enhancing application responsiveness and reliability in financial operations.\nEmployed CI/CD practices with **Jenkins** and **Spinnaker**, automating the deployment process to achieve significant reductions in deployment time by **40%**.\nImplemented observability tools such as **Datadog** to monitor application performance, leading to improvements in system health metrics by over **30%**.\nFostered a culture of teamwork and open communication, conducting code reviews and providing constructive feedback, resulting in a **25%** increase in code quality and collaboration efficiency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed scalable backend services using **Python** and **Kotlin**, implementing **Spring Boot** frameworks to enhance feature performance and system reliability in a **microservices** architecture.\n• Utilized **AWS** services for cloud deployment and infrastructure management, ensuring high availability and resilience for mission-critical applications.\n• Engineered frontend applications using **React** (18) with **TypeScript**, focusing on creating dynamic user interfaces to deliver seamless user experiences on web platforms across multiple devices.\n• Implemented CI/CD pipelines leveraging **Jenkins** and **Docker** for efficient code integration and deployment, supporting agile development and consistent delivery cycles across **8** major releases.\n• Employed **Kubernetes** for container orchestration, managing deployment, scaling, and operations of application containers across clusters for enhanced application robustness.\n• Developed data streaming solutions with **Kafka** to handle real-time transactions, boosting the responsiveness of backend processes and improving operational efficiency by **35%**.\n• Collaborated cross-functionally in a team-centric environment, demonstrating strong communication skills and fostering feedback loops to enhance product features and team performance.\n• Participated in Agile methodologies, ensuring adherence to **SDLC** best practices while actively contributing to iterative feature enhancement cycles.\n• Designed secure and efficient cloud architectures, applying **Terraform** for infrastructure as code, enabling reproducible infrastructure setups and automating provisioning processes.\n• Leveraged design patterns for system architecture, ensuring code quality and maintainability while maintaining adherence to best practices.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Java, Kotlin, Scala, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Spring Boot\n\n**Frontend Frameworks:**\n\tReact\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda), Azure (App Services)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Jenkins, Spinnaker\n\n**Cloud & Infrastructure:**\n\tAWS (RDS, S3), Azure (Blob, SQL)\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Kafka, Datadog, Agile, SDLC, Design Patterns, Communication, Teamwork, Feedback",
+  "apply_company": "JUMO"
+}

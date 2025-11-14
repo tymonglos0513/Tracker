@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "DevOps Engineer with 13+ years of experience ensuring high-performance application delivery in healthcare and financial industries. Proficient in CI/CD, **Docker**, **Kubernetes**, and **Azure** and **AWS**, with a strong emphasis on automation and monitoring using tools like **Grafana**, **Zabbix**, and **Graylog**. Skilled in implementing and optimizing CI/CD pipelines using **Jenkins** and **TeamCity**. \nHighly experienced in programming with **Python**, and managing system configurations using **Terraform** and **Ansible**. Adept at managing environments in both Unix-like and Windows Server systems. Committed to compliance-driven development in line with HIPAA and PCI DSS standards, and leveraging knowledge in MLOps frameworks like **MLflow**, **Airflow**, and **Kubeflow** to enhance data-driven environments. Strong collaboration skills with a focus on delivering robust, scalable solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented **CI/CD** pipelines using **Jenkins** and **GitHub Actions**, ensuring automated test integration and deployment workflows across multiple environments.\n- Managed container orchestration and deployment with **Kubernetes** (1.21), enhancing application scalability and resilience.\n- Developed and maintained containerized applications using **Docker** for consistent development and production environments, improving deployment efficiency by **30%**.\n- Monitored system performance and application metrics utilizing **Grafana** and **Zabbix**, achieving **99.9%** uptime while enhancing operational visibility.\n- Automated infrastructure provisioning and configuration management with **Terraform** and **Ansible**, reducing setup time by **40%**.\n- Successfully migrated legacy systems to cloud environments, leveraging **AWS** and **Azure** services for scalability and reliability, achieving cost reductions up to **20%**.\n- Implemented logging and monitoring solutions using **Graylog** and **PRTG**, enhancing incident response time and issue resolution by **50%**.\n- Contributed to maintaining version control using **Git** and **SVN**, ensuring code integrity and facilitating collaborative development processes.\n- Streamlined deployment processes for server applications on **IIS** and **Windows Server** environments, balancing performance and security requirements.\n- Conducted operational audits and performance tuning on Unix-like systems, optimizing resource usage and enhancing server performance by **25%**.\n- Developed custom monitoring scripts with **PowerShell** enhancing the response time for system alerts and improving proactive maintenance strategies.\n- Collaborated with cross-functional teams to integrate automated testing frameworks and promote DevOps culture, resulting in a **15%** increase in deployment frequency."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **CI/CD** pipelines using **Jenkins** and **TeamCity** for continuous integration and deployment, improving deployment frequency by **30%**.\nUtilized **Docker** and **Kubernetes** for container orchestration, ensuring scalable and robust deployment of microservices, reducing deployment times by **40%**.\nMonitored application performance and infrastructure health using **Grafana**, **Zabbix**, and **Graylog**, leading to a **20%** decrease in downtime incidents.\nAutomated configuration management and infrastructure provisioning using **Terraform** and **Ansible**, streamlining development and operations processes by reducing manual configurations by **50%**.\nConducted regular system audits and health checks on **Windows Server** and UNIX-like environments, ensuring compliance and performance optimization across platforms.\nFacilitated cross-team collaboration through effective version control management using **Git** and **SVN**, improving project transparency and communication.\nLeveraged scripting with **PowerShell** and **Groovy** to automate repetitive tasks, enhancing team productivity and focus on high-value activities.\nDesigned and implemented monitoring dashboards for real-time application and resource utilization insights, contributing to proactive incident management and operational excellence."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines using **Jenkins** and **TeamCity**, ensuring efficient deployment processes with automated testing and quality assurance across all development stages.\nManaged container orchestration using **Kubernetes** and deployed applications with **Docker**, improving scalability and reliability of microservices architecture for a global e-commerce platform.\nMonitored system performance and application metrics with tools like **Zabbix**, **Grafana**, and **PRTG**, achieving a **30% reduction** in downtime through proactive alerts and incident management.\nUtilized **Azure** and **AWS** cloud services to build and maintain infrastructure, achieving a **99.9% uptime** rate while effectively managing resource allocation and costs.\nWrote and maintained Infrastructure as Code (IaC) using **Terraform** and configuration management with **Ansible**, streamlining the provisioning of servers and services across various environments.\nExecuted logging and monitoring strategies with **Graylog** to enhance system observability, leading to a **40% improvement** in troubleshooting time for production incidents.\nImplemented disaster recovery strategies for **Windows Server** and **Unix-like** environments, ensuring data redundancy and minimal recovery time objectives (RTO).\nCollaborated with development teams using **Git** and **SVN** for version control, fostering a seamless workflow and enhancing code quality through peer reviews and collaborative problem-solving.\nEmployed scripting and automation using **PowerShell** and **Groovy** to enhance operational efficiency, reducing manual task time by **50%**.\nDeveloped and maintained secure and reliable infrastructure for e-commerce applications with **Python** for automation scripts and **SQL** databases for data management, ensuring high performance and security posture.\n"
+    }
+  ],
+  "skills": "**CI/CD**\n\tCI/CD, GitHub Actions, GitLab CI/CD, Jenkins, TeamCity\n\n**Programming Languages**\n\tPython, JavaScript/TypeScript, Groovy, C#, SQL\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks**\n\tReact, Vue, Angular\n\n**API Technologies**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions**\n\tAWS: Lambda, ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure**\n\tGit, SVN, Unix-like, Windows Server, Monitoring, Zabbix, Grafana, Graylog, PRTG\n\n**Other**\n\tAirflow, Kubeflow, PowerShell, Istio"
+}

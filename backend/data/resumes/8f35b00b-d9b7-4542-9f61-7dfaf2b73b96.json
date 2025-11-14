@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Software Engineer with 8 years of experience, I specialize in creating high-performance web applications using **TypeScript**, **HTML**, **SASS**, **Angular**, **React**, and **Node.js**. My proficiency in full-stack development is complemented by hands-on experience with **Express**, **MongoDB**, and message brokers such as **RabbitMQ** and **Kafka**.\nI leverage cloud services, including **AWS**, and utilize **Docker** for containerization, ensuring smooth deployment processes. My expertise in CI/CD practices utilizing tools like **Git**, **GitFlow**, **Bitbucket**, and project management tools like **Jira** and **Confluence** enables me to effectively collaborate within Agile teams.\nI have a strong commitment to web application security, adhering to standards set by **OWASP**, **Section 508**, and **WCAG**. My experience extends to modern development workflows, including module bundling with **Webpack** and **Rollup**, as well as testing with **Jasmine** and **Puppeteer**. With a solid understanding of application scalability, I employ **Kubernetes (K8S)** and **Terraform** for orchestration and infrastructure as code, driving enterprise-grade solutions while ensuring compliance with industry standards.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained scalable web applications leveraging **TypeScript**, **React** (17-18), **Node.js**, and **MongoDB**, while adhering to Agile methodologies.\n• Enhanced web application performance and usability through the implementation of modern front-end technologies such as **HTML**, **SASS**, and **Webpack**.\n• Architected microservices using **Docker** and **Kubernetes** (K8S), ensuring high availability and continuous delivery for robust application deployment.\n• Automated CI/CD pipelines employing **GitHub Actions** and **Bitbucket**, improving deployment efficiency by up to **30%** through streamlined version control and integration processes.\n• Implemented enterprise-level security practices, addressing Web Application Security and OWASP standards to protect sensitive data.\n• Collaborated in cross-functional teams using **Jira** and **Confluence** to track project progress and align with business objectives, fostering effective team communication.\n• Conducted rigorous testing using frameworks such as **Jasmine**, **Cypress**, and **Postman**, achieving a **95%** test coverage on critical components.\n• Leveraged **Redis** and **RabbitMQ** to enhance application performance through efficient data caching and message brokering.\n• Executed Agile best practices to deliver features in iterative cycles, resulting in a **40%** increase in feature delivery speed.\n• Emphasized code quality and standards through **ESLint** and **TSLint**, thus maintaining a clean codebase and enhancing collaborative development efforts."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed scalable web applications leveraging **TypeScript**, **React**, and **Node.js** alongside frameworks such as **Express** and **MongoDB**, successfully encoding a **20%** increase in application load handling.\n• Implemented responsive user interfaces using **HTML**, **SASS**, and **Angular**, enhancing user engagement scores by **30%**.\n• Utilized **RabbitMQ** and **Kafka** to construct event-driven systems, overseeing real-time processing of transactions with **99.9%** uptime reliability.\n• Orchestrated continuous integration/deployment (CI/CD) environments using **Docker** and **Git**, streamlining workflows and reducing average deployment time from **3 days** to **1 hour**.\n• Maintained and enhanced application security adhering to **OWASP** standards and compliance with **Section 508** and **WCAG** guidelines for accessibility.\n• Collaborated in Agile methodologies using **Jira** and **Confluence**, ensuring timely delivery of project milestones and fostering a culture of collective ownership.\n• Managed version control effectively through **Git**, employing **GitFlow** strategy to resolve conflicts and streamline code integration across **5+** concurrent projects.\n• Optimized performance using code bundling tools like **Webpack** and **Rollup**, and performed automated testing with **Jasmine** and **Puppeteer** to uphold quality assurance at every release cycle.\n• Integrated **Redis** caching to improve application response times by an average of **40%**, significantly enhancing user experience during peak transaction loads."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Engineered scalable and high-performance backend services for a global e-commerce platform using **Node.js (Express)**, ensuring high availability and low latency across key modules like checkout, cart, and order fulfillment.\n• Developed and enhanced frontend applications with **Angular**, **React (18)**, and **TypeScript**, creating fast, responsive user interfaces optimized for mobile engagement and compliance with **WCAG 2.1**.\n• Optimized data storage and access through **MongoDB**, **Redis**, and integration with **RabbitMQ** and **Kafka** for event-driven architecture, enabling real-time customer support and efficient inventory tracking.\n• Leveraged **AWS** services for deployment and scalability, ensuring adherence to best practices in **Web Application Security** and compliance with **OWASP** standards.\n• Implemented CI/CD pipelines utilizing **Docker**, **Git**, and **Bitbucket** for efficient version control and deployment workflows, enhancing team collaboration through **GitFlow**.\n• Achieved a **30%** reduction in application load times by applying **Redis** caching strategies to critical e-commerce data and workflows.\n• Built secure payment workflows with **Stripe** and **PayPal**, ensuring PCI-compliance and the safety of sensitive transaction data.\n• Applied role-based access control (RBAC) and **OAuth 2.0** to secure user authentication and protect user data across the platform, maintaining **GDPR** compliance.\n• Utilized **Jira** and **Confluence** for agile project management, fostering effective documentation and team communication throughout the development cycle.\n• Conducted performance testing and ensured code quality with continuous integration tools like **Jasmine** and **Puppeteer**, addressing issues early in the development process."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tTypeScript, Python, JavaScript\n\n**Frontend Frameworks:**\n\tReact, Angular, Vue, HTML, SASS\n\n**Backend Frameworks:**\n\tExpress, FastAPI, Flask, Django, NodeJS\n\n**API Technologies:**\n\tRabbitMQ, Kafka, OAuth2, JWT, Keycloak, Nginx, Let’s Encrypt\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda, ECS, S3, RDS), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tMongoDB, PostgreSQL, MySQL, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, Git, GitHub Actions, GitLab CI/CD, Bitbucket, GitFlow, Helm, Terraform, Ansible, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tJira, Confluence, Webpack, Rollup, Jasmine, Puppeteer, TSLint, ESLint, Agile, Web Application Security, OWASP, Section 508, WCAG",
+  "apply_company": "Level Access"
+}

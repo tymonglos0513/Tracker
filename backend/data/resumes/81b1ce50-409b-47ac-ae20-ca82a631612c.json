@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Release Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a highly skilled Senior Release Engineer with 8 years of robust experience, I excel in driving Continuous Improvement and implementing Lean-Agile methodologies including **SAFe** and **Scrum** to optimize development lifecycles. My expertise in coaching and mentoring teams leads to enhanced communication and effective facilitation of Agile practices.\n\nIn addition to my Agile proficiency, I am a seasoned Full Stack Developer specializing in **JavaScript/TypeScript**, **Python**, and **Flutter**, with a comprehensive tech stack that includes **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, **Django**, **Azure**, and **AWS**. I’ve successfully created high-performance solutions across healthcare and financial sectors, focusing on enterprise-grade platforms that leverage AI/ML capabilities for predictive analytics and real-time data processing.\n\nMy experience in developing robust microservices architecture and implementing CI/CD automation aligns with industry compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Additionally, I bring hands-on expertise in building machine learning pipelines and deploying MLOps workflows using tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Release Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Facilitated Lean-Agile methodologies, ensuring effective Scrum practices and adherence to SAFe principles, leading to a **30%** improvement in team velocity and project delivery timelines.\n• Coached and mentored cross-functional teams, promoting continuous improvement and enhancing skill development, contributing to a **50%** increase in team competency and autonomy.\n• Communicated project status updates and roadblocks to stakeholders, fostering transparent dialogue and collaboration, which resulted in timely decision-making for project adjustments.\n• Implemented regular retrospectives to identify opportunities for process improvement, yielding actionable insights that boosted productivity by **25%**.\n• Architected and developed scalable, full-stack healthcare and financial platforms using **TypeScript, Python (FastAPI), Node.js**, and modern front-end frameworks including **React (17-18), Next.js**, and **Vue (3.x)**, while ensuring compliance with HIPAA, FHIR, GDPR, and financial regulatory standards (e.g., PCI DSS, SOX).\n• Developed and deployed cross-platform mobile applications using **Flutter** and **React Native**, delivering seamless healthcare and fintech user experiences across iOS and Android platforms, with native module integration and state management using Provider and Redux.\n• Implemented mobile-specific CI/CD pipelines using **Fastlane** and **App Center**, with automated testing, release management, and crash/error analytics (**Firebase Crashlytics, Sentry**).\n• Led the re-architecture of monolithic applications into microservices-based ecosystems, employing **Docker**, **Kubernetes (AKS/EKS)**, and serverless architectures (**AWS Lambda, Azure Functions**), enabling high availability and fault tolerance.\n• Designed and maintained cloud-native data architecture using **PostgreSQL, MongoDB, Redis**, and **GraphQL**, optimizing for large-scale healthcare and financial data ingestion, storage, and querying.\n• Designed and deployed machine learning models for use cases such as patient risk prediction, financial fraud detection, and document classification using **Python (scikit-learn, PyTorch, TensorFlow)**, and integrated real-time inference services into the backend.\n• Built MLOps pipelines using **MLflow, DVC**, and **Apache Airflow** for continuous training, validation, versioning, and deployment of models across development and production environments.\n• Integrated AI-based features into client-facing applications, such as smart financial dashboards, personalized health recommendations, and predictive alerts, powered by trained models and APIs hosted on **Azure ML** and **AWS Sagemaker**.\n• Implemented enterprise-level DevOps pipelines using **GitHub Actions, Azure DevOps**, and **CircleCI**, incorporating linting, testing, security scans, and multi-environment deployments for both web and API services.\n• Delivered complex financial data visualization tools using **D3.js, Chart.js**, and **Power BI Embedded**, enabling real-time insights into transaction trends, fraud detection, and operational KPIs.\n• Collaborated with data scientists to integrate NLP models (using **spaCy, Hugging Face Transformers**) for healthcare document parsing and financial anomaly detection, embedding them into core services through RESTful APIs.\n• Established test strategies using **Jest, Cypress, PyTest**, and **Postman**, covering unit, integration, E2E, and contract testing across both front-end and backend services.\n• Integrated **Azure Cognitive Search** and **ElasticSearch** to enable advanced search capabilities across millions of unstructured and structured health records and financial documents."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Coached and mentored cross-functional teams on Lean-Agile methodologies, including **SAFe**, **Scrum**, and best practices, resulting in a **30%** improvement in team efficiency and delivery cycles.\nFacilitated effective communication across various stakeholders, ensuring alignment and understanding of project goals, enhancing collaboration by **25%**.\nLed continuous improvement initiatives within the development process, implementing strategies that reduced cycle times by **15%** while increasing product quality.\nGuided the development and modernization of financial platforms by adopting a microservices-based architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), boosting scalability, maintainability, and throughput for high-volume transaction systems.\nBuilt dynamic, user-focused front-end applications using **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, employing **Redux Toolkit** and **Tailwind CSS** to create responsive and performant user interfaces for financial dashboards and admin portals.\nDeveloped real-time transaction monitoring and analytics dashboards using **React**, **D3.js**, and **Power BI Embedded**, enabling operations teams to track financial activity, detect anomalies, and generate actionable insights.\nIntegrated **Kafka**, **RabbitMQ**, and **Azure Service Bus** to establish a robust event-driven architecture, supporting asynchronous communication and real-time event processing for transactions, alerts, and compliance workflows.\nBuilt and orchestrated ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, enabling batch and real-time ingestion of financial data from internal and third-party sources.\nImplemented AI/ML-powered fraud detection systems using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing transaction patterns and user behavior to proactively flag suspicious activities in banking systems.\nCreated ML pipelines for credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow**, integrating model inference directly into backend services for real-time decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented Lean-Agile methodologies to enhance team collaboration and streamline development processes, contributing to a **30%** improvement in project delivery times.\nCoached and mentored cross-functional teams in **Scrum** principles, fostering a culture of continuous improvement and effective communication to overcome obstacles in the release cycle.\nFacilitated agile ceremonies including daily stand-ups, sprint planning, and retrospectives, ensuring alignment with **SAFe** practices, resulting in increased team engagement and accountability.\nEnhanced release management processes through the development of detailed deployment strategies using tools like **Jenkins** and **Git**, achieving a **40%** reduction in deployment failures.\nLed initiatives for continuous improvement across various development cycles, implementing feedback loops and performance metrics, resulting in a **15%** increase in team velocity.\nCommunicated effectively with stakeholders to gather requirements and address concerns, ensuring transparency and fostering strong relations across all levels.\nDeveloped comprehensive documentation for release processes and agile practices, facilitating smoother onboarding for new team members and improving overall team efficiency.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Lean-Agile, SAFe, Scrum, Coaching, Mentoring, Communication, Facilitation, Continuous Improvement",
+  "apply_company": "Siemens Digital Industries Software"
+}

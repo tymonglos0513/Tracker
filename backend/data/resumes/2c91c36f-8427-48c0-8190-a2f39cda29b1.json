@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience in delivering high-performance applications within the healthcare and financial sectors. Proficient in **C#** and **SQL**, with a solid background in **AWS** and **Azure DevOps**, specifically in setting up **Pipelines** and implementing **RBAC** and **SSO** strategies for secure identity management. Strong expertise in cloud solutions, having deployed scalable applications in **AWS** and **Azure** environments.\nExperienced in Agile methodologies and DevOps practices, fostering collaboration and efficiency within teams. Highly skilled in developing applications with **JavaScript**, **TypeScript**, and employing frameworks such as **React**, **Node.js**, and **FastAPI**, along with **Django** for robust backend solutions. Knowledgeable in ensuring compliance with **OWASP** standards while maintaining software quality.\nAdditionally, I have built and integrated AI/ML functionalities within applications to enhance predictive analytics and real-time capabilities, leveraging tools like **MLflow**, **Airflow**, and **Kubeflow** for MLOps practices.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented secure user authentication and authorization features using **C#** to enhance **SSO** and **RBAC** protocols in applications, ensuring compliance with **OWASP** standards.\nUtilized **Azure DevOps** for developing and managing **CI/CD pipelines**, enabling efficient deployment processes through automated workflows and testing for multiple environments.\nDesigned and maintained relational database systems using **SQL** and **MySQL**, ensuring high performance and data integrity for health and finance applications, supporting **99.9%** uptime.\nDeveloped software solutions in an iterative **Agile** environment, fostering collaboration and continuous feedback to refine requirements and align with business goals.\nUtilized **AWS** services for building cloud-native applications, leveraging strategies like serverless architecture and container orchestration with **Docker** and **Kubernetes** (EKS).\nIntegrated licensing systems to manage user access and utilization metrics, optimizing resource allocation and compliance management across platforms.\nEstablished robust monitoring and logging mechanisms to track application performance and security vulnerabilities in real-time, aiming for a **100%** incident response rate.\nCollaborated with cross-functional teams to enhance system capabilities and ensure alignment with business objectives, employing effective communication and problem-solving skills.\n\n Developed and executed testing strategies using industry best practices, ensuring the delivery of reliable software solutions while maintaining quality across all stages of development."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Implemented C# and .NET technologies to develop secure applications that support **Identity** and **SSO** protocols, ensuring robust access control and user authentication.\n• Leveraged cloud services such as **AWS** and **Azure** to design scalable solutions, ensuring high availability and performance across applications.\n• Designed and developed **RBAC** (Role-Based Access Control) mechanisms to enhance user permissions and security compliance in software solutions.\n• Utilized SQL and **MySQL** to optimize database queries, resulting in a **30% improvement** in data retrieval times and enhancing overall application performance.\n• Collaborated with cross-functional teams under **Agile** methodologies, resulting in a **25% increase** in project delivery efficiency.\n• Automated deployment processes and CI/CD workflows using **Azure DevOps** and **Pipelines**, reducing deployment times by **40%**.\n• Ensured applications met **OWASP** security standards, conducting periodic security audits and implementing necessary measures to mitigate vulnerabilities.\n• Developed interactive front-end applications with **React** (**18**), **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to create sleek, responsive interfaces for financial tools and admin panels.\n• Built and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\n• Created ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained robust backend services leveraging **C#** within an **AWS** cloud environment, ensuring high availability and security through **RBAC** and **Identity** protocols for user management and **SSO** support.\n• Engineered scalable database solutions using **SQL** and **MySQL**, facilitating efficient data handling and ensuring system integrity in high-traffic applications, improving response times by **30%**.\n• Collaborated in an **Agile** environment, coordinating with cross-functional teams to deliver features on time and adapt to changing requirements without compromising code quality.\n• Implemented **DevOps** practices, utilizing **Azure DevOps** for continuous integration and deployment pipelines, which reduced deployment time by **40%**.\n• Conducted code reviews and utilized **OWASP** guidelines to ensure security best practices, proactively identifying vulnerabilities to enhance application security and compliance.\n• Designed comprehensive licensing modules for digital content using **C#** to manage user access effectively and ensure compliance with regulatory requirements.\n• Led implementation of automated builds and deployments, pushing updates through **Pipelines** for seamless integration with minimal downtime.\n• Provided mentorship to junior developers on best practices in coding, **DevOps**, and cloud technologies, fostering a culture of knowledge sharing and continuous learning.\n• Actively participated in retrospective meetings, helping to refine the development process and enhance team productivity by **15%**."
+    }
+  ],
+  "skills": "Programming Languages:\n\tC#, Python\n\nBackend Frameworks:\n\tFastAPI, Flask, Django\n\nFrontend Frameworks:\n\tJavaScript/TypeScript: React, Vue, Angular\n\nAPI Technologies:\n\tIdentity, SSO, OAuth2, JWT\n\nServerless and Cloud Functions:\n\tAWS: Lambda, Azure\n\nDatabases:\n\tPostgreSQL, MySQL, SQL, MongoDB, Redis\n\nDevOps:\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, Agile\n\nCloud & Infrastructure:\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database, Azure DevOps\n\nOther:\n\tLicensing, RBAC, OWASP, Nginx, Let’s Encrypt, Certbot, MLflow, Airflow, Kubeflow",
+  "apply_company": "Everway"
+}

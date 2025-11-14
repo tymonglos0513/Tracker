@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-kotlinski-08ba40390/",
+  "profile_summary": "As a proficient DevOps Engineer with 8 years of extensive experience, I excel in utilizing **Google Cloud Platform (GCP)**, **AWS**, and **Terraform** to build and manage scalable solutions. My technical skills include orchestrating containerized applications with **Kubernetes** and **Docker**, implementing CI/CD pipelines using **Jenkins** and **CircleCI**, and managing databases with **SQL**, **NoSQL**, and cloud services such as **Cloud SQL** and **RDS**.\n  My expertise also extends to monitoring and observability tools like **Prometheus**, **Grafana**, and **Datadog**, ensuring high availability and performance of applications. I am adept in scripting with **Bash** and proficient in **Python**, enhancing automation processes and system integrations.\n  In addition to my technical acumen, I possess a solid foundation in full-stack development and microservices architecture, which complements my DevOps practices, ensuring seamless collaboration between development and operations. I have successfully led enterprise initiatives within healthcare and financial sectors, driving operational excellence and compliance with standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and maintained **CI/CD** pipelines using **CircleCI**, **Jenkins**, and custom scripts, ensuring automated builds, testing, and deployments across environments.\nManaged container orchestration with **Kubernetes**, facilitating the deployment of applications in **Docker** environments; utilized **Helm** for package management, ensuring streamlined deployment processes.\nDeveloped infrastructure as code using **Terraform** to provision resources on **Google Cloud Platform (GCP)** and **AWS**, improving efficiency in resource management and scalability.\nOversaw database management and optimization, employing both **SQL** and **NoSQL** solutions, including **MongoDB**, **Cloud SQL**, and **RDS**, to maintain high availability and performance.\nUtilized monitoring and logging tools such as **Prometheus**, **Grafana**, and **Datadog** to ensure reliable infrastructure and application performance across multiple services.\nEstablished and enforced security protocols across pipelines and deployments, ensuring compliance with best practices and organizational policies.\nCollaborated with development teams to streamline processes and integrate feedback into deployment stages, decreasing deployment time by **30%**.\nConducted regular performance reviews of cloud resources, identifying and implementing optimizations that resulted in a **15%** reduction in operational costs.\nDesigned solutions that support scalable and resilient application architectures, leveraging **AWS** and **GCP** to ensure redundancy and disaster recovery.\nApplied best practices in Bash scripting to automate repetitive systems administration tasks, enhancing overall team productivity by **40%**.\nParticipated in incident resolution processes, coordinating with cross-functional teams to troubleshoot and resolve production issues within a strict SLA (Service Level Agreement) window.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines using **Jenkins** and **CircleCI** to automate deployment processes, improving delivery speed by **30%** and reducing errors in production.\nManaged infrastructure on **AWS** and **Google Cloud Platform (GCP)** leveraging **Terraform** and **Docker** for effective resource provisioning and containerization, ensuring scalable and efficient environments for applications.\nDeployed and managed container orchestration using **Kubernetes** and **Helm**, enhancing system reliability and facilitating rapid scaling of services during peak load times by **50%**.\nBuilt and maintained databases using **SQL**, **NoSQL**, **Cloud SQL**, **RDS**, and **MongoDB**, optimizing performance and scalability for handling financial transactions and analytics requests with a focus on uptime over **99.9%**.\nMonitored applications using **Prometheus**, **Grafana**, and **Datadog** in order to ensure high availability and performance across services, promptly addressing issues that impacted user experience.\nAutomated routine tasks with **Bash** scripts and leveraged **Python** for continuous improvement in system operations, resulting in a **25%** reduction in manual intervention needed.\nCollaborated with development teams to implement service mesh architecture using **Kong**, ensuring secure and efficient communication between microservices.\nOptimized application performance and transaction throughput through load testing and performance tuning, achieving a latency reduction of **40%** across key financial applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Google Cloud Platform (GCP)** and **AWS** for cloud hosting and infrastructure management, achieving a **99.9% uptime** across core services supporting global e-commerce operations.\nImplemented **Terraform** for infrastructure as code, enabling rapid deployment and scalability of resources with a **30% reduction** in provisioning time.\nManaged container orchestration using **Kubernetes** and **Helm**, optimizing resource allocation and enhancing deployment times by **25%** through efficient workload management.\nDeveloped CI/CD pipelines using **CircleCI** and **Jenkins**, leading to an increase in deployment frequency by **40%** and a significant reduction in integration errors.\nExecuted database management tasks with **SQL** and **NoSQL** systems such as **MongoDB** and **PostgreSQL**, ensuring swift data retrieval and maintenance across platforms, resulting in a **20% improvement** in query performance.\nLeveraged **Docker** for containerization of applications, enhancing the consistency of deployments across development, testing, and production environments.\nMonitored application performance and infrastructure health via **Prometheus** and **Grafana**, facilitating proactive problem resolution and maintaining system reliability.\nImplemented logging and monitoring solutions using **Datadog** to optimize resource usage and application performance metrics.\nAutomated routine tasks and processes using **Bash** scripts, improving operational efficiency and reducing manual intervention.\nCollaborated with development teams to implement **role-based access control (RBAC)** and **OAuth 2.0**, ensuring robust security protocols while maintaining compliance with **GDPR** and industry standards."
+    }
+  ],
+  "skills": "Programming Languages:\n\t**Python**, **Bash**, **JavaScript**, **TypeScript**\n\n**Backend Frameworks:**\n\t**FastAPI**, **Flask**, **Django**\n\n**Frontend Frameworks:**\n\t**React**, **Vue**, **Angular**\n\n**API Technologies:**\n\t**Kong**\n\n**Serverless and Cloud Functions:**\n\t**AWS**, **Google Cloud Platform (GCP)**\n\n**Databases:**\n\t**PostgreSQL**, **MySQL**, **MongoDB**, **Cloud SQL**, **RDS**\n\n**DevOps:**\n\t**Docker**, **Kubernetes**, **Terraform**, **Helm**, **GitHub Actions**, **GitLab CI/CD**, **CircleCI**, **Jenkins**\n\n**Cloud & Infrastructure:**\n\t**AWS (ECS, Lambda, S3)**, **Azure (App Services, Blob)**\n\n**Other:**\n\t**MLflow**, **Airflow**, **Kubeflow**, **Keycloak (OIDC, RBAC)**, **JWT**, **OAuth2**, **Let’s Encrypt**, **Nginx**, **Certbot**, **Redis**, **Prometheus**, **Grafana**, **Datadog**"
+}

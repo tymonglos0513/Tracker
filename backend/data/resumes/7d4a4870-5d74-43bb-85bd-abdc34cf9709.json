@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "DevOps Engineer with 13+ years of experience in designing and deploying high-performance applications in healthcare and financial sectors. Proficient in **AWS**, **Google Cloud Platform (GCP)**, **Terraform**, **Kubernetes**, and **Docker** to implement scalable cloud-native infrastructure. Experienced in CI/CD practices using **CircleCI** and **Jenkins**, automating deployment processes to enhance efficiency. Skilled in database management with **SQL**, **NoSQL**, **MongoDB**, **Cloud SQL**, and **RDS** for robust data handling.\n\nStrong programming expertise in **Python**, facilitating seamless collaboration between development and operations teams. Knowledgeable in monitoring and optimizing applications with tools like **Prometheus**, **Grafana**, and **Datadog**. Adept at utilizing **API Gateway** and **Kong** for managing and securing APIs effectively. \n\nProven track record of integrating MLOps strategies, utilizing technologies such as **MLflow**, **Airflow**, and **Kubeflow** for model deployment and orchestration. Committed to maintaining compliance with industry standards including HIPAA, FHIR, PCI DSS, and SOC 2.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained CI/CD pipelines using **CircleCI**, **Jenkins**, and **Docker**, enhancing deployment efficiency and reliability across environments.\nUtilized **Google Cloud Platform (GCP)** and **AWS** services to optimize cloud infrastructure for scalable applications, ensuring high availability and performance.\nImplemented Infrastructure as Code (IaC) with **Terraform**, enabling reproducible and version-controlled provisioning of environments.\nConfigured container orchestration solutions with **Kubernetes** and **Helm**, managing complex workflows and deployments effectively.\nMonitored application performance and infrastructure health using **Prometheus**, **Grafana**, and **Datadog**, leading to a **30%** increase in system reliability by identifying performance bottlenecks.\nDesigned and optimized SQL and NoSQL databases including **Cloud SQL**, **RDS**, and **MongoDB**, catering to diverse data storage needs and ensuring efficient data retrieval.\nCollaborated with software development teams to integrate and deploy microservices architectures using **API Gateway** and **Kong**, improving application scalability by **40%**.\nWrote versatile automation scripts in **Bash** to streamline operational tasks and enhance development workflows, reducing manual intervention time by **50%**.\nUtilized version control systems effectively, ensuring seamless collaboration and maintainability of infrastructure as code across development teams.\nImplemented robust monitoring and logging frameworks, enabling proactive incident management and rapid resolution of production issues.\nFacilitated training sessions and documentation for teams on best practices for cloud usage, DevOps methodologies, and infrastructure management techniques."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines using **CircleCI**, **Jenkins**, and **Docker** to automate deployment processes, reducing deployment time by **30%** and ensuring consistent quality across applications.\nManaged cloud infrastructure on **Google Cloud Platform (GCP)** and **AWS**, employing **Terraform** for infrastructure as code, which led to a **20%** decrease in provisioning time and enhanced resource management.\nOrchestrated containerized applications using **Kubernetes** and **Helm**, enabling efficient scaling and traffic management within the production environment, achieving an uptime of **99.9%**.\nDesigned and maintained SQL and NoSQL databases including **MongoDB**, **Cloud SQL**, and **RDS**, optimizing database queries that improved data retrieval speeds by **25%**.\nMonitored system performance and application logs using **Prometheus**, **Grafana**, and **Datadog**, identifying and resolving bottlenecks to improve application response time by **40%**.\nAutomated routine operational tasks using **Bash** and Python scripts, resulting in a **50%** reduction in manual intervention and increased operational efficiency.\nDeveloped secure and scalable APIs utilizing **API Gateway** and **Kong**, ensuring seamless integration with various services and enhancing security measures for sensitive data transfers.\nCollaborated with cross-functional teams to streamline deployment workflows and troubleshooting processes, fostering an environment of continuous improvement and innovation."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Google Cloud Platform (GCP)** and **AWS** to deploy and scale highly available backend services for a global e-commerce platform, ensuring reliability and performance across **9** key modules including checkout and order fulfillment.\nImplemented CI/CD pipelines using **Jenkins** and **CircleCI**, reducing deployment time by **40%** and facilitating smoother integrations with primary services like **Kubernetes**, **Helm**, and **Docker**.\nManaged and optimized both **SQL** (e.g. **PostgreSQL**, **Cloud SQL**, **RDS**) and **NoSQL** databases (e.g. **MongoDB**) for distributed data storage, improving data retrieval performance by up to **50%** for high-traffic scenarios.\nMonitored system performance with tools like **Prometheus**, **Grafana**, and **Datadog**, achieving a **99.9% uptime** SLA across the platform through proactive issue resolution and optimization strategies.\nAutomated infrastructure provisioning using **Terraform**, creating repeatable and consistent deployment patterns while reducing manual errors by **30%**.\nConfigured application monitoring and alerting through **API Gateway** and **Kong**, enhancing visibility into application metrics and improving response times to incidents by **25%**.\nCollaborated with development teams to enable secure and efficient APIs, implementing best practices for **RBAC** and maintaining compliance with **GDPR** and security standards.\nOptimized cloud resource costs while maintaining performance and scalability, leading to a reduction in operational expenses by **20%** annually.\nStreamlined deployment processes by utilizing **Kubernetes** namespaces and blue-green deployments, enhancing the efficiency of A/B testing and feature rollouts without significant downtime."
+    }
+  ],
+  "skills": "Programming Languages:\n\t**Python**, **Bash**\n\n**Backend Frameworks:**\n\t**FastAPI**, **Flask**, **Django**\n\n**Frontend Frameworks:**\n\t**JavaScript/TypeScript: React, Vue, Angular**\n\n**API Technologies:**\n\t**API Gateway**, **Kong**\n\n**Serverless and Cloud Functions:**\n\t**AWS: ECS, Lambda, RDS, S3**, **Google Cloud Platform (GCP)**\n\n**Databases:**\n\t**PostgreSQL (Fintech)**, **MySQL (Healthcare)**, **MongoDB (Gaming)**, **Redis**, **NoSQL**, **Cloud SQL**\n\n**DevOps:**\n\t**Docker**, **Kubernetes**, **Terraform**, **Helm**, **GitHub Actions**, **GitLab CI/CD**, **CircleCI**, **Jenkins**\n\n**Cloud & Infrastructure:**\n\t**AWS**, **Azure: App Services, Blob Storage, SQL Database**\n\n**Other:**\n\t**MLflow**, **Airflow**, **Kubeflow**, **Prometheus**, **Grafana**, **Datadog**, **Keycloak (OIDC, RBAC)**, **OAuth2**, **JWT**, **Nginx**, **Let’s Encrypt**, **Certbot**, **Terraform**, **Ansible**, **Docker Compose**"
+}

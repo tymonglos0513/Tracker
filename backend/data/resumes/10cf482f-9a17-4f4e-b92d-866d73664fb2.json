@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Intermediate Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Detail-oriented Intermediate Engineer with over 10 years of experience in backend development, demonstrating proficiency in **Go(lang)**, **Docker**, **Kubernetes**, and **gRPC** for building robust and scalable systems. Extensive background in data management using **MySQL** and **Redis**, with a strong focus on software design principles and testable code writing. Proven ability to lead teams and collaborate effectively in fast-paced environments, fostering continuous improvement and delivering high-quality software solutions. Previous contributions include developing agile financial platforms and AI/ML pipelines, optimizing services with **CloudWatch**, **Prometheus**, and **Grafana**, and ensuring seamless performance in cloud-native architectures using **AWS** and **Azure**. Acquired valuable insights at leading organizations such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Intermediate Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Go(lang)** to develop backend services, ensuring robust and reliable system performance.\nImplemented container orchestration with **Kubernetes** for efficient deployment and scalability of applications across environments.\nDesigned and maintained Docker containers for all microservices, enhancing application portability and consistency across development environments.\nLeveraged **gRPC** for efficient communication between services, achieving up to **99%** reduction in latency for internal API calls.\nManaged data storage and retrieval with **MySQL**, optimizing queries to improve transaction speed by at least **30%**.\nIntegrated **Redis** for caching solutions, reducing database load and enhancing overall system performance.\nCollaborated with cross-functional teams to integrate CI/CD pipelines using **Jenkins**, improving deployment frequency by **40%**.\nMonitored application performance and reliability using **Prometheus** and **Grafana**, ensuring system uptime of **99.9%**.\nEngaged in testable code writing practices, fostering a culture of continuous improvement within the engineering team.\nLed team initiatives focused on software design principles and algorithms, guiding the team through complex data structure challenges."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes, improving efficiency by **25%**.\n• Created event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests, resulting in a **30%** reduction in processing time.\n• Managed the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation to maintain consistent and scalable environments, achieving a **99.9%** uptime.\n• Engineered data pipelines for secure exchange of regulatory data, utilizing **Apache Airflow** and **Azure Functions** to automate and streamline data flow, enhancing data processing speed by **40%**.\n• Performed security audits to ensure compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for managing authentication and secure access controls.\n• Collaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management, fostering a strong team collaboration culture."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Go(lang)** and **gRPC** to develop backend services for trade execution, portfolio management, and account tracking, resulting in a **30%** performance improvement in trading operations.\nEngineered real-time price feed processors with **Redis** and **asyncio**, delivering up-to-the-minute trading data for high-frequency transactions with an average latency of less than **200ms**.\nCollaborated closely with frontend teams utilizing **Angular** to deliver data through REST APIs and WebSocket channels, ensuring smooth user interaction with the platform and improving user experience ratings by **15%**.\nEnsured platform compliance with regulatory requirements, including MiFID II and GDPR, while maintaining adherence to internal data security protocols through robust **Docker** containerization.\nImplemented comprehensive test suites with **PyTest** and **tox**, promoting the writing of testable code and streamlining QA and CI processes for a **25%** reduction in development cycles.\nIntroduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution, which enhanced process management efficiency by **40%**.\nApplied continuous improvement mindset by analyzing and refining existing algorithms and data structures, leading to improved software design and overall system robustness."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tGo(lang), Kotlin, Swift, Python (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\tAngular\n\n**API Technologies**\n\tREST/gRPC APIs, gRPC\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, CloudFront, CloudFlare\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins, CI/CD\n\n**Cloud & Infrastructure**\n\tPrometheus, Grafana, CloudWatch, nginx\n\n**Other**\n\tMicroservices, Kafka, Algorithms, Data Structures, Software Design, Continuous Improvement Mindset, Team Leadership, Collaboration, Testable Code Writing, Robustness and Reliability, PyTest, Git"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Results-driven Senior Software Engineer with 13+ years of experience in full-stack development, specializing in building scalable and high-performance applications. Proficient in **GoLang**, **AWS**, **Microsoft Azure**, **Google Cloud Platform**, and implementing **CI/CD** practices using **GitLab CI** and **ArgoCD**. Skilled in developing microservices and RESTful APIs, with hands-on experience in **Kubernetes** for container orchestration.\nExpertise in **PostgreSQL** for database management and proficiency in monitoring tools like **Prometheus**, **Grafana**, **Loki**, and **Tempo** for performance tuning and optimization of distributed systems. Demonstrated ability to implement DevOps strategies for enhanced collaboration and continuous integration.\nAdditionally experienced in frontend and backend technologies including **JavaScript/TypeScript**, **Python**, **Flutter**, **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Committed to developing AI/ML-driven solutions, aligning with compliance standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Leveraged **GoLang** to design and implement robust, high-performance distributed systems, ensuring optimized functionality and performance tuning across applications.\nUtilized **Kubernetes** for container orchestration, managing deployment and scaling of microservices efficiently to maintain high availability and reliability.\nDesigned CI/CD pipelines with tools like **GitLab CI** and **ArgoCD**, streamlining development workflows and accelerating deployment cycles within multi-environment setups.\nImplemented effective DevOps strategies utilizing **AWS** and **Google Cloud Platform** for infrastructure automation, ensuring reliable cloud solutions and seamless integration.\nExecuted data management solutions with **PostgreSQL**, optimizing storage and retrieval processes for rapid query performance.\nDeveloped efficient service communication protocols using **gRPC** and **REST**, establishing robust APIs to facilitate smooth data exchange between microservices.\nCreated monitoring and logging solutions with **Prometheus**, **Grafana**, **Loki**, and **Tempo**, improving system observability and proactive incident management.\nPerformed debugging and optimization techniques across systems, enhancing application efficiency and reliability, leading to a **40%** increase in application speed.\nManaged and optimized cloud object storage solutions, ensuring secure and scalable data storage that can handle increasing data loads, contributing to a **50%** reduction in retrieval times.\nCollaborated with cross-functional teams to deliver high-quality software products, reinforcing team standards and contributing to an **85%** reduction in incident response time through improved system monitoring and alerting strategies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **GoLang** for developing scalable microservices, ensuring performance tuning to handle over **10k** concurrent users effectively.\nImplemented **Kubernetes** for container orchestration, optimizing CI/CD pipelines with **GitLab CI** to achieve deployment times reduced by **50%**, ensuring consistent delivery.\nDesigned and maintained databases using **PostgreSQL**, managing transactions up to **1M** per day while optimizing queries to improve performance.\nIntegrated cloud services such as **AWS** and **Microsoft Azure** to enhance application infrastructure, leveraging **Cloud Object Storage** for efficient data management and retrieval.\nEmployed **gRPC** and **REST** APIs to facilitate seamless communication across distributed systems, improving response times by **30%**.\nDeveloped monitoring solutions using **Prometheus** and **Grafana** that provided real-time alerts and insights into application health, reducing downtime by **25%**.\nConducted debugging and optimization sessions to identify and resolve performance bottlenecks, achieving a **40%** improvement in system throughput.\nCollaborated in an Agile environment, utilizing **DevOps** practices for continuous integration and continuous delivery that streamlined development workflows."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Engineered and optimized backend services for high-performance distributed systems using **GoLang**, ensuring high availability, low latency, and scalability across key modules.\nImplemented Kubernetes for orchestration and deployment, leveraging its capabilities for blue-green deployments and zero-downtime upgrades to enhance CI/CD processes.\nDeveloped and monitored application performance metrics using **Prometheus**, **Grafana**, and **Loki**, facilitating proactive performance tuning and debugging based on real-time analytics.\nDesigned RESTful APIs and **gRPC** services to streamline internal communication between microservices, following best practices to ensure efficient data exchange and error handling.\nEmployed AWS and Google Cloud Platform for cloud services, utilizing **Cloud Object Storage** for robust and scalable storage solutions with a target response time of under **100ms**.\nImplemented CI/CD pipelines using **GitLab CI** and **ArgoCD**, achieving automated tests and deployments across various stages of the software development lifecycle, reducing deployment times by **50%**.\nLeveraged PostgreSQL for data management, ensuring fault tolerance and optimizing performance through advanced query tuning and indexing strategies, reducing query times by up to **75%**.\nCollaborated with cross-functional teams to enhance system optimization and define best practices in Distributed Systems design, improving system throughput by **30%**."
+    }
+  ],
+  "skills": "## **Programming Languages**\n\tGoLang, Python, JavaScript/TypeScript\n\n## **Backend Frameworks**\n\tFastAPI, Flask, Django\n\n## **Frontend Frameworks**\n\tReact, Vue, Angular\n\n## **API Technologies**\n\tgRPC, REST\n\n## **Serverless and Cloud Functions**\n\tAWS, Google Cloud Platform, Microsoft Azure\n\n## **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n## **DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, ArgoCD\n\n## **Cloud & Infrastructure**\n\tAWS: ECS, Lambda, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n## **Other**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Terraform, Ansible, Helm, Docker Compose, Prometheus, Grafana, Loki, Tempo, Debugging, Optimization, Performance Tuning, Distributed Systems"
+}

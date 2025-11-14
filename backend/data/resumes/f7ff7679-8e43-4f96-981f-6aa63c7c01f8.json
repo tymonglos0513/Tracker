@@ -1,0 +1,47 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-9b9455391/",
+  "profile_summary": "As a Senior DevOps Engineer with 8+ years of experience, I excel in leveraging cloud platforms such as **AWS**, **GCP**, and **Azure** to build and maintain high-performance, scalable solutions. Proficient in using **Terraform** for infrastructure as code and skilled in CI/CD practices with **GitHub Actions**, I ensure seamless deployments and effective system monitoring using tools like **Datadog** and **CloudWatch**. Additionally, I specialize in containerization with **Docker** and maintain operational reliability through incident management tools such as **Sentry** and **PagerDuty**. My solid background as a Full Stack Developer, adept in **Python** (using **FastAPI**, **Django**, **Flask**, **SQLAlchemy**) and modern frontend frameworks like **Next.js**, enables me to understand and streamline development and operational workflows. With proven skills in microservices architecture and a commitment to implementing zero-trust networking principles, I am dedicated to delivering secure and efficient DevOps practices.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "- Architected resilient infrastructure by utilizing **Terraform** for provisioning in multi-cloud environments including **AWS**, **Azure**, and **GCP**, reducing deployment times by **30%**.\n- Developed CI/CD pipelines leveraging **GitHub Actions** and **Docker**, ensuring automated testing and deployment processes across **15+** microservices.\n- Implemented advanced monitoring solutions using **Datadog**, **CloudWatch**, and **PagerDuty** for proactive issue resolution, achieving a **40%** decrease in incident response times.\n- Spearheaded the integration of infrastructure-as-code practices to streamline deployment processes, enhancing environment consistency by **50%**.\n- Orchestrated containerized applications using **Docker** within a Kubernetes framework to enhance scalability and maintainability.\n- Championed the adoption of a **zero-trust** security model through VPN configurations and access controls across **10+** teams, significantly improving security posture.\n- Developed automation scripts in Python for routine system maintenance and operational tasks, improving team efficiency by **25%**.\n- Led initiatives for continuous integration and delivery for Python applications, ensuring reliable release cycles with a **99.9%** uptime.\n- Designed secure cloud architectures that integrated services across **AWS**, **Azure**, and **Alibaba Cloud**, optimizing resource utilization and cost efficiency.\n- Mentored teams on best practices in DevOps methodologies and tooling, enhancing the overall delivery pipeline and reducing cycle times.\n- Integrated observability in microservices through **Sentry** and other monitoring tools, providing actionable insights into system performance.\n- Collaborated in the migration of legacy systems to cloud-native architectures, improving scalability and resilience through **Kubernetes** deployments.\n- Implemented disaster recovery strategies with **Databricks** and **Vercel**, ensuring system recoverability and data integrity under various scenarios.\n- Enhanced deployment workflows using **CI/CD tools** for Python applications, focusing on automated builds and security compliance checks."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented infrastructure as code using **Terraform** to automate deployments and manage resources across **AWS**, **GCP**, and **Azure**, achieving a 30% reduction in deployment times.\nOrchestrated containerized applications using **Docker**, ensuring efficient management and scalability in production environments.\nDeveloped CI/CD pipelines utilizing **GitHub Actions** for automated build, test, and deployment processes, enhancing code quality and deployment frequency by 40%.\nIntegrated monitoring solutions with **Datadog** and **CloudWatch** for enhanced visibility into application performance and uptime, leading to a proactive response to incidents.\nUtilized **Sentry** and **PagerDuty** for real-time alerting and incident management, drastically reducing mean time to recovery (MTTR) by 20%.\nDeployed serverless architectures using **AWS Lambda** and **Azure Functions**, optimizing resource utilization and improving response times for critical services.\nManaged cloud infrastructure for applications hosted on **Alibaba Cloud** and **Databricks**, ensuring compliance with best practices for security and efficiency.\nCollaborated with development teams to implement **zero-trust** security models, enhancing the overall security posture of cloud applications.\nLeveraged modern frameworks and tools including **Next.js** and **SST** for building scalable and performant web applications, improving load times by 25%.\nEstablished logging and monitoring configurations using the **ELK Stack** (Elasticsearch, Logstash, Kibana) to facilitate quick diagnosis and resolution of operational issues.\nParticipated in the design and management of Kubernetes clusters for container orchestration, achieving seamless rolling updates and auto-scaling capabilities.\nApplied best practices in version control and code quality through the adoption of **GitHub Actions** for CI/CD workflows and automated testing strategies.\nEnsured robust disaster recovery strategies were in place for critical applications, achieving a recovery time objective (RTO) of under 1 hour."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Implemented and managed infrastructure as code using **Terraform**, ensuring consistent deployment environments across **AWS**, **GCP**, and **Azure**, achieving a deployment efficiency improvement of **30%**.\nAutomated CI/CD pipelines with **GitHub Actions**, enabling iterative feature delivery and reducing deployment times to less than **10 minutes**.\nContainerized application architectures with **Docker**, facilitating seamless deployment and scaling of services in cloud platforms like **AWS** and **Alibaba Cloud**.\nUtilized **Datadog** and **CloudWatch** for observability and system performance monitoring, resulting in a **25%** reduction in incident response times via proactive alerting and logging.\nImplemented and maintained event-driven architectures with **RabbitMQ** and **Kafka**, enhancing system responsiveness and data processing capabilities to handle over **1000 transactions/second**.\nEnsured system reliability and uptime through incident management practices with tools like **PagerDuty**, managing and responding to outages efficiently.\nLeveraged **Sentry** for real-time error tracking and performance monitoring in production environments, achieving a **40%** decrease in system errors through meticulous debugging.\nDeployed web applications with **Vercel** and optimized site performance using **Next.js**, improving page load speed by **50%** for better user experiences.\nImplemented secure networking protocols, including **VPN** solutions and adopted a zero-trust security model to maintain high-security standards for cloud-based applications.\nManaged service dependencies and backend integrations, ensuring minimal downtime during updates and facilitating smooth rollbacks using **CDK** and **SST** frameworks.\nConducted load testing with **JMeter** and **k6**, simulating traffic scenarios with up to **500 concurrent users**, to validate system performance and stability against real-world conditions."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, SQL\n\n**Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot\n\n**Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n**API Technologies:**\n\tREST & gRPC APIs\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda), Azure, GCP\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Datadog, CloudWatch, Sentry, PagerDuty\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), Alibaba Cloud, Databricks, Vercel, SST, CDK, VPN, zero-trust\n\n**Other:**\n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "David Zwirner"
+}

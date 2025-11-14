@@ -1,0 +1,46 @@
+{
+  "name": "DANIEL HE",
+  "role_name": "DevOps Engineer",
+  "email": "daniel.he8@outlook.com ",
+  "phone": "+48 730 743 032",
+  "address": "Rzeszów, Poland",
+  "linkedin": "https://www.linkedin.com/in/daniel-he-a5a536397/",
+  "profile_summary": "Results-driven DevOps Engineer with extensive expertise in **OpenStack**, **Kubernetes**, **Terraform**, and **Ansible** to automate and streamline application deployments. Adept at implementing CI/CD processes and leveraging **Prometheus**, **Grafana**, and **ELK** for effective monitoring and logging solutions. Proficient in **Python** and **Bash** scripting to enhance system integrations and improve operational efficiency. Recognized for applying cloud technologies and orchestration tools to drive significant improvements in software deployment cycles. Previous experience as a Full-Stack Software Engineer enables a unique perspective on scalable, reliable, and user-centric applications development, utilizing frameworks such as **Java**, **Spring Boot**, **React**, **Vue**, and **Angular**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2016",
+      "location": "Beijing, China ",
+      "university": "Tsinghua University "
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "Britenet",
+      "from_date": "Feb 2023 ",
+      "to_date": "Present",
+      "location": "Warsaw, Poland",
+      "responsibilities": "- Implemented CI/CD strategies using **GitHub Actions** and **AWS CodePipeline**, reducing deployment times by **80%**.\n- Managed container orchestration and deployment using **Kubernetes (AWS EKS)**, achieving **99.9%** uptime across all services.\n- Automated infrastructure provisioning and management with **Terraform**, ensuring consistent environment setups.\n- Developed and optimized monitoring solutions with **Prometheus** and **Grafana**, improving system health visibility and response times.\n- Leveraged configuration management with **Ansible** to automate deployment processes, enhancing operational efficiency.\n- Integrated identity and access management using **Keycloak**, securing access to applications effectively.\n- Enhanced system storage solutions using **Ceph**, improving redundancy and performance metrics.\n- Created and maintained Helm charts for application management in Kubernetes, simplifying deployments and updates.\n- Utilized scripting with **Bash** and **Python** for automation tasks, reducing manual intervention by **50%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Alibaba Group",
+      "from_date": "Oct 2020 ",
+      "to_date": "Dec 2022",
+      "location": "Hangzhou, China",
+      "responsibilities": "• Implemented CI/CD pipelines using **Jenkins**, **AWS CodePipeline**, and **Terraform**, streamlining deployment processes and enhancing release stability by 40%.\n• Managed container orchestration with **Kubernetes**, ensuring optimized resource allocation and a reduction in server costs by 30%.\n• Automated infrastructure provisioning using **Terraform**, reducing setup time by **50%** for new environments.\n• Developed configuration management scripts with **Ansible**, enhancing system consistency and reducing manual setup time by **60%**.\n• Integrated monitoring solutions using **Prometheus** and **Grafana**, achieving real-time visibility and reducing incident response times by **35%**.\n• Implemented identity and access management solutions with **Keycloak**, improving security protocols and enabling single sign-on functionality.\n• Employed scripting skills in **Bash** and **Python** for task automation and cloud management.\n• Designed storage solutions using **Ceph** for robust data management and redundancy, ensuring **99.9%** uptime of storage systems.\n• Utilized **Helm** for Kubernetes package management, streamlining application deployment processes."
+    },
+    {
+      "role": "Software Engineer ",
+      "company": "Huawei Technologies Co., Ltd",
+      "from_date": "May 2016 ",
+      "to_date": "Sep 2020",
+      "location": "Shenzhen, China ",
+      "responsibilities": "Implemented **CI/CD** pipelines to automate deployment processes, increasing deployment frequency by 50%.\nUtilized **Terraform** for infrastructure as code, managing resources across **OpenStack** and other cloud services, reducing provisioning time by 60%.\nOrchestrated container management using **Kubernetes**, improving application scalability and resilience 3x.\nDeployed monitoring solutions with **Prometheus** and **Grafana**, achieving 24/7 system observability and reducing incident response time by 25%.\nAutomated configuration management via **Ansible**, ensuring consistency across environments and minimizing errors by 15%.\nIntegrated **Keycloak** for secure user authentication, enhancing system security and user management capabilities.\nUtilized **Bash** and **Python** for scripting and automation tasks, streamlining operations and improving efficiency by 20%.\nLeveraged **ELK** stack for log management, enhancing troubleshooting capabilities and reducing downtime."
+    }
+  ],
+  "skills": " **Programming Languages** \n\t Java, JavaScript (React, Vue.js, Angular, Pixi.js, Vanilla JS, Node.js, TypeScript), Go, Python, SQL, Swift, Kotlin\n\n **Backend Frameworks** \n\t Spring Boot, Spring Security, Hibernate, Node.js, Express.js, JPA, Kafka, RabbitMQ\n\n **Frontend Frameworks** \n\t React, Vue.js, Angular, Pixi.js, Redux, Next.js, React Router, Material-UI, Ant Design, D3.js, Webpack, Babel, Jest\n\n **API Technologies** \n\t RESTful API design, API Gateway, Microservices\n\n **Serverless and Cloud Functions** \n\t AWS Lambda\n\n **Databases** \n\t MySQL, PostgreSQL, Redis, MongoDB\n\n **DevOps** \n\t Docker, Kubernetes (AWS EKS), Jenkins, GitHub Actions, Terraform, AWS CodePipeline, Ansible, Helm\n\n **Cloud & Infrastructure** \n\t AWS (EKS, RDS, CloudFront, S3), Git, CloudWatch, ELK Stack, OpenStack, Ceph, Prometheus, Grafana\n\n **Other** \n\t CI/CD, Infrastructure as Code (IaC), Data structures and algorithms, Agile/Scrum methodologies"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Firmware Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Firmware Engineer with 13+ years of experience in developing high-performance applications within healthcare and financial sectors. Proficient in **C/C++**, **RTOS**, and **Linux**, with a strong understanding of **AXI**, **AHB**, **MMU**, and **DMA**. Experienced in implementing secure systems through techniques such as **secure boot**, **anti-rollback**, **cryptographic signatures**, and **trust chain** methodologies. Skilled in hardware interfaces including **PCIe**, **NVMe**, **SATA**, **SCSI**, with hands-on experience with **JTAG**, **UART**, and **ICE**.\n\nPossessing a solid foundation in telemetry and advanced security protocols, including **ransomware simulation** and **heuristics**. Additionally, I bring expertise in **Python** for automation and telemetry tasks, alongside strong version control skills with **Git**. Recognized for delivering compliant solutions adhering to industry standards and best practices. My background also includes building AI/ML-powered platforms, leveraging technologies like **FastAPI**, **Django**, **MLflow**, and **Airflow** to enhance operational efficiencies.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Firmware Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and optimized firmware solutions utilizing **C/C++** within **Linux** environments, ensuring robust memory management and efficient resource allocation aligned with modern RTOS practices.\n- Implemented secure boot mechanisms and anti-rollback features incorporating cryptographic signatures and trust chains, enhancing firmware security and compliance with industry standards.\n- Designed and tested memory management units (MMUs) and direct memory access (DMA) systems to streamline data transfer protocols in embedded systems, improving performance by **30%**.\n- Led the integration of advanced connectivity interfaces including **PCIe**, **NVMe**, **SATA**, and **SCSI** to ensure reliable data pathways and enhanced communication between components.\n- Utilized debugging tools like **JTAG** and **ICE** for real-time troubleshooting and performance tuning, achieving a **25%** reduction in debugging time across multiple projects.\n- Developed telemetry systems to monitor device performance and security, integrating features for ransomware simulation and heuristic analysis to proactively identify vulnerabilities.\n- Collaborated on firmware updates and patches using version control via **Git**, ensuring code quality and managing multi-branching strategies for efficient development workflows.\n- Ensured compliance with storage endurance strategies including wear-leveling, garbage collection, and error correction coding (ECC) for reliable operation of NAND flash memory operations.\n- Implemented unit tests and integration tests for firmware code using industry-standard tools, establishing rigorous QA processes that improved overall firmware reliability by **40%**.\n- Engaged in cross-functional teams to deliver innovative firmware solutions for next-generation storage devices, leveraging insights from customer telemetry to drive feature enhancements."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented advanced security features by utilizing **C/C++** for secure boot, anti-rollback mechanisms, and cryptographic signatures, ensuring integrity across firmware updates and compliance with industry standards.\nDeveloped and optimized real-time operating systems (RTOS) on **Linux**, focusing on performance and reliability in embedded systems environments, enhancing product stability by **30%**.\nConfigured and maintained memory management units (MMU) for efficient data handling, utilizing Direct Memory Access (DMA) techniques to improve throughput by **25%** in data-intensive applications.\nDesigned and tested communication protocols (e.g. **PCIe**, **NVMe**, **SATA**) for high-speed data transfer between components, significantly reducing latency by **40%** in firmware-level operations.\nEmployed git for version control, ensuring robust code management and collaboration, with a versioning strategy that includes **weekly** release cycles and thorough regression testing.\nIntegrated telemetry features into firmware, enabling real-time monitoring of system performance and health, aiding proactive maintenance and reducing unexpected downtime by **15%**.\nConducted ransomware simulations and developed heuristics-based methods to enhance firmware security, resulting in a **20%** increase in threat detection efficiency.\nUtilized external interfaces (UART, **JTAG**) for debugging firmware and real-time data analysis, leading to accelerated troubleshooting and resolution of firmware issues.\nEnhanced reliability and longevity of firmware using wear-leveling and garbage collection strategies in NAND flash memory management, extending operability by over **50%** in high-write scenarios."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **C/C++** to develop and optimize firmware for a variety of hardware platforms, ensuring robust performance and adherence to **Linux** standards across systems.\nDesigned and implemented real-time operating systems (**RTOS**) for embedded applications, achieving task scheduling efficiency and low latency communication in complex environments.\nDeveloped secure boot processes with **cryptographic signatures** to enhance the integrity of firmware loading, employing **anti-rollback** measures to prevent unauthorized versions from being executed.\nImplemented memory management techniques including **MMU** configuration and **DMA** for efficient data processing and reduced CPU overhead in firmware designs.\nEngineered communication interfaces using **PCIe**, **NVMe**, **SATA**, and **SCSI** protocols, delivering high-speed data transfer capabilities and robust connectivity options.\nEnsured compliance with safety and security standards by integrating **telemetry** systems and conducting **ransomware simulation** scenarios to assess the system's resilience against attacks.\nImplemented wear-leveling and garbage collection strategies in **FTL** algorithms to prolong the lifespan of flash memory components and maintain high performance under heavy workloads.\nApplied **Git** for version control and collaborative firmware development, ensuring consistent deployment practices and tracking of code changes across multiple teams.\nIntegrated **UART** and **JTAG** protocols for effective debugging and testing of firmware applications, facilitating rapid identification and resolution of issues during development cycles.\nChampioned practices around **ECC** for data integrity, thereby enhancing reliability in firmware performance across various devices.\nLeveraged heuristics for predictive analytics in firmware management, aimed at proactively addressing potential issues and streamlining user experiences."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, C/C++\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tOAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tLinux\n\n**Other:**\n\tMLflow, Airflow, Kubeflow\n\tKeycloak (OIDC, RBAC)\n\tNginx, Let’s Encrypt, Certbot\n\tRTOS, AXI, AHB, MMU, DMA, secure boot, anti-rollback, cryptographic signatures, trust chain, PCIe, NVMe, SATA, SCSI, JTAG, UART, ICE, Git, NVMe/ATA, FTL, wear-leveling, garbage collection, ECC, x86, UEFI, telemetry, ransomware simulation, heuristics",
+  "apply_company": "GOODRAM | Wilk Elektronik SA"
+}

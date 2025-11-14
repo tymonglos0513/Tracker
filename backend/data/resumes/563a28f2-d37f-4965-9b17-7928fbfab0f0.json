@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Application Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Application Engineer with over 10 years of experience in backend development and a strong focus on security-driven practices including **Bug Bounty**, **Burp Suite**, **OWASP**, **SAST**, and **DAST**. Expertise in developing robust, high-performing APIs and automation tools, utilizing technologies such as **Python** (FastAPI, Django, Flask) along with cloud services like **AWS** and **Azure**. Proficient in CI/CD pipelines using **Jenkins** and **GitLabCI**, infrastructure as code with **Terraform** and **Helm**, and enhancing security measures through **SonarQube**, **Snyk**, and **WAF**. Strong problem-solving skills complemented by effective communication, demonstrated through contributions to impactful projects at industry leaders like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Application Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Implemented **SAST** and **DAST** strategies to strengthen application security, achieving a **20%** reduction in vulnerabilities during code reviews.\nConducted thorough **pentesting** assessments using **Burp Suite** and **OWASP** guidelines to identify and mitigate potential security risks, resulting in an enhanced security posture.\nUtilized **Terraform** for infrastructure as code, enabling automated deployments of **Jenkins** and **GitLabCI** pipelines to improve CI/CD processes, achieving a **30%** reduction in deployment times.\nDeveloped a **WAF** strategy to protect services against common web exploits, ensuring safe and resilient application performance.\nEngaged in effective **problem-solving** sessions with cross-functional teams to address integration challenges, driving a **15%** increase in overall project efficiency.\nCommunicated security findings and development enhancements to stakeholders through comprehensive reports and presentations, fostering a culture of collaboration and transparency.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Burp Suite**, **OWASP** guidelines, and **SAST**/ **DAST** methodologies to conduct comprehensive security audits, ensuring applications adhere to industry standards and remain free from vulnerabilities.\nImplemented **SonarQube** and **Snyk** for continuous code quality monitoring and security scanning, identifying critical issues in real time.\nDesigned and automated CI/CD pipelines using **Jenkins** and **GitLabCI**, improving deployment efficiency by **30%** across various projects.\nManaged infrastructure as code with **Terraform** for the deployment of secure and scalable applications, reducing provisioning time by **50%**.\nDeveloped backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes.\nCreated event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests.\nEngineered data pipelines for the secure exchange of regulatory data, using **Apache Airflow** and **Azure Functions** to automate and streamline the data flow.\nCollaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management, enhancing team communication.\nExecuted penetration testing strategies, improving overall application security posture and risk management."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "- Conducted vulnerability assessments utilizing **Burp Suite**, adhering to **OWASP** guidelines to enhance software security for backend services.\n- Integrated **SonarQube** for static code analysis, ensuring high-quality deliverables by identifying code vulnerabilities during the development phase.\n- Employed **Snyk** for securing open-source dependencies, achieving a **30%** reduction in vulnerabilities across backend applications.\n- Developed automated CI/CD pipelines using **Jenkins** and **GitLabCI**, which decreased deployment time by **40%** through streamlined workflows.\n- Deployed infrastructure as code with **Terraform** and **Helm**, resulting in a more efficient provisioning process and reducing manual configuration errors by **50%**.\n- Utilized **SAST** and **DAST** tools to proactively identify security weaknesses, aligning with industry standards for secure application development.\n- Participated in pentesting and bug bounty programs, successfully identifying and remediating **15+** security vulnerabilities in production systems.\n- Fostered effective communication across cross-functional teams, addressing technical issues and fostering collaboration for improved project delivery."
+    }
+  ],
+  "skills": "**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Bug Bounty**\n\tBug Bounty, Burp Suite, OWASP, SAST, DAST, SonarQube, Snyk\n\n**Cloud & Infrastructure**\n\tAWS (EC2, S3, Lambda), Azure, Docker, Kubernetes, Terraform, Helm\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tGitHub Actions, Azure DevOps, Jenkins, GitLabCI, CI/CD\n\n**Frontend Frameworks**\n\tJavaScript\n\n**Other**\n\tProblem-solving, Communication, Pentesting\n\n**Programming Languages**\n\tPython (3.8+), SQL, Bash\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery, Airflow, MLflow\n\n**AI/ML Tools**\n\tPandas, NumPy, scikit-learn, TensorFlow",
+  "apply_company": "Swapcard"
+}

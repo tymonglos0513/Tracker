@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience excelling in full-stack development, focusing on delivering high-performance applications. Proficient in **Python**, **FastAPI**, **PostgreSQL**, **Docker**, **Kubernetes**, **Redis**, and **AWS**, with strong expertise in CI/CD, automated quality assurance, and integration testing to ensure system reliability and reproducibility. \nLeveraging extensive experience in building AI/ML-powered platforms, integrating predictive analytics, and developing microservices and event-driven architectures. Demonstrated ability to implement CI/CD pipelines and cloud-native systems across various industries, including healthcare and finance, while adhering to compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2. \nAdept in using cutting-edge technologies such as **React**, **Next.js**, **Vue**, **Node.js**, **Django**, and MLOps tools like **MLflow**, **Airflow**, and **Kubeflow** to enhance application performance and scalability.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed robust applications using **Python** and **FastAPI**, ensuring high reliability and reproducibility in the **DevOps** pipelines.\n• Architected and maintained **PostgreSQL** databases, optimizing data storage and retrieval for performance across various projects.\n• Implemented containerization strategies utilizing **Docker** and **Kubernetes** for seamless deployment and management of applications in cloud environments.\n• Streamlined **CI/CD** processes to automate quality assurance, incorporating integration testing that ensured code reliability across **3** production applications.\n• Enhanced system performance and reliability, minimizing downtime to less than **1%** through efficient automated testing and monitoring practices.\n• Collaborated with cross-functional teams to deliver secure applications, ensuring compliance with industry standards while maintaining a focus on reliability.\n• Ensured data integrity and availability by employing **Redis** caching strategies and database replication techniques, achieving a decrease in response time by **30%**.\n• Contributed to the evolution of deployment strategies, integrating testing and security checks into continuous delivery pipelines using tools like GitHub Actions and CircleCI.\n• Participated in developer training initiatives, fostering a culture of accountability and reproducibility among team members."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop and maintain microservices, enhancing scalability and performance of high-volume transactional systems \nImplemented CI/CD strategies to streamline deployments on **Docker** and **Kubernetes**, ensuring reliable and reproducible build pipelines \nIntegrated **PostgreSQL** databases for seamless data management in financial applications, optimizing data retrieval and storage efficiency by up to **30%** \nConducted automated quality assurance and integration testing to uphold application reliability, significantly improving deployment success rates by **20%** \nDeveloped real-time analytics dashboards using **React** and **D3.js**, providing operations teams instant access to critical financial data and insights \nDesigned and implemented event-driven architectures using **Kafka** and **RabbitMQ**, ensuring efficient asynchronous communication across various services \nCreated and maintained ETL pipelines for ingesting financial data with **Apache Airflow** and **Azure Data Factory**, supporting both batch and real-time processing \nDeveloped and deployed machine learning models for fraud detection using **scikit-learn** and **XGBoost**, achieving a **40%** improvement in detection accuracy \nLeveraged **AWS** cloud services for scalable infrastructure solutions, enabling better resource management and application performance."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** with **FastAPI** to design and optimize backend services for a global e-commerce platform, ensuring high availability and low latency across key modules like checkout and order fulfillment.\nImplemented **PostgreSQL** for reliable data storage and access, achieving a **99.9% uptime** rate in high-traffic situations by optimizing queries and indexing strategies.\nDeployed CI/CD pipelines using **Docker** and **Kubernetes**, improving deployment frequency by **30%** and enabling seamless integration of new features along with automated quality assurance processes.\nEnhanced scalability and reliability through caching strategies using **Redis**, reducing database read pressure by **40%** during peak traffic.\nConducted integration testing to ensure reproducibility and reliability of services, contributing to improved application stability and performance metrics.\nCollaborated with cross-functional teams to incorporate feedback loops and testing frameworks, ensuring features are validated before rollout, aligning with best practices in CI/CD.\nFocused on developing resilient software architectures capable of handling varying load patterns, resulting in a **25%** decrease in system failures during high-demand periods.\n\nExpanded technical proficiency in cloud services (AWS) to manage resources and improve scalability, actively contributing to disaster recovery protocols.\nDeveloped documentation and onboarding materials for automated testing processes, facilitating team alignment on quality assurance methodologies."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython\n\n**Backend Frameworks**\n\tFastAPI\n\n**Databases**\n\tPostgreSQL\n\tRedis\n\n**DevOps**\n\tDocker\n\tKubernetes\n\tCI/CD\n\n**Other**\n\tautomated quality assurance\n\tintegration testing\n\treliability\n\treproducibility",
+  "apply_company": "blackshark.ai"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-oriented Senior Data Engineer with 13+ years' experience, specializing in data architecture and governance. Proficient in **Apache Hadoop**, **Spark**, **Flink**, and **Kafka**, with hands-on expertise in **Python**, **SQL**, and **Scala** to optimize data processing and analytics. Skilled in containerization and orchestration with **Docker** and **Kubernetes**, ensuring seamless deployment and scalability of cloud-native applications on **AWS**.\nExperienced in building and maintaining CI/CD pipelines using **GitHub Actions** and **Airflow**, with a strong emphasis on data compliance and integration with existing systems. Additionally, bringing expertise in AI/ML model training and orchestration with **MLflow** and **Kubeflow**. Proven ability to deliver high-performance applications across healthcare and financial industries while aligning solutions with standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and implemented data architecture solutions using **Apache Hadoop**, **Spark**, and **Kafka** to enhance data processing capabilities for large-scale healthcare and fintech applications, achieving up to **30%** increase in processing efficiency.\nDeveloped and maintained CI/CD pipelines using **GitHub Actions** and **Airflow**, automating deployment workflows and ensuring high-quality delivery with over **95%** test coverage across multiple environments.\nArchitected and deployed containerized applications using **Docker** and **Kubernetes** to ensure scalable and fault-tolerant environments, managing resource allocation effectively in production with an uptime of **99.9%**.\nUtilized **Python** and **SQL** to build ETL processes and data integration workflows, enabling real-time data ingestion and analytics, supporting complex data queries with a turnaround time of under **5 seconds**.\nImplemented data governance strategies ensuring compliance with industry standards and best practices across data handling processes, leading to a **40%** reduction in incidents related to data quality.\nCollaborated with cross-functional teams to design data pipelines and orchestration using **Flink** and **dbt**, enhancing data transformation processes that serve multiple business intelligence tools.\nEngaged in improving system performance through monitoring and optimization techniques, achieving a **20%** reduction in latency for data retrieval queries.\nLed the adoption of modern data processing frameworks, integrating **Confluent** and various database systems to enhance data reliability and accessibility for analytical and operational requirements.\nPerformed rigorous testing on data workflows using testing frameworks and tools, ensuring robustness and reliability of data outputs through comprehensive automated tests."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented data architecture leveraging **Apache Hadoop**, **Apache Spark**, and **Apache Flink** to efficiently process and analyze large datasets in alignment with best practices for data governance.\nDeveloped and maintained containerized applications using **Docker** and orchestrated deployment with **Kubernetes**, ensuring high availability and scalability of data pipelines in production environments.\nStreamlined data ingestion and processing workflows by integrating **Kafka** for real-time data streaming, enhancing responsiveness and reliability across various services.\nExecuted CI/CD processes using **GitHub Actions** to automate data pipeline deployments, enabling rapid iterations and enhancing team productivity by **30%**.\nCrafted ETL processes using **Python**, **Apache Airflow**, and **dbt** for seamless data transformations and improved data quality across pipelines, resulting in a **25%** reduction in data processing time.\nEmployed **SQL** for data querying, analysis, and optimization, supporting better decision-making across multiple departments.\nWorked closely with data governance frameworks to ensure compliance and high data integrity standards across all automated workflows, significantly mitigating risks.\nUtilized **AWS** cloud services for scalable solutions and storage, optimizing costs and efficiency in managing vast data resources.\nImplemented machine learning models for predictive analytics, improving operational insights and forecasting accuracy by **40%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized data architecture for high-performance analytics pipelines using **Apache Hadoop**, **Spark**, and **Flink**, ensuring efficient data processing and storage for large-scale data operations.\nEngineered real-time data processing workflows leveraging **Kafka** and **Confluent**, enabling seamless event-driven data streams and real-time analytics capabilities across various data sources.\nDeveloped containerized applications using **Docker** and orchestrated deployments with **Kubernetes**, enhancing scalability and reliability of data services and simplifying CI/CD processes with **GitHub Actions**.\nImplemented effective data governance strategies to maintain data integrity and compliance with regulations, utilizing tools such as **Airflow** and **dbt** for data lineage tracking and ETL processes.\nUtilized **Python** for scripting complex data transformation and automation tasks, ensuring integration with SQL databases and optimized query performance.\nCollaborated with distributed teams to design and deploy cloud-based solutions on **AWS**, meeting critical SLAs and enabling high availability for key analytics systems.\nExecuted robust version control practices in collaboration with teams, delivering **10+** data projects per quarter while maintaining impeccable documentation and workflow management.\nApplied advanced data governance protocols with an emphasis on compliance and security for **GDPR**, ensuring data privacy across all engineering efforts.\nMonitored and tuned data pipelines for performance improvements, achieving up to **50%** reduction in data processing times while handling terabytes of data daily.\nEngaged in continuous learning and implementation of new technologies related to **Data Architecture** and **Data Engineering** practices, aligning solutions with business needs."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, SQL, Scala\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tOAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Apache Hadoop, Spark, Flink, Kafka, Confluent, CI/CD, Data Architecture, Data Governance",
+  "apply_company": "Cloudbeds"
+}

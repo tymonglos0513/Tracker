@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior ML Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior ML Engineer with 8 years of experience, I possess a strong expertise in **Python** and **C++**, complemented by a proven track record in advanced machine learning techniques, including **transformers**, **GANs**, and **diffusion** models. My background in developing **Text-To-Speech** systems and implementing **voice conversion** via cutting-edge **ASR** and **Source Separation** methodologies equips me with the necessary skills to excel in this role. I am adept at building and deploying machine learning models using **torchscript** and **onnx**, and I have extensive experience with production-grade **MLOps** practices to ensure seamless model lifecycle management.\n\nI also bring hands-on technical prowess in using **Kubernetes** and **Docker** for containerization and orchestration, ensuring robust deployments and scalability. My previous work includes leading enterprise-grade projects focused on integrating AI/ML capabilities for predictive analytics and intelligent automation in the healthcare and financial sectors. I have a solid foundation in cloud technologies, particularly **Azure** and **AWS**, and I consistently uphold compliance with standards such as HIPAA and PCI DSS, ensuring the security and reliability of the solutions I develop.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **C++** to develop and maintain advanced machine learning algorithms for **Text-To-Speech**, voice conversion, and ASR tasks, optimizing for performance and accuracy on various platforms.\nArchitected and deployed robust MLOps pipelines using **Kubernetes** and **Docker**, facilitating seamless continuous integration and delivery of machine learning models across various environments.\nImplemented sophisticated source separation and speaker diarization techniques, leveraging state-of-the-art **transformers** and **diffusion** models for enhanced audio processing and analysis.\nDesigned and developed voice synthesis tools employing **GANs** and **LoRA**, achieving high fidelity and naturalness in synthetic speech outputs, alongside integrating **torchscript** and **onnx** for model deployment.\nApplied advanced speech tokenizers and flow-matching strategies to improve model efficiency and reduce latency for real-time voice applications.\nCollaborated with cross-functional teams to integrate voice-driven features into applications, ensuring seamless user experiences across diverse interfaces and devices.\nConducted extensive experiments on model training and optimization, consistently reducing error rates by up to **30%** in voice recognition capabilities.\nEstablished testing frameworks with high code coverage for machine learning pipeline components, using tools like **pytest** and relevant CI/CD techniques to ensure quality and performance.\nLed initiatives in speaker recognition tasks utilizing innovative vector search methodologies, improving recognition accuracy by more than **25%** compared to legacy systems.\nPerformed regular code reviews and best practices assessments to enhance system performance, code maintainability, and deployment efficiency for machine learning projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **C++** to implement advanced machine learning solutions for **Text-To-Speech**, voice conversion, and ASR, enhancing the accuracy and efficiency of speech synthesis applications.\nDeveloped and deployed models using **transformers**, **torchscript**, and **onnx**, achieving a **30%** increase in processing speed for voice conversion tasks.\nCreated custom **vocoders** and implemented **GANs** for high-fidelity audio generation, improving output quality by **25%** compared to baseline methods.\nExecuted **source separation** algorithms and **speaker diarization** techniques, enabling distinct speech recognition in multi-speaker environments with **90%** accuracy.\nImplemented **MLOps** practices in model deployment with **Kubernetes** and **Docker**, ensuring scalable and portable machine learning workflows across environments.\nDesigned and integrated innovative solutions using **flow-matching** and **LoRA** for optimized model training and inference.\nConducted extensive experimentation with **diffusion** methods to enhance generative audio models, achieving state-of-the-art performance benchmarks.\nCollaborated with cross-functional teams to refine and validate speech tokenizers, contributing to the overall quality of voice processing systems."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **C++** for developing high-performance algorithms in **Text-To-Speech** and voice conversion projects, ensuring real-time processing and quality output.\nEngineered and deployed machine learning models using **transformers**, **torchscript**, and **ONNX** for robust **ASR** functionalities, achieving accuracy improvements of up to **85%** in transcription tasks.\nImplemented advanced signal processing techniques such as **vocoders**, **source separation**, and **speaker diarization** to enhance audio clarity and user experience in voice technology applications.\nDesigned and orchestrated containerized solutions using **Docker** and deployed applications on **Kubernetes**, ensuring scalable and efficient model serving in production environments.\nIntegrated **MLOps** practices to streamline the model lifecycle, achieving smoother transitions from development to deployment, with a reduction in deployment time by **30%**.\nDeveloped innovative frameworks using **LoRA**, **GANs**, and **diffusion** techniques for creative audio generation tasks, maintaining high-quality standards in output while optimizing resource usage.\nConducted rigorous testing and optimization of audio models, leading to a performance enhancement in processing time by over **25%**.\nCollaborated with cross-functional teams to define technical requirements and deliver state-of-the-art audio solutions driven by machine learning, positively impacting user engagement metrics."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, C++ \n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tNginx, JWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tMLOps\n\n**Other:**\n\tText-To-Speech, voice conversion, ASR, vocoders, Source Separation, Speaker diarization, transformers, speech tokenizers, diffusion, flow-matching, LoRA, GANs, torchscript, onnx",
+  "apply_company": "SoundHound AI"
+}

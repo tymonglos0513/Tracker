@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Software Engineer with 10+ years of experience specializing in building robust and efficient software solutions. Proficient in **Python**, **Node.js**, and skilled in implementing **PostgreSQL** databases alongside **API** development. Extensive hands-on experience in **CI/CD** automation and container orchestration using **Docker** and **Kubernetes**, ensuring seamless integration and deployment of applications. Adept at email server technologies including **Postfix**, **Dovecot**, and understanding of protocols such as **SMTP**, **IMAP**, and **DNS**, crucial for designing effective email analytics and anti-abuse mechanisms.\n\nBrings a strong foundation in networking, shell scripting, and compliance standards, ensuring adherence to best practices. Known for leading initiatives in developing cloud-native applications and adapting to industry shifts in secure system implementations. Excels in giving practical solutions that enhance user experiences while maintaining system integrity.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable solutions leveraging **Python** and **Node.js** to enhance email analytics and anti-abuse features, ensuring robust communication systems in the healthcare and finance sectors.\n• Developed CI/CD pipelines using **Docker** and **Kubernetes**, facilitating the deployment of applications across different environments with **99%** reliability.\n• Managed PostgreSQL databases for secure and efficient data storage, optimizing queries to process up to **500,000** records in under **2 seconds**.\n• Ensured email delivery and security using **Postfix**, **Dovecot**, and established protocols including **SPF**, **DKIM**, and **DMARC**, achieving a **98%** deliverability rate.\n• Implemented effective shell scripting solutions to automate system monitoring and maintenance tasks across **Linux** servers, improving operational efficiency by **30%**.\n• Engaged in integration of **API** services for enhanced communication between applications, targeting latency reduction to below **100 milliseconds**.\n• Contributed to network design and troubleshooting efforts, ensuring reliable interactions across SMTP and IMAP protocols for seamless email services.\n• Led documentation and training sessions for team members on best practices in **MTA**, **DNS** configurations, and security tactics related to email distribution and data integrity."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Node.js** to lead the development and modernization of financial platforms, implementing a microservices-based architecture which improved scalability and maintainability for high-volume transaction systems.\nDeveloped robust APIs and communication protocols, ensuring secure and efficient data exchange based on **PostgreSQL** and integrated with various systems following **CI/CD** practices for seamless deployments.\nDesigned and implemented dynamic front-end applications using **React (18)**, enhancing user engagement and experience for financial dashboards and admin portals.\nExecuted real-time analytics by integrating **D3.js** and **Power BI Embedded**, allowing operations teams to monitor financial activities and generate actionable insights effectively.\nEstablished a resilient event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, facilitating real-time processing for transactions and alerts.\nDeveloped and managed ETL pipelines through **Apache Airflow** and **Azure Data Factory**, handling both batch and real-time ingestion of financial data from diverse sources.\nImplemented email analytics solutions, focusing on anti-abuse measures by leveraging **Postfix**, **Dovecot**, and strong networking protocols (SMTP, IMAP).\nApplied AI/ML techniques with **scikit-learn** and **Azure Machine Learning** for fraud detection systems, successfully identifying and flagging suspicious transaction patterns.\nCreated and maintained machine learning pipelines using **MLflow** and **Airflow**, ensuring efficient model inference integrated into backend services for immediate operational decisions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "• Developed robust backend services utilizing **Python** and **Node.js**, ensuring high availability and integration with various **API** endpoints to enhance system connectivity for a large-scale e-commerce platform.\n• Streamlined email handling and improved communication protocols using **Postfix**, **Dovecot**, **SMTP**, **IMAP**, and implemented anti-abuse strategies, ensuring reliable delivery and security updates.\n• Managed database systems with **PostgreSQL** for efficient data storage and retrieval, optimizing queries to handle over **1M** transactions daily, maintaining performance under high-traffic conditions.\n• Employed **Linux** environments for server management, utilizing shell scripting for automation, reducing deployment times by **30%** through CI/CD practices with **Docker** and **Kubernetes**.\n• Collaborated on networking tasks and ensured compliance with **SPF**, **DKIM**, and **DMARC** for enhancing email security, protecting users against phishing and spoofing.\n• Analyzed email traffic and user interactions with **email analytics** tools, leading to a **15%** increase in engagement through targeted campaigns.\n• Implemented role-based access control (RBAC) and security measures to protect user data, ensuring **GDPR** compliance for customer interactions across the platform.\n• Participated in system design discussions, reinforcing best practices in software development life cycles and enhancing team productivity with a focus on continuous improvement."
+    }
+  ],
+  "skills": "****Programming Languages****\n\tPython, Node.js\n\n****Backend Frameworks****\n\tFastAPI, Flask, Django\n\n****Frontend Frameworks****\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n****API Technologies****\n\tAPI\n\n****Serverless and Cloud Functions****\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n****Databases****\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n****DevOps****\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n****Cloud & Infrastructure****\n\tLinux, shell scripting, networking\n\n****Other****\n\tPostfix, Dovecot, MTA, SMTP, IMAP, DNS, SPF, DKIM, DMARC, email analytics, anti-abuse, MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Mission Inbox"
+}

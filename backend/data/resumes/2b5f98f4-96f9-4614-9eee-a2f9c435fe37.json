@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior DevOps Engineer with 8 years of comprehensive experience, I excel in **DevOps** practices, **Cloud** services including **Azure** and **AWS**, and **CI/CD** automation using tools like **Ansible**, **Terraform**, and **Helm**. My expertise encompasses the development and deployment of **microservices** architectures and **Kubernetes** orchestration, ensuring robust scalability and reliability of applications. I am adept in **GitOps** principles for efficient version control of infrastructure, facilitating seamless collaboration within Agile teams.\nIn addition to my DevOps skills, I have a strong foundation in programming languages such as **Java**, **JavaScript**, **Python**, and **Go**, allowing for effective implementation of innovative solutions. My experience includes building high-performance applications across the healthcare and financial sectors with a focus on compliance standards such as HIPAA, FHIR, and PCI DSS. I also hold a passion for leveraging **machine learning** and AI capabilities in production environments, having developed pipelines using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented enterprise-level **DevOps** pipelines using **GitHub Actions**, **Azure DevOps**, and **CircleCI**, incorporating linting, testing, security scans, and multi-environment deployments for both web and API services, resulting in faster delivery cycles by **30%**.\nArchitected and managed cloud infrastructure leveraging **Kubernetes** (AKS/EKS) and **Terraform** to enable scalable, resilient, and high-availability microservices architectures for complex applications.\nDesigned CI/CD strategies using **Ansible** and **Helm**, establishing automated workflows that reduced manual deployment efforts by **50%**.\nDeployed containerized applications using **Docker**, ensuring consistent development to production transitions, enhancing team collaboration, and reducing deployment errors to **less than 5%**.\nEstablished GitOps practices, promoting infrastructure as code and streamlining environments revisions, contributing to a **40%** increase in deployment speed and reliability.\nCollaborated with Agile teams to build robust cloud-based services and SaaS solutions, enhancing team productivity and aligning delivery with business goals.\nUtilized shell scripting and **Python** for automation tasks, minimizing repetitive manual processes, resulting in improved operational efficiency.\nIntegrated monitoring and logging solutions to provide insights into cloud service performance, facilitating quicker troubleshooting and maintenance responses, and achieving a **90%** reduction in critical incident response time.\nConducted technical reviews and training sessions on open-source tools and technologies, fostering a culture of continuous learning and improvement across teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented **DevOps** practices for CI/CD, enhancing deployment frequency by **40%** and reducing lead time for changes by **30%** through automation and **GitOps** methodologies.\nLeveraged **Cloud** services and orchestrated microservices using **Kubernetes** to achieve a resilient and scalable architecture, improving uptime from **95%** to **99.9%**.\nDesigned and implemented infrastructure as code using **Terraform** and **Ansible**, streamlining environment provisioning and configurations, leading to a reduction in setup time by **50%**.\nDeveloped and maintained SaaS solutions employing **Microservices** architecture with **JavaScript** (Node.js) and **Python** (Django, Flask), ensuring system robustness and ease of management.\nAutomated build and deployment processes using **Helm** and continuous integration tools, enabling rapid and reliable application updates, reducing time to market.\nFostered agile development methodologies, collaborating within cross-functional teams to deliver high-quality software solutions aligned with business objectives.\nUtilized **Open Source** tools for monitoring and performance optimization, which contributed to a **25%** increase in operational efficiency.\nPerformed code reviews and mentoring, promoting best practices and ensuring high code quality across the engineering team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines to streamline deployment processes, ensuring a rapid and efficient delivery of applications using **GitOps**, **Terraform**, and **Ansible** in an Agile environment.\nManaged and orchestrated containerized microservices on **Kubernetes**, enhancing application scalability and reliability through automated deployments and monitoring.\nDeveloped and maintained infrastructure as code using **Terraform** and **Helm**, ensuring consistent environments across production, staging, and development.\nCollaborated with cross-functional teams to integrate cloud solutions, leveraging **AWS** and **Azure** services for high-performance SaaS applications.\nEnhanced application security by implementing role-based access control (RBAC) and adopting best practices for **OAuth 2.0** integration, ensuring GDPR compliance in user data management.\nAutomated system provisioning and configuration management, leading to a **30% reduction** in setup time for development environments.\nConducted regular audits and performance tuning, contributing to a **40% increase** in system uptime and response times across applications.\nStreamlined development workflows by adopting open-source tools and contributing to community-driven projects, fostering innovation and collaboration.\nUtilized **Docker** containers to package applications, promoting consistent environments from development to production with **10+ applications** containerized.\nEngaged in proactive monitoring and alerting strategies using tools like **Prometheus** and **Grafana**, achieving early detection of performance bottlenecks and reducing incident response times by **20%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Java, JavaScript, TypeScript, Go, C#, Shell\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Ansible, Terraform, Helm\n\n **Cloud & Infrastructure:**\n\tGitOps, CI/CD\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Agile, Microservices, Open Source",
+  "apply_company": "Hypertegrity AG"
+}

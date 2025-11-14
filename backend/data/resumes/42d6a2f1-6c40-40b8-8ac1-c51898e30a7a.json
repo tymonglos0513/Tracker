@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "DevOps Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Results-driven DevOps Engineer with over 10 years of experience in designing and delivering robust backend systems, now pivoting to focus on expertise in **Kubernetes**, **GitOps**, **Helm**, **Terraform**, and **Ansible**. Skilled in implementing infrastructure as code and automation strategies, with a strong understanding of monitoring and alerting using **Prometheus**, **Grafana**, and **Alertmanager**. Demonstrated ability to manage complex deployments and ensure compliance with **SOC 2** and **ISO 27001** standards. Proven success in driving impactful projects at leading organizations such as VISA, Sii Poland, and Reply Polska, while creating high-performing APIs and scalable services using **Python** frameworks like **FastAPI**, **Django**, and **Flask**, as well as utilizing cloud platforms such as **AWS** and **Azure**.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Terraform** to manage infrastructure as code for deploying microservices on Azure App Services, ensuring **99.9%** uptime and seamless cloud operations.\nImplemented **GitOps** strategies for version control and deployment efficiency, enhancing collaboration and deployment speed by **30%**.\nScripting for automation of deployment processes, increasing efficiency in system updates and rollbacks by **50%**.\nMonitored system performance using **Prometheus**, **Grafana**, and **Alertmanager** to establish custom alerting workflows, ensuring system reliability and compliance with **SOC 2** and **ISO 27001** standards.\nDeveloped automated CI/CD pipelines using **Argo CD** for managing application releases, reducing deployment time from hours to minutes.\nConducted security assessments and implemented role-based access control (**RBAC**) for enhanced security of DevOps practices.\nCollaborated with cross-functional teams to troubleshoot system integration challenges and maintain adherence to compliance regulations."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Implemented **Terraform** for infrastructure automation to maintain consistent and scalable environments in deployment pipelines.\nEmployed **GitOps** practices to streamline code deployment and enhance collaboration across teams in continuous integration processes.\nUtilized **Kubernetes** for orchestrating and managing containerized applications, ensuring high availability and resilience.\nConfigured monitoring and alerting solutions using **Prometheus**, **Grafana**, and **Alertmanager** to track system performance and maintain operational excellence.\nManaged application deployment with **Helm** for streamlined application lifecycle management and version control.\nExecuted automation scripts using **Ansible** to facilitate environment setups and configuration management across **100+** microservices.\nImplemented role-based access control (RBAC) strategies to enhance security and restrict access in compliance with **SOC 2** and **ISO 27001** standards.\nConducted regular audits and security assessments to ensure continuous compliance with industry best practices and regulations.\nCollaborated with cross-functional teams to ensure system integrations are smooth and aligned with business objectives, achieving over **95%** success rate in release management."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Implemented infrastructure as code using **Terraform** and **Ansible** to automate deployment processes and maintain consistent environments across **Kubernetes** clusters.\nUtilized **GitOps** practices to manage and streamline application deployment and version control, ensuring seamless integration and rollback capabilities.\nMonitored system performance and application health using **Prometheus**, **Grafana**, and **Alertmanager**, achieving over **99.9%** uptime.\nDesigned scalable CI/CD pipelines with **Argo CD**, enabling efficient continuous deployment of services and facilitating rapid feature rollouts.\nDeveloped security measures in accordance with **SOC 2** and **ISO 27001** standards, strengthening platform security and compliance protocols.\nConducted regular audits and assessments to ensure adherence to RBAC policies, preventing unauthorized access and enhancing data protection.\nSpearheaded the implementation of job scheduling and monitoring solutions to optimize resource management and improve operational efficiencies in the deployment process."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tKubernetes, GitHub Actions, Azure DevOps, GitOps, Helm, Terraform, Ansible, Prometheus, Grafana, Alertmanager, Argo CD, CI/CD, Scripting, RBAC\n\n**Cloud & Infrastructure**\n\tDocker\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, PyTest, Git, SOC 2, ISO 27001"
+}

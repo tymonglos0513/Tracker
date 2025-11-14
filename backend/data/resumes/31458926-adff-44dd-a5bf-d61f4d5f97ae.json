@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Intermediate Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As an Intermediate Engineer with 8 years of experience, I excel in building high-performance solutions utilizing **Go(lang)**, **Docker**, **Kubernetes**, and **gRPC**. My solid foundation in **software design**, combined with expertise in **MySQL**, **Redis**, and event monitoring with **Prometheus** and **Grafana**, enables me to develop robust applications tailored for scalability and reliability. Additionally, I am proficient in utilizing **CloudWatch** for monitoring and **CloudFlare** and **CloudFront** for improved application delivery.\n\nMy full-stack development experience encompasses front-end frameworks like **Angular** and back-end technologies such as **Node.js** and **Django**. I have a deep understanding of algorithms and data structures, ensuring the efficiency and performance of applications. With hands-on experience in CI/CD using **Jenkins**, I am committed to delivering quality code aligned with industry standards. I also possess strong skills in **JavaScript/TypeScript**, **Python**, and **Flutter** technologies, further supporting my versatile development capabilities.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Intermediate Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Go(lang)** to develop robust and high-performance applications, improving system efficiency by **30%** through optimized algorithms and data structures.\nImplemented **Kubernetes** and **Docker** for container orchestration and deployment, enhancing scalability and maintaining uptime during peak traffic periods by **99.9%**.\nDesigned RESTful APIs using **gRPC** for seamless communication between microservices, reducing latency in data retrieval by **25%**.\nLeveraged **MySQL** and **Redis** for efficient data storage and caching, ensuring quick access to information and improving response times in applications by **40%**.\nMonitored application performance and reliability using **Prometheus**, **Grafana**, and **CloudWatch**, delivering actionable insights to enhance system health and stability.\nAutomated deployment pipelines through **Jenkins**, enabling continuous integration and deployment, which led to a **50%** reduction in release cycles and faster delivery of features.\nConfigured and optimized **CloudFlare** and **CloudFront** for content delivery and DDoS protection, enhancing application speed and securing sensitive data against vulnerabilities.\nDeveloped web applications using **Angular** to create responsive user interfaces, contributing to a user satisfaction increase measured through feedback metrics.\nCollaborated on cloud infrastructure design and implementation, focusing on high availability and disaster recovery strategies.\nParticipated in code reviews and knowledge sharing sessions to elevate team expertise in software design principles and best practices, fostering a culture of continuous improvement."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed scalable microservices using **Go(lang)** and **gRPC**, ensuring high availability and performance for financial applications.\nUtilized **Kubernetes** and **Docker** for container orchestration and deployment, enhancing system reliability and deployment efficiency by **30%**.\nIntegrated data storage solutions with **MySQL** and **Redis** to optimize data retrieval and caching, achieving **45%** faster response times for transaction processing.\nApplied algorithms and data structures principles to streamline software design processes, enhancing application performance under heavy loads.\nImplemented monitoring solutions using **Prometheus** and **Grafana** for real-time system performance tracking, improving troubleshooting time by **20%**.\nEnhanced CI/CD pipelines through **Jenkins** for seamless deployment automation, reducing deployment errors by **50%**.\nDeveloped user-centric applications with **Angular** for superior UX, contributing to a **25%** increase in user satisfaction ratings.\nManaged API interactions with **CloudFlare**, **CloudFront**, and **nginx**, ensuring efficient traffic handling and minimizing latency in data transfers.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Designed and optimized scalable backend services using **Go(lang)** and **Kubernetes**, ensuring high availability and low latency for core e-commerce modules.\n• Engineered microservices architecture with **Docker** and **gRPC** for improved service communication and deployment efficiency.\n• Developed responsive frontend applications using **Angular** (latest version), enhancing user engagement while applying software design principles and algorithms for optimal performance.\n• Leveraged **MySQL** and **Redis** for efficient data management, achieving fast data retrieval and eliminating bottlenecks during peak usage times.\n• Implemented real-time monitoring solutions utilizing **Prometheus** and **Grafana**, and maintained logging through **CloudWatch** to ensure system reliability and performance tracking.\n• Ensured CI/CD practices through **Jenkins**, facilitating automated deployments and rigorous testing phases for consistent delivery and version control.\n• Applied best practices in software design alongside strong data structures to create efficient, maintainable code that effectively handles high traffic.\n• Engaged in thorough code reviews and pair programming to foster knowledge sharing and improve team collaboration, following the principles of agile methodology.\n• Collaborated with cross-functional teams utilizing **CloudFlare** and **CloudFront** for enhanced application security and load handling across global environments.\n• Developed data-driven solutions that utilized sophisticated algorithms to improve performance metrics and drive business insights."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Go (lang), JavaScript/TypeScript, Kotlin, Swift\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tgRPC\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tCloudFlare, CloudFront, CloudWatch, Prometheus, Grafana\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Authentication & Security (Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), Algorithms, Data Structures, Software Design"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior AWS Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior AWS Engineer with 13+ years of experience in delivering high-performance applications, specializing in **AWS**, **Terraform**, and **CDK** for automated infrastructure management. Proficient in designing and deploying cloud-native systems with a focus on **Infrastructure-as-Code** and **CI/CD** pipelines to enhance efficiency and scalability.\nExperienced in leveraging **SAP HANA** and **S/4HANA** technologies, with a strong background in compliance and governance frameworks, ensuring alignment with industry standards. Skilled in optimizing **FinOps** strategies for cost management and utilizing **Monitoring** and **Automation** tools for streamlined operations.\nExpert in full stack development with hands-on experience in **JavaScript/TypeScript**, **Python**, and **Flutter**, utilizing frameworks like **React**, **Node.js**, **FastAPI**, and **Django**. A proven record in building innovative AI/ML platforms that drive predictive analytics and real-time processing.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AWS Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented **AWS** best practices for deploying scalable applications using **Terraform** and **CDK**, ensuring high availability (HA) and disaster recovery (DR) solutions.\nDesigned and built infrastructure-as-code (IaC) strategies to automate resource provisioning with **CI/CD** pipelines, achieving 90% faster deployment times compared to manual processes.\nManaged **IAM** roles and permissions to secure cloud resources, adhering to compliance standards while facilitating seamless integration with existing systems like **SAP HANA** and **S/4HANA**.\nOptimized storage solutions within **AWS**, leveraging services like **S3**, **EBS**, and **RDS** to support data-intensive applications with 99.9% uptime.\nExecuted cloud networking strategies involving **AWS VPC**, ensuring secure connections and efficient routing between environments, leading to improved application performance by 30%.\nEnhanced monitoring and logging frameworks by integrating **AWS CloudWatch** and **CloudTrail** for real-time analytics, resulting in a 40% reduction in incident response time.\nCollaborated within cross-functional teams, promoting effective communication and teamwork while serving as a key contact for **FinOps** initiatives focused on cost optimization.\nDesigned comprehensive landing zones aligned with best practices ensuring security, compliance, and scalability for all solutions deployed on **AWS**.\nDeveloped automated scripts for infrastructure management and monitoring, reducing operational overhead by 20% and increasing reliability across environments.\nLed initiatives to integrate **SAP-MAP** for seamless data transfers between AWS and on-premise solutions, improving data access efficiency for end-users by 25%."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS** services for deploying and managing cloud infrastructure, ensuring high availability (**HA**) and disaster recovery (**DR**) for financial applications.\nImplemented Infrastructure-as-Code practices using **Terraform** and **CDK** to automate cloud resource provisioning, improving deployment speed by **30%**.\nConfigured and maintained **IAM** policies to enhance security posture and compliance across cloud services, enabling controlled access to sensitive data.\nCollaborated with cross-functional teams to integrate **SAP HANA** and **S/4HANA** solutions into existing cloud architecture, optimizing data storage and processing for financial applications.\nDesigned and implemented **Landing Zones** to streamline secure multi-account AWS environments, contributing to a **40%** improvement in governance and compliance.\nAutomated monitoring and alerting solutions using **FinOps** practices, ensuring operational costs are optimized and aligning spending with business objectives.\nFostered **teamwork** and effective **communication** across teams to ensure seamless collaboration on cloud infrastructure projects, emphasizing **customer orientation** in service delivery.\nDeveloped and documented CI/CD pipelines for application deployment using **AWS CodePipeline** and **GitHub Actions**, enhancing deployment frequency and reliability by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Designed and optimized cloud infrastructures using **AWS** services, applying Infrastructure-as-Code principles with **Terraform** and AWS **CDK** to ensure high availability (HA) and disaster recovery (DR) configurations.\n- Implemented monitoring solutions through AWS CloudWatch, ensuring real-time performance tracking and automation of alerts for infrastructure health.\n- Engaged in FinOps practices to manage cloud expenditure and optimize resource allocation for cost-effectiveness while enhancing operational efficiency by **20%**.\n- Established secure IAM policies to manage user access effectively, supporting role-based access control (RBAC) and adhering to GDPR compliance for sensitive data protection.\n- Developed provisioning strategies for **SAP HANA** and **S/4HANA** environments, creating landing zones for seamless deployment and integration.\n- Collaborated with cross-functional teams to implement CI/CD pipelines for automated deployments, improving release cycles by **30%** and minimizing deployment risk through blue-green deployment strategies.\n- Enhanced network security by applying well-defined networking standards within AWS, improving infrastructure reliability and access control mechanisms.\n- Engaged in ongoing communication with stakeholders to ensure project alignment with business objectives and customer orientation, enhancing user satisfaction by **25%**.\n- Contributed to team success through effective teamwork, sharing best practices for automation, and maintaining high standards of technical excellence in all operations."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, IAM, Azure: Blob Storage, SQL Database, Networking, Storage\n\n **Other:**\n\tSAP, SAP HANA, S/4HANA, SAP-MAP, Automation, FinOps, HA, DR, Monitoring, Communication, Teamwork, Customer Orientation",
+  "apply_company": "tecRacer"
+}

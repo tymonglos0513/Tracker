@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Backend Engineer with 13+ years of experience in building high-performance applications, ensuring robust backend systems tailored for scalability and effectiveness. Proficient in **Python**, **Django**, **Django REST**, and **Celery**, with hands-on experience in database management using **PostgreSQL**. Adept at employing modern monitoring tools such as **Sentry**, **Datadog**, and **Grafana** to ensure system reliability and performance optimization.\n\nSkilled in CI/CD practices using **Git** and orchestrating containerized applications with **Kubernetes**, ensuring seamless deployment and scaling. Strong understanding of performance tuning and efficient data retrieval with **ClickHouse** and **Elasticsearch** for improved user experiences. Familiar with API design through **OpenAPI** standards.\n\nExperienced in developing solutions within compliance frameworks, bringing a solid foundation in healthcare and financial regulations, while being committed to implementing microservices and event-driven architectures.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** with **Django** and **Django REST** to develop scalable backend solutions, ensuring optimal performance and reduced latency by **15%**.\nImplemented task queues and asynchronous processing using **Celery** to manage background tasks effectively, achieving a processing speed improvement of **30%**.\nDesigned and maintained databases with **PostgreSQL** and optimized queries that resulted in a **20%** increase in data retrieval efficiency.\nIntegrated monitoring tools like **Sentry**, **Datadog**, and **Grafana** to oversee application performance and detect anomalies, leading to a **25%** decrease in downtime incidents.\nCollaborated with cross-functional teams to streamline the development pipeline using **Git** for version control, ensuring a smooth deployment process across different environments.\nEnhanced data retrieval and analytics capabilities by leveraging **ClickHouse** and **Elasticsearch**, which improved query response times by **40%**.\nDeveloped robust API documentation using **OpenAPI** standards, improving onboarding times for new developers by **50%**.\nLed containerization efforts with **Kubernetes**, coordinating deployment strategies that increased scalability and resource utilization.\nOptimized applications for security and performance by establishing best practices for backend architecture and deployment strategies.\nFostered a culture of testing and quality assurance by designing test strategies that ensured functionality and performance goals were met consistently."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Developed robust backend solutions using **Python** and **Django**/**Django REST**, ensuring secure and efficient data handling in financial applications.\n- Implemented asynchronous task management using **Celery**, enhancing the reliability of background processes.\n- Utilized **PostgreSQL** for database management and optimization, achieving a **30%** reduction in query response times through advanced indexing strategies.\n- Set up monitoring and alerting systems with **Sentry**, **Datadog**, and **Grafana**, ensuring system reliability and performance tracking with real-time performance metrics.\n- Managed source control effectively using **Git**, streamlining collaboration among development teams and maintaining version integrity.\n- Employed **ClickHouse** for analytical processing, resulting in the ability to handle **up to 100 million** records efficiently for analytical queries.\n- Integrated **Elasticsearch** for enhanced data retrieval capabilities, allowing for complex search functionalities across large datasets.\n- Developed and documented APIs using **OpenAPI** standards, improving inter-system integration and developer usability.\n- Orchestrated containerized applications using **Kubernetes**, ensuring seamless deployment and scalability of applications across multiple environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Django** to design and optimize backend services for a global e-commerce platform, ensuring high availability and scalability across critical modules including checkout, cart, and order fulfillment.\nEmployed **Django REST** and **Celery** for developing RESTful APIs, improving data processing times by **30%** through efficient task management and asynchronous processing.\nImplemented monitoring and performance optimization using **Sentry**, **Datadog**, and **Grafana**, enabling visibility into system performance and reducing downtime by **25%**.\nLeveraged **PostgreSQL** and **ClickHouse** for structured data storage, achieving a data retrieval speed improvement of **50%** for high-traffic e-commerce workflows.\nIntegrated structured logging and error tracking to enhance system reliability and facilitate debugging, boosting incident response efficiency.\nCollaborated in a microservices architecture with container orchestration via **Kubernetes**, enabling seamless deployment and management of services across multiple environments.\nContributed to CI/CD pipelines using **Git** for version control, ensuring smooth deployment processes and reducing release cycle times by **20%**.\nDeveloped high-performing search functionality with **Elasticsearch**, enhancing user experience and speeding up search queries by **40%**.\nParticipated in API documentation using **OpenAPI**, improving code quality and team communication for better understanding of backend interactions.\nEmployed security best practices with role-based access control (RBAC) to ensure data protection and compliance with GDPR standards throughout the platform."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tDjango, Django REST, FastAPI, Flask, Celery\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tOpenAPI\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS; Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, ClickHouse\n\n**Monitoring & Logging:**\n\tSentry, Datadog, Grafana\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Authentication & Security:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot\n",
+  "apply_company": "Search Atlas"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Sebastian Lukasz Nowak",
+  "role_name": "Senior Operations Engineer",
+  "email": "sebastiannowak425@outlook.com",
+  "phone": "+48 732 489 778",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/sebastian-nowak-756157396/",
+  "profile_summary": "Results-oriented Senior Operations Engineer with 8 years of robust experience in cloud services and DevOps practices. Proficient in **AWS**, **Terraform**, **Ansible**, **CI/CD**, **Kubernetes**, **GitLab CI**, **Helm**, **Argo CD**, **Prometheus**, **Grafana**, **CloudWatch**, and **IAM**, I excel in building efficient, scalable, and secure cloud infrastructure. My expertise includes implementing incident response strategies, performance tuning, cost optimization, and enhancing observability across systems to ensure operational excellence.\n\nWith a solid foundation in microservices architecture and extensive hands-on experience managing complex deployments, I am adept at automating workflows and improving deployment pipelines through continuous integration and delivery. My previous roles in the healthcare and financial sectors have honed my skills in compliance with industry standards such as HIPAA, FHIR, and PCI DSS, supporting enterprise-grade applications. Additionally, my background in machine learning and AI/ML integration complements my ability to drive innovative solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "",
+      "from_year": "2001",
+      "to_year": "2006",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Operations Engineer",
+      "company": "DeepInspire",
+      "from_date": "Oct 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implemented CI/CD pipelines using **GitLab CI**, **Argo CD**, and **CircleCI** to automate deployment and ensure seamless integration and delivery across multiple environments.\n- Utilized **AWS** services for performance tuning, cost optimization, and incident response management, enhancing the reliability and efficiency of applications.\n- Managed container orchestration using **Kubernetes** to deploy applications, improving scalability and maintaining high availability.\n- Designed infrastructure as code with **Terraform** and automated configuration management using **Ansible**, optimizing deployment processes with version control up to **v1.3**.\n- Established observability frameworks with **Prometheus** and **Grafana** to monitor application performance, enabling proactive incident response and effective troubleshooting across services.\n- Integrated network security practices, including encryption protocols and IAM policies, ensuring compliance with industry standards.\n- Collaborated with cross-functional teams to enhance observability, resulting in a **30%** reduction in incident response times through efficient logging and monitoring systems.\n- Conducted performance reviews and operational assessments to optimize cloud architecture and resource utilization, achieving a **15%** cost reduction in cloud services.\n- Demonstrated advanced incident response techniques by utilizing **CloudWatch** for automated alerts and monitoring, minimizing downtime and service disruptions.\n- Played a key role in training teams on best practices for CI/CD, cloud networking, and observability, contributing to improved operational capabilities and efficiency."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Britenet",
+      "from_date": "Sep 2015",
+      "to_date": "Sep 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines utilizing **GitLab CI** and **Terraform**, significantly improving deployment efficiency by **40%** and enhancing infrastructure as code practices for better maintainability and scalability.\nConfigured and maintained **Kubernetes** clusters to manage containerized applications, ensuring high availability and utilizing **Prometheus** and **Grafana** for robust monitoring and observability of system performance metrics and alerts.\nDeveloped infrastructure provisioning scripts using **Ansible**, automating the setup of environments which reduced manual efforts by **60%** and accelerated project delivery timeframes.\nUtilized **AWS** services for cloud infrastructure management, ensuring secure and efficient resource usage that resulted in a **30%** cost optimization for cloud expenditures.\nImplemented robust IAM policies ensuring secure access management across the cloud environment, with a focus on compliance and encryption, safeguarding sensitive data transactions.\nExecuted incident response strategies that decreased system downtime by **25%**, enhancing overall operational resilience and ensuring a rapid recovery in the event of service disruptions.\nOptimized network configurations to improve application performance, leveraging **AWS CloudWatch** for observability and alerting, which resulted in enhanced user experience and system reliability.\nConducted performance tuning initiatives across distributed systems to reduce latency, improve throughput, and achieve responsive operational capabilities, focusing on delivering superior performance metrics aligned with business goals."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Binary Studio",
+      "from_date": "Jan 2007",
+      "to_date": "Aug 2015",
+      "location": "UK",
+      "responsibilities": "Implemented robust infrastructure solutions leveraging **AWS**, **Terraform**, and **Ansible** that resulted in a seamless CI/CD pipeline utilizing **GitLab CI** for automated deployments and operational efficiency.\nOptimized container orchestration using **Kubernetes** alongside **Helm** and **Argo CD** for continuous deployment, significantly reducing deployment time by **30%** while enhancing scalability and reliability.\nMonitored application performance and system health with **Prometheus** and **Grafana**, proactively detecting issues and enhancing observability which improved system uptime to **99.9%**.\nManaged IAM roles and permissions to ensure secure services, supporting **GDPR** compliance through effective role-based security practices.\nConducted incident response planning and execution, minimizing downtime during outages and reducing incident recovery times by an average of **40%**.\nDesigned and implemented cloud networking strategies, focusing on **cost optimization** and **performance tuning**, leading to a **20%** reduction in monthly cloud expenditures.\nEstablished encryption standards for sensitive data in transit and at rest, adhering to best practices for data security and compliance across services.\nCollaborated with cross-functional teams to enhance deployment strategies, which improved integration times by **25%**, streamlining the overall project lifecycle.\nProvided leadership and mentorship to junior engineers in adopting best practices for observability and incident management, fostering a culture of continuous improvement."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Argo CD, CI/CD\n\n**Cloud & Infrastructure:**\n\tCloudWatch, Incident Response, Cost Optimization, Performance Tuning, Observability, Networking, IAM\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Certbot, Prometheus, Grafana, Encryption",
+  "apply_company": "Pagestreet"
+}

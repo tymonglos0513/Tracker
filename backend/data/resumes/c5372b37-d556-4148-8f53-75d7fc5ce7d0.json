@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Experienced Software Engineer with a strong proficiency in **Python**, **FastAPI**, and modern development methodologies, including **TDD** and **Agile** practices. Possesses over 10 years of delivering innovative software solutions, particularly within the healthcare and finance sectors. Adept in **Golang**, **C#**, and **Java**, and demonstrates expertise in building scalable applications and microservices using advanced architectures like **DDD** and **Clean Architecture**. Proficient in cloud technologies, including **Kubernetes** and **GitLab CI**, for efficient deployment and orchestration of applications.\n\nBrings hands-on experience in AI and ML solutions, utilizing tools to implement intelligent systems that facilitate automation and enhance decision-making. Strong analytical skills and a commitment to building secure, maintainable solutions that adhere to compliance standards. A proven track record in leading teams to deliver high-performance applications that have measurable impacts.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tDeveloped and maintained robust applications using **Python** (including frameworks like **FastAPI**), ensuring best practices in **Test-Driven Development (TDD)** and **Agile** methodologies for enhanced product delivery and team collaboration.\n•\tEngineered backend microservices using **Golang** and **C#**, leveraging **Kubernetes** and **GitLab CI** for continuous integration and deployment of code, achieving a **30% reduction** in deployment time and increased scalability.\n•\tDesigned and optimized data storage solutions with **PostgreSQL**, enabling efficient data retrieval and manipulation, which led to a **25% improvement** in application performance when handling large datasets.\n•\tImplemented large-scale machine learning models and algorithms to enhance features and user experiences, utilizing **AI** and **ML** techniques that resulted in accurate predictions and insights for both healthcare and finance sectors.\n•\tUtilized **Kafka** for reliable messaging and event streaming across services, improving data flow efficiency and system responsiveness, supporting **real-time data processing** for enhanced decision-making capabilities.\n•\tLed architecture design decisions using **Domain-Driven Design (DDD)** and **Clean Architecture** principles, establishing maintainable and adaptable codebases for future expansion and new feature integration.\n•\tCollaborated on cross-functional teams to strengthen software quality through rigorous testing strategies, employing tools such as Jest and Postman to ensure and uphold testing standards for **unit, integration, and E2E tests**.\n•\tManaged scalable cloud solutions with container orchestration tools like **Helm** and **Kubernetes**, enabling high availability of services with a **99.9% uptime** rate across multiple production environments.\n•\tIntegrated advanced search capabilities using **ElasticSearch**, providing efficient solutions for handling vast amounts of structured and unstructured data, benefiting end-users with **rapid search functionalities**.\n•\tConducted code reviews and mentorship sessions to foster skill development regarding **Agile practices**, ensuring adherence to coding standards and team efficiency."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python**, **FastAPI**, and **Kafka** to architect and implement scalable, maintainable financial platforms, successfully enhancing throughput for high-volume transaction systems.\nLeveraged **GitLab CI** to automate continuous integration and delivery processes, ensuring efficient and error-free deployments across software projects.\nAdopted **Agile** methodologies to streamline project management and improve team collaboration, resulting in a **30%** increase in development speed and delivery timelines.\nDesigned and developed ETL pipelines with **Apache Airflow** and **Azure Data Factory**, facilitating efficient batch and real-time data ingestion from internal and third-party sources, processing up to **1 million** transactions daily.\nImplemented robust security measures using **AI** and **ML** techniques to improve fraud detection systems, achieving a **95%** accuracy rate in transaction anomaly detection.\nCreated scalable microservices using **Golang** and **Kubernetes**, leading to improved application performance and reliability, with a reduction in downtime by **40%**.\nConducted thorough unit testing and TDD practices to enhance code quality and maintainability, significantly reducing bugs and increasing overall software reliability.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** along with frameworks like **FastAPI** to design and optimize backend services for a global e-commerce platform, ensuring maximum scalability and low latency, which improved checkout performance by **30%**.\nEngineered real-time features using **Kafka** and **RabbitMQ** to create an event-driven architecture, enhancing order update responsiveness and reducing customer support response times by **25%**.\nDeveloped robust applications with **React (18)** and **Vue 3**, applying **TypeScript** and **Redux Toolkit** to deliver superior user experiences on both web and mobile platforms, achieving a **40%** increase in user engagement.\nLeveraged databases such as **PostgreSQL** and **MongoDB** for efficient data storage solutions, effectively maintaining data access speeds for high-traffic workflows and ensuring **99.9%** uptime.\nIntegrated AI and ML algorithms, utilizing tools like **scikit-learn** and **TensorFlow**, to drive personalized user experiences, resulting in a **15%** boost in conversion rates through optimized product recommendations.\nImplemented **Redis** cache solutions for product metadata and shopping cart sessions, drastically improving application response time by **50%**, while reducing database load.\nDefined deployment strategies using **Kubernetes** and **GitLab CI**, implementing feature flags and blue-green deployment methodologies to facilitate smooth rollouts and A/B testing, enhancing feature delivery speed by **20%**.\nDeveloped mobile-first, SEO-friendly interfaces using **Next.js** and **HTML5/CSS3**, ensuring accessibility compliance (WCAG 2.1) and achieving top SERP rankings for key search terms.\nBuilt secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, applying tokenized transactions to maintain PCI compliance and safeguard sensitive user data.\nApplied role-based access control (RBAC) and **OAuth 2.0**, ensuring GDPR compliance while protecting user data across the platform."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Golang, C#, Java, Kotlin\n\n**Backend Frameworks:**\n\tFastAPI, LangChain, DDD, Clean Architecture\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tNginx, JWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Postgres\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Helm\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Docker Compose\n\n**Other:**\n\tArtificial Intelligence & Machine Learning (AI, ML), MLflow, Airflow, Kubeflow, Kafka, TDD, Agile"
+}

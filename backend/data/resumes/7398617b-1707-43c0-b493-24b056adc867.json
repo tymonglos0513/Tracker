@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior DevOps Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-oriented Senior DevOps Engineer with over 10 years of experience in ensuring data quality, consistency, and integrity in distributed systems. Proficient in batch processing, stream processing, and API testing, with a strong ability to develop and implement effective test strategies. Expert in utilizing **Python** (FastAPI, Django, Flask) for building high-quality APIs and automation tools, and well-versed in cloud services like **AWS** and **Azure** for cloud-native architecture. Recognized for systemic thinking and the capability to work independently, successfully contributing to major projects with leading organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to engineer backend services for enhancing document automation, user onboarding, and comprehensive reporting workflows, improving efficiency by **30%**.\nImplemented **API testing** methodologies to ensure robust functionality and reliability of services, significantly increasing transaction integrity and data consistency.\nArchitected event-driven solutions with **Celery** and **Redis** for asynchronous processing of financial transaction requests, reducing processing times by **25%**.\nDeployed microservices on **Azure App Services** while leveraging **Terraform** for infrastructure as code, maintaining operational excellence in cloud environments and achieving a **99.9%** uptime.\nSpearheaded the creation and maintenance of data pipelines using **Apache Airflow** and **Azure Functions** to facilitate regulatory data exchange, ensuring compliance with data quality standards and timely delivery.\nLed security assessments and successfully integrated **OAuth2** and **Azure AD B2C** to establish secure and scalable authentication systems, improving security posture.\nCollaborated with cross-functional teams to resolve systemic integration challenges, formulate effective test strategies, and manage release strategies to enhance the overall performance of distributed systems."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Ensured **data quality** through thorough **API testing** and validation of **transaction integrity** to support robust backend systems in **Python** and **FastAPI**.\n• Developed backend systems to facilitate **batch processing** and **stream processing**, automating document workflows and enhancing user onboarding with **Celery** and **Redis**.\n• Orchestrated the deployment of microservices using **Azure App Services** and **Terraform**, resulting in a **30%** improvement in deployment speed across environments.\n• Engineered data pipelines employing **Apache Airflow** and **Azure Functions** for secure and efficient data flows, achieving a processing time reduction of **25%** for regulatory data exchanges.\n• Conducted extensive security audits to uphold **data consistency** and integrated OAuth2 and **Azure AD B2C** for secure access controls, maintaining compliance with industry standards.\n• Collaborated with cross-functional teams to enhance distributed systems, ensuring successful release management and regulatory compliance in line with **systemic thinking** and **independent work** strategies."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Ensured **data quality** and **transaction integrity** across backend services for trade execution, portfolio management, and account tracking, using **Python** and **Flask**.\n• Engineered **batch processing** and **stream processing** for real-time price feed with **asyncio**, **WebSockets**, and **Redis** to support high-frequency transactions with response times under **50 ms**.\n• Collaborated with frontend teams to implement efficient **API testing** through robust **REST APIs** and **WebSocket channels**, ensuring **data consistency** for seamless user interactions.\n• Designed systems with a focus on **distributed systems** architecture to comply with regulatory requirements such as **MiFID II** and **GDPR**, while ensuring adherence to internal data security protocols.\n• Developed a comprehensive **test strategy** incorporating **PyTest**, **tox**, and mock servers, resulting in a **30% reduction** in QA testing time and streamlining CI processes.\n• Optimized backend task execution by introducing job queuing and scheduling solutions with **Celery** and **RabbitMQ**, reducing processing times by up to **20%**.\n• Demonstrated **systemic thinking** and **independent work** capabilities to improve backend services and enhance overall trading operations."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**API Technologies**\n\tREST/gRPC APIs, API testing\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**Cloud & Infrastructure**\n\tAWS (EC2, S3, Lambda), Azure\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Git\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, data quality, batch processing, stream processing, transaction integrity, data consistency, distributed systems, test strategy, systemic thinking, independent work",
+  "apply_company": "Knowit"
+}

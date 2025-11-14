@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Software Engineer with 8 years of experience, I possess a strong skill set in **AWS**, **Linux**, **Apache**, **Nginx**, **PHP**, **MySQL**, and **MariaDB**, with a solid foundation in web development technologies such as **JavaScript** and **Python**. I have successfully built high-performance solutions in the healthcare and financial sectors, leveraging **Flask**, **Gunicorn**, and **CRON** for backend applications.\nMy expertise also includes modern development practices and frameworks like **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. I have a proven track record of integrating AI/ML capabilities for predictive analytics and intelligent automation within enterprise-grade platforms. \nI excel in developing microservices architectures and event-driven systems, ensuring robust and secure applications that meet compliance standards including HIPAA, FHIR, and PCI DSS. Additionally, I bring valuable experience in implementing CI/CD automation and managing MLOps workflows using tools like **MLflow** and **Kubeflow**, creating efficient environments for deployment and machine learning model serving.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and optimized web applications utilizing **JavaScript**, **PHP**, and **Python** (Flask), ensuring high performance and reliability in healthcare and financial systems.\n- Architected and maintained server environments on **Linux** systems, implementing web hosting solutions with **Apache**, **Nginx**, and **Gunicorn** to deliver robust application performance.\n- Designed database schemas and optimized queries in **MySQL** and **MariaDB** for efficient data storage and retrieval, processing over **10M** records seamlessly.\n- Created automated data processing scripts using **CRON** jobs, improving operational efficiency by **30%** in data ingestion workflows.\n- Integrated content management capabilities via **WordPress** for dynamic content updates and user engagement across the platform.\n- Collaborated with cross-functional teams to develop full-stack applications employing **LAMP** architecture, resulting in a **40%** increase in project delivery speed.\n- Leveraged cloud services on **AWS** for deploying and scaling applications, achieving redundancy and enhanced security for sensitive healthcare and financial data.\n- Implemented CI/CD workflows to streamline the deployment process, reducing deployment time by **50%** using modern DevOps practices.\n- Developed RESTful APIs to facilitate seamless integration of client and server components, enhancing user experience on both desktop and mobile platforms.\n- Completed performance audits and optimizations, leading to load time reductions of over **60%** across applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Linux** for server management and deployment of applications, ensuring optimal performance and reliability in a cloud environment.\nLeveraged **AWS** services to enhance scalability and availability of applications, incorporating tools such as **EC2**, **S3**, and **RDS** for efficient resource management.\nDesigned and developed web applications using **LAMP** (Linux, Apache, MySQL, PHP) stack, optimizing application structure for improved performance and user experience.\nEmployed **MySQL** and **MariaDB** for database design and management, working on complex queries that handle up to **10,000** concurrent transactions.\nImplemented back-end functionalities and RESTful APIs using **Python** frameworks like **Flask** and **Gunicorn**, leading to a **30%** increase in response times.\nConfigured **Apache** and **Nginx** servers to optimize security and performance, successfully reducing server response time by **25%**.\nAutomated server tasks utilizing **CRON** jobs to maintain schedule-based operations, resulting in a **50%** reduction in manual intervention.\nEnhanced content management systems (CMS) primarily using **WordPress**, developing custom plugins to extend functionality and improve user engagement.\nDeveloped advanced features in applications utilizing **JavaScript** for robust front-end interactions, improving user engagement metrics by **40%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** cloud services to deploy and manage applications, ensuring scalability and reliability in the production environment.\nImplemented **Linux** server management practices for application deployment, enhancing system performance and uptime.\nDeveloped and maintained backend services using **PHP** (LAMP stack, including **Apache**, **MySQL**, and **MariaDB**) to support business logic and database interactions for a high-traffic e-commerce platform.\nOptimized cron jobs and automated tasks to enhance system efficiency and maintain performance during peak traffic periods, resulting in a 20% improvement in response times.\nEngineered APIs with **Flask** and **Gunicorn** for microservices architecture, facilitating seamless communication between frontend applications and backend services.\nIntegrated **Nginx** for efficient load balancing and reverse proxying setups, achieving a 30% reduction in server loads during high-demand scenarios.\nDeveloped CI/CD pipelines leveraging technology stacks ensuring rapid deployment cycles, improving overall development efficiency by 40%.\nCollaborated on WordPress CMS solutions to enrich content delivery and enhance user engagement across various platforms, focusing on customization and performance tuning.\nImplemented security measures such as **OAuth 2.0** and role-based access control, ensuring secure administrative and user access in e-commerce applications."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, PHP\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Gunicorn\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tNginx, JWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL, MySQL, MariaDB, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tLinux, LAMP, Apache\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Let’s Encrypt, CRON, CMS, WordPress",
+  "apply_company": "Scaled"
+}

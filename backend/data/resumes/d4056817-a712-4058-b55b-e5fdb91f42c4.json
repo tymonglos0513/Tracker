@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Support Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Support Engineer with over 10 years of experience in SaaS solutions and backend system design. Proficient in developing and maintaining high-quality APIs, leveraging a diverse tech stack that includes **Python** (FastAPI, Django, Flask), **C#**, **PHP**, **JavaScript**, **SQL**, and cloud services like **AWS** and **Azure**. Skilled in tools such as **Salesforce**, **PowerShell**, **SharePoint**, and monitoring applications including **Dynatrace**. Highly experienced in troubleshooting and automating support processes, utilizing advanced protocols like **SAML** and **oAuth**. Demonstrated ability to contribute to high-impact projects at leading organizations including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Support Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to engineer scalable **API** backend services that enhance **SaaS** document automation, user onboarding, and reporting workflows.\nImplemented event-driven architectures using **Celery** and **Redis** for streamlined asynchronous processing of over **1,000** financial transaction requests per minute.\nDeployed microservices on **Azure App Services**, utilizing **Terraform** to manage infrastructure as code, resulting in a **30%** reduction in deployment time.\nDesigned and maintained robust data pipelines utilizing **Apache Airflow** and **Azure Functions** for regulatory data exchange, ensuring compliance and accuracy in data flow with a **99.9%** success rate.\nExecuted comprehensive security assessments and integrated **OAuth2** and **Azure AD B2C** for secure, scalable, and reliable authentication systems, enhancing user security across platforms.\nCollaborated with cross-functional teams to troubleshoot system integration challenges and implement compliance strategies, overseeing release processes to ensure scheduled deployments are met on time."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed robust **APIs** in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes, improving efficiency by **30%**.\n• Engineered and managed event-driven microservices utilizing **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests, which reduced processing time by **25%**.\n• Deployed microservices on **Azure App Services**, using **Terraform** for infrastructure automation, ensuring consistent and scalable environments with a **99.9%** uptime.\n• Designed and implemented data pipelines for the secure exchange of regulatory data, leveraging **Apache Airflow** and **Azure Functions**, which automated data flow and enhanced security compliance.\n• Conducted thorough security audits to ensure compliance with industry standards and integrated **OAuth2** and **Azure AD B2C** to manage authentication and secure access controls, enhancing security measures by **40%**.\n• Collaborated with cross-functional teams to facilitate smooth system integration and regulatory compliance, contributing to successful releases and minimizing deployment errors."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed and maintained **API** integrations to enhance responsiveness and scalability of SaaS solutions using **Python** and **Flask**.\n• Utilized **SQL** databases, specifically **PostgreSQL**, for robust data management and to ensure high performance and efficiency in trade execution systems.\n• Engineered real-time data processing using **Asyncio**, **WebSockets**, and **Redis**, delivering immediate trading data for high-frequency transactions, improving latency by up to **30%**.\n• Collaborated with cross-functional teams to build user-friendly services and interfaces, improving user satisfaction ratings by **25%** through effective **REST API** communication.\n• Ensured compliance with crucial regulatory requirements including **MiFID II** and **GDPR**, minimizing risk exposure and enhancing overall system security.\n• Implemented automated testing frameworks using **PyTest**, ensuring that over **90%** of the platform features passed rigorous QA checks, thus reducing downtime.\n• Streamlined backend processing with **Celery** and **RabbitMQ**, which improved task execution efficiency by **40%**, minimizing response delays for end-users."
+    }
+  ],
+  "skills": "  **Programming Languages**\n\tPython, SQL, JavaScript, C#, PHP\n\n  **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n  **Frontend Frameworks**\n\tHTML, CSS, jQuery\n\n  **API Technologies**\n\tREST/gRPC APIs, API, JSON, oAuth, SAML\n\n  **Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n  **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n  **DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n  **Cloud & Infrastructure**\n\tSalesforce, SharePoint, Dynamics\n\n  **Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Microservices, Kafka, PyTest, Git, SaaS, XML, Wireshark, Fiddler, Charles Proxy, Dynatrace, Docusign",
+  "apply_company": "Docusign"
+}

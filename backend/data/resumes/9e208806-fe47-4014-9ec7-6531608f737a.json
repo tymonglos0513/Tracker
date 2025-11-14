@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Python Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Python Engineer with 8 years of experience, I have a strong focus on **Python**, and extensive expertise in **Flask**, **FastAPI**, and **Django** for developing scalable applications. My technical arsenal includes proficiency in **Docker**, **Kubernetes**, and robust CI/CD pipelines for streamlined deployments, ensuring high-quality code and efficient runtime management. I am adept at leveraging **AWS** cloud services along with databases such as **MongoDB** and **PostgreSQL** to build high-performing systems.\n\nAdditionally, my background in microservices architecture enhances application scalability and maintainability. I excel in using collaborative tools like **JIRA**, **Confluence**, and **Slack**, which helps streamline project management and team communication. I am experienced in monitoring and logging solutions such as **Grafana**, **ELK Stack**, and **New Relic**, ensuring optimal application performance and reliability.\n\nWith proven skills in event-driven systems and a commitment to compliance standards, I have successfully developed enterprise-level solutions across industries, including healthcare and finance, while integrating AI/ML capabilities for enhanced data analytics and automation.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed scalable, full-stack applications utilizing **Python** with frameworks such as **FastAPI** and **Flask**, ensuring robust performance and maintenance of existing functionalities.\n- Implemented CI/CD pipelines using tools like **Git** and modern methodologies, optimizing development processes for efficient deployment cycles.\n- Leveraged **Docker** and **Kubernetes** to create containerized applications with microservices architecture, enhancing system scalability and resilience, achieving **99.9%** uptime.\n- Integrated cloud services including **AWS** for efficient, secure storage solutions, focusing on **PostgreSQL** and **MongoDB** for dynamic data management and retrieval, optimizing database responses by **40%**.\n- Collaborated across teams using communication tools such as **Slack**, **Confluence**, and **JIRA**, ensuring agility and transparency in project management and task tracking.\n- Enhanced application performance by utilizing **Redis** for caching mechanisms, improving response times by **30%**.\n- Supported the design and deployment of comprehensive solutions within a **microservices** framework, breaking down monolithic structures into back-end services driving increased efficiency.\n- Conducted thorough testing strategies using frameworks including **Jest** and **PyTest**, achieving code coverage of **95%** through rigorous unit and integration testing.\n- Fostered a collaborative environment while using tools like **Miro** to visualize project workflows and optimize cross-functional team efforts.\n- Enhanced monitoring and analytics capabilities through **Grafana** and the **ELK Stack**, providing critical insights into application performance and user behavior.\n- Participated in robust documentation practices in **Confluence**, ensuring seamless onboarding and knowledge sharing within the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** with frameworks such as **FastAPI** and **Django** to lead the development and modernization of financial platforms, adopting a microservices-based architecture that improved scalability, maintainability, and throughput for high-volume transaction systems by **40%**.\nImplemented **Docker** and **Kubernetes** for containerization and orchestration, achieving a continuous deployment cycle that reduced time-to-market for new features from months to **weeks**.\nDeveloped and maintained CI/CD pipelines using **Git**, ensuring efficient code integration and deployment processes that improved development team productivity by **30%**.\nBuilt dynamic, user-focused front-end applications using **React (18)**, **Next.js**, and **TypeScript**, applying **Redux Toolkit** and **Tailwind CSS** to create responsive and performant user interfaces for financial dashboards and admin portals.\nOrchestrated ETL pipelines employing **Apache Airflow** and **Azure Data Factory** for real-time ingestion of financial data, integrating with both internal and external sources, and achieving data ingestion timeframes of less than **5 minutes**.\nIntegrated messaging systems like **RabbitMQ** to support a robust event-driven architecture, facilitating real-time communication and processing for transactions and alerts while enhancing system reliability.\nDeveloped AI/ML models for fraud detection using **scikit-learn** and **XGBoost**, contributing to a **50%** increase in identified fraudulent transactions and reducing response times for alerts.\nCreated machine learning pipelines for credit scoring, churn prediction, and transaction classification with **MLflow** and **Airflow**, deploying models directly into backend services for real-time decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed backend services for a global e-commerce platform using **Python** (FastAPI, Django) and Docker, ensuring scalable and maintainable microservices architecture, enhancing operational efficiency by **25%**.\n• Utilized Git for version control, ensuring robust code management and collaborative development processes within the team.\n• Implemented CI/CD pipelines with Kubernetes and AWS for seamless deployments, reducing deployment time by **40%**.\n• Enhanced system performance through effective use of **Redis** for caching, achieving a **30%** improvement in response times for high-traffic transactions.\n• Managed databases with **MongoDB** and **PostgreSQL** to support high availability and fault tolerance, handling up to **1,000,000** transactions per day.\n• Leveraged **RabbitMQ** for asynchronous message processing to improve data flow between services, resulting in a more responsive application.\n• Coordinated project workflows and documentation in **JIRA** and Confluence, facilitating team alignment and project tracking, which increased project delivery efficiency.\n• Created and maintained infrastructure monitoring on **Grafana** and ELK Stack, proactively identifying bottlenecks and improving system reliability.\n• Implemented security measures including role-based access control (RBAC) and OAuth 2.0, ensuring compliance with GDPR for user data protection.\n• Collaborated in an Agile development environment utilizing tools like **Slack** and **Miro** for real-time communication and brainstorming, enhancing team productivity."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFlask, FastAPI, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure (App Services, Blob, SQL)\n\n**Other:**\n\tGit, Microservices, JIRA, Confluence, Slack, Miro, Grafana, ELK Stack, New Relic, RabbitMQ, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "YouGov"
+}

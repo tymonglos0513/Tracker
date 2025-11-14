@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior System Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a skilled Senior System Engineer with a robust background in **cloud infrastructure** including **AWS** and **Azure**, I excel in implementing **DevOps**, **CI/CD**, and **GitOps** practices to optimize software delivery and performance. My expertise encompasses **API** development with **gRPC** and **ReST**, and I have a comprehensive understanding of **networking**, including the usage of **openflow** and **open_virtual_switch** for efficient data flow management. I leverage **Kubernetes** to orchestrate containerized applications, improving scalability and resilience in systems. \nWith 8 years of experience in full-stack development, I have successfully integrated technologies such as **JavaScript/TypeScript**, **Python**, and **Flutter** to create high-performance solutions in healthcare and finance. My strong foundation in microservices architecture and event-driven systems allows me to develop advanced applications that align with compliance standards like HIPAA and PCI DSS. I also possess hands-on experience in developing machine learning pipelines and implementing MLOps workflows using tools like MLflow, Airflow, and Kubeflow, reinforcing my capability to enhance operational efficiency through intelligent automation and analytics.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior System Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented enterprise-level **DevOps** pipelines leveraging **GitHub Actions**, **Azure DevOps**, and **CircleCI** for continuous integration and delivery, ensuring efficient Code pipeline management.\nArchitected and maintained **cloud infrastructure** solutions using **AWS** and **Azure**, incorporating **Kubernetes** for orchestration and enhanced scalability and resilience in deployment strategies.\nConfigured and managed **CI/CD** workflows, demonstrating proficiency in tooling and automation to streamline development processes and rapid release cycles.\nDesigned and optimized **API** endpoints and integrated **gRPC** and **ReST** methodologies, ensuring seamless communication between services and enhanced performance.\nCollaborated on the establishment and execution of network monitoring and telemetry strategies, focusing on real-time analytics and system performance metrics for critical infrastructures.\nOrchestrated the deployment of networking solutions using **openflow** and **open_virtual_switch**, ensuring efficient data flow and resource management across multi-tenant environments.\nDeveloped solutions that utilized **network hardware acceleration** technologies to enhance data throughput and reduce latency in network operations.\nLeveraged techniques involving **RDMA** and **InfiniBand** for high-performance computing environments, facilitating ultra-low latency network connections that support extensive data operations.\nEngaged in proactive troubleshooting and performance optimization of **CNI** plugins to ensure robust container management and network provisioning.\nEnsured compliance with organizational standards and best practices across all engineering components, aligning with industry standards for quality and security."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented **CI/CD** practices to streamline deployment processes, reducing release times by **40%** and ensuring smooth transitions between development and production environments.\nDesigned and maintained robust API architectures using **gRPC** and **ReST**, facilitating seamless communication between microservices and enhancing system interoperability.\nLeveraged **DevOps** methodologies to improve collaboration between development and operations teams, contributing to a **30%** increase in deployment frequency while maintaining system reliability.\nManaged cloud infrastructure using **AWS** and **Azure**, optimizing resource allocation and reducing cloud expenditure by **20%** while increasing system performance.\nConfigured and orchestrated containerized environments using **Kubernetes**, ensuring consistent deployment and scalability of applications across various environments.\nEstablished monitoring and telemetry systems to track application performance and network traffic, enabling quick identification and resolution of issues, thus minimizing downtime by **25%**.\nDeveloped and deployed SDN solutions to enhance network management and efficiency, integrating with existing hardware acceleration technologies like **RDMA** and **InfiniBand**.\nUtilized networking protocols such as **openflow** and **open_virtual_switch** to facilitate programmable network environments, optimizing data flow and connectivity for cloud applications.\nEmployed **GitOps** strategies for version control and infrastructure as code, ensuring reliable and repeatable deployments across distributed systems.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Leveraged **cloud infrastructure** technologies such as **AWS** and **Azure** to design and optimize backend services, ensuring seamless integration with **Kubernetes** for scalable deployments in a high-traffic environment.\nImplemented **DevOps** practices by utilizing **CI/CD** pipelines and **GitOps** methodologies to automate the deployment, monitoring, and management of code, improving deployment frequency by **40%**.\nUtilized **API** protocols, specifically **gRPC** and **ReST**, to streamline communication between microservices, enhancing data exchange efficiency and reducing request-response times by **30%**.\nEngineered **monitoring** and **telemetry** solutions to ensure optimal performance and reliability in network services, utilizing tools for **networking** insights and faults detection with an uptime guarantee of **99.9%**.\nDesigned and implemented software-defined networking (SDN) solutions using technologies such as **openflow** and **open_virtual_switch** to enable dynamic network configuration and improved bandwidth utilization.\nOptimized infrastructure by integrating performance enhancements through **RDMA** and **InfiniBand**, resulting in reduced latency for data transmission by **25%**.\nCreated and managed Docker containers with **CNI** plugins to ensure efficient networking and increased resource utilization across applications in a microservices architecture.\nFacilitated the use of innovative networking hardware acceleration techniques to boost application performance and improve overall system throughput in cloud environments.\nConducted rigorous testing and validation of network configurations, ensuring robust performance under varying loads while complying with organizational standards for high availability and fault tolerance.\nImproved system security with role-based access control (RBAC) measures and compliance practices, ensuring a secure operational environment for network services."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython(FastAPI, Flask, Django), JavaScript/TypeScript (React, Vue, Angular)\n\n**Backend Frameworks:**\n\n**Frontend Frameworks:**\n\n**API Technologies:**\n\tAPI, gRPC, ReST\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, GitOps, CI/CD\n\n**Cloud & Infrastructure:**\n\tcloud infrastructure, networking, monitoring, telemetry, SDN, openflow, open_virtual_switch, RDMA, InfiniBand, CNI\n\n**Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow\n\tAuthentication & Security:\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot\n",
+  "apply_company": "NVIDIA"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior DevOps Engineer with 8 years of robust experience, I specialize in CI/CD automation, configuration management, and leveraging DevOps tools to optimize and secure enterprise web applications. My technical expertise includes service containers and scripting tools across both **Linux** and **Windows** environments, ensuring scalable and reliable solutions that meet business demands. I am skilled in developing high-performance, secure **SaaS** platforms and have a strong foundation in building workflows that maintain compliance standards. \n\nIn my previous roles, I have utilized a diverse tech stack, including **JavaScript/TypeScript**, **Python**, **React**, **Next.js**, **Node.js**, **FastAPI**, and **Django**. My extensive cloud experience spans **Azure** and **AWS**, enabling the integration of cutting-edge technology such as AI/ML for enhanced predictive analytics and intelligent automation. I have successfully led the development of enterprise-grade platforms, incorporating microservices architecture and event-driven systems while implementing MLOps workflows using tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines for enterprise-level web applications leveraging **GitHub Actions**, **Azure DevOps**, and **CircleCI** to automate deployment processes, ensuring continuous integration and delivery efficiency across both web and API services.\nDeveloped automation scripts using **Python** and **Bash** to streamline configuration management and system monitoring on both **Linux** and **Windows** platforms, enhancing operational performance and reducing deployment times by **30%**.\nUtilized service containers such as **Docker** and orchestrated using **Kubernetes (AKS/EKS)** to deploy application microservices, significantly improving scalability and resource utilization.\nPlayed a key role in the architecture and configuration management of cloud-based solutions while integrating **Linux** environment setups for smooth operational processes.\nOrchestrated automated testing frameworks using **Jest**, **Cypress**, and **PyTest** to enforce rigorous testing standards across CI/CD pipelines, leading to a **40%** decrease in post-deployment critical issues.\nEnsured system reliability and performance through proactive monitoring and maintenance of application services, enhancing uptime by **25%**.\nDesigned and maintained environments for deploying SaaS solutions, focusing on automation and orchestration best practices to optimize resource allocation.\nDeveloped strategies for the integration of service containers and orchestration tools to improve deployment frequency and reduce change failure rates.\nCollaborated on cross-functional teams to foster a DevOps culture that encourages continuous improvement, shared responsibilities, and faster feedback loops across development cycles."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **CI/CD** practices to automate deployment processes for microservices-based financial platforms, enhancing overall deployment frequency by **30%** and reducing lead time for changes by **40%**.\nImplemented **configuration management** tools to manage infrastructure as code, ensuring consistent deployments across environments and minimizing configuration drift.\nDeveloped automated workflows using **DevOps tools** like Jenkins and GitHub Actions, facilitating continuous integration and delivery pipelines that achieved a **25%** decrease in build failures.\nManaged **Linux** and **Windows** servers for hosting financial applications, ensuring high availability and security in line with industry standards.\nLeveraged **service containers** such as Docker to create isolated environments for application dependencies, improving development speed and reliability while simplifying scaling operations.\nStreamlined the integration and deployment of enterprise web applications and **SaaS** solutions, leading the team to successfully deliver **4 major releases** while meeting tight deadlines.\nSpearheaded automation initiatives in the deployment of ETL pipelines and analytics dashboards, reducing manual efforts by **50%**, and driving operational efficiency for data ingestion and reporting workflows.\nConducted training sessions on scripting tools to empower team members in automating routine tasks, enhancing team productivity and collaboration."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Implemented **CI/CD** pipelines to automate deployment processes, enhancing delivery efficiency by **40%** for enterprise web applications.\n- Developed configuration management strategies using **Ansible** and **Terraform**, ensuring seamless infrastructure provisioning across **Linux** and **Windows** environments, improving system reliability.\n- Streamlined automation processes through scripting tools like **Bash** and **Python**, resulting in a **30%** reduction in manual intervention on routine tasks.\n- Managed service containers with **Docker** and orchestrated deployments using **Kubernetes**, achieving a scalable and efficient cloud infrastructure for SaaS solutions.\n- Designed and deployed monitoring solutions utilizing **Prometheus** and **Grafana**, providing critical insights into system performance and uptime, which improved incident response times by **25%**.\n- Collaborated with development teams to enhance integration testing and quality assurance in the software lifecycle, resulting in a bug reduction rate of **15%** pre-release.\n- Led the implementation of enterprise-grade applications, ensuring adherence to best practices in security, scalability, and performance.\n- Enhanced configuration management and deployment strategies through **Git** for version control and collaboration among teams, promoting consistency and traceability in system changes."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, JavaScript, TypeScript\n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:** \n\tReact, Vue, Angular\n\n **API Technologies:** \n\tJWT, OAuth2\n\n **Serverless and Cloud Functions:** \n\tAWS (Lambda), Azure\n\n **Databases:** \n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:** \n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), configuration management, service containers\n\n **Other:** \n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot, Linux, Windows, scripting tools, automation, CI/CD, enterprise web applications, SaaS",
+  "apply_company": "Hyland"
+}

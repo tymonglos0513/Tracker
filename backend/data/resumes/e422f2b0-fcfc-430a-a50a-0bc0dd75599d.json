@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Development Engineer III",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a results-driven Software Development Engineer III with 8 years of experience, I excel in TypeScript and have a strong command of **WebGL**, **WebGPU**, **Web Workers**, and **WebAssembly**, focusing on performance optimization and graphics programming. My technical expertise includes algorithms, **OpenGL**, and building efficient applications that leverage Mobile SDKs and location technologies for seamless maps and GIS integration. \nMy full-stack development background encompasses **JavaScript**, **Python**, and **Flutter**, along with robust proficiency in **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. I have led the creation of enterprise-grade platforms, integrating AI/ML capabilities for predictive analytics, intelligent automation, and real-time data processing. \nAdditionally, my deep cloud experience includes working with **Azure** and **AWS**, reinforced by a strong foundation in microservices architecture, event-driven systems, and CI/CD automation. I prioritize developing secure applications that meet compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2. My hands-on experience also extends to developing machine learning pipelines and implementing MLOps workflows using tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Development Engineer III",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed advanced web applications leveraging **TypeScript**, enhancing performance through optimization algorithms and efficient graphics programming techniques.\nUtilized **WebGL**, **WebGPU**, and **OpenGL** to create visually stunning graphics applications that support high-performance rendering.\nImplemented parallel processing utilizing **Web Workers** to enhance application responsiveness and performance across various devices.\nEmployed **WebAssembly** to boost the efficiency of resource-intensive components, significantly improving load and execution times by **45%**.\nOptimized application performance by performing rigorous benchmarking and profiling, reducing load times by **30%**.\nCollaborated with multidisciplinary teams to architect solutions that integrate location technologies and maps, enhancing user experience through improved GIS functionalities.\nLed the design and development of a robust mobile SDK using **C++**, ensuring compatibility with a broad range of mobile and web platforms.\nContributed to continuous improvement efforts by conducting code reviews and implementing best practices in software development processes to maintain code quality.\nCreated and maintained documentation for both internal and external developers to streamline onboarding processes and encourage collaborative development efforts.\nMentored junior developers, fostering a culture of knowledge sharing and technical growth within the team."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Demonstrated expertise in performance optimization and algorithms while leading the development of innovative financial platforms using **TypeScript** and modern web technologies.\nUtilized **WebGL** and **WebAssembly** for high-performance graphics programming to enhance user interfaces in financial dashboards and admin portals.\nLeveraged **Web Workers** for background processing, improving application responsiveness during high-volume transactions within the platform.\nImplemented efficient data structures and algorithms to streamline ETL processes that handle **100,000+** transactions per minute.\nDeveloped scalable and maintainable microservices using **Node.js (NestJS/Express)** and Python (**FastAPI/Django**), notably improving application throughput by **30%**.\nPioneered the integration of real-time analytics dashboards using **D3.js** and **Power BI Embedded**, enabling operational teams to generate insights from financial activities effectively.\nEmployed **Azure Service Bus**, **Kafka**, and **RabbitMQ** to foster a robust event-driven architecture, essential for real-time processing of alerts and compliance workflows.\nDesigned and implemented fraud detection systems utilizing advanced AI/ML techniques with **scikit-learn** and **XGBoost**, successfully reducing false-positive alerts by **25%**.\nOrchestrated ML pipelines for credit scoring and transaction classification using **MLflow** and **Apache Airflow**, improving decision-making processes with real-time data integration."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed high-performance algorithms for graphics programming using **C++**, ensuring optimized rendering processes and efficient resource management in 3D environments.\n• Leveraged **WebGL** and **OpenGL** to create visually compelling graphics applications, enhancing user engagement through state-of-the-art visualization technologies.\n• Implemented **WebAssembly** to improve application performance, achieving up to **50%** speed enhancement compared to traditional JavaScript execution.\n• Utilized **TypeScript** for robust code quality and maintainability in large-scale applications, allowing for better collaboration within teams of more than **9** developers.\n• Designed and optimized mobile SDKs that integrate location technologies, maps, and GIS elements, facilitating real-time data visualization and geospatial analyses.\n• Conducted performance optimization across multiple platforms, leading to a **30%** reduction in load times and a smoother user experience for mobile and web applications.\n• Applied **Web Workers** to enable background processing for heavy computational tasks, improving user interface responsiveness during intensive calculations.\n• Engaged in the development of real-time applications utilizing advanced event-driven architecture, ensuring instant feedback and interactions for users.\n• Collaborated with cross-functional teams to implement best practices in software development, improving project delivery timelines by **15%** through agile methodologies."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, TypeScript, JavaScript, C++ \n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django \n\n **Frontend Frameworks:** \n\tReact, Vue, Angular, WebGL, WebGPU, WebAssembly, Web Workers \n\n **API Technologies:** \n\tJWT, OAuth2 \n\n **Serverless and Cloud Functions:** \n\tAWS (ECS, Lambda), Azure (App Services) \n\n **Databases:** \n\tPostgreSQL, MySQL, MongoDB, Redis \n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD \n\n **Cloud & Infrastructure:** \n\tAWS (RDS, S3), Azure (Blob, SQL), Terraform, Ansible, Helm, Docker Compose \n\n **Other:** \n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot, algorithms, performance optimization, graphics programming, Mobile SDKs, location technologies, maps, GIS"
+}

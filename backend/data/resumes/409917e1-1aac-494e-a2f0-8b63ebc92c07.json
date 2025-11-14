@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior AI Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior AI Engineer with 8 years of experience, I bring extensive expertise in **Python**, **FastAPI**, and **Django**, as well as hands-on capabilities in **Flask** and building robust **Data Pipelines**. I am well-versed in **ETL**, **ELT**, and have significant experience in integrating **OCR** and **PDFParsing** solutions. My technical toolkit includes databases like **PostgreSQL**, **MySQL**, and **NoSQL**, along with advanced technologies such as **Pinecone**, **Weaviate**, and **Milvus** for managing and querying vector data.\n\nI have a strong foundation in deploying scalable applications using **Docker** and **Kubernetes**, implementing continuous integration and delivery through **GitHub** and **Jenkins**. My passion for data-driven solutions is reflected in my utilization of orchestration tools like **Airflow**, **Prefect**, and **Dagster** to streamline workflows. Complementing my technical skills, I possess robust experience in AI model deployment and management, driven by a commitment to leveraging cutting-edge methodologies to enhance operational efficiency. Throughout my career, I have effectively delivered enterprise-grade solutions while ensuring compliance with industry standards.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained data pipelines leveraging **Airflow** for scheduling and workflow orchestration, facilitating efficient ETL and ELT processes for large-scale data sets.\nDesigned and implemented scalable backend solutions using **Python** with frameworks such as **FastAPI** and **Django** to support high-load AI applications.\nCreated microservices architecture utilizing **Docker** and **Kubernetes**, ensuring robust, scalable deployments suitable for machine learning workloads.\nEngineered data storage solutions with **PostgreSQL**, **MySQL**, and NoSQL databases for optimizing data ingestion and retrieval, serving applications with a user base exceeding **10,000**.\nConducted extensive PDF parsing and OCR implementations, enhancing data extraction accuracy by **95%** for various document formats in both healthcare and financial sectors.\nLed initiatives in deploying enterprise-grade DevOps pipelines using **GitHub** and **Jenkins**, achieving seamless integration and delivery cycles across product releases with an increase in deployment frequency of **30%**.\nCollaborated within an Agile team utilizing Prometheus and Grafana for real-time monitoring and visualization of system performance, reducing outage times by **20%**.\nEmployed cutting-edge techniques using LLM and RAG methodologies to enhance AI models for predictive analysis and document classification, achieving accuracy improvements of **15%** over previous versions.\nEstablished rigorous testing strategies utilizing frameworks like **PyTest** to ensure software reliability through comprehensive unit, integration, and E2E tests, supporting a codebase with a test coverage of **90%**.\nIntegrated advanced search capabilities using ElasticSearch, providing efficient access to vast datasets across unstructured documents, improving query response times by **40%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** (3.x) and frameworks such as **FastAPI** and **Django** to develop and modernize robust financial platforms, improving scalability and performance for high transaction environments, with an increase in throughput by **20%**.\nDesigned and implemented efficient **ETL** processes to facilitate smooth data ingestion and transformation using **Apache Airflow** and **Azure Data Factory** with a focus on high-volume financial data.\nEngineered dynamic data pipelines that utilized **Docker** and **Kubernetes** for container orchestration, enhancing deployment efficiency and resource management across environments.\nDeployed advanced **AI/ML** models for fraud detection by leveraging libraries such as **scikit-learn** and **XGBoost**, resulting in a **30%** reduction in false positives in transaction monitoring systems.\nIntegrated data storage solutions using **PostgreSQL**, **MySQL**, and **NoSQL** databases, optimizing data retrieval and scalability, achieving a **15%** improvement in query performance.\nImplemented monitoring solutions using **Prometheus** and **Grafana** to ensure system health and performance metrics are tracked effectively, facilitating proactive maintenance and immediate issue resolution.\nCollaborated with cross-functional teams to design and deploy **OCR** and **PDF Parsing** solutions for seamless document processing, elevating operational efficiency in financial workflows.\nManaged source control and CI/CD pipelines using **GitHub** and **Jenkins**, ensuring code integrity and streamlined deployment processes for machine learning models."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** frameworks, such as **FastAPI** and **Django**, to design and optimize backend services for a global e-commerce platform, ensuring high availability and scalability.\nArchitected and implemented **ETL** processes for data pipelines, enhancing data accessibility and processing efficiency by **30%**.\nEmployed containerization with **Docker** and orchestrated deployments through **Kubernetes**, improving application deployment speed by **25%**.\nDeveloped robust **NoSQL** solutions using **MongoDB** and enhanced data retrieval efficiency with **PostgreSQL**, ensuring reliable database performance for high-traffic workflows.\nConstructed and maintained real-time data pipelines using **Airflow** and **Prefect**, enabling dynamic data processing and analytical workflows that reduced data latency by up to **40%**.\nImplemented secure and compliant data handling processes, including role-based access control (RBAC) and **OAuth 2.0**, ensuring adherence to GDPR regulations.\nIntegrated third-party tools for OCR and PDF Parsing to automate data entry and streamline workflows, increasing processing accuracy by **20%**.\nMonitored system performance with **Prometheus** and visualized metrics using **Grafana**, facilitating proactive responses to system health issues.\nCollaborated with cross-functional teams to develop, test, and deploy machine learning models, leveraging **LLM** techniques and **RAG** frameworks to improve predictive analytics for user behavior patterns.\nUtilized version control with **GitHub** and automated CI/CD pipelines through **Jenkins**, ensuring consistent delivery and collaboration efficiency."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, NoSQL, Pinecone, Weaviate, Milvus\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose, Prometheus, Grafana\n\n**Cloud & Infrastructure:**\n\t\n\n**Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow, Data Pipelines, ETL, ELT, OCR, PDF Parsing, LLM, RAG, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "GISPartner sp. z o.o."
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Python Backend Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Senior Python Backend Engineer with 10+ years of experience specializing in building high-performance, cloud-native applications using **Python**, **FastAPI**, and a robust tech stack that includes **Docker**, **Kubernetes**, **Azure**, and **GCP**. Proficient in implementing CI/CD pipelines, leveraging **Terraform** for infrastructure as code, and optimizing data workflows with **Airflow** and **PySpark**. Experienced in backend database management with **PostgreSQL** and **MongoDB**, ensuring data integrity and performance.\n\nDemonstrated expertise in Agile methodologies, emphasizing collaboration and continuous improvement in software development. Exceptionally skilled in designing and building microservices architecture, event-driven systems, and integrating security and compliance standards. Strong background in version control using **GitLab** and deploying effective solutions that lead to intelligent decision-making and automation. Passionate about leveraging technology to deliver impactful results while adhering to best practices in software engineering.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Backend Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tUtilized **Python** and **FastAPI** to design and implement scalable backend solutions within Agile environments, ensuring efficient data processing and application performance.\n•\tDeveloped CI/CD pipelines with **GitLab** and integrated **Docker** and **Kubernetes** for container orchestration, achieving a 50% faster deployment time across diverse projects.\n•\tBuilt cloud-based solutions using **GCP** and **Azure**, employing **Terraform** for infrastructure as code, which improved environment provisioning speed by **30%**.\n•\tDesigned and optimized robust data architectures with **PostgreSQL** and **MongoDB**, enhancing data retrieval times and enabling seamless scaling for large datasets.\n•\tImplemented workflows using **Apache Airflow** for scheduling and managing data pipeline tasks, resulting in a 40% decrease in processing delays.\n•\tIncorporated **Elasticsearch** for advanced search functionalities across various applications, significantly improving query response times to under **100 milliseconds**.\n•\tLed application development following Agile methodologies, fostering cross-functional team collaboration to enhance project outcomes and client satisfaction.\n•\tEnhanced backend operations with automation tools, focusing on improving overall system reliability and reducing manual interventions. \n•\tWorked collaboratively with frontend teams to ensure seamless integration of APIs while maintaining high standards of code quality and efficiency."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained scalable backend solutions using **Python** and **FastAPI**, ensuring high performance for high-volume transaction systems.\n• Utilized **Azure** and **GCP** to deploy applications, enhancing reliability and availability in a cloud environment.\n• Implemented containerization with **Docker** and orchestration using **Kubernetes** to streamline CI/CD processes, achieving deployment efficiency improvements of up to **50%**.\n• Designed and optimized data models in **PostgreSQL** and **MongoDB** to support robust data storage and retrieval mechanisms, increasing query performance by **30%**.\n• Integrated **Airflow** for automated ETL processes, allowing seamless data ingestion from multiple sources, resulting in a **40%** reduction in data processing time.\n• Developed and maintained data pipelines using **PySpark**, ensuring timely and efficient data analytics for decision-making.\n• Leveraged **Terraform** for infrastructure as code, facilitating consistent deployment environments and reducing setup time by **60%**.\n• Collaborated in an **Agile** environment to define project requirements and adapt to changing priorities, improving team throughput by **20%**.\n• Version-controlled code using **GitLab**, ensuring efficient team collaboration and code management."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **FastAPI** to design and optimize backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability for over **9 million** users across key modules like checkout, cart, and order fulfillment.\nImplemented **CI/CD** pipelines and deployed applications on **GCP** and **Azure**, leveraging **Docker** and **Kubernetes** for container orchestration, to facilitate seamless delivery and manage infrastructure as code using **Terraform**.\nDeveloped data storage solutions using **PostgreSQL** and **MongoDB**, ensuring distributed data access for high-traffic workflows and achieving a **30%** increase in read performance through optimized caching strategies.\nEngineered data processing workflows with **Airflow** and **PySpark**, improving data ingestion times by **50%** and enabling timely analytics for real-time decision-making.\nApplied Agile methodologies to enhance project delivery timelines, ensuring project milestones were met with a reduction in deployment issues by **20%**.\nImplemented monitoring and alerting using **Elasticsearch**, providing real-time insights and maintaining system reliability, improving uptime by **99.9%**.\nCollaborated with cross-functional teams to integrate application logging and debugging capabilities using **GitLab**, facilitating improved code reviews and repository management.\nLeveraged secure coding practices to ensure compliance with security standards, applying role-based access control (RBAC) and OAuth 2.0 for user authentication and data protection across the platform."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n**Databases:**\n\tPostgreSQL, MongoDB\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, GitLab\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, PySpark, Elasticsearch, Agile, Redis"
+}

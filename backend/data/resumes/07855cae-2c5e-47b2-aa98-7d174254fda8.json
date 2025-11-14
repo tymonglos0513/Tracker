@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Fullstack Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a highly skilled Senior Fullstack Engineer with 8 years of experience, I excel in leveraging **Node.js**, **React**, and **TypeScript** to develop high-performance solutions, particularly in the healthcare and financial sectors. My expertise includes building scalable applications with frameworks such as **Express.js** and utilizing databases like **PostgreSQL** and **MySQL**. I am well-versed in deploying applications on **Azure** and implementing robust authentication mechanisms using **OAuth2** and **JWT**.\n\nI possess a strong foundation in **DevOps** methodologies, emphasizing **CI/CD** practices to ensure seamless integration and delivery of applications. Additionally, I proficiently manage source control with **Git** and utilize containerization technologies like **Docker** to streamline development workflows on **Linux** environments.\n\nMy background in full-stack development is reinforced by a solid understanding of automated testing frameworks such as **Jest**, microservices architecture, event-driven systems, and the implementation of enterprise-grade platforms that emphasize compliance with standards like HIPAA and PCI DSS. Furthermore, I have hands-on experience in creating and serving machine learning models in production while adeptly utilizing MLOps workflows.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Fullstack Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed robust and scalable applications using **Node.js**, **React**, and **TypeScript**, ensuring optimal performance and user experience.\n• Implemented RESTful APIs with **Express.js** to facilitate seamless communication between front-end and back-end components, effectively handling over **1,000** requests per second.\n• Designed and maintained high-performance databases using **PostgreSQL** and **MySQL**, optimizing queries to accommodate data sets exceeding **10 million** records.\n• Integrated **OAuth2** and **JWT** for secure authentication and authorization across platforms, maintaining user data integrity and security.\n• Spearheaded the implementation of **DevOps** practices, leveraging **Docker** and CI/CD tools for streamlined development cycles and deployments, reducing deployment time by **30%**.\n• Developed automated testing strategies using **Jest**, covering over **95%** of the codebase to enhance code quality and reliability.\n• Leveraged **Git** for version control, facilitating collaboration among **10+** team members, and ensuring code consistency across multiple environments.\n• Deployed applications in **Linux** environments, ensuring efficient resource management and scalability, tailored for high-traffic scenarios.\n• Established workflows to monitor application performance, using **Azure** services for cloud hosting and management, enhancing uptime to **99.9%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained scalable applications using **Node.js** and **Express.js**, improving response times by **30%** for high-volume transaction systems.\n• Created dynamic user interfaces with **React (18)** and **TypeScript**, incorporating **Redux Toolkit** and **Tailwind CSS** to enhance user experience, resulting in a **25%** increase in user engagement.\n• Integrated user authentication using **OAuth2** and **JWT** to secure access across financial platforms, ensuring compliance with industry standards and reducing unauthorized access incidents by **15%**.\n• Collaborated on cloud-based solutions using **Azure**, leveraging its services to optimize data storage and processing, leading to a **40%** improvement in data retrieval speeds.\n• Designed and implemented databases using **PostgreSQL** and **MySQL**, optimizing queries that decreased data access latency by **20%**.\n• Utilized **Docker** for containerization and streamlined deployment processes, enhancing the CI/CD pipeline and reducing deployment times by **50%**.\n• Employed **Git** for version control, ensuring efficient collaboration and code management among a development team of **15** engineers.\n• Led DevOps initiatives focusing on **Linux** environments, establishing reliable systems for continuous integration and delivery.\n• Conducted unit tests with **Jest**, achieving a **95%** code coverage to ensure code quality and reliability in production environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Developed and optimized backend services utilizing **Node.js (Express)**, ensuring high performance and scalability for a global e-commerce platform, achieving **99.9%** uptime on critical modules like checkout and order fulfillment.\n- Constructed responsive user interfaces with **React (18)** and **TypeScript**, delivering fast, engaging experiences across both web and mobile devices, contributing to a **20%** increase in user engagement.\n- Integrated **PostgreSQL** and **MySQL** databases for robust data storage solutions, maintaining data integrity and reducing query time by **30%** through efficient indexing and normalization techniques.\n- Implemented OAuth2 and JWT for secure user authentication and role-based access control (RBAC), safeguarding user data and achieving full compliance with GDPR regulations.\n- Leveraged **Docker** for containerization, facilitating consistent application development and deployment while streamlining CI/CD pipelines, enhancing deployment frequency by **40%**.\n- Designed and maintained CI/CD workflows with tools like **Git**, improving code integration and deployment efficiency, ensuring high-quality releases.\n- Collaborated in an Agile environment, utilizing **Jest** for robust unit testing, leading to a **25%** reduction in post-deployment bugs and enhancing overall application reliability.\n- Adopted **Azure** cloud services for scalable infrastructure solutions, optimizing resource allocation and managing service availability for high-demand traffic periods.\n- Engaged in DevOps practices, promoting a culture of collaboration between development and operations teams, resulting in a **15%** improvement in project delivery timelines."
+    }
+  ],
+  "skills": "Programming Languages:\n\tNode.js, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tExpress.js, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Git, Linux\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Jest, Nginx, Certbot, Keycloak (OIDC, RBAC)",
+  "apply_company": "inhire.io"
+}

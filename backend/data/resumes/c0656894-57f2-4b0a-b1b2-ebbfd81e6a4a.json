@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior ML Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior ML Engineer with 8 years of full-stack development experience, I excel in leveraging **Python**, **scikit-learn**, **PyTorch**, and **TensorFlow** to build and optimize machine learning models. My technical skills also include cloud services such as **Azure** and infrastructure management using **Terraform**. I have a proven track record of developing and deploying APIs, managing **NoSQL** databases, and implementing **CI/CD** processes with **Docker**, which is crucial for delivering scalable ML solutions.\n\nI have a strong background in integrating predictive analytics and intelligent automation within enterprise applications, especially in sectors like healthcare and finance. My expertise in machine learning encompasses developing and operationalizing pipelines as well as tackling challenges in areas like **NLP**, **image processing**, and handling large language models (**LLMs**). Excellent communication and collaboration skills further enable me to work effectively within cross-functional teams while demonstrating adaptability and strong problem-solving abilities.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **scikit-learn** to design and deploy machine learning models for diverse use cases, achieving a predictive accuracy improvement of **15%** in patient risk detection and **20%** in financial fraud detection.\nDeveloped cloud-native data architecture with **PostgreSQL** and **NoSQL** databases, ensuring high availability and optimized performance for large-scale healthcare and financial data ingestion, processing over **5 million** records efficiently.\nImplemented CI/CD pipelines using **Docker** and automated testing frameworks, streamlining the deployment process and reducing release times by **30%**.\nCollaborated closely with data scientists on **NLP** initiatives, enhancing document parsing capabilities for both healthcare and financial data, resulting in a document classification accuracy increase of **10%**.\nIntegrated advanced **APIs** and **Azure** services into client-facing applications, enabling real-time data retrieval and processing for user interactions.\nDesigned and maintained MLOps pipelines leveraging tools such as **MLflow** and **Apache Airflow**, achieving continuous training of models with automatic version control and validation processes.\nConducted extensive problem-solving sessions with cross-functional teams, driving adaptability in strategies and ensuring timely project delivery amidst evolving requirements.\nEngaged in effective communication and collaboration with stakeholders to refine project objectives and meet essential deadlines for deliverables.\nDeveloped baseline models using **TensorFlow** and **PyTorch**, with state-of-the-art methodologies for image and data processing, contributing innovative solutions that propelled product features forward.\nEmployed **CI/CD** principles with tools like **Terraform** for infrastructure as code deployments, facilitating smooth transitions across development and production environments."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented and optimized AI/ML solutions using **Python** and **scikit-learn** to enhance fraud detection systems, analyzing transaction patterns to flag suspicious activities across **10K+** transactions daily.\nDeveloped and maintained robust APIs for data interaction and integration with internal systems, focusing on scalability and performance matching **SQL** and **NoSQL** database technologies to support data retrieval queries that handle **1M+** records.\nDesigned machine learning pipelines utilizing **TensorFlow** and **PyTorch** for tasks like credit scoring and churn prediction, which improved predictive accuracy by **25%** and enabled real-time decision-making.\nConfigured and deployed **Azure Machine Learning** models using **Terraform** for infrastructure management, ensuring efficient scaling and resource allocation while reducing deployment time by **30%**.\nCollaborated effectively with cross-functional teams to drive project success through clear communication and problem-solving, adapting strategies to fit project needs while maintaining open lines of collaboration.\nDeveloped CI/CD workflows using **Docker** for containerization and deployment, streamlining development processes to improve deployment frequency by **40%** and reduce rollback incidents.\nEngaged in continuous learning and adaptation to emerging technologies in **NLP** and **image processing**, enhancing the team’s capabilities to tackle complex machine learning challenges."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **SQL** to design and optimize machine learning backend services, ensuring high availability and scalability in processing large datasets for model training and inference.\nEngineered machine learning solutions using **scikit-learn**, **TensorFlow**, and **PyTorch** to develop predictive algorithms that improved model accuracy by **30%** and reduced latency in real-time predictions.\nCollaborated effectively with cross-functional teams to integrate ML models with existing systems through well-defined **APIs**, enhancing the overall efficiency of data pipelines and model deployment.\nImplemented CI/CD pipelines using **Docker** and **Terraform**, achieving a deployment frequency of over **15 times per month**, which streamlined the process of releasing new features and updates.\nManaged data storage solutions using **NoSQL** databases like MongoDB and real-time analytics frameworks to handle unstructured data efficiently, achieving a **25%** improvement in data retrieval times.\nApplied advanced **NLP** techniques and **image processing** methods to develop feature-rich applications that personalized user experiences based on behavior and interactions, leading to improved customer satisfaction scores.\nConducted rigorous testing and validation of models using Azure services, ensuring compliance with GDPR and data protection regulations across all user interactions.\nFostered a culture of adaptability and problem-solving within the team to identify and resolve issues in the development lifecycle, ultimately reducing operational overhead by **15%**.\nFacilitated workshops to enhance communication and collaboration among team members, contributing to a **20%** increase in project delivery speed and effectiveness."
+    }
+  ],
+  "skills": "Programming Languages:\n\tPython, SQL\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tAPIs\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), NoSQL, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, CI/CD\n\n**Cloud & Infrastructure:**\n\tAnsible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, scikit-learn, PyTorch, TensorFlow, LLMs, NLP, image processing, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, communication, collaboration, problem-solving, adaptability",
+  "apply_company": "Qualis Flow (Qflow)"
+}

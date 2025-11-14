@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior DevOps Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with over 10 years of experience in backend development, specializing in **AWS**, **Kubernetes**, **Docker**, and **Terraform**. Proficient in implementing **CI/CD** pipelines and utilizing monitoring tools such as **DataDog**, **Prometheus**, and **Grafana** to enhance system performance. Strong background in programming with **Python** and **Bash**, and skilled in configuration management using **Ansible**. Experienced in database management with **PostgreSQL** and handling real-time data processing with **Kafka**. Proven ability to deliver high-quality, scalable infrastructure and solutions at industry-leading companies, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS** and **Kubernetes** for orchestrating containerized applications, ensuring high availability and scalability across **9** microservices.  \nImplemented CI/CD pipelines with **Docker** and **Terraform** for seamless deployment processes, resulting in a **30%** reduction in release times.  \nMonitored system performance using **DataDog**, **Prometheus**, and **Grafana**, achieving a **25%** improvement in uptime metrics.  \nCreated and managed configuration processes with **Ansible** and stored code in **Git** to enhance version control and collaboration efficiency.  \nDeveloped backend services in **Python** and orchestrated services with **FastAPI** for automation and reporting workflows.  \nManaged asynchronous processing for financial transactions using **Kafka** and **Celery**, improving processing speed by **15%**.  \nLed integration of security protocols leveraging OAuth2 and both **Azure AD B2C** and **PostgreSQL** to ensure robust authentication systems.  \nCollaborated with cross-functional teams to overcome integration challenges and ensure compliance throughout release strategies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Docker** and **Kubernetes** to containerize applications, ensuring seamless deployment and scalability across environments.\nImplemented CI/CD pipelines using **Terraform**, enhancing automation in deployment practices and reducing release time by **30%**.\nMonitored system performance and reliability using **DataDog**, **Grafana**, and **Prometheus**, ensuring uptime and quick incident response.\nEngineered collaborative workflows using **Git** for version control, facilitating effective code reviews and team communication.\nDeveloped infrastructure as code (IaC) solutions with **Terraform** to automate and manage cloud resources in **AWS**, resulting in a **40%** improvement in infrastructure provisioning time.\nContributed to the creation and maintenance of robust data integrations and pipelines using **Apache Kafka** and **PostgreSQL** for reliable data handling and storage.\nLed security enhancements across the deployment process, including vulnerability assessments and best practice implementations ensuring compliance with industry standards."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Leveraged **AWS** and **Kubernetes** to deploy and manage scalable backend services for trade execution, portfolio management, and account tracking, improving trading operations by **20%**.\n• Developed CI/CD pipelines utilizing **Docker** and **Terraform** to automate the deployment of applications, reducing deployment time by **30%**.\n• Designed and implemented monitoring solutions using **DataDog**, **Grafana**, and **Prometheus** to ensure system reliability and performance metrics were consistently met with an uptime of **99.9%**.\n• Greater operational efficiency achieved by introducing job queuing and scheduling solutions with **Celery** and **RabbitMQ**, improving backend task execution time by **25%**.\n• Collaborated with product teams for API development using **Python** and **Flask**, ensuring smooth data interaction through **REST** APIs and real-time trading data delivery.\n• Managed the configuration and orchestration of the application infrastructure with **Ansible** and **Bash**, enhancing system setup and deployment processes.\n• Conducted thorough testing with **PyTest**, **tox**, and mock servers, streamlining QA and CI processes.\n• Ensured compliance with regulatory standards such as **MiFID II** and **GDPR**, while implementing internal data security protocols to safeguard user data."
+    }
+  ],
+  "skills": "Programming Languages:\n\t**Python (3.8+), Bash**\n\nBackend Frameworks:\n\t**FastAPI, Flask, Django, Celery**\n\nFrontend Frameworks:\n\t**JavaScript**\n\nAPI Technologies:\n\t**REST/gRPC APIs, Microservices, Kafka**\n\nServerless and Cloud Functions:\n\t**AWS (EC2, S3, Lambda)**\n\nDatabases:\n\t**PostgreSQL, MySQL, MongoDB, Redis**\n\nDevOps:\n\t**Docker, Kubernetes, CI/CD, GitHub Actions, Azure DevOps, Ansible**\n\nCloud & Infrastructure:\n\t**Azure, Terraform, DataDog, Loki, Grafana, Prometheus**\n\nOther:\n\t**Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, PyTest, Git**",
+  "apply_company": "Product Pulse"
+}

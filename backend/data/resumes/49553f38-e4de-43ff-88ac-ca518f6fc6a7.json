@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Data Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Data Engineer with over 10 years of experience in developing and optimizing ETL processes and high-performance backend systems for financial platforms leveraging **Python**, **Scala**, **Spark**, and **SQL**. Skilled in cloud services like **AWS** and **Azure**, and experienced in **Databricks** and **Snowflake** for effective data management. Proficient in CI/CD practices and Infrastructure as Code to automate and scale data workflows, while adhering to AGILE methodologies. Demonstrated success delivering impactful projects in collaboration with leading organizations such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Scala** for data processing and ETL workflows, enhancing data integrity and reliability across various applications.\nEngineered backend services with **FastAPI** to optimize document automation and reporting workflows, improving efficiency by **30%**.\nImplemented **Azure** cloud solutions, leveraging **Azure Functions** for event-driven data processing and **Terraform** for Infrastructure as Code, facilitating scalable deployment practices.\nDeveloped data pipelines with **Apache Airflow** for regulatory data exchange, ensuring a **95%** on-time delivery rate for reporting deadlines.\nExecuted CI/CD practices to automate deployments, reducing the time to production by over **40%** and increasing overall team productivity.\nManaged **Snowflake** and **Databricks** for streamlined data storage and analytics, significantly enhancing data querying times by **50%**.\nLed efforts to integrate Secure OAuth2 and **Azure AD B2C** for robust authentication, ensuring compliance with data security standards.\nCollaborated within cross-functional AGILE teams to overcome system integration challenges, ensuring project alignment with strategic goals."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop robust backend systems that automate document workflows and streamline user onboarding, achieving a **25% improvement** in processing time.\nImplemented event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests, which improved data handling efficiency by **40%**.\nManaged the deployment of microservices on **Azure App Services**, leveraging **Terraform** to automate infrastructure as code, ensuring consistent and scalable environments, with **99.9% uptime**.\nEngineered secure data pipelines for regulatory data exchange using **Apache Airflow** and **Azure Functions**, automating and streamlining data flow, resulting in a **30% reduction** in manual data handling.\nConducted comprehensive security audits to ensure compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for authentication, enhancing access control security measures.\nCollaborated with cross-functional teams applying **AGILE** methodologies to ensure smooth system integration, regulatory compliance, and successful release management, contributing to the on-time delivery of **5 major releases** per quarter."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed backend services for trade execution, portfolio management, and account tracking using **Python** and **SQL**, improving trading operations and data management.\n• Engineered real-time price feed processors with **asyncio**, **WebSockets**, and **Redis** to deliver up-to-the-minute trading data for **high-frequency transactions**, ensuring timely data delivery with **less than 200ms latency**.\n• Collaborated closely with frontend teams to integrate data through **REST APIs** and **WebSocket channels**, achieving seamless user interaction and reducing data fetch times by **30%**.\n• Ensured the platform complied with regulatory requirements, including **MiFID II** and **GDPR**, while strictly adhering to internal data security protocols to maintain a **99.9% compliance rate**.\n• Implemented comprehensive test suites using **PyTest**, **tox**, and mock servers, enhancing QA and CI processes, which accelerated development cycles by **20%**.\n• Introduced job queuing and scheduling solutions leveraging **Celery** and **RabbitMQ**, optimizing backend task execution and improving process management efficiency by **40%**."
+    }
+  ],
+  "skills": "  **Programming Languages**\n\tPython, Scala, SQL\n\n  **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n  **API Technologies**\n\tREST/gRPC APIs\n\n  **Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n  **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, NoSQL, Snowflake\n\n  **DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n  **Cloud & Infrastructure**\n\tInfrastructure as Code, Databricks\n\n  **Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Microservices, Kafka, AGILE, PyTest, Git",
+  "apply_company": "Plain Concepts"
+}

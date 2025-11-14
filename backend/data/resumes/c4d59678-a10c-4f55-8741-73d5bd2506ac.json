@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior SREngineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "Experienced Senior SREngineer with 8 years in incident management, monitoring systems, and DevOps practices, specializing in cloud services like **AWS**, **Azure**, and **GCP**. Proficient in containerization and orchestration technologies including **Docker** and **Kubernetes**, I effectively deploy and manage scalable applications. My programming expertise extends across **Java**, **Spring Boot**, and scripting languages, ensuring robust automated solutions and CI/CD pipelines using **GitHub**, **GitLab**, **Azure DevOps**, and **Jenkins**.\n\nI leverage monitoring tools such as **Datadog**, **New Relic**, **Dynatrace**, **Prometheus**, and **Grafana** to optimize system performance and ensure high availability. My leadership and mentoring skills foster effective team collaboration, driving continuous improvement in service reliability and responsiveness. My technical acumen is complemented by hands-on experience in full-stack development with **React**, **Node.js**, and **Python**, as well as implementing MLOps workflows with **MLflow**, **Airflow**, and **Kubeflow**. With a foundational understanding of compliance standards, I build secure, enterprise-grade platforms that meet critical industry regulations.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SREngineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and implemented incident management strategies across **AWS**, **Azure**, and **GCP** environments to ensure high uptime and performance.\n- Monitored systems performance using **Datadog**, **New Relic**, and **Prometheus**, establishing alerts and dashboards to proactively address issues in real-time.\n- Led DevOps initiatives leveraging **Docker**, **Kubernetes**, and **GitHub Actions** to enhance CI/CD processes for seamless deployments and version control.\n- Collaborated with cross-functional teams to ensure effective communication and leadership, mentoring junior engineers in best practices for **DevOps** and **SRE** methodologies.\n- Optimized infrastructure with cloud services including **AWS Lambda**, **Azure Functions**, and scalable deployment configurations for microservices.\n- Automated system monitoring and alerting using **Grafana** and **Dynatrace**, providing actionable insights and improving incident response times by **30%**.\n- Enhanced system reliability by implementing comprehensive disaster recovery strategies and regular backup schedules, ensuring **99.9%** availability across critical services.\n- Conducted system performance tuning and capacity planning, resulting in a **40%** improvement in resource utilization.\n- Integrated advanced logging and error tracking mechanisms using tools like **Sentry** and **Firebase Crashlytics**, increasing issue resolution speed by **25%**.\n- Designed and maintained cloud infrastructures using **Terraform** for automated provisioning and configuration management, streamlining deployments across development environments.\n- Fostered a culture of collaboration between development, operations, and quality assurance teams to support shared goals and agile methodologies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented **cloud services** and **monitoring systems** to enhance overall system reliability and performance of financial platforms, utilizing **Datadog**, **New Relic**, and **Prometheus** for real-time monitoring and anomaly detection.\nDeveloped and maintained **CI/CD pipelines** with **GitHub**, **GitLab**, and **Azure DevOps**, accelerating development workflows and ensuring smooth deployments with a **50% reduction** in deployment failures.\nLeveraged **Kubernetes** and **Docker** for orchestrating containerized applications, ensuring high availability and scalability in line with industry standards, reducing deployment time by over **30%**.\nBuilt robust incident management processes, enabling the team to respond to system outages or degradations effectively, minimizing downtime to an average of **5 minutes** per incident.\nEngineered a microservices-driven architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django) to significantly boost scalability and throughput, successfully handling **1,000+** transactions per second.\nEnhanced front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, applying **Redux Toolkit** and **Tailwind CSS** to improve responsiveness and performance, resulting in a **40% increase** in user satisfaction scores.\nDeveloped ETL pipelines utilizing **Apache Airflow** and **Azure Data Factory** to ensure accurate and timely data ingestion from various sources, achieving a data processing latency of under **2 seconds**.\nCreated and integrated AI/ML-powered systems for fraud detection with **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, proactively identifying suspicious activities and reducing fraud cases by **15%** year-over-year.\nFostered team collaboration and mentorship, enhancing team skills in **scripting**, **DevOps**, and **incident management**, contributing to a culture of continuous improvement and knowledge sharing."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented **incident management** practices to maintain service uptime and continuity for a global e-commerce platform, effectively handling over **1,000** incidents annually.\nMonitored systems using **Prometheus**, **Grafana**, and **Datadog**, analyzing system performance metrics and ensuring response times were under **200ms** for key services.\nProvided **DevOps** solutions by integrating CI/CD pipelines with **Jenkins** and **GitHub**, facilitating code deployment processes that reduced release times by **30%**.\nUtilized **cloud services** on **AWS**, **Azure**, and **GCP** to deploy scalable infrastructure, ensuring high availability and auto-scaling for traffic spikes during peak shopping seasons.\nAutomated configuration management and deployment using **Docker** and **Kubernetes**, achieving consistent development environments and reducing setup time by **40%**.\nEngaged in **programming and scripting** with languages such as Java and Python, creating custom automation scripts to streamline operations and monitoring tasks.\nLed team collaboration efforts, mentoring junior engineers on best practices in **SRE**, ensuring knowledge sharing and skills development in incident response protocols.\nPromoted effective communication across teams to facilitate smooth workflows for eCommerce solutions, ensuring project milestones were met with a **95%** success rate.\nDesigned **microservices architecture** utilized with **Kafka** to enhance system responsiveness and scalability, while maintaining up to **99.9%** service uptime.\nContributed to the decision-making process for **RBAC** implementation and **OAuth 2.0** security measures, safeguarding user data and ensuring compliance with GDPR regulations."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Java, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Springboot\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Azure DevOps, Jenkins, Terraform, Ansible, Helm, Docker Compose, Argos CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS, Azure, GCP\n\n **Other:**\n\tincident management, monitoring systems, SRE, programming, scripting, cloud services, Datadog, New Relic, Dynatrace, Prometheus, Grafana, MLflow, Airflow, Kubeflow, communication, leadership, mentoring, team collaboration",
+  "apply_company": "Valtech"
+}

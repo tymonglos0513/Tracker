@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior ML Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior ML Engineer with a robust focus on **Python**, **Machine Learning**, and **Data Pipelines**. Bringing 13+ years of full-stack development experience, I have honed my skills in **Backend Development** and have implemented advanced distributed systems and data visualization techniques. I am proficient in deploying AI/ML-powered applications that leverage predictive analytics, automation, and real-time processing. \nMy technical expertise encompasses **Golang**, **Rust**, and comprehensive Software Reliability Engineering practices, ensuring optimal performance and reliability in software solutions. I excel in automated testing, code review, and fostering effective communication within teams. Additionally, I have an extensive background in utilizing frameworks such as **React**, **Next.js**, **Node.js**, **FastAPI**, and **Django** for application development, as well as deploying applications on **AWS** and **Azure**. \nMy collaborative experience in compliance-driven development includes aligning solutions with industry standards such as HIPAA, FHIR, PCI DSS, and SOC 2, alongside hands-on proficiency in MLOps with tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior ML Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed distributed systems using **Python (FastAPI)** for backend development, ensuring reliability and scalability across multiple platforms in healthcare and fintech sectors.\n- Implemented machine learning solutions, utilizing frameworks such as **scikit-learn**, **PyTorch**, and **TensorFlow**, for various applications including risk scoring and fraud detection, achieving improved response times of up to **30%**.\n- Constructed robust data pipelines with **PostgreSQL**, **MongoDB**, and **Redis** to support heavy data ingestion and real-time analytics, processing data volumes exceeding **2TB** daily.\n- Delivered data visualization tools with **D3.js** and **Power BI Embedded** for analytics reporting, enhancing stakeholder insights and operational KPIs through visual storytelling.\n- Established automated testing frameworks utilizing **Jest**, **Cypress**, and **PyTest**, achieving a code coverage of over **85%** to ensure software reliability and performance.\n- Conducted code reviews and maintained code quality, fostering best practices in software development and reliability engineering.\n- Collaborated with cross-functional teams to enhance communication strategies for project updates, aligning objectives across technical and non-technical stakeholders.\n- Built and maintained CI/CD pipelines with **GitHub Actions** and **CircleCI**, reducing deployment times by **40%** while ensuring consistent software delivery across environments.\n- Led initiatives in Software Reliability Engineering (SRE), focusing on improving uptime and fault tolerance in production systems, contributing to a **99.9%** service level agreement (SLA).\n- Engaged in continuous learning and adaptation of best practices in distributed systems and machine learning to stay ahead in the rapidly evolving tech landscape."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Leveraged **Python** to develop and deploy machine learning models for fraud detection using libraries such as **scikit-learn** and **XGBoost** (version 1.4), enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\n• Designed robust **distributed systems** through microservices architecture, utilizing **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\n• Developed efficient **data pipelines** with **Apache Airflow** and **Azure Data Factory**, ingesting financial data from internal and third-party sources for both batch (monthly) and real-time processing.\n• Created automated ETL processes that integrate machine learning models into backend services, improving the reliability and functionality of applications.\n• Constructed interactive dashboards for **data visualization** using **React** (18), **D3.js**, and **Power BI Embedded** to provide operations teams with real-time insights into transactions and anomalies, handling up to **10,000** data points per second.\n• Implemented **automated testing** strategies for backend systems ensuring code reliability through consistent **code reviews** and quality assessments.\n• Designed and deployed event-driven architectures with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring smooth asynchronous communication across workflows such as payments, alerts, and compliance, achieving a **99.9%** uptime.\n• Communicated complex technical concepts effectively to cross-functional teams, fostering collaboration and innovation in machine learning and software development initiatives."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** for backend development, implementing robust and scalable solutions for distributed systems, resulting in improved application reliability and performance metrics.\nEngineered data pipelines that leverage **Machine Learning** frameworks to optimize workflows, enhancing data visualization and streamlining data processing by **30%**.\nConducted automated testing with a focus on reliability, ensuring software quality and performance for high-traffic e-commerce platforms, reducing bugs by **40%** through rigorous code reviews.\nCollaborated with cross-functional teams to effectively communicate technical concepts and project statuses, enhancing team productivity and project outcomes through transparent communication.\nDesigned and optimized backend services with a focus on software reliability engineering principles, achieving a **99.9%** uptime for critical systems.\nImplemented proactive monitoring and logging solutions to enhance application performance, ensuring distributed systems robustness across all components.\nDeveloped and integrated machine learning models to drive business metrics, improving personalization features with a notable increase in conversion rates by **25%**.\nReviewed and improved existing codebases with a focus on maintainability and performance, fostering a culture of continuous improvement and knowledge sharing among the engineering teams.\nCollaborated in the design and development of automated testing strategies, significantly reducing the testing cycle time and ensuring system reliability in high-demand scenarios.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Golang, Rust\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMachine Learning, Data Pipelines, Distributed Systems, Software Reliability Engineering, Data Visualization, Automated Testing, Code Review, Communication",
+  "apply_company": "Cosmose, Inc."
+}

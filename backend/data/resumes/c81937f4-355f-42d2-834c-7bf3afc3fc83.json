@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior SREngineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Site Reliability Engineer with 8 years of experience in cloud infrastructure and DevOps, specializing in **AWS**, **Terraform**, and **OpenTelemetry** to ensure high availability and scalability of applications. Proficient in managing and monitoring systems using **CloudWatch** and **DataDog**, and well-versed in utilizing **containers** for efficient deployment and orchestration. \n\nMy background as a Full Stack Developer includes building high-performance solutions using **Python**, with a focus on integrating AI for enhanced operational insights. I possess strong foundations in microservices architecture, event-driven systems, and CI/CD automation. Additionally, I have substantial expertise in developing enterprise-grade platforms within the healthcare and financial sectors, ensuring compliance with standards like HIPAA and PCI DSS. With hands-on experience in MLOps workflows and implementing machine learning solutions, I am adept at enhancing system performance and reliability.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SREngineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Leveraged **AWS** and **Terraform** to design and implement robust infrastructure as code, enhancing reliability and scalability in production environments.\nDeveloped monitoring solutions using **Cloudwatch** and **DataDog**, ensuring system performance and reliability aligned with uptime targets of **99.9%**.\nEmployed **OpenTelemetry** to implement distributed tracing and logging, significantly improving incident response time by **30%**.\nArchitected and transitioned scalable applications into containerized environments utilizing Docker and Kubernetes, facilitating seamless deployments and simplifying resource management.\nEngineered automated CI/CD pipelines with emphasis on DevOps practices using GitHub Actions and Azure DevOps, achieving efficient deployment cycles with reduced lead times by **40%**.\nIntegrated machine learning models within infrastructure to support AI-driven applications, utilizing **Python** frameworks (scikit-learn, TensorFlow) for predictive analytics.\nCollaborated across teams to embed monitoring and observability tools, enhancing performance tracking for cloud-based applications hosted on **AWS**.\nImplemented security best practices in a DevOps pipeline, ensuring CI/CD processes adhere to compliance regulations and maintaining security standards across deployments.\nSupported troubleshooting efforts for production issues by actively participating in on-call rotations and incident management, maintaining a focus on minimizing downtime and service disruption across the platform.\nExecuted well-defined backup and disaster recovery procedures, ensuring data integrity and availability, achieving **zero data loss** during system transitions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Implemented Infrastructure as Code (IaC) using **Terraform** on **AWS** to automate deployments and management of applications, enhancing operational efficiency across **9** microservices.\n- Enhanced application observability and performance monitoring with **OpenTelemetry** and **Cloudwatch**, improving incident response times by **30%**.\n- Led the migration of legacy financial platforms to a containerized architecture using **Docker** and **Kubernetes**, achieving **99.9%** uptime and seamless scalability under peak loads.\n- Developed and optimized CI/CD pipelines integrating **DevOps** practices, which reduced deployment time to production by **50%**.\n- Utilized **Python** for scripting and automation of system monitoring tasks, resulting in a **40%** decrease in manual intervention for system alerts.\n- Established proactive monitoring and alerts with **DataDog**, allowing for early detection of system anomalies and ensuring operational reliability.\n- Designed and deployed **AI** solutions for automated incident responses, leveraging machine learning algorithms to predict and prevent outages based on historical data patterns.\n- Collaborated with cross-functional teams to ensure best practices in container orchestration and operational security, contributing to a cohesive development and production ecosystem."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented **AWS** infrastructure for high availability and disaster recovery, ensuring uptime across key microservices.\nDesigned and optimized backend services for a global e-commerce platform using **Python** (FastAPI, Django), ensuring scalability and reliability while orchestrating deployment through **Terraform**.\nEngineered monitoring and observability solutions with **OpenTelemetry** and **Cloudwatch**, providing real-time insights and performance metrics across the **DevOps** pipeline.\nUtilized **DataDog** for system performance monitoring, troubleshooting, and optimizing resource allocation for over **1000** service deployments.\nCollaborated with the development team to leverage **container** technology to streamline deployment processes, resulting in a **40%** reduction in deployment time.\nIntegrated AI-driven performance optimizations and monitoring solutions to predict system loads and enhance user experiences, effectively improving application responsiveness.\nImplemented CI/CD pipelines for automated testing and deployment processes, leading to an **80%** increase in release frequency and enabling safe updates to production systems.\nDeveloped robust documentation for infrastructure and deployment processes, enhancing knowledge sharing among team members and increasing operational efficiency.\nLead design strategies for cloud resource management that resulted in a **30%** reduction in infrastructure costs while maintaining system performance standards."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\tOpenTelemetry\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, Cloudwatch, DataDog\n\n **Cloud & Infrastructure:**\n\tAzure (App Services, Blob, SQL), containers\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, AI",
+  "apply_company": "Robin AI"
+}

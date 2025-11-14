@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Machine Learning Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "As a seasoned Machine Learning Engineer with 8+ years of experience, I am proficient in **Python**, **PyTorch**, **TensorFlow**, and **Transformers**, enabling me to design and implement robust machine learning solutions. My expertise extends to **LangChain**, **LangGraph**, and **Vertex AI**, allowing me to leverage cutting-edge technology for predictive analytics and natural language processing. I have hands-on experience with cloud platforms such as **AWS**, **GCP**, and **Azure**, ensuring reliable deployment and monitoring of machine learning models. Additionally, I utilize **Docker** and **Kubernetes** for containerization and orchestration, and employ **Spark**, **Dask**, and **PySpark** for scalable data processing. My background in software engineering enhances my ability to optimize, debug, and collaborate on complex projects, ensuring trust and alignment with business goals.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Machine Learning Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "Developed and deployed machine learning models using **Python** with libraries including **PyTorch** and **TensorFlow**, facilitating predictive analytics for healthcare data across **AWS** and **GCP** environments.\nDesigned ML infrastructure and pipelines with **Apache Beam** and **Spark**, ensuring data manipulation and model training efficiency with large-scale datasets exceeding **5TB**.\nImplemented monitoring and debugging tools in deployed models using **Grafana** and **Prometheus**, optimizing model performance and achieving a **98%** uptime rate.\nCollaborated with cross-functional teams to integrate ML models into existing systems, leveraging **Docker** and **Kubernetes** for containerization and orchestration in production.\nUtilized **LangChain** and **LangGraph** frameworks to streamline the development and deployment of natural language processing applications, improving processing time by **30%**.\nCreated reusable and modular ML components ensuring scalability and efficiency in workflows, contributing to a **70%** reduction in development time for new features.\nConducted rigorous performance testing using tools like **k6** to validate model outputs and ensure reliability in prediction accuracy.\nMentored junior team members on best practices in machine learning and fostering a culture of collaboration and trust as we embrace cloud-native technologies on **Azure**.\nAutomated deployment processes for ML models through CI/CD pipelines with **GitHub Actions**, reducing release times by **50%** and enhancing the overall software development lifecycle.\nChampioned optimization strategies in ML workflows, applying techniques to reduce training time by **25%** while improving model accuracy through hyperparameter tuning and feature engineering."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed and deployed machine learning models using **TensorFlow**, **PyTorch**, and **Transformers** with a focus on performance and optimization, ensuring accurate predictions in a production environment.\n• Leveraged **Azure** and **AWS** cloud services to scale machine learning applications, achieving a ***50% increase*** in processing speed and effective resource utilization.\n• Designed and implemented **Docker** containers for reproducible model deployment, improving the efficiency of the development cycle by ***30%***.\n• Collaborated in developing end-to-end ML solutions using **Apache Beam** and **Spark**, processing large datasets at ***scale*** with a throughput of up to ***1TB per day***.\n• Established monitoring and logging frameworks through **Azure Monitor** and **ELK stack** to track performance metrics of deployed models, ensuring reliability and easy debugging.\n• Created data pipelines and ETL processes using **Dask** and **PySpark** for efficient data management and preprocessing, resulting in a ***60% reduction*** in data processing time.\n• Engaged in collaborative strategies to align with cross-functional teams, fostering trust and efficient workflow in project execution.\n• Implemented robust model optimization techniques, including hyperparameter tuning and feature engineering, ensuring models meet the highest standards of accuracy.\n• Managed and orchestrated **Kubernetes** clusters for scalable deployment of machine learning operations, enabling automated updates and high availability.\n• Integrated **ML Infrastructure** best practices into CI/CD processes using **GitHub Actions**, streamlining the deployment pipeline and reducing time to market for new features."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Implemented and optimized **Machine Learning** models and workflows in **Python** utilizing frameworks such as **PyTorch** and **TensorFlow**, enhancing model accuracy by **15%**.\nDeveloped scalable data processing pipelines with **Apache Beam**, **Spark**, and **Dask**, capable of handling datasets over **100GB**, ensuring efficient data flows for training and inference.\nDesigned and deployed ML infrastructures on **AWS**, **GCP**, and **Azure**, improving deployment times by **30%** using containerization technologies like **Docker** and **Kubernetes**.\nUtilized **LangChain** and **LangGraph** for building robust NLP applications, achieving state-of-the-art results on benchmark datasets.\nCollaborated effectively with cross-functional teams to integrate ML solutions into production systems, fostering a culture of trust and collaboration.\nImplemented comprehensive monitoring and debugging tools in existing ML deployments, leveraging **Vertex AI** for performance tracking and enhancement initiatives.\nConducted model optimization and tuning sessions, resulting in a **20% reduction** in operational costs while maintaining model performance integrity.\nDocumented machine learning workflows and best practices for knowledge sharing and to ensure robust collaboration within the engineering team.\nUtilized version control systems to manage model iterations and data changes, ensuring traceability and reproducibility of research findings.\nMaintained updated knowledge of industry trends and emerging tools in the field of **Machine Learning**, integrating novel techniques to stay ahead of technological advancements."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Machine Learning Technologies:**\n\tPyTorch, TensorFlow, Transformers, LangChain, LangGraph, Vertex AI, Spark, Dask, PySpark, Apache Beam\n\n **Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot\n\n **Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n **API Technologies:**\n\tREST & gRPC APIs\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, ML Infrastructure, Deployment, Monitoring, Debugging, Optimization, Collaboration, Trust"
+}

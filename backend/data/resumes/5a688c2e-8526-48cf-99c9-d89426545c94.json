@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Experienced Software Engineer with 10+ years in API development, SQL, and database design, adept at crafting and structuring efficient databases. Proven problem-solving skills paired with strong written and verbal communication abilities. Proficient in modern technology stacks such as **JavaScript/TypeScript**, **Python**, and **Flutter**, alongside extensive experience in full-stack development using **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Skilled in developing and deploying cloud-native applications on **Azure** and **AWS**. Solid understanding of microservices architecture, event-driven systems, and CI/CD automation, ensuring secure and compliant solutions that meet standards like HIPAA, FHIR, PCI DSS, and SOC 2. Brings practical experience in MLOps—from developing ML pipelines to managing production workflows using tools like **MLflow**, **Airflow**, and **Kubeflow**. Passionate about delivering high-performance software solutions that drive real-world impact in sectors such as healthcare and finance.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented robust **API development** solutions to provide seamless interactions between services in healthcare and finance applications, utilizing TypeScript, Python (FastAPI), and Node.js.\n• Developed efficient **SQL** queries and optimized **database design** strategies for scalability in cloud-native environments, utilizing PostgreSQL, MongoDB, and Redis.\n• Engaged in impactful **coding agents** that enhanced application performance, ensuring efficient data ingestion and processing for healthcare and fintech through a full-stack approach with React (17–18), Next.js, and Vue 3.\n• Utilized **problem-solving** skills to lead the transformation of monolithic applications into microservices architectures, leveraging **Docker**, **Kubernetes** (AKS/EKS), and serverless frameworks (**AWS Lambda**, **Azure Functions**) for high availability.\n• Executed data structuring and storage solutions tailored for large-scale transactions, successfully managing over **1 million** records through optimized queries with **GraphQL**.\n• Developed machine learning models for healthcare and finance applications, utilizing **scikit-learn**, **PyTorch**, and **TensorFlow**, with real-time inference integration into backends for use cases like patient risk prediction.\n• Constructed MLOps pipelines utilizing **MLflow**, **DVC**, and **Apache Airflow**, achieving continuous integration and deployment, resulting in a **30%** decrease in deployment time.\n• Integrated AI features into client applications, enhancing functionalities like smart financial dashboards and personalized health recommendations, utilizing APIs hosted on **Azure ML** and **AWS Sagemaker**.\n• Implemented DevOps pipelines with **GitHub Actions**, **Azure DevOps**, and **CircleCI**, ensuring streamlined deployment while maintaining security compliance across multiple environments.\n• Developed complex financial data visualization tools with **D3.js**, **Chart.js**, and **Power BI Embedded**, leading to the delivery of insights that improved transaction trend analysis by **25%**.\n• Collaborated with data scientists to implement **NLP** models through integration of **spaCy** and **Hugging Face Transformers** into core services to enhance healthcare document parsing.\n• Established comprehensive testing frameworks employing **Jest**, **Cypress**, **PyTest**, and **Postman**, ensuring code reliability through unit, integration, E2E, and contract testing methodologies.\n• Enhanced search capabilities across extensive datasets by integrating **Azure Cognitive Search** and **ElasticSearch**, enabling advanced retrieval functions for millions of health and financial documents."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained APIs using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing system performance and enabling seamless integration with various financial platforms.\n• Designed and structured databases to support optimal data access and integrity, utilizing **SQL** for efficient data retrieval operations across transactional systems.\n• Identified and solved complex coding challenges, demonstrating strong problem-solving skills to ensure robust application deployment and performance.\n• Collaborated with cross-functional teams through effective written and verbal communication, ensuring technical requirements are clearly understood and met.\n• Led a team in adopting a microservices-based architecture, increasing system scalability by **50%** and reducing deployment bottlenecks for high-volume transaction systems.\n• Built dynamic front-end applications with **React** (18) and **Next.js**, improving user engagement through responsive and accessible design practices.\n• Enhanced data analysis capabilities by integrating advanced SQL queries into ETL pipelines built with **Python**, **Apache Airflow**, and **Azure Data Factory**, processing up to **1 million** records daily.\n• Developed real-time monitoring tools using **Power BI Embedded** and **D3.js**, yielding insights that increased operational efficiency by **30%**.\n• Implemented AI/ML models for fraud detection with **scikit-learn** and **XGBoost**, successfully flagging over **95%** of suspicious transactions before processing."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "- Designed and optimized backend services focusing on **API development** to ensure high availability and scalability for complex systems using **Python (FastAPI, Django)** and **Node.js (NestJS, Express)**.\n- Engineered efficient solutions for **problem-solving** using real-time features with **WebSockets** and event-driven architecture through **Kafka** and **RabbitMQ**, enhancing user experience with responsive order updates.\n- Executed **database design** and **SQL** structuring with technologies such as **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra**, supporting fast, fault-tolerant data access for over **100k** daily transactions.\n- Developed engaging frontend applications utilizing **React (18)**, **Vue 3**, and **Angular**, integrating **TypeScript**, **Redux Toolkit**, and **Tailwind CSS** to enhance user interaction and meet performance benchmarks, ensuring responsiveness for more than **5M** monthly active users.\n- Implemented robust functionalities through **coding agents** and machine learning platforms such as **scikit-learn**, **LightGBM**, and **TensorFlow**, facilitating personalized recommendations and improving conversion rates by **30%** based on real-time user behavior.\n- Led the integration of secure payment workflows, using **Stripe**, **PayPal**, and **Razorpay**, achieving compliance with PCI standards and successfully processing payments for over **10M** transactions annually.\n- Applied effective **written communication** and **verbal communication** skills to collaborate with cross-functional teams, ensuring clarity in project specifications and timelines.\n- Maintained and improved system resilience by implementing Redis caching for product metadata and shopping cart sessions, significantly reducing database load and improving responsiveness by **40%**.\n- Managed feature rollouts and testing with **LaunchDarkly** and **Kubernetes**, facilitating controlled deployments using blue-green techniques that minimized downtime during platform upgrades.\n- Developed SEO-friendly UI components employing **Next.js**, **Vue 3 + Nuxt**, and **HTML5/CSS3**, ensuring compliance with accessibility standards like **WCAG 2.1** for an inclusive user experience."
+    }
+  ],
+  "skills": "**API Technologies:**\n\tAPI development\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, SQL, database design, database structuring\n\n**Other:**\n\tPython(FastAPI, Flask, Django), JavaScript/TypeScript (React, Vue, Angular), MLflow, Airflow, Kubeflow, Docker, Kubernetes, GitHub Actions, GitLab CI/CD, AWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Terraform, Ansible, Helm, Docker Compose, coding agents, problem-solving, written communication, verbal communication"
+}

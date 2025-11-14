@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Node Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-oriented Senior Node Engineer with 13+ years of experience in developing high-performance applications, specializing in **Node.js**, **Express.js**, and **REST API** design. Proficient in **JavaScript**, **TypeScript**, and **React**, demonstrating strong skills in frontend and backend development. Experienced in utilizing modern development frameworks and tools, including **MongoDB** and **Mongoose**, in fast-paced Agile and SCRUM environments.\n\nExpert in implementing **microservices** architecture and creating scalable solutions, leveraging **JWT** and **OAuth** for secure applications. Proven track record in delivering efficient software solutions using **Azure** and **Azure DevOps**, with a commitment to quality ensured through **TDD** practices and **Jest** testing.\n\nDemonstrated ability to innovate processes through the application of AI/ML and strong knowledge of compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2, ensuring robust, secure, and compliant applications.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Node Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained REST APIs using **Node.js**, **ExpressJS**, and **TypeScript** to provide secure and efficient endpoints for applications, ensuring functionality across **9** environments.\n• Leveraged modern front-end frameworks like **React** in conjunction with **JavaScript** to create responsive user interfaces, adhering to best practices and Agile methodologies, effectively collaborating in **SCRUM** teams.\n• Implemented robust testing strategies utilizing **Jest** to ensure high code quality through comprehensive unit tests, achieving a **95%** test coverage across key modules.\n• Managed database schemas and interactions using **MongoDB** and **Mongoose**, optimizing queries for performance in high load situations with data sets exceeding **1 million** records.\n• Architected and deployed microservices using **Docker** and **Kubernetes** to streamline application deployment, achieving a **40%** reduction in deployment time.\n• Integrated **oAuth** and **JWT** for secure user authentication across applications, enhancing overall security for the user data.\n• Engaged in Continuous Integration and Continuous Deployment (CI/CD) practices with **Azure DevOps** and **GIT**, automating deployment workflows and reducing manual error rates.\n• Designed and developed web applications following Test-Driven Development (TDD) principles, improving team efficiency and maintaining codebase stability.\n• Utilized Swagger for API documentation, facilitating better cross-team communications and onboarding processes for new developers.\n• Actively contributed to Agile sprints, providing estimations and delivering features on time for projects with tight **3-week** release cycles."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Leveraged **JavaScript**, **TypeScript**, and **Node.js** (with **ExpressJS**) to modernize core financial platforms by migrating to microservices architecture, improving scalability and performance for **high-volume** transactional systems through **Agile** and **SCRUM** methodologies.\n- Developed interactive front-end applications using **React** (version **18**), **Next.js**, and **Vue 3**, employing **Redux Toolkit** and **Tailwind CSS** for creating seamless and responsive user interfaces for financial tools and admin panels.\n- Delivered real-time analytics dashboards utilizing **React**, **D3.js**, and **Power BI Embedded**, granting operations teams immediate insights into transactions and anomalies, enhancing decision-making processes.\n- Designed and implemented a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, which ensured asynchronous communication across critical workflows including payments, alerts, and compliance for improved operational efficiency.\n- Developed **ETL** pipelines for ingesting financial data from internal and third-party sources with **Python**, **Apache Airflow**, and **Azure Data Factory**, enabling both batch and real-time processing that supports analytics initiatives.\n- Built and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, facilitating proactive identification of suspicious activity based on user behavior and transaction patterns.\n- Created **ML** pipelines for real-time credit scoring, churn prediction, and transaction classification, utilizing **MLflow** and **Airflow** to integrate model inference seamlessly into backend services.\n- Implemented **REST API** with **oAuth** and **JWT** for secure authentication, ensuring a fortified framework for user data protection across all applications.\n- Utilized **GIT** for version control and **NPM** for package management, ensuring efficient development processes and collaboration among teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained scalable backend services using **Node.js** (with **Express.js**) to enhance the performance and reliability of e-commerce applications, ensuring high availability for **9M**+ active users.\n• Built and documented comprehensive **REST APIs** for seamless communication between frontend and backend, utilizing **Jest** for unit testing and **Swagger** for API documentation, resulting in a **30%** decrease in integration issues.\n• Engineered microservices architecture leveraging **Mongoose** with **MongoDB** for distributed data storage, optimizing critical workflows that increased transaction speed by **25%** during peak shopping hours.\n• Employed **TypeScript** for type safety and enhanced code maintainability, improving collaboration among team members and reducing bug rates by **15%**.\n• Integrated user authentication and authorization protocols using **oAuth** and **JWT**, ensuring secure access for both customers and admin users in compliance with **GDPR** regulations.\n• Collaborated within an **Agile** framework, participating in **SCRUM** ceremonies to synchronize team efforts and deliver features with regular **2-week sprints**.\n• Utilized **Azure** and **Azure DevOps** for continuous integration and deployment (CI/CD), streamlining developer workflows and improving deployment speeds by **40%**.\n• Managed dependencies and project configurations effectively using **NPM**, ensuring up-to-date library versions while reducing compatibility issues.\n• Conducted code reviews and applied **Test-Driven Development (TDD)** methodologies, promoting best practices that raised overall code quality and reliability.\n• Instrumented application logging and monitoring solutions to enhance troubleshooting capabilities and improve response times during high-load scenarios."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, NodeJS, ExpressJS\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tREST API, Swagger, oAuth, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, Mongoose\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Azure DevOps\n\n**Cloud & Infrastructure:**\n\tAWS: RDS, S3, Azure: Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Let’s Encrypt, Certbot, Agile, SCRUM, TDD, Microservices",
+  "apply_company": "Cloudfide"
+}

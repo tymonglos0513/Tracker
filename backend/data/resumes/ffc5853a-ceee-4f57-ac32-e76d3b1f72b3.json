@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior WebTest Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior WebTest Engineer with 8 years of experience, I excel in utilizing **Playwright**, **Selenium**, **TypeScript**, and **Python** to ensure high-quality delivery of software solutions. My proficient command of **React** and backend technologies, including **Django**, **Celery**, and **RabbitMQ**, enables me to effectively test and validate full-stack applications while ensuring seamless integration. I have extensive experience with databases like **PostgreSQL**, and I employ **SQLAlchemy** for effective data manipulation.\n\nI am adept at implementing CI/CD processes using **GitHub Actions**, orchestrating deployments on **k8s** environments, and managing infrastructure through **Terraform** and **Helm**. My cloud experience spans **Azure**, **Heroku**, and **GCP**, providing me with the skills needed to align testing strategies with agile methodologies.\n\nAdditionally, I bring a strong background in developing scalable applications through microservices architecture and event-driven systems. I've successfully integrated AI/ML capabilities for applications, focusing on predictive analytics and intelligent automation. My commitment to compliance with industry standards such as HIPAA, FHIR, PCI DSS, and SOC 2 ensures robust security in all my projects.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior WebTest Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed automated testing frameworks and strategies leveraging **Playwright** and **Selenium** to ensure high-quality web applications across various platforms.\n- Utilized **TypeScript** and **Python (Django)** for building robust testing tools and scripts, enhancing testing efficiency by **30%**.\n- Implemented CI/CD pipelines using **GitHub Actions** to automate deployment and testing processes, achieving a deployment success rate of **95%** with reduced time to release.\n- Contributed to agile development processes, collaborating with cross-functional teams to define testing requirements and prioritize test cases based on user stories and acceptance criteria.\n- Designed and executed comprehensive test cases for RESTful APIs using **OpenAPI** standards, increasing API coverage by **40%**.\n- Managed asynchronous tasks and background jobs using **Celery** and **RabbitMQ**, optimizing test execution through parallel processing.\n- Led the integration of automated testing within a **k8s** managed environment, improving resource allocation and load balancing for test environments.\n- Created and maintained database testing strategies utilizing **PostgreSQL** and **SQLAlchemy**, ensuring data integrity and performance benchmarks were met.\n- Collaborated on developing scalable applications within **Azure**, employing **Terraform** and **Helm** for infrastructure deployment and management, resulting in a **50%** reduction in setup times.\n- Participated in code reviews and knowledge sharing sessions, enhancing team skill sets in **Agile** methodologies and modern testing frameworks.\n- Established rigorous performance testing using tools integrated with **Redis**, focusing on optimizing response times and system throughput for high-traffic applications.\n- Maintained detailed documentation of testing processes and results, providing insights for continuous improvement and compliance in line with development strategies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **TypeScript** and **Python** to develop robust automated testing frameworks leveraging **Selenium** and **Playwright** for continuous integration/continuous deployment (CI/CD) environments in **Azure** and **GCP**.\nExecuted test scenarios and strategies in agile settings to ensure software reliability and performance, influencing development methodologies and improving efficiency by **30%** in test outputs.\nCollaborated with cross-functional teams to create and maintain comprehensive testing documentation leveraging **OpenAPI** specifications, ensuring alignment with backward-compatible APIs to facilitate smooth integrations.\nIncorporated asynchronous task management using **Celery** and **RabbitMQ**, optimizing the execution of long-running test scenarios with parallel processing capabilities to reduce overall test suite runtime by **40%**.\nEnhanced the database interactions for testing purposes by utilizing **PostgreSQL** and **SQLAlchemy**, achieving streamlined data access and manipulation across various microservices.\nImplemented containerized environments with **Docker** and orchestrated deployments with **k8s** to simulate production systems accurately for testing, improving scalability and consistency in testing environments.\nOptimized the CI/CD pipeline with **GitHub Actions**, enabling automatic triggering of integration tests upon pull requests and increasing code quality confidence before merges by **50%**.\nEngaged in troubleshooting and resolving production issues, applying analytical skills to identify bottlenecks and performance degradation, contributing to faster release cycles and improved user satisfaction."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Designed and executed automated testing frameworks utilizing **Playwright**, **Selenium** and **TypeScript**, ensuring robust test coverage and enhancing software reliability for a global e-commerce platform.\nDeveloped backend services with **Python** (Django), orchestrating test environments to validate high availability, low latency, and scalability in modules such as checkout and order fulfillment, achieving over **95% test coverage** for critical paths.\nCollaborated with the development team on CI/CD processes using **GitHub Actions** and **k8s**, automating deployments and streamlining test execution cycles for quicker feedback loops, reducing deployment times by **30%**.\nImplemented event-driven testing strategies utilizing **RabbitMQ** and **Celery** to monitor real-time interactions, ensuring system resilience and optimal performance during peak operational loads.\nConducted database testing with **PostgreSQL**, using **SQLAlchemy** for ORM and data integrity verification, increasing database transaction accuracy to **99.9%**.\nEmployed **Agile** methodologies to continuously improve testing strategies, participating in regular sprints and retrospectives to enhance team performance and software quality.\nDeveloped UI tests for frontend applications using **React** and validated user interactions, establishing a standard for user experience testing that led to a **20% increase** in customer satisfaction scores.\nExecuted tests against API endpoints by designing comprehensive test scenarios in accordance with **OpenAPI** specifications and validating responses, ensuring correct functionality of integrated systems.\nManaged cloud resource provisioning through **Terraform** and automated deployment processes via **Helm**, achieving infrastructure as code practices that reduced setup times by **50%**.\nLeveraged cloud platforms including **Azure**, **Heroku**, and **GCP** for scalable testing environments, enabling flexibility and efficiency in testing under varied scenarios and configurations."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, TypeScript\n\n**Frontend Frameworks:**\n\tReact\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**API Technologies:**\n\tOpenAPI\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Heroku, GCP\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes (k8s), GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm\n\n**Other:**\n\tArtificial Intelligence & Machine Learning (MLflow, Airflow, Kubeflow), Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), Celery, RabbitMQ, Agile",
+  "apply_company": "Sphera"
+}

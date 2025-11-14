@@ -1,0 +1,46 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "DevOps / SRE",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-zaslawski-6b04a8397/",
+  "profile_summary": "As a results-driven DevOps / SRE professional with 8+ years in software engineering, I excel in deploying and managing cloud infrastructure and automation solutions using **AWS**, **GCP**, and **Terraform**. My expertise in CI/CD practices ensures seamless integration and delivery of applications, while I leverage tools such as **Ansible**, **Cloudflare**, and **Prometheus** for efficient configuration management and monitoring. Proficient in managing databases with **PostgreSQL** and employing caching solutions like **Redis**, I enhance system performance and reliability. In addition to my DevOps skills, my background as a Senior Full Stack Developer enables me to build secure and efficient applications with a tech stack including **Python** (FastAPI, Django, Flask), **Ruby on Rails**, and various frontend frameworks like **Angular**, **Vue**, and **React**. I am committed to delivering high-performance solutions aligned with industry best practices in the e-commerce, financial, and healthcare sectors.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps / SRE",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "• Led the architectural design and implementation of **CI/CD** pipelines for Python microservices, ensuring automated testing and multi-environment releases, improving deployment frequency by **30%**.\n• Championed the use of **Terraform** for provisioning infrastructure, reducing deployment times by **40%** and minimizing configuration drift across **AWS** environments.\n• Integrated monitoring solutions using **Prometheus** and **Grafana**, enabling proactive issue resolution and reducing incident response times by **25%**.\n• Developed and maintained observability standards across Python services, implementing solutions using the **ELK** stack for improved logging and analysis.\n• Architected scalable and resilient systems on **AWS**, leveraging best practices for **Cloudflare** security measures and performance enhancements.\n• Designed and optimized data storage solutions with **PostgreSQL** and **Redis**, successfully improving query performance for large datasets by **50%**.\n• Implemented automation frameworks with **Ansible** to streamline infrastructure management, achieving consistent and repeatable deployments.\n• Guided cross-functional team in adopting **event-driven architectures** using technologies such as Kafka, enhancing system responsiveness and scalability.\n• Mentored junior engineers on best practices in **CI/CD**, infrastructure as code with **Terraform**, and monitoring using **Prometheus** and **Grafana** to foster a culture of DevOps.\n• Spearheaded initiatives to ensure compliance with industry standards including SOC 2, ISO 27001, and PCI DSS, embedding security practices into both development and operations.\n• Integrated legacy systems with modern **AWS** services, enhancing performance and reducing operational costs by **20%** through hybrid cloud solutions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented **AWS** cloud services and designed infrastructure with **Terraform** to ensure scalable and maintainable environments for Python applications.\nAutomated deployment processes using **Ansible** and CI/CD pipelines with **Azure DevOps** and **GitHub Actions**, achieving a 90% reduction in deployment time.\nMonitored application performance and health using **Prometheus** and **Grafana**, leading to a 30% improvement in system reliability.\nCollaborated on integrating logging solutions using the **ELK** stack (Elasticsearch, Logstash, Kibana) for advanced data insights and centralized logging.\nManaged and optimized database systems including **PostgreSQL** and **Redis** for high availability and efficient data retrieval, enhancing application performance by 25%.\nConfigured secure access and data protection protocols in cloud environments, ensuring compliance and optimal security practices across applications.\nDeveloped, tested, and implemented infrastructure as code (IaC) strategies to reduce provisioning time and improve recoverability during infrastructure failures.\nWorked with data-driven applications on **GCP** and **Cloudflare** to optimize load balancing and security for user-facing applications.\nMaintained seamless integration with existing legacy apps and external systems using **Ruby on Rails** and other modern frameworks to ensure uninterrupted service delivery.\nEmployed **Consul** for service discovery in microservices architecture, optimizing communication paths and promoting high-availability architecture.\nDesigned redundancy and disaster recovery plans, ensuring minimal downtime and reliable service continuity for critical applications across 3 major regions.\nConducted performance testing and monitoring of containerized applications deployed in Kubernetes clusters, achieving auto-scaling and improving resource efficiency by over 40%."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Implemented and maintained **AWS** cloud infrastructure for backend services, optimizing performance and cost-efficiency in deployment processes.\nAutomated infrastructure setup and configuration management using **Terraform** and **Ansible**, leading to a **35%** reduction in deployment time across environments.\nDeveloped and maintained **CI/CD** pipelines utilizing **GitHub Actions** and **Jenkins**, successfully increasing deployment frequency by **50%**.\nLeveraged monitoring tools including **Prometheus** and **Grafana** for system performance tracking and real-time alerting, improving incident response times by **25%**.\nConducted thorough logging and analysis using the **ELK** stack, enhancing visibility into system operations and reducing mean time to recovery (MTTR).\nDesigned and implemented scalable **Redis** caching strategies to optimize application performance, achieving a **40%** decrease in database load.\nIntegrated cloud services on **GCP** to enhance availability and disaster recovery strategies, ensuring uptime and reliability for critical applications.\nDeveloped containerized solutions using **Docker**, streamlining application deployment and enhancing scalability across **9** different environments.\nCollaborated with development teams to architect applications using **Ruby on Rails** that significantly improved feature delivery and user experience.\nMaintained database services, optimizing performance and reliability for **PostgreSQL** databases, leading to improved query execution times by **30%**.\nPerformed disaster recovery drills and business continuity planning to ensure seamless service availability in case of outages.\nImplemented security best practices in cloud and application deployments, ensuring compliance with policies and safeguarding sensitive data.\nOptimized build processes and implemented strategies for reducing deployment stress and deployment failures through automated testing frameworks.\nManaged service discovery and configuration management using **Consul**, improving efficiency and managing complexities in microservices architecture.\nFacilitated cross-team collaboration to ensure seamless integration between development and operations, focusing on enhancing agile methodologies."
+    }
+  ],
+  "skills": "**Cloud & Infrastructure**\n\tAWS, GCP, Cloudflare\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, CI/CD, Prometheus, Grafana, ELK, Consul\n\n**Programming Languages**\n\tPython, Ruby\n\n**Backend Frameworks**\n\tFastAPI, Django, Flask, Spring Boot, Ruby on Rails\n\n**Frontend Frameworks**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n**API Technologies**\n\tREST & gRPC APIs\n\n**Authentication & Security**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot\n\n**Databases**\n\tPostgreSQL, MySQL (Healthcare), MongoDB (Gaming), Redis\n"
+}

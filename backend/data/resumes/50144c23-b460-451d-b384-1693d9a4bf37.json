@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "DevOps Engineer with 13+ years of experience specializing in deploying and managing high-performance applications in cloud environments. Proficient in **Kubernetes**, **Terraform**, **Ansible**, **GitOps**, and container orchestration, with a strong command over **Helm**, **Prometheus**, **Grafana**, and **Bash** scripting. Expertise in implementing CI/CD pipelines using **Argo CD**, aligning deployment processes with compliance standards such as **SOC 2** and **ISO 27001**.\n\nSeasoned in leveraging **Python** for automation and scripting tasks, along with a robust understanding of cloud services on **AWS** and **Azure**. Adept at ensuring system reliability, performance, and security within compliance-driven environments. Possess hands-on experience in AI/ML platforms, enhancing operational efficiency through predictive analytics. Strong technical problem solver with a commitment to delivering innovative solutions in high-stakes industries.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and managed **Kubernetes** clusters to ensure scalable, fault-tolerant deployments in cloud environments.\nDeveloped infrastructure as code using **Terraform** to automate and provision resources across cloud providers, improving deployment speed by **30%**.\nUtilized **GitOps** principles with tools like **Argo CD** to streamline application deployments and manage infrastructure changes, maintaining a version-controlled state.\nCreated CI/CD pipelines with **Prometheus** and **Grafana** for monitoring, alerting, and enhancing visibility into application performance and reliability in a multi-environment setup.\nAutomated configuration management and application deployment processes using **Ansible**, resulting in a reduction of manual overhead by **40%**.\nBuilt and maintained observability solutions using **Alertmanager** to efficiently manage alerts, and ensure system reliability across diverse applications and environments.\nIntegrated security best practices following **SOC 2** and **ISO 27001** standards in all deployment processes to ensure compliance with industry regulations.\nCollaborated on the development of advanced monitoring dashboards to track KPIs and operational health using **Grafana**.\nAuthored scripts in **Bash** for automating routine maintenance tasks, improving operational efficiency.\nParticipated in incident response and root cause analysis, enhancing system reliability and reducing outages.\nContinued personal development and adaptation to new technologies, enhancing team capabilities and system performance in line with the latest industry standards."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **GitOps** practices for continuous deployment and integration, streamlining the release process and enhancing operational efficiency.\n utilized **Kubernetes** for orchestration of containerized applications, ensuring high availability and scalability across environments.\nAutomated infrastructure provisioning and configuration management using **Terraform** and **Ansible**, reducing deployment times by **40%** and improving consistency in service availability.\nMonitored application performance and system health with **Prometheus**, **Grafana**, and **Alertmanager**, achieving a **99.9%** uptime SLA across production systems.\nManaged and orchestrated deployments with **Helm** and **Argo CD**, enabling rollbacks and application version control to maintain service integrity during updates.\nApplied **RBAC** for access control management, aligning with **SOC 2** and **ISO 27001** compliance standards for security and governance.\nDeveloped high-performing CI/CD pipelines using **Bash**, ensuring automated testing and deployment processes for improved software quality and delivery speed.\nLeveraged industry best practices to optimize cloud infrastructure and enhance operational reliability in a dynamic environment."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented **Kubernetes** for container orchestration, facilitating scalable deployment of applications and services across a global e-commerce platform with reduced downtime by **30%**.\nUtilized **GitOps** principles to manage application deployments, enabling seamless rollback and version control, which improved deployment efficiency by **25%**.\nDesigned infrastructure as code using **Terraform** and **Ansible** to automate provisioning, configuration, and resource management, leading to a **40%** decrease in manual errors and resource overhead.\nMonitored system performance and health using **Prometheus** and **Grafana**, establishing proactive alerting with **Alertmanager** to reduce critical incident response time by **50%**.\nDeveloped CI/CD pipelines with **Argo CD** to streamline deployment workflows, resulting in faster delivery cycles and a **20%** improvement in team productivity.\nImplemented secure access controls using role-based access control (**RBAC**) and adhered to **SOC 2** and **ISO 27001** compliance standards, enhancing security posture and user data protection across platforms.\nDeveloped scripts in **Bash** to automate routine tasks and improve operational efficiency, allowing developers more time to focus on core responsibilities with a **35%** reduction in manual interventions.\nCollaborated with development teams using **Python** and **Go** to ensure smooth integration of operational practices within the application lifecycle, enhancing collaboration and productivity.\nEmployed **Helm** for application management, providing a streamlined method for packaging and deploying applications in the Kubernetes ecosystem.\nContributed to documentation and knowledge sharing, fostering a culture of best practices in DevOps methodologies and continuous improvement within the engineering teams."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Ruby, Go, Bash\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, GitOps, Prometheus, Grafana, Alertmanager, Argo CD\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose, SOC 2, ISO 27001\n\n**Other:**\n\tMLflow, Airflow, Kubeflow"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior DevOps Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with 9+ years of experience in designing, developing, and implementing robust applications and infrastructure utilizing **AWS**, **Terraform**, and **Kubernetes**. Proficient in CI/CD pipelines with hands-on experience in **GitLab CI/CD** and **GitHub Actions**. Highly skilled in monitoring and logging tools including **Prometheus**, **Loki**, and **ELK** stack, with a strong foundational knowledge of network protocols such as TCP/IP, DNS, and HTTP/S. Proven track record in optimizing performance and streamlining deployment processes while collaborating effectively across teams. Previous experience as a .NET Full Stack Developer enhances my understanding of both frontend and backend technologies, including **ReactJS**, **NextJS**, and **.NET/C#** development.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Utilized **Kubernetes** for orchestrating containerized applications, enhancing deployment efficiency by 30%.\nImplemented Infrastructure as Code (IaC) using **Terraform** to automate resource provisioning on **AWS**, reducing setup time by 50%.\nDesigned and optimized CI/CD workflows using **GitLab CI/CD** and **GitHub Actions**, achieving a 40% reduction in deployment times.\nMonitored system performance and reliability with **Prometheus** and **Loki**, allowing for proactive system management and uptime improvement.\nUtilized **ELK** stack for logging and analytics, improving troubleshooting time by 45%.\nEnsured robust network communication through expertise in **TCP/IP**, **DNS**, and **HTTP/S** protocols, enhancing data integrity across services.\nEmphasized clear communication and collaboration with cross-functional teams to align on project goals and timelines.\n\nSpearheaded the design and development of a web-based customer management platform using .NET 7 and ReactJS, Next.js, improving user satisfaction by 25%.\nDesigned and implemented a microservices architecture using .NET Core to modularize the system for scalability and maintainability.\nIntegrated Apache Kafka for real-time data streaming and RabbitMQ for task queuing, resulting in improved system resilience and throughput.\nUtilized Redis for caching frequently accessed data, reducing database load and improving response times by 35%.\nDeveloped RESTful APIs with .NET, integrated with a MongoDB database to provide seamless data access for various services.\nOptimized MSSQL database queries and indexing, reducing average query execution time by 20%.\nCollaborated with UX/UI designers to enhance the platform’s user interface, leading to an improved user experience.\nDeveloped a reporting engine using D3.js and Three.js for interactive data visualizations.\nImplemented JWT-based authentication and authorization for securing the application."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Implemented and managed **Kubernetes** clusters for efficient orchestration of containerized applications, enhancing deployment reliability by **40%**.\nUtilized **Terraform** for infrastructure as code deployment, reducing setup time for environments by **50%**.\nDesigned CI/CD pipelines using **GitLab CI/CD** and **GitHub Actions**, leading to a **30%** reduction in deployment errors and improving release frequency.\nMonitored system performance using **Prometheus** and maintained logging with **Loki** and the **ELK** stack, ensuring **99.9%** uptime across all services.\nEnhanced network configurations by implementing best practices for **TCP/IP**, **DNS**, and **HTTP/S** protocols, improving system response times.\nCollaborated effectively with cross-functional teams to gather system requirements and define clear project timelines, enhancing communication and project delivery.\nConducted regular knowledge-sharing sessions with team members on cloud services, particularly **AWS**, fostering a culture of continuous learning and improvement.\nDeveloped detailed documentation on infrastructure and deployment processes, ensuring comprehensive guides for future reference and onboarding.\nParticipated in architecture reviews and offered insights for improving system design, contributing to the overall scalability of the infrastructure.\nMentored junior staff in best practices for automation and monitoring tools, helping to increase team efficiency."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Implemented CI/CD pipelines using **GitLab CI/CD** and **GitHub Actions**, resulting in a **30%** reduction in deployment times.\nManaged container orchestration and deployments using **Kubernetes**, improving system reliability and scalability by **25%**.\nAutomated infrastructure provisioning with **Terraform**, enabling consistent and repeatable environment setups in **AWS**.\nMonitored system performance and health utilizing **Prometheus** and **Loki**, enhancing the system's reliability during peak loads.\nConfigured and managed logging and monitoring using the **ELK stack**, ensuring high availability and quick issue resolution.\nSupported the development teams in using modern HTTP/S protocols and ensuring TCP/IP configurations were optimal, enhancing network performance.\nFacilitated communication between cross-functional teams to promote DevOps best practices and improve collaboration.\nParticipated in daily standups to provide updates on environmental changes and project alignment.\nCreated documentation detailing infrastructure changes and best practices, improving knowledge transfer and onboarding processes.\nProvided expertise in DNS configurations to ensure high fidelity and low latency connections for cloud services."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python, JavaScript, TypeScript, C#, Solidity\n\n **Backend Frameworks**\n\t NodeJS, ExpressJS, NestJS, .NET, Entity Framework\n\n **Frontend Frameworks**\n\t ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n **API Technologies**\n\t RESTful API, GraphQL\n\n **Serverless and Cloud Functions**\n\t AWS, Azure\n\n **Databases**\n\t MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB\n\n **DevOps**\n\t Kubernetes, Terraform, AWS, GitLab CI/CD, GitHub Actions, Prometheus, Loki, ELK\n\n **Cloud & Infrastructure**\n\t CI/CD pipelines, TCP/IP, DNS, HTTP/S\n\n **Other**\n\t UX/UI Design, Git, GitHub, Messaging & Caching: Apache Kafka, RabbitMQ, Redis, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Communication"
+}

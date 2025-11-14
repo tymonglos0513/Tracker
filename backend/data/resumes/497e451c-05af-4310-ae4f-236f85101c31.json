@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Dedicated Senior Engineer with 8 years of experience in **cloud environments** including **AWS** and **Azure**, and a strong focus on **Infrastructure as Code** using **Terraform**, **Ansible**, and **Puppet**. Skilled in **networking** principles and building **distributed systems** that prioritize **security posture** and adhere to **API security best practices**. Proficient in **Linux** environments, with expertise in **Debian**, **Bash**, and kernel-level debugging.\n\nAdept at developing robust automation solutions, I also leverage **CI/CD** principles to enhance deployment efficiency. My background in software development includes **Python** and **Go**, allowing for effective communication and collaboration in cross-functional teams. I bring a history of building high-performance applications in the healthcare and financial sectors, integrating **modern JavaScript/TypeScript**, **Python**, and **Flutter** frameworks.\n\nMy experience encompasses leading the development of enterprise-grade platforms that incorporate AI/ML capabilities for predictive analytics. I excel in **microservices architecture**, **event-driven systems**, and implementing MLOps workflows using tools like MLflow, Airflow, and Kubeflow.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented reliable and scalable cloud infrastructure on **AWS**, leveraging **Terraform** and **Ansible** for Infrastructure as Code (IaC) to automate deployment processes across environments.\nManaged and optimized security posture in **Linux** environments, employing Identity and Access Management (**IAM**) practices, **Secrets management**, and **Zero trust access controls** to safeguard distributed systems.\nDeveloped and maintained continuous integration and deployment (**CI/CD**) pipelines utilizing **GitHub Actions** and **CircleCI**, ensuring seamless code integration and deployment with a focus on API security best practices.\nEnhanced system performance by automating repetitive tasks and orchestrating configuration management using **Puppet** and **Bash** scripts, resulting in a **30%** increase in deployment speed.\nStreamlined networking processes in cloud environments by implementing best practices for **AWS** networking, enhancing connectivity and security in multi-environment setups.\nArchitected and developed applications in **Go** and **Python**, leveraging advanced programming skills to drive efficiency and maintainability in various projects.\nShowcased strong communication skills through effective collaboration with cross-functional teams, facilitating the successful alignment of engineering initiatives with business goals.\nAssessed and optimized the operational efficiency of systems through kernel-level debugging, implementing improvements that contributed to a **25%** reduction in system anomalies.\n\n---\n\nPreviously, architected and developed scalable, full-stack healthcare and financial platforms using **TypeScript**, **Python (FastAPI)**, **Node.js**, and modern front-end frameworks including **React (17-18)**, **Next.js**, and **Vue (3.x)**, while ensuring compliance with HIPAA, FHIR, GDPR, and financial regulatory standards (e.g., PCI DSS, SOX).\nLed the re-architecture of monolithic applications into microservices-based ecosystems, employing **Docker**, **Kubernetes (AKS/EKS)**, and serverless architectures (**AWS Lambda**, **Azure Functions**), enabling high availability and fault tolerance.\nDesigned and maintained cloud-native data architecture using **PostgreSQL**, **MongoDB**, **Redis**, and **GraphQL**, optimizing for large-scale healthcare and financial data ingestion, storage, and querying.\nIntegrated AI-based features into client-facing applications, such as smart financial dashboards, personalized health recommendations, and predictive alerts, powered by trained models and APIs hosted on **Azure ML** and **AWS Sagemaker**.\nEstablished test strategies using **Jest**, **Cypress**, **PyTest**, and **Postman**, covering unit, integration, E2E, and contract testing across both front-end and backend services."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented Infrastructure as Code using **Terraform** and **Ansible** to enhance deployment processes and automate provisioning within **AWS** cloud environments, reducing deployment time by **40%**.\nEstablished a secure and scalable architecture by integrating strong security posture practices, including **IAM**, secrets management, and zero trust access controls for cloud infrastructure.\nDesigned and managed distributed systems using **Linux** and **Debian**, emphasizing network security and reliability in a high-traffic environment, achieving an uptime of **99.9%**.\nStreamlined CI/CD pipelines by utilizing **Automation** practices to improve the efficiency and speed of application releases while ensuring adherence to **API security best practices**.\nCollaborated with cross-functional teams to enhance communication skills, ensuring alignment on project objectives and timely delivery of system integrations.\nUsed **Python** for developing automation scripts and tools for kernel-level debugging and system troubleshooting, effectively improving resolution times by **30%**.\nLeveraged **Go** for building and deploying secure microservices, maintaining high performance and scalability in a transactional environment.\nOptimized networking configurations within **Cloudflare** for improved application delivery and security, successfully reducing latency by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented and optimized **Infrastructure as Code** strategies using **Terraform** and **Ansible** to automate provisioning and configuration of **AWS** resources ensuring a secure and scalable environment for e-commerce operations.\nDesigned robust **Networking** solutions ensuring seamless connectivity and performance monitoring of distributed systems within a high-traffic e-commerce platform, achieving 99.9% uptime across all services.\nManaged **Security posture** for cloud environments by implementing **IAM** policies, **Secrets management**, and **Zero trust access controls**, ensuring compliance with **GDPR** and safeguarding user data.\nUtilized **CI/CD** pipelines to streamline application deployment processes, improving deployment frequency by 30% and reducing rollback rates through automated testing and monitoring.\nConducted performance optimizations in a **Linux** environment, using **Bash** scripts for routine maintenance and kernel-level debugging, enhancing system response times by 20%.\nCollaborated effectively with cross-functional teams, leveraging strong **communication skills** to advocate for best practices in **API security** and service integrations, resulting in a 40% reduction in security vulnerabilities.\nDeveloped and maintained backend services using **Python** and **Go** for infrastructure management, optimizing resource usage and scalability during peak traffic events.\nEstablished comprehensive documentation of all infrastructure setups and automated processes, making on-boarding of new team members 50% faster.\nEnsured the integrity of services by implementing automated monitoring and alerting systems, proactively addressing issues before they impact user experience, and achieving a customer satisfaction rating above 90%."
+    }
+  ],
+  "skills": "   **Programming Languages**\n\tPython, Go, JavaScript/TypeScript\n\n   **Backend Frameworks**\n\tFastAPI, Flask, Django\n\n   **Frontend Frameworks**\n\tReact, Vue, Angular\n\n   **API Technologies**\n\tAPI security best practices\n\n   **Serverless and Cloud Functions**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n   **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n   **DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Infrastructure as Code, Terraform, Ansible, Helm, Docker Compose, Puppet, Automation\n\n   **Cloud & Infrastructure**\n\tLinux, Cloud environments, Cloudflare, Debian, Networking, Distributed systems\n\n   **Other**\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Security posture, IAM, Secrets management, Zero trust access controls, Kernel-level debugging, Communication skills"
+}

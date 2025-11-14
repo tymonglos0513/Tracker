@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Software Engineer with 13+ years of experience developing high-performance applications in healthcare and finance. Proficient in **Python**, **Django**, **Vue.js**, and **AWS**, with a solid foundation in **Docker** for containerization. Demonstrated ability in both frontend and backend development with expertise in **React**, **Next.js**, and **Node.js**. Skilled in building AI/ML-powered platforms that enhance predictive analytics and automation. Experienced in deploying cloud-native solutions and implementing microservices, event-driven architectures, and CI/CD pipelines. Well-versed in compliance-driven development adhering to HIPAA, FHIR, PCI DSS, and SOC 2 standards. Strong background in MLOps, focusing on model training and orchestration using **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed full-stack applications leveraging **Python** and **Django**, ensuring high performance and scalability for health and finance platforms.\n- Implemented modern front-end features using **Vue.js 3**, delivering responsive and interactive user experiences to meet user needs effectively.\n- Integrated **AWS** cloud services for deployment and scalability, optimizing application performance and cost-efficiency.\n- Designed and deployed containerized applications with **Docker**, ensuring consistency across development, testing, and production environments.\n- Achieved a **30%** reduction in application load times by optimizing backend processes and employing efficient database queries.\n- Collaborated with cross-functional teams to deliver **5+** mobile applications, enhancing user engagement and satisfaction across iOS and Android platforms.\n- Led the migration of legacy healthcare systems to a microservices architecture, improving deployment speed by **40%** and system reliability.\n- Established CI/CD processes to automate builds and deployments, utilizing tools like GitHub Actions, reducing deployment errors by **25%**.\n- Investigated and implemented data visualization techniques to support real-time analytics and decision-making, resulting in a **20%** increase in operational efficiency.\n- Maintained data integrity and performance through robust database design using modern technologies, handling over **1 million** transactions per day.\n- Enforced best practices in software development and testing, achieving coverage metrics of **90%+** across unit and integration tests."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Django** to modernize core financial platforms by migrating to microservices architecture, enhancing scalability and performance for high-volume transactional systems.\nDeveloped and maintained interactive front-end applications with **Vue.js 3**, leveraging advanced features to create sleek, responsive interfaces for financial tools and admin panels.\nImplemented cloud solutions using **AWS** services to ensure scalable and resilient application architecture, enhancing deployment and operational efficiency by **30%**.\nIntegrated **Docker** for containerization of applications, facilitating consistent development, testing, and production environments, reducing deployment time by **25%**.\nDelivered real-time analytics dashboards with React, D3.js, and Power BI Embedded, providing a **50%** improvement in transaction and anomaly insights for operations teams.\nDesigned and deployed a robust event-driven architecture using Kafka, RabbitMQ, and Azure Service Bus, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nBuilt and deployed machine learning models for fraud detection using scikit-learn, XGBoost, and Azure ML, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging MLflow and Airflow to integrate model inference into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** with frameworks such as **Django** to design and optimize secure backend services for a global e-commerce platform, ensuring high availability, low latency, and scalability across key modules with a user base exceeding **1 million**.\nEngineered real-time features using **AWS** services and event-driven architecture, enabling quick order updates and inventory tracking through **Docker** containerization, which supported deployments in **3** geographic regions.\nDeveloped and delivered responsive frontend applications using **Vue.js** (version **3**) and integrated them with **Django** backend, resulting in a **25%** increase in user engagement due to enhanced UI performance.\nImplemented database solutions with support for MongoDB, PostgreSQL, and Redis, ensuring optimized data access which achieved a **30%** reduction in average data retrieval times during high-traffic events.\nCreated highly available AI-based recommendation systems utilizing **Python** libraries for machine learning, improving conversion rates by **15%** through personalized user experiences based on real-time behavioral data.\nStreamlined deployment processes using **Docker**, which contributed to a **50%** decrease in deployment times and minimized downtime during updates.\nEmployed best practices for setting up feature flags and blue-green deployments using **AWS** and container orchestration, resulting in safer rollout of new features and minimized rollback times.\nDesigned SEO-friendly user interfaces using **Vue.js**, with compliance to **WCAG 2.1**, enhancing accessibility for users with disabilities and improving overall site metrics following audits.\nImplemented secure payment workflows integrated with payment gateways like Stripe and PayPal, ensuring compliance with PCI DSS standards while managing transactions exceeding **$2 million** monthly.\nApplied robust role-based access control (RBAC) and **OAuth 2.0** for user authentication and authorization, ensuring that sensitive data protection measures are in line with GDPR compliance."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython\n\n**Backend Frameworks**\n\tDjango\n\n**Frontend Frameworks**\n\tVue.js\n\n**API Technologies**\n\tFastAPI\n\n**Serverless and Cloud Functions**\n\tAWS\n\n**Databases**\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\n**DevOps**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\n**Cloud & Infrastructure**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Other**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tKeycloak (OIDC, RBAC)\n\tOAuth2\n\tJWT\n\tNginx\n\tLet’s Encrypt\n\tCertbot\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose",
+  "apply_company": "Jet HR"
+}

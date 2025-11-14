@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Development Engineer in Test (SDET)",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Results-driven Software Development Engineer in Test (SDET) with 13+ years of experience in high-performance application delivery in the healthcare and financial sectors. Proficient in **Python**, **Pytest**, **CI/CD**, and **GitLab CI**, with a focus on automated testing and continuous integration. Demonstrated expertise in leveraging **AWS** services such as **Glue**, **Lambdas**, and **S3** for scalable test solutions. Skilled in data manipulation with **Pandas** and **NumPy**, and in working with databases like **PostgreSQL** and **Clickhouse**. Experience with messaging systems like **Kafka** and **RabbitMQ**, and performance monitoring tools such as **Prometheus** and **Grafana**.\n\nAdept in implementing microservices and event-driven architectures, with a solid grounding in **Jenkins**, **k8s**, and **ArgoCD** for streamlined workflows. Committed to ensuring compliance with industry standards, including HIPAA and PCI DSS. Proven ability to build AI/ML frameworks utilizing **MLflow**, **Airflow**, and **Kubeflow** for automated test environments. Excels in collaborative development practices, leveraging **GitLabCI** and **Sentry** for effective debugging and monitoring.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Development Engineer in Test (SDET)",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented **CI/CD** pipelines using **GitLab CI** and **Jenkins**, incorporating test automation and monitoring with **Sentry** to ensure code quality and faster release cycles.\nDesigned and executed comprehensive test strategies using **PyTest** to validate backend processes, integrating with both **PostgreSQL** and **Redis** databases for data integrity verification.\nDeveloped and maintained automated testing frameworks tailored for **AWS** environments, utilizing **Lambda** functions for serverless testing scenarios.\nCollaborated with engineering teams to enhance the testing of applications deployed on **k8s**, utilizing **Grafana** for performance monitoring and reporting.\nExecuted data validation scripts with **Pandas** and **NumPy**, ensuring data quality and correctness across various data ingestion sources, including **Kafka** and **RabbitMQ**.\nLed initiatives to automate test cases for various components in the software lifecycle, leveraging **ArgoCD** for deployment of changes in multiple environments seamlessly.\nPerformed load testing and performance analysis using containerized services orchestrated by **Docker** and **k8s**, ensuring scalability and reliability of deployed applications.\nIntegrated test suites with **ELK** stack for real-time logging and monitoring to identify anomalies in application behavior during testing phases.\nEstablished a centralized documentation repository for test plans and outcomes using **Qase**, streamlining communication and knowledge sharing across teams.\nConducted regular audits of testing frameworks and processes, providing actionable insights that drove improvements in software delivery and quality assurance."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines using **GitLab CI** and **Jenkins**, automating testing and deployment processes to increase efficiency by **30%**.\nDeveloped and executed test cases using **Pytest** and integrated them with CI workflows, ensuring code quality and robust functionality across **Python** applications.\nEnhanced data validation and transformation processes with **Pandas** and **NumPy**, enabling accurate data handling in analysis and reporting.\nCreated comprehensive testing strategies for microservices developed in **Python** (Django, FastAPI) and **Node.js** frameworks, contributing to a **25%** decrease in post-release defects.\nMonitored system performances using **Prometheus** and analyzed logs with **ELK** stack, driving enhancements in system observability.\nCollaborated with cross-functional teams to define QA best practices and implement them, resulting in improved communication and **15%** faster project delivery.\nPerformed end-to-end testing on cloud-based architectures utilizing **AWS** services like **Lambdas** and **S3**, ensuring seamless integration and reliability for applications.\nDocumented testing processes and reporting using **Grafana** and maintained traceability in Jira, which improved stakeholder visibility by **20%**.\nUtilized **Kafka** and **RabbitMQ** to simulate and test message-driven architectures, validating the robustness of event-driven functionalities in high-load scenarios."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** with frameworks such as **FastAPI** and **Django** to create and optimize backend test automation for a global e-commerce platform, ensuring 99.9% uptime and efficient scalability through robust CI/CD practices leveraging **GitLab CI** and **Jenkins**.\nDeveloped comprehensive test strategies and automated testing solutions using **Pytest**, achieving a 95% reduction in manual testing time while maintaining high test coverage for critical features including checkout and order fulfillment.\nImplemented performance and stress testing frameworks integrated with **AWS** tools like **CloudWatch** and **S3**, ensuring the platform meets a load of **10,000+ simultaneous users** without downtime.\nDesigned and executed automated integration tests for real-time features powered by **Kafka** and **RabbitMQ**, facilitating smooth order updates and customer interactions with a response time of under **200 ms**.\nManaged infrastructure as code using **k8s** (Kubernetes), automating deployments and monitoring with **Prometheus** and **Grafana**, and establishing a streamlined release process through **ArgoCD** for continuous delivery.\nCreated data-driven test cases leveraging **SQL** and **Pandas**, and managed distributed data storage solutions using **PostgreSQL** and **Redis**, resulting in optimized access times and reduced database load by up to **40%**.\nConducted security assessments and implemented role-based access control (RBAC) and **OAuth 2.0** to ensure application testing aligns with compliance standards including GDPR, leading to zero critical vulnerabilities detected during audits.\nCollaborated with development teams to integrate testing frameworks utilizing <insert tech stack/tools related to test automation>, thus enhancing the quality assurance process and contributing to an increase in overall software quality metrics by **30%**."
+    }
+  ],
+  "skills": "****Programming Languages:****\n\tPython, JavaScript/TypeScript\n\n****Backend Frameworks:****\n\tFastAPI, Flask, Django\n\n****Frontend Frameworks:****\n\tReact, Vue, Angular\n\n****API Technologies:****\n\tOAuth2, JWT\n\n****Serverless and Cloud Functions:****\n\tAWS: Lambda, Glue, S3\n\n****Databases:****\n\tPostgreSQL, MySQL, MongoDB, Redis, Clickhouse\n\n****DevOps:****\n\tDocker, Kubernetes, CI/CD, Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD\n\n****Cloud & Infrastructure:****\n\tAWS: ECS, RDS, Azure: App Services, Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n****Other:****\n\tMLflow, Airflow, Kubeflow, Pytest, Pandas, NumPy, Kafka, RabbitMQ, ELK, Prometheus, Grafana, Sentry, Qase"
+}

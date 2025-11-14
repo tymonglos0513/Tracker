@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Technical Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Technical Engineer with 13+ years of experience in developing SaaS solutions and high-performance applications, particularly within healthcare and financial sectors. Proficient in **JavaScript**, **Python**, and **C#**, with strong skills in SQL and APIs to create robust backend systems. Demonstrated expertise in managing version control using **Git** and overseeing the development lifecycle with tools like **JIRA**.\n\nHands-on experience in deploying scalable cloud infrastructures on **AWS**, **Azure**, and **GCP**. Knowledgeable in networking and security protocols, ensuring compliant and secure applications aligned with industry standards such as HIPAA and PCI DSS. Proven ability to implement and optimize CI/CD pipelines for efficient development workflows.\n\nExceptional analytical skills and adaptability, complemented by effective time management and customer-focused project delivery. A solid foundation in technical documentation enhances collaboration and knowledge sharing among teams.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Technical Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Leveraged **Python** and **JavaScript** to design and build **SaaS** full-stack platforms for healthcare and fintech, ensuring compliance with industry regulations (HIPAA, FHIR, GDPR, PCI DSS, SOX).\nDeveloped user-friendly applications for iOS and Android using **Flutter** and **React Native**, integrating native modules and managing state with Redux to enhance secure, real-time user interactions for **9,000+** users.\nCreated comprehensive CI/CD pipelines utilizing **Fastlane** and **App Center** for mobile development, incorporating automated testing, release workflows, and crash analytics with **Firebase Crashlytics** and **Sentry** for improved deployment efficiency.\nTransformed legacy systems into modern microservices architectures employing **Docker**, **Kubernetes (AKS/EKS)**, and **AWS Lambda** for seamless, scalable deployments, achieving a **30%** reduction in system downtime.\nEngineered and maintained robust data infrastructure using **PostgreSQL**, **MongoDB**, and **GraphQL**, enabling support for heavy data ingestion and real-time analytics for health and finance sectors.\nDeployed **ML models** for risk scoring and fraud detection using **scikit-learn**, **PyTorch**, and **TensorFlow**, with real-time backend inference integrated into production systems, doubling processing speed.\nImplemented **MLOps workflows** using **MLflow**, **DVC**, and **Airflow**, overseeing model training, validation, and deployment across diverse environments, resulting in a **15%** increase in deployment efficiency.\nIntegrated AI-driven features in frontend applications, such as personalized dashboards and predictive alerts, powered by models hosted on **Azure ML** and **AWS Sagemaker**, enhancing user engagement by **25%**.\nBuilt durable DevOps pipelines with **GitHub Actions**, **CircleCI**, and **Azure DevOps**, ensuring thorough test automation and security checks across multi-environment deployment workflows.\nDeveloped advanced data visualization tools using **D3.js** and **Power BI Embedded**, facilitating real-time analysis of key performance indicators in finance and fraud detection.\nCollaborated with ML teams to deploy NLP models (utilizing **spaCy** and **Hugging Face Transformers**) for document parsing and anomaly detection, exposed through secured REST APIs, improving document processing time by **20%**.\nDefined rigorous testing strategies across the stack using **Jest**, **Cypress**, and **PyTest** to cover unit, integration, E2E, and contract-level tests, ensuring software reliability.\nEnhanced search functionality with **Azure Cognitive Search** and **Elasticsearch**, optimizing query performance for structured and unstructured datasets, improving search response times by **40%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Employed **AWS** and **Azure** cloud services to modernize core financial platforms by migrating to microservices architecture utilizing **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\n• Leveraged **JavaScript** frameworks such as **React** (18), **Vue 3**, and **Next.js** to build interactive front-end applications, creating sleek, responsive interfaces for financial tools and admin panels through **TypeScript**, **Redux Toolkit**, and **Tailwind CSS**.\n• Developed and delivered real-time analytics dashboards using **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies, boosting efficiency by **30%**.\n• Designed and deployed a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance processes, reducing latency by **25%**.\n• Created ETL pipelines for ingesting financial data from internal and third-party sources utilizing **Python**, **Apache Airflow**, and **Azure Data Factory**, accommodating both batch and real-time processing, enhancing data processing speed by **40%**.\n• Built and deployed machine learning models for fraud detection leveraging **scikit-learn**, **XGBoost**, and **Azure ML**, facilitating proactive detection of suspicious activity based on user behavior and transaction patterns, improving detection rates by **15%**.\n• Formulated ML pipelines for real-time credit scoring, churn prediction, and transaction classification by integrating **MLflow** and **Airflow** into backend services, optimizing model inference and overall platform responsiveness."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Developed and optimized scalable backend services for SaaS applications utilizing **Python** (FastAPI, Django) and **JavaScript** (Node.js - NestJS, Express) ensuring robust performance and low latency across all deployments.\n- Designed and implemented RESTful APIs to support various integrations and enhance system interoperability while ensuring secured data transactions and communication.\n- Managed source control using **Git** for version control, facilitating seamless collaboration across cross-functional teams and improving overall project efficiency.\n- Worked with cloud platforms like **AWS**, **Azure**, and **GCP** to design, deploy, and maintain cloud solutions for diverse SaaS offerings, ensuring high availability and cost-efficiency.\n- Conducted technical documentation and project management ensuring clarity and alignment with stakeholder requirements using **JIRA** for effective tracking and issue resolution.\n- Applied **SQL** databases alongside NoSQL solutions (MongoDB, PostgreSQL) for efficient data handling in high-traffic environments, enhancing database performance by up to **30%**.\n- Ensured robust security measures through **role-based access control (RBAC)** and **OAuth 2.0** integration, maintaining compliance with **GDPR** standards and protecting sensitive data across the SaaS platform.\n- Leveraged analytical skills to troubleshoot and devise innovative solutions to technical challenges, improving system uptime from **95%** to **99.9%**.\n- Maintained strong customer focus by adapting solutions to meet user needs, demonstrating exceptional adaptability in dynamic project landscapes and tight timelines.\n- Implemented effective time management strategies, prioritizing tasks to ensure successful project deliverables within proposed deadlines and requirements.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Java, JavaScript, C#, SQL\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPI\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\tGCP\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, GCP\n\n**Other:**\n\tSaaS, Salesforce, JIRA, Networking, Security, Technical Documentation, Project Management, Customer Focus, Analytical Skills, Adaptability, Time Management",
+  "apply_company": "Sovos"
+}

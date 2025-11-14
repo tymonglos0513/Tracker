@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Golang Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Golang Engineer with 13+ years of experience delivering high-performance applications in healthcare and financial industries. Proficient in **GoLang**, with a strong background in **AWS**, **Docker**, **microservices**, and orchestration using **AWS SQS** and **Kafka**. Skilled in utilizing **CI/CD** tools such as **Jenkins** and version control with **Git**. Demonstrated expertise in both NoSQL and SQL databases, ensuring efficient data management and retrieval.\nAdditionally, experienced in backend development using **Python**, and implementing infrastructure as code (IaaC) strategies with **Terraform** and **AWS CDK**. Proven track record in building AI/ML-powered platforms leveraging **Python** along with strong foundational skills in event-driven architectures and compliance-driven development aligned with standards such as HIPAA and PCI DSS.\nAdept in using advanced technologies to drive automation and real-time processing, ensuring high-quality and compliant solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed microservices architectures using **GoLang** and **Docker**, transforming legacy systems to enhance performance and scalability.\n- Implemented CI/CD pipelines with **Jenkins** and **Git**, automating build, test, and deployment processes for over **20** services.\n- Managed cloud infrastructure using **AWS CDK** and **Terraform** for provisioning resources as code, achieving deployment times reduced by **30%**.\n- Designed and maintained databases with **NoSQL** and **SQL** technologies, ensuring efficient data handling and storage for applications handling **1M+** daily transactions.\n- Integrated message queues with **Kafka** and **RabbitMQ**, facilitating asynchronous communication between microservices, improving system reliability and performance.\n- Employed **AWS SQS** for scalable task processing and managing distributed workloads, handling peaks in data processing.\n- Collaborated with cross-functional teams to standardize best practices in microservices development and deployment, leading to a **25%** reduction in rollbacks.\n- Conducted code reviews and implemented robust testing strategies using **Git** and continuous integration tools, ensuring high code quality and reliability.\n- Developed application monitoring and logging solutions with **Docker**, enabling real-time tracking of application performance and quick issue resolution.\n- Facilitated integration of security protocols and compliance measures in applications to meet industry standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **GoLang** to develop and maintain microservices architecture, ensuring high availability and scalability in financial applications.\nEmployed **Docker** for containerization of applications, facilitating seamless deployment across various environments and enhancing workflow efficiency.\nImplemented continuous integration and deployment (CI/CD) pipelines using **Jenkins**, streamlining the release process and reducing deployment times by **30%**.\nDesigned and managed data storage solutions with **NoSQL** and **SQL** databases, optimizing data retrieval processes and ensuring seamless data consistency across microservices.\nDeveloped robust messaging queues for asynchronous processing with **Kafka** and **RabbitMQ**, improving system performance for over **200,000** concurrent transactions daily.\nLeveraged **AWS** services for cloud infrastructure management, including **AWS SQS** for message queuing and **AWS CDK** for infrastructure as code (IaaC) to automate deployments.\nCollaborated with cross-functional teams using **Git** for version control, ensuring code integrity and facilitating code reviews and collaboration.\nCreated and maintained documentation for system architecture and workflows, enhancing team onboarding and project knowledge sharing.\nOptimized system performance through effective monitoring and troubleshooting strategies, achieving a response time improvement of **40%** under high load conditions."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Develop and optimize microservices-based architectures using **GoLang** to ensure high availability and scalability for e-commerce platforms.\nLeverage **AWS** services, implementing solutions that include **Docker** containers for efficient deployment and orchestration through **AWS CDK** and **Terraform**, achieving rapid infrastructure provisioning.\nDesign and maintain backend services utilizing **Python** as needed, while ensuring integrations with **Kafka** and **RabbitMQ** for seamless message-driven communication across services.\nUtilize **NoSQL** databases like MongoDB and **SQL** databases such as PostgreSQL for robust data management and storage solutions to support high-traffic workloads, achieving at least a **30%** improvement in response times.\nImplement CI/CD pipelines using **Jenkins** and **Git** for continuous integration and deployment strategies, improving release cycles by over **40%**.\nArchitect and develop solutions with AWS SQS for reliable messaging between distributed services, enhancing fault tolerance and scalability.\nCreate secure and optimized RESTful APIs adhering to best practices in security and performance, supporting a **30%** increase in API throughput.\nIntegrate caching strategies using **Redis** for efficient data retrieval and enhanced application performance, decreasing load times by **20%**.\nDevelop and maintain microservices that support diverse business functions, promoting a culture of agility and innovation within cross-functional teams.\nImplement role-based access control (RBAC) and workflows with an emphasis on security protocols for user data protection, ensuring GDPR compliance."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, GoLang\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tKafka, RabbitMQ, AWS SQS\n\n**Serverless and Cloud Functions:**\n\tAWS Lambda\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, NoSQL, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, Git, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, AWS CDK, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMicroservices, MLflow, Airflow, Kubeflow, Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "IDT Corporation"
+}

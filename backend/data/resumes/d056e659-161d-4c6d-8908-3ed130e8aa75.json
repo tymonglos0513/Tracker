@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Data Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Data Engineer with over 10 years of experience in delivering high-performance data solutions. Proficient in **Python**, **Scala**, and **SQL**, with a strong command of working with data frameworks like **Spark** and cloud data platforms such as **Snowflake**. Highly skilled in building and deploying cloud-native applications on **Azure** and **AWS**, and experienced in implementing CI/CD pipelines and Infrastructure as Code (**IaC**) to enhance deployment efficiency. Demonstrated expertise in using **DBT** for data transformation and leveraging both **NoSQL** and SQL databases to optimize performance and scalability.\n\nExperienced in designing robust testing strategies, including **Unit Testing** and **Integration Testing**, to ensure high data quality and reliability. Additionally, brings a solid background in developing enterprise platforms that support data analytics by embedding AI/ML capabilities. Passionate about creating solutions that balance technical excellence with practical impact, driving data-driven decision-making in healthcare and finance.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and developed robust data pipelines and ETL processes using **Python**, **SQL**, and **NoSQL** databases for large-scale data ingestion and transformation in the healthcare and finance sectors.\n• Implemented **CI/CD** practices utilizing **Azure DevOps** and **GitHub Actions** to automate deployment and monitoring of data engineering workflows, ensuring reliability and efficiency in production.\n• Ensured high data quality and reliability through rigorous **Unit Testing** and **Integration Testing** processes, covering over **95%** of the codebase with automated tests.\n• Built and managed cloud-based data warehouses using **Snowflake** and **Azure**, optimizing data storage and retrieval times by an average of **30%**.\n• Leveraged **Scala** and **Spark** for large-scale data processing and transformation, enabling real-time analytics on streaming data with execution times reduced by **40%** compared to previous methods.\n• Utilized **DBT** (Data Build Tool) for data modeling and analytics, fostering collaboration across teams and improving the data reporting speed and accuracy by **25%**.\n• Established and implemented Infrastructure as Code (**IaC**) practices with **Terraform** and **CloudFormation**, enhancing deployment efficiency and version control for cloud resources.\n• Collaborated with cross-functional teams to define data requirements and create a comprehensive data catalog, driving data accessibility across the organization.\n• Conducted performance tuning and optimization on existing data solutions, leading to significant improvements in processing speeds and resource utilization."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Developed robust data pipelines leveraging **Python**, **SQL**, and **NoSQL** to ensure efficient data orchestration and storage solutions critical for high-volume transaction systems.\nImplemented CI/CD practices using tools for automated deployment and testing, enhancing the overall development lifecycle and software reliability by **30%**.\nManaged cloud-based data solutions using **Azure** and **AWS**, optimizing data storage and retrieval processes, leading to a **25%** increase in query performance.\nDesigned and maintained data transformation workflows using **DBT** and **Spark**, supporting seamless integration with **Snowflake** for advanced analytics.\nConducted unit testing and integration testing to validate data integrity and performance, ensuring system reliability and adherence to industry standards with a test coverage of **90%**.\nCollaborated with cross-functional teams to implement Infrastructure as Code (**IaC**) solutions, streamlining deployment processes and reducing provisioning times by **40%**.\nConfigured data storage and processing systems to support scalable data solutions, including event-driven architectures utilizing tools like **Apache Kafka** and **RabbitMQ** for real-time processing.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** for data processing and ETL workflows, ensuring high efficiency and accuracy in handling large datasets for a scalable data architecture.\nDeveloped and optimized data pipelines using **AWS** and **Azure** services, ensuring seamless integration and deployment across cloud environments with **CI/CD** practices.\nDesigned and implemented robust data modeling and transformation strategies utilizing **Snowflake** and **DBT**, enhancing data accessibility for analytics and reporting needs.\nManaged both **SQL** and **NoSQL** databases, ensuring reliable and fast access to high-volume transactional data while tuning performance for critical data workflows.\nConducted unit testing and integration testing for data solutions to maintain high-quality standards and minimize errors in production environments, achieving a resolution rate of over **95%** for reported issues.\nEstablished Infrastructure as Code (IaC) practices using **Terraform** and **CloudFormation** to streamline the deployment process and ensure consistency across development stages.\nCollaborated with cross-functional teams to understand data requirements and deliver intuitive data solutions that improved query performance by up to **30%**.\nLeveraged **Scala** and **Spark** for advanced data processing tasks, effectively handling big data applications, achieving processing times reduced by **40%**.\nImplemented best practices in data security, including role-based access control (RBAC) and data encryption, ensuring compliance with GDPR and other regulatory standards across all data handling processes."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Scala\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript, TypeScript, React, Vue, Angular\n\n**API Technologies:**\n\tNoSQL\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Snowflake, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tCI/CD, IaC\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Unit Testing, Integration Testing, DBT",
+  "apply_company": "Plain Concepts"
+}

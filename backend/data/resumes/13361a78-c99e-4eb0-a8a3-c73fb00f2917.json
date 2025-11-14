@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Solutions Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Solutions Engineer with over 10 years of experience in developing and deploying robust APIs, including expertise in **REST**, **SOAP**, and **OAuth** protocols along with proficiency in **JSON** and **XML**. Skilled in utilizing **Postman**, **Swagger**, and **OpenAPI** for API documentation and testing. Demonstrated capability in project management and technical consulting, with a solid background in **cloud services** including **AWS**, **Azure**, and **GCP**. Proficient in programming languages such as **Python** (FastAPI, Django, Flask), **JavaScript** (**Node.js**), and **Java**. Noteworthy accomplishments include leading impactful projects at leading organizations like VISA, Sii Poland, and Reply Polska, while also mentoring peers and fostering strong communication within cross-functional teams.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Solutions Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained **REST** and **SOAP** APIs to enhance document automation and user onboarding functionalities, ensuring efficient and scalable operations.\nEngineered secure authentication systems by integrating **OAuth2** and **Azure AD B2C**, supporting **JSON** and **XML** data formats for seamless user management.\nDesigned asynchronous processing frameworks leveraging **Celery** and **Redis**, enabling efficient handling of up to **500** financial transaction requests per minute.\nManaged deployment of microservices on **Azure App Services** and implemented infrastructure as code using **Terraform**, improving deployment speeds by **30%**.\nImplemented data exchange processes using **Apache Airflow** and **Azure Functions** for regulatory compliance, achieving a **99%** success rate for timely data transfer.\nCollaborated with cross-functional teams to troubleshoot system integration issues, resulting in reduced project delivery time by **20%** and improved communication across departments.\nConducted mentoring sessions focusing on best practices in **Solutions Architecture** and **Project Management**, enhancing team capabilities and fostering a culture of continuous improvement."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Designed and developed RESTful APIs using **Python** and **FastAPI** to enhance user onboarding and optimize document workflows.\n• Implemented robust security measures by integrating **OAuth** 2.0 and **Azure AD B2C** for secure authentication and access control management, ensuring compliance with industry standards.\n• Streamlined operational processes with asynchronous **microservices** architecture utilizing **Celery** and **Redis** for processing financial data and transaction requests, achieving a 30% reduction in processing time.\n• Managed and deployed scalable microservices on **Azure App Services** leveraging **Terraform** for infrastructure automation, maintaining consistent environments across **3** separate production instances.\n• Developed and orchestrated data pipelines for regulatory data management using **Apache Airflow** and **Azure Functions**, effectively handling **over 100** data transactions per minute.\n• Engaged with cross-functional teams to facilitate smooth integrations, ensuring regulatory compliance and contributing to successful release management processes with **75%** on-time delivery.\n• Utilized tools such as **Postman**, **Swagger**, and **OpenAPI** for API design and testing, enhancing debugging efficiency and reducing error rates during integration phases.\n• Provided technical consulting and mentorship to junior team members, leading to an improvement in team productivity by **20%** through effective knowledge sharing."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed and implemented robust **REST APIs** using **Python** and **Flask**, enhancing data delivery for trading operations and ensuring seamless user experiences across platforms.\nEngineered efficient backend services for trade execution, portfolio management, and account tracking with **PostgreSQL**, contributing to an increase in operational efficiency by **30%**.\nCollaborated with cross-functional teams to integrate **WebSocket** channels, enabling real-time communication and improving transaction speeds for high-frequency trading by **50%**.\nEnsured compliance with regulatory frameworks such as **MiFID II** and **GDPR**, while maintaining strict adherence to internal data security protocols, reducing the risk of breaches to **zero** incidents.\nImplemented robust testing environments with tools like **PyTest** and **tox**, which improved code quality and reduced bug rates by **40%**.\nIntroduced job queuing and scheduling solutions utilizing **Celery** and **RabbitMQ**, resulting in a **25%** improvement in task execution times and process management efficiencies.\nUtilized various tools for API integration and documentation, including **Postman**, **Swagger**, and **OpenAPI**, facilitating better communication and understanding of API functionalities across teams.\nProvided technical consulting and solutions architecture guidance while mentoring junior developers, fostering a culture of knowledge sharing and enhancing team skill sets."
+    }
+  ],
+  "skills": "**API Technologies**\n\tAPI, REST, SOAP, OAuth, JSON, XML, Postman, Swagger, OpenAPI, Workato, Mulesoft, Zapier\n\n**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript, Node.js, Java\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, GCP\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\t\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Microservices, Kafka, PyTest, Git, Project Management, Technical Consulting, Solutions Architecture, Mentoring, Communication",
+  "apply_company": "Talon.One"
+}

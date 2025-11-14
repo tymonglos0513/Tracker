@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior SRE Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior SRE Engineer with over 10 years of experience in software development and DevOps practices, skilled in **Linux**, **Terraform**, **SaltStack**, **Jenkins**, and observability tools such as **Prometheus** and **Grafana**. Proficient in building and automating high-performing backend systems, with a strong foundation in **Python** for creating robust services and APIs. Demonstrated success in managing configuration and automation processes to enhance system reliability and performance for high-stakes projects at leading organizations like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SRE Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Leveraged **DevOps** methodologies to enhance system reliability and performance metrics across diverse environments.\nEngineered backend services in **Python** using **FastAPI**, optimizing document automation and reporting workflows with a **60%** improvement in processing speed.\nUtilized **Terraform** for infrastructure as code to deploy microservices on **Azure App Services**; automated deployments resulting in **99.9%** uptime.\nDeveloped event-driven solutions with **Celery** and **Redis**, improving asynchronous processing for financial transactions by processing requests in under **300ms**.\nCreated and maintained data pipelines integrating **Apache Airflow** and **Azure Functions**, ensuring timely data flow for regulatory reporting with an **85%** reduction in manual processing.\nLed security assessments, implementing **OAuth2** and **Azure AD B2C** for robust authentication systems, enhancing security compliance across platforms.\nImplemented monitoring and observability using **Prometheus** and **Grafana** to track system performance, achieving an effective **SLO** of **99.7%**.\nCollaborated with cross-functional teams to tackle system integrations and drive release strategies, ensuring all deployments met compliance standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Implemented **DevOps** practices by utilizing **Terraform** for infrastructure automation and efficient deployment of microservices on **Azure App Services**, achieving a 30% reduction in deployment times.\n• Developed and maintained scalable backend systems in **Python** and **FastAPI**, enhancing document workflows and user onboarding processes affecting **over 500** users monthly.\n• Built and managed event-driven microservices with **Celery** and **Redis**, enabling efficient asynchronous processing of financial data and transaction requests with a ** throughput of 20,000 transactions per minute**.\n• Designed data pipelines for secure regulatory data exchange using **Apache Airflow** and **Azure Functions**, automating processes that reduced manual data handling efforts by **40%**.\n• Conducted thorough security audits to ensure compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for robust authentication and secure access controls.\n• Collaborated effectively with cross-functional teams, ensuring smooth system integration, regulatory compliance, and successful release management through **Jenkins** and **SaltStack** automation tools."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Linux** systems to ensure robust application deployment and management in a cloud environment.\nImplemented **DevOps** practices to enhance collaboration between development and operations, achieving a **30%** reduction in deployment times.\nDeveloped backend services for trade execution using **Python**, ensuring high availability and reliability within the infrastructure.\nAutomated infrastructure provisioning and management using **Terraform**, facilitating consistent environments across **3** major deployments.\nIntroduced configuration management and **automation** solutions with **SaltStack**, resulting in a **25%** decrease in manual configuration errors.\nUtilized **Jenkins** to streamline CI/CD pipelines, boosting deployment frequency by **40%** with automated testing and integration processes.\nMonitored application performance and reliability using **Prometheus** and **Grafana**, ensuring adherence to predefined SLOs and improving observability by **50%**.\nDeveloped and maintained comprehensive test suites with **PyTest**, integrating with **QA** processes to enhance code quality and deployments.\nEnsured the infrastructure supported real-time data processing needs, optimizing backend task execution using **Celery** and **RabbitMQ** for effective process management."
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python, SQL, Bash, JavaScript\n\n **Backend Frameworks**\n\t FastAPI, Flask, Django, Celery\n\n **Frontend Frameworks**\n\t \n\n **API Technologies**\n\t REST/gRPC APIs, Microservices\n\n **Serverless and Cloud Functions**\n\t AWS (EC2, S3, Lambda), Azure\n\n **Databases**\n\t PostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps**\n\t Docker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins, Prometheus, Grafana, Terraform, SaltStack, CI/CD, Automation, Configuration Management, Observability, SLO\n\n **Cloud & Infrastructure**\n\t \n\n **Other**\n\t AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Git",
+  "apply_company": "Akamai Technologies"
+}

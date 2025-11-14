@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Golang Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Golang Engineer with 8 years of full-stack development expertise, specializing in **Golang**, **microservices**, and **event-driven** architectures. Proven track record of building and deploying high-performance applications in fast-paced environments, with a strong emphasis on **AWS**, **Docker**, and **Kubernetes** for scalable solutions. Proficient in implementing CI/CD pipelines to streamline development processes and enhance efficiency. Skilled in utilizing databases, particularly **SQL**, and leveraging **React** and **Next.js** for front-end development, ensuring a seamless user experience.\n\nDeeply experienced in agile methodologies and best practices, I have successfully led the design and deployment of platforms that integrate advanced features such as **CQRS** and **Elasticsearch** for optimized data handling. Committed to delivering robust, secure, and compliant solutions, I bring a unique combination of technical acumen and leadership ability, driving projects to successful completion with innovative solutions.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained microservices architecture utilizing **Golang** to enhance system scalability and robustness in healthcare and finance applications.\n• Implemented event-driven systems and applied CQRS principles to ensure efficient data processing and reporting in real-time scenarios.\n• Leveraged **AWS** services to deploy and manage cloud-native solutions, ensuring high availability and cost efficiency across 100% of the production environments.\n• Spearheaded containerization efforts using **Docker** and orchestrated deployments via **Kubernetes** to streamline the CI/CD processes, improving deployment efficiency by **30%**.\n• Collaborated in an Agile team environment to deliver features using front-end technologies like **React** and **Next.js** for dynamic user interfaces, focusing on responsiveness and user experience for both healthcare and fintech applications.\n• Designed and optimized relational databases with **SQL** for high-performance data storage and retrieval, achieving average query response times of under **200ms**.\n• Integrated **Elasticsearch** for advanced search functionalities, enabling rapid and efficient information retrieval across extensive datasets with up to **1 million** documents.\n• Implemented rigorous CI/CD pipelines aligned with best practices, reducing the time for code deployments by **40%** and improving rollback procedures for enhanced stability.\n• Conducted code reviews and maintained adherence to secure coding standards, reducing vulnerabilities by **50%** in the system architecture.\n• Actively participated in sprint planning and retrospectives, contributing to continuous improvement of team processes and overall project workflow."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Golang** to build and enhance microservices, contributing to a scalable architecture that supports high-volume transaction processing.\nDesigned and developed event-driven systems utilizing **Kafka**, **RabbitMQ**, and **AWS** services to facilitate asynchronous communication and ensure real-time data processing.\nImplemented **CQRS** principles to optimize data retrieval and write operations in financial applications, improving transaction throughput by **30%**.\nDeployed applications using **Docker** and orchestrated container management with **Kubernetes**, enhancing deployment efficiency and scalability.\nEmployed CI/CD pipelines to ensure seamless integration and delivery processes, reducing deployment times by **40%**.\nDeveloped user-centric front-end applications with **React** (18) and **Next.js**, applying modern practices with **ElasticSearch** for advanced search capabilities in financial dashboards.\nApplied Agile methodologies for project management, fostering effective collaboration and iterative development to deliver features in bi-weekly sprints.\nOptimized SQL queries to improve database performance, achieving a query response time reduction from **2.5s** to **500ms**.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Engineered and optimized backend microservices using **Golang** for a global e-commerce platform, ensuring high availability, low latency, and scalability in accordance with Agile methodologies.\nDesigned event-driven architectures leveraging **Kafka** and **RabbitMQ** to support real-time features, such as responsive order updates and dynamic inventory tracking, enhancing user experience across **9** key modules including checkout and order fulfillment.\nImplemented **CI/CD** pipelines for seamless deployment and integrated containerization with **Docker** and **Kubernetes**, improving development efficiency and reliability of application rollouts.\nDeveloped robust SQL databases, ensuring fault-tolerant data access and optimized performance for high-traffic e-commerce workflows.\nCreated engaging frontend applications with **React**, **Next.js**, and accompanying libraries, ensuring mobile-first, responsive designs that comply with accessibility standards (WCAG 2.1).\nActively applied **CQRS** patterns to separate read and write workloads, optimizing performance and scalability of data processing in critical applications.\nIntegrated search capabilities using **Elasticsearch**, enhancing product visibility and search relevance, which contributed to improved conversion rates on the platform.\nUtilized **AWS** cloud services to enhance infrastructure scalability and reliability, contributing to a **30%** faster deployment cycle through efficient resource management.\nMaintained security standards by implementing role-based access control (RBAC) and OAuth 2.0 to ensure GDPR compliance and user data protection across applications.\nCollaborated with cross-functional teams in **Agile** sprints to enhance features and mitigate risks, ensuring a user-centric approach to development and continuous improvement."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Golang\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Microservices, Event-driven, CQRS\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript, React, Vue, Angular, Next.js\n\n**API Technologies:**\n\tREST, GraphQL\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, Elasticsearch\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Agile",
+  "apply_company": "Globaldev Group"
+}

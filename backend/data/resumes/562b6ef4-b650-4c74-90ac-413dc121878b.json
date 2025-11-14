@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Lead DevOps Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Lead DevOps Engineer with 9+ years of experience in implementing robust cloud infrastructure and deployment pipelines. Proficient in **AWS**, **Terraform**, **Docker**, **GitHub Actions**, and **CloudWatch**, ensuring high availability and scalability of applications. Expertise in **ECS**, **RDS**, **ElastiCache**, **Lambda**, **ALB**, **WAF**, **S3**, **CloudFront**, and **EventBridge** for seamless microservices management. Hands-on experience with monitoring and incident management using **Datadog**, **Sentry**, and **PagerDuty**. Skilled in CI/CD practices and modern cloud strategies including **GCP**, **Azure**, and **Alibaba Cloud**. Strong focus on **zero-trust networking**, **threat modeling**, and **security hardening** to enhance system security. Excellent communication and leadership abilities to guide cross-functional teams towards successful project outcomes. Proven track record of delivering efficient solutions by streamlining development processes and optimizing performance.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Lead DevOps Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Managed and optimized deployment processes using **GitHub Actions** and **CI/CD** strategies, enhancing deployment frequency by **40%**.\nImplemented infrastructure as code (IaC) using **Terraform** to provision cloud resources efficiently across various providers including **AWS** and **GCP**.\nDesigned containerized solutions using **Docker**, resulting in streamlined development environments and quicker onboarding of new team members by **30%**.\nConducted security hardening and threat modeling, ensuring compliance with **zero-trust networking** principles and reducing vulnerabilities across systems.\nLeveraged monitoring tools like **Datadog** and **Sentry** to manage application performance and address incidents with an average response time improvement of **25%**.\nCoordinated incident response strategies using **PagerDuty**, ensuring critical issues were resolved within **1 hour** of detection.\nEnhanced cloud service usage by integrating **Amazon RDS** and **ElastiCache** for data management and caching, respectively, leading to a **35%** improvement in application response times.\nUtilized **AWS Lambda** and **EventBridge** for serverless architecture implementation, improving resource management and cost efficiency by **20%**.\nExecuted data pipelines utilizing **Databricks** for efficient data processing and analytics, enabling timely decision-making across the organization.\nCollaborated with cross-functional teams to establish security protocols and best practices for application deployment in various cloud environments, ensuring a robust security posture."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "• Implemented and optimized **AWS** services such as **EC2**, **RDS**, and **ElastiCache** to enhance cloud infrastructure efficiency by **20%**.\n• Designed and deployed **Docker** containers to streamline application deployment processes, reducing downtime by **15%**.\n• Created and maintained **Terraform** scripts for infrastructure as code, resulting in consistent and repeatable deployments across environments.\n• Led the implementation of **CI/CD** pipelines using **GitHub Actions**, which decreased deployment times by **30%**.\n• Developed monitoring and alerting solutions using **Datadog**, **Sentry**, and **CloudWatch** to proactively identify and resolve incidents, enhancing system reliability.\n• Managed and optimized databases including **RDS** and **MSSQL**, improving query performance by leveraging optimized indexes and techniques.\n• Resolved production incidents promptly through **PagerDuty** protocols, minimizing downtime and maintaining service availability.\n• Collaborated with development teams to define security measures, including **zero-trust networking** and **threat modeling**, ensuring robust security hardening practices.\n• Conducted detailed architectural discussions focusing on **AWS Lambda** and **EventBridge** for serverless computing solutions to boost scalability.\n• Mentored junior engineers on best practices for DevOps methodologies and effective communication, resulting in improved team cohesion and productivity."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Leading the implementation of **AWS** and **Azure** cloud services to enhance infrastructure capabilities, achieving a system uptime of **99.9%**.\nUtilizing **Docker** for containerization, improving application scalability and deployment times by **30%**.\nDeveloping CI/CD pipelines using **GitHub Actions**, reducing deployment failures by **25%**.\nImplementing monitoring solutions with **Datadog** and **CloudWatch** to oversee system performance and response times.\nOrchestrating infrastructure as code practices with **Terraform**, increasing deployment efficiency and consistency across environments.\nResponding to incidents and employing **PagerDuty** for streamlined communication during outages, cutting response time to under **15 minutes**.\nEnhancing security posture through **security hardening** and **zero-trust networking** strategies, minimizing vulnerabilities within the system.\nCollaborating with cross-functional teams to ensure alignment on project goals and security measures through effective **communication**.\nManaging database services on **RDS** and caching technologies like **ElastiCache** to optimize data retrieval and application responsiveness.\nLeading workshops and training sessions on **DevOps** best practices, improving overall team competencies and integration with **GCP** tools.\n"
+    }
+  ],
+  "skills": " **Programming Languages**\n\t Python, JavaScript, TypeScript\n\n **Frontend Frameworks**\n\t ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n **Backend Frameworks**\n\t NodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n\n **API Technologies**\n\t RESTful API, GraphQL\n\n **Serverless and Cloud Functions**\n\t AWS Lambda, Azure Functions\n\n **Databases**\n\t MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB\n\n **DevOps**\n\t AWS, Azure, CI/CD pipelines, Terraform, Docker, GitHub Actions, Datadog, Sentry, PagerDuty, CloudWatch, ECS, RDS, ElastiCache, EventBridge, CI/CD\n\n **Cloud & Infrastructure**\n\t AWS, GCP, Alibaba Cloud, CloudFront, Vercel, SST, CDK\n\n **Other**\n\t UX/UI Design, Git, GitHub, Redux, NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Blockchain, Solidity, Ether.js, Web3.js, Ethereum, VPN, zero-trust networking, threat modeling, security hardening, incident response, communication"
+}

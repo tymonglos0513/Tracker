@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Python Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a proficient **Senior Python Software Engineer** with 8 years of experience, I bring extensive expertise in **Python**, **FastAPI**, **Docker**, **Kubernetes**, and **AWS**, driving high-performance solutions particularly in healthcare and financial sectors. My deep knowledge of **microservices** architecture and tools such as **REST**, **gRPC**, and **OpenAPI** forms the backbone of the scalable applications I develop. I leverage **CI/CD** practices, utilizing tools like **GitHub Actions**, and I am familiar with infrastructure as code using **Terraform** and **CDK** for efficient deployment practices.\n\nI also integrate cutting-edge concepts of **Machine Learning**, including **GenAI**, and I have hands-on experience with frameworks like **LangChain** and **LangGraph** to enhance application functionality. Throughout my career, I have successfully led teams in conducting thorough **code reviews** and implemented rigorous testing protocols to ensure quality and compliance with industry standards. My established track record in delivering enterprise-grade platforms is complemented by my proficiency in deploying applications aligned with regulations such as HIPAA and PCI DSS, ensuring robust security and reliability.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed scalable and robust applications utilizing **Python** and **FastAPI**, focusing on employing **microservices** architecture for optimal performance.\n- Implemented **REST** and **gRPC** APIs for seamless communication between services, ensuring efficient data handling and processing.\n- Leveraged **Docker** and **Kubernetes** for containerization and orchestration, enhancing deployment efficiency and reliability across **9** different environments.\n- Designed and maintained **CI/CD** pipelines using **GitHub Actions**, improving build and release processes and facilitating rapid iteration.\n- Collaborated on **Machine Learning** projects for predictive modeling and analytics, applying concepts from **GenAI** and **LangChain** to deliver intelligent insights.\n- Conducted **code reviews** and established best practices to uphold code quality and foster team collaboration across **3** different project teams.\n- Implemented comprehensive testing strategies including unit, integration, and regression testing using frameworks like **pytest** to ensure robustness of applications.\n- Managed infrastructure as code using **Terraform** and **CDK**, allowing for easier environment setup and maintenance through version-controlled configurations.\n- Led the development of real-time data processing features, achieving a throughput increase of **25%** across applications serving financial data.\n- Facilitated documentation of APIs using **OpenAPI**, ensuring clear communication and consistency across service endpoints."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to architect scalable microservices, enhancing system performance for high-volume transaction environments by **40%**.\nImplemented **REST** and **gRPC** APIs for seamless integration between microservices, facilitating smooth data flow and ensuring robust communication across services.\nAdopted **Docker**, **Docker Compose**, and **Kubernetes** for containerization and orchestration of applications, improving deployment efficiency by **70%** and reducing environment discrepancies.\nIntegrated **AWS**, **Terraform**, and **CDK** for infrastructure as code, enabling automated provisioning of resources that led to a **50%** reduction in deployment time.\nConducted thorough **code reviews** and implemented rigorous **testing** procedures to ensure code quality and reliability across financial applications.\nDeveloped and deployed machine learning models using **scikit-learn** and **GenAI**, significantly enhancing fraud detection systems, allowing for the identification of suspicious activities with a **95%** accuracy rate.\nLeveraged **CI/CD** with **GitHub Actions** to establish automated testing and deployment pipelines, streamlining the development workflow and reducing release cycles by **30%**.\nCollaborated on projects using **LangChain** and **LangGraph** to innovate in generative AI solutions, improving user engagement on platforms through intelligent functionalities."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed microservices architecture for a global e-commerce platform utilizing **Python** (FastAPI) and **Docker**, ensuring efficient RESTful APIs and gRPC communication for service interaction.\nDesigned CI/CD pipelines with **GitHub Actions** to automate deployments on **AWS** and optimize development workflows, achieving a reduction in deployment time by **40%**.\nEngineered scalable backend services while implementing **Kubernetes** for orchestration, managing numerous containers and services efficiently to ensure reliability and resource allocation.\nIntegrated **Machine Learning** techniques to enhance order prediction and customer insights, contributing to conversion rate improvements by **25%**.\nConducted thorough code reviews and implemented best practices to maintain high-quality standards in technical documentation and adherence to **OpenAPI** specifications.\nUtilized **Terraform** and **CDK** for infrastructure as code, ensuring declarative infrastructure management and seamless environment provisioning.\nBuilt third-party integrations with **GenAI**, **LangChain**, and **LangGraph** to enhance user engagement and dynamic content generation based on user behavior.\nEmployed **Docker Compose** for local development and testing, streamlining the development setup and reducing onboarding time for new developers by **30%**.\nActively participated in testing and debugging processes, ensuring high-performance standards while improving system resilience against failures.\nExecuted rigorous testing of microservices to ensure functionality and reliability prior to production releases, adhering to agile methodologies and timelines."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\tREST, gRPC, OpenAPI\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Docker Compose, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), CDK\n\n **Other:**\n\tMicroservicios, Machine Learning, GenAI, LangChain, LangGraph, code reviews, testing, Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot)"
+}

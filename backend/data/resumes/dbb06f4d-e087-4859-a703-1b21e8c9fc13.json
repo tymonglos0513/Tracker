@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Quality Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a skilled Senior Quality Engineer with 8 years of experience, I possess expertise in **AWS**, **Kubernetes**, **CloudWatch**, and **Prometheus**, specifically in optimizing performance and enhancing resilience through effective performance tuning and chaos engineering techniques. My background includes working with modern software development practices and implementing resilient architectures using tools such as **Istio**, **GitOps**, and **Chaos Mesh**.\nI have successfully led initiatives in enterprise-grade platforms enhancing both quality and compliance, ensuring alignment with standards such as HIPAA and PCI DSS. My technical qualifications are complemented by hands-on experience in implementing effective resilience testing strategies, utilizing **Litmus** and **Karpenter** to ensure system robustness. In addition to my technical skills, I excel in integrating **MLOps** workflows, a key advantage in implementing quality measures in ML pipelines. I am dedicated to delivering high-performance solutions within challenging environments while fostering collaboration across teams.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Quality Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implemented **Kubernetes (EKS)** orchestration for containerized applications, enhancing deployment efficiency and system resilience.\n- Conducted **chaos engineering** experiments utilizing **Chaos Mesh** and **Litmus**, proactively identifying vulnerabilities and reinforcing system reliability.\n- Developed monitoring solutions with **AWS CloudWatch** and **Prometheus** to ensure high performance and detect anomalies in real-time, achieving 99.9% uptime across all critical systems.\n- Architected and optimized the application infrastructure with **GitOps** strategy, facilitating consistent deployments and version control for both development and production environments.\n- Employed **Istio** for service mesh management, enhancing security and observability within microservices architecture, reducing service latency by 30%.\n- Executed comprehensive **resilience testing** strategies, achieving resilience benchmarks that exceed industry standards, ensuring strong performance during peak loads.\n- Designed and implemented **performance tuning** techniques that improved application response times by over 25% while minimizing resource usage.\n- Collaborated with cross-functional teams to automate **EKS** deployment processes, significantly reducing release cycles from 2 weeks to 3 days.\n- Monitored system integrity and resolved potential issues through advanced logging, utilizing **HoneyComb** for detailed observability and analytics.\n- Established a culture of continuous improvement through the deployment of performance metrics and feedback loops, contributing to a 40% enhancement in team velocity."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Executed chaos engineering principles to enhance system resilience utilizing tools like **Chaos Mesh** and **Litmus**, increasing system reliability by 30% during peak transaction periods.\n• Designed performance tuning strategies for financial applications deployed on **AWS EKS**, optimizing response times by 25% through enhanced monitoring with **CloudWatch** and **Prometheus**.\n• Implemented GitOps practices to streamline deployment processes, ensuring consistency and predictability across environments and reducing deployment times by **40%**.\n• Utilized **Istio** for managing microservices traffic, facilitating efficient service communication, and enhancing observability and security for all components.\n• Conducted resilience testing across applications on **Kubernetes** to identify and mitigate weaknesses, achieving up to 98% uptime during stress scenarios.\n• Integrated **HoneyComb** for distributed tracing, enabling real-time insights into application performance and user interactions, which decreased latency by 20%.\n• Collaborated with cross-functional teams to ensure seamless integration of quality assurance processes into CI/CD pipelines, promoting faster release cycles with improved defect detection.\n• Developed comprehensive reports and metrics to validate the effectiveness of quality measures, resulting in an enhanced alignment with business objectives by **15%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented **Kubernetes** for container orchestration to ensure scalability and resilience of deployment pipelines, enhancing overall deployment efficiency by **30%**.\nConducted **Resilience Testing** incorporating **Chaos Engineering** principles to evaluate system robustness, resulting in a **25%** reduction in critical failure rates during load spikes.\nUtilized **AWS** services alongside **CloudWatch** for monitoring and alerting, achieving real-time insights into application performance and resource utilization, aiding in **15%** enhancement of system reliability.\nEmployed **Prometheus** for metrics collection and monitoring, enabling proactive performance tuning and fault diagnosis, which contributed to a **20%** improvement in application response times.\nImplemented **GitOps** methodologies that streamlined deployments and rollbacks, reducing release deployment time by **40%**.\nManaged application performance and observability through **HoneyComb**, leading to quick identification of bottlenecks and reducing downtime by **10%**.\nConfigured and maintained **EKS** clusters for running microservices, ensuring high availability and fault tolerance in a cloud environment.\nExecuted performance tuning across various components, including load balancing and database indexing, leading to improved system throughput.\nCollaborated in integration of service meshes with **Istio**, enhancing traffic management and security policies for inter-service communications.\nApplied **Litmus** and **Chaos Mesh** to design and conduct chaos experiments, testing the efficacy of disaster recovery strategies and improving system resilience.\nDesigned continuous feedback loops using **Karpenter** to auto-scale resources based on demand, effectively optimizing cloud expenditures.\nLeveraged expertise in testing frameworks and methodologies to enhance the overall quality assurance processes, fostering a culture of quality-first mindset among development teams."
+    }
+  ],
+  "skills": "**Backend Frameworks:**\n\tPython(FastAPI, Flask, Django)\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, GitOps\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), EKS\n\n**Monitoring & Observability:**\n\tCloudWatch, Prometheus, HoneyComb\n\n**Chaos Engineering:**\n\tChaos Mesh, Litmus, Karpenter, Resilience Testing\n\n**Other:**\n\tAirflow, Kubeflow, MLflow, Nginx, Certbot",
+  "apply_company": "RLDatix"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Operations Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a highly skilled Senior Operations Engineer with 8 years of experience, I excel in leveraging **AWS**, **Terraform**, **Ansible**, **Kubernetes**, and **CI/CD** methodologies to optimize infrastructure and enhance operational efficiency. My expertise in **GitLab**, **Helm**, **ArgoCD**, **Prometheus**, **Grafana**, and **CloudWatch** enables me to implement robust monitoring and incident response strategies that align with security best practices and cost optimization. I have a proven track record of building and managing scalable and resilient infrastructures in compliance with industry standards.\nAdditionally, I come from a strong background as a Full Stack Developer where I focused on crafting high-performance solutions across healthcare and financial sectors using **JavaScript/TypeScript**, **Python**, and **Flutter**. My experience with microservices architecture, event-driven systems, and MLOps workflows using **MLflow**, **Airflow**, and **Kubeflow** further complements my ability to deliver secure applications and infrastructures.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Operations Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implemented **Infrastructure as Code** solutions using **Terraform** and automated deployment processes with **Ansible**, ensuring efficient and consistent infrastructure management.\n- Designed and maintained CI/CD pipelines employing **GitLab** and orchestration tools such as **Helm** and **ArgoCD**, facilitating seamless application deployment and updates across multiple environments.\n- Developed strategies for monitoring and alerting using **Prometheus** and **Grafana**, enabling proactive incident response and performance optimization for operations teams.\n- Applied security best practices across the AWS cloud landscape with **CloudWatch** for incident response and risk management, ensuring operational stability and compliance with industry standards.\n- Managed Kubernetes (v1.21) clusters, optimizing resource allocation and ensuring high availability for applications with **Kubernetes** services, leading to a **20%** reduction in downtime.\n- Conducted cost optimization assessments resulting in **15%** savings on cloud infrastructure, leveraging **AWS** tools to analyze and reduce expenditures.\n- Created detailed documentation and training for team members on best practices for **CI/CD**, **Docker**, and Kubernetes, fostering a culture of continuous improvement and skill development.\n- Collaborated with cross-functional teams to integrate security best practices into all deployment pipelines, achieving a **30%** increase in overall security posture.\n- Developed incident response protocols to quickly address service interruptions, utilizing **AWS** resources to ensure business continuity and minimal downtime.\n- Streamlined the deployment process using a combination of **Terraform** and **Kubernetes**, enabling rapid deployment of applications with a **10x** increase in deployment frequency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented **Infrastructure as Code** using **Terraform** and **Ansible** to automate deployment processes, enhancing operational efficiency by **30%**.\nManaged container orchestration with **Kubernetes** to ensure scalable and resilient application deployment, achieving uptime reliability of **99.9%**.\nDeveloped CI/CD pipelines utilizing **GitLab**, **Helm**, and **ArgoCD** for streamlined release processes, reducing release cycles from **2 weeks** to **3 days**.\nMonitored system performance and operational health with **Prometheus** and **Grafana**, enabling proactive incident response and optimization, leading to a **25%** reduction in critical incidents.\nUtilized **AWS CloudWatch** for centralized logging and performance metrics, enhancing visibility into system operations and facilitating timely responses to issues.\nAdopted security best practices across cloud services to safeguard sensitive data, ensuring compliance with industry standards and minimizing vulnerability exposure by **40%**.\nExecuted cost optimization strategies for AWS resources, resulting in a **15%** reduction in infrastructure costs while maintaining performance criteria.\nCollaborated with cross-functional teams to develop incident response protocols, improving recovery time objectives (RTO) through enhanced communication and systematic troubleshooting processes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented **Infrastructure as Code** practices using **Terraform** and **Ansible** to automate provisioning and management of cloud infrastructure on **AWS**, enhancing operational efficiency and consistency across environments.\nManaged container orchestration with **Kubernetes** to ensure seamless deployment, scalability, and recovery of applications, achieving a **99.9%** uptime across services.\nDesigned and maintained **CI/CD** pipelines using **GitLab**, **ArgoCD**, and **Helm** to facilitate continuous integration and delivery, reducing deployment time by **30%** and enabling faster feature releases.\nMonitored system performance and health using **Prometheus** and **Grafana**, implementing alerting mechanisms to proactively address issues and maintain service reliability.\nManaged cloud resource utilization, applying **cost optimization** techniques and automated scaling to reduce cloud expenses by approximately **25%** while maintaining performance standards.\nImplemented robust **security best practices**, including **role-based access control (RBAC)** and **incident response** protocols to protect access to sensitive infrastructure and data.\nUtilized **AWS CloudWatch** for detailed logging and incident tracking, significantly improving response times to operational incidents and enhancing overall platform stability.\nConducted regular security audits and compliance checks to align with industry standards, ensuring the integrity of cloud resources and adherence to **GDPR** guidelines.\nDeveloped and documented standard operating procedures for deployment, monitoring, and incident response to streamline operations and facilitate training for new team members."
+    }
+  ],
+  "skills": "**Cloud & Infrastructure**\n\tAWS, Terraform, Ansible, Kubernetes, CI/CD, GitLab, Helm, ArgoCD, Prometheus, Grafana, CloudWatch, Infrastructure as Code, Security Best Practices, Cost Optimization, Incident Response\n\n**Programming Languages**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks**\n\tReact, Vue, Angular\n\n**API Technologies**\n\tNginx, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, GitHub Actions, GitLab CI/CD\n\n**Other**\n\tMLflow, Airflow, Kubeflow",
+  "apply_company": "Pagestreet"
+}

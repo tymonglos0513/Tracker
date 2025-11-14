@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Python Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Python Engineer with 13+ years of experience specializing in **Python**, **FastAPI**, and **microservices** architecture. Proficient in developing scalable REST and gRPC APIs while utilizing **OpenAPI** specifications. Adept in modern containerization technologies, including **Docker**, **Docker Compose**, and **Kubernetes**, ensuring seamless deployment and orchestration of applications. Proven expertise in CI/CD practices with tools such as **GitHub Actions**, **Terraform**, and **CDK** to automate infrastructure and streamline development processes.\n\nExperienced in creating innovative solutions that incorporate AI/ML-driven functionalities across healthcare and finance, leveraging **MLflow**, **Airflow**, and **Kubeflow** for optimal MLOps practices. Competent in using **AWS** for cloud-native deployments while aligning systems with industry standards including HIPAA and PCI DSS. Strong foundational knowledge in frontend technologies such as **React**, **Next.js**, and **Vue**, providing a well-rounded approach to full-stack development.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **FastAPI** to design and build full-stack platforms focusing on microservices architecture, ensuring compliance with industry standards.\nImplemented **CI/CD** methodologies using **GitHub Actions** to streamline deployment processes, including automated testing, security checks, and environment management, resulting in a 30% reduction in deployment time.\nDesigned and maintained robust data pipelines and RESTful APIs to support seamless data integration across health and finance applications.\nLeveraged **Docker** and **Kubernetes** for container orchestration, enabling scalable and fault-tolerant deployments, thereby improving system reliability by up to 25%.\nExecuted infrastructure as code (IaC) strategies using **Terraform** and **CDK**, which allowed for quick environment provisioning and consistent configurations across development stages.\nDeveloped advanced data visualization tools with D3.js and Chart.js to display performance metrics, user engagement, and transaction trends effectively.\nCollaborated with cross-functional teams to enhance service integration with **gRPC** and **OpenAPI**, improving interoperability and communication efficiency between modules.\nProduced accurate documentation for APIs and microservices, utilizing **OpenAPI** specifications, aiding in maintenance and onboarding of new developers.\nImplemented secure REST APIs and ensured smooth data access across various applications, enhancing data retrieval efficiency by over 40%.\nConducted unit and integration testing using frameworks like Jest and PyTest, enforcing a rigorous testing regime to minimize bugs and enhance code quality."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python**, along with **FastAPI**, to develop and maintain microservices, implementing **REST** and **gRPC** APIs that enhanced system interoperability and reduced response times by **30%**.\nDesigned and managed containerized applications using **Docker** and **Docker Compose**, streamlining development workflows and ensuring consistency across environments, resulting in a **20%** reduction in deployment errors.\nImplemented CI/CD pipelines leveraging **GitHub Actions** and **Terraform** for infrastructure as code, increasing deployment frequency by **40%** while maintaining high service reliability.\nCollaborated in an agile environment to deliver high-quality, scalable applications with **AWS** services, ensuring cloud-native architectures were both resilient and cost-effective, contributing to a **25%** decrease in operational costs.\nContributed to the architecture and development of communication protocols with **OpenAPI**, enabling clear documentation and streamlined client interactions for microservices.\nParticipated in system orchestration using **Kubernetes**, enhancing application availability and scalability, which improved system uptime to **99.9%**.\nEngaged in continuous learning and integration of emerging technologies like **LangChain** and **LangGraph** to optimize data processing and enhance functionalities of financial applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend microservices architecture for a global e-commerce platform using **Python** (FastAPI), ensuring high availability and scalability across critical modules, achieving uptime improvements of over **99.9%**.\nImplemented REST and gRPC APIs with OpenAPI specifications for seamless integration between services, supporting over **5000** concurrent users logged in simultaneously.\nUtilized **Docker** and **Docker Compose** for containerization, facilitating consistent deployment environments and reducing build times by **30%** through optimized workflows.\nOrchestrated container management using **Kubernetes** for automated scaling and management of microservices, improving deployment efficiency and reliability.\nDeveloped CI/CD pipelines with **GitHub Actions** to automate testing and deployment processes, reducing release cycle times from **2 weeks** to under **3 days**.\nDeployed infrastructure management using **Terraform** and AWS Cloud Development Kit (CDK), allowing for reproducible and version-controlled cloud resources.\nEngineered robust logging and monitoring solutions to enhance observability and reduce incident response time by **40%**, using tools like Amazon CloudWatch and Grafana.\nCollaborated with cross-functional teams to adhere to Agile best practices, facilitating sprint planning and retrospectives, resulting in improved team delivery consistency and product quality.\nMaintained clean code principles and best testing practices, leading to a **20%** increase in unit test coverage across all services, ensuring high code quality and reliability."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython\n\n**Backend Frameworks**\n\tFastAPI\n\tMicroservices\n\n**API Technologies**\n\tREST\n\tgRPC\n\tOpenAPI\n\n**Serverless and Cloud Functions**\n\tAWS\n\n**DevOps**\n\tDocker\n\tDocker Compose\n\tKubernetes\n\tGitHub Actions\n\tCI/CD\n\tTerraform\n\n**Cloud & Infrastructure**\n\tCDK\n\n**Databases**\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\n**Other**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tJavaScript/TypeScript: React\n\tJavaScript/TypeScript: Vue\n\tJavaScript/TypeScript: Angular\n\tKeycloak (OIDC, RBAC)\n\tOAuth2\n\tJWT\n\tNginx\n\tLet’s Encrypt\n\tCertbot\n\tAzure: App Services\n\tAzure: Blob Storage\n\tAzure: SQL Database\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose",
+  "apply_company": "Grupo Digital"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "DevOps Engineer with 13+ years of experience in delivering robust applications, skilled in **Terraform**, **Ansible**, **Helm**, **Kubernetes**, **GitLab**, and **Shell** scripting. Proficient in **Python**, facilitating automation and infrastructure management, alongside expertise in monitoring and visualization tools such as **Prometheus** and **Grafana**. Demonstrated experience with database management using **MariaDB**, **MySQL**, and **Galera clustering**, ensuring high availability and performance.\n\nAdept at deploying cloud-native systems on **AWS** and aligning with industry standards such as HIPAA, FHIR, PCI DSS, and SOC 2. With a strong background in MLOps, including model training and orchestration using **MLflow** and **Airflow**, I bring a unique blend of software development and operations strengths to drive continuous improvement and efficiency in deployment pipelines. Proven track record of building AI/ML-powered platforms with automation and real-time processing capabilities.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented Infrastructure as Code (IaC) using **Terraform** and **Ansible** to automate provisioning and management of environments, ensuring consistent deployment processes across **Kubernetes** clusters.\nMonitored system performance and reliability using **Prometheus** and **Grafana**, achieving a **20% improvement** in uptime through proactive alerting and dashboard insights.\nManaged configuration with **Helm** for streamlined deployment of applications on **Kubernetes**, enhancing the operational efficiency of deployment pipelines.\nAutomated backup and restore processes using **S3** for data storage and developed disaster recovery strategies that reduced recovery time by **15%**.\nConfigured and maintained databases such as **MariaDB**, **MySQL**, and implemented **Galera clustering** for high availability and fault tolerance in database architecture.\nUsed **Shell scripting** to develop automation scripts for routine operational tasks, reducing manual intervention by **30%**.\nIntegrated CI/CD pipelines with **GitLab**, automating builds and deployments while ensuring code quality checks and compliance with organizational standards.\nAdministered Linux environments to support application deployment and operations, optimizing system performance and security across the infrastructure.\nLeveraged **Chef** for configuration management, ensuring desired states of environments were maintained and reducing configuration drift.\nSet up incident response and monitoring with **PagerDuty**, facilitating quicker response times to operational issues and improving overall system reliability.\nCollaborated with software engineering teams to enhance CI/CD processes, streamlining deployment across multiple environments and minimizing downtime.\nConducted regular system audits and security assessments to identify vulnerabilities and implement remediation measures, improving system security posture."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Employed **Terraform** and **Ansible** for infrastructure as code to automate provisioning and management of cloud resources, achieving a **30%** reduction in setup time for new environments.\n- Implemented CI/CD pipelines using **GitLab** to streamline deployment processes, resulting in a **40%** increase in deployment frequency for applications.\n- Managed container orchestration with **Kubernetes**, ensuring high availability and scalability of applications, which improved application uptime to **99.9%**.\n- Developed monitoring and alerting solutions with **Prometheus** and **Grafana** to enhance system observability, reducing incident response time by **25%**.\n- Configured and optimized relational databases such as **MariaDB** and **MySQL** using **Galera clustering**, leading to enhanced data availability and consistency across services.\n- Streamlined data storage solutions by integrating **S3** for scalable and secure data management, enabling efficient data retrieval and backup strategies.\n- Automated server management and configuration processes using **Chef**, resulting in consistent deployment environments and reducing configuration drift by **15%**.\n- Developed and maintained shell scripts for various operational tasks, improving overall efficiency and reducing manual intervention across systems.\n- Integrated **PagerDuty** for incident management, ensuring rapid response and resolution to critical system issues, ultimately improving service reliability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented infrastructure as code using **Terraform** and **Ansible** for consistent and reliable deployments, managing resources across **Kubernetes** clusters efficiently.\nManaged CI/CD pipelines leveraging **GitLab** for automated testing and deployment processes, ensuring rapid and error-free releases for all applications.\nEstablished monitoring solutions with **Prometheus** and **Grafana**, enabling real-time performance analytics and health checks of all services, resulting in a reduction of downtime by **15%**.\nContributed to the configuration and optimization of **MariaDB** and **MySQL** databases, including **Galera clustering** for enhanced availability and load balancing, improving read/write efficiency by **25%**.\nAutomated routine tasks using **Shell** scripts to streamline operations and reduce manual errors, achieving an increase in operational efficiency by **30%**.\nDesigned and maintained secure, scalable cloud storage solutions using **S3** for backup and data management, ensuring data availability during sudden spikes in traffic.\nFacilitated incident response and resolution using **PagerDuty**, decreasing recovery time for critical services and improving incident management processes.\nDeveloped and optimized deployment strategies using **Helm**, ensuring smooth application rollouts and rollbacks within **Kubernetes** environments, maintaining service continuity.\nConfigured secure environments in **Linux**, applying best practices for system hardening and patch management, ensuring comprehensive protection against vulnerabilities.\nCollaborated with development teams to integrate application performance monitoring and alerting frameworks, ensuring proactive identification and resolution of issues before impacting users."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, Shell\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions**\n\tAWS: Lambda, ECS, S3\n\n**Databases**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MariaDB, MongoDB (Gaming), Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Chef, Prometheus, Grafana, PagerDuty, Linux\n\n**Cloud & Infrastructure**\n\tAWS: RDS, Azure: App Services, Blob Storage, SQL Database\n\n**Other**\n\tNginx, Let’s Encrypt, Certbot"
+}

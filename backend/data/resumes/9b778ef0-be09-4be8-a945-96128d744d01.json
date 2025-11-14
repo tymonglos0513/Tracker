@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "DevOps Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "DevOps Engineer with 13+ years of experience in deploying and managing high-performance applications across diverse industries, including healthcare and finance. Proficient in **Azure**, **AWS**, **CI/CD**, and adept at utilizing **Terraform**, **Docker**, and **Kubernetes** to optimize cloud-native environments. Skilled in implementing Infrastructure as Code (IAC) using **ARM**, **Bicep**, and **CloudFormation** to enhance deployment efficiency.\nExperienced in setting up observability tools like **Prometheus**, **Grafana**, and **OpenTelemetry**, as well as monitoring solutions such as **Azure Monitor** and **CloudWatch**. Strong knowledge of automation and scripting with **Bash** and **Python**, aligned with Agile methodologies for continuous improvement and adaptive planning.\nAdditionally, I bring hands-on expertise in building AI/ML-powered platforms, adapting innovative solutions to fulfill compliance with standards like HIPAA, FHIR, and PCI DSS. My solid background in microservices and event-driven architectures enhances operational performance and system scalability.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented **CI/CD** pipelines tailored for mobile applications using **Fastlane** and **App Center**, achieving a deployment frequency of **6** releases per month while incorporating test automation and crash analytics features using **Firebase Crashlytics** and **Sentry**.\nManaged infrastructure as code using **Terraform**, **ARM**, and **Bicep** to automate deployment processes across multiple environments, significantly reducing manual intervention by **75%**.\nDesigned and orchestrated containerized applications with **Docker** and **Kubernetes (AKS/EKS)**, optimizing resource utilization and scaling deployments seamlessly, ensuring uptime greater than **99%**.\nLeveraged monitoring tools such as **Prometheus**, **Grafana**, and **Azure Monitor** to track system performance and health, allowing for proactive resolution of issues and improving SLA compliance by **20%**.\nAutomated cloud infrastructure deployment processes using **CloudFormation** to establish consistent environments in **AWS**, enabling ease of replication and disaster recovery.\nIntegrated real-time logging and observability with **OpenTelemetry** and **CloudWatch** to streamline incident response, reducing mean time to recovery (MTTR) by **30%**.\nDeveloped Bash scripts to automate routine system maintenance tasks, improving team efficiency and allowing engineers to focus on higher priority issues.\nCollaborated in Agile methodologies to continuously improve deployment strategies and workflows, resulting in a smoother release process and enhanced team productivity.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **CI/CD** pipelines for continuous deployment using **Docker**, **Kubernetes**, and **Helm**, ensuring rapid and reliable updates across **Azure** and **AWS** environments.\nOrchestrated infrastructure as code using **Terraform**, **CloudFormation**, and **Bicep** to automate deployment and management of cloud resources, resulting in a **30%** reduction in setup time.\nMonitored system performance and availability by integrating **Prometheus**, **Grafana**, and **Azure Monitor**, achieving an overall system uptime of **99.9%**.\nCollaborated in an Agile environment to streamline development processes and foster cross-team collaboration, utilizing **Bash** for scripting automated workflows.\nSupported containerization efforts with **Docker**, enhancing application deployment consistency across **OpenShift** and cloud services, effectively managing over **50** microservices.\nAssisted in migrating legacy applications to **microservices** architecture, ensuring compatibility with existing deployment strategies while introducing modern **cloud** solutions like **Azure**.\nConducted regular performance assessments and optimizations using **OpenTelemetry** for efficient resource utilization and cost management, improving response times by **25%**.\nDeveloped and maintained technical documentation and runbooks for infrastructure management, enhancing team onboarding processes and operational continuity."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines utilizing **Terraform**, **Docker**, and **Kubernetes**, ensuring smooth deployment processes and reducing deployment time by **30%**.\nManaged cloud infrastructure on **Azure** and **AWS**, employing **CloudFormation** and **Bicep** for infrastructure as code, supporting dynamic scaling and resource optimization for applications.\nDesigned and maintained monitoring systems using **Prometheus**, **Grafana**, and **Azure Monitor**, achieving real-time alerts and visualizations that improved system reliability and uptime metrics by **25%**.\nAutomated backend services deployment with **Helm** in **Kubernetes** environments, ensuring consistency and speeding up the deployment lifecycle.\nDeveloped infrastructure scripts using **Bash** to automate routine tasks, enhancing operational efficiency and improving deployment accuracy by **20%**.\nApplied Agile methodologies to streamline workflow processes, facilitating continuous improvement and cross-department collaboration.\nEngineered robust solutions for application performance monitoring and logging with **OpenTelemetry** and **CloudWatch**, ensuring minimal downtime and faster incident recovery.\nOrchestrated container management and orchestration via **OpenShift**, improving resource utilization and accelerating the application delivery in multi-cloud environments.\nContributed to security best practices by implementing role-based access control and secure coding standards across all infrastructure as code scripts to enforce compliance.\nStreamlined development and DevOps collaboration through effective communication and documentation practices, leading to a **40%** reduction in miscommunication issues."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tOpenTelemetry\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database, CloudFormation, ARM, Bicep, OpenShift, Prometheus, Grafana, Azure Monitor, CloudWatch\n\n**Other:**\n\tAgile methodologies, Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, MLflow, Airflow, Kubeflow"
+}

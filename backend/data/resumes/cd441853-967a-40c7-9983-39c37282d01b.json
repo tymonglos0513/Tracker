@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior SRE Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-driven Senior SRE Engineer with 13+ years of experience in leveraging **AWS**, **Kubernetes**, **Terraform**, and **GitOps** to build scalable, reliable, and observability-driven systems. Proficient in implementing CI/CD pipelines using **GitHub Actions** and **ArgoCD**, with a strong focus on automation and real-time systems. Hands-on experience with **Prometheus** and **Grafana** for monitoring and maintaining system health, ensuring high availability and performance. \n\nSkilled in a wide range of programming languages, including **Python**, **Java**, **C**, **C++**, **Go**, **Perl**, and **Ruby**. Well-versed in developing distributed systems and compliance-driven applications in healthcare and financial sectors, aligning solutions with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Strong background in MLOps, with expertise in using **MLflow**, **Airflow**, and **Kubeflow** for automating model training and serving, enhancing data-driven decision-making.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SRE Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Managed and optimized **AWS** infrastructure for continuous integration and deployment, leveraging **GitHub Actions** to automate workflows, ensuring rapid and reliable application delivery.\nImplemented **Kubernetes** orchestrated solutions to improve scalability and fault tolerance in distributed systems while using **Grafana** and **Prometheus** for performance monitoring and observability.\nDesigned and automated infrastructure as code using **Terraform**, enabling efficient resource provisioning and management across environments.\nDeveloped and maintained **GitOps** practices, ensuring seamless collaboration and deployment processes while upholding best security practices.\nEngineered real-time systems for processing and delivering high volumes of data accurately and efficiently in both healthcare and fintech applications.\nEnhanced self-service capabilities for development teams, enabling them to quickly deploy application environments with minimal manual intervention.\nEnsured optimal communication and collaboration across multidisciplinary teams to align SRE practices with engineering goals, enhancing overall system reliability and performance.\nEstablished automation frameworks and scripts in **Python** to streamline repetitive tasks, improving operational efficiency by **30%**.\nIdentified and mitigated system vulnerabilities through detailed observability mechanisms, ensuring compliance with security protocols across platforms.\nCollaborated with software development teams to integrate observability tools for proactive monitoring and anomaly detection across multi-cloud setups.\nParticipated in post-mortem analysis and blameless retrospectives to continuously improve incident response strategies and implement lessons learned.\nConsulted on best practices for system reliability and resiliency, driving cultural shifts within the organization towards reliability engineering principles."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Enhanced observability and monitoring of financial platforms using **Prometheus**, **Grafana**, and **ELK Stack** to ensure real-time insights and system performance tracking, achieving a 30% reduction in incident response time.\n• Implemented automated deployment pipelines with **Terraform**, **GitHub Actions**, and **ArgoCD** to achieve continuous integration and delivery (CI/CD) practices, resulting in a 40% decrease in deployment time.\n• Designed distributed systems architecture for core financial applications, increasing system availability by 25% through the use of **Kubernetes** for container orchestration and management.\n• Migrated legacy systems to cloud environments leveraging **AWS** for improved scalability and reliability, supporting up to 200,000 concurrent users effectively.\n• Developed and maintained self-service automation tools using **Python** and **Go** to reduce manual intervention, allowing teams to deploy services independently.\n• Collaborated with cross-functional teams to ensure effective communication and alignment on system reliability and performance metrics, driving a culture of observability and proactive monitoring.\n• Conducted regular performance tuning and capacity planning exercises for infrastructure systems, improving resource utilization by 15% and decreasing operational costs.\n• Engaged in troubleshooting and root cause analysis of production issues using **Splunk** and **Distributed Systems** principles to promptly resolve incidents, ensuring high availability of services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented **GitOps** principles to manage infrastructure and deployments, utilizing **Kubernetes** for container orchestration, ensuring stable and scalable environments across multiple applications.\nDesigned and maintained observability dashboards using **Prometheus** and **Grafana** to proactively monitor system health and performance metrics, ensuring high availability and reliability of services.\nAutomated deployment pipelines with **GitHub Actions** and **ArgoCD**, enabling continuous integration and delivery practices, reducing deployment times by **30%** and enhancing team efficiency.\nDeveloped and optimized resilient distributed systems with **Terraform** for infrastructure provisioning, achieving infrastructure as code (IaC) compliance for improved management and resource allocation.\nEnhanced incident response by implementing self-service tools and automated communication workflows, reducing average incident resolution time by **25%**.\nCreated and maintained robust documentation to support system architecture and operational processes, facilitating knowledge sharing and effective collaboration across cross-functional teams.\nApplied rigorous performance testing methodologies in languages such as **Python**, **Go**, and **Java**, uncovering system bottlenecks and driving optimizations that improved throughput by **15%**.\nLeveraged **C** and **C++** for systems programming tasks, ensuring low-level optimization and high efficiency in critical backend services.\nUtilized ELK Stack and **Splunk** for centralized logging and analysis, enhancing troubleshooting processes and maintaining logs for compliance and audit purposes.\nPromoted a culture of observability and proactive issue resolution through effective automation strategies, reducing manual oversight and enhancing team productivity."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tC, C++, Go, Java, Perl, Python, Ruby\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tOAuth2, JWT, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, ArgoCD\n\n **Cloud & Infrastructure:**\n\tAWS, Azure: App Services, Blob Storage, SQL Database, Helm, Docker Compose, CI/CD & Infrastructure as Code\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Prometheus, Grafana, ELK Stack, Splunk, Distributed Systems, Real-Time Systems, Observability, Self-Service, Automation, Communication, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "Chainlink Labs"
+}

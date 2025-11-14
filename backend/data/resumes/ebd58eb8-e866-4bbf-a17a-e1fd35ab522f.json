@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Principal Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-oriented Principal Software Engineer with 8 years of extensive experience in full-stack development. Proficient in key technologies such as **.NET 8**, **C#**, **Entity Framework Core**, and **Azure** cloud services, including **Azure App Services**, **Azure Functions**, **Azure Service Bus**, and **Azure Storage**. Expertise in building robust **RESTful APIs** and implementing **microservices** and **event-driven architectures** for scalable applications.\n\nDemonstrated ability in performance tuning, **CI/CD** automation, and leveraging **Docker** for containerization, ensuring high-quality deliverables in fast-paced environments. Skilled in **Infrastructure as Code** using **Terraform** and employing agile methodologies to streamline development processes with a strong commitment to **Domain-Driven Design (DDD)** and **CQRS patterns**. \n\nIn addition to my technical proficiency, I bring a comprehensive background in implementing solutions across the healthcare and financial sectors, with a focus on compliance with standards like HIPAA, FHIR, and PCI DSS. My rich experience in **AI/ML capabilities** and hands-on work with tools like **MLflow**, **Airflow**, and **Kubeflow** complements my full-stack development expertise, allowing me to contribute effectively to innovative projects.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Principal Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented **microservices** architectures utilizing **.NET 8**, **C#**, and **Entity Framework Core** to ensure scalable and maintainable systems.\n- Developed and deployed **RESTful APIs** on **Azure App Services**, handling up to **2000 concurrent connections** with optimized performance tuning strategies for **SQL Server**.\n- Led initiatives integrating **Azure Functions** and **Azure Service Bus** for efficient **event-driven architectures**, enhancing system responsiveness and reducing latency by **30%**.\n- Built CI/CD pipelines with **Docker**, enabling seamless deployment processes while maintaining rigorous **infrastructure as code** practices using **Terraform**.\n- Applied Agile methodologies and principles of **Domain-Driven Design (DDD)** and **CQRS patterns** to enhance team collaboration and project delivery efficiency by **25%**.\n- Developed robust data models on **SQL Server**, ensuring data integrity and optimized query performance for large datasets in healthcare and financial applications.\n- Collaborated in cross-functional teams to design and integrate complex **microservices**, enhancing system capacity for transactions up to **500,000** per day and service reliability.\n- Conducted performance tuning assessments for applications, achieving improvements in response times by more than **40%** through proactive code and infrastructure optimization.\n- Provided mentorship and guidance to junior developers on best practices in **C#** and **.NET**, enhancing the team's coding standards and skills.\n- Spearheaded the adoption of **Angular** for dynamic front-end component development, improving client-side responsiveness and user experience.\n- Integrated CI/CD workflows with Azure DevOps, streamlining the release management process and reducing deployment times by **50%** across multiple environments.\n- Established comprehensive testing strategies utilizing modern testing frameworks to ensure high-quality software delivery, including test coverage exceeding **90%** across critical application components."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- **Designed and implemented** RESTful APIs using **.NET 8** and **C#**, enhancing secure and efficient communication in microservices-based architecture for financial applications.\n- **Developed** event-driven architectures leveraging **Azure Service Bus** and **RabbitMQ** to enable real-time processing of transactions and alerts, improving the responsiveness of financial systems.\n- Spearheaded performance tuning efforts, leading to a **35% increase** in throughput and reducing latency for high-volume transaction systems through enhancements in **SQL Server** and **Entity Framework Core**.\n- **Orchestrated CI/CD pipelines** utilizing **Docker** and **Terraform** for automated deployment of applications on **Azure App Services**, resulting in a **50% reduction** in deployment time.\n- Advocated for **Agile methodologies** within the team to streamline project management, leading to a **20% increase** in team productivity and faster delivery of software increments.\n- Championed the integration of **Infrastructure as Code** practices, ensuring consistent and repeatable environments with a strong focus on best practices.\n- Mentored junior developers in **Domain-Driven Design (DDD)** and **CQRS patterns**, fostering a culture of architectural excellence across projects.\n- Collaborated with cross-functional teams to define technical requirements and construct reusable components in **Angular** for future application developments.\n- Enhanced system security by implementing best practices using **Azure Key Vault** for sensitive data management."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Leveraged **.NET 8**, **C#**, and **Entity Framework Core** to design and optimize backend services for scalable applications, ensuring high availability and low latency in a global e-commerce platform.\nImplemented **RESTful APIs** and **Microservices** architecture, enhancing system modularity and making it easier to maintain and scale across key modules such as checkout and order fulfillment with support for **SQL Server**.\nEngineered real-time features utilizing **Event-driven architectures** and **Azure Service Bus**, ensuring responsive order updates and enhanced customer support.\nApplied performance tuning techniques to optimize system efficiency, achieving a **30% improvement** in response times during peak traffic periods.\nDeveloped robust CI/CD pipelines using **Azure DevOps** and **Docker**, facilitating smooth deployments and continuous integration with an over **95% success rate** during release cycles.\nUtilized **Azure Functions** for serverless computing, streamlining processes and significantly reducing overhead costs with a **50% lower** resource consumption.\nApplied Infrastructure as Code (IaC) principles using **Terraform** to automate provisioning of Azure resources, ensuring consistency and compliance across deployments.\nFollowed Agile methodologies to ensure timely delivery of features while maintaining high code quality through peer reviews and unit testing best practices.\nIncorporated Domain-Driven Design (DDD) and CQRS patterns to maintain a well-structured codebase and improve separation of concerns within complex domain models.\nCollaborated with frontend teams to integrate **Angular** applications with backend services, delivering fast, responsive user experiences across diverse device types."
+    }
+  ],
+  "skills": "**Programming Languages**:\n\tC#, .NET 8, Python, JavaScript/TypeScript\n\n**Backend Frameworks**:\n\tFastAPI, Flask, Django, Entity Framework Core\n\n**Frontend Frameworks**:\n\tReact, Vue, Angular\n\n**API Technologies**:\n\tRESTful APIs, JWT, OAuth2\n\n**Serverless and Cloud Functions**:\n\tAzure Functions, AWS Lambda\n\n**Databases**:\n\tSQL Server, PostgreSQL, MySQL, MongoDB\n\n**DevOps**:\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure**:\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL, Key Vault)\n\n**Other**:\n\tAuthentication & Security (Keycloak, OIDC, RBAC), MLflow, Airflow, Kubeflow, Agile methodologies, Event-driven architectures, Microservices, Performance tuning, CI/CD, Infrastructure as Code (Terraform, Ansible, Helm, Docker Compose), Domain-Driven Design (DDD), CQRS patterns"
+}

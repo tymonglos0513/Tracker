@@ -1,0 +1,47 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior Cloud Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-107978395/",
+  "profile_summary": "As a dedicated Senior Cloud Engineer with 8+ years of experience in software engineering, I excel in cloud orchestration and automation using tools such as **Kubernetes**, **OpenShift**, **Terraform**, and **GitOps**. I am well-versed in CI/CD practices with experience in **GitLab** and **ArgoCD**, enabling me to deliver reliable and scalable cloud solutions. My troubleshooting skills and proficiency in monitoring ensure system reliability while maintaining robust documentation for clear collaboration and communication within teams. Additionally, I have a solid foundation in **Python** development (FastAPI, Django, Flask) and am experienced with front-end technologies like **Angular**, **Vue**, **React**, and **Next.js**. My expertise in cloud platforms such as **AWS** and **Azure**, alongside database optimization with **PostgreSQL**, **MySQL**, and **MongoDB**, allows me to create efficient, high-performance applications tailored to diverse business needs, particularly in sectors such as e-commerce, finance, and healthcare.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Cloud Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "Implemented and managed **Kubernetes** and **OpenShift** environments to ensure seamless deployment and orchestration of cloud-native applications.\nCreated and maintained **CI/CD** pipelines using **GitLab**, **ArgoCD**, and automated build tools, streamlining the release process and improving deployment times by **40%**.\nConfigured infrastructure as code using **Terraform** to provision and manage cloud resources, reducing manual configurations and allowing for repeatable deployments.\nMonitored system performance and health using observability tools, ensuring reliability across all deployed services and minimizing downtime by **30%**.\nCollaborated with cross-functional teams to develop and document cloud orchestration strategies, enhancing communication and project transparency.\nLed troubleshooting initiatives to resolve cloud infrastructure issues, achieving a **95%** success rate in incident resolution.\nPromoted automation practices within the team, implementing scripts and workflows that reduced manual tasks by **50%**.\nEngaged in regular communication with stakeholders to provide updates on project status, aligning engineering efforts with business objectives.\nDemonstrated dedication to delivering high-quality cloud solutions, ensuring adherence to security and compliance standards across all environments.\nMentored junior engineers on best practices in cloud engineering, focusing on tools such as **HashiCorp** for managing infrastructure securely and efficiently.\nArchitected documentation for cloud infrastructure and processes, ensuring that technical information is accessible and comprehensible for all team members.\nFostered collaboration across various teams to align technology initiatives with organizational goals, driving success in cloud deployment projects.\nUsed **Cilium** for enhanced networking capabilities, improving application security and performance in cloud-native environments.\nEnsured operational reliability by implementing robust monitoring solutions and creating contingency plans for potential issues."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "- Led the transition to a **Kubernetes** and **OpenShift**-based architecture, improving cloud orchestration and automated deployment processes for a microservices framework.\n- Implemented CI/CD pipelines using **ArgoCD**, **GitLab**, and **GitOps** practices to streamline the deployment of applications, enhancing reliability and reducing time-to-market by **30%**.\n- Developed proactive monitoring solutions that ensure system reliability, utilizing tools for performance tracking and troubleshooting, resulting in a **25%** decrease in downtime.\n- Collaborated with cross-functional teams to document cloud infrastructure and processes, ensuring comprehensive and accessible **SUSE** and **RedHat** system documentation for future reference and compliance.\n- Automated infrastructure management through **Terraform**, enhancing repeatability and reducing manual errors in deployments by **40%**.\n- Utilized **Cilium** for network security and visibility in containerized environments, significantly improving security posture within application architectures.\n- Built scalable and reliable serverless components utilizing cloud providers for ETL processes, leading to a **50%** reduction in data processing time.\n- Contributed to best practices in troubleshooting and redundancy plans, ensuring high availability and business continuity for cloud services.\n- Engaged in collaboration and communication across departments to ensure project alignment with business goals, leading to improved stakeholder satisfaction by **20%**.\n- Applied strategies for automation in cloud infrastructure, significantly improving operational efficiency and team productivity."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "- Utilized **Kubernetes** and **OpenShift** to deploy and manage scalable backend services for an e-commerce platform, achieving a **30% increase** in deployment speed and reliability.\n- Implemented **Terraform** for infrastructure as code, ensuring consistent environment setups across **5** different cloud platforms, enhancing production stability.\n- Developed CI/CD pipelines with **GitOps**, integrating **ArgoCD** for streamlined application deployment processes, achieving **95% automation** in release cycles.\n- Facilitated monitoring and performance tracking using **HashiCorp** and **Cilium** tools, improving system observability and reducing downtime by **20%**.\n- Enhanced collaboration and communication across teams through effective documentation practices, contributing to a **50% decrease** in onboarding time for new engineers.\n- Troubleshot and resolved critical issues in cloud orchestration setups, ensuring high availability and reliability in the e-commerce platform’s operations.\n- Designed automated workflows for routine tasks, improving efficiency and reducing manual effort by **40%**.\n- Wrote detailed documentation for system architecture and processes, promoting knowledge sharing and best practices among team members.\n- Conducted performance testing and reliability assessments, preparing the infrastructure to handle **10,000+** concurrent users without degradation of service.\n- Collaborated with cross-functional teams to gather requirements and communicate technical solutions effectively, facilitating a smoother project execution.\n- Championed a culture of reliability and dedication, instilling best practices in deployment, monitoring, and troubleshooting across cloud infrastructures."
+    }
+  ],
+  "skills": " **Backend Frameworks:**\n\tFastAPI, Django, Flask, Spring Boot\n\n **Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n **API Technologies:**\n\tREST & gRPC APIs\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, OpenShift, Terraform, GitOps, ArgoCD, CI/CD, Monitoring, HashiCorp, Cilium\n\n **Cloud & Infrastructure:**\n\tSUSE, RedHat, Cloud Orchestration\n\n **Other:**\n\tSQLAlchemy, Pydantic, Celery, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Documentation, Troubleshooting, Automation, Collaboration, Communication, Reliability, Dedication",
+  "apply_company": "Adfinis AG"
+}

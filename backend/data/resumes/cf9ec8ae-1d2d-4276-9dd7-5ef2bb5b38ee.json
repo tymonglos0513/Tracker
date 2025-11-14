@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior DevOps Engineer with 8 years of expertise, I excel in implementing and managing cloud infrastructure using **GCP**, **Terraform**, and **Kubernetes**. My solid foundation in **Linux** and **Bash** scripting ensures robust operational workflows, and I'm proficient in CI/CD practices utilizing **Jenkins** for seamless integration and deployment. I possess extensive knowledge in **Docker** for containerization and orchestration of applications, enhancing scalability and reliability. My background in programming languages, specifically **Python** and **JavaScript**, empowers me to automate processes effectively.\n\nFurthermore, I bring a strategic approach to incident management and observability, utilizing **Grafana** and **Google Cloud Monitoring** to optimize performance metrics such as **SLI** and **SLO**. My experience extends to databases, leveraging **MongoDB**, **PostgreSQL**, and **Redis** for efficient data handling. Coupled with my commitment to security standards, I ensure compliance with industry regulations while adopting Agile methodologies for project delivery.\n\nAlongside these core competencies, I have a proven track record in enhancing healthcare and financial sector applications, contributing significantly to predictive analytics and intelligent automation initiatives.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **GCP** services to architect and manage scalable infrastructure for healthcare and financial platforms, ensuring high availability and resilience.\nImplemented **Kubernetes** for orchestrating containerized applications using **Docker**, streamlining deployment processes and enhancing application scalability.\nDeveloped and maintained CI/CD pipelines with **Jenkins** for automated testing and deployment, improving software delivery efficiency by **40%**.\nMonitored system performance and reliability with **Grafana** and **Google Cloud Monitoring**, reducing incident response time by **30%** through proactive error tracking and management.\nManaged databases using **PostgreSQL**, **MongoDB**, and **Redis**, optimizing data storage and retrieval processes for large-scale applications with a focus on performance and security.\nEnhanced operational stability by implementing incident management protocols and creating error budgets in line with SLIs and SLOs, contributing to a **25%** decrease in service downtime.\nEmployed **Terraform** for infrastructure as code, enabling consistent and efficient resource provisioning in **Linux** environments.\nCollaborated in Agile teams to refine deployment strategies, ensuring security best practices were upheld throughout the software lifecycle, achieving compliance with industry standards.\nDesigned and implemented strategies for monitoring application performance and incident management, while facilitating post-incident reviews to enhance system reliability.\nCoordinated with cross-functional teams to optimize processes and integrate feedback into system improvements, ultimately enhancing team agility and responsiveness to change."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented and managed infrastructure using **GCP**, **Kubernetes**, **Docker**, and **Terraform** to ensure scalable and efficient deployments in line with best practices.\nEstablished CI/CD pipelines with **Jenkins**, boosting deployment frequency by **40%** and minimizing lead time for changes to less than **1 hour** for production releases.\nMonitored system performance through **Grafana** and **Google Cloud Monitoring**, achieving an uptime of **99.9%** and proactively addressing incidents through effective **Incident Management** strategies.\nDeveloped automated scripts in **Bash** and **Python** to streamline system maintenance tasks, reducing manual intervention by **75%**.\nCollaborated in an **Agile** environment to lead cross-functional teams in projects focused on security and compliance, maintaining high standards for **Error Budgets** and service reliability metrics like **SLI** and **SLO**.\nConfigured and maintained data storage solutions using **MongoDB**, **PostgreSQL**, and **Redis**, improving data retrieval times by up to **30%**.\nEngaged in security best practices to safeguard sensitive financial information, continuously analyzing system vulnerabilities to enhance overall security posture."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented and managed **GCP** cloud infrastructure, utilizing **Kubernetes** for container orchestration and **Docker** for consistent application environments, ensuring high availability and scalability.\nDeveloped and maintained CI/CD pipelines using **Jenkins**, enhancing deployment efficiency and reducing lead time by **30%**.\nAutomated infrastructure provisioning with **Terraform**, enabling version-controlled and repeatable deployments across environments, leading to a decrease in setup time by **40%**.\nMonitored system performance and application health using **Grafana** and **Google Cloud Monitoring**, achieving optimized resource utilization and minimizing downtime incidents by **50%**.\nLeverage **Bash** scripting to automate routine tasks and incident management processes, improving operational efficiency, and responsiveness.\nCollaborated with development teams to ensure application security standards, implementing RBAC and **OAuth 2.0** strategies for secure access control and compliance with **GDPR** regulations.\nUtilized databases like **MongoDB** and **PostgreSQL** for data management, ensuring fault-tolerant and high-speed access for applications.\nEngaged in **Agile** methodologies to enhance team collaboration, facilitating bi-weekly sprints to track progress and address challenges promptly.\nDeveloped and monitored **Error Budgets**, **SLIs**, and **SLOs** to improve service reliability and team accountability in production environments.\n"
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tNginx, JWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tLinux, Bash, Grafana, Google Cloud Monitoring\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Incident Management, Agile, Security, Error Budgets, SLI, SLO",
+  "apply_company": "Digital Science"
+}

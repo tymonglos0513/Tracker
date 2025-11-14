@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Backend Engineer with 13+ years of experience in building high-performance applications, specializing in **Ruby**, **Rails**, and **PostgreSQL**. Proficient in designing and implementing **RESTful** APIs, leveraging **Git** for version control, and deploying applications on **AWS** and **GCP**. Skilled in containerization with **Docker** and utilizing messaging systems like **RabbitMQ** and **Kafka** for robust microservices architecture.\n\nExpertise in cloud-native deployment and microservices, with a proven track record of delivering compliant solutions in the healthcare and financial sectors. Strong background in AI/ML integration, having developed platforms that support predictive analytics. Demonstrated ability to engineer automation solutions and implement CI/CD pipelines for efficient development processes.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained RESTful APIs using **Ruby on Rails** (version 6) ensuring efficient data retrieval and management for applications.\n- Engineered and optimized database solutions with **PostgreSQL** and **MySQL**, leading to a **30%** improvement in query performance.\n- Collaborated on microservices architecture through the use of **Docker**, implementing containerization strategies that reduced deployment times by **50%**.\n- Utilized **Git** for version control, facilitating seamless collaboration and codebase management among **9** team members.\n- Integrated messaging systems using **RabbitMQ** and **Kafka** to ensure reliable data flow and responsiveness within applications.\n- Deployed cloud solutions on **AWS** and **GCP**, optimizing scalability and cost-efficiency with a focus on resource management.\n- Implemented background processing with **SideKiq**, achieving a **40%** enhancement in task performance for real-time data processing.\n- Conducted robust testing strategies across the stack using tools to cover unit, integration, and system-level tests, ensuring reliability and performance.\n- Contributed to the overall DevOps workflow, engaging in CI/CD practices to streamline deployments and reduce downtimes.\n- Analyzed system performance and gathered metrics, reporting on key KPIs to drive functional enhancements and support strategic decision-making."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Leveraged **Ruby on Rails** to build and maintain scalable RESTful APIs, directly enhancing server response times by **30%**.  \n- Integrated databases such as **PostgreSQL** and **MySQL** to support data integrity and complex queries within applications, ensuring high availability with **99.9%** uptime.  \n- Employed **Git** for version control, collaborating with cross-functional teams to streamline development workflows and reduce deployment times by **25%**.  \n- Managed cloud services with **AWS** and **GCP**, optimizing resources to reduce operational costs by **15%** while maintaining high performance.  \n- Implemented containerization with **Docker** to facilitate consistent deployments across different environments, improving deployment success rates by **40%**.  \n- Orchestrated background job processing with **Sidekiq**, enhancing system efficiency for asynchronous tasks related to payment processing and notifications.  \n- Deployed **RabbitMQ** and **Kafka** for building an event-driven architecture, ensuring reliable message brokering and communication between microservices.  \n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed robust backend services utilizing **Ruby on Rails** and **RESTful** architecture to ensure high performance and scalability for e-commerce applications.\nEngineered asynchronous job processing with **Sidekiq** for background tasks, enhancing application responsiveness and managing workloads efficiently.\nDesigned and implemented REST API services that seamlessly integrate with **PostgreSQL** and **MySQL**, ensuring high availability and optimized database interactions for high-traffic environments.\nManaged CI/CD pipelines using **Docker** for containerization and deployment, streamlining the development process and reducing deployment times by up to **40%**.\nCollaborated with cross-functional teams to implement real-time event-driven solutions using **RabbitMQ** and **Kafka**, enabling quick data processing and immediate communication between services.\nLeveraged cloud services such as **AWS** and **GCP** for scalable infrastructure and efficient resource management, contributing to a **30%** reduction in operating costs.\nMaintained version control and collaborative developments using **Git**, ensuring code quality and enabling efficient team workflows.\nCreated documentation and onboarding materials to train new team members on system architecture and development processes, leading to a **25%** increase in onboarding efficiency.\nImplemented role-based access control (RBAC) ensuring security compliance and data protection across all backend services.\nFocused on high-impact features that improved user engagement and satisfaction, leading to a **15%** increase in customer retention rates."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tRuby, Python, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tRails, FastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tRESTful\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, GCP\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, Git, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, SideKiq, RabbitMQ, Kafka, Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot, Terraform, Ansible, Helm, Docker Compose",
+  "apply_company": "Qoyod - قيود"
+}

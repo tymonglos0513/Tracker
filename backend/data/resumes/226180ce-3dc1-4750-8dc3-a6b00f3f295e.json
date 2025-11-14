@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Python Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "A results-driven Senior Python Engineer with 8 years of robust experience specializing in **Python**, **FastAPI**, **REST**, and cloud technologies including **AWS**. Adept at implementing CI/CD practices utilizing **GitHub Actions** and **Terraform**, along with proficient knowledge of **Docker** and **Kubernetes** for containerization and orchestration. I possess a strong track record in developing scalable, high-performance applications, ensuring seamless integration with modern frameworks and standards such as **OpenAPI**. My experience extends to utilizing tools like **LangChain** and **LangGraph** for enhancing application capabilities.\n\nDemonstrating comprehensive expertise in full-stack development, I excel with **JavaScript/TypeScript**, **React**, **Node.js**, and **Django**, while integrating AI/ML functionalities for advanced analytics and intelligent automation. My solid understanding of microservices architecture, event-driven systems, and compliance standards like HIPAA and PCI DSS ensures the security and robustness of applications. I am committed to leveraging best practices in software development to drive innovation and efficiency in delivering enterprise-grade solutions.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and implemented scalable backend services using **Python** and **FastAPI**, ensuring robust REST and gRPC interfaces for seamless communication between microservices.\nArchitected and maintained containerized applications with **Docker** and orchestrated deployments with **Kubernetes** to ensure high availability and fault tolerance across environments.\nDesigned and managed CI/CD pipelines leveraging **GitHub Actions**, streamlining development workflows and enhancing code quality through automated testing and linting processes.\nUtilized **AWS** services for secure and efficient cloud deployments, enabling smooth integration with modern applications while adhering to best practices in infrastructure as code using **Terraform** and **CDK**.\nCollaborated with cross-functional teams to create and document APIs using **OpenAPI** standards, enhancing application interactions and improving software usability by approximately **30%**.\nWorked on integrating advanced data processing frameworks such as **LangChain** and **LangGraph** to facilitate the deployment of machine learning models and data pipelines, significantly increasing model performance and scalability.\nLed the migration of legacy systems to modern cloud-native architectures, employing cutting-edge technologies that improved system efficiency by **25%** and reduced operational costs.\nMentored junior engineers and conducted code reviews to foster best practices in software development, enhancing team output and productivity by an estimated **15%**.\nEngaged in performance benchmarking of Python applications, identifying bottlenecks, leading to optimizations that improved response times by **40%**.\nMaintained a focus on compliance and security by implementing CI/CD best practices, ensuring applications are protected against vulnerabilities throughout the development cycle."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to design scalable REST and gRPC APIs, ensuring a robust and efficient communication layer for financial applications, handling over **100,000** transactions per day.\nImplemented **Docker** and **Kubernetes** for containerization and orchestration of microservices, enhancing deployment processes and reducing downtime by **30%**.\nDeveloped CI/CD pipelines with **GitHub Actions** for seamless integration and delivery, allowing for multiple deployments per week with minimal errors.\nLeveraged **Terraform** and **CDK** for infrastructure as code (IaC), automating infrastructure provisioning and management in **AWS**, enhancing resource deployment speed by **40%**.\nIntegrated LangChain and LangGraph for advanced data processing and manipulation, improving data retrieval and analysis efficiency in the project.\nCollaborated with cross-functional teams to build resilient financial platforms that adhered to industry standards and compliance requirements, fostering a culture of agile development.\nMentored junior developers in Python programming and best practices, leading to improved team performance and skill enhancement.\nContributed to the modernization of tech stack aligning with future growth strategies, focusing on leveraging the latest innovations in financial technologies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized RESTful APIs using **Python** (FastAPI) and **gRPC**, ensuring efficient communication between services and a robust backend for high-traffic scenarios.\n• Implemented CI/CD pipelines utilizing **GitHub Actions** for automated testing and deployment, enhancing code quality and deployment speed by **30%**.\n• Containerized applications with **Docker** and orchestrated deployment using **Kubernetes**, improving application scalability and reliability in production environments.\n• Designed and maintained infrastructure as code with **Terraform** and **AWS CDK**, managing cloud resources efficiently and reducing infrastructure costs by **15%**.\n• Collaborated on projects integrating **LangChain** and **LangGraph**, enhancing data handling and processing capabilities in complex applications.\n• Leveraged **OpenAPI** for API documentation and specification, fostering better communication with frontend teams and improving overall development speed.\n• Engaged in backend performance tuning, achieving **10ms** response times under peak loads by optimizing database queries and caching strategies.\n• Actively participated in code reviews and mentoring junior developers, promoting best practices and adherence to coding standards across the team.\n• Conducted regular security audits and performance testing of applications, ensuring compliance with industry standards and improving application uptime to **99.9%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI\n\n **API Technologies:**\n\tREST\n\tgRPC\n\tOpenAPI\n\n **Serverless and Cloud Functions:**\n\tAWS\n\n **Databases:**\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\n **DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tCI/CD\n\tTerraform\n\n **Cloud & Infrastructure:**\n\tAWS\n\n **Other:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\tMLflow\n\tAirflow\n\tKubeflow\n\tKeycloak (OIDC, RBAC)\n\tJWT\n\tOAuth2\n\tLet’s Encrypt\n\tNginx\n\tCertbot\n\tGitLab CI/CD\n\tAzure (App Services, Blob, SQL)\n\tAnsible\n\tHelm\n\tDocker Compose\n\tLangChain\n\tLangGraph\n\tCDK",
+  "apply_company": "Grupo Digital"
+}

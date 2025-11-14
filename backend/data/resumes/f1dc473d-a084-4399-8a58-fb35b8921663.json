@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Backend Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a proficient Senior Backend Engineer with 8 years of experience in full-stack development, I specialize in utilizing **Node.js**, **TypeScript**, and **MongoDB** to construct high-performance backend solutions. My deep expertise includes frameworks such as **Koa**, **NestJS**, and **Kafka**, enabling me to develop scalable and resilient systems. I possess a solid background in implementing *observability tools* and *performance monitoring* to ensure optimal system performance.\nAdditionally, I bring ownership and effective communication skills to project teams, fostering collaboration and transparency. My experience extends to deploying robust applications in the healthcare and financial sectors while aligning with compliance standards like HIPAA and PCI DSS. I also have proficiency in integrating microservices architecture and CI/CD practices to enhance deployment efficiency.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented robust back-end systems using **Node.js**, ensuring high performance and scalability in applications while leading the architecture of scalable full-stack solutions.\n• Utilized **TypeScript** to enhance code quality and implement backend logic with clarity, ensuring maintainability and readability across projects.\n• Optimized data management using **MongoDB** and **Redis** for efficient data storage operations and caching strategies, ensuring quick access to frequently used data.\n• Developed message-driven architecture leveraging **Kafka** for seamless communication between microservices, resulting in improved performance and lower latency in data processing.\n• Established performance monitoring and observability practices using tools like **Elasticsearch** to track application metrics and logs, detecting and resolving anomalies efficiently.\n• Collaborated closely with frontend teams, utilizing communication skills to bridge technical gaps, ensuring smooth integration and feature delivery within project timelines.\n• Championed ownership of projects, leading initiatives to transition monolithic applications into microservices architecture using **Docker** and **Kubernetes** (EKS) for improved deployment cycles and system resilience.\n• Conducted thorough testing and debugging using tools like **Jest** and **Postman**, ensuring the reliability of backend services through robust unit and integration test coverage.\n• Spearheaded the integration of **Bull** for task and job queue management, optimizing the handling of background processing and improving overall system throughput.\n• Engaged in continuous improvement practices, leveraging feedback from performance monitoring to refine code and enhance the backend infrastructure for better user experiences.\n• Utilized observability tools to conduct detailed analyses, leading to enhancements in backend performance, demonstrating a commitment to proactive maintenance and optimization strategies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Leveraged **Node.js** (NestJS) and **TypeScript** to architect scalable microservices, enhancing system throughput by **30%**.\n- Implemented end-to-end solutions using **Kafka** for event-driven processes, significantly improving real-time communication during financial transactions.\n- Managed database integrations with **MongoDB** and **Redis**, optimizing data retrieval times by **25%**.\n- Conducted performance monitoring and implemented observability tools to ensure application reliability and efficiency.\n- Developed and maintained backend applications focusing on ownership of user-facing APIs and robust communication protocols.\n- Collaborated with cross-functional teams to align backend services with business objectives, ensuring smooth integration for analytics dashboards.\n- Mentored junior developers on best practices for coding in **Node.js** and utilizing **TypeScript** effectively to enhance team productivity."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Engineered high-performance backend services for a global e-commerce platform leveraging **Node.js** (including **NestJS**), ensuring peak performance and scalability across critical modules like checkout, cart, and order fulfillment.\n\nImplemented robust data management strategies using **MongoDB** and **Redis** for efficient caching and data retrieval, achieving a **30%** reduction in database read pressure during peak traffic.\n\nUtilized **Kafka** for event-driven architecture, enabling seamless integration of real-time features resulting in a **20%** increase in order update responsiveness for customers.\n\nDesigned and deployed observability tools and performance monitoring systems to ensure continuous service reliability, leading to a **25%** decrease in system downtime.\n\nFostered communication and ownership across teams by integrating agile methodologies for smooth cross-functional collaborations and timely project delivery.\n\nApplied **TypeScript** to enhance maintainability and minimize runtime errors in projects, increasing code reliability by **15%**.\n\nStreamlined workflows using **Bull** for job processing in real-time applications, optimizing overall resource usage and enhancing application responsiveness.\n\nCollaborated with front-end teams to support the development of responsive UIs while creating backend APIs that ensured high-speed data delivery and minimal latency for end-users.\n\nEngaged in the development and integration of observability tools such as **Elasticsearch**, improving incident response times and providing clearer insights into system performance.\n\nMaintained ownership of critical backend components and drove initiatives for constant improvement and efficient scaling solutions in deploying various features."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js, Koa, NestJS\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, ClickHouse, Elasticsearch\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Kafka, Bull, Performance monitoring, Observability tools, Keycloak (OIDC, RBAC), Let’s Encrypt, Nginx, Certbot, Communication, Ownership",
+  "apply_company": "Fundraise Up"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Skilled in **application security**, **software composition analysis**, **dynamic analysis**, **DAST**, **fuzz testing**, **container scanning**, **API security**, **vulnerability management**, **DevSecOps**, and **open source security tools**. Experienced Senior Engineer with 9+ years in designing, developing, and implementing complex applications using **.NET**, **C#**, **ReactJS**, **NextJS**, and cloud services. Proficient in adopting **OWASP ZAP**, **Trivy**, and other essential tools to enhance security measures. Specialized in microservices architecture and distributed systems, with hands-on experience in **Apache Kafka**, **RabbitMQ**, and **Redis**. Proven track record of delivering robust solutions, streamlining development processes, and optimizing performance while adeptly leading teams through agile project management.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "• Implemented application security measures and vulnerability management strategies, enhancing the overall integrity of the web-based customer management platform.\n• Spearheaded the use of **OWASP ZAP** for dynamic application security testing (DAST), ensuring compliance with security best practices throughout the development lifecycle.\n• Integrated **Trivy** for container scanning and identifying security vulnerabilities in containerized applications, resulting in a more secure deployment pipeline.\n• Conducted fuzz testing to improve resilience against unintended input and security flaws within the platform.\n• Applied software composition analysis techniques to manage open-source dependencies and mitigate security risks effectively.\n• Developed systems with containerization technologies improving deployment efficiency and consistency across environments.\n• Drove agile project management methodologies leading to improved collaboration and timely project delivery.\n• Spearheaded the design and development of a web-based customer management platform using **.NET 7** and **ReactJS**, improving user satisfaction by **25%**.\n• Designed and implemented a microservices architecture using **.NET Core** to modularize the system for scalability and maintainability.\n• Integrated **Apache Kafka** for real-time data streaming and **RabbitMQ** for task queuing, resulting in improved system resilience and throughput.\n• Utilized **Redis** for caching frequently accessed data, reducing database load and improving response times by **35%**.\n• Developed RESTful APIs with **.NET**, integrated with a **MongoDB** database to provide seamless data access for various services.\n• Implemented CI/CD pipelines on **Azure DevOps**, reducing deployment time by **40%**.\n• Optimized **MSSQL** database queries and indexing, reducing average query execution time by **20%**.\n• Collaborated with UX/UI designers to enhance the platform’s user interface, leading to an improved user experience.\n• Developed a reporting engine using **D3.js** and **Three.js** for interactive data visualizations.\n• Implemented JWT-based authentication and authorization for securing the application."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Implemented **DevSecOps** practices to enhance **application security**, ensuring project deliverables met **security standards** for all components.\nConducted **dynamic analysis** and **fuzz testing** to identify vulnerabilities, leading to a **30% decrease** in critical security issues during development.\nUtilized **open source security tools** such as **OWASP ZAP** and **Trivy** for continuous **vulnerability management**, streamlining the process with a **25% increase** in detection accuracy.\nArchitected security features for RESTful APIs and ensured strong **API security**, reducing the risk of data breaches by **20%**.\nDeveloped and maintained project management tools using **Angular** and **.NET Core**, enhancing collaboration efficiency by **15%**.\nDesigned a microservices architecture featuring **RabbitMQ** and **Apache Kafka** for task orchestration, boosting system scalability.\nImplemented caching strategies with **Redis**, achieving a **25% performance boost** in system response times.\nLed the creation of CI/CD pipelines utilizing **GitHub Actions**, which decreased deployment errors by **30%**.\nManaged data across **MSSQL** and **MySQL** databases, ensuring optimized queries for efficient data retrieval.\nCollaborated actively in **agile project management**, working closely with stakeholders to define requirements for timely project delivery.\nCreated interactive project status reports using **D3.js**, improving data visualization and user engagement.\nConducted code reviews and mentored junior developers, enhancing overall team productivity."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Implemented **API security** measures in internal applications to enhance overall **application security** and mitigate risks, achieving a **30%** reduction in vulnerabilities.\nConducted **dynamic analysis** and integrated **fuzz testing** methodologies to ensure application robustness and security, improving defect discovery rates by **25%**.\nEstablished a protocol for **vulnerability management** using tools like **OWASP ZAP** and **Trivy**, facilitating proactive identification and remediation of security flaws.\nDrove the integration of **open source security tools** into existing CI/CD pipelines, enhancing security checks during code deployments by **40%**.\nUtilized **container scanning** to ensure compliance and security standards within containerization technologies, reducing security incidents in production environments.\nLed initiatives in **DevSecOps** mindset transformation, promoting collaboration between development, security, and operations teams to embed security within the software development lifecycle.\nParticipated in agile project management activities, facilitating sprints and ensuring timely completion of user stories related to security enhancements.\nProvided expertise in **dependency management** and secured software composition analysis to reduce risks associated with third-party libraries.\nCollaborated with stakeholders to develop an architecture for security products and practices that align with organizational goals and industry standards.\nMentored junior engineers on security best practices and tools to strengthen the team's overall security capabilities."
+    }
+  ],
+  "skills": " **Programming Languages** \n\t JavaScript, TypeScript, Python, C#, Solidity\n\n **Backend Frameworks** \n\t NodeJS, ExpressJS, NestJS, .NET, Entity Framework, Microservices\n\n **Frontend Frameworks** \n\t HTML, CSS, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n **API Technologies** \n\t RESTful API, GraphQL, API security\n\n **Serverless and Cloud Functions** \n\t AWS, Azure, DevSecOps\n\n **Databases** \n\t MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB\n\n **DevOps** \n\t CI/CD pipelines, containerization technologies\n\n **Cloud & Infrastructure** \n\t container scanning, open source security tools, vulnerability management\n\n **Other** \n\t UX/UI Design, Git, GitHub, agile project management, testing tools, dynamic analysis, DAST, fuzz testing, OWASP ZAP, Trivy, security product architecture, dependency management, messaging & caching: Apache Kafka, RabbitMQ, Redis, JMeter, Jest, Moq, Selenium, Cypress\n",
+  "apply_company": "GitLab"
+}

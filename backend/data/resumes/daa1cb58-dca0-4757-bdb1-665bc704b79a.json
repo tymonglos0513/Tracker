@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Site Reliability Engineer (SRE)",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a Site Reliability Engineer (SRE) with 8 years of extensive experience, I excel in leveraging **AWS** for cloud infrastructure management, implementing **Terraform** for infrastructure as code, and orchestrating containerized applications using **Kubernetes**. My proficiency in establishing **CI/CD** pipelines with tools like **Github Actions**, **ArgoCD**, and **FluxCD** enables efficient and reliable software delivery. I possess a strong background in system monitoring and performance optimization with **Prometheus**, **Grafana**, and **Loki**, ensuring high availability and resilience of applications.\n\nIn addition to my technical expertise, I have a solid foundation in **Linux** administration, coupled with strong project management skills that facilitate cross-functional collaboration. I understand the critical importance of **cyber security** and compliance standards such as **ISO 27001** in modern applications. My diverse skill set includes a background in **Python** development, allowing me to contribute to automation and scripting tasks effectively. Overall, I am committed to fostering reliable and scalable infrastructure in mission-critical environments.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Site Reliability Engineer (SRE)",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented and maintained **AWS** infrastructure using **Terraform** and **Kubernetes**, ensuring high availability and disaster recovery for critical healthcare and financial applications.\nDeveloped and optimized CI/CD pipelines using **Github Actions**, enabling automated deployments, testing, and monitoring for services across multiple environments.\nManaged container orchestration with **Kubernetes**, facilitating microservices architecture and ensuring scalability under traffic loads exceeding **10,000** concurrent users.\nExecuted configurations and deployments using **Ansible** for consistent infrastructure provisioning and environment management, aligning with ISO 27001 standards for security compliance.\nMonitored system performance and reliability using tools like **Prometheus**, **Grafana**, and **Loki**, ensuring operational metrics and log data are analyzed for improved system health.\nConducted vulnerability assessments and implemented cyber security measures in line with industry best practices, focusing on securing healthcare data in compliance with HIPAA and GDPR regulations.\nDeployed disaster recovery solutions and incident response practices, significantly reducing downtime to less than **5 hours** annually across complex systems.\nLed cross-functional project management initiatives to streamline operations, enhancing collaboration and communication between development, QA, and operations teams.\nProvided guidance on security protocols, striving for continuous improvement in system architecture and compliance with regulatory standards (e.g., ISO 27001).\nTrained and mentored junior engineers on best practices related to performance tuning, infrastructure as code, and monitoring solutions to enhance team capabilities and project deliverables."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented CI/CD pipelines using **GitHub Actions** and **Terraform** to streamline deployment processes, reducing deployment times by **40%** and increasing deployment frequency by **3x**.\nManaged and monitored cloud services on **AWS**, ensuring high availability and performance of applications with an average uptime of **99.9%**.\nOrchestrated containerized applications with **Kubernetes**, enhancing scalability and reliability while reducing deployment rollbacks by **25%**.\nConfigured and maintained infrastructure as code using **Terraform**, allowing for reproducible and scalable environments across development, staging, and production.\nUtilized **Prometheus** and **Grafana** for real-time monitoring and alerting, enhancing incident response time by **30%** through actionable insights and metrics visualizations.\nImplemented security best practices in alignment with **ISO 27001**, ensuring robust compliance and minimizing vulnerabilities within the systems.\nAutomated system configurations and deployments with **Ansible**, facilitating a **50%** reduction in manual intervention and errors in server setup.\nDeveloped and maintained internal documentation related to infrastructure and processes, enhancing team collaboration and knowledge transfer with an average satisfaction score of **90%** on documentation usability.\nConducted project management for infrastructure initiatives, including regular status updates and project risk assessments, ensuring timely delivery of SRE objectives."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines using **Github Actions**, enhancing deployment efficiency and ensuring consistent code quality across development and production environments with a deployment frequency increase of **30%**.\nManaged infrastructure as code through **Terraform**, automating the provisioning of AWS resources and improving environment consistency and recovery times by **20%**.\nConfigured and optimized container orchestration using **Kubernetes**, ensuring high availability and scalability of backend services deployed in the cloud, managing over **100 nodes** across multi-region clusters.\nDeveloped monitoring and alerting systems utilizing **Prometheus** and **Grafana** for real-time performance metrics, achieving incident response times under **5 minutes**.\nImplemented centralized logging with **Loki**, improving troubleshooting capabilities and reducing mean time to resolution (MTTR) by **40%** through proactive incident management.\nEnsured system security by applying **cyber security** best practices, including the implementation of ISO 27001 controls, safeguarding sensitive data across the e-commerce platform.\nAutomated configuration management and application deployment using **Ansible**, streamlining processes and reducing manual intervention by **50%**.\nExecuted project management strategies to coordinate cross-functional teams, ensuring timely delivery of service reliability improvements and infrastructure upgrades aligned with business objectives.\nUtilized **FluxCD** and **ArgoCD** for GitOps-driven continuous delivery and deployment strategies, optimizing software development workflows and achieving a **98% success rate on deployments**.\nConducted audits for compliance and security posture, maintaining adherence to industry standards and regulations related to data privacy and integrity."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Azure (App Services, Blob, SQL), Terraform, Ansible, Helm, Docker Compose, FluxCD, ArgoCD\n\n**Cloud & Infrastructure:**\n\tLinux, Prometheus, Grafana, Loki\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, cyber security, ISO 27001, project management"
+}

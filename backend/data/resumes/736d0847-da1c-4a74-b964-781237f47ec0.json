@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Python Developer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Python Developer with over 10 years of experience in crafting high-performance backend systems and APIs, primarily leveraging **Python** technologies such as **FastAPI**, **Django**, and **Flask**. Proficient in **CICD**, **Docker**, and cloud environments like **AWS** for deployment and scalability, alongside expertise in **SQL** and data management with **Vector DB**. Demonstrated ability to implement robust ETL processes utilizing **Spark**, **Airflow**, **dbt**, and **Databricks**. Possesses a strong foundation in Agile methodologies and a passionate approach to building innovative solutions. Known for flexibility, proactivity, and a client-oriented mindset while contributing to projects in prestigious organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Python Developer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "• Engineered backend services using **Python** and **FastAPI** in version **0.68** to streamline document automation, user onboarding, and reporting workflows.\n• Developed event-driven solutions with **Celery** and **Redis** to manage asynchronous processing for financial transaction requests, handling up to **5000** transactions per minute.\n• Deployed microservices on **Azure App Services** and utilized **Terraform** in version **0.15** to manage infrastructure as code, ensuring seamless cloud operations with 99.9% uptime.\n• Created and maintained data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, ensuring timely and accurate data flow adhering to a **15-minute** SLA.\n• Led security assessments and integrated **OAuth2** and **Azure AD B2C** for secure, scalable authentication systems.\n• Collaborated with cross-functional teams in an **Agile** environment to address system integration challenges, ensure compliance, and oversee release strategies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes, achieving a **20% increase** in process efficiency.\n• Created event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests, improving response time by **15%**.\n• Managed the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation to maintain consistent and scalable environments which reduced deployment time by **30%**.\n• Engineered data pipelines for the secure exchange of regulatory data, utilizing **Apache Airflow** and **Azure Functions** to automate and streamline the data flow, ensuring a **99.9%** uptime.\n• Performed security audits to ensure compliance with industry standards; integrated **OAuth2** and **Azure AD B2C** to manage authentication and secure access controls, enhancing security measures.\n• Collaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management, fostering an **Agile** work environment."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** to develop robust backend services for trade execution, portfolio management, and account tracking, enhancing overall trading operations.\nImplemented CI/CD methodologies to streamline deployment processes, ensuring high-quality releases for production environments.\nDesigned and developed containerized applications using **Docker**, improving scalability and consistency across development environments.\nEngineered real-time price feed processors using **asyncio**, **WebSockets**, and **Redis**, delivering real-time trading data for high-frequency transactions.\nCollaborated with frontend teams to deliver data through REST APIs and WebSocket channels, ensuring an intuitive user experience on the platform.\nMaintained compliance with regulatory requirements such as **MiFID II** and **GDPR**, while upholding stringent internal data security protocols.\nExecuted comprehensive test suites with **PyTest**, **tox**, and mock servers, elevating QA processes and supporting agile development methodologies.\nIncorporated job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and improving overall process management.\nLeveraged **SQL** for efficient data handling within **PostgreSQL**, achieving a performance improvement of **35%** in database queries.\nAdopted Agile methodologies to facilitate project management, fostering team collaboration and promoting flexibility in adapting to changing requirements."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, SQL\n\n**Backend Frameworks**\n\tDjango, Flask, FastAPI\n\n**Frontend Frameworks**\n\tJavaScript\n\n**API Technologies**\n\tREST/gRPC APIs\n\n**Serverless and Cloud Functions**\n\tAWS, Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, Vector DB\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\tAWS (EC2, S3, Lambda)\n\n**Other**\n\tKafka, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, ETL, Spark, dbt, Databricks, Agile, Advanced English, Flexibility, Proactivity, Client orientation, Creativity, Open-mindedness, Desire to build processes, Ability to learn"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Results-driven Software Developer with over 13 years of robust experience in designing and implementing **microservices**, **SaaS** applications, and **CI/CD** pipelines. Proficient in **Golang**, Java, and Python, with a strong track record in testing, debugging, and leveraging concurrency through **goroutines** and **channels**. Adept at utilizing cloud services like **Amazon DynamoDB**, **Aurora**, and **Snowflake** for scalable application development and real-time data processing.\n\nSkilled in building high-performance applications across healthcare and financial sectors, employing frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Experienced in constructing AI/ML-powered platforms for predictive analytics and automation, complemented by expertise in deploying solutions on **AWS** and **Azure**. Deep knowledge of compliance-driven development, ensuring adherence to HIPAA, FHIR, PCI DSS, and SOC 2 standards. Strong foundations in MLOps, including model training and orchestration using **MLflow**, **Airflow**, and **Kubeflow**. Demonstrated ability to optimize applications and enhance system performance through effective strategy and innovative problem-solving.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed microservices architectures using **Golang** to enhance scalability and maintainability for SaaS applications.\nImplemented robust testing protocols to ensure quality deliverables, utilizing techniques for significant unit and integration test coverage.\nLeveraged **Amazon DynamoDB** and **Aurora** for efficient data storage and retrieval in cloud-native applications, achieving performance improvements by up to **30%**.\nIntegrated **Kafka** for real-time data streaming, enabling fast processing and analytics, with enhancements to application response time by as much as **40%**.\nDesigned and built CI/CD pipelines using **CloudBees** and **Jenkins**, facilitating consistent deployment across multiple environments with automated testing and rollback capabilities.\nUtilized debugging methods to identify and resolve concurrency issues, enhancing stability with efficient use of **Goroutines** and **Channels** in **Golang**.\nCollaborated with cross-functional teams to build and deploy tools addressing complex business needs, enabling smoother operational processes and reducing lead times by **25%**.\nAdhered to industry best practices for software development and documentation in line with **Rego** and **Cedar** specifications to ensure compliance in all deployments.\nContributed to the continuously evolving tech stack by integrating **Apache Flink** for advanced stream processing capabilities.\nConducted performance testing and tuning of applications, resulting in enhanced user satisfaction and reduced latency in data presentation."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained microservices architecture leveraging **Golang** and **Python**, enhancing system scalability and performance for a SaaS financial platform with over **1M** daily transactions.\nUtilized **Apache Kafka** for effective data streaming and asynchronous communication in critical workflows, improving system response time by **30%**.\nImplemented robust testing and debugging techniques across multiple services, ensuring high code quality and reducing downtime to less than **2%** annually.\nDesigned CI/CD pipelines utilizing **CloudBees** and **Jenkins**, streamlining deployment processes and minimizing release cycles to a rapid **2-weeks** interval.\nEmployed **Amazon DynamoDB** and **Aurora** for scalable database solutions, optimizing data retrieval speeds by **50%**.\nIntegrated concurrency handling with **Goroutines** and **Channels** in **Golang** for efficient processing of high-volume transactions, ensuring reliability and responsiveness.\nCollaborated using **Rego** and **Cedar** for policy management and security compliance within the microservice ecosystem.\nLeveraged **Apache Flink** for real-time data processing and analytics to provide instant insights for operational teams, improving decision-making capabilities.\nConducted thorough performance testing and optimization of the overall architecture, achieving overall system throughput increases of **40%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed high-performance backend services for cloud-based applications utilizing **Golang**, ensuring robust **microservices** architecture and seamless integration with **SaaS** platforms for enhanced scalability and reliability.\nIncorporated **testing** and **debugging** strategies within the development lifecycle, ensuring code quality through automated CI/CD pipelines using **CloudBees** and **Jenkins**.\nImplemented **concurrency** management through **Goroutines** and **Channels** in **Golang**, achieving a reduction in response time by **30%** with improved handling of simultaneous processes.\nEngaged in data handling and management using **Amazon DynamoDB**, **Aurora**, and **Snowflake**, supporting up to **1M** transactions daily to maintain high availability and performance under load.\nUtilized **Apache Flink** for stream processing and real-time analytics enhancement, delivering actionable insights from raw data to optimize user engagement.\nDeveloped modular and extensible software components leveraging architectural patterns specified in **Rego** and **Cedar**, facilitating enhanced policy enforcement capabilities within the application framework.\nCollaborated in cross-functional teams to design and deploy integrated solutions, achieving significant improvements in system performance metrics by **25%** during major architecture overhauls.\nParticipated in code reviews and agile sprint meetings, contributing to an increase in team efficiency and overall project delivery times by **15%**."
+    }
+  ],
+  "skills": "  **Programming Languages:**\n\tPython, Golang, Java\n\n  **Backend Frameworks:**\n\tFastAPI, Flask, Django, Microservices, SaaS\n\n  **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n  **API Technologies:**\n\tOAuth2, JWT\n\n  **Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n  **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Amazon DynamoDB, Aurora, Snowflake\n\n  **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CloudBees, Jenkins, CI/CD\n\n  **Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n  **Other:**\n\tMLflow, Airflow, Kubeflow, Testing, Debugging, Concurrency, Goroutines, Channels, Rego, Cedar, Nginx, Let’s Encrypt, Certbot, Apache Flink, Kafka"
+}

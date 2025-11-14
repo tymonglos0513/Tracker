@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior DevOps Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Results-oriented Senior DevOps Engineer with over 10 years of experience in designing and delivering scalable backend systems and cloud-native architectures. Skilled in **Microsoft Azure**, **Docker**, **Kubernetes**, **Azure DevOps**, **ArgoCD**, **PowerShell**, **Bash**, **Terraform**, **Ansible**, **Terragrunt**, **Grafana**, **Prometheus**, and CI/CD pipelines. Proven ability to implement **GitOps** strategies, enhance **networking**, and ensure **security** and **compliance** in high-stakes environments. Strong expertise in **Python** for automation and system integration. Known for excellent **problem-solving**, **communication**, and **collaboration** skills, with a successful track record of impacting projects at prestigious companies including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Microsoft Azure** and **Terraform** to deploy and manage cloud infrastructure, achieving a **99%** availability rate for microservices.\nEngineered and optimized CI/CD pipelines using **Azure DevOps** and **GitOps**, reducing deployment time by **30%**.\nImplemented container orchestration with **Docker** and **Kubernetes**, leading to a **25%** increase in application scalability and reliability.\nCreated robust policies for security and compliance, integrating **OAuth2** and **Azure AD B2C** for enhanced user authentication and protection against vulnerabilities.\nDeveloped automated infrastructure provisioning scripts using **Bash** and **PowerShell**, streamlining environment setup process by **50%**.\nManaged real-time monitoring and alerting with **Prometheus** and **Grafana**, ensuring system reliability and performance metrics were met consistently.\nCollaborated with cross-functional teams to troubleshoot issues, drive improvements, and enhance communication for smoother project execution."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "- Leveraged **Microsoft Azure** and **Docker** to manage and deploy containerized backend systems, enhancing scalability and reliability in application deployment.\n- Utilized **Terraform** for infrastructure as code, automating deployment processes and ensuring consistent environments across **9** different microservices.\n- Implemented CI/CD pipelines utilizing **Azure DevOps** and **GitOps** strategies, resulting in a **30%** reduction in deployment time for updates and patches.\n- Developed secure and efficient microservices with **Python** and **FastAPI**, enabling seamless user onboarding workflows and complex reporting processes.\n- Created event-driven microservices powered by **Celery** and **Redis**, allowing for asynchronous processing of financial data, reducing transaction request handling times by **40%**.\n- Designed and implemented data pipelines with **Apache Airflow** and **Azure Functions**, ensuring secure exchange of regulatory data, and automating data flow between systems.\n- Conducted comprehensive security audits for compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** to establish secure authentication and access controls for over **5 million** users.\n- Coordinated with cross-functional teams to streamline system integration and enhance collaboration across different departments, ensuring successful management of **20+** projects concurrently."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Leveraged **Microsoft Azure** to implement and manage cloud infrastructure for scalable backend services in trade execution, portfolio management, and account tracking.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration of applications, ensuring a consistent deployment environment across **9** cloud-hosted microservices.\nAutomated infrastructure provisioning and management using **Terraform** and **Ansible**, reducing deployment time by **30%**.\nConfigured and maintained CI/CD pipelines through **Azure DevOps** and **GitOps**, enhancing deployment efficiency and achieving a deployment frequency of up to **15** times per week.\nDeveloped secure backend services with **Python**, integrating **PostgreSQL** as the primary database, while ensuring compliance with regulations such as MiFID II and GDPR.\nEngineered real-time data processors utilizing **asyncio**, **WebSockets**, and **Redis**, supporting high-frequency trading transactions with sub-second response times.\nCollaborated with cross-functional teams to provide seamless integration of REST APIs and WebSocket channels, enhancing platform interactivity and user experience by **25%**.\nImplemented comprehensive testing frameworks with **PyTest** and **tox**, which improved code quality and minimized bugs in production by **40%**.\nIntroduced job queuing solutions with **Celery** and **RabbitMQ**, optimizing backend task execution cycles and reducing latency by **50%**."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, Bash\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n **API Technologies**\n\tREST/gRPC APIs, Microservices\n\n **Cloud & Infrastructure**\n\tMicrosoft Azure, AWS (EC2, S3, Lambda), Docker, Kubernetes, Azure DevOps, Terraform, Ansible, Terragrunt, ArgoCD, GitOps, Grafana, Prometheus\n\n **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps**\n\tGitHub Actions, CI/CD\n\n **Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Networking, Security, Compliance, Problem-solving, Communication, Collaboration\n"
+}

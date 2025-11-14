@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Data Engineer II",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Data Engineer II with 13+ years of experience specializing in data pipelines, data storage solutions, and reporting systems. Proficient in implementing data transformation and validation processes using **AWS**, **Azure**, and various **databases**. Skilled in automated testing to ensure data integrity and reliability in cloud-native environments.\nExperienced in full stack development, leveraging technologies such as **JavaScript/TypeScript**, **Python**, and **Flutter** alongside frameworks like **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Strong understanding of compliance in data handling, ensuring alignment with HIPAA, FHIR, PCI DSS, and SOC 2 standards while collaborating effectively with cross-functional teams. Background in building AI/ML-powered platforms that support predictive analytics and real-time processing, utilizing tools like **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer II",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed robust **data pipelines** leveraging **PostgreSQL** and **MongoDB** to manage heavy data ingestion and transformation for financial and healthcare applications.\n- Designed and implemented scalable **data storage solutions** utilizing **Redis** and **GraphQL** for efficient querying and real-time analytics across various platforms.\n- Built comprehensive **reporting systems** to analyze and visualize data metrics using **Power BI Embedded** and **D3.js**, supporting decision-making through automated insights.\n- Employed **cloud-native tools** such as **AWS Lambda** and **Azure Functions** to deploy microservices, ensuring high availability and scalability.\n- Integrated automated **testing** frameworks using **Jest**, **Cypress**, and **PyTest** to assure data integrity and functionality across all data processing tasks.\n- Collaborated with cross-functional teams to enhance **data transformation** and **data validation** processes, ensuring compliance with industry standards.\n- Streamlined **collaboration** among teams through the use of tools like **GitHub Actions** and **Azure DevOps** to automate and monitor continuous integration and delivery processes.\n- Built and maintained a comprehensive data architecture to support dynamic reporting for over **100**+ active users, improving operational efficiencies by **30%**.\n- Implemented version **1.0** of data ingestion frameworks that reduced processing time by **40%** compared to legacy systems.\n- Deployed a new data validation strategy across all datasets, achieving an accuracy rate of **99.9%** on data retrieval and transformation tasks."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **data pipelines** using Python, Apache Airflow, and **Azure Data Factory** to streamline the ingestion of financial data from internal and third-party sources, enabling enhanced **data transformation** and **data validation** processes for greater accuracy and consistency in reporting.\nOptimized **data storage solutions** through the design and deployment of scalable databases, ensuring efficient access and retrieval for reporting systems and analytics.\nCollaborated with cross-functional teams to integrate **cloud-native tools** such as **Azure ML** for machine learning applications, driving automation and speeding up the deployment of machine learning models for fraud detection and credit scoring.\nCreated comprehensive **reporting systems** with real-time analytics dashboards utilizing **Power BI Embedded**, delivering insights that improved decision-making for operations teams by identifying trends and anomalies in **transaction datasets**.\nEnsured high-quality and reliable engineering through **automated testing** and validation processes, leading to a decrease in production errors by **30%** over **6 months**.\nPromoted team efficiency and encouraged best practices through an open collaboration culture, participating in code reviews and knowledge-sharing sessions to enhance team skills.\nArchitected and managed scalable solutions to handle high-volume transactions effectively, enhancing both performance and reliability in the overall financial ecosystem.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Designed and optimized data pipelines ensuring high availability and scalability for various backend services in line with **cloud-native tools**.\n- Developed and maintained data storage solutions using **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra**, achieving fault-tolerant access for high-traffic workflows with an emphasis on efficient data validation and transformation processes.\n- Engineered robust reporting systems by integrating data from multiple sources, facilitating real-time insights and decision-making in the e-commerce platform.\n- Collaborated with cross-functional teams to automate testing procedures across the data infrastructure, ensuring data integrity and reliability.\n- Participated in the development and optimization of cloud-native databases, enhancing overall data retrieval times by **30%**.\n- Implemented comprehensive data validation techniques to maintain data quality throughout the entire pipeline, ensuring compliance with GDPR and other data protection regulations.\n- Provided input on improvements for collaboration tools that integrate with existing systems, reducing development time for new features by **15%**.\n- Designed and deployed automated workflows for data transformation processes leveraging **Python** and **Node.js** technologies, enhancing productivity across the data engineering team.\n- Collaborated closely with software engineers to develop scalable, efficient data architectures suited to meet the needs of different teams within the organization.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**Backend Frameworks:**\n\t\n\n**Frontend Frameworks:**\n\t\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tcloud-native tools\n\n**Other:**\n\tdata pipelines\n\tdata storage solutions\n\treporting systems\n\tautomated testing\n\tdata transformation\n\tdata validation\n\tcollaboration\n\tAuthentication & Security:\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot"
+}

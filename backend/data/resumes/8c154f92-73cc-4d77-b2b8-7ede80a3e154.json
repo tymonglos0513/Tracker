@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Java Node Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-623a26390/",
+  "profile_summary": "Java Node Developer with 13+ years of expertise in full-stack development, specializing in **Node.js**, **Java**, **Spring Boot**, and **MongoDB**. Proficient in building scalable applications that leverage **TypeScript** and implementing robust API solutions. Extensive experience deploying applications in cloud environments using **AWS**, with a deep understanding of **API Gateway**, **Lambda**, **S3**, and **CDK** for cloud infrastructure.\nDemonstrated ability to develop high-performance applications in compliance-driven sectors such as healthcare and finance, ensuring adherence to standards like HIPAA and PCI DSS. Well-versed in integrating **Java** and **Node.js** technologies to architect efficient microservices. Strong foundations in building platforms that incorporate AI/ML capabilities for predictive analytics and real-time processing.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Java Node Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed back-end services using **Node.js** and **Java** to create robust applications, enhancing performance with **Spring Boot**.\n• Designed and implemented **APIs** for seamless integration with **AWS** services including **API Gateway**, **Lambda**, and **S3**, streamlining data exchange processes across systems.\n• Collaborated on full-stack development projects utilizing **TypeScript** to improve code quality and maintainability in web applications.\n• Built and optimized database solutions using **MongoDB** to support application data management effectively, ensuring high availability and scalability for user requests.\n• Employed Cloud Development Kit (**CDK**) for infrastructure as code deployments, enhancing project consistency and reducing manual configuration errors.\n• Integrated CI/CD pipelines for systematic deployment of applications, ensuring all environments are up-to-date and automated release processes are established.\n• Led performance tuning of applications, achieving a **30%** increase in response times by optimizing database queries and application architecture.\n• Enhanced application security by implementing best practices and safeguarding user data using industry-standard measures.\n• Conducted comprehensive unit and integration testing using industry tools to ensure reliability, achieving a test coverage rate of **95%** across the codebase.\n• Contributed to documentation and best practices, ensuring that projects are maintainable and easier for future developers to understand."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Node.js** and **Java** within a microservices architecture to construct scalable applications, transitioning legacy systems to achieve significant performance improvements and enhance user experience.\nImplemented **Spring Boot** for creating RESTful services, effectively managing APIs for seamless integration with front-end applications developed in **TypeScript**.\nDesigned and optimized data storage solutions using **MongoDB**, ensuring efficient data retrieval and processing for large-scale applications.\nLeveraged **AWS** services, including **API Gateway**, **Lambda**, and **S3**, for deploying secure and reliable cloud-based solutions with high availability and scalability.\nDeveloped responsive front-end applications using **React** and **Next.js**, incorporating state management features with tools like Redux and styled with Tailwind CSS, targeting optimal load times and interactive user interfaces.\nStreamlined deployment processes with **AWS CDK**, automating infrastructure setup and continuously integrating with modern development workflows.\nBuilt robust analytics dashboards utilizing real-time data visualization tools while adhering to best practices in software development for performance and maintainability.\nConducted thorough code reviews and collaborative debugging sessions, fostering knowledge sharing and improving code quality within cross-functional teams."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and optimized **Node.js** backend services using **Spring Boot** for a global e-commerce platform, ensuring high availability, low latency, and scalability across key modules, achieving a 30% reduction in response time.\nEngineered real-time features powered by **AWS Lambda** and **API Gateway**, enabling responsive order updates and dynamic inventory tracking, resulting in a 40% improvement in user engagement.\nUtilized **MongoDB** for distributed data storage, ensuring fast, fault-tolerant data access for high-traffic e-commerce workflows, handling over **1 million** transactions per day.\nCrafted and integrated efficient **TypeScript** APIs for seamless communication between frontend and backend systems, enhancing data handling and reducing API response time by **25%**.\nImplemented caching with **AWS S3** and **Lambda**, significantly improving the application’s responsiveness and reducing read pressure on the databases by **50%** for frequently accessed resources.\nBuilt secure payment workflows integrated with third-party services like **Stripe**, ensuring PCI-compliance and protecting sensitive data for **over 10,000** transactions.\nDeveloped user-friendly, responsive e-commerce UIs optimized for mobile-first engagement, leveraging the latest **Java** technologies along with HTML5/CSS3, improving user retention by **15%**.\nApplied role-based access controls (RBAC) and OAuth 2.0 for secure customer and admin access, ensuring GDPR compliance and safeguarding user data throughout the platform.\nManaged infrastructure as code with **AWS CDK**, automating deployments and enabling consistent environments for development and production, reducing deployment time by **35%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Node.js, Python, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Spring Boot\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tAPI Gateway, OAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda\n\n **Databases:**\n\tMongoDB, PostgreSQL, MySQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS: ECS, S3, RDS, Azure: App Services, Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose, CDK\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot, Redis"
+}

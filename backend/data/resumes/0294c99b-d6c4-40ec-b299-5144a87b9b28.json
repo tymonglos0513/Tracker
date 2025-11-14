@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Backend Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Backend Engineer with 8 years of experience, I bring a robust skill set in **Python**, **FastAPI**, and cloud technologies, specifically **Kubernetes** and **Postgres**. My proficiency in **Golang** allows me to design and implement highly efficient backend systems, while my expertise in **DDD** (Domain-Driven Design) and **Clean Architecture** enables me to create scalable, maintainable applications.\nI have a proven track record of integrating **AI** and **ML** technologies within enterprise solutions, leveraging advanced tools like **LangChain** for enhanced processing capabilities. My operational experience with **Kafka** for real-time data streaming and knowledge of collaboration tools such as **GitLab CI** streamlines deployment and improves software quality through **TDD** (Test-Driven Development) practices.\nI thrive in **Agile** environments and am committed to delivering secure, high-performance solutions that meet stringent compliance standards. My background in building enterprise-grade platforms positions me uniquely to contribute significantly to innovative projects.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed robust backend services using **Python** and **FastAPI** to deliver high-performance applications, ensuring alignment with **Domain-Driven Design (DDD)** and **Clean Architecture** principles.\n- Architected solutions for complex business problems utilizing **AI** and **Machine Learning (ML)** methodologies to enhance data processing and predictive capabilities.\n- Designed and implemented scalable databases with **Postgres**, optimizing data retrieval and storage for high-load applications, including up to **1M** transactions per day.\n- Led the implementation of **Golang** microservices to improve execution speed and reliability, reducing response times by at least **30%**.\n- Enhanced CI/CD processes using **GitLab CI**, ensuring robust testing through **Test-Driven Development (TDD)** frameworks, leading to a **25%** reduction in production bugs.\n- Collaborated in an **Agile** team environment, participating in sprint planning and retrospectives to continually improve processes and deliverables.\n- Integrated messaging queues with **Kafka** for real-time data processing, ensuring high availability and scalability, capable of handling over **10K** messages per second.\n- Deployed containerized applications using **Kubernetes** and **Helm**, achieving automated rollbacks and zero-downtime deployments with a **99.99%** uptime.\n- Built secure and efficient RESTful APIs, impacting user interactions positively, as measured by a **40%** increase in user engagement.\n- Established best practices for code quality and maintainability through regular code reviews and adherence to design patterns conducive to **Clean Architecture**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **FastAPI** to design and implement robust backend services aligned with **Domain-Driven Design (DDD)** and **Clean Architecture**, promoting modularity and ease of understanding for complex systems.\nEngineered microservices with **Golang** to enhance system performance and maintainability, following best practices in **Test-Driven Development (TDD)**, resulting in a **40%** reduction in bugs during deployment.\nDeveloped and deployed machine learning applications and models leveraging **AI** and **ML** techniques to solve business challenges, leading to a **25%** improvement in operational efficiency by automating decision processes.\nImplemented CI/CD pipelines using **GitLab CI**, facilitating automated testing and continuous delivery to production, achieving a **70%** faster deployment cycle.\nIntegrated data processing and messaging systems using **Kafka** for real-time analytics and data streaming, ensuring reliability and scalability across applications handling over **1 million** transactions monthly.\nArchitected cloud-native solutions on **Kubernetes**, utilizing **Helm** for package management, which streamlined the deployment and management of applications, contributing to **30%** infrastructure cost reduction.\nDesigned and executed database solutions using **Postgres**, optimizing query performance which decreased data retrieval times by **50%**.\nAdopting Agile methodologies, participated in sprint planning and daily stand-ups to enhance team collaboration and project delivery across multiple iterations."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **Golang** to design and optimize backend services for a global e-commerce platform, applying **FastAPI** and adhering to **Clean Architecture** principles to ensure high availability, low latency, and scalability across key modules such as checkout, cart, and order fulfillment.\nEngineered real-time features utilizing **Kafka** for event-driven architecture, enabling responsive order updates and dynamic inventory tracking, leading to a **30%** reduction in latency.\nDeveloped and implemented robust AI/ML algorithms to drive personalization, utilizing **scikit-learn** and **TensorFlow** to enhance product listing recommendations based on user behavior, boosting conversion rates by **15%**.\nExecuted thorough testing practices including **TDD** to ensure code quality, facilitating seamless integration and deployment workflows within an **Agile** framework.\nLeveraged **Postgres** for distributed data storage, ensuring fast and fault-tolerant access to e-commerce data, optimizing read times by **40%** through effective caching strategies.\nImplemented **Kubernetes** for container orchestration and **GitLab CI** for continuous integration, enabling automated deployments and rollbacks, enhancing team efficiency during development cycles.\nIntegrated role-based access control (RBAC) and secure data handling through **OAuth 2.0**, ensuring stringent compliance with GDPR and protecting user data across the platform.\nUtilized **Helm** for managing Kubernetes applications, streamlining configuration and deployment processes to support high-volume e-commerce transactions."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Golang\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tLangChain\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, GitLab CI, Helm\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), DDD, Clean Architecture, AI, ML, Kafka, TDD, Agile",
+  "apply_company": "TripleTen"
+}

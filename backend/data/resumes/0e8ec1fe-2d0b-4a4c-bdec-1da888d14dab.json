@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Java Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a seasoned Senior Java Engineer with 8 years of experience, I specialize in full-stack development using **Java**, **Microservices**, and **Spring Boot** technologies. My proficiency includes designing and implementing scalable applications with frameworks such as **Spring Data JPA**, **Spring Security**, and client-side frameworks like **Angular**. I have a solid understanding of **API Gateway** strategies and robust architectural patterns, including **SOLID principles** and **Design Patterns**. \nFurthermore, I am experienced in utilizing containerization technologies like **Docker** and orchestration with **Kubernetes** to ensure seamless CI/CD pipelines. My extensive knowledge of databases such as **PostgreSQL**, **SQL Server**, coupled with caching strategies using **Redis**, allows me to enhance application performance significantly.\nHaving led teams through Agile methodologies, I am skilled in project management using tools like **JIRA** and adept at writing unit tests with **JUnit** and **Test Containers**. Additionally, I bring expertise in event-driven systems, employing patterns like **SAGAS** and **Circuit Breaker** to create resilient applications. I am committed to delivering high-quality software that adheres to industry standards and best practices.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Architected and developed scalable, microservices-based healthcare and financial platforms using **Java**, **Spring Boot**, and **Spring Data JPA**, while ensuring compliance with industry standards such as HIPAA and PCI DSS.\nLed the re-architecture of monolithic applications into microservices, utilizing **Docker**, **Kubernetes** (v1.22), and design patterns like **Circuit Breaker** to ensure high availability and fault tolerance.\nImplemented secure APIs following best practices with **OAuth2** and **API Gateway** strategies, delivering robust authentication and authorization mechanisms for multiple applications.\nDesigned and maintained cloud-native data architecture using **PostgreSQL** and **Redis**, optimizing for large-scale data ingestion and storage across healthcare and financial sectors.\nDeveloped automated testing frameworks using **JUnit**, and **Test Containers**, establishing comprehensive test coverage across both front-end and backend services — achieving over **90%** test coverage in production code.\nCollaborated with cross-functional teams in an **Agile** environment, utilizing **JIRA** for task management and sprint planning, resulting in a **20%** improvement in team velocity.\nFocused on implementing design principles such as **SOLID** and scalable architecture, ensuring high-quality and maintainable code while adhering to best practices and methodologies.\nEngaged in continuous integration and continuous deployment (CI/CD) practices, deploying updates seamlessly using **GitHub Actions** and optimizing release cycles.\nArchitected resilient data flow patterns employing **SAGAS** for managing distributed transactions, enhancing system reliability and user experience.\nIntegrated advanced caching strategies using **Redis** to improve application response times by over **30%**, providing a more efficient, dynamic user experience."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented microservices architectures using **Java** with **Spring Boot**, enhancing system scalability and efficiency for financial platforms.\nDeveloped secure and robust REST APIs with **Spring Security** and **OAuth2**, ensuring compliance and protection for sensitive financial data while managing over **1 million** API requests daily.\nUtilized **PostgreSQL** and **SQL Server** for seamless data management, ensuring high availability and performance in transaction handling with complex queries leading to reduced response times by **30%**.\nImplemented **Docker** containers for efficient deployment and scaling of applications, optimizing resource utilization and enabling swift updates across environments, contributing to a **50%** decrease in deployment times.\nApplied design patterns and **SOLID** principles to enhance code maintainability, and conducted unit tests with **JUnit** and **Test Containers** for improved software quality assurance, achieving **99%** test coverage.\nLeveraged **Redis** for caching, significantly increasing data retrieval speeds during peak transaction periods by **40%**.\nCollaborated in an **Agile** environment through **JIRA**, focusing on continuous improvement and delivering feature updates every **2 weeks** to accelerate project delivery timelines.\nUtilized **Kubernetes** for orchestration, enhancing application resilience and simplifying management of services across **20+** containerized instances.\nImplemented circuit breaker patterns and **SAGAS** for transaction management, preventing failure cascades and ensuring system reliability during high-load scenarios."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized microservices architecture using **Java**, **Spring Boot**, and **Spring Data JPA**, ensuring high performance and scalability of e-commerce applications.\n• Implemented secure REST APIs with **Spring Security** and incorporated **OAuth2** to handle authentication and authorization, ensuring data protection and compliance with GDPR.\n• Leveraged **PostgreSQL** and **SQL Server** for efficient data management, ensuring data integrity and fast access for high-traffic applications.\n• Utilized **Redis** for caching strategies, significantly reducing database load and improving application performance metrics by over **40%**.\n• Designed and developed unit and integration tests using **JUnit** and **Test Containers**, achieving a test coverage of **85%** to maintain code quality and reliability.\n• Applied design principles like **SOLID** and established **Design Patterns** to enhance code maintainability and facilitate easier onboarding of new developers.\n• Orchestrated containerized applications using **Docker** and **Kubernetes**, enabling seamless deployment processes and improved scalability in cloud environments.\n• Engaged in Agile methodologies, participating in daily stand-ups and sprint planning sessions via **JIRA** to ensure project timelines are met effectively.\n• Developed user interfaces utilizing **Angular**, ensuring responsive design and a robust user experience across various devices, adhering to accessibility standards (WCAG 2.1).\n• Implemented circuit breaker patterns and utilized **API Gateway** strategies to enhance system resilience and maintain uptime during service disruptions.\n• Employed **SAGAS** for managing complex business transactions within a microservices ecosystem, contributing to effective workflow management.\n"
+    }
+  ],
+  "skills": "Programming Languages:\n\tJava, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tSpring Boot, Spring Data JPA, Spring Security, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tAngular, React, Vue\n\n**API Technologies:**\n\tOAuth2, API Gateway\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL Server\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak, JWT, Let’s Encrypt, Nginx, Certbot, JUnit, Test Containers, Agile, JIRA, SOLID, Design Patterns, SAGAS, Circuit Breaker",
+  "apply_company": "Inycom"
+}

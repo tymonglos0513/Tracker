@@ -1,0 +1,47 @@
+{
+  "name": "DANIEL HE",
+  "role_name": "Senior Python Engineer",
+  "email": "daniel.he8@outlook.com ",
+  "phone": "+48 730 743 032",
+  "address": "Rzeszów, Poland",
+  "linkedin": "https://www.linkedin.com/in/daniel-he-044a76397/",
+  "profile_summary": "Results-driven Senior Python Engineer with extensive expertise in **Python**, **Django**, and **Django REST Framework**, delivering high-performance, scalable applications. Skilled in building reliable **RESTful APIs** and utilizing **RabbitMQ** and **Kafka** for effective messaging solutions. Proficient in **PostgreSQL**, **Redis**, and **StarRocks** for efficient data management and OLAP queries. Experienced with monitoring tools such as **Datadog**, **Prometheus**, and **Sentry** to enhance application performance and reliability. Strong foundation in implementing CI/CD pipelines and deploying applications on **AWS** and **Kubernetes**. A proven track record in designing user-centric solutions within healthcare, eCommerce, and finance sectors by cultivating clean code practices, efficient architecture, and automation strategies.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2016",
+      "location": "Beijing, China ",
+      "university": "Tsinghua University "
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "Britenet",
+      "from_date": "Feb 2023 ",
+      "to_date": "Present",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Developed RESTful APIs using **Django** and **Django REST Framework**, increasing data accuracy by **40%** and enhancing integrations with third-party services.\nLeveraged **PostgreSQL** for efficient data management, ensuring secure data storage and retrieval processes, with a performance boost of **30%**.\nImplemented task scheduling with **Celery** and asynchronous messaging with **Kafka**, improving system throughput by **25%**.\nDesigned microservices architecture on **Kubernetes** with **Docker** containers, achieving **99.9%** uptime and improving deployment times by **80%**.\nUtilized **Redis** for caching to optimize load handling in high-traffic environments, leading to a **50%** reduction in response time.\nEstablished CI/CD pipelines using **AWS** services and **GitHub Actions** for automated testing and deployment, significantly enhancing productivity.\nIntegrated monitoring and logging solutions using **Datadog**, **Prometheus**, and **Sentry** for real-time system performance tracking, proactively improving issue response times by **60%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Alibaba Group",
+      "from_date": "Oct 2020 ",
+      "to_date": "Dec 2022",
+      "location": "Hangzhou, China",
+      "responsibilities": "- Developed backend services utilizing **Python** and **Django**, enhancing application performance and reliability.\n- Implemented **Django REST Framework** for building robust RESTful APIs, resulting in a 30% increase in API response times.\n- Designed and integrated a notification system using **Kafka**, achieving a 98% timely notification rate for critical issues.\n- Managed data ingestion and analytics with **StarRocks** for efficient OLAP processing, enhancing data retrieval speeds by 40%.\n- Automated testing and deployment processes via **CI/CD** tools, using **Jenkins** and **AWS CodePipeline**, decreasing deployment time by 60%.\n- Deployed scalable applications on **AWS** with **Kubernetes**, optimizing resource utilization and reducing costs by 20%.\n- Leveraged **Datadog** and **Prometheus** for monitoring application performance, improving system uptime to **99.9%**.\n- Enhanced task scheduling and asynchronous processing with **Celery**, achieving a **15%** improvement in task execution time.\n- Utilized **PostgreSQL** and **Redis** for database solutions, improving data access speeds by 25%.\n- Collaborated on client/server architecture design to ensure seamless integration and communication between frontend and backend systems."
+    },
+    {
+      "role": "Software Engineer ",
+      "company": "Huawei",
+      "from_date": "May 2016 ",
+      "to_date": "Sep 2020",
+      "location": "Shenzhen, China ",
+      "responsibilities": "Designed and developed robust backend **RESTful APIs** using **Python** and **Django** with **Django REST Framework**, ensuring a secure and efficient architecture.\nImplemented message queuing systems using **RabbitMQ** and **Kafka** to enhance application communication, achieving a 40% improvement in processing time.\nEmployed **Redis** and **PostgreSQL** for efficient data storage and caching, improving system performance metrics by **30%**.\nUtilized **Celery** for task management and scheduling, leading to increased backend efficiency by **25%**.\nIntegrated monitoring and logging through **Datadog**, **Prometheus**, and **Sentry**, providing real-time insights and reducing downtime by **15%**.\nPracticed CI/CD pipeline development with tools such as **AWS** and **Kubernetes**, improving deployment frequency by **50%**."
+    }
+  ],
+  "skills": "## **Programming Languages**\n\tPython, Java, JavaScript, Go, SQL, Swift, Kotlin\n\n## **Backend Frameworks**\n\tDjango, Django REST Framework, Spring Boot, Spring Security, Hibernate, Node.js, Express.js, JPA, Kafka, RabbitMQ, Celery\n\n## **Frontend Frameworks**\n\tReact, Vue.js, Angular, Pixi.js, Redux, Next.js, React Router, Material-UI, Ant Design, D3.js, Webpack, Babel, Jest, HTML5\n\n## **API Technologies**\n\tRESTful APIs, gRPC\n\n## **Serverless and Cloud Functions**\n\tAWS Lambda\n\n## **Databases**\n\tMySQL, PostgreSQL, Redis, MongoDB, StarRocks\n\n## **DevOps**\n\tDocker, Kubernetes, Jenkins, GitHub Actions, Terraform, AWS CodePipeline, Datadog, Prometheus, Sentry\n\n## **Cloud & Infrastructure**\n\tAWS (EKS, RDS, CloudFront, S3), API Gateway, CloudWatch, ELK Stack\n\n## **Other**\n\tMicroservices, CI/CD, Infrastructure as Code (IaC), Data structures and algorithms, Agile/Scrum methodologies, client/server architecture, OLAP",
+  "apply_company": "SplitMetrics"
+}

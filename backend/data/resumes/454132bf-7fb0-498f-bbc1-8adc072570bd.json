@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Software Engineer with 8 years of extensive experience, I excel in crafting high-performance software solutions utilizing **Java**, **Spring**, **React**, **Vue.js**, and **TypeScript**. My proficiency also extends to developing scalable applications in **Python**, with deep capabilities in modern frameworks such as **Django** and **FastAPI**. I am well-versed in containerization and orchestration technologies like **Kubernetes** and **Helm**, ensuring efficient deployment and management of cloud applications.\n\nI have successfully delivered enterprise-grade platforms that leverage AI/ML capabilities, integrating tools like **Apache Kafka** for real-time data processing and intelligent automation. My work adheres to industry compliance standards including HIPAA and PCI DSS, ensuring robust and secure application environments. Additionally, I possess a solid foundation in CI/CD practices and event-driven architectures, enabling streamlined workflows and enhanced collaboration across development teams. My hands-on experience in machine learning pipelines and MLOps further enriches my skill set, empowering me to effectively serve ML models in production.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Java** and **Spring** to develop robust back-end services that support the financial and healthcare platforms, ensuring efficient processing of large data sets and meeting real-time application requirements.\nEngineered responsive user interfaces using **Angular**, **React**, and **Vue.js** to enhance user experience on both web and mobile applications, using best practices to deliver applications compatible with **TypeScript**.\nImplemented container orchestration using **Kubernetes** and **Helm**, improving application scalability and reliability via microservices architecture while managing deployment complexities in both **Linux** and cloud environments.\nIntegrated **Apache Kafka** for real-time data streaming capabilities, achieving a throughput of over **1000 messages/sec**, which enhanced system responsiveness and improved data handling between microservices.\nDeveloped and maintained CI/CD pipelines with automated testing, using **Python** and **Go** together with other tools, ensuring rapid deployment cycles and reliable builds with less than **5% failure rate** in production.\nFacilitated code reviews and mentorship sessions for junior developers, fostering a collaborative environment that improved team output by over **30%** in project delivery timelines.\nCrafted comprehensive unit and integration tests using testing frameworks, achieving **90% code coverage**, which significantly improved application stability and performance across multiple projects.\nManaged application deployment in a microservices environment utilizing container technologies, achieving system availability scores exceeding **99.9%**, and setting new standards for operational excellence.\nOptimized existing APIs and back-end services, reducing response time by **40%** on average, significantly enhancing the overall user experience across platforms.\nCollaborated with cross-functional teams to translate business requirements into technical specifications, ensuring all stakeholder needs were met and surpassed KPIs for project success."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained robust applications utilizing **Java** and **Spring** frameworks to ensure high performance and scalability of backend systems for financial services.\nDesigned and implemented dynamic, user-friendly client-side applications with **Angular**, **React** (18), and **Vue.js** (3), enhancing user experience and interfacing for financial dashboards and admin portals.\nCollaborated in the development of cloud-native solutions using **Kubernetes** and **Helm** for container orchestration, effectively improving deployment frequency and minimizing downtime by **30%**.\nLeveraged **Apache Kafka** for building real-time data pipelines and streaming applications, supporting event-driven architectures and achieving **99.9%** uptime for critical transaction services.\nUtilized **Python** for back-end development, integrating with machine learning libraries to create innovative AI-driven solutions and enhancing data processing efficiency by up to **50%**.\nWorked with **Linux** environments to optimize application performance and manage system resources effectively, contributing to overall reduced latency in transaction processing.\nEmployed **TypeScript** to ensure type safety and robust code in front-end applications, improving code maintainability and reducing bugs by **25%** during the development cycle.\nIntegrated third-party services and APIs seamlessly, enhancing financial applications' capabilities while adhering to security and compliance standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Java** and **Spring** to develop robust backend services, enhancing system performance and scalability for a multi-module e-commerce application with an uptime of **99.99%**.\nDesigned and implemented user interfaces using **Angular**, **React**, and **Vue.js**, ensuring seamless navigation and user engagement with a mobile-first approach, optimizing load times to under **2 seconds**.\nManaged container orchestration with **Kubernetes** and **Helm**, allowing for efficient deployment and scaling of applications, resulting in a reduced deployment time by **30%**.\nIntegrated asynchronous messaging systems using **Apache Kafka** for real-time data processing, facilitating immediate order updates and inventory synchronization.\nCollaborated on developing microservices architecture utilizing **Go** to handle high-load functionalities, improving the system's modularity and maintainability.\nOptimized caching strategies employing Redis, enhancing user experience with faster page load times and reducing database latency by up to **50%**.\nImplemented comprehensive test suites and CI/CD pipelines to ensure code quality and streamline the development lifecycle, decreasing time to market by **25%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Python, Go, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tSpring, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tAngular, React, Vue\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm\n\n**Cloud & Infrastructure:**\n\tLinux\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Docker Compose",
+  "apply_company": "WALTER GROUP"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Java Developer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Java Developer with over 10 years of experience in backend system design and delivery for financial platforms and AI/ML pipelines. Proficient in **Java**, **Spring Boot**, **GraphQL**, and **RESTful APIs** for creating high-performing services. Skilled in database management with **SQL** and **NoSQL**, along with messaging systems like **Kafka** and **RabbitMQ**. Experienced in implementing CI/CD pipelines and deploying on cloud platforms including **AWS**, **Azure**, and **GCP**. Dedicated to ensuring compliance with **OWASP Top 10** standards and implementing security protocols such as **OAuth2**, **OIDC**, and **JWT**. Proven track record in optimizing system performance using tools like **Prometheus**, **Grafana**, and the **ELK** stack. Successfully contributed to impactful projects at prestigious organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Java Developer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Spring Boot** to engineer scalable backend services and develop efficient **RESTful APIs** for seamless integration with various client applications.\nDesigned and implemented event-driven architectures leveraging **Kafka** and **RabbitMQ** to facilitate robust asynchronous communication in microservices.\nIntegrated **SQL** and **NoSQL** databases, ensuring optimized data management and retrieval strategies for applications with high transaction volumes.\nImplemented CI/CD pipelines using **Jenkins** and **Docker**, enhancing deployment efficiency and reducing release times by up to **40%**.\nMonitored application performance and reliability using **Prometheus** and **Grafana**, achieving a **99.9%** uptime across all developed services.\nConducted rigorous security assessments and embedded **OAuth2**, **OIDC**, and other security protocols, adhering to **OWASP Top 10** standards to protect sensitive user data.\nCollaborated closely with cross-functional teams to troubleshoot integration issues, ensuring compliance with industry regulations and optimizing release strategies."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "\u0000\t- Utilized **Java**, **Spring Boot**, and **RESTful APIs** to architect and develop scalable backend services, ensuring robust system performance across different environments.\n\u0000\t- Integrated **GraphQL** for efficient data retrieval, improving response times by **30%** and enhancing user experience.\n\u0000\t- Implemented **CI/CD** pipelines using **AWS** and **Azure** to facilitate automated deployment, reducing release time by **25%**.\n\u0000\t- Managed database operations using both **SQL** and **NoSQL** solutions to optimize data storage and retrieval, achieving a **40%** increase in query performance.\n\u0000\t- Developed and maintained **microservices** architecture with message brokers like **Kafka** and **RabbitMQ**, ensuring high availability and fault tolerance.\n\u0000\t- Enabled traceability and performance monitoring with tools like **Prometheus** and **Grafana**, resulting in **50%** faster bug resolution times.\n\u0000\t- Conducted security assessments focusing on compliance to **OWASP Top 10**, implementing **OAuth2** and **JWT** for secure user authentication.\n\u0000\t- Collaborated effectively with QA teams, employing **JUnit 5** and **Testcontainers** for comprehensive testing, leading to a reduction in post-release issues by **15%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed robust RESTful APIs and GraphQL services using **Java** and **Spring Boot**, ensuring seamless communication between frontend and backend systems.\nEngineered microservices architecture employing **Docker** and **Kubernetes** for efficient deployment, scalability, and management, reducing operational overhead by **30%**.\nUtilized **SQL** and **NoSQL** databases, optimizing data retrieval performance by **20%** through indexing and query optimization techniques.\nImplemented real-time data processing solutions with **Kafka** and **RabbitMQ**, enabling high-throughput messaging for transactional applications.\nConfigured and maintained CI/CD pipelines with **Jenkins** and **GitHub Actions**, improving deployment frequency by **15%** and reducing lead time for changes.\nMonitored application performance using **Prometheus** and **Grafana**, achieving a **25%** reduction in response times by identifying and resolving bottlenecks.\nCollaborated down the line with cross-functional teams to adhere to best practices and security standards including **OWASP Top 10**, ensuring compliance and robust application security.\nConducted unit testing with **JUnit 5** and integration testing using **Testcontainers**, increasing code quality and reducing bugs in production by **40%**."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tJava, Python (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tSpring Boot, FastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tGraphQL, RESTful APIs, REST/gRPC APIs, OAuth2, OIDC, JWT\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, GCP\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, NoSQL\n\n**DevOps**\n\tDocker, Kubernetes, CI/CD, GitHub Actions, Azure DevOps, Git\n\n**Cloud & Infrastructure**\n\tPrometheus, Grafana, ELK, OpenTelemetry, IAM\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Microservices, Kafka, RabbitMQ, JUnit 5, Testcontainers, WireMock, TLS, OWASP Top 10"
+}

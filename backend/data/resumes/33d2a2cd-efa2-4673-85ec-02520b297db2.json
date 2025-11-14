@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Backend Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-118083397/",
+  "profile_summary": "Backend Software Engineer with 10+ years of expertise in building robust and scalable applications using **Go**, **SQL**, **MySQL**, **PostgreSQL**, **Redis**, and **Kafka**. Skilled in managing asynchronous messaging systems with **NSQ**, **NATS**, and **RabbitMQ**, and proficient in deploying and orchestrating applications with **Kubernetes** and **AWS**. Demonstrated ability to design data pipelines and real-time analytics platforms leveraging technologies such as **ClickHouse** and **Kinesis**.\nStrong background in integrating backend systems, with a focus on performance optimization and maintainability, while adhering to industry compliance standards. Brings hands-on experience in developing machine learning pipelines in **MLOps** and handling production workflows. Passionate about driving impactful solutions through technology.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed robust backend solutions using **Go** and **SQL** for high-performance applications, ensuring optimal scalability and maintainability.\n• Designed and maintained database architectures utilizing **PostgreSQL**, **MySQL**, and **Redis** for efficient data storage and retrieval, handling over **1 million** transactions daily.\n• Implemented message queuing systems with **RabbitMQ**, **Kafka**, and **NATS** to support real-time data processing and distributed system communication.\n• Deployed microservices in containerized environments using **Kubernetes** to enhance system performance and manageability, ensuring **99.9%** uptime for production applications.\n• Integrated cloud services on **AWS** for data storage, processing, and deployment, utilizing services such as **Kinesis** for streaming data and **S3** for file storage.\n• Collaborated in developing and optimizing high-throughput data pipelines with **ClickHouse** for analytical queries, achieving latency reduction by **30%**.\n• Designed and documented API specifications utilizing **gRPC** for efficient service interactions, resulting in a streamlined development process and reduced integration time by **40%**.\n• Conducted performance tuning and optimization of applications, leading to improved response times with a target of under **200ms** for critical endpoints.\n• Collaborated with cross-functional teams to create end-to-end solutions that meet both user requirements and business objectives for diverse application ecosystems.\n• Established a code quality framework by integrating automated testing and continuous integration practices, ensuring consistent delivery of high-quality software."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented microservices architectures leveraging **Go**, **Kubernetes**, and **gRPC** to enhance system scalability and resilience in handling high transaction volumes, achieving a **30% improvement** in response time.\nUtilized **SQL**, **MySQL**, and **PostgreSQL** for efficient database management, leading to a **25% reduction** in query response times across financial applications.\nExtended functionality of existing systems by integrating **Redis** for caching strategies, which improved data access speeds by **40%** and enhanced user experience.\nDeveloped robust message-driven systems utilizing **Kafka**, **RabbitMQ**, and **NSQ** for high throughput event processing, ensuring real-time transaction handling and alerting with an uptime of **99.9%**.\nOrchestrated batch processing and real-time data ingestion pipelines with **Kinesis** and **ClickHouse** for financial analytics, which provided business intelligence teams with insights processed within **1 minute** of data generation.\nImplemented comprehensive application monitoring and orchestration using **AWS** tools, ensuring seamless deployment and scaling of backend services while maintaining operational costs under budget by **15%**.\nCollaborated effectively with cross-functional teams to ensure successful integration of new systems, leveraging agile methodologies to deliver projects consistently on time."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Utilized **Go** to develop and optimize backend services for a global e-commerce platform, ensuring high availability and scalability across key modules including checkout, cart, and order fulfillment.\nEmployed **SQL**, **PostgreSQL**, and **MySQL** for efficient data storage and retrieval, enabling fault-tolerant access to high-traffic e-commerce workflows.\nIntegrated **Redis** for caching frequently accessed resources, enhancing application responsiveness by reducing read pressure on databases by up to **70%**.\nStreamlined message processing using **Kafka** and **RabbitMQ**, facilitating real-time order updates and dynamic inventory tracking, which improved response times by **50%**.\nImplemented automated deployment strategies using **Kubernetes**, ensuring seamless updates and rollbacks with zero downtime during platform enhancements.\nEngineered real-time communication features leveraging **NSQ** and **NATS**, resulting in enhanced customer support and engagement.\nManaged data streams utilizing **Kinesis** and **gRPC** for efficient inter-service communication and reduced latency in data transactions by **30%**.\nOptimized backend architecture for performance and security using best practices, ensuring compliance with industry standards and improving transaction speed by **25%**."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tGo, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tgRPC, NSQ, NATS, Kafka, RabbitMQ\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Kinesis\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, ClickHouse\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD & Infrastructure as Code (Terraform, Ansible, Helm, Docker Compose)\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot"
+}

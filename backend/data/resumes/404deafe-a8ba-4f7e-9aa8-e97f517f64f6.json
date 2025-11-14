@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Java Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Java Engineer with 13+ years of experience specializing in **Java** and **JVM** technologies, along with a strong foundation in **concurrency**, **distributed systems**, and **performance engineering**. Proven ability to enhance application performance through advanced techniques in **garbage collection**, **JIT compilation**, and **memory layout** optimization. Skilled in ensuring application efficiency with knowledge of **parallelism**, **storage internals**, **caching**, and **indexing** to improve I/O behavior.\n\nExperienced in utilizing **Hazelcast** for distributed caching and application management, and proficient in leveraging observability tools such as **JFR** and **async-profiler** to gain insights into performance issues. Committed to contributing to open-source projects, enhancing overall knowledge and community engagement. Additionally, adept in developing high-performance, compliant applications in healthcare and finance using **JavaScript/TypeScript**, **Python**, and **Flutter**, while also building AI/ML-powered platforms that focus on predictive analytics and real-time processing.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized Java applications in distributed systems architecture, focusing on **performance engineering** and **concurrency** to enhance application responsiveness and throughput by **30%**.\n• Utilized **JVM** internals, including **garbage collection** and **JIT compilation**, to reduce application memory footprint and improve processing speed, achieving a **25%** reduction in resource usage.\n• Designed **caching** strategies that improved data retrieval times by **40%**, leveraging technologies such as **Hazelcast** for efficient distributed caching.\n• Implemented advanced **indexing** mechanisms to enhance I/O behavior, resulting in a **50%** increase in data access speed for high-volume transactions.\n• Contributed to open-source projects focused on **observability tools**, enhancing application monitoring capabilities with tools like **async-profiler** and **JFR** for better diagnostic insights.\n• Collaborated with cross-functional teams to define and enforce reliable testing strategies using frameworks that cover unit, integration, and system testing, ensuring a deployment success rate of **95%**.\n• Conducted regular performance profiling and analysis to identify bottlenecks in concurrent processing scenarios, leading to improved app scalability in a cloud environment deployed on **AWS** and **Azure**.\n• Engaged in ongoing research of **memory layout** and **parallelism** principles to drive architectural enhancements and contribute to team knowledge sharing sessions.\n• Provided mentorship and training on **Java** best practices, JVM optimizations, and software design patterns, fostering a high-performance engineering culture within the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Leveraged **Java** to design and develop high-performance distributed systems, ensuring optimal **concurrency** and **parallelism** that supported **99.9% uptime** for critical applications.\nEngineered solutions for **caching** and **indexing** that improved data retrieval speeds by **50%**, utilizing frameworks such as **Hazelcast** for in-memory data management.\nImplemented comprehensive **performance engineering** strategies, monitoring **JVM** behavior to optimize **garbage collection** and **I/O behavior**, achieving significant reductions in latency.\nConducted profiling and observability analysis using tools such as **JFR** and **async-profiler**, identifying bottlenecks and performance issues, leading to a **30% increase** in overall system efficiency.\nContributed to open-source projects, enhancing community tools and libraries relevant to **Java** and performance optimization best practices, while collaborating with peers to refine software development methodologies.\nDeveloped and maintained documentation on **memory layout** and **classloading** techniques to facilitate knowledge sharing and foster a culture of continuous improvement in performance-related practices."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "- Leveraged **Java** in the development of high-performance backend services, focusing on **concurrency** and **parallelism**, ensuring scalability and efficiency in distributed systems handling up to **1 million** transactions per day.\n- Engaged in performance engineering by applying techniques like **garbage collection** tuning and **JIT compilation** for optimizing application responsiveness and throughput.\n- Designed and implemented caching strategies using **Hazelcast** for high-speed data retrieval, significantly reducing latency by **30%** during peak loads.\n- Integrated observability tools including **JFR** and **async-profiler** to monitor application performance and optimize **I/O behavior**, achieving a **40%** reduction in response times.\n- Conducted in-depth analysis of **memory layout** and **classloading** processes to improve resource management and application performance.\n- Contributed to open-source projects, enhancing community knowledge and implementing **best practices** in Java development.\n- Collaborated with cross-functional teams to optimize storage internals, ensuring seamless data flow and managing large datasets effectively.\n- Developed a prototype for an intelligent recommendation engine using **Java** frameworks, integrating it with existing Java-based services to personalize user experiences and boost engagement.\n- Engaged in continuous learning and implementation of advanced **indexing** and **caching** techniques, which improved data access speed and decreased server load during significant workload spikes."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tJava, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, S3\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: RDS, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow, concurrency, distributed systems, performance engineering, garbage collection, JIT compilation, memory layout, classloading, parallelism, storage internals, caching, indexing, I/O behavior, Hazelcast, observability tools, JFR, async-profiler, open-source contributions",
+  "apply_company": "Hazelcast"
+}

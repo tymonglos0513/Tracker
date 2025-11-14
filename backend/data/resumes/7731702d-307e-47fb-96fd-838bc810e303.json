@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Software Engineer with 8 years of experience, I excel in full-cycle development and deployment within cloud environments, particularly in **Azure** and **AWS**. My technical proficiency includes **Python**, **Java**, **CI/CD** methodologies, and extensive knowledge of **API** development. I am well-versed in **Microservices** architecture and have hands-on experience with containerization technologies like **Docker** and **Kubernetes**. Furthermore, I effectively leverage **Terraform** for Infrastructure as Code (IaC) and utilize tools like **Databricks**, **Argo**, and **Airflow** for orchestration and automation in complex environments.\n\nMy background includes building high-performance solutions primarily in the healthcare and financial sectors, utilizing modern technologies such as **JavaScript/TypeScript**, **React**, **Node.js**, and **FastAPI**. I have successfully led the development of enterprise-grade platforms that integrate AI/ML capabilities for predictive analytics, intelligent automation, and real-time data processing, ensuring compliance with standards like HIPAA, FHIR, and PCI DSS. My commitment to automated testing and robust CI/CD pipelines results in secure, scalable applications that meet evolving business needs.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** to architect and develop high-performance applications in a microservices architecture, ensuring high availability and fault tolerance.\nImplemented CI/CD processes utilizing **Azure** DevOps, GitHub Actions, and **Airflow**, leading to a **40%** reduction in deployment time and improved code quality through automated testing.\nDesigned and developed APIs for data and functionality access, aligning with microservices principles and ensuring seamless integration using **Docker** and **Kubernetes** (v1.20).\nAdopted Infrastructure as Code (IaC) practices using **Terraform** to automate infrastructure provisioning, contributing to a **30%** improvement in deployment speed and consistency.\nEstablished automated testing frameworks incorporating **Python** and tools like Jest and Cypress to ensure application reliability with a coverage rate of over **85%**.\nCollaborated on integrating **Databricks** for big data analytics, streamlining data workflows for enhanced decision-making.\nParticipated in cloud solution designs using **AWS** and **Azure**, optimizing resource use and managing costs effectively.\nLed efforts to containerize applications with **Docker**, enabling consistent development and production environments across the board.\nFacilitated gateway configurations to enhance microservices communication, ensuring optimized performance and security.\nEmployed **Argo** to manage GitOps workflows, elevating deployment reliability and rollback capabilities for production applications.\nDelivered high-quality software solutions by implementing and maintaining stringent code quality standards and best practices across the development team.\nActively participated in code reviews and sessions to mentor junior developers, fostering a culture of continuous learning and improvement."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Node.js** to lead the development of scalable and maintainable financial platforms, adopting a microservices-based architecture that supported **high-volume transaction systems** and improved system throughput by **30%**.\nDesigned and implemented CI/CD pipelines to automate deployment processes, integrating tools like **Docker** and **Kubernetes**, resulting in deployment efficiency increase by **25%** and reduced downtime.\nDeveloped user-focused front-end applications using **React (18)**, **Next.js**, and **TypeScript**, enhancing user experience and responsiveness in financial dashboards and admin portals by achieving a **40%** improvement in load times.\nEngineered real-time transaction monitoring dashboards utilizing **Power BI Embedded** and **D3.js**, which empowered operations teams to derive actionable insights and reduce operational response time by **15%**.\nEffectively integrated **Kafka**, **RabbitMQ**, and **Azure Service Bus**, establishing a resilient event-driven architecture that enabled real-time processing for transactions and alerts, enhancing system responsiveness.\nImplemented and orchestrated ETL pipelines with **Apache Airflow** and **Azure Data Factory** that facilitated batch and real-time data ingestion, improving data availability to teams and reducing processing time by **20%**.\nDeveloped AI/ML fraud detection systems employing **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing transaction behaviors to proactively identify and flag fraudulent activities, which improved detection accuracy by **35%**.\nCreated and managed ML pipelines for credit scoring and churn prediction, incorporating tools like **MLflow** and **Airflow**, that allow for real-time decision-making directly integrated into backend services, improving decision accuracy rates."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** alongside **Microservices** architecture to design and optimize backend services for a global e-commerce platform, achieving **99.9%** uptime and scalability across critical modules like checkout and order fulfillment.\nImplemented **CI/CD** pipelines and **Docker** containers to ensure faster deployment cycles, reducing deployment times by **40%** and enhancing overall productivity.\nEngineered robust API integrations with **AWS** and **Azure** cloud services to streamline service interactions and ensure high availability of resources across the platform.\nDeveloped automated testing frameworks enhancing the reliability of services, resulting in a **30%** reduction in production bugs and improved service stability.\nUtilized **Kubernetes** for container orchestration, maintaining application performance under peak loads, with successful management of over **500** container instances.\nManaged infrastructure as code (IaC) with **Terraform**, enabling consistent provisioning and configuration across multiple environments, thus reducing setup time by **50%**.\nLeveraged **Databricks** for data processing and analytics, optimizing data workflows and improving processing speed by **25%**.\nCollaborated on features involving **Automated Testing**, ensuring robust application performance across different modules while complying with industry standards.\nEngaged in effective **Gateway Configuration** for seamless routing between services, enhancing the responsiveness of customer interactions across platforms.\nFostered continuous improvement through agile methodologies and retrospectives, maintaining an iterative approach to software development and deployment in line with business objectives."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Java\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript, TypeScript, React, Vue, Angular\n\n**API Technologies:**\n\tAPI, Gateway configuration\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, CI/CD, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Kubeflow, Airflow, Microservices, Automated testing, Argo, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "TheWhiteam"
+}

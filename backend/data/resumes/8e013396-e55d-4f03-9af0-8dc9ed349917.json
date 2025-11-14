@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Software Engineer with over 10 years of experience in building and optimizing backend systems and microservices. Proficient in **Python** (FastAPI, Django, Flask), **Kotlin**, **AWS**, **MySQL**, and **Kubernetes**, ensuring seamless integration across various platforms. Skilled in CI/CD practices, observability, incident response, and automation, leveraging these skills to enhance operational efficiency and system resilience. Experienced in developing high-performing APIs and services, contributing to projects with major organizations including VISA, Sii Poland, and Reply Polska. Strong collaborator with a commitment to code review and technical documentation, driving impactful results through teamwork and innovative engineering solutions.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to engineer backend services with **FastAPI** for enhanced document automation and user onboarding, improving process efficiency by **30%**.\nLeveraged **Kubernetes** for orchestrating containerized services, ensuring system resilience during deployments with a **99.9%** uptime.\nImplemented event-driven architectures using **Celery** and **Redis** for efficient asynchronous processing of financial transactions, reducing response times by **40%**.\nDeployed microservices on **Azure App Services** while managing infrastructure as code with **Terraform**, resulting in streamlined cloud operations.\nCreated and maintained robust data pipelines for regulatory data exchange utilizing **Apache Airflow** and **Azure Functions**, ensuring compliance with real-time data accuracy and flow management.\nIntegrated **AWS** services to enhance operational efficiency, particularly in incident response strategies and automation of deployment workflows.\nLed code review sessions focused on technical documentation and collaboration across teams to optimize system integration, addressing challenges effectively."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems using **Python** and **FastAPI** to enhance automation in document workflows and streamline user onboarding, improving efficiency by **30%**.\n• Engineered event-driven microservices with **Celery** and **Redis**, enabling asynchronous processing for financial data that reduced transaction request times by **40%**.\n• Managed deployment of microservices on **Azure App Services**, utilizing **Terraform** for infrastructure automation, ensuring scalable environments with a **98%** uptime.\n• Created robust data pipelines for secure regulatory data exchange employing **Apache Airflow** and **Azure Functions**, automating data flows and reducing processing time by **50%**.\n• Conducted comprehensive security audits to ensure compliance with industry standards and integrated **OAuth2** and **Azure AD B2C** for effective authentication, enhancing access controls by **25%**.\n• Collaborated efficiently with cross-functional teams to ensure seamless system integration and regulatory compliance, contributing to successful release management processes."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** for developing backend services focused on trade execution, portfolio management, and account tracking, significantly enhancing operational efficiency in trading operations.\nEngineered real-time price feed processors utilizing **asyncio**, **WebSockets**, and **Redis**, resulting in delivery of up-to-the-minute trading data for **9** high-frequency transactions per second.\nCollaborated with frontend teams using **React** and **Vue** to deliver data through **REST APIs** and **WebSocket** channels, ensuring a smooth user interaction experience across the platform.\nEnsured compliance with regulatory frameworks including **MiFID II** and **GDPR** while adhering to internal data security protocols, thus protecting sensitive user data.\nImplemented comprehensive test suites with **PyTest**, **tox**, and mock servers, improving QA and CI processes and reducing error rates by **25%** in production releases.\nIntroduced job queuing and scheduling solutions using **Celery** and **RabbitMQ**, optimizing backend task execution and management processes for better system resilience.\nActively participated in code reviews and created technical documentation to enhance collaboration within the team, promoting knowledge sharing among team members."
+    }
+  ],
+  "skills": "Programming Languages:\n\t**Python**, **Kotlin**, SQL, Bash, JavaScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks:**\n\t**React**, **Vue**\n\n**API Technologies:**\n\tREST/gRPC APIs, Microservices, Kafka\n\n**Serverless and Cloud Functions:**\n\t**AWS (EC2, S3, Lambda)**, Azure\n\n**Databases:**\n\t**PostgreSQL**, **MySQL**, MongoDB, Redis\n\n**DevOps:**\n\t**Docker**, **Kubernetes**, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure:**\n\t**Observability**, **Operational Efficiency**, **Incident Response**, **Automation**, **Traffic Management**, **System Resilience**, **Code Review**, **Technical Documentation**, **Collaboration**\n\n**Other:**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, PyTest, Git",
+  "apply_company": "Affirm"
+}

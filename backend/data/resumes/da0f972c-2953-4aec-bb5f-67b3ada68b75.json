@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Results-driven Backend Engineer with 13+ years of experience specializing in **Go**, **Cassandra**, **Kafka**, **Kubernetes**, **Docker**, and **Envoy Proxy** for developing scalable distributed systems. Proficient in **AWS** and **GCP**, and skilled in deploying cloud-native applications with robust microservices architecture. Experienced in strongly-typed languages such as JavaScript/TypeScript and Python, with an ability to enhance system performance and reliability.\nAdept at team collaboration, fostering a product mindset, and making data-informed decisions to meet business objectives. Proven track record in delivering applications across healthcare and financial sectors, with a strong focus on compliance-driven development following HIPAA, FHIR, PCI DSS, and SOC 2 standards. Well-versed in MLOps and implementing AI/ML-powered solutions to drive innovation.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed backend solutions using **Go** to build scalable and efficient applications for healthcare and fintech industries, integrating with **Cassandra** and **Kafka** for high-throughput data processing.\nImplemented and managed containerization with **Docker** and orchestrated deployments using **Kubernetes**, facilitating robust, fault-tolerant, and easily maintainable distributed systems.\nCollaborated closely with cross-functional teams to ensure seamless integration between services, fostering a strong team collaboration environment and maintaining a product mindset.\nDesigned and optimized APIs adhering to best practices for security and performance, implementing standardized protocols for easier interoperability, ensuring data-informed decision making within the software architecture.\nLed efforts to create a testing framework using **React** to enhance frontend interactions against backend APIs, ensuring a seamless user experience through reliable integration tests.\nUtilized **AWS** and **GCP** to deploy scalable cloud-native applications, implementing best practices for monitoring and managing distributed systems efficiently.\nContributed to team efforts in code reviews and knowledge sharing sessions, reinforcing a culture of collaboration and continuous improvement within the team.\nDeveloped and maintained documentation for microservices architecture and processes, ensuring clarity and promoting onboarding for new team members, which enhanced overall productivity by **30%**.\nEnhanced CI/CD processes using tools like **Jenkins** and **GitHub Actions**, reducing deployment times by **50%** and increasing release frequency by implementing automated testing and quality checks at each stage.\nParticipated in architectural discussions and planning sprints, providing input based on technical expertise and experience, leading to an overall improvement in project efficiency by **25%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "- Developed distributed systems utilizing **Go** for building highly scalable backend services, ensuring robustness and reliability in financial applications.\n- Implemented **Cassandra** databases to support high availability and partition tolerance for transactional data management.\n- Designed and maintained event-driven architecture with **Kafka** for real-time data processing, streamlining workflows and enhancing system responsiveness.\n- Leveraged **Kubernetes** for container orchestration of applications, improving deployment efficiency and scalability in production environments.\n- Utilized **Docker** for containerization of services, enabling seamless development and deployment processes.\n- Integrated **Envoy Proxy** for service mesh architecture, facilitating load balancing, service discovery, and secure communication between microservices.\n- Collaborated effectively within teams, promoting a **data-informed decision making** approach and nurturing a **product mindset** to drive project success.\n- Enhanced core financial platforms via migration to microservices architecture using **Node.js** (NestJS/Express) and **Python** (FastAPI, Django), improving scalability and performance for systems handling up to **1M** transactions per day.\n- Built interactive front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, utilizing **Redux Toolkit** and **Tailwind CSS** to ensure a seamless user experience across **99%** of devices.\n- Delivered real-time analytics dashboards using **React**, **D3.js**, and **Power BI Embedded**, providing analytics capabilities that improved operational efficiency by **30%**.\n- Developed ETL pipelines for financial data ingestion utilizing **Apache Airflow** and **Azure Data Factory**, processing data in both **batch** and real-time modes.\n- Built and deployed machine learning models for fraud detection with **scikit-learn**, **XGBoost**, and **Azure ML**, achieving a **95%** accuracy rate in suspicious transaction identification.\n- Created ML pipelines for real-time credit scoring and churn prediction, seamlessly integrating model inference into backend services with **MLflow** and **Airflow**, influencing decision cycles and enhancing customer retention by **20%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and optimized backend services using **Go**, ensuring high availability and scalability across critical modules for a global e-commerce platform.\nEngineered distributed systems leveraging **Kafka** and **Cassandra** to support real-time features like inventory tracking and order updates, achieving response times under **100ms**.\nImplemented container orchestration through **Kubernetes** and **Docker**, resulting in streamlined development workflows and reduced deployment times by **30%**.\nCollaborated with cross-functional teams to enforce a product mindset, driving data-informed decision making that led to a **25%** increase in customer engagement metrics.\nUtilized **Envoy Proxy** for improved microservices communication, enhancing fault tolerance and reliability across the application stack.\nEmployed **AWS** and **GCP** services for cloud-based solutions, ensuring optimal resource allocation and scalability for high-traffic periods, reducing overhead costs by approximately **15%**.\nFostered team collaboration through Agile methodologies, facilitating continuous integration and deployment practices to enhance overall development efficiency.\nDeveloped frontend interfaces using **React** and other strongly-typed languages, ensuring performance and responsiveness tailored for mobile-first users, while adhering to data protection standards and compliance."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tGo, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tOAuth2, JWT, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Cassandra\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: Blob Storage, SQL Database, GCP\n\n**Other:**\n\tdistributed systems, strongly-typed languages, team collaboration, product mindset, data-informed decision making, Nginx, Let’s Encrypt, Certbot, Redis, MLflow, Airflow, Kubeflow, Envoy Proxy, Kafka"
+}

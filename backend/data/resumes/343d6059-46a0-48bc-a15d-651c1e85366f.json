@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior Data Engineer with 8 years of experience in leveraging **AWS** cloud technologies such as **Redshift**, **S3**, **Glue**, **Lambda**, and **Docker**. Proficient in building ETL and ELT pipelines, with strong skills in **Python**, **SQL**, **NoSQL**, and data modeling to optimize data workflows. Adept at implementing **MLOps** strategies, contributing to data privacy compliance, and collaborating effectively in Agile environments.\n\nMy technical expertise also includes developing robust data solutions within the healthcare and financial sectors, utilizing **FastAPI**, **Node.js**, and machine learning frameworks. I possess a strong foundation in cloud services, having led various projects that integrate **Kubernetes** for orchestration and deployment of scalable applications. I excel in problem-solving and possess excellent communication skills, which have driven successful collaborations across teams to deliver high-quality solutions.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS (Lambda, S3, Glue, Redshift)** and **Python** to design and implement ETL processes, ensuring efficient data ingestion, transformation, and storage while adhering to data privacy standards.\nExecuted data modeling and database design strategies using **SQL** and **NoSQL** databases such as PostgreSQL and MongoDB, optimizing for performance and future growth in large-scale data systems.\nLeveraged **Docker** and **Kubernetes** for containerization and orchestration, facilitating the deployment and management of microservices in cloud-native environments, achieving over **99% uptime**.\nEmployed MLOps tools including **MLflow** and **Apache Airflow** to streamline machine learning workflows, ensuring continuous integration and deployment of ML models, with automated monitoring and retraining mechanisms in place.\nCollaborated in an Agile environment, driving communication and problem-solving initiatives within cross-functional teams, leading to an overall reduction in project delivery timelines by **15%**.\nDeveloped comprehensive ETL pipelines that processed over **1 million records daily**, ensuring accuracy and adherence to data integrity standards in healthcare and financial datasets.\nIntegrated robust security protocols and practices into all data engineering solutions to meet compliance with regulatory requirements and data privacy laws.\nFostered collaboration among data scientists, facilitating the development and integration of advanced analytics capabilities such as predictive modeling into core applications, enhancing data-driven decision-making.\nImplemented efficient data querying solutions using **data privacy** measures, ensuring secure and compliant access to sensitive data for analytics.\nEstablished best practices in database architecture and design that increased query performance by **30%**, utilizing best-in-class technologies and methodologies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented data ingestion solutions using **AWS Glue** and **AWS Lambda**, ensuring efficient **ETL** processes for processing over **1M** transactions daily.\nDeveloped data models and structured storage solutions utilizing **Amazon Redshift** and **S3** to optimize data accessibility and analysis for financial reporting and real-time analytics.\nLeveraged **Python** for data manipulation and analysis, and scripted interactive dashboards in **R** and **Power BI** to present insights to stakeholders and enhance data-driven decision-making processes.\nFacilitated database design and implemented **NoSQL** solutions for unstructured data, improving data retrieval times by over **30%** and enhancing overall system performance.\nUtilized **Docker** and **Kubernetes** for containerization and orchestration of applications, streamlining the deployment pipeline through automation and facilitating scalability for development environments.\nApplied MLOps practices to integrate machine learning models into production environments, ensuring seamless deployment using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**.\nPromoted data privacy strategies and ensured compliance with regulations while collaborating with cross-functional teams in an **Agile** framework to deliver high-quality software solutions and enhancements."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Leveraged **AWS** services such as **S3**, **Redshift**, and **Glue** for efficient data processing and management, ensuring streamlined **ETL** and **ELT** workflows to handle high-volume datasets over **250TB**.\nDesigned and implemented data models and optimized database design using both **SQL** and **NoSQL** databases, notably achieving a **40%** improvement in query performance while ensuring data integrity and reliability.\nUtilized **Python** for developing data pipelines and automation scripts, enhancing data processing speeds by up to **50%** through efficient coding practices and utilizing libraries like **Pandas** and **NumPy**.\nManaged containerized applications using **Docker** and orchestrated workflows with **Kubernetes**, ensuring scalability and ease of deployment for data-centric applications with a team of **5 engineers**.\nCollaborated cross-functionally with analytics teams, employing **R** for advanced statistical analysis and data visualization, resulting in improved decision-making and strategic insights.\nImplemented data privacy measures and ensured compliance with **GDPR** regulations, applying techniques that enhanced security by **30%** through the use of role-based access control (RBAC) and cryptography.\nEngaged in Agile methodology, driving problem-solving sessions that facilitated collaboration with stakeholders, ultimately reducing project timelines by **25%** while improving communication and effecting change.\nExecuted MLOps practices to deploy machine learning models into production, utilizing **Lambda** functions for real-time inference, which improved processing efficiency for data queries by up to **60%**."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, R\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda, S3), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, Redshift, NoSQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD & Infrastructure as Code (Terraform, Ansible, Helm, Docker Compose)\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS), Azure (Blob)\n\n **Other:**\n\tMLOps, ETL, ELT, data modeling, database design, data privacy, Agile, communication, problem-solving, collaboration, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Airflow, Kubeflow",
+  "apply_company": "Atorus"
+}

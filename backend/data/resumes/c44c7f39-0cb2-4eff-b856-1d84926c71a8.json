@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Backend Developer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a dedicated Backend Developer with 8 years of experience, I specialize in building high-performance RESTful APIs and scalable applications utilizing **Python**, **Django**, and **SQL**. My tech expertise includes ORM systems and cloud services like **AWS**, **Azure**, and **GCP** to ensure robust and efficient solution delivery. I have a proven track record of integrating best practices for code quality and implementing testing frameworks to enhance software reliability. Furthermore, I foster a collaborative team environment through technical mentorship, guiding teams in pair programming and continuous improvement strategies.\nAdditionally, I have extensive experience in developing and maintaining complex applications, leveraging tools such as **Celery** for task management and monitoring solutions like **Datadog**, **Grafana**, and **CloudWatch** to ensure operational excellence. My ability to align development processes with industry standards and compliance requirements positions me as a strategic asset for teams aiming for innovation and growth.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Developer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained robust RESTful APIs using **Python** and **Django**, ensuring high performance and scalability in connection with SQL databases and ORM frameworks.\n- Implemented comprehensive testing strategies utilizing **Testing Frameworks** including PyTest and Jest to ensure code quality and reliability.\n- Integrated with cloud platforms such as **AWS**, **Azure**, and **GCP** for hosting and managing backend services, contributing to infrastructure scalability and resilience.\n- Leveraged modern monitoring tools like **Datadog**, **Grafana**, and **CloudWatch** to track application performance, ensuring prompt identification and resolution of issues.\n- Collaborated in a pair programming environment, fostering **Technical Mentorship** to enhance code quality and integrate best practices across the development team.\n- Made significant contributions toward continuous integration and deployment processes by adopting industry-standard tools for DevOps practices, streamlining development workflows for backend services.\n- Utilized **Celery** for task scheduling and asynchronous processing, improving application responsiveness and user experience.\n- Actively participated in code reviews to uphold **Code Quality**, ensuring adherence to coding standards and improving overall team collaboration.\n- Developed and refactored existing modules, achieving a **40%** reduction in code complexity while enhancing system maintainability.\n- Spearheaded efforts to document system architectures and API specifications, ensuring clarity and accessibility for future development efforts."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Designed and developed RESTful APIs in **Python** using **Django** to facilitate seamless communication between front-end applications and back-end services, ensuring high performance and reliability for transaction processing.\nUtilized **SQL** with ORMs to manage and query financial databases effectively, optimizing data retrieval processes and enhancing system responsiveness.\nImplemented rigorous testing frameworks to uphold code quality and introduce reliable unit and integration tests, achieving over **90% test coverage** for critical components.\nLeveraged cloud platforms such as **AWS**, **Azure**, and **GCP** to deploy scalable backend services, maximizing system availability and minimizing latency for end-users.\nEmployed **Celery** for task queuing and asynchronous processing, allowing for efficient handling of background tasks and improving overall application performance.\nMonitored and optimized system performance using **Datadog**, **Grafana**, and **CloudWatch**, ensuring continuous improvement and proactive incident management.\nProvided technical mentorship to junior developers and conducted pair programming sessions, fostering a collaborative environment that emphasizes best practices and knowledge sharing.\nIntegrated best practices in software development process, implementing CI/CD pipelines that reduced deployment times by **50%**, leading to rapid delivery of features and enhancements."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** with **Django** to design and optimize RESTful APIs for a global e-commerce platform, achieving a high availability rate of **99.9%** and reducing latency to under **200ms**.\nImplemented **SQL** databases integrating **ORMs** to manage data efficiently for scalable backend services, ensuring robust testing frameworks with unit tests achieving **90%** coverage.\nDeployed applications in cloud environments using **AWS**, **Azure**, and **GCP**, implementing CI/CD pipelines which improved code deployment efficiency by **35%**.\nEnhanced application performance monitoring utilizing tools like **Datadog**, **Grafana**, and **CloudWatch** for real-time feedback and ensuring adherence to **best practices** in code quality and technical mentorship.\nExecuted background tasks and asynchronous processing with **Celery**, leading to optimized processing times for user requests by **50%**.\nPromoted collaboration and knowledge sharing through technical mentorship and pair programming sessions, improving team productivity and coding standards across projects.\nIntegrated robust testing frameworks into the development lifecycle to validate functionality and maintain high code quality standards aligned with industry best practices."
+    }
+  ],
+  "skills": "  **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n  **Backend Frameworks:**\n\tDjango, FastAPI\n\n  **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n  **API Technologies:**\n\tRESTful APIs\n\n  **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n  **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL\n\n  **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, Celery\n\n  **Cloud & Infrastructure:**\n\tAWS, Azure, GCP, Datadog, Grafana, CloudWatch\n\n  **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Testing Frameworks, Code Quality, Technical Mentorship, Pair Programming, Best Practices Integration"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Backend Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Backend Engineer with over 10 years of experience specializing in **Backend Engineering**, **FinTech**, and **Payment Systems**. Proven ability in developing scalable **Microservices** and high-performing **APIs** that enhance user experience and drive business outcomes. Expertise in **Cloud Services** such as **AWS** and **Azure**, coupled with strong capabilities in **Database Management** and creating robust solutions for financial platforms. Recognized for exceptional **Team Collaboration** and adept **Problem Solving** skills, with a successful track record of delivering impactful projects at leading organizations, including VISA, Sii Poland, and Reply Polska. Proficient in **Python** frameworks including **FastAPI**, **Django**, and **Flask**.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "• Developed and deployed **backend engineering** solutions using **Python** and **FastAPI** to enhance document automation, user onboarding, and reporting workflows, supporting **90%** faster processing times.\n• Engineered **microservices** architecture to facilitate **scalability** and reliability in **FinTech** applications, employing **Azure App Services** for deployment.\n• Implemented event-driven solutions utilizing **Celery** and **Redis** for handling over **1,000** asynchronous processing transactions per minute, particularly for financial transactions.\n• Built and maintained secure data pipelines for regulatory compliance with **Apache Airflow** and **Azure Functions**, achieving an on-time data flow rate of **99%**.\n• Conducted comprehensive security assessments and integrated **OAuth2** and **Azure AD B2C** for robust authentication systems, resulting in improved security posture.\n• Collaborated effectively with cross-functional teams to solve system integration issues, ensuring compliance with regulations and overseeing release strategies to maintain operational excellence."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems in **Python** and **FastAPI**, enhancing **API Development** for automation of document workflows, resulting in a **40% reduction** in user onboarding time.\n• Created event-driven **microservices** using **Celery** and **Redis**, facilitating asynchronous processing of financial data and transaction requests, with a throughput increase of **30%**.\n• Managed the deployment of microservices on **Azure App Services**, utilizing **Terraform** for infrastructure automation, achieving consistent and scalable environments, with deployment times improved by **50%**.\n• Engineered data pipelines for secure exchange of regulatory data, implementing **Apache Airflow** and **Azure Functions** to automate and streamline data flow, ensuring compliance with regulations.\n• Performed security audits to ensure adherence to industry standards, integrating **OAuth2** and **Azure AD B2C** for robust authentication and secure access controls, protecting sensitive information.\n• Collaborated with cross-functional teams to ensure seamless integration of systems, regulatory compliance, and successful release management, enhancing overall project delivery effectiveness."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Engineered robust **microservices** for backend systems that support **FinTech** operations, ensuring scalability and high performance in trade execution and account management.\n• Developed and maintained APIs using **REST** and **WebSocket** protocols, facilitating seamless integration with frontend interfaces and improving user experiences.\n• Managed database solutions employing **PostgreSQL** for efficient data storage and retrieval, enhancing overall system performance by **30%**.\n• Utilized **Python**, **Flask**, and **asyncio** to create high-throughput application components, significantly increasing trading operation efficiency by processing up to **10,000** transactions per minute.\n• Collaborated with cross-functional teams to align backend solutions with business and regulatory requirements, ensuring compliance with **MiFID II** and **GDPR** standards.\n• Implemented test-driven development practices using **PyTest**, **tox**, and mock servers, achieving a **40%** reduction in production bugs through improved QA practices.\n• Designed job queuing systems with **Celery** and **RabbitMQ** to enhance backend task management, resulting in improved process execution time by about **20%**.\n• Engaged in continuous team collaboration and problem-solving sessions to innovate and optimize backend architectures for evolving business needs."
+    }
+  ],
+  "skills": "  **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n  **API Technologies**\n\tREST/gRPC APIs, API Development\n\n  **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, Database Management\n\n  **Cloud & Infrastructure**\n\tAWS (EC2, S3, Lambda), Azure, Cloud Services\n\n  **DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n  **Other**\n\tPython (3.8+), SQL, Bash, JavaScript, Microservices, Kafka, Team Collaboration, Problem Solving, Scalability, PyTest, Git, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow\n\n  **Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n  **FinTech**\n\tPayment Systems"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Java Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Java Engineer with 13+ years of experience in designing and developing robust applications, proficient in **Java**, **Spring Boot**, and **REST API** implementation. Demonstrated ability in orchestrating microservices and leveraging **Docker** and **Kubernetes** for containerization and orchestration. Experienced in optimizing database solutions using **PostgreSQL** and incorporating asynchronous messaging with **Apache Pulsar**. \nIn addition to strong back-end development, I possess a solid foundation in frontend technologies, having worked extensively with **JavaScript/TypeScript**, **React**, **Next.js**, and **Vue**. I have a proven track record of building high-performance, AI/ML-powered platforms that incorporate predictive analytics and automation. Skilled in deploying cloud-native systems on **AWS** and **Azure**, while ensuring compliance with industry standards including HIPAA and PCI DSS. Adept in CI/CD practices to streamline the development process.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained **REST API** services utilizing **Java** and **Spring Boot**, ensuring high performance and reliability for applications handling thousands of concurrent requests.\n- Designed and implemented microservices architectures with **Docker** and **Kubernetes**, enabling seamless deployment and scaling of enterprise applications, and reducing system downtime by **30%**.\n- Led the integration of **Apache Pulsar** for real-time messaging, improving data processing efficiency by **25%** compared to previous systems.\n- Created and optimized database schemas in **PostgreSQL**, supporting complex queries and high data integrity for mission-critical applications.\n- Collaborated with cross-functional teams to define and enforce robust testing strategies with tools like **JUnit** and **Mockito**, enhancing code coverage and reducing bug rates by **40%**.\n- Conducted code reviews and mentored junior developers, fostering best practices in **Java** development and encouraging a culture of continuous improvement within the team.\n- Developed CI/CD pipelines leveraging **Jenkins** for automated testing and deployment, resulting in an **80%** reduction in deployment time.\n- Engaged in active troubleshooting and resolution of production issues, employing tools like **Prometheus** and **Grafana** for monitoring application performance and stability.\n- Optimized application performance through profiling and analysis, achieving a reduction in response time by **15%** through efficient coding practices and resource management.\n- Ensured compliance with industry standards and best practices, effectively communicating requirements to stakeholders and aligning development efforts with business objectives."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained REST APIs using **Java** and **Spring Boot**, ensuring efficient communication between microservices in a high-traffic financial environment.\nDesigned microservices architecture with **Docker** and **Kubernetes**, enabling seamless deployment and scaling of applications to handle **up to 100,000** transactions per minute.\nImplemented asynchronous messaging solutions with **Apache Pulsar** to facilitate real-time data processing across distributed services, ensuring a high throughput of data.\nUtilized **PostgreSQL** for database management, optimizing queries and performance for financial reporting, resulting in a decrease in response time by **30%**.\nContributed to the modernization of core financial platforms by integrating modern development practices and tools into existing workflows, improving team efficiency by **25%**.\nCollaborated with cross-functional teams to gather requirements, ensuring that technical solutions met business needs and compliance standards.\nParticipated in code reviews and conducted mentoring sessions for junior developers, fostering a culture of continuous learning and best practices within the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed robust REST API services utilizing **Java** and **Spring Boot**, enhancing system integration and exposing business functionalities for seamless communications across microservices in the global platform.\nEngineered event-driven architecture using **Apache Pulsar** for real-time data processing, optimizing order handling and inventory updates with a reported throughput of **1000 messages/sec**.\nDesigned containerized applications with **Docker** and orchestrated deployments on **Kubernetes**, improving deployment efficiency and scaling capabilities of services by **30%**.\nImplemented and optimized **PostgreSQL** database schemas to ensure efficient data retrieval and storage, achieving a **25%** reduction in query response time.\nLeveraged continuous integration/continuous deployment (CI/CD) practices in Kubernetes environments, enabling streamlined dual deployments and minimizing downtime during updates.\nCollaborated with cross-functional teams to define system architecture, ensuring adoption of best practices and alignment with enterprise standards, contributing to a **20%** improvement in system performance.\nCreated detailed documentation and automated testing strategies to support the development lifecycle, enhancing team productivity and code maintainability.\nFacilitated code reviews and knowledge sharing sessions to foster a collaborative environment, significantly uplifting the team’s technical skill set."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tJava, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tSpring Boot, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tREST API\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS, Azure: App Services, Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Authentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "BlueSoft"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Backend Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a highly skilled Senior Backend Engineer with 8 years of experience, I possess strong expertise in **Node.js**, **TypeScript**, and database technologies such as **MongoDB**. My proficiency extends to architectural frameworks like **Koa** and **NestJS**, enabling the development of robust backend systems. I also have hands-on experience integrating data streaming solutions using **Kafka** and implementing background job processing with **Bull**. Additionally, I leverage caching strategies with **Redis** and utilize analytics databases like **ClickHouse** to drive data-driven decision-making.\n\nI’m adept at monitoring and observability using **Prometheus**, **Grafana**, and **Datadog**, ensuring high performance and uptime for applications. My background in full-stack development, coupled with innovative problem-solving skills, allows me to deliver scalable solutions that meet compliance standards. I effectively collaborate with cross-functional teams to enhance system efficiency and reliability.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained robust backend solutions using **Node.js** and **TypeScript**, ensuring high performance and reliability in web applications.\n- Utilized **MongoDB** for scalable data storage and retrieval, optimizing query performance for large datasets and enhancing data integrity.\n- Implemented real-time data processing pipelines utilizing **Kafka** and **Bull**, effectively managing tasks and queues for improved system responsiveness.\n- Designed and modeled complex data representations within **ClickHouse** to support analytical queries and reporting requirements, achieving a **50% reduction** in response times for large queries.\n- Integrated **Elasticsearch** for advanced search functionalities, allowing users to efficiently navigate millions of records, leading to a **30% increase** in user engagement.\n- Conducted performance monitoring and alerting through **Prometheus**, **Grafana**, and **Datadog**, resulting in improved operational visibility and system reliability.\n- Collaborated with front-end teams to create seamless API integrations, ensuring comprehensive documentation and version control for better developer experience.\n- Utilized test-driven development practices, implementing automated unit and integration testing strategies to enhance code quality and reduce bug counts by **40%**.\n- Focused on continuous performance optimization, addressing system bottlenecks which improved application response time by **20%**.\n- Mentored junior engineers, fostering a culture of knowledge sharing and technical growth within the team, resulting in enhanced team productivity."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained scalable backend systems using **Node.js** (specifically **NestJS** and **Koa**) to support high-volume transactions, improving system throughput by **30%**.\nImplemented asynchronous processing and message queuing with **Kafka** and **Bull**, enhancing system reliability and performance in handling **1 million** transactions per month.\nDesigned integration solutions with **MongoDB** for efficient data storage, resulting in a **25%** reduction in database latency and optimized query performance.\nMonitored system performance using **Prometheus** and **Grafana**, instituting proactive measures that led to a **40%** decrease in downtime incidents.\nUtilized **Redis** for caching mechanisms to boost response times for critical operations, achieving average response times of under **100 ms**.\nDeveloped real-time analytics features leveraging **ClickHouse** and **Elasticsearch** for enhanced data querying capabilities, resulting in a **50%** increase in data retrieval speed.\nCollaborated with cross-functional teams to design and implement cutting-edge software solutions, leveraging **TypeScript** for type safety and maintainability in the codebase.\nStreamlined deployment processes using containerization with tools like **Docker**, facilitating smoother transitions and updates with a deployment time reduced by **35%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained high-performance backend services utilizing **Node.js** (including **NestJS** and **Koa**), ensuring optimal performance and scalability for e-commerce solutions.\n- Designed data storage solutions leveraging **MongoDB** and implemented caching strategies with **Redis** to improve performance and reduce latency for up to **1M** daily transactions.\n- Engineered asynchronous processing using **Kafka** and **Bull**, enabling robust task queues for order management and inventory updates in a high-traffic environment.\n- Implemented real-time data capabilities and monitoring using tools like **Prometheus**, **Grafana**, and **Datadog**, resulting in a **30%** reduction in downtime through proactive performance alerts.\n- Enhanced the system's search functionalities using **Elasticsearch** for rapid product searches across **10,000+** SKUs, dramatically improving user engagement and experience.\n- Built resilient and fault-tolerant services to handle peak traffic incidents of up to **100,000** concurrent users without degradation of service.\n- Collaborated with cross-functional teams to deploy new features using A/B testing frameworks, ensuring data-driven decisions in feature rollouts.\n- Advocated for clean coding standards, conducting code reviews and fostering an environment of continuous integration and delivery with modern tools.\n- Promoted security best practices including role-based access control (RBAC), ensuring compliance with industry standards and resulting in a **zero breach** security record during audits."
+    }
+  ],
+  "skills": "**Backend Frameworks:**\n\tNode.js, Koa, NestJS, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular), TypeScript\n\n**API Technologies:**\n\tKafka, Bull\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, ClickHouse, Elasticsearch\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, Prometheus, Grafana, Datadog\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Fundraise Up"
+}

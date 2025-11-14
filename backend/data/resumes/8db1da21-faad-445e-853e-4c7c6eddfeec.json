@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Golang Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Golang Engineer with over 10 years of experience in developing high-performance software solutions, particularly in healthcare and finance. Expertise in **GoLang**, **AWS**, **microservices**, **NoSQL**, **SQL**, **Docker**, and **Jenkins**, with a proven track record of delivering scalable applications. Proficient in building cloud-native architectures leveraging **AWS CDK** and **Terraform** for infrastructure as code, as well as message-driven systems using **Kafka**, **RabbitMQ**, and **AWS SQS**. Skilled in **Python** and experienced in CI/CD automation, enhancing code deployment processes through effective use of **Git**. Strong problem-solving abilities and excellent communication skills help foster collaboration across teams and drive projects forward. Passionate about integrating innovative solutions that positively impact users, while adhering to compliance standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "•\tDeveloped and maintained microservices architecture using **GoLang**, facilitating efficient scalability and performance for healthcare and financial applications.\n•\tImplemented robust back-end solutions in **AWS**, utilizing services such as **AWS CDK**, **Terraform**, and **AWS SQS** to optimize cloud infrastructure and manage application deployments effectively.\n•\tEngineered systems with **Docker** for containerization, ensuring smooth deployments across various environments while adhering to best practices in DevOps.\n•\tUtilized both **SQL** (PostgreSQL, MongoDB) and **NoSQL** databases, optimizing data architecture for handling large-scale healthcare and financial datasets.\n•\tDesigned and executed messaging solutions with **Kafka** and **RabbitMQ**, enhancing data streaming and communication between distributed system components.\n•\tCollaborated with cross-functional teams to deliver high-quality software solutions, applying problem-solving skills to resolve technical challenges promptly.\n•\tIntegrated CI/CD pipelines using **Jenkins** and **Git**, automating deployment processes to improve development efficiency and reduce time-to-market by **30%**.\n•\tParticipated in Agile ceremonies, fostering communication across teams and ensuring alignment with project goals, leading to a **20%** improvement in project delivery timelines.\n•\tMentored junior developers in best practices of **GoLang** development, fostering skills in efficient coding, debugging, and application architecture principles.\n•\tContributed to the optimization of system performance and reliability, implementing industry standards to maintain high service uptime of **99.9%**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Developed scalable and maintainable microservices-based architectures using **GoLang** and **Docker**, resulting in a 30% increase in system throughput for high-volume transaction platforms.\n• Leveraged **AWS** services to build reliable cloud solutions, achieving a 99.9% uptime with automated deployments through **Jenkins** and **Git** version control, streamlining the development process.\n• Integrated event-driven systems with **Kafka**, **RabbitMQ**, and **AWS SQS**, enhancing asynchronous communication and enabling real-time processing of financial transactions and alerts.\n• Created and managed **ETL pipelines** using **Python** and **AWS CDK**, processing over **1 million records** daily from diverse internal and third-party financial data sources.\n• Utilized **NoSQL** and **SQL** databases to efficiently store, retrieve, and query transaction data, resulting in a 25% reduction in data access time for analytics and reporting.\n• Employed problem-solving skills to design and implement robust **fraud detection systems** using machine learning techniques, effectively flagging suspicious activities with a **95% accuracy rate**.\n• Collaborated with cross-functional teams to align development efforts with business goals, enhancing communication and ensuring smooth project delivery across different stages of the software lifecycle."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Developed and optimized microservices in **GoLang**, ensuring high performance, scalability, and maintainability across the application.\nLeveraged **AWS** services, including **AWS SQS** and **AWS CDK**, for robust cloud solutions, enhancing deployment efficiency and infrastructure management.\nEngineered distributed systems using **NoSQL** and **SQL** databases, including efficient data access strategies to support high-load scenarios with **MongoDB** and **PostgreSQL**.\nUtilized **Docker** for containerization, enabling consistent development, testing, and production environments, achieving deployment times reduced by **30%**.\nImplemented CI/CD pipelines with **Jenkins** and **Git**, streamlining version control and deployment processes, resulting in a **25%** increase in deployment frequency.\nIncorporated message brokers like **Kafka** and **RabbitMQ** for event-driven architecture, enhancing system responsiveness and decoupling services.\nDesigned application components with a focus on problem-solving, facilitating seamless integration and collaboration within cross-functional teams.\nCommunicated effectively across departments to align project goals and technical strategies, enhancing overall project success and team morale.\nApplied configuration management tools such as **Terraform** for infrastructure as code, reducing setup times for new environments by **40%** globally.\nEnsured high-quality code through rigorous testing and code reviews, maintaining a code coverage of over **80%** across services."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, GoLang\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript, TypeScript, React, Vue, Angular\n\n **API Technologies:**\n\tKafka, RabbitMQ, AWS SQS\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda, AWS CDK\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, NoSQL, SQL\n\n **DevOps:**\n\tDocker, Kubernetes, Git, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, problem-solving, communication, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "IDT Corporation"
+}

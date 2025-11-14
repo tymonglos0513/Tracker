@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Field Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Seasoned Senior Field Engineer with over 10 years of experience adept at technical problem solving, error analysis, and preventive maintenance within complex systems. Skilled in user training and creating comprehensive technical documentation, ensuring clarity in customer communication and quotation preparation. Proven ability to navigate helpdesk ticketing systems efficiently while maintaining strong communication and fostering team spirit. Leveraging a solution-oriented approach, I excel in delivering impactful solutions for clients in life sciences, adhering to ISO standards for quality assurance. My technical background includes expertise in high-performing APIs, automation tools, and scalable services, utilizing a tech stack that features **Python (FastAPI, Django, Flask)** and cloud platforms such as **AWS** and **Azure**. Successfully contributed to key projects for esteemed organizations like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Field Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "• Implemented **technical problem solving** strategies to enhance backend services developed in **Python** with **FastAPI**, focusing on document automation and reporting workflows.\n• Utilized **error analysis** to monitor and refine event-driven solutions employing **Celery** and **Redis**, optimizing asynchronous processing for **9** financial transaction requests per second.\n• Executed **preventive maintenance** protocols while deploying microservices on **Azure App Services**, leveraging **Terraform** for infrastructure as code management to support **99.9%** uptime.\n• Designed and maintained data pipelines utilizing **Apache Airflow** and **Azure Functions** for regulatory data exchange, ensuring **timely and accurate data flow** and adherence to compliance standards.\n• Led **user training** initiatives and created **technical documentation** for integrating **OAuth2** and **Azure AD B2C**, establishing secure authentication systems.\n• Fostered **customer communication** to address technical issues while overseeing project deliverables, ensuring alignment with **ISO standards** and **life sciences experience** in system integrations.\n• Coordinated with cross-functional teams to tackle integration challenges and enforced a **solution-oriented approach**, significantly improving responsiveness to helpdesk ticketing systems."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Technical Problem Solving: Developed backend systems using **Python** and **FastAPI** to automate document workflows and streamline user onboarding, reducing onboarding time by **30%**.\n\nError Analysis: Created event-driven microservices with **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests, improving processing speed by **50%**.\n\nPreventive Maintenance: Managed the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation, ensuring a consistent and scalable environment with **99.9%** uptime.\n\nUser Training: Engineered data pipelines for secure exchange of regulatory data using **Apache Airflow** and **Azure Functions**, automating the data flow and reducing manual intervention by **40%**.\n\nTechnical Documentation: Performed security audits to ensure compliance with ISO standards, and integrated **OAuth2** and **Azure AD B2C** for managing authentication and secure access controls.\n\nCustomer Communication: Collaborated with cross-functional teams to ensure smooth system integration, maintain regulatory compliance, and facilitate successful release management, enhancing client satisfaction scores by **20%**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized strong communication skills to provide user training and technical documentation for implementation of backend services in a trading platform.\nImplemented technical problem solving strategies to develop backend services for trade execution, portfolio management, and account tracking using **Python**, **Flask**, and **PostgreSQL** to enhance trading operations.\nConducted thorough error analysis on real-time price feed processors engineered with **asyncio**, **WebSockets**, and **Redis** to deliver up-to-the-minute trading data for **high-frequency transactions** contributing to a **25% increase** in data retrieval efficiency.\nCollaborated with frontend teams to ensure smooth customer communication and interaction through REST APIs and WebSocket channels.\nAssured adherence to ISO standards and regulatory requirements, including MiFID II and GDPR, while following internal data security protocols.\nLed the implementation of comprehensive test suites with **PyTest**, **tox**, and **mock servers**, streamlining QA and CI processes for efficient development cycles, resulting in a **30% reduction** in bug reports.\nOptimized backend task execution and process management by introducing job queuing and scheduling solutions with **Celery** and **RabbitMQ**, improving operational throughput by **40%**."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n **Frontend Frameworks**\n\t\n\n **API Technologies**\n\tREST/gRPC APIs, Microservices\n\n **Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, PyTest, Git\n\n **Cloud & Infrastructure**\n\t\n\n **Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, technical problem solving, error analysis, preventive maintenance, user training, technical documentation, customer communication, quotation preparation, life sciences experience, ISO standards, helpdesk ticketing system, strong communication, team spirit, solution-oriented approach",
+  "apply_company": "SCIENION"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Data Engineer with 8 years of experience, I excel in Data Engineering and Data Warehousing, employing modern methodologies in **Python**, **ETL**, and **ELT** processes. I possess a strong command of **data modeling** and utilize tools such as **dbt**, **Snowflake**, and **Databricks** to build scalable data solutions. My technical proficiency extends to cloud services, particularly **AWS**, with hands-on experience in **Terraform** and **CloudFormation** to implement Infrastructure as Code.\nI have effectively developed and maintained data pipelines ensuring exceptional **data quality** while facilitating cross-functional **collaboration** within teams. My background in full-stack development includes technologies like **React**, **Node.js**, and **Django**. Alongside my expertise in delivering robust data solutions, I am committed to leveraging Advanced Cloud Architecture and strong design patterns to optimize performance.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and developed robust data engineering solutions to support data warehousing initiatives using **Python** and **dbt**, ensuring improved performance and adherence to data quality standards.\nImplemented ETL and ELT processes for ingesting and transforming data using **Snowflake**, resulting in a **30%** reduction in data processing time.\nArchitected scalable data models to optimize data storage and retrieval, enabling access to large datasets in real-time to support analytical queries.\nCollaborated with cross-functional teams to enhance customer data platforms, integrating data from diverse sources and optimizing for analytics-driven decision-making.\nLeveraged **Databricks** for unified analytics and batch processing of data, improving data processing capabilities by **25%**.\nDeployed infrastructure as code using **Terraform** and **CloudFormation**, driving consistency and reducing deployment time by **40%** across cloud environments.\nConducted thorough data quality assessments to ensure data integrity, implementing monitoring solutions to address anomalies proactively.\nLed collaborative sessions to gather requirements from stakeholders, guiding the development team in aligning data systems with business goals and strategic initiatives.\nImplemented automated CI/CD pipelines for data workflows, enhancing deployment frequency and reliability for data engineering projects.\nOptimized data models for **AWS** services, ensuring efficient data flow between data sources and reporting tools, resulting in real-time data availability for stakeholders."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented data pipelines leveraging **ETL** and **ELT** principles to ensure accurate and efficient data processing for high-volume financial transactions.\nUtilized **Python** for developing data transformation scripts, ensuring data quality and integrity in accordance with established **data modeling** standards.\nBuilt data warehousing solutions with **Snowflake** and integrated **Databricks** for advanced analytics capabilities, improving data accessibility for business intelligence.\nDeveloped customer data platforms employing **AWS** services to centralize customer data, enhancing insights and customer engagement strategies.\nDeployed infrastructure using **Terraform** and **CloudFormation** to automate and manage cloud resources effectively, adhering to **Infrastructure as Code** practices for consistent environments.\nCollaborated with cross-functional teams to drive data quality initiatives, establishing best practices for data governance and compliance across the organization.\nLed the architecture and development of robust ETL pipelines for real-time data ingestion, optimizing batch processes with measurement improvements of up to **50%**.\nConducted performance tuning and optimization of existing pipelines, achieving a **30%** reduction in processing times and ensuring timely data availability for analytics.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Designed and implemented data pipelines for effective **ETL** and **ELT** processes, utilizing **Python** and **dbt** to ensure seamless data flow and transformation across various sources.\nEngineered data models and warehouses on **Snowflake** and **Databricks**, optimizing data retrieval and processing for analytics and reporting, handling up to **2TB** of data daily.\nDeveloped and maintained infrastructure as code using **Terraform** and **CloudFormation**, automating deployment processes and ensuring consistency in the environment across **AWS** services.\nCollaborated with cross-functional teams to enhance **data quality** and integrity, conducting regular audits and optimizations, boosting data accuracy by **30%**.\nImplemented customer data platforms, creating a comprehensive view and engagement strategy leveraging advanced tools for real-time analytics and decision-making, increasing customer insights by **25%**.\nCreated custom solutions for data visualization and reporting, assisting stakeholders in understanding trends and patterns, improving operational efficiency.\nManaged data governance practices, ensuring compliance with **GDPR** and maintaining the security of sensitive data throughout the platform.\nDeveloped documentation and collaborated with teams using agile methodologies, enabling rapid development cycles and improved communication across departments."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript, React, Vue, Angular\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Snowflake\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAzure (App Services, Blob, SQL), CloudFormation, Infrastructure as Code\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, dbt, Data Engineering, Data Warehousing, ETL, ELT, data modeling, Customer Data Platforms, data quality, collaboration, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Olo"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Backend Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Backend Engineer with over 10 years of experience in crafting robust backend systems. Proficient in building high-performance applications using **Node.js**, **Koa**, **NestJS**, and **TypeScript**, with a solid grasp in database management through **MongoDB** and data streaming using **Kafka**. Expertise in performance monitoring and observability using **Prometheus**, **Grafana**, and **Datadog**. Skilled in implementing secure and scalable architectures, leveraging caching strategies with **Redis** and data storage solutions such as **ClickHouse** and **Elasticsearch**. A proven contributor to successful financial and scalable projects across leading organizations like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered backend services in **Node.js** using **Koa** to enhance performance monitoring and streamline user interactions.\nDeveloped scalable microservices architecture with **NestJS** and utilized **TypeScript** for building robust applications, ensuring maintainability and speed.\nImplemented persistent data storage solutions using **MongoDB** and optimized data retrieval and analytics with **ClickHouse** and **Elasticsearch**.\nDesigned and managed real-time data processing workflows using **Kafka** and **Bull** to handle asynchronous job queues for efficient task management.\nEstablished comprehensive performance monitoring with **Prometheus**, **Grafana**, and **Datadog** to track application health metrics with **99.9%** uptime.\nCollaborated with multi-disciplinary teams to resolve complex system integration issues, achieve compliance standards, and develop release strategies effectively.\nLed the successful migration of legacy systems to microservices, completing transitions for **3** critical applications ahead of a **6-month** deadline, thus improving system resiliency."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Developed robust backend systems utilizing **Node.js**, **Koa**, and **NestJS** to enhance document workflows, streamline user onboarding, and optimize complex reporting processes.\nCreated event-driven microservices leveraging **Kafka** and **Bull**, enabling asynchronous processing of financial data and handling **over 1,000** transaction requests per minute.\nManaged the deployment of microservices on cloud platforms, ensuring performance monitoring with **Prometheus**, **Grafana**, and **Datadog**, which improved system reliability by **30%**.\nEngineered secure data pipelines for the exchange of regulatory data, utilizing **MongoDB** for persistent storage and **ClickHouse** for analytical processing, resulting in a **50%** reduction in data retrieval times.\nConducted security audits to guarantee compliance with industry standards, integrating **Elasticsearch** for logging and **Redis** for session management.\nCollaborated with cross-functional teams to ensure system integration, regulatory compliance, and effective release management, achieving successful deployments every **2 weeks**."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed and optimized backend services using **Node.js**, **Koa**, and **NestJS** for enhanced trading operations in a performance-driven environment.\nEngineered robust data pipelines with **Kafka** and **Redis**, ensuring real-time processing of up-to-the-minute trading data for **high-frequency transactions**.\nCollaborated closely with frontend teams delivering data through REST APIs and WebSocket channels, ensuring seamless integration with the platform and maintaining an uptime of **99.9%**.\nImplemented comprehensive testing strategies with **TypeScript** and **MongoDB**, improving development efficiency and reducing defect rates by **30%**.\nMonitored application performance using **Prometheus**, **Grafana**, and **Datadog**, enabling proactive maintenance and reducing response times by **15%**.\nOptimized background task execution and process management with **Bull** for job queuing and scheduling, enhancing overall system throughput.\nEnsured adherence to security and compliance standards, aligning with industry regulations such as GDPR, alongside internal security protocols."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript, TypeScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery, Node.js, Koa, NestJS\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices, Kafka\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, ClickHouse, Elasticsearch\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Performance Monitoring, Prometheus, Grafana, Datadog\n\n**Cloud & Infrastructure**\n\t\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Bull",
+  "apply_company": "Fundraise Up"
+}

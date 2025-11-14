@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior SRE Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Dedicated Senior SRE Engineer with 13+ years of experience specializing in **SRE**, **DevOps**, and **Incident Management** for high-performance applications in the healthcare and financial sectors. Proficient in **Monitoring** and **APM** tools such as **Datadog**, **New Relic**, **Dynatrace**, **Prometheus**, and **Grafana** for effective system observability and performance tuning.\n\nSkilled in implementing actionable strategies within **GitHub**, **Azure DevOps**, and **GitLab**, leveraging **Jenkins** for CI/CD pipelines, and orchestrating containerized applications with **Docker** and **Kubernetes**. Extensive experience in deploying and managing cloud-native systems on **AWS**, **Azure**, and **GCP**.\n\nTechnical expertise includes **Java**, **Springboot**, and **Kafka** for robust software architecture and systems thinking. Strong background in building AI/ML-focused applications with **JavaScript/TypeScript**, **Python**, and **Flutter**, and employing frameworks like **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**. Proven ability to align solutions with compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SRE Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented robust **SRE** practices by leveraging **Monitoring** tools like **Datadog** and **Prometheus** for proactive incident management, ensuring optimal system reliability and performance with **uptime** over **99.9%**.\nLed **DevOps** initiatives to establish CI/CD pipelines with **GitHub Actions** and **Azure DevOps**, achieving a **deployment frequency** of over **20 times per month** while reducing lead time for changes to under **1 hour**.\nUtilized **Docker** and **Kubernetes** for container orchestration, achieving efficient resource utilization and streamlined deployment processes across multiple **environments**.\nMonitored application performance using **APM** tools, such as **New Relic** and **Dynatrace**, to identify bottlenecks and optimize system performance, resulting in average response time improvements of **30%**.\nPrioritized incident management through a systematic approach, ensuring rapid response to system alerts and enhancing post-incident reviews to prevent future occurrences, maintaining detailed documentation for insightful metrics.\nCollaborated with **Software Architecture** teams to devise scalable systems thinking solutions adaptable to both cloud platforms like **AWS**, **Azure**, and **GCP** to enhance service reliability and availability.\nFacilitated cross-functional collaboration between development and operations teams, ensuring alignment on service reliability objectives and enhancing incident resolution times by an average of **25%**.\nDeveloped and maintained system health dashboards utilizing **Grafana**, delivering real-time insights into system performance and enabling quick response to anomalies and outages.\nEngaged in continuous learning to keep up with industry best practices and evolving technologies within the **SRE** and **DevOps** landscape, contributing to enhanced team capabilities and resilience.\nLed deployments on **cloud-native architectures**, ensuring systems were not only scalable and highly available but also aligned with best practices in security and governance."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **SRE** practices by modernizing core financial platforms, migrating to microservices architecture with **Node.js** (NestJS/Express) and **Python** (FastAPI, Django) to enhance scalability and performance for high-volume transactional systems.\nUtilized **DevOps** methodologies to build interactive front-end applications with **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, employing **Redux Toolkit** and **Tailwind CSS** to develop sleek, responsive interfaces for financial tools and admin panels.\nStreamlined **Incident Management** processes by delivering real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies.\nDesigned a robust event-driven architecture using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance, achieving throughput of up to **10,000 messages per second**.\nDeveloped **ETL** pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both batch and real-time processing with an accuracy rate over **99%**.\nBuilt and deployed machine learning models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity through user behavior and transaction patterns with **<5% false positive rate**.\nCreated ML pipelines for real-time credit scoring and churn prediction leveraging **MLflow** and **Airflow** to facilitate seamless integration of model inference into backend services while maintaining high reliability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented robust **SRE** practices to ensure high availability and performance scaling of backend services for a global e-commerce platform.\nManaged incident response processes and execution for critical applications, utilizing **Monitoring** and **APM** tools such as **Datadog**, **New Relic**, and **Dynatrace** to streamline troubleshooting and resolution.\nDesigned and utilized **Grafana** and **Prometheus** for comprehensive monitoring dashboards, ensuring real-time visibility into system health and performance metrics.\nMaintained versioning and deployment strategies through **GitHub**, **Azure DevOps**, and **GitLab**, enhancing team collaboration and workflow efficiency in CI/CD processes leveraging **Jenkins**.\nSpearheaded containerization initiatives using **Docker** and orchestration with **Kubernetes** for seamless application management and scaling in multi-cloud environments, including **AWS**, **Azure**, and **GCP**.\nEngineered cloud infrastructure with a focus on **Software Architecture** principles, ensuring scalable, secure, and resilient application environments for core services.\nImplemented **Kafka** for efficient event streaming and data processing across microservices, significantly improving real-time order processing and responsiveness.\nDeveloped and enforced monitoring standards and incident management protocols, driving a **Systems Thinking** approach that enhanced overall service reliability.\nCollaborated on architecture design with emphasis on **DevOps** methodologies, leading to improved deployment frequency by **25%** and reduced lead time for changes by **30%**.\nConducted post-incident reviews and implemented preventive measures to minimize downtime, fostering a culture of continuous improvement across engineering teams."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Python\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Springboot\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tOAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Azure DevOps, Jenkins, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure, GCP\n\n **Other:**\n\tSRE, Incident Management, Monitoring, APM, Datadog, New Relic, Dynatrace, Prometheus, Grafana, Software Architecture, Systems Thinking",
+  "apply_company": "Valtech"
+}

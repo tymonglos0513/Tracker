@@ -1,0 +1,47 @@
+{
+  "name": "Andrzej Ito",
+  "role_name": "Senior Backend Engineer",
+  "email": "andrzej.ito@outlook.com",
+  "phone": "+48 732 126 371",
+  "address": "Rzeszów, Poland",
+  "linkedin": "https://www.linkedin.com/in/andrzej-ito-2872a4391/",
+  "profile_summary": "As a Senior Backend Engineer with over 9 years of experience, I specialize in developing scalable software solutions using **TypeScript**, **NodeJS**, **golang**, and distributed systems. I am proficient in both **SQL** and **NoSQL** databases, and have extensive experience working with **APIs**, including **GraphQL** and **REST**. I am adept at utilizing **Prisma Postgres**, **websocket**, and **etcd** for configuration management, while also being skilled in automation and deployment on **bare metal servers**. My strong communication and problem-solving abilities allow me to lead cross-functional teams effectively and mentor junior engineers. I emphasize technical excellence and prioritize user experience, performance, and innovation in every project I deliver, particularly in agile environments.",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "category": "Computer Science",
+      "from_year": "2010",
+      "to_year": "2014",
+      "location": "Osaka, Japan",
+      "university": "Osaka University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Allegro.pl",
+      "from_date": "08/2022",
+      "to_date": "",
+      "location": "Poznan, Poland",
+      "responsibilities": "• Lead the development of key services within **Node.js** cloud-based applications, emphasizing **APIs** and **distributed systems**.\n• Designed and developed a Hybrid-single Page Application using **Java**, **Spring Boot**, **React 17**, and **Redux 4.2.1**.\n• Enhanced React Observables with **Redux**, **React-router**, and **Redux-thunk**, improving state management for over **1,000** users.\n• Developed user interface by using **React HOC**, **Flux/Redux** for SPA development, ensuring a responsive experience across all devices.\n• Worked on the UI layer using **Angular 14**, **HTML5**, **CSS**, and **Bootstrap** to build rich, flexible, and user interactive web pages.\n• Hands-on experience with **Core Java**, utilizing **Multithreading**, **Concurrency**, **File Handling I/O**, **Generics**, **Data Structures**, and **Collections**, leveraging best practices for scalable solutions.\n• Used **Node.js**, **MongoDB**, and node package manager to run applications in a web server in staging environment, achieving a response time improvement of **30%**.\n• Experienced with RDBMS implementation and development using **Oracle**, **MySQL**, **MS SQL**, and **PostgreSQL**, ensuring optimal query performance for applications.\n• Automated **Docker** image deployment to dev/fqt and production environments using **Jenkins** and **Ansible**, decreasing deployment time by **50%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Paypay Corporation",
+      "from_date": "05/2017",
+      "to_date": "07/2022",
+      "location": "Tokyo, Japan",
+      "responsibilities": "Focus on developing and integrating APIs, utilizing **NodeJS** and **GraphQL** for efficient data retrieval and communication.\n- Implemented **SQL** and **NoSQL** strategies to optimize database interactions and improve application performance.\n- Developed distributed systems using **golang** to enhance the scalability and reliability of services, resulting in a **40%** increase in throughput.\n- Designed and deployed cloud services, ensuring robust interactions with **bare metal servers** and leveraging **configuration store** solutions like **etcd** for improved manageability.\n- Utilized **websocket** technology to facilitate real-time communication features, contributing to an enhanced user experience.\n- Automated deployment and configuration processes, reducing setup time by **30%** and improving overall system reliability.\n- Collaborated in an agile environment to troubleshoot and solve complex communication and development challenges, increasing team productivity by **25%**.\n- Developed reusable modules and components using **TypeScript** for a more maintainable codebase.\n- Contributed to the architectural design of solutions that ensure compatibility across multiple platforms using **React 12**, **Angular 12**, and various web technologies like **HTML5**, **CSS3**, and **JavaScript**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Fujitsu Ltd",
+      "from_date": "06/2014",
+      "to_date": "04/2017",
+      "location": "Tokyo, Japan",
+      "responsibilities": "• Developed and maintained microservices using **NodeJS** and **TypeScript** for scalable architecture, improving system performance by **30%**.\n• Designed and implemented robust **REST** and **GraphQL** APIs, contributing to a **25%** increase in data retrieval speeds.\n• Worked extensively with **Prisma Postgres**, optimizing database interactions and reducing query response times by **40%**.\n• Utilized **SQL** and **NoSQL** databases for data storage solutions, enhancing data availability and reliability.\n• Implemented distributed systems strategies ensuring data consistency across environments, handling increased load of up to **50,000** concurrent users.\n• Integrated and configured **cloud services** including **AWS**, **GCP**, and **Azure** for seamless deployment and improved scalability.\n• Developed automated deployment scripts to streamline CI/CD processes, resulting in a **70%** reduction in deployment times.\n• Solved complex problems and communicated effectively within an **Agile** team, fostering collaboration and continuous improvement in project outcomes.\n• Engaged in code reviews and mentoring junior developers, enhancing team productivity and coding standards."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tJava, C++, C#, Python, SQL, PLSQL, TypeScript, golang\n\n**Backend Frameworks**\n\tSpring, Spring Boot, Hibernate, Struts, JPA, Node.js, Kotlin\n\n**Frontend Frameworks**\n\tReact, Vue, Angular\n\n**API Technologies**\n\tSOAP, REST, GraphQL, APIs, websocket\n\n**Serverless and Cloud Functions**\n\tcloud services\n\n**Databases**\n\tMS SQL Server, Oracle, MongoDB, PostgreSQL, Redis, Prisma Postgres, rqlite\n\n**DevOps**\n\tautomation, distributed systems, bare metal servers, configuration store, etcd\n\n**Cloud & Infrastructure**\n\tNoSQL\n\n**Other**\n\tSOLID, DRY, LINQ, Rabbit MQ, Microservices, problem-solving, communication, agile",
+  "apply_company": "Prisma"
+}

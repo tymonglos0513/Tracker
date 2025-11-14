@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Software Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Senior Software Engineer with 10+ years of extensive experience in developing high-performance software solutions, particularly in distributed systems and backend services. Expert in **TypeScript**, **Node.js**, and building robust public-facing APIs. Proven proficiency in maintaining scalable data infrastructures using **DynamoDB**, **ClickHouse**, and **TimescaleDB**. Adept at implementing event-driven architectures utilizing **AWS SQS** and **SNS** for seamless event streaming solutions. Solid understanding of **SOLID Principles**, **Clean Code** practices, and **Domain Driven Design** to ensure quality in software delivery.\n\nPossesses hands-on expertise in leveraging **AI Tools** for enhancing functionalities in applications. Experienced in driving projects that incorporate strategic design patterns and critical thinking, leading to pragmatic problem-solving. Committed to building secure and maintainable solutions in compliance with industry standards. Deep knowledge of CI/CD automation processes and best practices, ensuring timely deployments and system integrity across projects.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented scalable backend systems utilizing **TypeScript**, **Node.js**, and **AWS** services, ensuring robust and efficient public-facing APIs.\n• Developed and maintained distributed systems and data infrastructures that incorporated **ClickHouse**, **TimescaleDB**, and **DynamoDB** for seamless data management and retrieval.\n• Architected and deployed microservices utilizing **AWS SQS** and **SNS** to enable event streaming, enhancing system resilience and scalability by **30%**.\n• Employed **SOLID Principles** and **Clean Code** practices to maintain high code quality and effective collaboration across teams, resulting in a **25%** reduction in bug rates.\n• Engaged in critical thinking and pragmatic problem-solving to troubleshoot and resolve complex system issues, improving operational efficiency within the organization.\n• Integrated AI tools into existing frameworks, leveraging tools such as AWS services to enhance functionality, create innovative solutions, and automate processes.\n• Collaborated with cross-functional teams to gather requirements and deliver high-quality software that met business needs, focusing on enhancing user experiences and satisfaction.\n• Fostered a culture of knowledge sharing and continuous improvement by conducting code reviews and mentoring junior developers.\n• Established testing strategies encompassing unit, integration, and functional tests using industry-standard frameworks, ensuring robust backend systems were delivered with **95%** test coverage."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained robust **Backend Systems** leveraging **Node.js** (NestJS/Express) and **Python** (FastAPI, Django) while adhering to **SOLID Principles** and **Clean Code** practices, enhancing the overall reliability and performance of financial applications.\n• Spearheaded the design and implementation of scalable **Distributed Systems** by adopting a microservices architecture, which improved processing throughput by **25%** for high-volume transaction systems.\n• Contributed to the creation of **public-facing APIs** using **TypeScript**, ensuring efficient integration with front-end applications and third-party services while maintaining security standards.\n• Established effective **Data Infrastructure** by utilizing **ClickHouse**, **TimescaleDB**, and **DynamoDB** for optimized data storage and retrieval, resulting in faster analytics capabilities and a **30%** reduction in query response times.\n• Implemented **Event Streaming** solutions using **Kafka**, **RabbitMQ**, and **Azure Service Bus**, facilitating a responsive and robust event-driven architecture that supports real-time transaction processing and alerts.\n• Led the design of real-time transaction monitoring dashboards using **React** (18), **D3.js**, and **Power BI Embedded**, providing operational teams with actionable insights that reduced detection times for anomalies by **50%**.\n• Engineered ETL pipelines utilizing **Python**, **Apache Airflow**, and **Azure Data Factory** for both batch and real-time data ingestion from various internal and third-party sources, significantly improving data availability.\n• Developed AI/ML-powered fraud detection systems leveraging **scikit-learn**, and **XGBoost**, utilizing **Azure Machine Learning** to proactively identify and flag suspicious activities, achieving an **80%** accuracy rate in detecting fraudulent transactions.\n• Created machine learning pipelines for credit scoring, churn prediction, and transaction classification with **MLflow** and **Airflow**, enabling real-time decision-making capabilities integrated directly into backend services."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Developed and maintained **public-facing APIs** and backend services leveraging **Node.js** (specifically **NestJS** and **Express**) for a high-traffic e-commerce platform, ensuring optimal performance and scalability\nEngineered **distributed systems** utilizing **AWS**, **DynamoDB**, and **ClickHouse** to manage large datasets and provide fast access to critical data, ensuring fault tolerance and reliability during peak traffic periods\nImplemented **Event Streaming** solutions using technologies such as **Kafka** and **SQS**, facilitating real-time communication for services across the platform and enhancing customer engagement with timely updates\nDesigned robust data infrastructure utilizing **TimescaleDB**, integrated **Redis** for caching, and optimized database queries, significantly reducing data access times by up to **50%**\nApplied **SOLID principles**, **Clean Code**, and **Domain Driven Design** methodologies in all codebases to improve maintainability and readability, fostering a culture of high-quality software development\nEnhanced frontend experiences using **TypeScript**, **React** (version **18**), and **Vue 3**, resulting in responsive design and improved usability across all device types\nCollaborated in implementing AI Tools to enhance personalization and user experience, optimizing product recommendations, improving conversion rates by **30%** through better search relevance\nDeveloped and integrated solutions ensuring compliance with **GDPR**, utilizing **OAuth 2.0** for secure authentication, and providing **role-based access control (RBAC)** to protect sensitive user data\nCreated efficient workflows for event processing using **SNS** and **RabbitMQ**, streamlining operations and improving response times for user actions\nUtilized **Kubernetes** for feature flags and blue-green deployments, allowing for safer rollout of new features and reducing potential downtimes during updates."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, TypeScript, JavaScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tPublic-facing APIs\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, ClickHouse, TimescaleDB, DynamoDB\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Distributed Systems, Backend Systems, Data Infrastructure, SQS, SNS, Event Streaming, SOLID Principles, Clean Code, Domain Driven Design, Critical Thinking, Pragmatic Problem-solving, AI Tools, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot"
+}

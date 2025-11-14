@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Skilled Software Engineer with 13+ years of experience specializing in developing cloud-native applications using **Python 3**, **FastAPI**, and **PostgreSQL** within high-performance environments such as healthcare and finance. Demonstrated proficiency in deploying scalable solutions on **Google Cloud Platform**, leveraging technologies including **Google BigQuery**, **ScyllaDB**, **Redis**, **RabbitMQ**, **Apache Kafka**, and **Google Pub/Sub**.\nExpertise in both frontend and backend development, with strong experience in **JavaScript**, **TypeScript**, and **Flutter**, as well as frameworks like **React**, **Next.js**, **Vue**, and **Node.js**. Proven track record in implementing microservices and event-driven architectures, along with robust CI/CD pipelines.\nBackground in AI/ML integration to support data-driven decision-making, with hands-on experience in MLOps and compliance-driven development aligned with HIPAA, FHIR, PCI DSS, and SOC 2 standards.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed full-stack applications for various domains leveraging **Python 3** and **FastAPI**, ensuring top-tier performance and maintainability.\nImplemented scalable data solutions using **PostgreSQL**, **Google BigQuery**, and **ScyllaDB**, effectively managing data storage across diverse applications.\nUtilized **Redis** for caching and data retrieval enhancements, significantly improving application responsiveness.\nIntegrated messaging services with **RabbitMQ** and **Apache Kafka** to streamline cross-service communication and data handling, ensuring high availability and fault tolerance.\nEmployed **Google Pub/Sub** for building event-driven architectures, promoting efficient data processing and real-time analytics.\nConstructed and optimized CI/CD pipelines for seamless deployment and integration, emphasizing automation and reliable release strategies across development cycles.\nCollaborated with cross-functional teams to define project requirements and ensure adherence to best coding practices, resulting in a codebase that meets business goals.\nMaintained a high standard of quality through rigorous testing using frameworks such as Jest and Cypress, ensuring that applications are thoroughly vetted before production.\nLed initiatives to enhance system performance, achieving a **30%** increase in throughput and a reduction in latency by up to **15%** across deployed applications.\nActively participated in peer code reviews, sharing knowledge and fostering a culture of continuous improvement within the engineering team."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python 3** and **FastAPI** to build high-performance back-end services, boosting transaction processing speed by **30%**.\nImplemented and managed databases with **PostgreSQL**, **ScyllaDB**, and **Redis**, ensuring high availability and reliability for crucial financial applications.\nDesigned asynchronous communication workflows utilizing **RabbitMQ** and **Apache Kafka**, optimizing message processing and improving system scalability by **25%**.\nExtracted, transformed, and loaded financial data using **Google BigQuery** and other cloud solutions, facilitating batch and real-time data analysis, and reducing data retrieval times by **40%**.\nDeveloped and integrated various cloud services on **Google Cloud Platform** to support infrastructure enhancements and optimize cost effectiveness.\nLed architecture improvements that included implementing a microservices framework which reduced system downtime by **15%** while increasing overall system performance.\nCollaborated with cross-functional teams to gather requirements and deliver solutions aligned with business objectives, increasing operational efficiencies in financial reporting and compliance."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Python 3** and **FastAPI** to design and optimize backend services for a global e-commerce platform, achieving a **99.9%** uptime and **high scalability** to handle **over 1 million** transactions daily.\nImplemented real-time order updates and dynamic inventory tracking using **RabbitMQ** and **Apache Kafka**, facilitating responsive customer support and enhancing user experience with an average response time of under **200 ms**.\nDeveloped and maintained efficient database solutions using **PostgreSQL** and **Redis**, ensuring fault-tolerant data access and managing data replication to support **150% growth** in user traffic.\nLeveraged **Google Cloud Platform** for scalable architecture and deployed **Google BigQuery** for efficient data analytics and reporting, improving query performance by **75%**.\nIntegrated caching strategies to enhance application responsiveness, utilizing **Redis** for fast product metadata access, which decreased database read operations by **30%**.\nEngaged in CI/CD practices using feature flags with LaunchDarkly and optimized deployments through **Kubernetes** namespaces, resulting in a **50% reduction** in deployment times and improved risk management for new releases.\nBuilt and enhanced interactive user interfaces with **React (18)** and **Vue 3**, achieving a **95%** score in Lighthouse performance metrics, while ensuring compliance with accessibility standards (WCAG 2.1).\nDesigned secure payment gateways with **Stripe** and **PayPal**, ensuring **PCI compliance** and implementing tokenized transactions to protect sensitive user information.\nApplied role-based access control (RBAC) and **OAuth 2.0** protocols, enhancing security measures and ensuring compliance with GDPR regulations across the platform."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython 3\n\n**Backend Frameworks:**\n\tFastAPI\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tRabbitMQ\n\tApache Kafka\n\tGoogle Pub/Sub\n\n**Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\tGoogle Cloud Platform\n\n**Databases:**\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\tScyllaDB\n\tGoogle BigQuery\n\n**DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n**Cloud & Infrastructure:**\n\tAWS\n\tAzure\n\n**Other:**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tAuthentication & Security Tools: Keycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot"
+}

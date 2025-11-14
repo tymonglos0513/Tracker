@@ -1,0 +1,47 @@
+{
+  "name": "DANIEL HE",
+  "role_name": "Senior DevOps Engineer",
+  "email": "daniel.he8@outlook.com ",
+  "phone": "+48 730 743 032",
+  "address": "Rzeszów, Poland",
+  "linkedin": "https://www.linkedin.com/in/daniel-he-044a76397/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with extensive expertise in leveraging **AWS (ECS, RDS, ElastiCache, Lambda, ALB, WAF, S3, CloudFront, EventBridge, CloudWatch)**, **Terraform**, and **Docker** to design and implement scalable cloud infrastructure solutions. Proficient in managing CI/CD workflows with **GitHub Actions** and ensuring application reliability through observability tools like **Datadog** and **Sentry**. Skilled in scripting and automation to enhance operational efficiency. In addition to a solid foundation in backend development using **Java** and **Spring Boot**, and frontend technologies such as **React**, **Vue**, and **Angular**, I have a proven track record of delivering complex solutions in diverse sectors including healthcare, eCommerce, and finance, consistently driving improvements with a commitment to clean and efficient code.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2016",
+      "location": "Beijing, China ",
+      "university": "Tsinghua University "
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Britenet",
+      "from_date": "Feb 2023 ",
+      "to_date": "Present",
+      "location": "Warsaw, Poland",
+      "responsibilities": "• Managed infrastructure as code using **Terraform**, seamlessly provisioning AWS services such as **ECS**, **RDS**, and **ElastiCache**.\n• Developed and deployed applications on **AWS** utilizing **Lambda**, **ALB**, and **WAF**, achieving a 99.9% uptime across services.\n• Implemented monitoring solutions with **CloudWatch**, **Datadog**, and **Sentry**, enhancing system reliability and incident response times by 30%.\n• Streamlined CI/CD processes with **GitHub Actions**, improving deployment times by **80%** and ensuring consistent code quality through automated testing.\n• Containerized applications using **Docker** and orchestrated deployments with **Kubernetes**, resulting in a 40% reduction in deployment failures.\n• Utilized **AWS CloudFront** and **S3** for efficient content delivery, achieving a **50%** reduction in load times for static assets.\n• Integrated alerting and incident management with **PagerDuty**, proactively addressing issues and reducing downtime by **25%**.\n• Collaborated on multi-cloud strategies using **GCP**, **Azure**, and **Alibaba**, enhancing organizational flexibility in resource management."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Alibaba Group",
+      "from_date": "Oct 2020 ",
+      "to_date": "Dec 2022",
+      "location": "Hangzhou, China",
+      "responsibilities": "• Leveraged **AWS** services including **EC2**, **S3**, **RDS**, and **Lambda** to deploy scalable backend services using **Java (Spring Boot)** and **Node.js**, reducing response times for ticketing and customer support by **25%**.\n• Designed and implemented a notification system using **Kafka** for real-time alerts, achieving a **98%** timely notification rate for critical issues.\n• Developed and maintained a customer insights dashboard using **Vue.js** and **D3.js**, resulting in a **20%** improvement in issue resolution rates.\n• Automated testing and deployment processes utilizing **Jenkins** and **AWS CodePipeline**, ensuring a robust and consistent release cycle.\n• Successfully deployed applications using **Docker** and **Terraform** on **AWS**, cutting infrastructure setup time by **50%**.\n• Utilized **GitHub Actions** for CI/CD workflows, enhancing integration efficiency and reducing error rates during deployments."
+    },
+    {
+      "role": "Software Engineer ",
+      "company": "Huawei",
+      "from_date": "May 2016 ",
+      "to_date": "Sep 2020",
+      "location": "Shenzhen, China ",
+      "responsibilities": "Utilized **AWS (CloudFront, S3)** for global deployments, ensuring low-latency access with **98% uptime**.\nImplemented infrastructure as code using **Terraform** to automate resource provisioning and management.\nManaged container orchestration with **Docker** and **Kubernetes**, optimizing deployment workflows and scaling applications effectively.\nDeveloped CI/CD pipelines utilizing **GitHub Actions**, enhancing deployment speed by **30%**.\nMonitored application performance with **CloudWatch** and **Datadog**, drastically reducing incident response times by **40%**.\nDeployed scalable backend solutions on **AWS RDS** and utilized **ElastiCache** for improved data retrieval speeds.\nConfigured and managed security features using **AWS WAF** to protect applications and ensure compliance with security standards."
+    }
+  ],
+  "skills": "Programming Languages: Java, JavaScript (React, Vue.js, Angular, Pixi.js, Vanilla JS, Node.js, TypeScript), Go, Python, SQL, Swift, Kotlin\n\n\tBackend Frameworks: Spring Boot, Spring Security, Hibernate, Node.js, Express.js, JPA, Kafka, RabbitMQ\n\n\tFrontend Frameworks: React, Vue.js, Angular, Pixi.js, Redux, Next.js, React Router, Material-UI, Ant Design, D3.js, Webpack, Babel, Jest\n\n\tAPI Technologies: RESTful API design\n\n\tServerless and Cloud Functions: AWS Lambda, AWS API Gateway\n\n\tDatabases: MySQL, PostgreSQL, Redis, MongoDB, ElastiCache\n\n\tDevOps: Docker, Kubernetes (AWS EKS), Jenkins, GitHub Actions, Terraform\n\n\tCloud & Infrastructure: AWS (EKS, RDS, CloudFront, S3, Lambda), GCP, Azure, Alibaba, Datadog, Sentry, PagerDuty, VPN, Tailscale, EventBridge, ALB, WAF, CloudWatch\n\n\tOther: Microservices, CI/CD, Infrastructure as Code (IaC), Data structures and algorithms, Agile/Scrum methodologies, Security",
+  "apply_company": "David Zwirner"
+}

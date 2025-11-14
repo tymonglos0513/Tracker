@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior Engineer with 13+ years of experience in delivering high-performance applications across various industries, including healthcare and finance. Strong expertise in AWS and Linux environments, infrastructure as code using **Terraform**, **Ansible**, and **Puppet**, and building secure, automated systems that ensure compliance with security best practices. Proficient in **CI/CD** processes to enhance reliability and streamline deployment workflows.\nSkilled in **Python** and **Go** for backend development, with significant experience in distributed systems and API security. Adept at implementing zero trust access controls and network security measures to safeguard sensitive data. Well-versed in both frontend and backend technologies such as **JavaScript**, **TypeScript**, **React**, **Next.js**, **Node.js**, **Flutter**, and backend frameworks like **FastAPI** and **Django**.\nProficient in building AI/ML-powered platforms for predictive analytics and automation, leveraging tools like **MLflow**, **Airflow**, and **Kubeflow** for MLOps. Equipped with strong communication skills, fostering collaboration among teams to deliver exceptional results.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implemented **Infrastructure as Code** (IaC) using **Terraform** and **Ansible** to automate deployment and management of cloud resources on **AWS**, enhancing efficiency in infrastructure setup.\n- Developed and maintained automated systems for CI/CD pipelines utilizing **GitHub Actions** and **CircleCI**, ensuring reliable and secure deployments across multiple environments.\n- Secured API endpoints with best practices in **API security**, focusing on zero trust access controls to protect sensitive data and maintain compliance with security standards.\n- Managed **Linux** environments for cloud deployments, ensuring system reliability and performance through adherence to security best practices and reliability patterns.\n- Designed distributed systems using **Docker** and **Kubernetes** (AKS/EKS) for scalable application architectures, successfully improving system uptime by **99%**.\n- Configured automated monitoring and logging solutions using **Cloudflare** for enhanced security and performance metrics, reducing incident response time by **30%**.\n- Wrote and maintained scripts in **Bash** for system automation tasks, simplifying infrastructure management and reducing manual intervention by **50%**.\n- Collaborated cross-functionally with teams to implement security best practices in application development, ensuring compliance with **zero trust access controls** and security policies.\n- Conducted training sessions to improve team communication skills and knowledge-sharing on best practices in **CI/CD** and **automated systems**.\n- Engaged in performance troubleshooting of **Debian** servers, leading to improved system response times and enhanced user experience in production environments."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented **Infrastructure as Code** practices using **Terraform**, **Ansible**, and **Puppet** to streamline the deployment of scalable infrastructure across **AWS** and **Linux** environments.\nDesigned and maintained **automated systems** for provisioning and configuring servers on **Debian**, ensuring optimal resource utilization and reliability for distributed applications.\nDeveloped APIs with a strong focus on **API security**, ensuring compliance with **Zero Trust access controls** and **security best practices** to protect sensitive financial data.\nLed the CI/CD pipeline development to enable fast and reliable deployment of applications, leveraging tools like **Bash** and configuration management strategies to automate build and release processes.\nUtilized **Go** for building microservices that enhance system performance and scalability, while ensuring efficient service communication across distributed systems.\nMentored junior engineers on best practices for secure coding, distributed system reliability patterns, and effective communication strategies.\nCollaborated with operations teams to ensure high availability and performance of critical applications, implementing **networking** solutions for monitoring and troubleshooting.\nEnsured compliance with regulatory standards through thorough documentation and security assessments during the system design and deployment phases."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** and **Cloudflare** to enhance infrastructure reliability and scalability, ensuring optimized operations in a high-traffic e-commerce environment.\nDesigned and managed **Infrastructure as Code** (IaC) using **Terraform** and automated deployment processes with **Ansible** and **Puppet**, achieving a 30% reduction in deployment time.\nImplemented **CI/CD** pipelines to streamline integration and delivery processes, thereby increasing deployment frequency by **40%** while maintaining system reliability.\nDeveloped backend services in **Python** leveraging frameworks such as **FastAPI** and **Django**, ensuring robust API security and efficient server-side logic to support e-commerce functionalities.\nApplied **Linux** and **Bash** scripting for system automation, enhancing server management and operational consistency.\nCreated and enforced **Zero trust access controls** and **role-based access control** (RBAC) protocols to uphold security best practices, securing sensitive data across the platform.\nEngineered distributed systems that support high availability and low latency for essential e-commerce modules, contributing to an **80%** reduction in user-reported issues.\nConducted regular network security audits and implemented security best practices to mitigate risks, ensuring compliance with **GDPR** and enhancing platform trustworthiness.\nFostered effective communication skills across teams to collaborate on complex projects, ensuring alignment and achieving outcomes that meet organizational goals."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, Go, Bash\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **API Technologies:**\n\tAPI security\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose, Puppet\n\n **Cloud & Infrastructure:**\n\tAWS, Azure, Cloudflare, Infrastructure as Code, Debian\n\n **Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT, Nginx, Let’s Encrypt, Certbot\n\tNetworking, Security best practices, Reliability patterns, Distributed systems, Zero trust access controls, Automated systems, Communication skills"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Data Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Results-driven Senior Data Engineer with 9+ years of experience in designing and implementing data-driven solutions. Proficient in modern data tools including **Fivetran**, **Databricks**, **AWS**, **PostgreSQL**, **SQL**, and **Terraform**, ensuring scalability and efficiency in data pipelines. Experienced in cloud services such as **AWS** and **Azure DevOps**, with hands-on skills in containerization using **Docker**. Strong expertise in data processing frameworks like **Apache Kafka** and **Airflow**, as well as database technologies including **Redshift**, **Snowflake**, and **DuckDB**. Adept in programming with **Python** and **R**, alongside data formats like **JSON** and **Parquet**. Known for implementing PII controls and developing robust ETL processes, with a proven track record of optimizing performance and driving projects to success through effective team collaboration.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Leveraged **AWS** and **Azure DevOps** for building and maintaining scalable data pipelines, ensuring data integrity and efficiency in data processing.\nDeveloped ETL processes using **Fivetran** and **Databricks** to extract, transform, and load data into various cloud data warehouses including **Redshift** and **Snowflake**.\nAutomated data workflows and pipeline orchestration utilizing **Airflow**, improving data processing speed by 30% and reducing manual intervention.\nImplemented solutions for data transformation and analysis using **Python** and **R**, optimizing statistical analysis workflows.\nDesigned and maintained PostgreSQL and **SQL** databases, resulting in a 25% improvement in query performance through optimized indexing strategies.\nManaged and configured infrastructure as code through **Terraform**, streamlining deployment processes and enabling reproducibility.\nEnhanced data security through **PII controls** and compliance measures, safeguarding sensitive information across systems.\nUtilized **JSON** and **Parquet** formats for efficient data storage and retrieval, improving compatibility and performance for analytics tasks.\nCollaborated with data scientists and analysts to develop actionable insights from large datasets, leading to data-driven decision-making.\nConducted system performance monitoring and analysis on **Linux** environments, leading to a reduction in downtime by 15%. \nImplemented CI/CD projects using **GitHub Actions**, automating testing and deployment tasks to improve code quality and reduce delivery times."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Utilized **AWS** and **Azure DevOps** for cloud infrastructure management, deploying solutions that enhanced data processing efficiency by 20%.\nDesigned and implemented ETL pipelines using **Fivetran**, **Databricks**, and **Airflow**, improving data ingestion speed by 30% and enriching analytics capabilities.\nDeveloped Python scripts to automate data cleaning and transformation tasks, reducing processing time by 40%.\nLeveraged **PostgreSQL**, **Redshift**, and **Snowflake** for robust data warehousing solutions, performing complex SQL queries that optimized data retrieval times by 15%.\nCreated data models and reporting layers with **DuckDB** and **JSON**, facilitating easy access to insights for stakeholders and boosting report generation efficiency.\nImplemented **Docker** containers for deploying applications, ensuring consistency across development and production environments, while reducing deployment times by 35%.\nArchitected comprehensive data storage solutions addressing **PII controls** using best practices, ensuring compliance and data security standards.\nCollaborated with cross-functional teams to define data architecture requirements and align project timelines for successful deliverables.\nUtilized **Kafka** for real-time data streaming applications, improving data-driven decision-making capabilities by 25%.\nConducted code reviews and provided mentorship to junior data engineers, elevating the team's development standards and productivity."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Utilized **AWS** services to architect data pipelines and manage large-scale data integration, optimizing processes to handle up to **5TB** of data daily.\nImplemented **Fivetran** for effective data extraction, enabling near real-time analytics and improving overall data accuracy by **30%**.\nDesigned and managed data workflows using **Databricks** and **Airflow** to streamline ETL processes, resulting in a **40%** reduction in data processing time.\nDeveloped and maintained data solutions in **PostgreSQL** and **Snowflake**, ensuring robust data storage and retrieval with improved query performance by **25%**.\nAutomated infrastructure deployment using **Terraform**, enhancing scalability and efficiency in cloud infrastructure management.\nCollaborated with cross-functional teams using **Azure DevOps** and **GitHub Actions** for CI/CD, achieving faster delivery of data-driven solutions.\nLeveraged **Docker** for containerization of applications, ensuring consistency across multiple environments while reducing deployment time by **15%**.\nImplemented data privacy controls and **PII controls** to safeguard sensitive information and maintain compliance with regulations.\nDeveloped data transformation scripts using **Python** and **R** to process and analyze datasets, providing actionable insights for business decisions.\nParticipated in code reviews and implemented best practices, contributing to team knowledge sharing and maintaining high coding standards."
+    }
+  ],
+  "skills": "frontend technologies: HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n\t**Backend Frameworks**\n\n\tBackend Technologies: NodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n\n\t**API Technologies**\n\n\tRESTful API, GraphQL, JSON\n\n\t**Database Systems**\n\n\tMSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB, Redshift, Snowflake, DuckDB\n\n\t**Cloud & Infrastructure**\n\n\tAWS, Azure, Terraform\n\n\t**DevOps**\n\n\tCI/CD pipelines, Azure DevOps, GitHub Actions, Docker, Linux\n\n\t**Messaging & Caching**\n\n\tApache Kafka, RabbitMQ, Redis\n\n\t**Serverless and Cloud Functions**\n\n\tFivetran, Databricks, Airflow\n\n\t**Other**\n\n\tUX/UI Design, Git, GitHub, Python, R, SQL, PII controls, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Blockchain: Solidity, Ether.js, Web3.js, Ethereum, Redux"
+}

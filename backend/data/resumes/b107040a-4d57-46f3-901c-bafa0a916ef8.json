@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Golang Developer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior Golang Developer with 13+ years of extensive experience in delivering high-performance applications particularly in the healthcare and financial sectors. Proficient in **Go**, **Python**, and **JavaScript**, leveraging frameworks such as **React**, **Node.js**, and strong backend development skills. Demonstrated expertise in implementing **CI/CD** pipelines and deploying applications on **AWS**.  Skilled in performance optimization and observability, having built AI/ML-powered platforms for predictive analytics and real-time processing. Adept in compliance-driven development aligning with HIPAA, FHIR, PCI DSS, and SOC 2 standards, complemented by a solid background in scraping, proxy networks, and payment integrations using **Stripe** and **PayPal**. Strong capabilities in MLOps with experience in model training and orchestration using MLflow, Airflow, and Kubeflow.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Golang Developer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Go** for backend development, ensuring high-performance and scalable applications in the healthcare and fintech sectors.\nDesigned and implemented full-stack solutions using **Python** (FastAPI) and **JavaScript** frameworks including **React** (17–18) and **Node.js**, adhering to compliance standards such as HIPAA, FHIR, GDPR, PCI DSS, and SOX.\nDeveloped CI/CD pipelines utilizing modern tools for automated build and deployment processes across multiple environments, ensuring high-quality software delivery.\nLed the architectural transformation of monolithic applications into microservices using **AWS** Lambda and **Docker**, enhancing scalability and maintainability.\nIntegrated payment processing capabilities using **Stripe** and **PayPal**, providing a seamless and secure transaction experience for users.\nImplemented advanced data scraping techniques and leveraged proxy networks to gather insights for performance optimization and observability.\nCollaborated with cross-functional teams to integrate observability practices, maximizing system performance and reliability.\nManaged end-to-end deployment strategies, tuning performance under different user loads, ensuring an optimal response time within **50ms**.\nEstablished robust testing frameworks employing tools like **Postman** and **PyTest**, covering unit, integration, and end-to-end tests to ensure software quality.\nDeployed machine learning models for intelligent analysis and predictions in real-time data environments, accelerating the decision-making process in finance and healthcare.\nRegularly achieved deployment frequency of over **10 releases** per month, leading to enhanced system features and user satisfaction.\nTrained and mentored junior developers in **Go**, fostering a culture of continuous improvement and knowledge sharing in backend development practices."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Go** for backend development in high-performance financial systems, ensuring optimal performance and reliability in transactions.\nImplemented continuous integration and continuous deployment (**CI/CD**) strategies to streamline the development and deployment pipeline, resulting in a **30%** reduction in deployment time.\nEnhanced observability and performance optimization within applications, leveraging monitoring tools and techniques to achieve average system uptime of **99.99%**.\nMigrated existing financial applications to microservices architecture while utilizing **Node.js** (NestJS/Express) and **Python** (FastAPI, Django) to improve scalability and reduce latency in high-volume transactions.\nDeveloped interactive user interfaces for financial tools and admin panels using **React** (18), **Vue 3**, **Next.js**, and **TypeScript**, implementing **Redux Toolkit** and **Tailwind CSS** for improved usability.\nDelivered real-time analytics dashboards powered by **React**, **D3.js**, and **Power BI Embedded**, enabling operations teams to derive instant insights from transactions, reducing investigation times by **25%**.\nDesigned and deployed a solid event-driven architecture with **Kafka**, **RabbitMQ**, and **Azure Service Bus** to maintain robust communication among essential workflows like payments and compliance notifications.\nEngineered ETL pipelines utilizing **Python**, **Apache Airflow**, and **Azure Data Factory** for efficient ingestion and processing of financial data, supporting both batch and real-time analytics processes.\nBuilt and implemented machine learning models for fraud detection leveraging **scikit-learn**, **XGBoost**, and **Azure ML**, facilitating early identification of suspicious activities through user behavior analysis.\nCreated ML pipelines that integrate real-time credit scoring, churn prediction, and transaction classification using **MLflow** and **Airflow** to provide valuable insights into customer behavior."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Utilized **Go** for backend development, delivering high-performance applications that meet the demands of robust e-commerce solutions.\nDesigned and optimized backend services for a global e-commerce platform using **Python** (FastAPI, Django) and **Node.js** (NestJS, Express), ensuring high availability, low latency, and scalability across key modules.\nImplemented CI/CD pipelines to automate deployment processes, ensuring quick and reliable delivery of features and enhancements.\nEngineered real-time features using **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ**, enabling responsive order updates and dynamic inventory tracking.\nDeveloped frontend applications using **React** (18), **Vue 3**, and **Angular**, enhanced with **TypeScript**, **Redux Toolkit**, and **Tailwind CSS**, delivering fast, responsive user experiences on both web and mobile platforms.\nLeveraged **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data storage, ensuring fast access and fault tolerance for high-traffic e-commerce workflows.\nIntegrated AI/ML-based recommendation engines using **scikit-learn**, **LightGBM**, and **TensorFlow** to personalize product listings and improve conversion rates.\nImplemented **Redis** caching for product metadata and shopping cart sessions, significantly improving application responsiveness.\nAdopted observability tools to monitor application performance and ensure operational excellence in production environments.\nCreated responsive, SEO-friendly e-commerce UIs using **Next.js**, **Vue 3 + Nuxt**, optimized for mobile-first engagement and accessibility compliance (WCAG 2.1).\nBuilt secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, applying PCI-compliant handling of sensitive data.\nApplied role-based access control (RBAC) and **OAuth 2.0** for secure customer and admin access, ensuring compliance with GDPR and protection of user data."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tGo, Python, JavaScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tStripe, PayPal, OAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS, S3, Azure: App Services\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, scraping, proxy networks, observability, performance optimization, backend development"
+}

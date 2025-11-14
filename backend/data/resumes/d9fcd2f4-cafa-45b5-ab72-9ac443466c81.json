@@ -1,0 +1,46 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "ML Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-789557397/",
+  "profile_summary": "Machine Learning Engineer with 10+ years of experience in software development and a solid foundation in **Python**, **AWS** (including **S3**, **Lambda**, and **Redshift**), and **SQL**. Proficient in **MLOps**, including managing ML pipelines and deploying models using **scikit-learn**, **TensorFlow**, and **PyTorch**. Expertise in **Kubernetes** for containerization and orchestration, along with a strong grasp of data ETL processes. Demonstrated ability to apply software engineering best practices such as version control, thorough testing, and troubleshooting to ensure reliable and maintainable solutions. Skilled in collaborative communication and strategic collaboration within cross-functional teams.\n\nPossesses hands-on experience building high-performance applications in healthcare and finance, including capabilities in cloud-native development on **AWS**. A proven track record of embedding AI/ML capabilities for real-time analytics and automation, with a focus on compliance standards such as HIPAA and PCI DSS. Passionate about leveraging technology to create impactful systems that meet business needs and foster continuous improvement.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "ML Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented MLOps pipelines for model training and deployment across environments using **MLflow**, **DVC**, and **Apache Airflow**, ensuring high availability and fault tolerance.\n• Developed machine learning models for applications in patient risk prediction and financial fraud detection using **Python** with frameworks like **scikit-learn**, **TensorFlow**, and **PyTorch**, optimizing them for production readiness with version control.\n• Leveraged **AWS Lambda** for real-time inference services, enabling scalable microservices architecture to support predictive analytics within the healthcare and finance sectors.\n• Executed Data ETL processes utilizing **AWS S3** and **Redshift** to optimize data ingestion and querying, driving data-driven insights in compliance with industry standards.\n• Implemented software engineering best practices across the development lifecycle, emphasizing testing frameworks such as **Jest**, **Cypress**, **PyTest**, and **Postman** for quality assurance and reliability.\n• Utilized **Kubernetes** for container orchestration, ensuring efficient deployment of applications showcasing scalable architecture managing over 50 concurrent users in production.\n• Collaborated closely with cross-functional teams, enhancing communication to integrate innovative AI features into applications to provide strategic advantages in financial insights and healthcare recommendations.\n• Developed advanced search features using **ElasticSearch** and **Azure Cognitive Search** to enable swift retrieval of millions of documents, increasing operational efficiency by **30%**.\n• Established version control practices utilizing **Git** to monitor code changes and maintain collaborative workflows across teams, facilitating easier rollback and feature implementation."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **SQL** to develop and implement machine learning models, enhancing operational efficiency and predictive analytics within finance-related systems.\nEmployed **MLOps** methodologies to streamline the deployment and monitoring of algorithms, resulting in a 40% reduction in model deployment time across various financial applications.\nIntegrated **scikit-learn**, **TensorFlow**, and **PyTorch** for building robust predictive models, including fraud detection and transaction classification, achieving an accuracy rate of over 95% in flagged transactions.\nLed the design and execution of data pipelines using **AWS S3**, **AWS Lambda**, and **Kubernetes**, facilitating efficient **Data ETL** processes that processed over **10TB** of financial data per month.\nImplemented software engineering best practices, including version control with Git, and comprehensive testing frameworks to ensure high-quality code delivery and maintainability.\nDeveloped and maintained scalable ML solutions by leveraging containerization strategies to optimize model deployment and scalability across cluster environments.\nCollaborated with cross-functional teams to enhance communication and project flow, leading to successful project completion under tight deadlines and an increase in team efficiency by **30%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "Applied **MLOps** practices by integrating AI/ML-based recommendation engines using **scikit-learn**, **TensorFlow**, and **PyTorch** for personalized product listings across **9** high-traffic e-commerce workflows.\nConducted data ETL processes using **AWS Redshift** to ensure efficient data pipeline management and cloud storage compliance for improved operational efficiency.\nEngineered machine learning models, leveraging version control to evaluate performance, optimize algorithms, and enhance prediction accuracy, resulting in **25%** increase in search relevance and conversion rates.\nDeployed scalable solutions on **AWS**, utilizing **Lambda** for serverless computing and **Kubernetes** for container orchestration, leading to reduced infrastructure costs by **30%**.\nUtilized **SQL** databases alongside **MongoDB** and **PostgreSQL** for structured data storage, ensuring fast retrieval and maintaining data integrity across platforms.\nImplemented software engineering best practices in all stages of development, focusing on code quality, testing routines, and debugging techniques to produce robust ML applications.\nCollaborated with cross-functional teams by showcasing proficient communication and troubleshooting skills, facilitating efficient resolutions during major projects.\nConducted thorough testing and validation of machine learning models, ensuring compliance with **GDPR** for user data protection and security best practices.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, S3)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, Redshift\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, containerization, version control, testing, troubleshooting\n\n**Cloud & Infrastructure:**\n\tAWS, Azure (App Services, Blob, SQL)\n\n**Other:**\n\tMLOps, MLflow, Airflow, Kubeflow, scikit-learn, TensorFlow, PyTorch, Data ETL, software engineering best practices, collaboration, communication, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior Python Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior Python Engineer with 10+ years of experience specializing in **Python**, **Django**, and **Django REST Framework**. Adept at building and integrating **RESTful APIs** and leveraging **Celery** and **RabbitMQ** for asynchronous processing. Proficient in implementing CI/CD pipelines and deploying applications on **AWS** and **Kubernetes**, ensuring robust and scalable cloud-native solutions. Skilled in utilizing **PostgreSQL**, **Redis**, and data streaming with **Kafka** to design high-performance databases and real-time analytics. Experienced in monitoring and observability using tools like **Datadog**, **Prometheus**, and **Sentry**.\n\nWith a strong understanding of event-driven architecture, I bring a proven track record of delivering secure, maintainable software solutions that comply with industry standards. Passionate about applying my expertise in a collaborative environment to drive impactful solutions in complex domains such as healthcare and finance. My background in automation and MLOps complements my software engineering skills, allowing me to contribute effectively to multidisciplinary teams.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and optimized scalable backend systems using **Python**, **Django**, and **Django REST Framework** to support high-performance applications in healthcare and finance.\n• Implemented robust asynchronous task processing and real-time data streaming solutions utilizing **Celery** and **Kafka**, enhancing application responsiveness and reliability.\n• Architected and maintained microservices leveraging **Kubernetes** for orchestration and **gRPC** for efficient communication between services, ensuring high scalability and maintainability.\n• Designed and executed CI/CD pipelines using **Datadog**, **Prometheus**, and **Sentry** for monitoring, logging, and error tracking, improving deployment frequency by **30%**.\n• Enhanced data management strategies with **PostgreSQL** and **Redis**, optimizing SQL queries to ensure efficient data retrieval and storage for large datasets.\n• Built and integrated **RESTful APIs** for seamless interaction between frontend and backend services, ensuring consistent data flow and user experience across applications.\n• Applied machine learning methodologies within Python environments to develop predictive analytics for financial risk assessment and healthcare data insights.\n• Collaborated with cross-functional teams to implement and refine incident management workflows, boosting system reliability and incident response time by **25%**.\n• Conducted rigorous performance testing and analysis using performance-monitoring tools, leading to the identification and rectification of **15%** of bottlenecks in existing systems.\n• Established data governance practices, ensuring compliance with industry standards and regulations, enhancing security policy frameworks across all projects."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Django** to build and modernize financial platforms, enhancing system performance and scalability for processing over **10,000** transactions per minute.\nDesigned and implemented **RESTful APIs** leveraging **Django REST Framework** for seamless integration between front-end and back-end systems, supporting dynamic user interactions within financial applications.\nIntegrated message brokers like **Kafka** and **RabbitMQ** to design an event-driven architecture, achieving over **98%** system uptime and minimizing latency for real-time transaction processing.\nDeveloped and maintained robust data models in **PostgreSQL** and **Redis** to ensure high-speed data retrieval and resilience, reducing query times by **30%**.\nImplemented monitoring solutions using **Datadog**, **Prometheus**, and **Sentry** for proactive issue detection, reducing bug resolution time by **40%**.\nLeveraged **Celery** for asynchronous task processing to support scalable data handling and background job management in an efficient manner.\nDeployed microservices using **AWS** and **Kubernetes**, ensuring reliable delivery and orchestration of services in the cloud environment, optimizing resource usage by **25%**.\nParticipated in **CI/CD** practices to streamline deployment workflows, resulting in a reduction of deployment time by over **50%** and increasing team productivity."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "• Developed robust backend services utilizing **Python** frameworks such as **Django** and **Django REST Framework** to ensure optimal performance across multiple global e-commerce scenarios.\n• Engineered highly efficient event-driven systems, implementing messaging brokers like **Kafka** and **RabbitMQ** to facilitate real-time transaction processing and system responsiveness for over **100,000** daily active users.\n• Designed and integrated high-performance **RESTful APIs** to connect various application components, achieving a **99.9%** uptime and enhancing user engagement metrics.\n• Managed data persistence with **PostgreSQL**, **Redis**, and **StarRocks**, implementing caching and query optimization strategies that reduced load time by **60%**.\n• Utilized monitoring tools such as **Datadog**, **Prometheus**, and **Sentry** to track system performance and detect anomalies in production environments, improving issue resolution times by **40%**.\n• Leveraged container orchestration with **Kubernetes** to deploy microservices in a CI/CD pipeline, facilitating seamless updates and rollbacks, thereby reducing deployment times by **50%**.\n• Created background task processing with **Celery** and implemented **gRPC** for efficient inter-service communication, ensuring reliable job handling with zero downtime.\n• Conducted regular performance audits and code reviews, maintaining best practices in clean coding and software architecture to support scalability and maintainability of the codebase.\n• Collaborated within Agile squads to develop high-quality features with **AWS** cloud services, enhancing system reliability and ensuring a seamless end-user experience.\n• Implemented security protocols, including role-based access control (RBAC) and OAuth 2.0 standards, ensuring compliance with GDPR mandates while safeguarding user data."
+    }
+  ],
+  "skills": "**Programming Languages**:\n\tPython, JavaScript/TypeScript\n\n**Backend Frameworks**:\n\tDjango, FastAPI, Django REST Framework, Flask, Celery\n\n**Frontend Frameworks**:\n\tReact, Vue, Angular\n\n**API Technologies**:\n\tRESTful APIs, gRPC, Kafka, RabbitMQ\n\n**Serverless and Cloud Functions**:\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases**:\n\tPostgreSQL, MySQL, MongoDB, Redis, StarRocks\n\n**DevOps**:\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure**:\n\tDatadog, Prometheus, Sentry\n\n**Other**:\n\tAuthentication & Security (Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), MLflow, Airflow, Kubeflow",
+  "apply_company": "SplitMetrics"
+}

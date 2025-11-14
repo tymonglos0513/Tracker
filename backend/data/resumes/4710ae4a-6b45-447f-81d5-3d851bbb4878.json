@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Database Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Database Engineer with 8 years of experience, I possess strong expertise in database management systems including **Oracle Database**, **PostgreSQL**, **Microsoft SQL Server**, **AWS RDS**, **Azure SQL**, and **Google Cloud SQL**. My skill set extends to data orchestration and infrastructure automation using **Terraform**, **Ansible**, and containerization technologies like **Docker** and **Kubernetes**. I am adept at performance tuning, ensuring high availability, and implementing robust backup solutions to guarantee data integrity.\nIn addition to my database engineering skills, I have extensive experience in **Python** programming for data manipulation and scripting, along with proficiency in shell scripting using **Bash**, **Shell**, and **PowerShell**. My background in DevOps practices, coupled with monitoring tools like **Prometheus** and **Grafana**, ensures seamless integration and continuous improvement in the development lifecycle. Leveraging my comprehensive technical knowledge, I aim to drive efficiency and reliability in data-driven environments.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Database Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and maintained database architectures using **PostgreSQL**, **MongoDB**, and **Oracle Database**, emphasizing performance and scalability for high-transaction applications in healthcare and financial services.\nImplemented **AWS RDS**, **Azure SQL**, and **Google Cloud SQL** for database management solutions, ensuring high availability and backup strategies, achieving uptime of **99.9%**.\nUtilized **Terraform** and **Ansible** for infrastructure as code, automating database deployments and configurations, reducing provisioning time by **30%**.\nExecuted data migration and integration strategies using **Bash** and **Python**, ensuring data integrity and compliance with HIPAA and GDPR regulations.\nDeveloped monitoring and alerting systems using **Prometheus** and **Grafana**, providing critical insights into database performance and health metrics.\nCollaborated with cross-functional teams to optimize SQL queries and database designs, resulting in performance improvements of up to **40%** in system responsiveness.\nImplemented CI/CD pipelines for database changes with tools like **GitHub Actions**, ensuring seamless integration without downtime.\nConducted performance tuning and optimization of databases, achieving reduced query times from **5s** to under **1s** for critical functions.\nIntegrated robust security measures and data encryption strategies across database platforms to safeguard sensitive information, compliant with PCI DSS standards.\nLed training sessions for developers on best practices in database usage and management, enhancing overall team proficiency and productivity."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** and **Bash** to automate database management tasks, optimizing workflows and enhancing data retrieval speeds by up to **30%**.\nDesigned and implemented database solutions using **Oracle Database**, **PostgreSQL**, and **Microsoft SQL Server**, ensuring data integrity and high availability for more than **100 million** records.\nExecuted comprehensive data migrations and schema transformations on **AWS RDS**, **Azure SQL**, and **Google Cloud SQL**, reducing downtime during transitions by **40%**.\nDeveloped monitoring dashboards using **Prometheus** and **Grafana** to provide real-time insights into database performance metrics, enabling proactive issue resolution and enhancing service availability.\nImplemented containerization strategies using **Docker** and **Kubernetes** to streamline database deployment processes, achieving a reduction in deployment times by **50%**.\nCreated infrastructure as code with **Terraform** and **Ansible**, facilitating repeatable and reliable database environment setups across multiple platforms.\nCollaborated with cross-functional teams to enhance database security protocols, leveraging **Shell** and **PowerShell** scripts for compliance checks and vulnerability assessments, significantly reducing security incidents by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **PostgreSQL**, **MongoDB**, **Cassandra**, and **AWS RDS** to design, optimize, and maintain database systems to ensure high availability and scalability for critical applications with a focus on data integrity and performance.\nImplemented ETL processes using **Python** and **Bash** scripts, enabling data migration and transformation for over **100 TB** of historical data to improve system efficiency.\nBuilt and monitored database performance using **Prometheus** and **Grafana**, achieving a **30%** reduction in query response time through proactive tuning and optimization strategies.\nAutomated database deployment and management with **Terraform** and **Ansible**, facilitating seamless infrastructure as code practices across multiple cloud environments.\nImplemented robust backup and disaster recovery strategies using **Azure SQL** and **Google Cloud SQL**, achieving an RPO of less than **15 minutes** for mission-critical databases.\nCollaborated closely with development teams to optimize application interactions with databases, resulting in a **25%** improvement in application performance through effective use of indexing and query optimization.\nEnsured security best practices through role-based access control (RBAC) and **Docker** containerization, maintaining compliance with GDPR and security protocols across the platform.\nDeveloped and maintained scripts in **Python** and **Shell** for routine database maintenance tasks, ensuring system uptime and data accuracy.\nDesigned and participated in database architecture discussions for large-scale applications with traffic exceeding **1M** users monthly, enabling informed decision-making based on data-driven insights.\nContributed to mentoring team members on database technologies, fostering a culture of knowledge-sharing and continuous improvement."
+    }
+  ],
+  "skills": "  **Programming Languages:**\n\tPython, Bash, Shell, PowerShell\n\n  **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n  **Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n  **API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n  **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n  **Databases:**\n\tPostgreSQL, Microsoft SQL Server, Oracle Database, MongoDB, MySQL, Cassandra\n\n  **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n  **Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose, Prometheus, Grafana\n\n  **Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Certbot, Redis"
+}

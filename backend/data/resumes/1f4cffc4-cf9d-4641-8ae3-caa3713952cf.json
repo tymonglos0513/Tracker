@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Python Developer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a dedicated Python Developer with 8 years of experience, I excel in delivering high-performance applications using **Python**, **Django**, **Flask**, and **FastAPI** technologies. My expertise encompasses CI/CD practices leveraging **Docker** and extensive experience with **AWS** services for deploying scalable solutions. I am adept at data modeling and ETL processes and have worked with **SQL**, **Spark**, and **Databricks** for robust data engineering tasks. \n\nI have successfully led projects utilizing **Airflow** for orchestration and **dbt** for data transformation, ensuring that solutions are aligned with Agile methodologies. My background includes integrating AI capabilities into applications, demonstrating a creative approach to solve complex client needs. I thrive in proactive, client-oriented environments and maintain a flexible and open-minded attitude towards problem-solving.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Python Developer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained scalable applications using **Python** (FastAPI, Django, Flask) to ensure robust backend functionality aligned with Agile methodologies.\n• Implemented CI/CD processes using **Docker**, **GitHub Actions**, and **CircleCI** to automate deployment, testing, and environment management for seamless delivery of Python-based applications.\n• Collaborated in data modeling and the use of **SQL** for efficient database interactions, ensuring adherence to data governance standards.\n• Leveraged **AWS** for cloud services, deploying secure and scalable applications that support data retrieval and processing workflows.\n• Designed and implemented ETL processes utilizing **Apache Airflow** and **Databricks** to efficiently manage data pipeline operations required for healthcare and financial data analytics.\n• Integrated AI and machine learning capabilities into Python applications, enhancing functionalities with predictive capabilities and advanced analytics.\n• Created and optimized containerized applications using **Docker**, ensuring high availability and support for microservices architectures.\n• Utilized **Spark** for handling large-scale data processing, facilitating real-time data insights and operational reporting.\n• Developed proactive strategies to enhance user experience, incorporating innovative features to meet diverse client needs in the healthcare and fintech sectors.\n• Provided flexible solutions by iterating on client feedback and adapting architectures to promote efficiency and maintainability.\n• Demonstrated open-mindedness in problem-solving, encouraging collaboration and creative thinking during project development phases.\n• Conducted thorough testing using **PyTest** to ensure code integrity, reliability, and performance of both backend services and APIs.\n• Established a robust data storage and querying system leveraging **Vector DB** for efficient retrieval in analytical applications."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** frameworks such as **Django** and **FastAPI** to develop modern financial applications that enhanced system performance and facilitated better data handling, achieving a **30%** reduction in processing time for transactions.\nImplemented CI/CD pipelines utilizing **Docker** to automate deployment processes, leading to a **40%** increase in deployment efficiency and reduced time to market for product features.\nDesigned and executed ETL processes using **Apache Airflow** and **Azure Data Factory** for seamless data integration from multiple sources, resulting in a unified data model that supports financial analytics.\nDeveloped data modeling strategies using **SQL** and integrated them with **Vector DB** for optimal data query performance, achieving up to **50%** improvement in retrieval times for financial datasets.\nCollaborated in an **Agile** environment to continuously improve product delivery, participating in sprints and retrospective meetings, thus enhancing team productivity by **25%**.\nEmployed **AWS** for serverless architecture and data storage solutions, optimizing operational costs and improving scalability for high-volume transaction systems.\nCultivated an AI-driven culture by implementing machine learning solutions to proactively identify anomalies within transaction data, increasing detection rates of potential fraud by **20%**.\nDisplayed flexibility and creativity in designing user-centric applications, ensuring client satisfaction through iterative feedback and enhancements."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Leveraged **Python** frameworks such as **FastAPI** and **Django** to design and optimize backend services for a global e-commerce platform, achieving **high availability, low latency, and scalability** across critical modules like checkout and order fulfillment.\nImplemented **CICD** processes and **Docker** for streamlined deployments and integrations, ensuring a seamless development lifecycle.\nUtilized **SQL** databases including MongoDB and PostgreSQL for effective **data modeling**, enabling quick data access while managing high-traffic e-commerce workflows.\nEngineered event-driven solutions utilizing **Kafka** and **RabbitMQ**, enhancing real-time order updates and dynamic inventory tracking, driving customer engagement and support responsiveness.\nEmployed AWS cloud services for reliable infrastructure and scalability, supporting the backend systems and data solutions for the platform.\nDeveloped and maintained frontend applications with **React (18)** and **Vue 3**, enhanced using **TypeScript** and **Tailwind CSS**, providing fast, user-friendly experiences on both web and mobile environments.\nIntegrated **AI/ML** technologies using **scikit-learn** and **TensorFlow** to create dynamic, personalized product recommendations, resulting in improved conversion rates and user satisfaction.\nImplemented **Docker** containers for application scalability and isolation, optimizing resource usage for backend services running on cloud-based platforms.\nUtilized ETL tools and frameworks like **Airflow** for data ingestion and transformation, ensuring up-to-date analytics and reporting capabilities.\nCreated responsive, SEO-friendly e-commerce UIs using **Next.js**, **HTML5**, and **CSS3**, focusing on mobile-first principles and accessibility compliance (WCAG 2.1).\nDeveloped secure payment processes through integrations with **Stripe** and **PayPal**, implementing tokenization and adhering to PCI compliance to protect sensitive customer data.\nApplied **role-based access control (RBAC)** and **OAuth 2.0** protocols for enhanced security, ensuring GDPR compliance through stringent user data protection measures."
+    }
+  ],
+  "skills": " **Backend Frameworks:**\n\tDjango, Flask, FastAPI\n\n **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, Vector DB\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, ETL, Spark, dbt, Databricks, Agile, Client oriented, Flexible, Open-minded, Creative, Proactive"
+}

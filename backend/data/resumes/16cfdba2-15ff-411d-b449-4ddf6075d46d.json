@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Node Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Dynamic Senior Node Engineer with 8 years of full stack development expertise, specializing in building scalable and high-performance solutions utilizing **Node.js**, **Sequelize**, **REST APIs**, **GraphQL**, **PostgreSQL**, and **RabbitMQ**. Proficient in modern JavaScript frameworks including **React** and **React Native**, as well as applying **Mocha** for testing robust applications. My solid background in software development is complemented by my ability to employ **Docker** and **Kubernetes** for containerization and orchestration, ensuring seamless deployment pipelines.\nDemonstrated success in leading agile teams to execute projects that integrate cutting-edge technologies, focusing on security and compliance with standards such as HIPAA and PCI DSS. Skilled in implementing microservices architecture and event-driven systems, I leverage my extensive experience in **Python** to develop automation solutions that enhance operational efficiency and facilitate integration with cloud environments like Azure and AWS.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Node Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and deployed **Node.js** applications using **Feathers.js** and **Sequelize**, ensuring efficient data management and effective integration with **REST APIs** and **GraphQL** for client-server communication.\n• Architected scalable, full-stack solutions emphasizing **React** for dynamic user interfaces, while integrating with modern state management libraries.\n• Implemented testing strategies using **Mocha** for unit and integration tests, ensuring robustness across all modules of the application.\n• Designed microservices-based architectures utilizing **Docker** and **Kubernetes** for container orchestration, enhancing system scalability and reliability.\n• Collaborated with cross-functional Agile teams to meet sprint deadlines and align project goals with stakeholder expectations, ensuring timely delivery of high-quality software.\n• Managed PostgreSQL databases to ensure optimized performance for large-scale applications, focusing on efficient data retrieval and storage.\n• Developed real-time messaging features leveraging **RabbitMQ** to facilitate efficient communication between microservices.\n• Involved in end-to-end development with a focus on performance optimization and security compliance across all platforms and APIs.\n• Delivered high-quality code by adhering to best practices in software design, testing, and code reviews."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Developed and modernized financial platforms leveraging **Node.js** (using **Express** and **Feathers.js**) to ensure a scalable and maintainable microservices-based architecture for high-volume transaction systems.\n- Created REST APIs and integrated **GraphQL** for seamless client-server communication, enhancing the performance of applications and improving user experience.\n- Led the implementation of asynchronous message queuing systems with **RabbitMQ** and **Docker**, facilitating robust event-driven architectures that support real-time processing of transactions, alerts, and compliance workflows.\n- Orchestrated containerized applications using **Kubernetes**, ensuring consistent deployment and scaling across cloud environments, achieving a **99.9%** uptime rate.\n- Designed and developed dynamic front-end applications employing **React** (version **18**), incorporating **Redux Toolkit** and **Tailwind CSS** to deliver responsive and high-performing interfaces for financial dashboards and admin portals.\n- Spearheaded the creation of real-time transaction monitoring and analytics dashboards utilizing **D3.js** and **Power BI Embedded**, increasing operational efficiency and enabling anomaly detection with a **30%** reduction in response time for alerts.\n- Built ETL pipelines utilizing **Python**, **Apache Airflow**, and **Azure Data Factory**, improving batch and real-time ingestion of financial data, achieving a data processing speed improvement of **50%**.\n- Employed AI/ML techniques with **scikit-learn** and **XGBoost** to deploy fraud detection systems that analyzed transaction patterns, successfully flagging **85%** of suspicious activities.\n- Developed machine learning pipelines for credit scoring and churn prediction, integrating model inference directly into backend services for real-time decision-making using **MLflow** and **Airflow**.\n- Fostered an Agile development environment, leading cross-functional teams and improving project delivery timelines by **25%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and optimized backend services using **Node.js** (with **Express** and **Feathers.js**) to ensure high availability and low latency across e-commerce modules, achieving a 99.9% uptime.\nEngineered REST APIs and integrated **GraphQL** for dynamic data handling, leading to a **30%** reduction in API response times.\nImplemented and maintained real-time features using **RabbitMQ** for event-driven architecture, enhancing customer experience with timely updates on order tracking and inventory.\nUtilized **PostgreSQL** and **Sequelize** for efficient data modeling and storage, facilitating quick access and improved performance on high-traffic workflows, achieving database query optimizations of **50%**.\nParticipated in Agile development practices, collaborating within cross-functional teams to deliver product features iteratively, increasing deployment frequency by **40%**.\nContributed to frontend projects using **React** and **React Native**, enhancing performance and user experience with reusable components, resulting in a **25%** improvement in load times.\nImplemented CI/CD pipelines with **Docker** and **Kubernetes** for seamless deployment and scaling of applications, which improved deployment times by **60%**.\nConducted unit and integration testing using **Mocha**, ensuring robust code quality with a coverage rate of over **85%**.\nLeveraged agile methodologies to prioritize and execute tasks in a fast-paced environment, directly contributing to timely project deliveries and enhanced team performance.\nPromoted best practices for code reviews and version control, ensuring maintainability and adherence to coding standards across all projects."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tNode.js, FastAPI, Flask, Django, Feathers.js\n\n **Frontend Frameworks:**\n\tReact, React Native, Vue, Angular\n\n **API Technologies:**\n\tREST APIs, GraphQL\n\n **Serverless and Cloud Functions:**\n\tAWS (Lambda, ECS), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Sequelize\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS (RDS, S3), Azure (Blob, SQL), Terraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Mocha, RabbitMQ, Agile",
+  "apply_company": "Creative Dock Group"
+}

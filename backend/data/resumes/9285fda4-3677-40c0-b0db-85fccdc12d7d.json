@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Web Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Web Engineer with 8 years of experience, I specialize in **TypeScript** and **API Integration**, ensuring seamless connectivity and robust functionality in applications. My proficiency in **gRPC** optimizes communication between services, while my strong skills in **Dependency Management** and **Build Tooling** guarantee smooth and efficient development workflows. I excel in **SDK Development** and maintain thorough **Documentation**, which enhances team collaboration and encourages efficient problem-solving.\n\nAdditionally, I bring extensive experience in full-stack development with **React**, **Node.js**, and **FastAPI**, complemented by my knowledge of **Cloud Services** like **Azure** and **AWS**. I have successfully led the development of high-performance solutions focused on the healthcare and financial sectors, incorporating AI/ML capabilities for predictive analytics and automation. With a solid understanding of microservices architecture and event-driven systems, I create secure applications that comply with standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Web Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Utilized **TypeScript** for robust **API Integration** and **SDK Development** to ensure seamless communication and functionality across various services.\n- Employed efficient **Dependency Management** techniques to streamline the development process, enhancing productivity and code maintainability in large-scale projects.\n- Spearheaded the architecture and development of complex systems using **gRPC** for high-performance service calls, improving data exchange rates.\n- Authored comprehensive **Documentation** for system design and implementation to facilitate collaboration among cross-functional teams and improve code transparency.\n- Collaborated with multi-disciplinary teams, fostering **Collaboration** and knowledge sharing to drive project success and innovation.\n- Solved complex technical challenges through proactive **Problem Solving**, ensuring projects remained on schedule and within budget.\n- Managed and maintained full-stack web applications, leveraging **Node.js**, **React** (**17-18**), and **Next.js**, while adhering to robust coding standards and best practices.\n- Implemented CI/CD pipelines enhancing deployment consistency and quality with **GitHub Actions** and **Azure DevOps**, ensuring rapid iteration cycles.\n- Increased application performance through advanced **Dependency Management** strategies and optimization practices in both frontend and backend codebases.\n- Conducted unit testing with **Jest** and functional testing using **Cypress**, achieving over **90%** code coverage to maintain high-quality standards in release management.\n- Led workshops and training sessions to enhance team skills in modern development practices and tools, resulting in a **30%** increase in team efficiency."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Spearheaded **API Integration** efforts in the development of financial platforms using **TypeScript**, enabling a seamless microservices-based architecture that improved system throughput by **40%**.\n• Collaborated with cross-functional teams to design and implement **gRPC** services, facilitating efficient communication between components and enhancing system reliability.\n• Streamlined **Dependency Management** through effective use of **Build Tooling**, achieving a **30% reduction** in build times and ensuring smoother deployments.\n• Developed comprehensive technical **Documentation** for APIs and services, promoting knowledge sharing and enhancing team collaboration during projects.\n• Employed advanced problem-solving skills to tackle complex challenges in SDK **Development**, resulting in robust libraries for easier integration of financial services across various applications.\n• Mentored junior developers in **TypeScript** best practices and **Dependency Management**, fostering a culture of continuous learning and improvement within the team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **TypeScript** to develop robust APIs and enhance web applications, ensuring seamless API Integration for high-performance interactions across platforms.\nManaged Dependency Management for various libraries and frameworks, streamlining the development process and minimizing conflicts in a microservices environment.\nDeveloped and maintained comprehensive project documentation to facilitate knowledge sharing and ensure consistent build tooling practices across the development team, improving overall efficiency.\nCollaborated effectively with cross-functional teams to drive innovation and deliver scalable solutions, facilitating regular code reviews and workshops to enhance problem solving skills within the group.\nLeveraged **gRPC** for efficient communication between microservices, ensuring low-latency responses and smooth interoperability within the global e-commerce platform.\nDesigned and optimized backend services using **Python** (FastAPI, Django) and **Node.js** (NestJS, Express), reaching an uptime of **99.9%** while maintaining scalability across key modules like checkout and order fulfillment.\nImplemented real-time features with **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ**, processing over **10,000** messages per second for dynamic inventory tracking and customer support.\nCreated client-side applications utilizing **React** (18), **Vue 3**, and **Angular**, achieving a performance score of **90+** on Google Lighthouse for both web and mobile engagement.\nIntegrated multiple databases including **MongoDB**, **PostgreSQL**, and **Redis**, ensuring data retrieval times under **100ms** for high-traffic scenarios.\nIncorporated AI/ML features using **scikit-learn**, **LightGBM**, and **TensorFlow** to create personalized product recommendations, resulting in a **15%** increase in conversion rates.\nImplemented caching strategies with **Redis**, leading to a **30%** performance improvement in application response times for frequently accessed resources.\nFacilitated controlled rollouts via feature flags and **Kubernetes** namespaces, reducing deployment risks and enabling A/B testing strategies.\nDeveloped secure e-commerce payment systems integrated with **Stripe**, **PayPal**, and **Razorpay**, ensuring compliance with PCI-DSS standards for sensitive data handling.\nEnforced role-based access control (RBAC) and **OAuth 2.0**, maintaining strict GDPR compliance and improving user data security across the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tgRPC, API Integration\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Dependency Management, Build Tooling, SDK Development, Documentation, Collaboration, Problem Solving",
+  "apply_company": "Justera Group"
+}

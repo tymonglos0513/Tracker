@@ -1,0 +1,55 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior DevOps Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with 9+ years of experience in designing, developing, and implementing scalable applications and infrastructures. Proficient in **AWS**, **Kubernetes**, **Linux**, **Git**, **Terraform**, **Ansible**, **Helm**, **Grafana**, and **Prometheus**, with a strong focus on automation and continuous integration using **GitLabCI**, **GitOps**, and **Flux**. Expertise in microservices architecture, proficient with **Apache Kafka** and capable of leveraging **Apache Flink** for real-time data processing. Adept at using **Cassandra** and **Neo4j** for data storage solutions while applying TDD and Agile methodologies to enhance software quality and delivery speed. Additionally, skilled in both frontend and backend technologies including **.NET**, **C#**, and **ReactJS**. Proven track record of optimizing performance, streamlining development processes, and leading cross-functional teams to achieve successful project outcomes.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "- Leveraged **AWS** and **Kubernetes** to maintain a highly scalable, reliable environment for web applications, achieving 99.9% uptime.\n- Utilized **Git** for version control and collaborative software development, managing over **150** branching and merging activities per quarter.\n- Implemented monitoring solutions using **Prometheus** and **Grafana** to visualize system performance and uptime, leading to a **30% reduction** in incident response times.\n- Automated infrastructure deployments utilizing **Terraform** and **Ansible**, decreasing provisioning time by **50%**.\n- Developed CI/CD pipelines using **GitLabCI** to streamline the deployment process, significantly enhancing productivity by **40%**.\n- Evaluated the use of **Helm** for managing Kubernetes applications, simplifying configuration management across various environments.\n- Conducted system performance optimizations with **VictoriaMetrics** for metrics storage, improving data retrieval times.\n- Utilized **ELK Stack** (Elasticsearch, Logstash, Kibana) for centralized logging and monitoring, facilitating faster troubleshooting and system health assessment.\n- Collaborated in an **Agile** environment to iterate on infrastructure strategies and adopt **TDD** practices for development.\n- Led the integration of **Apache Kafka** for real-time data streaming, enhancing data processing speeds and throughput by **25%**.\n- Oversaw script automation and system administration in **Linux** environments to enhance operational efficiency and reliability.\n- Mentored junior engineers, enhancing their understanding of **GitOps** and modern DevOps practices."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Implemented and managed CI/CD pipelines using **GitLabCI** and **GitOps**, resulting in a **30%** reduction in production deployment errors.\nDesigned and orchestrated containerized applications using **Kubernetes**, improving system scalability and reliability.\nUtilized **AWS** services to deploy and manage backend infrastructure, achieving a **15%** increase in resource efficiency.\nAutomated system configurations using **Ansible** and implemented infrastructure as code with **Terraform**, leading to streamlined deployments.\nMonitored application performance with **Prometheus** and visualized metrics using **Grafana** for real-time insights, boosting operational transparency.\nConfigured server environments on **Linux**, ensuring optimal performance and security.\nEnhanced system observability by integrating **ELK** stack, leading to a more efficient troubleshooting process.\nDeveloped and maintained microservices utilizing **Kafka** for event-driven architecture, ensuring high throughput and availability.\nCollaborated with development teams in an **Agile** environment to define technical requirements and ensure timely delivery of projects.\nConducted code reviews and provided mentorship to junior developers, fostering a culture of continuous improvement and knowledge sharing."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Utilized **AWS** for deploying applications, enhancing scalability and reliability of the internal CRM system, resulting in a 30% reduction in downtime.\nImplemented **Kubernetes** for container orchestration, streamlining development and deployment processes across multiple environments.\nDeveloped automated CI/CD pipelines using **GitLabCI** and **Terraform**, accelerating deployment frequency by over **50%**.\nEmployed **Prometheus** and **Grafana** for monitoring system performance, achieving alerts for anomalies and improving response time by **15%**.\nEnhanced system reliability and efficiency by configuring **Ansible** for automated server setups and updates.\nIntegrated **Kafka** for real-time event streaming, optimizing data flow between services and reducing latency.\nParticipated in Agile methodologies and TDD practices, ensuring high-quality code and fast iteration cycles.\nCollaborated with cross-functional teams in daily standups to assess project progress, aligning on goals and deliverables.\nCreated comprehensive technical documentation to facilitate knowledge sharing and reduce onboarding time by **25%**.\nContributed to code reviews using **Git** for version control, maintaining coding standards and improving code quality significantly."
+    }
+  ],
+  "skills": "**Backend Frameworks**\n\t.NET, C#, NodeJS, ExpressJS, NestJS\n\n**Programming Languages**\n\tJava, Scala, Python, JavaScript, TypeScript, C#, Solidity\n\n**Frontend Frameworks**\n\tReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n\n**API Technologies**\n\tRESTful API, GraphQL\n\n**Databases**\n\tMSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB, Cassandra, Neo4j\n\n**Cloud & Infrastructure**\n\tAWS, Azure, Kubernetes, Terraform, Ansible, Helm, Grafana, ELK, Prometheus, VictoriaMetrics\n\n**DevOps**\n\tCI/CD pipelines, Git, GitHub, GitLabCI, GitOps, Flux\n\n**Other**\n\tMicroservices, Agile, TDD, Testing Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Messaging & Caching: Apache Kafka, RabbitMQ, Redis, Blockchain: Ether.js, Web3.js, Ethereum, Scripting",
+  "apply_company": "GR8 Tech"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Data Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Results-oriented Senior Data Engineer with 13+ years of experience specializing in backend development, data processing, and real-time processing for high-performance applications in the healthcare and financial sectors. Expert in **JavaScript/TypeScript**, **Python**, and **Flutter**, with extensive hands-on experience in system design and data modeling. Skilled in leveraging **Node.js**, **FastAPI**, and **Django** for backend frameworks.\nProficient in deploying efficient data processing solutions using cloud services like **AWS** and **Azure**, and implementing scalable architectures including microservices. Experienced in working with databases to ensure robust data management and integrity. Proven ability to implement CI/CD pipelines for streamlined development, while adhering to compliance standards like HIPAA, FHIR, PCI DSS, and SOC 2. Strong background in integrating AI/ML capabilities into data systems, with knowledge in MLOps utilizing tools such as **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Focused on **data processing** and **system design** as a Senior Data Engineer, designed and built full-stack platforms for healthcare and fintech utilizing **Python (FastAPI)** and **Node.js**.\n- Optimized **databases** including **PostgreSQL**, **MongoDB**, and **Redis**, conducting **real-time processing** and heavy data ingestion to support analytics across both health and finance domains.\n- Developed comprehensive **data modeling** strategies to better inform stakeholders, ensuring compliance with industry standards like HIPAA and GDPR.\n- Implemented **batch processing** techniques to streamline ongoing data management and retrieval tasks, enhancing performance by up to **50%** on data queries.\n- Led complex data transformation initiatives using **ETL** processes, significantly improving data quality and usability for analytics, achieving a **40% reduction** in data handling errors with **CI/CD** practices.\n- Designed robust data pipelines for real-time processing powered by **Apache Kafka**, ensuring timely access to critical business insights.\n- Enhanced system design by integrating cloud services like **AWS Lambda** and Azure Functions for scalable, serverless architectures, achieving deployment scalability of **200%**.\n- Conducted detailed analysis and visualization of data trends using **Power BI** and **D3.js** to support stakeholder decision-making.\n- Collaborated with cross-functional teams to ensure models for data processing leveraged the most efficient methods, including **MLflow** for **MLOps** workflows, which improved deployment times by **30%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized backend architecture to modernize core financial platforms by migrating to microservices using **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, enhancing scalability and performance for high-volume transactional systems.\nImplemented data processing strategies by developing ETL pipelines for ingesting financial data from internal and third-party sources using **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting both **batch (processing **v2.0**) and real-time processing frameworks.\nDesigned a robust system architecture utilizing event-driven design patterns with **Kafka**, **RabbitMQ**, and **Azure Service Bus**, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nCreated databases for real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operations teams with instant insights into transactions and anomalies, contributing to a **30%** reduction in response times.\nEngineered machine learning pipelines for fraud detection using **scikit-learn**, **XGBoost**, and **Azure ML**, enabling proactive detection of suspicious activity based on user behavior and transaction patterns, resulting in identifying **95%** of potential fraud cases.\nDeveloped and deployed machine learning models for real-time credit scoring and churn prediction, leveraging **MLflow** and **Airflow** to integrate model inference into backend services, improving customer retention by **20%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend services for data processing using **Python** (FastAPI, Django) and **Node.js** (NestJS, Express) to ensure high availability and smooth operation across various modules in a global e-commerce platform.\nImplemented real-time processing features through **WebSockets** and event-driven architecture powered by **Kafka** and **RabbitMQ**, achieving responsive order updates and dynamic inventory tracking for over **100,000** transactions daily.\nEngineered data modeling solutions utilizing **MongoDB**, **PostgreSQL**, **Redis**, and **Cassandra** for distributed data storage, enhancing performance with reduced read latency by **40%** for high-traffic e-commerce workflows.\nExecuted systems design strategies that directly improved backend infrastructure, supporting scalable data pipelines and ensuring smooth batch processing for weekly data analysis operations involving **millions** of records.\nDeveloped robust batch processing features integrated with AI/ML-based recommendation engines leveraging **scikit-learn**, **LightGBM**, and **TensorFlow**, resulting in a **30%** increase in conversion rates through personalized product listings based on real-time behavioral data.\nImplemented caching strategies using **Redis** for improving system performance, significantly reducing database load while managing item metadata and shopping cart sessions for over **1 million** users.\nApplied advanced system design principles with feature flags and blue-green deployments utilizing **LaunchDarkly** and **Kubernetes**, enhancing risk mitigation during significant infrastructure updates.\nCreated data pipelines designed for data integrity and security, integrating secure payment workflows with **Stripe**, **PayPal**, and **Razorpay**, processing transactions with stringent adherence to PCI compliance standards.\nUtilized role-based access control (RBAC) and **OAuth 2.0** for managing secure customer and admin access, maintaining GDPR compliance and robust user data protection measures throughout data platforms."
+    }
+  ],
+  "skills": " **Backend Frameworks:**\n\tFlask, Django, FastAPI\n\n **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **Other:**\n\tData processing, Real-time processing, Batch processing, System design, Data modeling, MLflow, Airflow, Kubeflow\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **API Technologies:**\n\tKeycloak, OAuth2, JWT, Nginx\n\n **Serverless and Cloud Functions:**\n\tAWS Lambda\n\n **CI/CD & Infrastructure as Code:**\n\tTerraform, Ansible, Helm, Docker Compose",
+  "apply_company": "Yahoo"
+}

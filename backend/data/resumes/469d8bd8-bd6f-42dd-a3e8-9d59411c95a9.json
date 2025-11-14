@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Quality Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Quality Engineer with a solid foundation in **Kubernetes**, **AWS**, and **GitOps** practices, bringing over 13 years of experience in developing high-performance applications in the healthcare and financial sectors. Adept in **Chaos Engineering** and performance tuning, leveraging tools such as **Chaos Mesh**, **Litmus**, and **AWS Fault Injection Simulator** to ensure robust and resilient application performance. Skilled in utilizing monitoring solutions like **CloudWatch**, **Prometheus**, and **HoneyComb** for real-time system diagnostics and performance assessments.\n\nProficient in cloud-native architectures using **AWS EKS** and distributed systems, I implement CI/CD pipelines to enhance development efficiency. I possess a strong understanding of compliance standards including HIPAA, FHIR, PCI DSS, and SOC 2 while working closely with cross-functional teams to foster collaboration and innovation. My background includes building AI/ML-driven platforms utilizing Python and frameworks like **FastAPI** and **Django**, with experience in MLOps frameworks such as **MLflow** and **Airflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Quality Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **AWS** and **EKS** to manage and optimize containerized applications, ensuring robust deployment strategies and reliability for distributed systems.\nImplemented **Kubernetes** clusters with built-in **Chaos Engineering** principles, utilizing tools like **Chaos Mesh** and **Litmus** to enhance system resilience and performance tuning.\nDesigned and executed automated test strategies for performance benchmarking using **Prometheus** and **CloudWatch**, ensuring comprehensive coverage across unit and integration tests.\nCollaborated with cross-functional teams to define and implement **GitOps** methodologies, streamlining deployment processes and enhancing collaboration across development environments.\nConducted performance tuning and monitoring for distributed systems, leveraging advanced metrics with **HoneyComb** and using appropriate testing frameworks to identify bottlenecks.\nFacilitated chaos experiments with the **AWS Fault Injection Simulator** to uncover weaknesses in the system, leading to proactive improvements and increased system stability.\nDeveloped and maintained CI/CD pipelines with emphasis on secure and scalable practices using **GitHub Actions** and **CircleCI** for efficient code integration and delivery.\nEvaluated and integrated essential monitoring tools, ensuring high system performance through continuous collaboration with teams focused on operational excellence.\nEngaged in extensive code collaboration through regular peer review processes, fostering a culture of accountability and sharing of best practices across the engineering team."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented fault-tolerant systems using **AWS** services, enhancing reliability and uptime for distributed applications.\nUtilized **Kubernetes** and **EKS** for orchestrating containerized applications, ensuring smooth deployment and scaling in cloud environments.\nConducted **Performance Tuning** and monitoring with **Prometheus**, enabling proactive detection of performance bottlenecks in high-traffic systems.\nApplied **Chaos Engineering** principles using **Chaos Mesh** and **Litmus** to test system resilience under unexpected conditions, securing a 99.99% uptime record across platforms.\nCollaborated with cross-functional teams focusing on **Distributed Systems** to establish best practices for system design and deployment, improving team workflow efficiency by 30%.\nManaged deployment pipelines with **GitOps** strategies, facilitating automated updates and rollbacks in infrastructure with minimal downtime.\nEstablished monitoring solutions using **CloudWatch** and **HoneyComb** for real-time observability and tracing of critical transaction flows, ensuring quick identification of anomalies.\nDeveloped and executed test plans that cover performance, reliability, and chaos scenarios, ensuring comprehensive testing outcomes.\nFacilitated knowledge sharing sessions to promote understanding of **Cloud** technologies and engineering best practices, improving overall team capability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented **Kubernetes** and **AWS** EKS for orchestration and deployment, ensuring robust infrastructure for the e-commerce platform, which supported over **100,000** concurrent users during peak sales events.\nConducted **performance tuning** and **chaos engineering** practices using **Chaos Mesh** and **AWS Fault Injection Simulator** to enhance system reliability, leading to a **30%** reduction in downtime during critical operational hours.\nCollaborated with cross-functional teams employing **GitOps** practices, optimizing deployment workflows and improving code delivery speed by **40%**.\nUtilized **ALB** and **Karpenter** for effective load balancing and auto-scaling, ensuring high availability and performance of services under variable load conditions.\nMonitored system performance with **CloudWatch**, **Prometheus**, and **HoneyComb**, enabling real-time detection of anomalies and proactive maintenance actions, resulting in a **25%** increase in system uptime.\nEnhanced **distributed systems** architecture to ensure resilient data storage and processing across multiple databases including MongoDB and PostgreSQL, achieving near-instantaneous data retrieval for user operations.\nParticipated in continuous collaboration efforts to align project goals with overarching business objectives, maximizing team efficiency and project outcomes."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **Backend Frameworks:**\n\t\n\n **Frontend Frameworks:**\n\t\n\n **API Technologies:**\n\t\n\n **Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes\n\tGitHub Actions, GitLab CI/CD\n\tGitOps\n\tTerraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS: RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\tEKS\n\n **Other:**\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot\n\tChaos Engineering: Chaos Mesh, Litmus, AWS Fault Injection Simulator, Karpenter\n\tALB, HoneyComb, CloudWatch, Prometheus\n\tPerformance Tuning\n\tDistributed Systems\n\tCollaboration",
+  "apply_company": "RLDatix"
+}

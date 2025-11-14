@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior AI Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "Results-driven Senior AI Engineer with 8 years of experience specializing in **Azure**, **Python**, **MLOps**, **CI/CD**, and **Microservices** architecture. Proficient in building scalable and high-performance applications utilizing **Azure Functions**, **Docker**, and **Kubernetes** to ensure efficient deployment and management. Demonstrated expertise in developing **REST APIs** and leveraging **Azure ML** and **Cognitive Services** for advanced AI capabilities, enabling predictive analytics and real-time data processing.\n\nSkilled in comprehensive monitoring and automation strategies, along with implementing robust CI/CD pipelines using tools like **Terraform**. My background in healthcare and financial sectors equips me with a deep understanding of compliance standards including HIPAA and PCI DSS. I have successfully led projects that integrate machine learning workflows, underpinned by experience in serving ML models in production using frameworks such as **Airflow** and **Kubeflow**. A passionate advocate for best development practices, I bring strong collaboration and problem-solving skills to every project.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and integrated scalable **Azure**-based solutions, leveraging **Python**, **C#/.NET**, and modern frameworks while adhering to compliance standards.\n- Architected and deployed microservices utilizing **Docker** and **Kubernetes (1.20-1.25)** to enhance application reliability and scalability.\n- Developed CI/CD pipelines employing **Azure Pipelines** and **GitHub Actions**, focusing on automation, testing, and deployment across different environments.\n- Implemented **Azure Functions** for serverless computing, achieving high availability in healthcare and financial applications.\n- Built and managed **MLOps** pipelines using **MLflow** and **Azure ML**, facilitating the continuous integration and deployment of machine learning models.\n- Designed and implemented **REST APIs** for seamless communication between microservices, ensuring efficient data exchange and service interaction.\n- Integrated **Cognitive Services** for advanced AI features, enhancing user experiences through personalized health recommendations and smart dashboards.\n- Collaborated on monitoring solutions using **Azure Monitor** and **Application Insights**, ensuring proactive issue resolution and optimal application performance.\n- Facilitated the deployment of enterprise-level infrastructure as code using **Terraform**, streamlining the provisioning of Azure resources.\n- Established advanced data architectures using **PostgreSQL** and **Redis**, optimizing for performance in storing and processing large-scale financial and healthcare data.\n- Led the migration of legacy systems into **microservices**, enhancing efficiency and system resilience while utilizing **Azure Kubernetes Service (AKS)**.\n- Developed interactive data visualization tools using **Power BI** and integrated with key performance indicators (KPIs) to enable real-time insight into financial operations.\n- Collaborated with cross-functional teams to implement NLP models with libraries like **spaCy**, ensuring precision in document parsing and anomaly detection.\n- Handled extensive testing strategies using **Cypress** and **Jest** for both frontend and backend services, ensuring robustness and reliability across applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented **MLOps** strategies to enhance AI/ML-powered fraud detection systems, utilizing **Azure ML**, **scikit-learn**, and **XGBoost**, which analyzed over **100,000** transactions weekly to proactively identify suspicious activities within banking systems.\nLed the modernization of applications using a **microservices** architecture with **Python** (FastAPI, Django) and **C#/.NET**, improving system scalability by **50%** and reducing response times to under **200ms** for high-volume transaction processing.\nArchitected and deployed containerized solutions using **Docker** and **Kubernetes**, ensuring seamless application orchestration across development and production environments.\nDesigned and built dynamic front-end applications with **React** (v18), **Next.js**, and **TypeScript**, improving user engagement metrics by over **30%** through responsive UI implementations.\nEstablished real-time data pipelines with **Azure Functions** and **Terraform**, enabling rapid deployment and management of infrastructure for event-driven architectures.\nCreated and maintained robust **REST APIs** to facilitate integration with various services, enhancing communication between application layers and third-party tools.\nDeveloped continuous integration and continuous deployment (**CI/CD**) pipelines for seamless code delivery, reducing deployment times by **40%** and improving code quality through automated testing.\nUtilized **Microsoft 365** and **Entra ID** for securing applications, ensuring compliance with data governance policies while enhancing user experience with single sign-on features."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Azure** cloud services and tools to build and deploy scalable AI solutions, enhancing deployment efficiencies and reducing time-to-market for machine learning models.\nEngineered and optimized microservices using **Python** and **C#/.NET**, leveraging **REST APIs** for seamless integration between components, which improved system modularity and maintainability by **30%**.\nImplemented CI/CD pipelines using **Docker** and **Kubernetes** for automated deployments and container orchestration, decreasing deployment times by **25%** and improving overall productivity.\nDeveloped machine learning models and applications leveraging **Azure ML** and **TensorFlow**, applying MLOps principles to ensure robust model lifecycle management and continuous integration.\nDeployed and managed infrastructure as code using **Terraform**, facilitating consistent environment setup and configuration across development, testing, and production.\nIntegrated **Monitoring** solutions to track application performance and usage, proactively identifying issues and optimizing system performance, resulting in a **15%** reduction in downtime.\nDesigned and built reliable backend systems capable of handling high traffic scenarios by implementing distributed architectures with **Azure Functions** and event-based processing.\nEnsured compliance with GDPR and industry standards by applying role-based access control (RBAC) and **Entra ID** workflows within AI applications, protecting sensitive user data.\nLeveraged **Cognitive Services** to enhance user experiences with intelligent features, such as natural language processing and computer vision, significantly increasing user engagement metrics by **20%**."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, C#/.NET\n\n **Backend Frameworks**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks**\n\tJavaScript/TypeScript, React, Vue, Angular\n\n **API Technologies**\n\tREST APIs, OAuth2\n\n **Serverless and Cloud Functions**\n\tAzure Functions, AWS Lambda\n\n **Databases**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\n **Cloud & Infrastructure**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), Terraform, Ansible, Helm, Docker Compose\n\n **Other**\n\tMLflow, Airflow, Kubeflow, MLOps, Azure ML, Microservices, Monitoring, Keycloak (OIDC, RBAC), JWT, Let’s Encrypt, Nginx, Certbot, Microsoft 365, Entra ID, Cognitive Services",
+  "apply_company": "Quest Software"
+}

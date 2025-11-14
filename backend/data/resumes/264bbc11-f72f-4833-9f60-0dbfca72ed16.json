@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Backend Engineer with 13+ years of extensive experience in developing distributed systems and designing RESTful APIs. Proficient in **PHP**, **Laravel**, **Symfony**, and adept at implementing **event-driven architecture** and **messaging systems**. Skilled in both SQL and NoSQL databases while applying caching strategies to enhance application performance.\nDemonstrated knowledge of **AWS** for cloud deployment and monitoring, utilizing **Datadog** and **Prometheus** for system observability. Strong advocate for OOP, following SOLID principles and design patterns to create scalable and maintainable backend solutions.\nExperienced in transitioning services to **microservices** architecture and comfortable with SaaS and PaaS models. Additionally, I possess a robust foundation in the healthcare and financial sectors, having developed AI/ML-powered platforms capable of predictive analytics and real-time processing.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and built robust backend systems using **PHP** frameworks such as **Laravel** and **Symfony** for high-performance applications, ensuring adherence to **SOLID principles** and utilizing **OOP** methodologies.\n• Developed and maintained **RESTful APIs** to support integration with various frontend platforms and third-party services, ensuring optimal performance.\n• Implemented event-driven architectures and messaging systems to enhance scalability in distributed systems, enabling seamless communication between services.\n• Created and optimized database schemas with both **SQL** and **NoSQL** databases, ensuring efficient data storage and retrieval through thoughtful caching strategies.\n• Led the implementation of microservices architecture, leveraging **Docker** for containerization and orchestration.\n• Deployed applications using **AWS** services, ensuring high availability and performance monitoring with **Datadog** and **Prometheus** for operational insights.\n• Engineered solutions for telecom applications focused on **eSIM** and **GSMA technologies**, integrating with existing travel technology stacks for enhanced user experiences.\n• Advocated for best practices in code quality and design patterns throughout the software development lifecycle, fostering a culture of robust development within the team.\n• Collaborated closely with cross-functional teams to build and scale SaaS and PaaS solutions, focusing on user requirements and driving technical innovation.\n• Established deployment pipelines and automation strategies for continuous integration and delivery, enhancing productivity and reducing release cycle times."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **PHP** frameworks such as **Laravel** and **Symfony** to design and implement scalable **RESTful APIs** for financial applications, ensuring seamless integration with front-end applications.\nEngineered distributed systems architecture, incorporating **event-driven architecture** and **messaging systems** like Kafka and RabbitMQ, to facilitate asynchronous communication in high-volume transaction environments.\nImplemented caching strategies to optimize SQL and NoSQL databases, significantly increasing data retrieval efficiency for financial transactions.\nApplied **OOP** principles and **SOLID principles** to maintain high code quality and enforce design patterns across the development lifecycle, leading to improved maintainability and scalability.\nDeveloped and managed CI/CD pipelines using **Docker** for environment consistency and rapid deployment cycles, enhancing the reliability of the deployment process.\nLeveraged cloud services including **AWS** to host and enhance applications, utilizing monitoring tools such as **Datadog** and **Prometheus** to maintain high availability and system performance.\nWorked with **microservices** architecture to break down monolithic applications, ensuring flexibility and scalability in the deployment of financial services.\nContributed to Telecom solutions involving **GSMA technologies** and **eSIM**, aligning software development with travel tech innovations.\nParticipated in architecture discussions to refine and evolve SaaS and PaaS offerings, leading to a **30%** improvement in deployment time and service reliability."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend services for a global e-commerce platform using **PHP (Laravel, Symfony)**, ensuring scalability and maintainability across modules like checkout, cart, and order fulfillment by employing **RESTful APIs** and **distributed systems**.\nEngineered real-time features using **event-driven architecture** with **messaging systems** such as Kafka and RabbitMQ, enabling quick order updates and dynamic inventory tracking.\nLeveraged **SQL** and **NoSQL** databases including **MongoDB** and **PostgreSQL**, ensuring fast data retrieval for high-traffic workflows, with caching strategies that improved data access speed by **30%**.\nIntegrated logging and monitoring tools like **Datadog** and **Prometheus** for system performance tracking, decreasing downtime by **25%** through proactive alerts and insights.\nImplemented secure and efficient web services with high throughput, handling up to **1500+** transactions per second, while adhering to **SOLID principles** and established **design patterns**.\nBuilt microservices architecture with **Docker** for containerization, enhancing deployment cycles by **40%** with **SaaS** and **PaaS** solutions, facilitating continuous integration and delivery.\nApplied OOP principles to develop maintainable and extensible codebases that align with evolving business requirements, ensuring project adaptability.\nCollaborated with cross-functional teams to implement scalable solutions in the **Telecom** and **Traveltech** sectors, targeting services for **eSIM** and **GSMA technologies**.\nUtilized cloud services like **AWS** for scalable infrastructure solutions, optimizing resource allocation and operational costs by reducing on-premise dependencies.\nImplementing robust security measures, ensuring compliance with GDPR and protection of user data through effective access control mechanisms."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript, PHP\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Laravel, Symfony\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tRESTful APIs, OAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL, NoSQL\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, Datadog, Prometheus\n\n **Cloud & Infrastructure:**\n\tAzure: App Services, Blob Storage, SQL Database, SaaS, PaaS, SOA\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, distributed systems, event-driven architecture, messaging systems, caching strategies, OOP, SOLID principles, design patterns, microservices, telecom, eSIM, GSMA technologies, Traveltech",
+  "apply_company": "Airalo"
+}

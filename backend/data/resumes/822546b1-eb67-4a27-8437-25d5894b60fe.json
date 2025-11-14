@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Backend Engineer - 3rd Party POS Integrations",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Results-driven Backend Engineer with over 9 years of experience in developing and managing complex applications utilizing **Java**, **Kotlin**, and **Spring** frameworks. Proficient in designing robust REST and gRPC APIs and implementing seamless CI/CD pipelines. Experienced in deploying observability tools such as **Datadog** for performance monitoring and ensuring compliance with security standards through **OAuth2**, **mTLS**, and **API key** management. Strong background in microservices architecture with skills in **Kafka** and **RabbitMQ** for efficient message routing. Additionally, well-versed in **React** for frontend tasks and adept at unit and integration testing to maintain high code quality. Proven track record of leading development projects, optimizing processes, and collaborating with cross-functional teams to ensure successful delivery of solutions.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Engineer - 3rd Party POS Integrations",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Developed and maintained RESTful APIs using **Java** and **Spring** to support seamless integration with 3rd party Payment Gateway systems.\nImplemented CI/CD processes utilizing **Terraform** and **Datadog**, significantly enhancing the deployment pipeline efficiency by **40%**.\nDesigned and executed observability frameworks for monitoring system performance using **Kafka** and **RabbitMQ**, ensuring high availability and resilience under peak loads.\nExecuted unit testing and integration testing methodologies to ensure code quality, maintaining a coverage of over **85%**.\nLeveraged **React** for building user interfaces that interact with backend services, delivering a responsive and engaging user experience.\nIntegrated **OAuth2** and **mTLS** for secure authentication, safeguarding sensitive payment information during transactions.\nCreated webhook signature validation mechanisms to ensure the integrity of data received from third-party services.\nOptimized microservices architecture for scalability and maintainability, leading to reduced latency in transaction processing by **30%**.\nCollaborated cross-functionally with frontend developers to ensure cohesive application integrations with payment systems."
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "• Developed and implemented **RESTful APIs** using **Java** and **Spring**, ensuring seamless integration for **3rd Party POS Integrations**.\n• Designed CI/CD pipelines leveraging **Terraform** and **Datadog**, resulting in a **30%** reduction of deployment errors.\n• Integrated **gRPC** for efficient communication between services, improving system responsiveness by **15%**.\n• Utilized **RabbitMQ** and **Kafka** for handling message queues and event-driven architecture, enhancing system scalability.\n• Managed observability through **Datadog**, providing real-time performance metrics and error tracking, improving uptime by **20%**.\n• Developed unit and integration tests, boosting code quality and reducing bugs in production by **25%**.\n• Collaborated effectively with cross-functional teams to assess system performance and define requirements, ensuring timely project delivery.\n• Mentored junior developers in best practices for **Java**, **Kotlin**, and testing strategies, fostering a culture of continuous learning in the team."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Developed and maintained robust backend solutions using **Java** and **Spring** frameworks, ensuring high performance for 3rd party POS integrations.\nImplemented **REST** and **gRPC** APIs, enhancing inter-service communication and improving system reliability by 30%.\nUtilized **RabbitMQ** for effective message queuing, optimizing customer notification processing and reducing system load during peak times.\nDesigned and executed CI/CD pipelines using **Terraform**, streamlining deployment processes and reducing deployment time by **50%**.\nIntegrated observability tools like **Datadog** to monitor system performance, leading to a **25%** decrease in downtime incidents.\nContributed to unit testing and integration testing efforts, ensuring code quality and reducing bugs in production by **40%**.\nImplemented secure API access through **OAuth2** and **mTLS**, safeguarding data communication and enhancing security protocols.\nExecuted webhook signature validation and managed API keys for secure third-party integrations, improving overall operational security.\nParticipated in code reviews and agile ceremonies, maintaining alignment with project goals and coding standards.\nProduced technical documentation and user guides, facilitating knowledge transfer and effective collaboration across teams."
+    }
+  ],
+  "skills": " **Programming Languages** \n\t Java, Kotlin, JavaScript, TypeScript, Python \n\n **Backend Frameworks** \n\t Spring, NodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices \n\n **Frontend Frameworks** \n\t ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS \n\n **API Technologies** \n\t REST, gRPC, RESTful API, GraphQL, OAuth2, mTLS, API keys, webhook signature validation \n\n **Serverless and Cloud Functions** \n\t AWS, Azure, DynamoDB, CosmosDB \n\n **Databases** \n\t MSSQL Server, MySQL, PostgreSQL, MongoDB \n\n **DevOps** \n\t CI/CD pipelines, Terraform, Datadog \n\n **Cloud & Infrastructure** \n\t Observability, Unit testing, Integration testing, Apache Kafka, RabbitMQ, Redis \n\n **Other** \n\t UX/UI Design, Git, GitHub, NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest, Solidity, Ether.js, Web3.js, Ethereum"
+}

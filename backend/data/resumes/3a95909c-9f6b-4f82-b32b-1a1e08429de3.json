@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior SREngineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior SREngineer with over 10 years of extensive experience in leveraging **AWS**, **Python** (including **FastAPI**, **Django**, and **Flask**), and **Terraform** to create robust backend systems and high-performing APIs. Proficient in implementing solutions for **AI/ML** pipelines and enhancing observability through tools like **OpenTelemetry**, **Cloudwatch**, and **DataDog**. Strong background in DevOps practices and cloud-native architectures with a proven ability to deliver scalable services that meet business objectives. Successfully contributed to high-impact projects for leading organizations such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SREngineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered backend services in **Python** using **FastAPI** to streamline document automation, user onboarding, and reporting workflows.\nDeveloped event-driven solutions with **Celery** and **Redis** to manage asynchronous processing for financial transaction requests while enhancing efficiency by **30%**.\nDeployed microservices on **AWS** and utilized **Terraform** to manage infrastructure as code, ensuring seamless cloud operations and reducing deployment time by **40%**.\nCreated and maintained data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, guaranteeing timely and accurate data flow with a latency of less than **5 seconds**.\nLed security assessments and integrated **OAuth2** and **Azure AD B2C** for secure, scalable authentication systems, improving overall system security by **25%**.\nCollaborated with cross-functional teams to address system integration challenges, ensure compliance, and oversee release strategies, achieving a **98%** success rate in deployment outcomes."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Ensured high availability and performance by developing backend systems in **Python** and **FastAPI**, automating document workflows with a 30% reduction in processing time.\nImplemented DevOps practices by managing deployment of microservices on **AWS** using **Terraform**, achieving a 40% increase in deployment efficiency.\nCreated event-driven microservices using **Celery** and **Redis**, resulting in a 25% improvement in asynchronous processing of financial data and transaction requests.\nEngineered and optimized data pipelines for secure regulatory data exchange using **Apache Airflow** and **AWS Lambda**, automating workflows with **90%** successful execution rates.\nConducted security audits and integrated **OAuth2** and **AWS IAM** for authentication, enhancing security posture by implementing structured access controls, ensuring 100% compliance with industry standards.\nCollaborated with cross-functional teams, contributing to observability enhancements utilizing **OpenTelemetry** and **Cloudwatch**, validating system performance metrics with a **40%** reduction in downtime.\nContinuously improved system reliability through observability practices using **DataDog**, enhancing monitoring capabilities, and achieving faster incident response times."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Designed and implemented robust observability frameworks utilizing **OpenTelemetry** and **DataDog** to ensure high availability and performance of services.\n• Deployed and managed infrastructure on **AWS** with automation tools like **Terraform**, streamlining cloud resource management.\n• Enhanced backend services using **Python** and **Flask** to support trade execution, portfolio management, and account tracking, resulting in a **30%** improvement in trading operations efficiency.\n• Engineered real-time price feed processors leveraging **asyncio**, **WebSockets**, and **Redis**, achieving response times below **200ms** for high-frequency transactions.\n• Collaborated with frontend teams to integrate with REST APIs and WebSocket channels, increasing user satisfaction metrics by **25%**.\n• Ensured compliance with regulatory requirements under MiFID II and GDPR and developed internal data security protocols that reduced breaches by **15%**.\n• Implemented extensive test suites using **PyTest** and **tox**, improving testing cycle time by **40%** and enhancing CI processes.\n• Optimized backend task execution through job queuing with **Celery** and **RabbitMQ**, reducing task processing time by **20%**."
+    }
+  ],
+  "skills": " **Programming Languages**\n\tPython, SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices, OpenTelemetry\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Cloudwatch, Azure, Terraform\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, DataDog, Observability\n\n**AI/ML Tools**\n\tPandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow\n\n**Cloud & Infrastructure**\n\tAWS, Azure\n\n**Other**\n\tKafka, PyTest, Git",
+  "apply_company": "Robin AI"
+}

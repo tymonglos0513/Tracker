@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Data Engineer with 8 years of experience, I possess strong expertise in **Apache Hadoop**, **Spark**, **Flink**, **Docker**, **Kubernetes**, and **Kafka**. I have a solid background in **Python** and **SQL**, enabling me to design and implement scalable data pipelines and architectures effectively. My proficiency in **Airflow** for orchestration and **dbt** for data transformation supports my ability to maintain high data quality and performance optimization.\n\nI have a track record of deploying applications on **AWS** and utilizing **GitHub Actions** for robust CI/CD processes, ensuring seamless integration and delivery of data solutions. My experience spans across building enterprise-grade platforms with a focus on data governance and architecture in compliance with industry standards.\n\nAdditionally, I leverage my knowledge of modern frameworks including **FastAPI** and **Django**, alongside advanced cloud services from **Azure**, to integrate sophisticated data processing with predictive analytics and machine learning capabilities. My strong foundation in **CI/CD automation** and **event-driven systems**, combined with my hands-on experience in **MLOps**, empowers me to deliver resilient and efficient data solutions that drive business objectives.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained data architecture using **SQL**, **Python**, and **Docker** for scalable data processing and governance, ensuring high performance and compliance with data standards.\n- Designed and implemented CI/CD pipelines using **GitHub Actions** and **Airflow** for automated deployment and performance optimization in data workflows.\n- Leveraged **Apache Hadoop**, **Spark**, and **Flink** for big data processing, enabling real-time analytics and insights across diverse datasets.\n- Employed **Kafka** and **Confluent** for data streaming and pipeline integration, ensuring data availability and consistency across architectural components.\n- Built robust data governance frameworks to maintain data quality and security, aligning with industry regulations and standards.\n- Led initiatives in **AWS** deployment strategies to facilitate cloud-based data solutions with optimized performance and cost-effectiveness, processing over **10 TB** of data monthly.\n- Improved data retrieval times by **30%** through performance tuning of SQL queries and database indexing strategies across **PostgreSQL** and **MongoDB** environments.\n- Collaborated in cross-functional teams to develop complex data models, employing **dbt** for data transformation and ensuring high-quality and accessible data for analytical needs.\n- Implemented monitoring solutions to track data pipeline performance, providing insights that led to a **25%** reduction in processing errors.\n- Designed and facilitated training sessions on best practices in data architecture, governance, and performance optimization, enhancing team capability and efficiency."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Designed and implemented data architecture using **Apache Hadoop** and **Spark** to optimize data ingestion and processing, enhancing performance by over **30%**.\n• Utilized **Kafka** for building real-time data pipelines and establishing a resilient event-driven architecture, enabling efficient asynchronous communication across platforms.\n• Developed and orchestrated ETL workflows with **Apache Airflow**, ensuring reliable data flow and transformation, achieving a processing time reduction of **20%**.\n• Applied frameworks such as **Docker** and **Kubernetes** to achieve scalability and maintainability of data services, resulting in streamlined deployment processes and improved resource management.\n• Wrote efficient data pipelines in **Python** and implemented version control for data code with **GitHub Actions**, maintaining robust CI/CD practices for data models and workflows.\n• Conducted predictive analysis by integrating machine learning models into data workflows with **dbt** and using **SQL** for data manipulation and analysis.\n• Collaborated in cross-functional teams to ensure data governance and enhance data architecture, contributing to improved data quality and integrity across various projects.\n• Optimized performance of data queries and transformation processes, leading to quicker insights and reporting, which improved operational efficiency by **15%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Apache Hadoop** and **Spark** for large-scale data processing, enabling efficient data transformation and analysis across multi-terabyte datasets, resulting in a **30% reduction in processing time**.\nDeveloped data pipelines with **Apache Flink** and **Airflow** to enhance ETL processes, ensuring **99.9% uptime** of data workflows and improved data reliability and quality.\nEngineered containerized applications using **Docker** and orchestrated microservices via **Kubernetes**, streamlining deployment processes and achieving consistency across development environments.\nDesigned scalable data architecture leveraging **AWS** services for cloud storage and computation, leading to a **40% cost savings** on infrastructure over traditional solutions.\nImplemented CI/CD practices using **GitHub Actions**, automating testing and deployment to facilitate expedited feature releases and reduce downtime during updates, achieving a **75% improvement in deployment frequency**.\nOptimized SQL queries and database interactions for enhanced performance, achieving a **50% increase in query execution speed** and improved user experience for data retrieval operations.\nApplied **Data Governance** frameworks to ensure compliance and security of sensitive information, adhering to industry standards for data management and audit trails.\nConducted performance optimization and troubleshooting of existing data processes, identifying bottlenecks and implementing solutions that improved overall system efficiency by **25%**.\nCollaborated with cross-functional teams to align data architecture strategies with business objectives, fostering data-driven decision making across the organization."
+    }
+  ],
+  "skills": " **Programming Languages:** \n\tPython, SQL, Scala\n\n **Backend Frameworks:** \n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:** \n\tJavaScript, TypeScript, React, Vue, Angular\n\n **API Technologies:** \n\tN/A\n\n **Serverless and Cloud Functions:** \n\tAWS (Lambda), Azure (App Services)\n\n **Databases:** \n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:** \n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:** \n\tAWS (ECS, RDS, S3), Azure (Blob, SQL)\n\n **Other:** \n\tMLflow, Airflow, Kubeflow, Apache Hadoop, Spark, Flink, Kafka, Confluent, CI/CD, Data Governance, Data Architecture, Performance Optimization",
+  "apply_company": "Cloudbeds"
+}

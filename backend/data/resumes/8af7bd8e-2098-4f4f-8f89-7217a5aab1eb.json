@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Quality Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "A results-driven Senior Quality Engineer with 8 years of full-stack development experience, specializing in quality assurance across complex cloud environments utilizing **AWS**, **Kubernetes**, and **EKS**. Proficient in implementing **Chaos Engineering** principles using tools such as **AWS Fault Injection Simulator**, **Chaos Mesh**, and **Litmus**, enhancing system resilience and stability. I leverage **GitOps** for seamless deployment and operational workflows, and utilize observability tools including **HoneyComb**, **CloudWatch**, and **Prometheus** to ensure optimal application performance.\n\nMy comprehensive expertise in technologies like **React**, **Node.js**, **Python**, **FastAPI**, **Django**, and **Flutter** allows me to build high-quality, robust applications. I am adept at developing and maintaining enterprise-grade platforms within the healthcare and financial sectors, ensuring compliance with standards like HIPAA and PCI DSS. My strong foundation in microservices architecture and CI/CD automation further supports the delivery of secure, scalable solutions aligned with business needs.  Additionally, I have hands-on experience in developing machine learning pipelines and implementing MLOps workflows, enhancing overall project effectiveness.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Quality Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Implement and manage **Kubernetes** clusters, ensuring high availability and fault tolerance of applications through **EKS** (Elastic Kubernetes Service) and effective orchestration strategies.\n- Apply **Chaos Engineering** principles using tools like **AWS Fault Injection Simulator**, **Chaos Mesh**, and **Litmus** to test system resilience and identify potential failure points in production environments.\n- Utilize **Karpenter** for optimizing resource allocation and scaling policies within the **Kubernetes** infrastructure to enhance performance and reduce costs.\n- Leverage **Application Load Balancer (ALB)** configurations and **Istio** service mesh for managing traffic routing, security policies, and observability in microservices architectures.\n- Utilize **GitOps** methodologies for continuous deployment and infrastructure management, ensuring streamlined code changes and quick recovery in case of failures.\n- Monitor system performance and application health through tools like **HoneyComb**, **CloudWatch**, and **Prometheus**, generating insights for proactive improvements.\n- Collaborate with cross-functional teams to define and implement robust quality assurance processes and test strategies, thereby ensuring smooth delivery of products.\n- Establish comprehensive testing frameworks using industry-standard tools, enhancing unit, integration, and E2E testing coverage, with targeted metrics aiming for >90% code coverage.\n- Participate in code reviews and contribute to a culture of quality, resilience, and accountability in the development and deployment of applications.\n- Analyze system metrics and logs to identify bottlenecks and propose enhancements, directly contributing to system performance improvements of up to 75% through adjustments based on observed incidents."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented Chaos Engineering practices using **AWS Fault Injection Simulator** and **Kubernetes**, enhancing system resilience and uptime for high-volume financial applications.\nLeveraged **Prometheus** and **CloudWatch** for comprehensive monitoring and observability, allowing proactive identification of issues and optimization of system performance.\nAutomated deployment and scaling of applications on **EKS** using **Karpenter**, improving resource management and reducing operational costs by **30%**.\nExecuted GitOps methodologies to streamline application updates and maintain version control, increasing deployment frequency by **40%**.\nDesigned and conducted chaos experiments with **Chaos Mesh** and **Litmus** to validate system reliability under simulated failure conditions, leading to a **50%** reduction in unplanned outages.\nUtilized **Istio** for managing service-to-service communication, enhancing security and traffic management in microservices environments.\nIntegrated **HoneyComb** for advanced performance monitoring and debugging, ensuring high levels of application reliability.\nApplied rigorous testing strategies to ensure quality and performance in applications developed with **Node.js**, **Python**, **React**, and **TypeScript**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Leveraged **Kubernetes** for deploying and managing containerized applications to ensure high availability and resilience in a microservices architecture.\nImplemented chaos engineering practices using **AWS Fault Injection Simulator** and **Chaos Mesh** to proactively identify weaknesses in the system, leading to improved robustness and uptime.\nDeveloped and utilized **GitOps** workflows for continuous deployment and version control, streamlining the integration and delivery process with a focus on automating application updates.\nCreated monitoring solutions utilizing **CloudWatch**, **Prometheus**, and **HoneyComb** for enhanced observability, ensuring proactive incident detection and performance tracking.\nFacilitated the architecture design of service meshes with **Istio** to enhance communication between microservices, enabling traffic management and improving security protocols.\nManaged workload orchestration and optimization using **Karpenter** for dynamic resource allocation, ensuring efficient utilization of AWS resources and reducing operational costs by **30%**.\nConducted comprehensive testing of backend services to ensure quality standards, identifying and resolving over **150** critical defects before production deployment.\nCollaborated with dev teams to implement performance testing strategies that reduced load times by **40%** across key user journeys.\nDesigned and implemented effective disaster recovery plans, ensuring minimal downtime and data loss in critical production scenarios.\nLed QA initiatives that improved test coverage by **25%**, enhancing the overall quality of releases and increasing team efficiency."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda, ECS, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tEKS, ALB, Chaos Engineering, AWS Fault Injection Simulator, Chaos Mesh, Litmus, Karpenter, CloudWatch, Prometheus, HoneyComb, GitOps\n\n**Other:**\n\tNginx, Certbot, MLflow, Airflow, Kubeflow",
+  "apply_company": "RLDatix"
+}

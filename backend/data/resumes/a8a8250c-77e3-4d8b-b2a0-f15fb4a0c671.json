@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "Results-driven Senior Software Engineer with 8 years of experience specializing in **TypeScript**, **Node.js**, **Python**, and cloud services including **AWS** and **k8s**. Proficient in building scalable and maintainable applications utilizing modern frameworks like **React.js** and **Express**. Demonstrated expertise in developing robust REST APIs and leveraging databases such as **PostgreSQL** and caching with **Redis**. Experienced in CI/CD automation using tools like **GitHub Actions** and **Jenkins**, ensuring high-quality and rapid deployment cycles. \nI have a strong background in enterprise-level solutions for the healthcare and financial sectors, integrating AI/ML capabilities for predictive analytics and real-time data processing. I excel in microservices architecture and event-driven systems, with a firm grasp on compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2. My comprehensive experience includes building machine learning pipelines and deploying models into production using MLOps strategies with tools such as **Terraform**.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **TypeScript**, **Node.js**, and **Python** to architect and develop scalable, full-stack healthcare and financial platforms, ensuring rigorous compliance with HIPAA and PCI DSS standards while incorporating advanced data handling strategies.\nEngineered efficient REST APIs using **Express** and deployed cloud infrastructure using **AWS** and **Terraform** for seamless integration of services and optimized performance across applications.\nDesigned and implemented robust database solutions utilizing **PostgreSQL** and **Redis**, streamlining large-scale data ingestion processes and ensuring rapid querying capabilities for extensive healthcare and financial data sets.\nLed efforts to migrate applications from monolithic to microservices architecture using **Docker** and **Kubernetes (k8s)** (v1.23), improving application resilience and scalability.\nIntegrated CI/CD pipelines using **GitHub Actions** and **Jenkins**, facilitating automations for build, test, and deployment processes across various environments, resulting in reduced release times by up to **30%**.\nBuilt high-performance front-end applications using **Javascript** and **React.js** (v17-18), focusing on creating interactive user experiences within fintech and healthcare domains, fortifying client engagement and satisfaction metrics.\nCollaborated with cross-functional teams to develop enterprise-level DevOps practices for efficient integration of **Nginx** configurations, enhancing service uptime and performance monitoring.\nDeveloped and maintained real-time data visualization tools using **Chart.js** and integrated backend services to provide instant insights into operational KPIs and transaction trends, yielding actionable analytics clearly visible across dashboards.\nFacilitated unit and integration testing strategies incorporating frameworks like **Jest** and **Cypress**, ensuring a **95%** coverage standard for both front-end and backend services, leading to improved software reliability and performance.\nMentored juniors in best practices for coding with **Java** and **Kotlin**, while instilling principles of clean architecture and effective software design patterns across team projects."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized strong proficiency in **TypeScript**, **Node.js**, and **Python** to develop and modernize financial platforms with a microservices-based architecture using **NestJS**, **Express**, **FastAPI**, and **Django**, increasing scalability and transaction throughput by **30%**.\nDesigned and implemented sophisticated front-end applications with a focus on user experience using **React (18)**, **Vue 3**, **Next.js**, and **TypeScript**, leveraging **Redux Toolkit** and **Tailwind CSS** to achieve a **40%** increase in user engagement across financial dashboards and admin portals.\nEngineered real-time transaction monitoring and analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, empowering operations teams with insights that enhanced anomaly detection capabilities and improved response times by **25%**.\nConfigured robust event-driven architectures by integrating **Kafka**, **RabbitMQ**, and **Azure Service Bus**, facilitating real-time event processing and asynchronous communication to streamline transaction management and compliance workflows.\nCreated and orchestrated ETL pipelines leveraging **Python**, **Apache Airflow**, and **Azure Data Factory**, allowing for batch and real-time ingestion of over **500,000** financial data records from both internal and third-party sources.\nDeveloped AI/ML-powered fraud detection systems using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing patterns in **1 million** transactions monthly to proactively identify suspicious activities.\nEngineered machine learning pipelines for credit scoring, churn prediction, and transaction classification with **MLflow** and **Airflow**, integrating real-time model inference into backend services to facilitate immediate decision-making and enhance user experiences."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Leverage **TypeScript**, **Node.js**, and **Python** technologies to design and optimize backend services for a global e-commerce platform, ensuring 99.9% uptime and handling over **1 million** transactions daily.\nUtilize **Redis** for caching frequently accessed data and improve read times by up to **60%**, enhancing application responsiveness during peak traffic.\nImplement container orchestration with **k8s** for deploying microservices, enabling seamless scaling and management of over **15** independent services across multiple environments.\nDevelop RESTful APIs using **Express**, providing robust integrations with frontend frameworks like **React.js** and ensuring smooth data flow across platforms.\nUtilize **PostgreSQL** for structured data storage and implement advanced indexing techniques, achieving database query performance improvements of over **50%**.\nIntegrate **GitHub Actions** and **Jenkins** for continuous integration and deployment (CI/CD), resulting in **30%** reduction in deployment time and minimizing rollbacks during releases.\nDesign and implement secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, ensuring PCI compliance and secure transactions for **over 500,000** users.\nApply role-based access control (RBAC) and **OAuth 2.0** for secure customer and admin access, ensuring GDPR compliance and protecting user data effectively.\nUtilize **Terraform** for infrastructure as code to automate the deployment process on **AWS**, enhancing environment setup speed by **40%** and ensuring consistent infrastructure across regions.\nParticipate in code reviews and mentor junior engineers in best practices for software development, fostering a collaborative environment and improving team productivity."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, TypeScript, Java, Kotlin, Swift, JavaScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js, Express\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tREST API\n\n **Serverless and Cloud Functions:**\n\tAWS, k8s\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins\n\n **Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Terraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Glia"
+}

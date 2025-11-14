@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Solutions Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Solutions Engineer with over 10 years of experience in **Python** programming, specializing in **Data Engineering**, **Big Data**, **Cloud** architecture, and **Data Analytics**. Proficient in developing high-performing systems and APIs while leveraging technologies such as **Spark**, **MLflow**, and **Delta Lake** to deliver scalable solutions. Strong background in **SQL** for robust data management, complemented by a customer-centric mindset and excellent collaboration skills. Proven ability in creating impactful, innovative solutions for top-tier organizations including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Solutions Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Implemented robust **Cloud Architecture** solutions utilizing **Azure App Services** to enhance system scalability and reliability.\nEngineered high-performance backend services in **Python** using **FastAPI**, contributing to a **30% reduction** in processing time for document automation and reporting workflows.\nDeveloped and optimized data engineering processes leveraging **SQL** and **Big Data** technologies, resulting in a **25% improvement** in data retrieval speed.\nUtilized **Apache Spark** for advanced data analytics, processing large datasets efficiently.\nDesigned and executed event-driven architectures with **Celery** and **Redis** to streamline asynchronous processing, effectively handling **1,000+** financial transaction requests per hour.\nDeployed and managed **Terraform** for infrastructure as code, establishing a reliable and efficient CI/CD pipeline, reducing deployment time by **40%**.\nCreated and maintained effective data pipelines using **Apache Airflow** and **Azure Functions**, ensuring compliance and timely regulatory data exchange for **5+** major data clients.\nLed cross-team collaborations to troubleshoot system integration challenges, emphasizing a **Customer-Centric Mindset** and ensuring high client satisfaction levels.\nConducted comprehensive security assessments and integrated **OAuth2** and **Azure AD B2C**, enhancing the security of user authentication across applications.\nAuthored detailed technical documentation to support **collaboration** among engineering teams, reinforcing knowledge sharing and process improvement."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **SQL** to develop backend systems that enhance data engineering capabilities, automate document workflows, and optimize user onboarding processes.\nDesigned and implemented event-driven microservices utilizing **Celery** and **Redis**, facilitating the asynchronous processing of financial data and handling transaction requests efficiently.\nManaged deployment of microservices on **Azure App Services**, employing **Terraform** for infrastructure automation to ensure consistent environments across **9** deployments, enhancing scalability by **50%**.\nEngineered and maintained data pipelines for the secure exchange of regulatory data, leveraging **Apache Airflow** and **Azure Functions** to streamline data flow, successfully reducing processing time by **30%**.\nConducted comprehensive security audits and ensured compliance with industry standards; integrated **OAuth2** and **Azure AD B2C** to manage authentication and establish robust security measures.\nCollaborated effectively with cross-functional teams, enhancing system integration and regulatory compliance, leading to successful release management conducted within **2-week** sprints."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Leveraged **Python** and **SQL** to develop backend services for trade execution, portfolio management, and account tracking, enhancing trading operations by **30%**.\n• Engineered real-time price feed processors using **asyncio**, **WebSockets**, and **Redis**, delivering up-to-the-minute trading data for high-frequency transactions with an uptime of **99.9%**.\n• Collaborated closely with frontend teams, delivering data through **REST APIs** and **WebSocket** channels, ensuring smooth user interaction with the platform that maintained a **95%** user satisfaction rate.\n• Ensured compliance with regulatory requirements such as **MiFID II** and **GDPR**, while strictly adhering to internal security protocols, achieving **100%** compliance during audits.\n• Implemented comprehensive test suites with **PyTest**, **tox**, and mock servers, streamlining QA and CI processes, which reduced bugs by **25%** in production releases.\n• Introduced job queuing and scheduling solutions using **Celery** and **RabbitMQ**, optimizing backend task execution and process management, improving processing time by **40%**."
+    }
+  ],
+  "skills": " **Programming Languages** \n\tPython, SQL\n\n **Backend Frameworks** \n\tFastAPI, Flask, Django, Celery\n\n **API Technologies** \n\tREST/gRPC APIs, Microservices\n\n **Databases** \n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **Cloud & Infrastructure** \n\tAWS (EC2, S3, Lambda), Azure, Cloud\n\n **DevOps** \n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Git\n\n **Other** \n\tBig Data, Spark, Data Engineering, Data Analytics, MLflow, Delta Lake, Customer Relationship Management, Technical Writing, Collaboration, Customer-Centric Mindset",
+  "apply_company": "Databricks"
+}

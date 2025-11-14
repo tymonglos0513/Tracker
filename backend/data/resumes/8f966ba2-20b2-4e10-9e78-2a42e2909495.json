@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Data Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Accomplished Senior Data Engineer with over 10 years of experience in backend development, specializing in data modeling and database design for financial platforms and AI/ML applications. Proficient in **Python** and its frameworks (FastAPI, Django, Flask), along with comprehensive experience in **AWS** services including **S3**, **Redshift**, **Glue**, **Lambda**, and **FSx**. Expertise in NoSQL databases and container orchestration using **Docker** and **Kubernetes**. Skilled in developing high-performing APIs and automation tools, leveraging **Agile** methodologies for seamless project execution. Strong analytical, problem-solving, and collaborative skills demonstrated through impactful contributions at renowned organizations like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Designed and implemented scalable data pipelines using **Python**, ensuring integration with **AWS Redshift** and **S3** for efficient data storage and retrieval.\nUtilized **SQL** for robust data modeling and querying, delivering insights that drove business decisions and improved data accessibility by **30%**.\nDeveloped data processing workflows with **AWS Glue** and **AWS Lambda**, resulting in a **50%** reduction in processing time for complex datasets.\nEngineered containerized applications with **Docker** and orchestrated deployments on **Kubernetes**, enhancing system scalability and reliability in production environments.\nCollaborated with data scientists and analysts to establish best practices in **MLOps**, leading to successful project outcomes under **Agile** methodologies.\nConducted comprehensive data assessments using **R** for analytical purposes, addressing compliance standards like **CDISC**, **HL7**, and **FHIR**.\nFacilitated cross-functional communication and collaboration to solve complex data problems, achieving project goals within **10%** of deadlines."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems in **Python** and **FastAPI** to automate document workflows, streamline user onboarding, and handle complex reporting processes.\n• Engineered data pipelines for secure, compliant exchange of regulatory data, utilizing **Apache Airflow** and **Azure Functions** to automate and streamline data flow, processing over **100TB** of data monthly.\n• Created event-driven microservices using **Celery** and **Redis**, enabling asynchronous processing of financial data and transaction requests, reducing processing time by **30%**.\n• Managed the deployment of microservices on **Azure App Services**, leveraging **Terraform** for infrastructure automation, maintaining consistent and scalable environments across **5** production instances.\n• Performed security audits and integrated **OAuth2** and **Azure AD B2C** for authentication, securing access controls and ensuring compliance with industry standards.\n• Collaborated with cross-functional teams using **Agile** methodologies to ensure smooth system integration, regulatory compliance, and successful release management, resulting in **100%** on-time project deliveries."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** for data processing and analysis, contributing to optimized data workflows and parsable datasets.\nImplemented data storage solutions with **SQL** and **PostgreSQL**, ensuring efficient data retrieval and management to support analytics.\nDesigned and optimized data models through **NoSQL** strategies, enhancing the scalability and performance of data accesses.\nDeveloped and maintained data pipelines on **AWS** services including **Glue**, **S3**, and **Redshift**, reducing processing times by **30%**.\nLeveraged **Docker** and **Kubernetes** for containerization and orchestration of microservices, improving deployment speed by **25%**.\nDeployed data-driven solutions using **Lambda** for serverless architectures, facilitating on-demand data processing.\nEmployed real-time data processing techniques and tools such as **Flask** and **Redis**, achieving sub-second data latency for high-frequency trading applications.\nCollaborated effectively with cross-functional teams in an **Agile** environment, enhancing project delivery timelines by improving communication and teamwork.\nImplemented CI/CD practices with **PyTest** and integrated testing frameworks to ensure code quality across **3 major releases** within a quarter.\nIntroduced **Celery** and **RabbitMQ** for job scheduling, significantly optimizing task execution time and resource allocation."
+    }
+  ],
+  "skills": "  **Programming Languages**\n\tPython (3.8+), SQL, R\n\n  **Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n  **Frontend Frameworks**\n\t\n\n  **API Technologies**\n\tREST/gRPC APIs, Microservices, FHIR, HL7, SNOMED, OMOP, DICOM\n\n  **Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, Glue, FSx\n\n  **Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, Redshift, NoSQL, Data Modeling, Database Design\n\n  **DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n  **Cloud & Infrastructure**\n\tAWS, Azure\n\n  **Other**\n\tMLOps, Agile, Communication, Collaboration, Problem-Solving, Analytical, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Kafka, PyTest, Git",
+  "apply_company": "Atorus"
+}

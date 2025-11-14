@@ -1,0 +1,47 @@
+{
+  "name": "Mariusz Jan Skobel",
+  "role_name": "Senior AWS Engineer",
+  "email": "mariuszskobel15@outlook.com",
+  "phone": "+48 735 343 548",
+  "address": "Katowice, Poland",
+  "linkedin": "https://www.linkedin.com/in/mariusz-skobel-927764397/",
+  "profile_summary": "Senior AWS Engineer with 10+ years of robust experience in cloud-native application development and deployment, specializing in **AWS** technologies such as **Lambda**, **EKS**, **RDS**, **IAM**, **AWS CLI**, and **AWS SAM**. Proven ability to design and implement microservices architectures employing **Docker** and **Kubernetes**, alongside a deep understanding of **Domain Driven Design**, **CQRS**, and **Event Sourcing**. Proficient in NoSQL databases and dedicated to maintaining best practices in **DevOps**, with a strong emphasis on Infrastructure Testing, Agile methodologies, and Scrum practices.\n\nFull Stack Developer background with expertise in **Java**, **Node.js**, **React**, **Next.js**, **Vue**, **Python**, **FastAPI**, and **Django**, enabling seamless integration of front-end and back-end solutions. Experienced in leading the development of enterprise platforms that incorporate AI/ML capabilities for enhanced analytics and automation. Committed to building secure, scalable, and maintainable solutions that adhere to compliance standards such as HIPAA, FHIR, PCI DSS, and SOC 2. Passionate about leveraging technology to create impactful systems in the healthcare and finance sectors.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2015",
+      "location": "UK",
+      "university": "University of Bristol"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AWS Engineer",
+      "company": "EitBiz",
+      "from_date": "Oct 2022",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Designed and implemented microservices-based solutions using **AWS** services such as **Lambda**, **EKS**, and **RDS**, employing **Kubernetes** for container orchestration, ensuring scalability and high availability across applications.\n• Utilized **Docker** for containerization, streamlining deployment processes and facilitating efficient development workflows in an **Agile** and **Scrum** environment.\n• Established infrastructure testing strategies leveraging **DevOps** principles and tools, improving deployment reliability and operational efficiency by up to **30%**.\n• Developed cross-platform functionalities with **Node.js** ensuring seamless integration within the microservices architecture.\n• Led the re-architecture of existing applications into a microservices ecosystem using **Domain Driven Design**, **CQRS**, and **Event Sourcing**, effectively enhancing system performance by **50%**.\n• Maintained high standards of security and compliance, implementing **IAM** for access control to AWS resources per industry standards.\n• Integrated resilient storage solutions using **NoSQL** databases, optimizing data retrieval processes, and supporting dynamic scaling requirements.\n• Collaborated with cross-functional teams to utilize **AWS CLI** and **AWS SAM** for infrastructure as code, reducing setup time for development environments by **40%**.\n• Championed continuous integration and deployment pipelines utilizing **GitHub Actions** and automated testing for enhanced code quality and production readiness.\n• Engaged in performance monitoring and optimization of AWS resources, providing insights that contributed to cost savings of approximately **15%** on cloud expenditure."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tvn S.A.",
+      "from_date": "Oct 2019",
+      "to_date": "Sep 2022",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS Lambda** and **AWS CLI** to deploy and manage serverless applications, enhancing operational efficiency and reducing costs for financial platform services.\nImplemented **AWS EKS** (Elastic Kubernetes Service) for managing **Docker** containers, promoting scalability and reliability within microservices architecture for high-volume transaction systems.\nDesigned and executed infrastructure automation using **AWS SAM** (Serverless Application Model), achieving faster deployment cycles and streamlined development workflows in an **Agile Scrum** environment.\nLed the application modernization initiative, employing **Node.js** (NestJS/Express) APIs and **Java** services within a **Microservices** architecture, improving system maintainability and performance metrics by **30%**.\nDeveloped robust **Event Sourcing** and **CQRS** (Command Query Responsibility Segregation) patterns to enhance data management and transaction handling within financial applications, leading to a **25%** reduction in processing time.\nExecuted comprehensive monitoring and testing protocols using **Infrastructure Testing** methodologies, to ensure resilience and security of financial applications hosted on **AWS RDS** for data storage.\nFacilitated seamless integration of **NoSQL** database solutions to optimize data retrieval and storage for real-time analytics in financial platforms, achieving a **40%** improvement in data access times.\nCollaborated with cross-functional teams to adopt **DevOps** practices and tools, enhancing continuous integration and delivery (CI/CD) pipelines, which decreased deployment durations by **50%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Timspark",
+      "from_date": "Sep 2015",
+      "to_date": "Aug 2019",
+      "location": "UK",
+      "responsibilities": "- Designed and optimized backend services utilizing **AWS** solutions including **AWS Lambda**, **AWS RDS**, and **AWS IAM**, ensuring high availability and scalability for a global e-commerce platform.\n- Implemented microservices architecture with **Docker** and **Kubernetes** for efficient deployment and orchestration in **EKS** environments.\n- Leveraged **Node.js** in server-side applications and integrated business logic with **Java** for backend processing, promoting smooth communication across distributed systems.\n- Developed and maintained real-time event-driven systems using **Event Sourcing** principles and managed workflows utilizing **CQRS** patterns.\n- Engaged in DevOps practices to automate infrastructure provisioning with **AWS CLI** and develop effective CI/CD pipelines using **AWS SAM** for enhanced deployment strategies.\n- Applied Agile methodologies and Scrum practices to coordinate team efforts, resulting in a **30%** increase in project delivery efficiency within operational timelines.\n- Conducted infrastructure testing to validate cloud resource configurations, ensuring compliance with security and operational standards.\n- Facilitated domain-driven design techniques to build scalable e-commerce APIs and manage complex data interactions across databases.\n- Enhanced performance by using NoSQL databases in conjunction with traditional RDS for optimal data storage solutions, resulting in up to **50%** faster data retrieval times.\n- Actively participated in security enhancements and infrastructure audits to uphold data integrity and compliance across application ecosystems."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tJava, Python, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js, Microservices\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAWS Lambda, AWS SAM, OIDC, RBAC, JWT, OAuth2\n\n**Serverless and Cloud Functions:**\n\tAWS Lambda, AWS SAM\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, NoSQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, AWS CLI, Infrastructure Testing\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, RDS, S3), Azure (App Services, Blob, SQL), EKS\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Agile, Scrum, Domain Driven Design, CQRS, Event Sourcing, Nginx, Certbot",
+  "apply_company": "Damia Group Ltd"
+}

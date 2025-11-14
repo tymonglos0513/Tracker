@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior DevOps Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior DevOps Engineer with over 10 years of experience in implementing cloud-native architectures and CI/CD practices, proficient in managing infrastructure using **AWS**, **GCP**, **Terraform**, **Ansible**, **Packer**, **Docker**, and **Jenkins**. Expert in developing robust, high-performing backend systems with **Python** and automation tools while enhancing operational efficiencies through applied knowledge of **Bash**, **Git**, **Ruby**, **Node**, **Golang**, and **Java**. Demonstrated success in leveraging monitoring and performance tools such as **Prometheus**, **Grafana**, and **Graphite** in high-stakes environments for notable organizations including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Terraform** for infrastructure as code management, ensuring streamlined deployments and configurations for multiple environments across **AWS** and **GCP** cloud platforms.\nImplemented CI/CD practices using **Jenkins** and **Docker** for automated build and release pipelines, reducing deployment times by **40%**.\nEngineered monitoring and alerting solutions with **Prometheus** and **Grafana**, resulting in a **30%** improvement in system uptime and availability.\nDeveloped backend services using **Python** and swift scripting in **Bash** to automate operational tasks and enhance system reliability.\nManaged container orchestration using **Kubernetes**, leading containerization efforts that improved application scalability and resource utilization by **25%**.\nFacilitated collaboration across cross-functional teams to enhance system integration, compliance, and security best practices, particularly through the integration of **OAuth2** for authentication.\nConducted regular security assessments to identify vulnerabilities and ensured incident response strategies were in place and adhered to best practices and industry standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Terraform** for infrastructure automation, facilitating the deployment of scalable microservices on **Azure App Services** for consistent environments across **9** cloud applications.\nEngineered **CI/CD** pipelines using **Jenkins** and **Git** to automate deployments, improving delivery speed by **30%**.\nDeveloped backend systems in **Python** and **FastAPI**, enhancing document workflows and user onboarding processes, which reduced onboarding time by **25%**.\nCreated event-driven microservices with **Celery** and **Redis**, enabling asynchronous processing of financial transactions, achieving processing times under **5 seconds** per transaction.\nDesigned and implemented data pipelines for secure regulatory data exchange utilizing **Apache Airflow** and **Azure Functions**, streamlining operations and ensuring timely reporting.\nPerformed security audits and integrated **OAuth2** and **Azure AD B2C** for managing authentication, ensuring compliance with industry standards and enhancing data security.\nCollaborated with cross-functional teams to ensure smooth system integration and regulatory compliance, contributing to successful release management across multiple projects."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Leveraged **AWS**, **GCP**, and **Docker** to architect and deploy scalable backend services for trade execution, portfolio management, and account tracking, successfully supporting over **100** concurrent users.\nUtilized **Kubernetes** for container orchestration, ensuring high availability and efficient resource management across multiple environments with **99.9%** uptime.\nEngineered real-time price feed processors with **Python**, **asyncio**, **WebSockets**, and **Redis**, providing instantaneous trading data for high-frequency transactions with latency under **100 ms**.\nCollaborated with frontend teams to integrate user data through **REST APIs** and **WebSocket** channels, enhancing the user experience and increasing engagement metrics by over **30%**.\nImplemented CI/CD pipelines utilizing **Jenkins** and **Git**, resulting in a deployment frequency increase from monthly to **weekly**.\nIntroduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, effectively optimizing backend task execution and process management for routine jobs.\nEnsured compliance with regulatory requirements, including MiFID II and GDPR, by integrating **Ansible** for configuration management and security automation.\nDeveloped comprehensive test suites using **PyTest**, **tox**, and mock servers, enhancing software reliability and reducing bug reports during the release phase by **60%**."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, Bash, SQL, JavaScript, Ruby, Golang, Java\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\tNode\n\n**API Technologies**\n\tREST/gRPC APIs\n\n**Serverless and Cloud Functions**\n\tAWS, GCP, Azure, Lambda\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, Jenkins, GitHub Actions, Azure DevOps, Ansible, Terraform, Spinnaker, CodeDeploy, Continuous Deployment, CI/CD, Prometheus, Grafana, Graphite\n\n**Cloud & Infrastructure**\n\tAWS (EC2, S3), Azure, Cloud Native, DNS, HTTP, Networking, Linux\n\n**Other**\n\tMicroservices, Kafka, PyTest, Airflow, MLflow, Behavioral Skills",
+  "apply_company": "Cint"
+}

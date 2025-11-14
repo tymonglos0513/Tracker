@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Development Engineer in Test (SDET)",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-driven Software Development Engineer in Test (SDET) with 8 years of comprehensive experience in developing high-quality testing frameworks with a strong emphasis on automation across healthcare and financial sectors. Proficient in **Python**, **Pytest**, **AWS**, particularly **Glue**, **Lambdas**, and **S3**, along with deep expertise in CI/CD practices utilizing **GitLab CI** and **Jenkins**. Familiar with data manipulation libraries like **Pandas** and **NumPy** for data-driven tests, and skilled in database management with **PostgreSQL**, **Clickhouse**, and **Redis**.\n\nMy background includes implementing robust testing solutions to ensure compliance with regulations like HIPAA and PCI DSS, and a solid understanding of distributed systems with experience in message brokers such as **Kafka** and **RabbitMQ**. I excel in monitoring and logging frameworks like **ELK**, **Prometheus**, and **Grafana**, ensuring system integrity and performance. I leverage tools like **Sentry** for error tracking and **ArgoCD** for continuous delivery in Kubernetes (**k8s**) environments, applying best practices in MLOps workflows and test-driven development.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Development Engineer in Test (SDET)",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented CI/CD pipelines utilizing **GitLab CI**, **Jenkins**, and **ArgoCD** to enhance deployment efficiency and maintainability of applications.\nDesigned test automation frameworks using **Pytest** for both front-end and backend services, ensuring high-quality code delivery through meticulous unit, integration, and system testing.\nDeveloped robust data processing modules leveraging **Pandas** and **NumPy** to support data validation and transformation for testing environments, increasing data accuracy by **30%**.\nUtilized **PostgreSQL** for effective database management and SQL query optimization in testing scenarios, ensuring seamless integration with different data sources.\nIntegrated logging and monitoring tools such as **Sentry**, **Prometheus**, and **Grafana** to track application performance and errors, reducing mean time to detect issues by **25%**.\nEmployed **Redis** for maintaining session states and caching in test environments, resulting in an improvement of response times by **40%**.\nCollaborated closely with developers to create effective test strategies, fostering cross-functional teams to establish a culture of quality and continuous improvement.\nLed the adoption of testing best practices across the development team, achieving a **15%** increase in test coverage using automated testing and robust monitoring solutions.\nStreamlined workflows by integrating messaging services like **Kafka** and **RabbitMQ** into the testing pipeline to simulate and validate real-time data processing.\nParticipated in the architecture and design of scalable solutions using **AWS** services, including **Lambdas** and **S3**, to enhance application resilience and scalability during testing phases.\nBuilt comprehensive reports and dashboards to visualize testing outcomes and application health, leveraging data visualization tools effectively for project stakeholders and teams."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained automated testing frameworks using **Python** and **Pytest**, ensuring software quality and reliability for continuous integration and delivery in **GitLab CI** environments.\nImplemented and optimized **CI/CD pipelines** to enhance deployment processes and automated testing efficiencies, resulting in a 30% reduction in release time.\nConducted performance testing and monitoring using **Prometheus**, **Grafana**, and **Sentry** to ensure application stability and performance under high-load scenarios, improving system uptime by 25%.\nCollaborated in the enhancement of data validation and processing strategies using **Pandas** and **NumPy**, producing accurate data results with a 95% success rate during automated quality checks.\nUtilized **SQL** and database technologies such as **PostgreSQL** and **Clickhouse** for backend testing of data-driven applications, ensuring data integrity throughout the software lifecycle.\nIntegrated message brokers like **Kafka** and **RabbitMQ** to conduct asynchronous testing of event-driven architectures, facilitating real-time data flow verification.\nDesigned and executed test cases for microservices architecture leveraging **AWS** services like **Lambdas** and **S3**, contributing to a more microservices-friendly test environment.\nCreated and maintained robust documentation and test plans on **Qase** to ensure traceability and compliance with stakeholder requirements, leading to a 40% improvement in test coverage assessments.\nContributed to container orchestration solutions with **k8s** and streamlined deployments using **ArgoCD**, achieving a seamless development cycle with reduced downtime during updates."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and managed test automation frameworks using **Python** and **Pytest**, enhancing the reliability and efficiency of testing processes across 10+ microservices.\nImplemented CI/CD pipelines with **GitLab CI** and **Jenkins**, achieving a 70% reduction in deployment times and increasing the frequency of releases from bi-weekly to daily.\nUtilized **AWS** services like **S3**, **Glue**, and **Lambdas** for testing environments, ensuring scalability and cost-effectiveness while handling peak loads of 50,000 user requests per hour.\nDesigned and executed test scenarios for data processing workflows using **Pandas** and **NumPy**, validating the accuracy of analytics and reporting systems for over 5 million records.\nContributed to performance monitoring and logging with **Prometheus**, **Grafana**, and **ELK**, achieving response time improvements of 40% through proactive issue detection.\nImplemented messaging and communication tests using **Kafka** and **RabbitMQ**, verifying system interactions under varying load conditions, with successful throughput rates exceeding 1,000 messages per second.\nUtilized **Redis** and **Postgresql** for data caching and storage in test cases, ensuring optimal performance and efficient data retrieval for test scenarios involving large datasets.\nIncorporated role-based access control (RBAC) and OAuth 2.0 testing strategies to validate authorization processes, ensuring compliance with GDPR for user data protection.\nCollaborated in an Agile environment with cross-functional teams, driving quality improvements and reducing defect rates from 15% to below 5% through comprehensive testing strategies.\nDeveloped unit and integration tests for backend services using **Pydantic**, ensuring high code coverage of over 85% and enhancing maintainability of the codebase."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript/TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tPytest, Kafka, RabbitMQ, ELK\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), Glue, Lambdas\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis, Clickhouse\n\n **DevOps:**\n\tDocker, Kubernetes (k8s), GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD, Terraform, Ansible, Helm, Docker Compose\n\n **Cloud & Infrastructure:**\n\tAWS, Azure\n\n **Other:**\n\tArtificial Intelligence & Machine Learning (MLflow, Airflow, Kubeflow), Pandas, NumPy, Qase, Sentry, Prometheus, Grafana, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot"
+}

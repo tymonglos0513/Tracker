@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Chain Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a highly skilled Senior Chain Engineer with 8 years of full-stack development experience, I specialize in implementing solutions using **Golang**, **Cosmos SDK**, **Tendermint**, **EVM**, and **Evmos**. My expertise in containerization with **Docker** and orchestration through **K8s** enables me to build and deploy scalable applications effectively. I have a strong background in CI/CD practices and Infrastructure as Code (**IaC**), enhancing deployment efficiency and system reliability.\n\nWith robust experience in incident response and observability tools such as **Prometheus** and **Grafana**, I ensure system performance and stability through comprehensive monitoring and testing. My previous work in the healthcare and financial sectors has equipped me with a deep understanding of compliance requirements, ensuring all solutions meet standards like HIPAA and PCI DSS. I'm dedicated to producing high-quality code and fostering best practices in development.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Chain Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained **Docker** containers and orchestrated deployment pipelines using **Kubernetes (K8s)** for robust and scalable applications, overseeing **CI/CD** processes to ensure seamless integration and delivery.\n- Implemented **Infrastructure as Code (IaC)** strategies to automate cloud infrastructure management, promoting efficiency and consistency in deployments across environments.\n- Leveraged **Prometheus** and **Grafana** for advanced observability and monitoring of application performance, enabling proactive incident response and system diagnostics.\n- Designed unit and integration testing frameworks incorporating various methodologies and tools to ensure code quality and reliability across the development lifecycle.\n- Established incident response protocols to manage and resolve service disruptions effectively, ensuring minimal downtime and enhancing system resilience.\n- Engaged in cross-functional collaboration with development and operations teams to drive best practices in software development and deployment.\n- Conducted performance tuning sessions to optimize applications for higher throughput and reduced latency, achieving up to **30%** reduction in response times.\n- Actively participated in greenfield development initiatives that resulted in the successful launch of new features leading to a **25%** increase in user engagement.\n- Authored technical documentation on system architecture, deployment procedures, and best practices that improved onboarding and knowledge sharing among team members.\n- Maintained expertise in **Golang**, contributing to the development of blockchain applications using **Cosmos SDK** and **Tendermint**, facilitating decentralized application deployment and enhancing interoperability.\n- Integrated secure communication protocols and **RPC** interfaces to ensure seamless interaction across distributed systems and services.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Golang** for building robust microservices in the blockchain ecosystem, focusing on high performance and scalability in line with the standards set by **Cosmos SDK** and **Tendermint**.\nDesigned, deployed, and managed containerized applications using **Docker** and **Kubernetes (K8s)**, resulting in a streamlined CI/CD pipeline that reduced deployment time by **30%**.\nImplemented Infrastructure as Code (IaC) strategies to automate deployment processes using tools such as **Terraform**, ensuring consistency and repeatability across multiple environments.\nDeveloped observability frameworks leveraging **Prometheus** and **Grafana** to monitor system performance and provide real-time insights, achieving a **95%** reduction in incident response times.\nCreated and executed comprehensive testing protocols to ensure the reliability and security of blockchain applications, focusing on edge case scenarios and system vulnerabilities.\nLed the integration of **RPC** mechanisms for seamless interactions between decentralized applications, enhancing user experience and transaction efficiency.\nCollaborated with cross-functional teams to enhance incident response strategies, building resilience in blockchain networks while ensuring compliance with industry standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Engineered distributed applications using **Golang** and **Cosmos SDK**, ensuring high performance and scalability across modules.\nDeveloped and deployed blockchain solutions utilizing **Tendermint**, **EVM**, and **Evmos** to enhance platform capabilities and user experience.\nImplemented CI/CD pipelines with **Docker** and **K8s** for efficient deployment and management of applications in cloud environments, achieving a deployment frequency of **30+** times per month.\nMonitored application performance and health using **Prometheus** and **Grafana**, leading to a **40%** reduction in incident response times through effective observability practices.\nDesigned robust testing frameworks to ensure software reliability and performance under load, achieving a test coverage of over **90%** in critical areas.\nOptimized infrastructure as code (IaC) setups for seamless provisioning of resources, enhancing operational efficiency by **25%**.\nUtilized RPC for efficient communication protocols between services, ensuring data consistency and reliability in distributed environments.\nExecuted incident response strategies to swiftly address and mitigate service disruptions, improving overall system uptime to **99.9%**.\nApplied observability techniques, including logging and monitoring, to proactively identify and resolve performance bottlenecks across all services.\nCollaborated across teams to emphasize security best practices, enhancing system resilience and compliance with industry standards."
+    }
+  ],
+  "skills": "****Programming Languages:****\n\tGolang\n\n****Backend Frameworks:****\n\tCosmos SDK, Tendermint, EVM, Evmos, Greenfield SDK\n\n****Frontend Frameworks:****\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n****API Technologies:****\n\tRPC\n\n****Serverless and Cloud Functions:****\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n****Databases:****\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n****DevOps:****\n\tDocker, Kubernetes (K8s), GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n****Cloud & Infrastructure:****\n\tIncident Response, Observability, Prometheus, Grafana, IaC\n\n****Other:****\n\tPython (FastAPI, Flask, Django), MLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Hyphen Connect"
+}

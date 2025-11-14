@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Java Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Java Engineer with over 10 years of experience in designing and delivering robust backend systems, with a specialization in cloud-native architectures and financial platforms. Proficient in utilizing **Java**, **Spring MVC**, and **Spring Boot** to develop high-performing APIs and scalable services. Strong knowledge of **AWS** tools including **SNS**, **S3**, **RDS**, **ECS**, **EKS**, and **Lambda**, paired with experience in **SQL** databases such as **DocumentDB**, **MariaDB**, and **Postgresql**. Demonstrated expertise in CI/CD processes, SDLC methodologies, and test automation to streamline development workflows. Proven history of delivering impactful projects at renowned organizations, leveraging technologies like **Apache Kafka** and **Infrastructure as Code** via **CloudFormation**.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Java Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Spring Boot** to develop robust backend services, enhancing document automation and onboarding processes by **30%** efficiency.\nImplemented **AWS** services such as **Lambda** and **S3** for scalable data storage and processing, successfully reducing operational costs by **20%**.\nExecuted Infrastructure as Code practices using **CloudFormation** to automate deployment procedures and manage resources across multiple environments, leading to a **40%** decrease in manual errors.\nDesigned and deployed microservices on **ECS** and **EKS** to optimize application performance and resource management, improving system scalability.\nCreated and maintained RESTful APIs with **Spring MVC** for seamless integration with front-end applications, ensuring a response time of under **200 ms**.\nLed continuous integration and continuous deployment (CI/CD) practices, improving deployment frequency by **50%**.\nPerformed security assessments and integrated authentication mechanisms with **AWS RDS** and **SNS** for optimized and secure data transactions.\nCollaborated with cross-functional teams to address system integration challenges in the **SDLC**, ensuring compliance with industry standards."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Java**, **Spring MVC**, and **Spring Boot** to develop robust backend systems, enhancing application performance by **30%** through optimized code and streamlined workflows.\nImplemented CI/CD pipelines to automate deployment processes, reducing time-to-market by **25%** and ensuring consistent application delivery.\nDesigned and developed microservices architecture using **AWS ECS**, and **EKS**, improving application scalability to handle **10,000** concurrent users.\nEngineered data storage solutions with **Amazon RDS** and **DocumentDB**, ensuring high availability and low latency for critical applications.\nCreated event-driven systems employing **AWS SNS** and **Apache Kafka** for real-time data processing, increasing transaction processing speed by **40%**.\nDeveloped and implemented test automation strategies that improved code reliability and reduced bug rates by **20%**.\nCollaborated closely with cross-functional teams to ensure alignment with SDLC best practices and compliance with industry standards."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "- Leveraged **AWS** services such as **S3**, **RDS**, and **Lambda** to build scalable and resilient backend systems for trade execution and account management.\n- Developed microservices architecture using **Java** frameworks like **Spring MVC** and **Spring Boot** to enhance the functionality of trading applications, leading to a **30%** increase in operational efficiency.\n- Employed **SQL** and **PostgreSQL** for robust data management, ensuring data integrity and performance for over **10,000** transactions daily.\n- Implemented CI/CD pipelines to facilitate automated testing and deployment, reducing release cycles by **40%**.\n- Designed and optimized real-time data streaming solutions using **Apache Kafka**, ensuring timely and accurate market data delivery for high-frequency trading scenarios.\n- Managed and orchestrated containerized applications with **ECS** and **EKS**, enabling agile deployments and improved scalability in the cloud environment.\n- Created comprehensive test automation frameworks with tools such as **PyTest** and integrated **test automation** practices into the development lifecycle, significantly increasing code reliability and reducing bugs by **25%**.\n- Collaborated with cross-functional teams to ensure compliance with regulatory standards like MiFID II and GDPR, while enhancing internal data security protocols."
+    }
+  ],
+  "skills": "Programming Languages: Java, Python (3.8+), SQL, Bash, JavaScript\n\n\tBackend Frameworks: Spring MVC, Springboot, FastAPI, Flask, Django, Celery\n\n\tFrontend Frameworks: \n\n\tAPI Technologies: REST/gRPC APIs, Microservices, Apache Kafka\n\n\tServerless and Cloud Functions: AWS (Lambda, SNS, S3), Azure\n\n\tDatabases: PostgreSQL, MySQL, MongoDB, Redis, DocumentDB, MariaDB\n\n\tDevOps: Docker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Infrastructure as Code, CloudFormation\n\n\tCloud & Infrastructure: AWS (EC2, RDS, ECS, EKS), Azure\n\n\tOther: AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, SDLC, test automation, PyTest, Git",
+  "apply_company": "Mercell"
+}

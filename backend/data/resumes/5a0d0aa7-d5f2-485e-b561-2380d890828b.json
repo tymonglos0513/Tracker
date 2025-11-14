@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Cloud Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Cloud Engineer with over 10 years of extensive experience in developing cloud-native architectures and backend systems. Proficient in **AWS**, **Azure**, and **GCP**, with strong skills in **SQL**, **Snowflake**, and **Data Warehouse** technologies. Expertise in implementing **Data Governance**, **Data Quality Monitoring**, and **IAM** strategies, alongside proficiency in **RBAC** and **Data Replication** processes. Adept in web security protocols including **SAML**, **OAuth**, **MFA**, and **PKI** to ensure secure cloud solutions. Demonstrated ability to create high-quality APIs and automate complex workflows using **Python** (FastAPI, Django, Flask) and **NodeJS**. Track record of successfully delivering impactful projects for leading organizations, including VISA, Sii Poland, and Reply Polska, contributing to enhanced data security and operational efficiency.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Cloud Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **AWS**, **Azure**, and **GCP** to architect and deploy robust cloud solutions, ensuring optimal performance and scalability.\nEngineered backend services in **Python** using **FastAPI** to streamline document automation, user onboarding, and reporting workflows, improving efficiency by **30%**.\nDeveloped event-driven solutions with **Celery** and **Redis** to manage asynchronous processing for financial transaction requests, achieving a processing reduction time of **25%**.\nDeployed microservices on **Azure App Services** and utilized **Terraform** for infrastructure as code, ensuring seamless cloud operations and reducing deployment times by **40%**.\nCreated and maintained data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, ensuring timely and accurate data flow with **99.9%** uptime.\nLed security assessments and integrated **OAuth2**, **MFA**, and **Azure AD B2C** for secure, scalable authentication systems, enhancing security compliance significantly.\nCollaborated with cross-functional teams to address system integration challenges, ensure compliance, and oversee release strategies, leading to improved team productivity by **20%**.\nImplemented **SQL** and utilized **Snowflake** in data warehouse solutions to support advanced data governance, data quality monitoring, and replication strategies."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "• Developed backend systems in **Python** and **FastAPI** to automate document workflows, enhance user onboarding, and handle complex reporting processes.\n• Engineered data pipelines for secure regulatory data exchange, utilizing **Apache Airflow** and **Azure Functions** for streamlined data flow, achieving a **20%** reduction in processing time.\n• Created event-driven microservices using **Celery** and **Redis**, allowing asynchronous processing of financial data and transaction requests, which increased throughput by **30%**.\n• Managed the deployment of microservices on **Azure** App Services, utilizing **Terraform** for infrastructure automation, sustaining a scalable environment and achieving up to **99.9%** uptime.\n• Conducted security audits to ensure compliance with industry standards, integrating **OAuth2** and **Azure AD B2C** for effective authentication and secure access controls, prioritizing **Web Security** practices.\n• Collaborated with cross-functional teams to ensure seamless system integrations, regulatory compliance, and successful release management, contributing to a **15%** improvement in project delivery timelines.\n• Implemented **IAM** policies and **RBAC** mechanisms to safeguard sensitive data and facilitate **Data Governance** and **Data Quality Monitoring** across platforms."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed backend services using **Python** and **Flask** for trade execution, portfolio management, and account tracking to enhance trading operations.\nEngineered real-time price feed processors using **asyncio**, **WebSockets**, and **Redis**, delivering up-to-the-minute trading data for high-frequency transactions.\nCollaborated closely with frontend teams to deliver data through **REST APIs** and **WebSocket** channels, ensuring smooth user interaction with the platform.\nEnsured compliance with regulatory requirements, including **MiFID II** and **GDPR**, while adhering to internal data security protocols.\nImplemented comprehensive test suites using **PyTest**, **tox**, and mock servers, streamlining QA and CI processes for efficient development cycles.\nIntroduced job queuing and scheduling solutions with **Celery** and **RabbitMQ**, optimizing backend task execution and process management.\nUtilized cloud services **AWS**, **Azure**, and **GCP** for scalable infrastructure deployment and management.\nManaged Data Warehousing solutions using **Snowflake** for data replication and governance, enhancing overall data quality monitoring.\nImplemented security measures incorporating **IAM**, **RBAC**, and encryption standards including **SSL**, **TLS**, and **PKI** to protect sensitive information.\nMaintained network protocols such as **TCP/IP**, **HTTP**, and **HTTPS** to ensure robust web security and data transmission across the platform."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, SQL, Java, R, JavaScript, Bash\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery, NodeJS\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, OAuth, SAML\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, GCP\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, Snowflake, ODBC, JDBC\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Git\n\n**Cloud & Infrastructure**\n\tIAM, RBAC, Data Replication, Data Governance, Data Quality Monitoring, Web Security, TCP/IP, HTTP, HTTPS, DNS, Load Balancers, Firewalls, Encryption, TLS, SSL\n\n**Other**\n\tKafka, AI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, MFA, PKI, Okta, CCNA",
+  "apply_company": "Snowflake"
+}

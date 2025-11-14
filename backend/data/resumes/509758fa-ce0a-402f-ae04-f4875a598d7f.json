@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior PHP Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior PHP Engineer with 8 years of full-stack development experience, I excel in building high-performance solutions utilizing **PHP**, **Symfony**, **MySQL**, **PostgreSQL**, and **REST** APIs. I have a strong command of version control using **Git** and CI/CD practices to streamline development processes. My technical expertise extends to containrization and orchestration using **Docker**, which ensures reliable deployments and efficient resource management.\n\nIn addition to my backend proficiency, I possess a solid understanding of e-commerce platforms like **Shopify**, **Shopware**, and **WooCommerce**. My background in the healthcare and financial sectors has equipped me with a keen sense of compliance standards such as HIPAA, FHIR, and PCI DSS.\n\nI also have hands-on experience implementing AI solutions and integrating machine learning workflows, ensuring that I can leverage advanced technologies for predictive analytics and intelligent automation. My ability to adapt quickly and work collaboratively in team settings has been instrumental in delivering robust and secure applications.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior PHP Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained scalable web applications using **PHP** and **Symfony**, ensuring robust integrations with **MySQL** and **PostgreSQL** databases for enhanced data reliability.\nCollaborated with cross-functional teams to design and implement **RESTful** APIs, facilitating seamless communication between front-end and back-end services using **JSON** data format.\nOptimized continuous integration and delivery workflows by implementing **CI/CD** practices utilizing tools such as GitHub Actions and **Docker**, increasing deployment efficiency by **30%**.\nSpearheaded the architecture and development of e-commerce platforms using **WooCommerce**, **Shopify**, and **Shopware**, driving significant improvements in online user engagement and transaction flows.\nDesigned and developed data-driven applications with integrated **AI** components for personalized recommendations and analytics, enhancing customer experiences and operational efficiency.\nManaged version control and collaborative development processes using **Git**, ensuring high-quality code and streamlined development cycles.\nLed the migration of existing codebases to adopt modern best practices in PHP development, significantly enhancing performance and maintainability, achieving a **25%** reduction in load times.\nImplemented automated testing frameworks and strategies to ensure quality assurance across the application stack, increasing test coverage to **85%** for both front-end and back-end services.\nProvided mentorship to junior developers, fostering a culture of continuous learning and knowledge sharing within the team, resulting in an improved team performance rating by **20%** in internal reviews.\nConducted architectural reviews and optimizations of existing systems, successfully enhancing scalability and performance in line with growing client demands."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Leveraged **PHP** and **Symfony** to develop and maintain high-performance applications, enhancing transaction processing speed by **30%** and improving user experience across financial platforms.\nImplemented robust **MySQL** and **PostgreSQL** databases for efficient data storage and retrieval, ensuring **99.9%** uptime and optimizing query performance by **25%**.\nDesigned and developed RESTful APIs using **PHP** frameworks to facilitate seamless integration with third-party services, employing **JSON** for data exchange.\nManaged version control and collaborative development processes using **Git**, leading to a **50%** reduction in deployment times through improved CI/CD practices.\nDeployed containerized applications using **Docker**, streamlining the development workflow and ensuring consistency across development, testing, and production environments.\nEnhanced e-commerce integrations using **Shopify**, **Shopware**, and **WooCommerce**, resulting in a **20%** increase in sales conversions through improved site performance and customer engagement.\nIntegrated AI capabilities into applications, successfully implementing machine learning algorithms for predictive analytics and decision-making processes.\nMaintained high-quality code through rigorous testing and code reviews, achieving a **95%** code coverage in automated tests to ensure reliability and performance."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Developed and optimized backend services for a global e-commerce platform using **PHP** (with **Symfony**) and **MySQL**, ensuring high performance and scalability across key modules like checkout, cart, and order fulfillment.\nDesigned and implemented RESTful APIs utilizing **JSON** for seamless communication between the frontend and backend services, supporting over **10 million** transactions per month.\nEngineered efficient CI/CD pipelines with **Git** and **Docker**, accelerating deployment cycles by **30%** and enabling rapid updates to the e-commerce platform.\nLeveraged **PostgreSQL** for distributed data storage, which improved query performance by **50%**, ensuring fast access during peak sales periods.\nIntegrated Shopify, Shopware, and WooCommerce for enhanced product listing management and checkout processes, adapting to varying customer expectations and preferences.\nImplemented caching strategies using **Redis** to enhance API response times, reducing latency by **40%** during peak traffic.\nDeveloped machine learning algorithms to personalize product recommendations using **AI** techniques, leading to a **25%** increase in conversion rates based on real-time user behavior data.\nUtilized **Docker** for containerization of applications, enabling consistent environments across development and production.\nApplied role-based access control (RBAC) and OAuth 2.0 frameworks to secure both customer and admin access, ensuring compliance with GDPR and user data protection standards.\nCreated responsive, SEO-friendly e-commerce UIs that are optimized for mobile-first design and accessibility compliance (WCAG 2.1), resulting in a **15%** increase in mobile engagement."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, PHP, JavaScript, TypeScript\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django, Symfony\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tREST, JSON\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\n **Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Authentication & Security (Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot), Shopify, Shopware, WooCommerce, AI",
+  "apply_company": "brickfox Multichannel eCommerce"
+}

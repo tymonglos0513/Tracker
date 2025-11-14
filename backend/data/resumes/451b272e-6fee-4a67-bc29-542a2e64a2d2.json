@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Software Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-152840397/",
+  "profile_summary": "As a Senior Software Engineer with 8 years of experience, I excel in designing and developing robust APIs, leveraging **Python**, **JavaScript**, and **Django** to deliver high-performance solutions. My deep understanding of localization and internationalization aligns with the needs of dynamic applications in diverse markets. I have a solid background in open-source contributions and work with cutting-edge technologies, including **Rust** and **C++**, to enhance system capabilities.\nI bring extensive experience in full-stack development, employing frameworks such as **React**, **Next.js**, **Vue**, and **Node.js**. My proficiency in cloud environments spans **AWS** and **Azure**, ensuring scalability and security. I lead architectural strategies with a focus on microservices, event-driven systems, and CI/CD automation practices, adhering to compliance standards like HIPAA and PCI DSS. Additionally, I have hands-on expertise in machine learning pipelines and MLOps using **MLflow**, **Airflow**, and **Kubeflow**, positioning me as a technical leader in the integration of AI/ML capabilities within enterprise solutions.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed RESTful APIs and backend services using **Python** and **Django** to support scalable applications in healthcare and finance sectors.\nArchitected and maintained codebases for JavaScript applications leveraging **Node.js** to ensure high-performance user experiences and compliance with international standards.\nImplemented localization and internationalization strategies to enhance user interfaces and improve user engagement in multiple regions using tools like **moz-l10n**.\nContributed to open-source projects utilizing **Rust** and **C++**, helping to extend the capabilities of existing frameworks and reduce technical debt within the organization.\nManaged full software development life cycle, from concept through deployment, ensuring delivery of features on time and with quality.\nEmployed Agile methodologies, resulting in a **30%** improvement in team productivity and on-time delivery of **90%** of project milestones.\nLed code review sessions focusing on best practices and improving team skills, fostering a culture of knowledge sharing and collaboration.\nEnhanced application performance by optimizing existing code, resulting in a **25%** reduction in load times and improved responsiveness for end users.\nParticipated in cross-functional teams to gather requirements and translate them into technical specifications for various software projects.\nCollaborated with front-end developers to integrate UI elements built in **JavaScript** and ensure seamless functionality across platforms.\nUtilized version control systems to manage code changes effectively, enabling continuous integration and delivery within the development cycle."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Employed **Python** and **JavaScript** as primary programming languages to develop and enhance applications, ensuring optimal performance and adherence to coding standards.\nLeveraged frameworks like **Django** to build robust back-end services that support high traffic, enhancing the functionality and scalability of applications.\nDesigned and implemented comprehensive APIs to facilitate seamless communication between front-end and back-end systems, ensuring efficient data exchange and integration.\nReleased upgraded versions of software modules, resulting in a **30%** improvement in application responsiveness and user experience.\nCollaborated with cross-functional teams to localize and internationalize applications with a focus on **moz-l10n** and user accessibility, reaching a wider audience in diverse markets.\nContributed to open-source projects, enhancing community engagement and personal expertise in languages like **Rust** and **C++**, benefitting overall project quality.\nParticipated in code review processes and provided technical mentorship to junior developers, fostering an environment of continuous learning and best practices.\nUtilized modern development tools and methodologies to streamline the software development lifecycle, reducing time-to-market for new features by **20%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **JavaScript** frameworks (Django, FastAPI, NestJS, Express) to design and optimize backend services for a global e-commerce platform, achieving over **99%** uptime and ensuring low latency and scalability across checkout, cart, and order fulfillment modules.\nEngineered real-time features through **APIs** and an event-driven architecture using **Kafka** and **RabbitMQ**, facilitating **real-time order updates** and dynamic inventory tracking, enhancing customer support responsiveness by **30%**.\nImplemented internationalization and localization strategies to enhance user experience for diverse global audiences.\nLeveraged **Redis**, **MongoDB**, **PostgreSQL**, and **Cassandra** for scalable data storage, achieving a **40%** improvement in data retrieval times for high-traffic scenarios and enhancing performance through optimized caching strategies.\nDeveloped robust frontend applications using **React (18)**, **Vue 3**, and **Angular**, enhanced with **TypeScript** and **Redux Toolkit**, delivering an average page load time decrease of **25%** across both web and mobile platforms.\nIntegrated and optimized AI/ML-based recommendation engines with **scikit-learn**, **LightGBM**, and **TensorFlow** to improve product listing personalization, achieving a **15%** boost in conversion rates through data-driven insights.\nImplemented **Redis** caching for critical data such as product metadata and sessions, significantly increasing application responsiveness and lowering database read load by **50%**.\nExecuted feature flags and blue-green deployments through **Kubernetes** and **LaunchDarkly**, enabling controlled rollouts and minimizing risks during major platform updates.\nCreated responsive, SEO-friendly UIs using **Next.js**, **Vue 3 + Nuxt**, **HTML5**, and **CSS3**, ensuring compliance with **WCAG 2.1** standards for accessibility and mobile-first design.\nBuilt secure payment workflows integrated with **Stripe**, **PayPal**, and **Razorpay**, applying PCI-compliant handling of sensitive data and ensuring user trust in transaction security.\nApplied role-based access control (RBAC) and **OAuth 2.0** protocols for secure access management, ensuring **GDPR** compliance and robust user data protection throughout the platform."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, Rust, C++\n\n**Backend Frameworks:**\n\tDjango\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tAPIs\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Other:**\n\tFrameworks & Technologies: FastAPI, Flask\n\tArtificial Intelligence & Machine Learning: MLflow, Airflow, Kubeflow\n\tAuthentication & Security: Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot\n\tCI/CD & Infrastructure as Code: Terraform, Ansible, Helm, Docker Compose\n\tmoz-l10n, internationalization, localization, open source",
+  "apply_company": "Mozilla"
+}

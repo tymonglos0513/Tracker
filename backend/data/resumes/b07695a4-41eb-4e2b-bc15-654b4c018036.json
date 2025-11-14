@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Backend Engineer with 13+ years of experience in delivering robust applications across healthcare and financial industries. Proficient in deploying cloud-native solutions on **AWS** and orchestrating containerized applications using **Kubernetes**. Expertise in developing microservices and implementing **CI/CD** pipelines to ensure quality and efficiency. Strong command of **TypeScript**, **Node.js**, and **Python**, complemented by experience with databases like **MySQL**. Adept in cross-team collaboration and technical leadership, with a history of mentoring team members to enhance their skills. Proven ability in performance tuning and observability, ensuring high-performing applications. Well-versed in compliance-driven development to meet stringent industry standards such as HIPAA, FHIR, and PCI DSS. Familiar with third-party tools such as **FusionAuth**, **Retool**, **Twilio**, and **SendGrid** for enhancing application functionalities. Experienced in building AI/ML-powered platforms utilizing frameworks like **FastAPI** and **Django** for predictive analytics and real-time processing.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Led technical leadership in building and maintaining **AWS** architectures with **Kubernetes** for scalable backend systems.\n- Designed and implemented CI/CD pipelines using **GitHub** Actions, ensuring seamless integration and deployment for various applications.\n- Developed server-side logic with **Python** and **Node.js**, optimizing performance for complex data transactions and ensuring application efficiency.\n- Enhanced database interactions by integrating **MySQL**, focusing on query performance and application reliability.\n- Collaborated across teams to define and enforce architectural patterns and best practices, fostering a culture of technical excellence and quality assurance.\n- Integrated third-party services such as **FusionAuth**, **Twilio**, and **SendGrid** to support user authentication, messaging, and notifications.\n- Mentored junior developers, providing guidance on best practices in **TypeScript** and **Golang**, and encouraging professional growth through collaboration.\n- Conducted performance tuning and observability practices to ensure robust, high-performing applications, contributing to improved user experience and efficiency.\n- Supported cross-team collaboration initiatives to drive project success and align technical efforts across departments.\n- Developed comprehensive testing strategies within the backend ecosystem to ensure quality across multiple deployment environments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "• Leveraged **Node.js (NestJS/Express)** and **Python (FastAPI, Django)** to modernize core financial platforms through microservices architecture, achieving a **30% increase in scalability and performance** for high-volume transactional systems.\n• Developed interactive front-end applications with **React (18)**, **Vue 3**, and **Next.js**, using **TypeScript** and **Redux Toolkit** to enhance user experience, resulting in a **40% improvement in user engagement**.\n• Implemented real-time analytics dashboards with **React**, **D3.js**, and **Power BI Embedded**, providing operational teams with instant insights and reducing the time to detect anomalies by **25%**.\n• Designed and executed a resilient event-driven architecture utilizing **Kafka**, **RabbitMQ**, and **Azure Service Bus** for asynchronous communication, improving system reliability for workflows such as payments and alerts.\n• Engineered ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory** for seamless data ingestion from internal and third-party sources, supporting both batch and real-time processing, and increasing data processing efficiency by **50%**.\n• Constructed and deployed machine learning models for fraud detection with **scikit-learn**, **XGBoost**, and **Azure ML**, facilitating proactive detection of suspicious activities, which improved fraud detection accuracy by **35%**.\n• Developed ML pipelines for real-time credit scoring and churn prediction using **MLflow** and **Airflow**, integrating model inference into backend services to enhance decision-making capabilities in **financial operations**.\n• Champion for **CI/CD** practices, **Observability**, and **Performance Tuning**; led efforts to enhance system performance and maintain high-quality standards across all development stages, fostering a culture of **Technical Leadership** and **Cross-Team Collaboration**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged **AWS** for scalable cloud infrastructure and service management in backend development, ensuring high performance and reliability for e-commerce applications.\nUtilized **Kubernetes** for container orchestration, facilitating smooth CI/CD pipelines and rolling updates across the backend services while maintaining uptime.\nDesigned and optimized backend services for a global e-commerce platform using **Python** (FastAPI, Django) and **Node.js** (NestJS, Express), achieving **99.9%** uptime and reduced latency by up to **35%**.\nImplemented performance tuning strategies for critical modules like checkout and order fulfillment, resulting in a **40%** improvement in transaction processing times.\nApplied **TypeScript** for developing robust, scalable applications, enhancing maintainability and code quality.\nEngineered real-time features using WebSockets and event-driven architecture powered by **Kafka** and **RabbitMQ**, enabling responsive order updates and dynamic customer interactions.\nDeveloped frontend applications using **React** (version **18**), **Vue 3**, and **Angular**, delivering optimized user experiences with a focus on performance metrics and accessibility standards.\nIntegrated database solutions such as **MySQL**, **MongoDB**, and **Redis** for distributed data storage, leading to an **80%** reduction in database query time during peak traffic.\nImplemented feature flags and blue-green deployments using **LaunchDarkly** and **Kubernetes**, enhancing deployment strategies with **50%** faster release cycles and improved risk management during updates.\nCreated secure payment workflows using **Stripe**, **PayPal**, and **Razorpay**, adhering to PCI compliance to protect sensitive transaction information.\nApplied role-based access control (RBAC) and **OAuth 2.0** to ensure robust security measures for customer data and admin access, achieving **GDPR compliance** across the platform.\nProvided technical leadership and mentoring to junior developers, enhancing team capabilities and promoting best practices in **CI/CD** and software quality assurance.\nFostered cross-team collaboration to improve integration processes and deliver seamless user experiences.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, TypeScript, Golang\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tFusionAuth, Twilio, SendGrid\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, ECS\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS: RDS, S3, Azure: App Services, Blob Storage, SQL Database, Terraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Observability, Performance Tuning, Technical Leadership, Architectural Patterns, Quality Assurance, Cross-Team Collaboration, Mentoring",
+  "apply_company": "bunch"
+}

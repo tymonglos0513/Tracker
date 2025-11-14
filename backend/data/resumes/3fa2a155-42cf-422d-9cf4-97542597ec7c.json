@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Engineer II",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As a skilled Software Engineer II with 8 years of experience, I specialize in developing robust solutions leveraging **React**, **TypeScript**, **GraphQL**, and **C#/.NET**. My extensive technical expertise includes working with databases such as **DynamoDB** and **MySQL**, while proficiently utilizing cloud services like **AWS** and **GCP**. I have a solid foundation in web technologies including **CSS**, **HTML**, and **JavaScript**, and I excel in implementing **microfrontend architecture** to enhance application performance.\n\nI am experienced in **CI/CD** and **DevOps** practices, ensuring streamlined development processes through **Infrastructure as Code** and **mono repo build systems**. My background in building enterprise-grade applications is complemented by a strong emphasis on collaboration and agile methodologies. Additionally, I have hands-on experience with **Apollo** for state management in GraphQL applications, showcasing my ability to craft high-quality, scalable software solutions.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer II",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "• Developed and maintained scalable full-stack applications using **React** and **TypeScript**, ensuring high performance and responsiveness across different devices, adhering to modern web standards of **HTML** and **CSS**.\n• Implemented a microfrontend architecture to enhance modularity and reusability of components, contributing to a robust system design.\n• Designed APIs using **GraphQL** for efficient data fetching and integration, improving application responsiveness and user experience by **30%**.\n• Established CI/CD pipelines utilizing tools such as **GitHub Actions**, **Azure DevOps**, and **CircleCI**, automating testing and deployment processes, which reduced release time by **25%**.\n• Utilized infrastructure as code practices to streamline environment setup and management using **AWS** and **GCP**, enhancing scalability and maintainability of systems.\n• Engaged in DevOps practices to ensure alignment between development and operations, promoting a culture of continuous improvement and delivery.\n• Collaborated with cross-functional teams to refine core services, integrate functionalities, and leverage APIs with emphasis on **Javascript** and its frameworks.\n• Developed and conducted comprehensive test strategies employing tools like **Jest** and **Cypress**, resulting in a **40%** increase in test coverage for applications.\n• Utilized mono repo build systems to manage dependencies and streamline project structures, facilitating easier code sharing and collaboration among teams.\n• Integrated advanced search functionalities using tools like **DynamoDB** and **MySQL** for optimized data storage and retrieval, enhancing user search experiences across multiple datasets."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **React (18)** and **TypeScript** to develop dynamic, user-focused front-end applications for financial platforms, enhancing user experiences and application responsiveness.\nEmployed **GraphQL** for efficient data querying in applications, streamlining data retrieval and improving overall application performance.\nImplemented a **microservices-based architecture** for financial systems using **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, improving system scalability and maintainability for high-volume transactions.\nIntegrated **C#/.NET** services into existing frameworks to enhance system robustness and extend functionality across platforms.\nManaged databases including **DynamoDB** and **MySQL** for effective data storage and retrieval, optimizing performance for backend services.\nDelivered continuous integration and deployment (CI/CD) solutions paired with **DevOps** strategies, significantly reducing deployment times by up to **50%**.\nOrchestrated ETL pipelines using **Python**, **Apache Airflow**, and **Azure Data Factory**, facilitating the ingestion of financial data from internal and third-party sources reliably.\nEstablished a **robust event-driven architecture** utilizing **Kafka**, **RabbitMQ**, and **Azure Service Bus** to enhance real-time event processing for transactions and compliance workflows.\nDeveloped and deployed ML models for fraud detection using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, achieving a predictive accuracy of **99.5%** in detecting fraudulent activities.\nCreated ML pipelines for applications like credit scoring and churn prediction using **MLflow** and **Airflow**, integrating model inference into backend services to support real-time decision-making and analytics."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed robust frontend applications utilizing **React (18)**, **TypeScript**, and **CSS/HTML** to deliver responsive, user-friendly interfaces for e-commerce platforms while adhering to **WCAG 2.1** accessibility standards.\n• Employed microfrontend architecture principles to enhance modularity and team collaboration, ensuring seamless integration within the application ecosystem.\n• Integrated **GraphQL** for efficient data fetching and management, leading to a reduction in API call overhead and improved application performance.\n• Designed serverless solutions on **AWS** and **GCP**, leveraging **DynamoDB** and **MySQL** for scalable data storage with high availability and resilience for traffic spikes.\n• Implemented **CI/CD** pipelines and **DevOps** practices to streamline deployment processes, increasing deployment frequency by **30%** and reducing rollback instances.\n• Applied **Infrastructure as Code** strategies to automate cloud infrastructure setup and management, ensuring consistency across environments and reducing setup time by **50%**.\n• Contributed to the creation and management of **Mono repo build systems**, optimizing dependencies and enhancing development workflow efficiencies.\n• Collaborated with cross-functional teams to improve application quality through automated testing frameworks and code reviews, ensuring adherence to best practices.\n• Implemented responsive e-commerce UIs using **Next.js** and **Nuxt**, optimizing site performance for mobile users.\n• Ensured secure data transactions through integrating payment gateways like Stripe, enhancing the customer checkout experience while complying with **PCI** standards."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript, C#/.NET\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular, CSS, HTML\n\n **API Technologies:**\n\tGraphQL, Apollo\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), GCP\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, DynamoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD\n\n **Cloud & Infrastructure:**\n\tAzure (App Services, Blob, SQL), Terraform, Ansible, Helm, Docker Compose, Infrastructure as code, Mono repo build systems\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Microfrontend architecture"
+}

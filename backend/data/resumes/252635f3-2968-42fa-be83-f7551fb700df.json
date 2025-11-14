@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior SRE Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a skilled Senior Site Reliability Engineer (SRE) with 8 years of experience, I excel in implementing and managing high-performance solutions in complex environments, utilizing a tech stack that includes **AWS**, **Kubernetes**, **Terraform**, **GitLab**, and robust monitoring tools like **Datadog**, **Prometheus**, and **Grafana**. My expertise in CI/CD automation ensures seamless deployment processes and continuous integration.\nWith a solid foundation in security practices, I build and maintain secure, compliant infrastructures that meet rigorous industry standards. I have a proven track record of optimizing system performance and reliability, leveraging my experience in developing microservices architectures and event-driven systems.\nAdditionally, I possess extensive knowledge of programming languages such as **Golang** and **Python**, allowing me to contribute effectively to cross-functional teams to enhance operational efficiency.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SRE Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented enterprise-level **CI/CD** pipelines using **GitLab**, incorporating security scans, linting, and multi-environment deployments for both web and API services.\nDesigned, built, and maintained scalable cloud infrastructures utilizing **AWS** and **Kubernetes** for high availability and fault tolerance in production environments, achieving **99.9% uptime**.\nMonitored system performance and reliability using tools such as **Datadog**, **Prometheus**, and **Grafana**, ensuring optimal resource utilization and quick identification of issues leading to a **30% reduction** in downtime incidents.\nAutomated infrastructure provisioning and configuration management with **Terraform**, enabling consistent environments that adhere to security best practices.\nCollaborated with development teams to improve deployment processes and introduce standard operating procedures that enhance security compliance while deploying applications.\nConducted thorough systems security assessments and implemented necessary measures to mitigate risks, thus improving the overall security posture by **40%**.\nEstablished monitoring strategies that included setting up alerts and visual dashboards to track application health metrics, enhancing visibility into system performance and stability.\nLed initiatives to investigate and resolve incidents swiftly, improving response times for critical outages by **25%**.\nCommunicated with cross-functional teams, advocating for best practices in system architecture and operational efficiency, which resulted in a significant enhancement of the overall development lifecycle.\nParticipated in regular on-call rotations to ensure 24/7 reliability and operational health of production systems."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented and maintained CI/CD pipelines using **GitLab** and **Terraform**, enhancing deployment efficiency and reliability in production environments.\nDeployed and managed containerized applications with **Kubernetes**, ensuring high availability and scalability while maintaining security best practices in alignment with DevOps principles.\nMonitored system performance and application health using **Prometheus**, **Grafana**, and **Datadog**, leading to a **30%** reduction in incident response times via proactive monitoring strategies.\nStreamlined infrastructure provisioning and management on **AWS**, incorporating best practices for security, scalability, and cost efficiency in cloud operations.\nAutomated system configuration and management tasks with **Terraform**, enabling infrastructure as code (IaC) practices that improved deployment consistency across environments.\nUtilized **Golang** to develop internal tools that improved the operational efficiency of infrastructure management tasks, reducing manual effort by **25%**.\nImplemented security frameworks and automated compliance checks to safeguard systems, ensuring adherence to industry standards and reducing potential vulnerabilities by **40%**.\nCollaborated with cross-functional teams to troubleshoot complex service issues, resulting in a significant decrease in downtime of **15%** through effective incident management processes.\nEngaged in capacity planning and performance tuning of application stacks, enhancing throughput and resource utilization across server fleets."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Ensured high availability and scalability of backend services by deploying applications on **AWS** and orchestrating containerized environments with **Kubernetes**, contributing to a **99.99% uptime** goal.\nImplemented and managed **CI/CD** pipelines using **GitLab**, facilitating seamless and automated deployments across multiple environments, and reducing deployment times by **40%**.\nConfigured monitoring and logging solutions with **Datadog**, **Prometheus**, and **Grafana**, achieving enhanced visibility of application performance and system health, resulting in a **30%** reduction in incident response time.\nUtilized **Terraform** for infrastructure as code, enabling consistent and repeatable deployments across environments, improving the infrastructure provisioning time by **50%**.\nDeveloped automated scripts in **Golang** to streamline routine operations and maintenance tasks, reducing manual effort and improving system reliability.\nApplied security best practices including role-based access control (RBAC) and **OAuth 2.0** configurations, ensuring compliance with industry standards and safeguarding sensitive data within the platform.\nConducted performance tuning and capacity management for high-traffic e-commerce applications, leveraging background jobs, load balancers, and caching strategies to ensure optimal resource utilization.\nLed troubleshooting efforts for production incidents, employing root cause analysis methodologies, and collaborating with cross-functional teams to implement effective solutions and prevent future occurrences.\nCollaborated in cross-disciplinary teams to integrate platform-specific features and operational improvements, adhering to **DevOps** principles to enhance collaboration and efficiency."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, JavaScript, TypeScript, Golang\n\n **Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n **Frontend Frameworks:**\n\tReact, Vue, Angular\n\n **API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n **Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda), Azure (App Services)\n\n **Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n **DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Grafana, Prometheus, Datadog\n\n **Cloud & Infrastructure:**\n\tAWS (RDS, S3), Azure (Blob, SQL)\n\n **Other:**\n\tMLflow, Airflow, Kubeflow, Nginx, Certbot, CI/CD",
+  "apply_company": "Mambu Payments"
+}

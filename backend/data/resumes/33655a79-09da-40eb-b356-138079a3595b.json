@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Data Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-kotlinski-08ba40390/",
+  "profile_summary": "As a Senior Data Engineer with 8 years of experience, I possess a strong proficiency in **Python**, **SQL**, **Spark**, and **Databricks**, enabling me to design and optimize data models, data lakes, and data warehouses. My deep cloud expertise includes **Azure**, **AWS**, and **GCP**, which empowers me to implement scalable and high-performance data solutions.\nI have a proven track record in performance tuning and CI/CD automation, ensuring seamless integration and deployment of data pipelines. With robust monitoring capabilities, I ensure data integrity and availability, adhering to industry compliance standards. Additionally, my background in full-stack development utilizing **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django** allows me to bridge the gap between data engineering and application development, creating comprehensive solutions that drive business insights.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **Python** and **SQL** to architect and develop scalable data models for healthcare and financial platforms, ensuring efficient data ingestion, storage, and querying across both **data lakes** and **data warehouses**.\nEmployed **Spark** and **Databricks** to perform data transformations and insights extraction, enhancing performance tuning by up to **25%** in data processing tasks.\nDesigned and implemented **CI/CD** pipelines for data workflows using tools such as GitHub Actions and Azure DevOps, automating deployment processes and monitoring data pipeline efficiency.\nLeveraged **AWS**, **Azure**, and **GCP** services to create cloud-native data architectures, promoting high availability and compliance with healthcare and financial regulations.\nDeveloped and maintained robust monitoring solutions to track data pipeline performance, data integrity, and operational efficiency, achieving a **15%** reduction in error rates.\nCollaborated with cross-functional teams to implement data modeling strategies that meet regulatory standards, optimizing data structures for big data applications with **over 1 million records**.\nIntegrated advanced analytics and visualization tools into data systems, enabling real-time business insights and enhancing decision-making processes for financial reporting and healthcare analytics.\nEstablished and enforced best practices for data governance, ensuring compliance with standards such as HIPAA and GDPR across all data engineering projects.\nFacilitated the creation of comprehensive documentation for data processes, models, and pipelines, supporting both current team members and future onboarding efforts.\nContributed to data quality initiatives by designing tests and conducting audits, successfully improving data quality metrics by **20%** through proactive monitoring and remediation efforts."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Developed and maintained **data lakes** and **data warehouses** using **Azure Databricks** and **AWS** services to optimize data storage and retrieval for analytical tasks, ensuring efficient data modeling and performance tuning for large-scale datasets.\nDesigned and implemented **ETL pipelines** leveraging **Python**, **Apache Airflow**, and **SQL**, facilitating **real-time** and batch data ingestion from diverse sources resulting in a **30%** improvement in data processing times.\nConducted comprehensive **data modeling** to support data integrity and accessibility, enhancing reporting capabilities across cross-functional teams.\nCollaborated on **CI/CD** practices to automate deployment processes, reducing release cycles by **40%** using tools like **Azure DevOps** and **GitHub Actions**.\nPerformed **monitoring** and optimization of data workflows, driving improvements in data processing efficiency and reliability.\nUtilized **GCP** for cloud data storage solutions, integrating with existing cloud architectures to support seamless data flow and accessibility.\nImplemented advanced analytics frameworks to derive insights from large datasets, accelerating decision-making processes for stakeholders within the organization."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Engineered scalable data solutions using **Python**, focusing on data lakes and data warehouses, while applying performance tuning techniques to optimize data workflows for high-volume processing.\nLeveraged SQL for advanced data modeling and analytics, ensuring data integrity and accessibility across multiple cloud platforms, including **Azure**, **AWS**, and **GCP**.\nDesigned and implemented CI/CD pipelines, significantly reducing deployment times by **25%** and enhancing overall software quality through automated testing and monitoring solutions.\nIntegrated **Apache Spark** and **Databricks** for large-scale data processing, enabling efficient handling of structured and unstructured datasets, leading to a **30%** increase in processing speed.\nDeveloped robust monitoring frameworks to track system performance, ensuring high availability and low latency in data retrieval, enhancing user experience and reliability.\nCollaborated with cross-functional teams to define requirements and deliver data-driven insights, resulting in a **40%** improvement in decision-making speed across organizational processes.\nUtilized cloud-native technologies to streamline operations, ensuring compliance with industry standards and improving system resilience against failures.\nImplemented best practices for data governance and security, maintaining GDPR compliance and safeguarding sensitive information throughout the data lifecycle."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython, SQL\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript, React, Vue, Angular\n\n**API Technologies:**\n\t\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL), GCP\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, CI/CD, Terraform, Ansible, Helm, Docker Compose, monitoring\n\n**Cloud & Infrastructure:**\n\tAWS, Azure, GCP\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Spark, Databricks, data modeling, data lakes, data warehouses, performance tuning, Authentication & Security: Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot"
+}

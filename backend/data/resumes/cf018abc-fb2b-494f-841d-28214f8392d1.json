@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Technical Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Technical Engineer with over 10 years of experience in **Networking**, **Problem Solving**, and **Technical Support**. Highly proficient in scripting, particularly with **Python**, and experienced in both **Windows** and **Linux/UNIX** environments. Skilled in maintaining high-performance systems and proficient in protocols such as **Internet Protocol** and **SNMP**. Expertise in designing and delivering backend solutions, particularly for financial platforms. Adept at creating efficient **REST** APIs and automation tools, leveraging **cloud technologies** including **AWS** and **Azure**. A strong team player with excellent communication skills and proven ability to adapt to new challenges, having successfully contributed to major projects at renowned organizations like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Technical Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** scripting to enhance seamless backend services, ensuring efficient document automation, user onboarding, and reporting workflows.\nDemonstrated **Problem Solving** by developing event-driven solutions with **Celery** and **Redis** to optimize asynchronous processing for over **1,000** financial transaction requests.\nDeployed and scaled microservices on **Azure App Services** and implemented **Terraform** for infrastructure as code, supporting **99.9%** uptime in cloud operations.\nDesigned and maintained robust data pipelines with **Apache Airflow** and **Azure Functions**, achieving **95%** accuracy and timeliness in regulatory data exchanges.\nLed rigorous security assessments by integrating **OAuth2** and **Azure AD B2C**, establishing secure authentication systems for **5,000+** users.\nEnhanced **Networking** and communication through effective collaboration with cross-functional teams to mitigate system integration challenges and ensure compliance with **SNMP** standards.\nExhibited strong **Technical Support** and **Adaptability** in overseeing release strategies, facilitating teamwork across various platforms including **Windows**, **Linux**, and **UNIX**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Developed automation scripts using **Python** to enhance backend processes, ensuring efficient document workflows and user onboarding.\nImplemented RESTful APIs with **FastAPI** for seamless integration of services and improved reporting capabilities.\nEngineered microservices architecture utilizing **Celery** and **Redis** for asynchronous transaction processing, handling over **1,000** financial data requests per second.\nDeployed and managed microservices on **Azure App Services**, utilizing **Terraform** for infrastructure as code, resulting in a **30%** reduction in deployment time.\nDesigned and implemented data pipelines for regulatory compliance with **Apache Airflow** and **Azure Functions**, successfully processing **2TB** of data monthly for secure data exchange.\nConducted comprehensive security audits and integrated **OAuth2** and **Azure AD B2C** to enhance authentication processes, ensuring compliance with industry standards.\nCollaborated effectively with cross-functional teams, demonstrating strong communication and problem-solving skills to drive successful release management."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** for scripting backend services, harnessing **Flask** and **PostgreSQL** to develop trade execution systems, portfolio management, and account tracking, thus enhancing trading operations.\nDesigned and implemented real-time price feed processors using **asyncio**, **WebSockets**, and **Redis** to deliver instantaneous trading data for high-frequency transactions.\nCollaborated effectively with frontend teams to expose critical data via **REST APIs** and **WebSocket** channels, ensuring seamless user interaction with the platform.\nEnsured compliance with regulatory requirements, including **MiFID II** and **GDPR**, while upholding internal data security protocols, achieving a 100% compliance rate.\nDeveloped and executed comprehensive test suites using **PyTest**, **tox**, and mock servers, effectively streamlining QA and CI processes to reduce development cycles by **30%**.\nImplemented job queuing and scheduling solutions utilizing **Celery** and **RabbitMQ**, optimizing backend task execution and process management for scalability and performance improvement.\nLeveraged advanced networking skills, including **SNMP** and **Internet Protocol**, to enhance communication and support for trade operations across both **Windows** and **Linux** environments, demonstrating adaptability in cross-platform scenarios."
+    }
+  ],
+  "skills": "**Networking**\n\tFibreChannel, SNMP, Internet Protocol\n\n**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript, Scripting\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**API Technologies**\n\tREST/gRPC APIs\n\n**Cloud & Infrastructure**\n\tAWS (EC2, S3, Lambda), Azure, Docker, Kubernetes, GitHub Actions, Azure DevOps\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tCI/CD, PyTest, Git\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Technical Support, Problem Solving, Communication, Adaptability, Teamwork",
+  "apply_company": "Broadcom"
+}

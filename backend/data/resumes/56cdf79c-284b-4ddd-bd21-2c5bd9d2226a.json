@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Backend Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Backend Engineer with 13+ years of experience developing high-performance applications, specializing in **Node.js**, **TypeScript**, and **Koa** frameworks. Expertise in building scalable backend systems with technologies including **NestJS**, **MongoDB**, **Kafka**, and **Redis**. Proven track record in performance monitoring and optimization using **Grafana**, **Prometheus**, and **Datadog**. \n\nSkilled in deploying cloud-native applications and implementing microservices architecture. Previously, developed AI/ML-powered platforms that drive predictive analytics and automation. Well-versed in compliance standards such as HIPAA and PCI DSS, ensuring alignment with best practices in the healthcare and financial sectors. Adept in the orchestration of machine learning workflows utilizing **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Backend Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed backend services and APIs using **Node.js**, **Koa**, and **NestJS**, ensuring high performance and scalability to meet application demands.\n- Designed and optimized data storage solutions with **MongoDB**, **Redis**, and **ClickHouse**, handling millions of transactions efficiently with advanced indexing and querying strategies.\n- Implemented messaging systems with **Kafka** and **Bull**, processing high-volume data streams to support real-time analytics.\n- Enhanced application performance monitoring and observability using **Grafana**, **Prometheus**, and **Datadog**, resulting in a **30% reduction** in system downtime and improved response times.\n- Collaborated with cross-functional teams to design microservices architectures, ensuring seamless integration and deployment across environments.\n- Streamlined CI/CD processes utilizing **GitHub Actions** and **Azure DevOps**, achieving a deployment frequency increase of **50%** and reducing release cycles significantly.\n- Engineered robust logging and error handling mechanisms to improve system reliability and diagnostic capabilities with real-time reporting features.\n- Conducted code reviews and established coding standards that elevated overall team performance and code quality,\n- Participated in agile development processes, refining user stories, and ensuring iterative improvement in sprints.\n- Contributed to data-driven decision-making by providing insights through real-time analytics and performance metrics, thus enhancing overall team productivity."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Node.js** (NestJS) and **TypeScript** to modernize core financial platforms, migrating to a microservices architecture, resulting in a **30%** increase in scalability and performance for high-volume transactional systems.\nImplemented **Kafka** and **Redis** for asynchronous communication, designing a robust event-driven architecture that improved workflow efficiency by **25%** across critical processes such as payments and compliance.\nEstablished performance monitoring tools such as **Grafana**, **Prometheus**, and **Datadog** to enhance system reliability, achieving a **99.9%** uptime across services.\nDeveloped and optimized ETL pipelines for ingesting financial data from various sources, utilizing **Apache Airflow** and **Azure Data Factory**, which enabled a **40%** faster data processing time.\nDesigned and deployed applications with **MongoDB** for efficient data storage, ensuring high performance during transaction loads.\nLed development of interactive applications using **React** (18) and **TypeScript**, delivering sleek user interfaces that increased user engagement by **15%**.\nExecuted real-time analytics dashboards using **D3.js** and **Power BI Embedded**, which provided comprehensive insights into transactions, assisting operations teams in prompt decision-making.\nCrafted machine learning models for fraud detection utilizing **scikit-learn** and **XGBoost**, successfully decreasing fraudulent activities by identifying suspicious patterns with an accuracy of **85%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Developed and optimized backend services using **Node.js (NestJS)** and **TypeScript**, ensuring high performance and reliability across key modules, contributing to a **99.9% uptime**.\nImplemented robust message processing strategies using **Kafka** and **Bull**, enabling efficient task queues and background processing for critical business operations.\nEngineered scalable data solutions utilizing **MongoDB** and **ClickHouse** for distributed analytics and storage, achieving a **50% reduction** in query response times.\nDesigned and deployed systems for performance monitoring using **Grafana**, **Prometheus**, and **Datadog**, enhancing service visibility and achieving a **20% increase** in operational efficiency.\nIntegrated caching strategies leveraging **Redis** to improve data access speeds by up to **75%**, optimizing user experience for high-traffic events.\nImplemented features for real-time monitoring and troubleshooting, improving system response times during peak loads through advanced analytics and visualization tools.\nCollaborated on the deployment of microservices architecture, using containers for seamless scaling and rollout processes, while maintaining compliance with security standards.\nConducted performance testing and tuning for backend systems, leading to a marked increase in throughput and significantly lowering latency across the platform.\nParticipated in code reviews and mentorship, fostering junior developer skills in **Node.js**, best practices, and efficient coding methodologies."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, JavaScript, TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Node.js, Koa, NestJS\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tOAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, ClickHouse, Elasticsearch\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tAWS: ECS, RDS, S3, Azure: App Services, Blob Storage, SQL Database\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Kafka, Bull, Performance Monitoring, Grafana, Prometheus, Datadog, Keycloak (OIDC, RBAC), Nginx, Let’s Encrypt, Certbot",
+  "apply_company": "Fundraise Up"
+}

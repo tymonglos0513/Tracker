@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Cloud Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "As an accomplished Cloud Engineer with 8 years of experience, I excel in deploying and managing scalable, distributed systems within the cloud ecosystem using **Kubernetes**, **Terraform**, **Ansible**, and **Helm**. My hands-on expertise includes establishing and enhancing **CI/CD pipelines** in **GitLab** and **Jenkins**, alongside monitoring and visualization tools like **Prometheus** and **Grafana**. I have a robust foundation in **Linux** environments and relational database management systems, with proficiency in **MariaDB**, **MySQL**, and **Galera**.\nAdditionally, I utilize **Python** and **Shell** scripting for automation and incident management, ensuring seamless operations. I am adept at remote communication, fostering collaboration across teams to drive project success. My background in full-stack development with **React**, **Node.js**, and **FastAPI**, as well as with **Azure** and **AWS**, allows me to create high-performance solutions tailored to the healthcare and financial sectors. I've successfully led the development of enterprise-grade platforms integrating AI/ML capabilities, ensuring compliance with standards such as HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Cloud Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Designed and implemented CI/CD pipelines utilizing **Jenkins**, **GitLab**, and **Terraform**, ensuring seamless integration and delivery of services across environments for distributed systems.\n- Managed and orchestrated containers using **Kubernetes**, **Helm**, and **Ansible**, to automate deployment processes in a microservices architecture.\n- Deployed and maintained cloud infrastructures on **S3** and various database management systems including **MariaDB**, **MySQL**, and **Galera** to support scalable applications.\n- Monitored application performance with **Prometheus** and **Grafana**, enhancing incident management processes and ensuring system reliability.\n- Developed automation scripts using **Python** and **Shell** to manage infrastructure as code (IaC) and streamline deployment workflows.\n- Collaborated remotely with cross-functional teams to enhance cloud solutions, ensuring efficient communication and project delivery.\n- Designed and executed distributed system architectures that significantly improved system availability and fault tolerance, handling over **1M+** transactions.\n- Engaged actively in incident management, achieving a **20%** reduction in response times through effective monitoring and alerting systems.\n- Created comprehensive documentation and capabilities for cloud deployments, streamlining onboarding for future engineering projects."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Kubernetes** for orchestration and deployment of cloud-native applications, enhancing the scalability and reliability of financial platforms across multiple environments.\nImplemented Infrastructure as Code (IaC) using **Terraform** and **Ansible** to automate environment setup and configuration management, integrating with CI/CD pipelines for seamless deployment.\nMonitored system performance and health using **Prometheus** and **Grafana**, achieving a **30%** reduction in incident response time through effective alerting and visualization.\nLed the development of CI/CD pipelines with **GitLab** and **Jenkins**, facilitating automated testing and deployment processes that improved deployment frequency by **25%**.\nBuilt distributed systems using **Python** and **Shell** scripting, optimizing data processing workflows to support high-volume financial transactions and real-time analytics.\nManaged databases such as **MariaDB**, **MySQL**, and **Galera**, ensuring data availability and integrity for transaction processing and reporting functionalities.\nIntegrated cloud storage solutions with **S3** for managing data assets, implementing encryption and access control measures to enhance security compliance.\nFostered effective remote communication and collaboration practices within teams, ensuring continuous alignment on project objectives and timely delivery of tasks.\nLed incident management processes to swiftly resolve system issues, maintaining a service uptime rate of over **99.5%** for critical financial platforms."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented and managed **Kubernetes** clusters to orchestrate containerized applications, ensuring high availability and scalability across production environments.\nUtilized **Terraform** for Infrastructure as Code (IaC) to automate the provisioning of cloud resources, achieving a **30%** reduction in deployment time.\nEmployed **Ansible** for configuration management, ensuring consistent environment setup across **10+** development and production instances.\nDeveloped and maintained **CI/CD pipelines** using **GitLab** and **Jenkins**, improving release frequency by **40%** with automated testing and deployment strategies.\nMonitored system performance and application metrics with **Prometheus** and **Grafana**, enabling proactive incident management and reducing response times by **25%**.\nAdministered **MariaDB**, **MySQL**, and **Galera** databases, optimizing queries and managing replication for distributed systems handling high-concurrency workloads.\nDesigned storage solutions using **S3** to ensure scalable and secure asset management in cloud environments.\nCollaborated remotely within cross-functional teams, ensuring effective communication and knowledge sharing for problem-solving.\nCreated and executed incident response protocols to handle outages and performance degradation, enhancing system reliability and reducing downtime by **15%**.\nWrote and maintained scripts in **Python** and **Shell** for automation of routine maintenance tasks, improving operational efficiency.\n"
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Shell\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tJWT, OAuth2, OIDC, RBAC\n\n**Serverless and Cloud Functions:**\n\tAWS (Lambda, ECS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MariaDB, MongoDB (Gaming), Redis, Galera\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Prometheus, Grafana, CI/CD pipelines, Incident management, Distributed systems\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose, Linux, S3\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak, Let’s Encrypt, Nginx, Certbot, Remote communication"
+}

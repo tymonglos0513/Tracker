@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior Fullstack Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a Senior Fullstack Engineer with 8 years of comprehensive experience, I excel in developing high-performance solutions utilizing **Node.js**, **TypeScript**, and **NestJS** within microservices and event-driven architectures. My strong skill set includes designing **RESTful APIs**, implementing **CQRS**, and utilizing **DDD** principles to enhance application scalability and maintainability. Proficient in asynchronous event-based communication and SQL, I leverage technologies such as **React**, **Next.js**, and **Tailwind CSS** to create dynamic user interfaces, employing state management techniques like **React Query** and the **Context API**.\nAdditionally, I employ **Docker** for containerization and CI/CD processes to streamline deployment workflows. My expertise further extends to monitoring and logging using **Prometheus** and **Splunk**, alongside advanced communication protocols like **gRPC** and **Protocol Buffers**. I possess a solid foundation in leading enterprise-grade platforms compliant with standards such as HIPAA and PCI DSS, ensuring robust security and data integrity. Skilled in integrating AI/ML capabilities, I have hands-on experience in building machine learning pipelines, serving models in production, and implementing MLOps workflows.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Fullstack Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Developed and maintained scalable full-stack applications using **Node.js**, **TypeScript**, and **React** (17-18), ensuring robust performance and responsiveness across diverse platforms.\nArchitected microservices-based solutions following **DDD** principles, integrating **RESTful APIs** and utilizing **asynchronous event-based communication** for enhanced scalability and maintainability.\nImplemented **CI/CD** pipelines leveraging tools such as **Docker**, ensuring efficient deployment and management of applications across environments, with automated testing and monitoring capabilities.\nDesigned user interfaces using **Next.js** and **Tailwind CSS**, promoting seamless UX and performance optimizations, achieving a **30% increase in load speeds** over previous iterations.\nCreated and deployed complex event-driven architectures utilizing **NestJS** and **gRPC**, optimizing communication between microservices and external APIs, enhancing system reliability and efficiency.\nEngaged in collaborative feature development with cross-functional teams, effectively managing state within applications using **React Query** and **Context API** to ensure data consistency and improve user experience.\nLed initiatives in transforming legacy systems into modern architectures, utilizing **Docker** and **microservices** patterns to facilitate fault tolerance and streamline service delivery.\nEnsured high standards of code quality and performance through unit, integration, and end-to-end testing practices using industry-standard frameworks including **Jest** and **Cypress**.\nMonitored system performance and health metrics using **Prometheus** and **Splunk**, enabling proactive resolution of bottlenecks and other critical issues in production systems.\nCollaborated with data engineers and other stakeholders to implement **SQL** derived analytics, enhancing data insights and driving decision-making processes across departments."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "• Developed and modernized financial platforms utilizing a **microservices** architecture with **Node.js (NestJS/Express)** and **Python (FastAPI, Django)**, enhancing scalability and throughput for high-volume transaction systems, processing up to **10,000 transactions per second**.\n• Crafted dynamic, user-centric front-end applications with **React (18)**, **Vue 3**, **Next.js**, and **TypeScript**, employing **Redux Toolkit** and **Tailwind CSS** to deliver responsive UI for financial dashboards with speeds of under **200ms** for data loading.\n• Designed and implemented real-time transaction monitoring dashboards using **D3.js** and **Power BI Embedded**, enabling operations teams to detect anomalies and generate insights, significantly reducing alert response times by **30%**.\n• Established a robust **event-driven architecture** by integrating **Kafka**, **RabbitMQ**, and **Azure Service Bus**, facilitating asynchronous communication for transaction alerts and compliance workflows, improving processing efficiency by **50%**.\n• Architected and orchestrated ETL pipelines employing **Python**, **Apache Airflow**, and **Azure Data Factory** for batch and real-time financial data ingestion, handling over **100TB** of data monthly from various sources.\n• Deployed AI/ML-powered fraud detection systems using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing transaction patterns to mitigate fraud risk by **25%** in banking systems.\n• Developed ML pipelines for credit scoring and transaction classification using **MLflow** and **Airflow**, integrating model inference into backend services for real-time decision-making, achieving model prediction latency under **50ms**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "• Developed scalable **microservices** using **Node.js** (NestJS) and **TypeScript**, ensuring adherence to **RESTful APIs** standards while employing **CQRS** and **DDD** methodologies for efficient data processing in a high-demand environment.\n• Engineered responsive frontend applications utilizing **React** (version 18) and **Next.js**, implementing **state management** strategies through **React Query** and **Context API** to enhance user interactions and reduce load times by **30%**.\n• Implemented **event-driven architectures** using **asynchronous event-based communication** facilitated by Kafka and RabbitMQ, allowing for real-time order updates and robust inventory tracking systems.\n• Optimized backend services to ensure high availability and performance metrics, supporting up to **50,000** concurrent users across checkout and order fulfillment modules.\n• Utilized **Docker** for containerization and established CI/CD pipelines from development to production, enhancing deployment frequency by **40%** and reducing rollbacks through controlled release strategies.\n• Integrated state-of-the-art monitoring tools like **Prometheus** and **Splunk** to ensure application health and performance tracking, achieving an uptime of **99.9%** on critical services.\n• Developed visually appealing, SEO-friendly UIs in collaboration with design teams, applying **Tailwind CSS** and ensuring compliance with accessibility standards (WCAG 2.1).\n• Built secure microservices architecture with **gRPC** and **Protocol Buffers** for efficient inter-service communication, underpinned by well-defined contracts and versioning.\n• Created dynamic feature flags and blue-green deployments in coordination with LaunchDarkly and Kubernetes, allowing real-time A/B testing and minimizing risks during high-stakes updates.\n• Enhanced system resilience through the application of role-based access control (RBAC) and **OAuth 2.0**, ensuring adherence to GDPR and safeguarding user data across the platform."
+    }
+  ],
+  "skills": "Programming Languages:\n\tRust, Node.js, TypeScript, Python, JavaScript\n\n**Backend Frameworks:**\n\tNestJS, FastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tReact, Next.js, Vue, Angular, Tailwind CSS\n\n**API Technologies:**\n\tRESTful APIs, gRPC, Protocol Buffers\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL, MySQL, MongoDB, Redis, SQL\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak, JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, microservices, event-driven architectures, CQRS, DDD, asynchronous event-based communication, state management, React Query, Context API, CI/CD, Prometheus, Splunk",
+  "apply_company": "Kraken"
+}

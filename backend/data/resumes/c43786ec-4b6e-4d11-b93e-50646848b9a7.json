@@ -1,0 +1,47 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior SREngineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven Senior Site Reliability Engineer with over 10 years of experience in cloud-based architecture and DevOps practices. Proficient in **AWS**, **Azure**, and **GCP**, with hands-on expertise in **Docker**, **Kubernetes**, and **Jenkins** for automating deployments and managing microservices. Skilled in **GitHub** and **GitLab** for version control and CI/CD integration. Strong background in observability tools such as **Datadog**, **New Relic**, **Dynatrace**, **Prometheus**, and **Grafana**, ensuring robust monitoring and incident management. Proven ability to work on infrastructure as code and contribute to high-availability systems in demanding environments, including projects with VISA, Sii Poland, and Reply Polska. A strong advocate for SLI and SLO implementations to enhance service reliability and system performance.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior SREngineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Focused on **DevOps** practices to enhance cloud efficiency and system reliability.\nEngineered backend services in **Python** using **FastAPI** to streamline document automation, user onboarding, and reporting workflows.\nDeveloped event-driven solutions with **Celery** and **Redis** to manage asynchronous processing for financial transaction requests, achieving response time improvements by **30%**.\nDeployed **microservices** on **Azure App Services** and utilized **Terraform** for infrastructure as code management, ensuring seamless cloud operations with reduced deployment time by **20%**.\nCreated and maintained data pipelines for regulatory data exchange using **Apache Airflow** and **Azure Functions**, ensuring timely and accurate data flow with a **99.9%** success rate.\nLed security assessments and integrated **OAuth2** and **Azure AD B2C** for secure, scalable authentication systems, enhancing security posture by implementing industry standards.\nCollaborated with cross-functional teams to address system integration challenges, ensure compliance, and oversee release strategies using **GitHub** and **Azure DevOps**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "- Implemented **Azure** and **Docker** within a DevOps framework to enhance the efficiency of deployment pipelines, achieving a **30%** reduction in deployment time.\n- Designed and managed cloud architecture on **Azure** combining **Kubernetes** and **Microservices**, driving a **25%** improvement in resource utilization and scalability.\n- Developed and maintained CI/CD pipelines through **Azure DevOps** and **GitHub**, ensuring rapid and reliable release cycles, reducing release failures by **15%**.\n- Created and optimized event-driven services using **Kafka**, leading to improved data processing latency with transaction throughput exceeding **1000** transactions per second.\n- Engaged in incident management utilizing tools like **Datadog** and **Prometheus**, refining observability practices and achieving SLIs and SLOs adherence of **99.9%**.\n- Conducted performance tuning and monitoring with **New Relic** and **Dynatrace**, ensuring application reliability and efficiency across distributed environments.\n- Partnered with development teams to enhance scripting abilities and automation, optimizing workflows and reducing manual intervention by **40%**.\n- Led security assessments ensuring compliance with regulatory standards, integrating security practices throughout the development lifecycle."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **AWS**, **Azure**, and **GCP** to ensure cloud infrastructure is robust, scalable, and cost-effective for backend services.\nImplemented **Docker** and **Kubernetes** for containerization and orchestration, enhancing deployment efficiency by **40%**.\nDeveloped and maintained microservices architecture for trade execution, portfolio management, and account tracking using **Python** and **Flask**, optimizing service integration.\nEngineered real-time data processing solutions leveraging **WebSockets**, **Redis**, and **Kafka** for high-volume trading data delivery.\nCollaborated with frontend teams to integrate REST APIs and WebSocket channels, improving user experience and reducing load times by **30%**.\nMaintained compliance with regulatory standards including MiFID II and GDPR while enhancing data security protocols across the platform.\nImplemented CI/CD pipelines using **Jenkins**, **GitLab**, and **Azure DevOps**, increasing deployment frequency to **5 times per week**.\nDeveloped comprehensive testing frameworks using **PyTest** and improved CI processes, resulting in a **25%** reduction in bug rates.\nIntroduced monitoring solutions with **Prometheus**, **Grafana**, and **Datadog**, ensuring 99.9% uptime and effective incident management."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tJava, JavaScript, Python (3.8+), SQL, Bash\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery, Springboot\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST/gRPC APIs, Microservices, Kafka\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, GCP\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins, GitLab, CI/CD, Incident Management, Datadog, New Relic, Dynatrace, Prometheus, Grafana, Observability, SLIs, SLOs\n\n**Cloud & Infrastructure**\n\tAWS, Azure, GCP\n\n**Other**\n\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow",
+  "apply_company": "Valtech"
+}

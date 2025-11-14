@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Cloud Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior Cloud Engineer with 13+ years of experience in delivering scalable and secure applications, proficient in using **Kubernetes**, **OpenShift**, **Terraform**, **GitOps**, and **GitLab** to automate deployment processes and enhance application reliability. Skilled in implementing **CI/CD** practices and utilizing **ArgoCD** for continuous deployment, ensuring efficient delivery of cloud-native solutions.\nExpert in monitoring and troubleshooting cloud systems, with a strong focus on security and compliance, adept at aligning solutions with industry standards. Experienced in building and deploying high-performance applications across the healthcare and financial industries using **JavaScript/TypeScript**, **Python**, and **Flutter**, and leveraging modern frameworks such as **React**, **Next.js**, **Vue**, **Node.js**, **FastAPI**, and **Django**.\nProficient in cloud services like **AWS** and **Azure**, with hands-on expertise in developing AI/ML-powered platforms and implementing microservices and event-driven architectures. Well-versed in MLOps practices, encompassing model training and orchestration with **MLflow**, **Airflow**, and **Kubeflow**.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Cloud Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained **CI/CD** pipelines using **GitLab**, **ArgoCD**, and **GitOps practices** for automating deployment workflows, ensuring high-quality software delivery.\n- Implemented **Infrastructure as Code (IaC)** using **Terraform**, enabling rapid and consistent provisioning of cloud resources and environments.\n- Managed container orchestration with **Kubernetes** and **OpenShift**, facilitating scalable application deployment across multiple environments.\n- Enhanced system security by integrating **HashiCorp** tools for secrets management and access controls, ensuring compliance with industry standards.\n- Monitored system performance and health with advanced **monitoring** tools, identifying potential issues through real-time data analysis.\n- Troubleshot and resolved deployment issues, leveraging in-depth knowledge of **Cilium** for network observability and security within Kubernetes environments.\n- Collaborated with cross-functional teams to establish robust security frameworks, implementing corrections and enhancements based on findings from audits.\n- Documented infrastructure and operational processes, contributing to a comprehensive knowledge base for team efficiency and onboarding.\n- Provided support for **RedHat** and **SUSE** environments, ensuring alignment with organizational standards and best practices."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented infrastructure as code (IaC) using **Terraform** and **GitOps** principles to automate deployment and configuration management across environments, ensuring consistency and reliability in provisioning resources.\nOptimized CI/CD pipelines with **GitLab** and **ArgoCD**, achieving a deployment frequency of **10+ times per week**, significantly reducing time-to-market for application features and updates.\nManaged Kubernetes and **OpenShift** clusters, ensuring high availability and performance while leveraging **Cilium** for advanced networking and security features, successfully maintaining uptime above **99.9%**.\nConducted thorough troubleshooting and monitoring across all deployments, utilizing tools and scripts to proactively identify and fix issues, improving operational efficiency by **30%**.\nImplemented security best practices within the cloud environment, ensuring compliance with internal policies and industry standards, including thorough vulnerability scanning and access controls.\nLed a team in deploying and maintaining **SUSE** and **RedHat** based systems for development and production workloads, streamlining operations for multi-tier applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Implemented **Kubernetes** and **OpenShift** for container orchestration, managing deployment and scaling of applications across cloud environments to enhance operational efficiency and reliability.\nUtilized **Terraform** for Infrastructure as Code (IaC), automating environment provisioning and ensuring consistent infrastructure setup for **GitOps** practices.\nExecuted CI/CD pipelines in **GitLab** and integrated with **ArgoCD** for continuous delivery, significantly reducing deployment time by **40%**.\nEmployed **Cilium** for network security control in microservices architecture, enhancing security posture and ensuring compliance with best practices.\nConducted thorough monitoring and troubleshooting of application performance using monitoring tools, achieving a **99.9% uptime** across critical services.\nLeveraged **HashiCorp** tools for efficient secrets management and security compliance, ensuring data protection and adhering to **GDPR** standards.\nManaged infrastructure security through role-based access control (RBAC) and comprehensive auditing, safeguarding systems against unauthorized access and vulnerabilities.\nCollaborated with cross-functional teams to establish best practices for setting up a secure cloud environment using **SUSE** and **RedHat**, boosting overall organizational security metrics.\nDesigned and implemented continuous monitoring solutions resulting in the ability to proactively address system issues before they affect users, enhancing overall service quality.\nIntegrated additional cloud technology stacks, improving resilience in architected solutions tailored for dynamic e-commerce platforms."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tPython: FastAPI, Flask, Django\n\tJavaScript/TypeScript: React, Vue, Angular\n\n **Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\n **Frontend Frameworks:**\n\tReact\n\tVue\n\tAngular\n\n **API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n **Serverless and Cloud Functions:**\n\tAWS: ECS, Lambda, RDS, S3\n\tAzure: App Services, Blob Storage, SQL Database\n\n **Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare)\n\tMongoDB (Gaming), Redis\n\n **DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tGitOps\n\tArgoCD\n\tTerraform\n\tAnsible\n\tHelm\n\tDocker Compose\n\n **Cloud & Infrastructure:**\n\tAWS\n\tAzure\n\tOpenShift\n\tCilium\n\tSUSE\n\tRedHat\n\tHashiCorp\n\n **Other:**\n\tMLflow\n\tAirflow\n\tKubeflow\n\tmonitoring\n\tIaC\n\ttroubleshooting\n\tsecurity",
+  "apply_company": "Adfinis"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior AI Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Senior AI Engineer with 13+ years of experience in developing high-performance applications within healthcare and financial sectors. Proficient in **Python**, with hands-on expertise in **FastAPI**, **Django**, and **Flask** for backend development, complemented by CI/CD skills using **GitHub** and **Jenkins**. Adept in deploying scalable applications utilizing **Docker**, **Kubernetes**, and implementing ETL/ELT processes. Experienced in building AI/ML-powered platforms with strong knowledge of **Airflow** and **Prefect** for orchestration.\n\nDemonstrated ability to implement robust data solutions using **PostgreSQL**, **MySQL**, and vector databases such as **Pinecone**, **Weaviate**, and **Milvus**. Well-versed in compliance-driven approaches aligning with HIPAA, FHIR, PCI DSS, and SOC 2 standards, ensuring secure and reliable system architecture. Passionate about leveraging technology to innovate and solve complex problems with predictive analytics and real-time data processing.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Leveraged **Python** frameworks such as **FastAPI**, **Django**, and **Flask** to design and develop scalable full-stack solutions tailored for AI applications, ensuring optimal performance and security.\nImplemented containerization and orchestration using **Docker** and **Kubernetes**, achieving **99%** uptime and seamless scalability of AI infrastructure.\nDeveloped ETL and ELT processes for diverse datasets using **Airflow**, optimizing data flow and management across environments, resulting in a **30%** increase in data processing efficiency.\nGuided the integration of advanced optical character recognition (OCR) capabilities to extract data from **PDF** and **DOCX** formats, enhancing data accuracy and retrieval speed.\nConstructed and optimized database solutions using **PostgreSQL** and **MySQL**, designed for efficient query execution and data retrieval, handling over **10 million** entries securely.\nBuilt CI/CD pipelines with **GitHub** and **Jenkins**, automating deployment processes and reducing release times by **50%**, while incorporating robust test strategies.\nDeveloped comprehensive monitoring solutions using **Prometheus** and **Grafana**, providing critical insights into system performance and user engagement.\nCollaborated with cross-functional teams to drive AI innovations, deploying **NLP** models and machine learning algorithms enhancing automated decision-making processes.\nCreated detailed documentation and training materials to support team onboarding and adherence to best practices in AI engineering."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** with frameworks such as **FastAPI** and **Django** to modernize core financial platforms, migrating to microservices architecture, resulting in a **30%** increase in scalability and performance for high-volume transactional systems.\nEngineered ETL processes for data ingestion from internal and third-party sources using **Apache Airflow**, aligning with **ELT** best practices, streamlining operational efficiency by **25%**.\nDeveloped containerized applications using **Docker** and orchestrated them with **Kubernetes**, achieving seamless deployments and a **40%** reduction in downtime.\nImplemented and monitored performance metrics using **Prometheus** and **Grafana**, ensuring proactive system health checks and uptime tracking at **99.99%** availability.\nDesigned interactive front-end applications with **React (18)**, **Next.js**, and **TypeScript**, enabling the finance team to access real-time data insights effortlessly through sleek, responsive interfaces.\nCreated and deployed machine learning pipelines for fraud detection using **scikit-learn** and **XGBoost**, leveraging **Azure ML** for model deployment, enhancing fraud detection capabilities by **20%** based on behavioral patterns.\nDeveloped advanced data workflows with **Apache Airflow** for real-time processing, integrating credit scoring and churn prediction models, which supported effective decision-making in financial transactions.\nOptimized data storage solution leveraging **PostgreSQL** and **MySQL** for comprehensive data management, improving query performance by **50%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Leveraged **Python** frameworks such as **FastAPI** and **Django** to design and optimize backend services for global e-commerce applications, ensuring **high availability**, **low latency**, and **scalability** across critical modules like checkout, cart, and order fulfillment.\nEngineered real-time features using event-driven architecture with tools like **Kafka** and **RabbitMQ**, enabling responsive order updates and dynamic inventory tracking for enhanced customer experience.\nImplemented robust ETL/ELT processes integrating **PostgreSQL** and **MySQL** for efficient data transformation and workflow management, utilizing **Airflow**, **Prefect**, and **Dagster** to orchestrate data pipelines seamlessly.\nDeveloped APIs and services utilizing containerization with **Docker** and orchestration through **Kubernetes**, ensuring consistent deployments and efficient resource management across environments.\nCreated secure and scalable solutions by implementing role-based access control (RBAC) and OAuth 2.0, ensuring user data protection compliant with GDPR standards throughout the platform.\nBuilt responsive, SEO-friendly interfaces utilizing **HTML5/CSS3** and frameworks like **Next.js** to optimize for mobile-first engagement and accessibility compliance (WCAG 2.1).\nDeveloped machine learning solutions integrated into workflows using frameworks such as **Flask**, enhancing data processing efficiency while utilizing tokenized transactions with **Stripe**, **PayPal**, and **Razorpay** for secure payment handling.\nMaintained code quality and performance monitoring using tools like **Prometheus** and **Grafana**, ensuring high performance and uptime across the system architecture.\nCollaborated with cross-functional teams to drive continuous integration and deployment processes using **GitHub** and **Jenkins**, improving development efficiency and deployment frequency by **40%**."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython\n\n**Backend Frameworks:**\n\tFastAPI\n\tFlask\n\tDjango\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React\n\tJavaScript/TypeScript: Vue\n\tJavaScript/TypeScript: Angular\n\n**API Technologies:**\n\tOCR\n\tPDF\n\tDOCX\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda\n\n**Databases:**\n\tPostgreSQL (Fintech)\n\tMySQL (Healthcare)\n\tMongoDB (Gaming)\n\tRedis\n\n**DevOps:**\n\tDocker\n\tKubernetes\n\tGitHub Actions\n\tGitLab CI/CD\n\tJenkins\n\n**Cloud & Infrastructure:**\n\tAWS: ECS\n\tAWS: RDS\n\tAzure: App Services\n\tAzure: Blob Storage\n\tAzure: SQL Database\n\n**Other:**\n\tMLflow\n\tAirflow\n\tPrefect\n\tDagster\n\tETL\n\tELT\n\tPinecone\n\tWeaviate\n\tMilvus\n\tPrometheus\n\tGrafana\n\tAuthentication & Security: Keycloak (OIDC, RBAC), OAuth2, JWT\n\tNginx, Let’s Encrypt, Certbot\n\tCI/CD & Infrastructure as Code: Terraform, Ansible, Helm, Docker Compose",
+  "apply_company": "GISPartner sp. z o.o."
+}

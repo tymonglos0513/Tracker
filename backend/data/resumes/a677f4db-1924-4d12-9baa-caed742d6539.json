@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "AI Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Results-driven AI Engineer with over 10 years of experience in developing and deploying **AI/ML** solutions, specifically utilizing **Python** and frameworks such as **FastAPI**, **LangChain**, and **Hugging Face Transformers**. Proficient in building scalable **APIs** (including **REST** and **GraphQL**) and implementing **microservices** architecture, focusing on **AI deployment/inference pipelines** and **RAG pipelines**. Strong expertise in cloud platforms, including **AWS**, **Azure**, and **GCP**, along with containerization tools like **Docker** and **Kubernetes**. Dedicated to ensuring data privacy, security, and compliance throughout the development lifecycle. Exceptional communication and collaboration skills, with a proven ability to document processes and work effectively in cross-functional teams. Successfully contributed to high-impact projects for renowned organizations, including VISA and Sii Poland.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Developed and deployed **AI/ML** models leveraging **Hugging Face Transformers** and **OpenAI API** to enhance user experiences and automate content generation.\nEngineered backend services in **Python** utilizing **FastAPI** to streamline document automation, user onboarding, and reporting workflows.\nDesigned and implemented **RAG pipelines** for data retrieval and processing, ensuring integration with **vector databases** for efficient information storage.\nCreated and maintained APIs (both **REST** and **GraphQL**) that facilitated interaction between various components and enhanced system functionality, leading to a **25%** increase in API response speed.\nImplemented end-to-end **AI deployment/inference pipelines** on **Azure** and **AWS**, ensuring robust performance with an uptime of **99.9%**.\nDeployed microservices using **Docker** and **Kubernetes**, managing scaling and orchestration across various environments.\nCollaborated with cross-functional teams, enhancing communication and documentation strategies that led to a **30%** reduction in development time.\nLed security assessments and integrated OAuth2 and **Azure AD B2C** for secure, scalable authentication systems, ensuring compliance with data privacy regulations.\nDeveloped event-driven solutions with **Celery** and **Redis** for asynchronous processing, handling over **1000** financial transaction requests per minute."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop and optimize backend systems for AI/ML applications, enhancing document workflows and user onboarding processes.\nDesigned and implemented event-driven microservices architecture with **Celery** and **Redis**, facilitating efficient asynchronous processing of financial data and transaction requests.\nDeployed microservices on **Azure App Services** using **Terraform** for infrastructure automation, successfully managing **scalable environments** with over **300%** improved uptime.\nEngineered data pipelines leveraging **Apache Airflow** and **Azure Functions** for secure regulatory data exchange, automating processes and improving data flow by **50%**.\nConducted comprehensive security audits and ensured compliance with industry standards by integrating **OAuth2** and **Azure AD B2C** for effective authentication and secure access management.\nCollaborated effectively with multidisciplinary teams, ensuring successful system integration and regulatory compliance, playing a key role in the **release management** of **5** major software updates."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop backend microservices, enhancing the execution of AI/ML processes and streamlining integration with LLMs and **Hugging Face Transformers**.\nBuilt and maintained robust **REST** and **GraphQL APIs** for seamless data delivery and interaction with various AI deployment/inference pipelines, ensuring compliance with data privacy regulations such as GDPR.\nEngineered efficient data processing systems using **asyncio** and **Redis** to provide real-time insights for AI models, successfully handling up to **1000** concurrent requests.\nCollaborated with cross-functional teams to ensure smooth integration of AI solutions within existing architectures on **AWS** and **Azure**, improving overall system performance by **30%**.\nImplemented **Docker** and **Kubernetes** for containerization and orchestration of applications, contributing to a more scalable and resilient cloud infrastructure.\nDeveloped comprehensive test suites using **PyTest** to validate AI models and pipelines, reducing production errors by **25%** through automation in CI/CD processes.\nDesigned and implemented job scheduling systems with **Celery** and **RabbitMQ**, optimizing asynchronous task execution for ML model training and inference, enhancing productivity by managing over **50** tasks daily.\nConducted thorough documentation and communicated effectively with stakeholders, ensuring transparency and understanding of AI project developments and compliance standards."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython, SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Celery\n\n**Frontend Frameworks**\n\t\n\n**API Technologies**\n\tREST, GraphQL, APIs\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, GCP\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis, vector databases\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\tcloud platforms\n\n**Other**\n\tAI/ML, LLMs, LangChain, Hugging Face Transformers, OpenAI API, microservices, RAG pipelines, AI deployment/inference pipelines, data privacy, security, compliance, communication, documentation, collaboration, prompt engineering, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, PyTest, Git"
+}

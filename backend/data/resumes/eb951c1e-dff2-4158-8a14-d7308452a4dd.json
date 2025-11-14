@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Software Engineer (Back End)",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-kotlinski-08ba40390/",
+  "profile_summary": "Results-driven Software Engineer (Back End) with 8 years of comprehensive experience specializing in **TypeScript**, **JavaScript**, and **PHP** development within microservices architectures. Proven track record in designing and optimizing **distributed systems** utilizing **RabbitMQ** for efficient message brokering and ensuring robust **observability** and **monitoring** for high-performance applications. Skilled in infrastructure management and problem-solving to deliver reliable solutions tailored for complex environments. \nI possess expertise in modern development frameworks and tools including **React**, **Next.js**, **Node.js**, **FastAPI**, and **Django**, enriched by deep cloud expertise with **Azure** and **AWS**. My strengths also encompass leading enterprise-grade projects, implementing CI/CD automation, and developing secure systems compliant with industry standards like HIPAA and PCI DSS.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer (Back End)",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Utilized **TypeScript**, **JavaScript**, and **PHP** to develop robust back-end applications that support microservices architectures, ensuring efficient communication between services through message brokers such as **RabbitMQ**.\nArchitected and deployed microservices-based ecosystems, enhancing system observability and monitoring capabilities, leading to improved troubleshooting and maintenance processes.\nImplemented distributed systems applying infrastructure management best practices to ensure high performance and scalability for back-end solutions.\nDesigned complex algorithms to solve challenging problems efficiently, enhancing application performance and user experience.\nCollaborated with cross-functional teams to analyze project requirements and strategize solutions, resulting in the delivery of high-quality software products.\nEnsured code quality and security through established testing frameworks and practices, including unit, integration, and end-to-end testing.\nDeveloped and maintained documentation for the back-end architecture, aiding in knowledge sharing and onboarding processes.\nParticipated in code reviews to uphold coding standards and improve team practices, contributing to team growth and skill enhancement.\nContributed to the development of CI/CD pipelines, enhancing deployment speed and reducing downtime for back-end services."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Focused on **Microservices** architecture development, leveraging **Node.js** (NestJS/Express) and **Python** (FastAPI, Django) to enhance scalability and maintainability of financial platforms, resulting in throughput improvements for high-volume transaction systems.\nUtilized **TypeScript** and **JavaScript** to build dynamic, user-centric applications with **React** (18), **Vue 3**, and **Next.js**, implementing Redux Toolkit and **Tailwind CSS** to achieve responsive and efficient interfaces for financial dashboards and admin portals.\nDesigned and developed real-time monitoring tools and analytics dashboards using **React**, **D3.js**, and **Power BI Embedded**, providing operations teams the ability to track financial activities and generate actionable insights with precision.\nImplemented a robust event-driven architecture by integrating **RabbitMQ**, facilitating asynchronous communication and real-time processing of transactions, alerts, and compliance workflows.\nEngineered and managed **ETL** pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory**, supporting batch and real-time ingestion of financial data from diverse sources, increasing processing efficiency by **40%**.\nDrove the deployment of AI/ML-based fraud detection systems using **scikit-learn**, **XGBoost**, and **Azure Machine Learning**, analyzing patterns to detect and flag suspicious activities in banking systems preemptively.\nCreated ML pipelines for applications like credit scoring and churn prediction by integrating model inference directly into backend services, streamlining decision-making processes by reducing inference time by **30%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **TypeScript** and **JavaScript** to develop robust microservices architecture, enhancing modularity and maintainability across the codebase.\nEngineered and deployed **RabbitMQ** for effective message brokering, facilitating seamless communication between services and improving observability of real-time data flow.\nImplemented infrastructure management practices, optimizing deployment pipelines and ensuring reliable uptime for distributed systems, achieving an uptime of **99.9%**.\nConducted proactive monitoring and observability strategies, using tools to systematically identify and resolve bottlenecks, improving system performance by **30%**.\nApplied advanced problem-solving techniques to troubleshoot and resolve complex system issues, reducing incident response time by **40%**.\nCollaborated with cross-functional teams to enhance service reliability and performance, contributing to a **50%** increase in overall customer satisfaction scores.\nParticipated in code reviews and architectural discussions, ensuring adherence to best practices and coding standards within the team.\nDeveloped and integrated functionalities using **PHP** for backend logic while ensuring security compliance and scalability in all deployments."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tTypeScript, PHP, JavaScript\n\n**Backend Frameworks:**\n\tPython (FastAPI, Flask, Django)\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tRabbitMQ, Message brokers\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose\n\n**Cloud & Infrastructure:**\n\tInfrastructure management, Observability, Monitoring, Distributed systems\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot, Problem-solving"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Senior DevOps Engineer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-k-a54a89395/",
+  "profile_summary": "As a highly skilled Senior DevOps Engineer with 8 years of experience, I possess strong expertise in **AWS**, **Azure**, **Kubernetes**, and **OpenStack**. My background in **Python** and scripting with **Golang** and **Ruby** equips me with the technical aptitude necessary for modern DevOps practices. I have extensive experience in implementing **CI/CD** pipelines using **Jenkins**, **Git**, and **Artifactory**, ensuring seamless and efficient deployment processes. I am proficient in Linux and networking concepts, enabling robust infrastructure management and optimization.\n\nIn addition to my technical skills, I have led the development of enterprise-grade platforms that require compliance with industry standards, contributing to secure and reliable deployments in critical sectors like healthcare and finance. I excel in automation strategies utilizing tools such as **Ansible** and **Chef**, and have practical experience in developing microservices architecture and event-driven systems, thus enhancing operational efficiency. My strong communication skills support collaborative efforts in cross-functional teams, and my dedication to continuous learning drives my ability to adapt in fast-paced environments.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior DevOps Engineer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Implemented DevOps best practices to enhance software delivery and operational efficiency, utilizing **AWS**, **Azure**, and **Kubernetes** for streamlined deployments and orchestration.\nArchitected and maintained CI/CD pipelines using **Jenkins**, **GitHub Actions**, and **CircleCI**, automating build, test, and deployment processes resulting in a **50%** reduction in release times.\nConfigured and managed cloud infrastructure with tools such as **Ansible** and **Chef**, ensuring high availability and scalability across development and production environments.\nAutomated infrastructure provisioning and management in a multi-cloud environment (including **OpenStack**), improving deployment consistency and reducing manual tasks by **30%**.\nUtilized **Python** and **Golang** scripts for monitoring, alerting, and automation, leading to enhanced system reliability and reduced downtime.\nEnsured robust system monitoring and incident response mechanisms were in place, significantly improving the Mean Time to Recovery (MTTR) by **40%** through effective incident management practices.\nDesigned and implemented network configurations that enhanced communication between services, improving overall application performance and security.\nCollaborated with cross-functional teams to foster strong communication and knowledge sharing, contributing to a cohesive DevOps culture and improved project delivery timelines.\nConducted regular performance testing and optimization of CI/CD pipelines, achieving an increase in build efficiency by **25%**.\nRecommended and integrated appropriate tools and technologies to the DevOps toolchain, continually evolving the infrastructure to meet organizational demands."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Implemented **AWS** and **Azure** cloud services to ensure high availability and scalability of financial platforms while adhering to **SRE** principles for operational reliability.\nUtilized **Linux** servers to manage deployment environments, optimizing system performance through effective networking and configuration management tools such as **Ansible** and **Chef**.\nAutomated CI/CD pipelines using **Jenkins** and **Git** to streamline application delivery and enable rapid releases, achieving a **30%** reduction in deployment times.\nDeveloped infrastructure as code using **Terraform** to provision and manage multi-cloud environments, achieving reproducibility and consistency across **3** data centers.\nCollaborated with cross-functional teams to establish monitoring and logging solutions, leveraging **Kubernetes** and **Grafana** to provide real-time insights into system performance, reducing incident response times by **25%**.\nEnhanced application security and performance by implementing **Docker** container orchestration, resulting in a **40%** improvement in resource utilization for customer-facing services.\nConducted thorough troubleshooting and root cause analysis on production systems, improving system reliability and uptime through proactive **networking** strategies and optimization of system design.\nMaintained documentation and runbooks, facilitating knowledge transfer and ensuring continuity of operations in accordance with communication best practices."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Implemented best practices in **SRE** and **DevOps** to ensure system reliability and availability for a global e-commerce platform by employing tools such as **Jenkins** for CI/CD and **Git** for version control.\nDeveloped and managed infrastructure using **Linux** systems and orchestrated containerized applications with **Kubernetes**, optimizing resource allocation and ensuring efficient deployment cycles.\nAutomated deployment processes and configuration management using **Ansible** and **Chef**, reducing manual intervention in production environments and enabling consistent configurations across **AWS** and **Azure** cloud services.\nEnhanced monitoring and alerting frameworks utilizing **Prometheus** and **Grafana**, achieving a 99.9% uptime SLA, and maintaining proactive responses to performance anomalies.\nConducted network optimization strategies to improve the security and performance of backend services, employing networking best practices and documentation for effective team communication.\nCollaborated with cross-functional teams to design and maintain CI/CD pipelines that accommodate microservices architecture, leading to a 30% reduction in build and deployment times.\nUtilized scripting with **Python** to automate routine tasks and improve operational efficiency, including log management and system health checks.\nManaged cloud deployments with comprehensive understanding of **AWS** services, including EC2, S3, and RDS, achieving cost efficiencies by utilizing spot instances and reserved instances effectively.\nDrove incident response and post-mortem reviews to continuously enhance system resilience, achieving a 20% decrease in incident resolution time year over year.\nEngaged in continuous learning and knowledge sharing through effective communication, mentoring junior team members on **DevOps** practices and tools."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Golang, Ruby, Scala\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript (React, Vue, Angular)\n\n**API Technologies:**\n\tN/A\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, Ansible, Chef\n\n**Cloud & Infrastructure:**\n\tOpenStack, Terraform, Helm, Docker Compose\n\n**Other:**\n\tMLflow, Airflow, Kubeflow, Networking, Communication, Keycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot",
+  "apply_company": "Blip.pt"
+}

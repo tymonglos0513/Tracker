@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Database Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-187801395/",
+  "profile_summary": "Senior Database Engineer with 13+ years of experience in the development and management of high-performance applications, focusing on relational and NoSQL databases. Proficient in **Oracle Database**, **PostgreSQL**, **Microsoft SQL Server**, **AWS RDS**, **Azure SQL**, **Google Cloud SQL**, **MongoDB**, **MySQL**, and **Cassandra**. Experienced in automation and orchestration using **Terraform**, **Ansible**, and containerization technologies like **Docker** and **Kubernetes**.\nSkilled in scripting languages such as **Python**, **Bash**, and **PowerShell** to enhance database operations and streamline workflows. Strong understanding of database replication and high availability strategies, including **Data Guard**, **Golden Gate**, and **Always On Availability Groups**.\nIn addition to database technologies, I offer expertise in building AI/ML-powered systems and compliance-driven development, ensuring solutions align with HIPAA, FHIR, PCI DSS, and SOC 2 standards, ultimately delivering robust and scalable solutions.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Database Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained high-performance database systems using **PostgreSQL**, **MongoDB**, and **Oracle Database** to support robust data ingestion and real-time analytics.\n- Implemented automated backup and disaster recovery solutions with **AWS RDS**, **Azure SQL**, and **Google Cloud SQL** to ensure data integrity and availability.\n- Optimized database performance and scalability, achieving enhancements of up to **50%** in query response times by utilizing **Kubernetes** and **Docker** for container orchestration.\n- Led initiatives to migrate legacy databases to modern architectures, implementing **Terraform** and **Ansible** for infrastructure as code solutions to streamline deployment processes.\n- Developed monitoring solutions with **Prometheus** and **Grafana** for real-time insights into database health, achieving a **99.9%** uptime across production environments.\n- Designed and executed testing strategies for database performance using **SSIS**, **SSRS**, and custom scripts in **Bash** and **PowerShell**, ensuring reliable ETL processes and reporting accuracy.\n- Collaborated with cross-functional teams to integrate data access layers with application frameworks, ensuring seamless interaction between **Python**, **Docker**, and cloud services.\n- Conducted regular audits of database systems to maintain compliance with GDPR and HIPAA regulations, achieving a successful completion rate of **100%** in compliance reviews.\n- Implemented security measures, including role-based access control and encryption techniques, to safeguard sensitive data within environments managed by **Terraform** and **Kubernetes**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Implemented and managed database solutions using **Oracle Database** and **PostgreSQL**, optimizing performance and scalability for high-transaction environments, significantly increasing query efficiency by **30%**.\nDesigned and maintained backup and recovery strategies with **Data Guard**, **Golden Gate**, and **Azure SQL**, ensuring data integrity and availability while reducing downtime during outages by **25%**.\nAutomated deployment and configuration of databases with **Terraform** and **Ansible**, streamlining operations and improving scalability across cloud environments including **AWS RDS** and **Google Cloud SQL**.\nIntegrated containerization strategies with **Docker** and **Kubernetes**, enhancing application deployment processes and reducing deployment time by **40%**.\nMonitored database performance using **Prometheus** and **Grafana**, proactively identifying and resolving issues before they impacted users, resulting in a **15%** reduction in support tickets related to database performance.\nDeveloped scripts in **Python**, **Bash**, and **PowerShell** for database maintenance and automation tasks, increasing operational efficiency and lowering manual work by **50%**.\nExecuted ETL processes with **SSIS** and **SSRS**, consolidating data from varied sources into centralized repositories, improving reporting capabilities and data access times by **20%**.\nMaintained cluster management and high availability strategies for **Microsoft SQL Server** using **Always On Availability Groups** and **Distributed Availability Groups**, ensuring business continuity with an uptime of **99.9%**."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "• Managed and optimized **Oracle Database** and **PostgreSQL** instances for a global e-commerce platform, ensuring high availability and scalability across key modules, incorporating technologies like **AWS RDS** and **Azure SQL** for support of **1M+** transactions per day.\n• Developed automated workflows using **Terraform** and **Ansible** for configuration management and deployment, reducing provisioning time by **70%** and ensuring consistent setup across environments.\n• Implemented **Kubernetes** for container orchestration, enhancing deployment strategies and reducing downtime during updates through strategies like blue-green deployments.\n• Utilized **Docker** for creating and managing application containers, ensuring seamless integration and deployment with microservices architecture, achieving **99.9%** uptime.\n• Enhanced monitoring and alerting using **Prometheus** and **Grafana**, establishing performance benchmarks and ensuring rapid response to system anomalies, reducing incident resolution time by **40%**.\n• Designed robust database solutions with **Cassandra** and **MySQL**, ensuring fault-tolerant data access for high-traffic e-commerce workflows and optimizing read/write cycles based on user traffic patterns tracking over **10M** users.\n• Collaborated on implementing **SSIS** and **SSRS** for data integration and reporting needs, providing insights that helped improve product listings and conversion rates by **15%** based on real-time analytics.\n• Developed and executed backup and recovery strategies leveraging **Data Guard** and **Golden Gate**, ensuring zero data loss and maintaining business continuity during critical deployments.\n• Applied role-based access control (RBAC) and compliant handling using tools like **PowerShell**, ensuring user data protection and GDPR compliance throughout the platform.\n• Streamlined SQL queries and developed stored procedures in **Microsoft SQL Server** to improve data retrieval efficiency, decreasing average query times by **30%**."
+    }
+  ],
+  "skills": "**Programming Languages:**\n\tPython, Bash, Shell, PowerShell\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django\n\n**Frontend Frameworks:**\n\tJavaScript/TypeScript: React, Vue, Angular\n\n**API Technologies:**\n\tKeycloak (OIDC, RBAC), OAuth2, JWT\n\n**Serverless and Cloud Functions:**\n\tAWS: Lambda, Azure: App Services\n\n**Databases:**\n\tOracle Database, PostgreSQL, Microsoft SQL Server, AWS RDS, Azure SQL, Google Cloud SQL, MongoDB, MySQL, Cassandra, Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tTerraform, Ansible, Helm, Docker Compose\n\n**Other:**\n\tPrometheus, Grafana, MLflow, Airflow, Kubeflow, Nginx, Let’s Encrypt, Certbot, Data Guard, Golden Gate, ASM, Always On Availability Groups, Distributed Availability Groups, SSIS, SSRS"
+}

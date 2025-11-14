@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "AI Full-stack Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Results-driven AI Full-stack Engineer with over 10 years of extensive experience in backend development, particularly in designing and delivering robust systems for financial platforms and AI/ML pipelines. Proficient in **React.js**, **Node.js**, and **Python** (specifically **FastAPI**, **Flask**, **Django**), alongside strong capabilities in creating high-performing **RESTful APIs** and scalable **web services**. Skilled in implementing **cloud deployment strategies** across **AWS**, **Azure**, and **GCP**, using **Docker** for containerization. Demonstrates a commitment to agile methodologies and possesses strong communication skills, complemented by a proven track record of driving impactful projects at industry leaders such as VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI Full-stack Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "• Developed and maintained **React.js** components for user interface, enhancing user engagement by **25%**.\n• Engineered backend services in **Python** using **FastAPI** to streamline document automation, user onboarding, and reporting workflows.\n• Created RESTful APIs and web services to facilitate seamless data exchange for AI applications, improving transaction speeds by **40%**.\n• Designed event-driven solutions with **Celery** and **Redis** to manage asynchronous processing for financial transaction requests.\n• Deployed microservices on **Azure** App Services and utilized **Terraform** to manage infrastructure as code, ensuring seamless cloud operations with a **99.9%** uptime.\n• Leveraged **Docker** for containerization, optimizing deployment processes across multiple environments.\n• Created and maintained data pipelines for regulatory data exchange with **Apache Airflow** and **Azure Functions**, ensuring timely and accurate data flow with a backlog reduction of **30%**.\n• Led security assessments and integrated **OAuth2** and **Azure AD B2C** for secure, scalable authentication systems, enhancing security protocols by *50%*.\n• Collaborated with cross-functional teams to address system integration challenges, ensure compliance, and oversee release strategies using **agile methodologies**."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python** and **FastAPI** to develop robust backend systems for automating document workflows, enhancing user onboarding processes, and managing complex reporting tasks, achieving a **30%** reduction in processing time.\nImplemented **RESTful APIs** and integrated **React.js**, facilitating seamless communication and data exchange between the front-end and backend systems.\nDesigned and deployed event-driven microservices using **Celery** and **Redis**, facilitating asynchronous processing of financial data and transaction requests, resulting in a **50%** improvement in data handling efficiency.\nManaged deployment processes in cloud environments, specifically on **Azure** using **Azure App Services** and automated infrastructure provisioning with **Terraform**, ensuring consistent environments with a **99.9%** uptime.\nEngineered secure data pipelines for the exchange of regulatory data, leveraging **Apache Airflow** and **Azure Functions**, which streamlined data flow processes and reduced manual interventions by **40%**.\nConducted comprehensive security audits and implemented industry-standard compliance measures, integrating **OAuth2** and **Azure AD B2C** for secure authentication and access control, safeguarding user data.\nCollaborated effectively in agile teams, enhancing communication and ensuring regulatory compliance which led to successful project release cycles, contributing to achieving project deadlines with a **95%** on-time delivery rate."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Utilized **Python**, **Flask**, and **PostgreSQL** to develop robust backend services for trading operations, enabling efficient trade execution and portfolio management.\nImplemented **RESTful APIs** to facilitate seamless data communication with frontend teams, enhancing user satisfaction and interface interactivity in the AI and trading sector.\nEngineered real-time price feed processors using **asyncio**, **WebSockets**, and **Redis** that supported up to **1000** transactions per second, vital for high-frequency trading.\nEmployed **Celery** and **RabbitMQ** for job queuing and scheduling, resulting in a **25%** improvement in backend task execution efficiency.\nMaintained strict adherence to regulatory standards including **MiFID II** and **GDPR**, ensuring compliance with a focus on internal data security protocols.\nDesigned and implemented comprehensive testing strategies using **PyTest**, **tox**, and mock servers, reducing deployment errors by **30%** and accelerating CI/CD processes.\nCollaborated in an agile environment, demonstrating strong communication skills while delivering key features to market within **3 months** of the project kickoff.\nLeveraged proficiency in **Docker** and cloud deployment strategies on platforms like **AWS** and **Azure** for efficient application deployment and scalability."
+    }
+  ],
+  "skills": "**Programming Languages**\n\tPython (3.8+), SQL, Bash, JavaScript\n\n**Backend Frameworks**\n\tFastAPI, Flask, Django, Node.js\n\n**Frontend Frameworks**\n\tReact.js\n\n**API Technologies**\n\tRESTful APIs, REST/gRPC APIs, web services\n\n**Serverless and Cloud Functions**\n\tAWS (EC2, S3, Lambda), Azure, GCP\n\n**Databases**\n\tPostgreSQL, MySQL, MongoDB, Redis\n\n**DevOps**\n\tDocker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD\n\n**Cloud & Infrastructure**\n\tcloud deployment strategies\n\n**Other**\n\tAI, machine learning, Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow, Microservices, Kafka, PyTest, Git, agile methodologies, communication skills"
+}

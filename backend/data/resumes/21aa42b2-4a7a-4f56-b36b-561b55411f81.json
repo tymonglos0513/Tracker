@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Python Backend Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-28639a395/",
+  "profile_summary": "Dynamic Senior Python Backend Engineer with over 10 years of experience in developing high-quality backend systems, focusing on financial platforms and cloud-native solutions. Proficient in **Python** (including **Django**) and familiar with multiple frameworks such as **Go**, **Node.js**, **GraphQL**, and **gRPC**. Skilled in orchestrating automated workflows using **CI/CD** practices and tools including **Docker** and **Kubernetes**. Strong experience with cloud infrastructure service providers like **AWS**, utilizing infrastructure as code tools such as **Terraform**, **CDK**, and **CloudFormation**. Capable of working with various data storage solutions, including **Relational databases** and **Schema-less databases**. Committed to creating high-performing APIs and scalable services, with a proven ability to deliver impactful projects at industry leaders like VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Python Backend Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Utilized **Python** to engineer robust backend services with **FastAPI** for document automation, user onboarding, and reporting workflows, impacting efficiency by **30%**.\nImplemented event-driven architecture using **Celery** and **Redis** to facilitate asynchronous processing, successfully handling **1,000+** financial transaction requests daily.\nDeployed microservices on **Azure App Services** and managed infrastructure via **Terraform**, achieving a **99.9%** uptime in cloud operations.\nDesigned and maintained data pipelines utilizing **Apache Airflow** and **Azure Functions** for regulatory data exchange, ensuring timely data flow with a **95%** accuracy rate.\nConducted security assessments and integrated **OAuth2** and **Azure AD B2C** for scalable authentication, enhancing system security and user trust.\nCollaborated with cross-functional teams to address integration challenges, ensure compliance with regulations, and oversee CI/CD release strategies, decreasing time-to-market by **20%**.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Developed backend systems using **Python** and **Django** to automate document workflows, streamline user onboarding, and handle complex reporting processes, resulting in a **30%** increase in efficiency.\nCreated event-driven microservices using **Go**, **Node.js**, and **Celery** with **Redis**, enabling asynchronous processing of financial data and transaction requests, enhancing throughput by **25%**.\nManaged deployment of microservices on **AWS** using **Terraform** for infrastructure automation, maintaining consistent and scalable environments across **15+** services.\nEngineered data pipelines for the secure exchange of regulatory data using **Apache Airflow** and **AWS Lambda**, automating and streamlining data flow, reducing processing time by **40%**.\nPerformed security audits ensuring compliance with industry standards; integrated **OAuth2** and **AWS Cognito** for managing authentication and secure access controls.\nCollaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management across multiple deployments within the **CI/CD** pipeline."
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "• Developed robust backend services for trade execution and account tracking utilizing **Python** and relational databases, enhancing overall trading efficiency and performance.\n• Leveraged **Django** frameworks to create scalable applications that support upward of **5,000** concurrent user requests without compromising system performance.\n• Engineered real-time price feed processors using efficient communication protocols like WebSockets and **Redis**, optimizing response times to below **200 ms** for high-frequency transactions.\n• Collaborated seamlessly with frontend teams by integrating **GraphQL** and REST APIs to facilitate an interactive user experience, ensuring a responsive application environment.\n• Ensured compliance with stringent regulatory standards such as MiFID II and GDPR while implementing security measures, thereby reducing potential compliance risks by **40%**.\n• Implemented extensive test automation processes with **PyTest**, significantly improving code coverage to **95%**, and enhancing the reliability of the platform through continuous integration.\n• Designed job queuing and scheduling with **Celery** and **RabbitMQ**, increasing task execution efficiency by **30%**, facilitating better process management in backend operations.\n• Employed **Docker** and **Kubernetes** for containerization and orchestration, leading to a decrease in deployment times by **50%** and improved scalability of services."
+    }
+  ],
+  "skills": "Programming Languages:\n\t**Python**, **Go**, **JavaScript**\n\n**Backend Frameworks:**\n\t**Django**, **FastAPI**, **Flask**, **Celery**\n\n**Frontend Frameworks:**\n\t**Node.js**\n\n**API Technologies:**\n\t**REST/gRPC APIs**, **GraphQL**, **Microservices**\n\n**Serverless and Cloud Functions:**\n\t**AWS (EC2, S3, Lambda)**, **Azure**, **Terraform**, **CDK**, **CloudFormation**\n\n**Databases:**\n\t**PostgreSQL**, **MySQL**, **MongoDB**, **Redis**, **Relational databases**, **Schema-less databases**\n\n**DevOps:**\n\t**Docker**, **Kubernetes**, **GitHub Actions**, **Azure DevOps**, **CI/CD**\n\n**Cloud & Infrastructure:**\n\t**AWS**, **Azure**\n\n**Other:**\n\t**Pandas**, **NumPy**, **scikit-learn**, **TensorFlow**, **Airflow**, **MLflow**, **PyTest**, **Git**, **Kafka**"
+}

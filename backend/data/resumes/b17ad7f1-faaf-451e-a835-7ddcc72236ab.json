@@ -1,0 +1,47 @@
+{
+  "name": "Patryk Zaslawski",
+  "role_name": "Senior IoT Engineer",
+  "email": "patrykzas0428@outlook.com",
+  "phone": "+48669862402",
+  "address": "Gdanski, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-z-107978395/",
+  "profile_summary": "As a seasoned Senior IoT Engineer with 8+ years in software engineering, I bring extensive expertise in **AWS IoT**, **Azure IoT**, and **GCP IoT Core**, implementing secure and efficient solutions tailored for the IoT sector. Proficient in **Docker** and **Kubernetes**, I excel in building scalable applications designed for embedded systems and firmware development. My technical skills also include familiarity with **MQTT**, **Modbus**, and stream-based architecture, along with solid experience in **Kafka** and **Pulsar** for real-time data streaming. My foundational knowledge in programming languages like **Java**, **Rust**, and **C/C++** empowers me to contribute to diverse IoT projects while ensuring optimal performance and reliability through best practices in **data encryption**, **authentication**, and **IoT security**. I am also adept at utilizing **CI/CD** pipelines, **event sourcing**, and **CQRS**, allowing me to deliver robust and future-ready IoT solutions.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "category": "Computer Science",
+      "from_year": "2014",
+      "to_year": "2017",
+      "location": "United Kingdom",
+      "university": "The University of Manchester"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior IoT Engineer",
+      "company": "Binary Studio",
+      "from_date": "Aug 2023",
+      "to_date": "Present",
+      "location": "United Kingdom (Remote)",
+      "responsibilities": "Implemented and managed **AWS IoT**, **Azure IoT**, and **GCP IoT Core** solutions to create secure, scalable IoT systems, enabling real-time data processing for healthcare applications.\nDesigned and developed embedded systems and firmware architecture using **C/C++** to optimize performance and ensure reliability in healthcare devices.\nConfigured and orchestrated **Docker** containers and **Kubernetes** for microservices deployments, achieving improved resource utilization and faster deployment cycles, reducing downtime by **30%**.\nEstablished **CI/CD** pipelines for IoT applications, utilizing tools like GitHub Actions and Azure DevOps, facilitating automated testing, security integration, and version control for seamless releases.\nEnsured robust **IoT security** practices, encompassing **data encryption** and **authentication** mechanisms to protect sensitive healthcare data transmitted from devices.\nArchitected event-driven data architectures using **Kafka** and **Pulsar**, supporting **stream-based architectures** and enhancing real-time analytics capabilities across multiple services.\nDeveloped and maintained protocols like **MQTT** and **Modbus** for efficient communication between IoT devices and cloud services, achieving a **25%** reduction in latency.\nLed the design of **event sourcing** and **CQRS** patterns within IoT solutions to improve data consistency and scalability for data-centric applications in the healthcare sector.\nCollaborated with cross-functional teams to integrate IoT solutions with healthcare applications, providing seamless user experiences while maintaining compliance with relevant standards (HIPAA, SOC 2).\nMentored junior engineers in **Rust**, **C/C++**, and IoT protocols to enhance team capabilities and foster a culture of continuous improvement and innovation.\nImplemented observability and monitoring solutions using tools like Prometheus and Grafana to maintain system health and performance, proactively addressing issues before impacting end-users.\nDrove adoption of agile methodologies and DevOps practices to streamline project delivery, increase team collaboration, and improve overall productivity in IoT projects."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ardigen",
+      "from_date": "Mar 2020",
+      "to_date": "Aug 2023",
+      "location": "Poland",
+      "responsibilities": "Key responsibilities as a Senior IoT Engineer include:\n- Designed and implemented secure **MQTT** communication for IoT devices, ensuring robust data encryption and authentication mechanisms to protect sensitive information.\n- Drove the integration of **AWS IoT**, **Azure IoT**, and **GCP IoT Core** platforms into existing systems, enhancing compatibility with a variety of IoT devices and improving data security measures by **95%**.\n- Developed and deployed **event-driven architectures** leveraging **Kafka** and **Pulsar** to ensure real-time data processing and efficient event sourcing capabilities for IoT solutions.\n- Managed **Docker** containers and **Kubernetes** orchestration to support scalable deployment of IoT applications, achieving a seamless rollout frequency of **4 releases per month** with zero downtime.\n- Created robust CI/CD pipelines using **GitHub Actions** and **Azure DevOps** to streamline the development and deployment process, reducing integration time by **30%**.\n- Conducted thorough testing of IoT applications, focusing on firmware development and **embedded systems**, achieving a defect resolution rate of **99%** on first pass.\n- Implemented **Modbus** protocol alongside **event sourcing** and **CQRS** methodologies to support efficient command and control of distributed IoT networks.\n- Established best practices around **IoT security**, ensuring compliance with the latest standards and regulatory requirements, significantly reducing vulnerabilities in device communications.\n- Oversaw performance metrics of IoT ecosystems, utilizing data analytics to optimize system responsiveness and reliability while minimizing resource consumption by **25%**.\n- Collaborated across teams to design and roll out data encryption strategies for embedded solutions, safeguarding user data from potential breaches and ensuring safe data transfers."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Altum Software",
+      "from_date": "Oct 2017",
+      "to_date": "Feb 2020",
+      "location": "United Kingdom",
+      "responsibilities": "Developed secure and efficient IoT solutions using **AWS IoT**, **Azure IoT**, and **GCP IoT Core**, ensuring seamless integration and scalability for connected devices.\nImplemented robust communication protocols such as **MQTT** and **Modbus** for reliable information exchange between IoT devices and backend systems.\nLeveraged **Docker** for containerization and **Kubernetes** for orchestration, streamlining deployment processes and allowing for dynamic scaling of IoT applications across multiple environments.\nDesigned and deployed event-driven architectures using **Kafka** and **Pulsar**, facilitating real-time data processing and efficient messaging between microservices.\nAutomated CI/CD pipelines to enhance development workflows, ensuring consistent and reliable delivery of IoT features while minimizing downtime.\nApplied **IoT security** measures, including **data encryption** and **authentication**, to safeguard device communications and maintain user privacy.\nExecuted performance monitoring and optimizations for IoT applications, improving reliability and reducing latency during peak usage periods.\nDeveloped firmware for embedded systems, enhancing the functionality and responsiveness of IoT devices within the ecosystem.\nUtilized **C/C++**, **Java**, and **Rust** for developing high-performance components of IoT solutions, ensuring robust and efficient operations of devices.\nImplemented **event sourcing** and **CQRS** patterns to maintain data integrity and enhance reactive capabilities in IoT systems.\nConducted thorough testing and validation of IoT solutions, ensuring compliance with industry standards and user expectations.\nDesigned and maintained secure communication channels between IoT devices and cloud services to ensure data integrity and security at all levels.\nProvided technical leadership in the development of IoT applications, driving innovation and improvement in system designs."
+    }
+  ],
+  "skills": "Programming Languages:\n\tJava, Rust, C/C++, Python (FastAPI, Django, Flask)\n\n**Backend Frameworks:**\n\tSpring Boot, SQLAlchemy, Pydantic, Celery\n\n**Frontend Frameworks:**\n\tAngular (1–16), React (15–18), Next.js, Vue.js (2/3), Blazor\n\n**API Technologies:**\n\tREST & gRPC APIs, MQTT, Modbus\n\n**Serverless and Cloud Functions:**\n\tAWS IoT, Azure IoT, GCP IoT Core, AWS (ECS, Lambda, RDS, S3)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, CI/CD, GitHub Actions, GitLab CI/CD\n\n**Cloud & Infrastructure:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Other:**\n\tIoT security, data encryption, authentication, stream-based architecture, event sourcing, CQRS, embedded systems, firmware development, Pulsar, Kafka",
+  "apply_company": "Sympower"
+}

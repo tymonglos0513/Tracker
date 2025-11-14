@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Backend Developer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-driven Backend Developer with 8 years of experience in designing and implementing high-performance solutions while specializing in **Java**, **Kotlin**, and **Spring Framework**, leveraging expertise in **PostgreSQL** and **MySQL** for robust database management. Proficient in **microservices** architecture and familiar with cloud services, primarily **AWS**. Solid background in development practices that emphasize unit testing and integration testing to ensure code quality and reliability. \nI have extensive experience in full-stack development using languages such as **Python** and frameworks like **React** and **Node.js**, and I have led the deployment of enterprise-grade systems that integrate complex features tailored for the healthcare and financial sectors. Further, my hands-on experience with CI/CD automation helps streamline the development process, ensuring compliance with standards like HIPAA and PCI DSS, while my knowledge of version control systems like **Git** coupled with **Gradle** for build automation, positions me as a well-rounded technology professional.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Backend Developer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed and maintained microservices architectures using **Spring Framework** and **AWS**, ensuring scalable and efficient backend solutions.\n- Utilized **Java** and **Kotlin** for designing robust backend applications, emphasizing high code quality and maintainability through unit testing and integration testing practices.\n- Managed cloud-based databases, including **PostgreSQL** and **MySQL**, optimizing for performance and reliability across production environments with over **1 million** transactions per day.\n- Leveraged **Git** for version control and collaboration with team members, ensuring a streamlined development workflow.\n- Executed CI/CD pipelines using **Gradle** for build automation, enhancing deployment speed and reducing production downtime by up to **30%**.\n- Designed and documented RESTful APIs, serving as a bridge between front-end interfaces and backend functionalities, facilitating seamless data integration and retrieval processes.\n- Collaborated with cross-functional teams to integrate backend services with various third-party applications, adhering to best practices in microservices design.\n- Conducted thorough unit and integration testing utilizing frameworks to ensure the reliability of backend services, achieving over **90%** code coverage.\n- Played a key role in transitioning existing monolithic applications to microservices, resulting in a **40%** increase in application scalability.\n- Participated in agile development processes, contributing to sprint planning and review sessions to continuously improve product quality and team performance."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "Utilized **Java** and **Kotlin** to implement microservices architecture, enhancing system scalability and stability for financial applications.\nDesigned and developed robust APIs with **Spring Framework** to ensure seamless integration with front-end services, improving data accessibility and transaction processing.\nManaged databases using **PostgreSQL** and **MySQL**, optimizing query performance and data integrity, resulting in a **30%** improvement in response times for critical operations.\nApplied **Git** for version control and collaboration on code, streamlining the development workflow and increasing deployment efficiency by **25%**.\nConducted thorough **unit testing** and **integration testing** to ensure high code quality and reliability of the backend services, achieving a **95%** success rate in test coverage.\nBuilt and modernized ETL pipelines leveraging **Python** and **Apache Airflow**, which enabled real-time ingestion of financial data, improving data accuracy and availability by **40%**.\nImplemented effective logging and monitoring solutions to enhance system observability and tracking, facilitating quicker response to system issues.\nCollaborated in an agile environment, participating in regular code reviews and sprint planning sessions to improve team productivity and project alignment."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **Java** and **Kotlin** for developing and optimizing backend microservices architecture, ensuring high availability and sustainable performance across e-commerce applications.\nStreamlined data management by using **PostgreSQL** and **MySQL** to maintain and query databases efficiently, handling up to **100,000** transactions per day while ensuring data integrity and rapid access.\nImplemented robust unit testing and integration testing practices to maintain code quality and reduce bugs, achieving a **95%** test coverage across various services and modules.\nEmployed **Spring Framework** to facilitate the development of scalable, secure, and efficient backend processes, ensuring smooth integration with front-end components.\nLeveraged **Git** for version control and collaboration, managing code across **multiple** development teams to enhance project transparency and streamline deployment processes.\nOrchestrated deployment processes using **Gradle** to automate builds, ensuring consistent and error-free releases to production environments.\nEngaged **AWS** cloud services to enhance application performance and reliability, employing tools such as **S3** for storage and **Lambda** for serverless computing, supporting up to **50%** traffic spikes during sales campaigns.\nArchitected applications following microservices patterns to bolster system resilience and deployment independence, improving overall system maintainability.\nExecuted comprehensive logging and monitoring strategies to track application performance, leading to a **30%** reduction in downtime and faster response to incidents."
+    }
+  ],
+  "skills": " **Programming Languages:**\n\tJava, Kotlin, Python, JavaScript/TypeScript\n\n**Backend Frameworks:**\n\tFastAPI, Flask, Django, Spring Framework\n\n**Frontend Frameworks:**\n\tReact, Vue, Angular\n\n**API Technologies:**\n\tJWT, OAuth2, Keycloak (OIDC, RBAC)\n\n**Serverless and Cloud Functions:**\n\tAWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n\n**Databases:**\n\tPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n\n**DevOps:**\n\tDocker, Kubernetes, GitHub Actions, GitLab CI/CD, Terraform, Ansible, Helm, Docker Compose, Git, Gradle\n\n**Cloud & Infrastructure:**\n\tAWS, Azure\n\n**Other:**\n\tArtificial Intelligence & Machine Learning (MLflow, Airflow, Kubeflow), unit testing, integration testing, Nginx, Certbot"
+}

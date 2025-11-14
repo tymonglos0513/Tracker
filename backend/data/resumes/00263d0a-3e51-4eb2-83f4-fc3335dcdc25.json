@@ -1,0 +1,54 @@
+{
+  "name": "Marcin Karol Kotlinski",
+  "role_name": "Developer",
+  "email": "marcinkot55@outlook.com",
+  "phone": "+48 732 779 243",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/marcin-karol-kotlinski-bb2520397/",
+  "profile_summary": "Results-oriented Developer with 8 years of comprehensive experience in full-stack development, focusing on **C++**, **Python**, and **React** technologies. Proficient in designing and implementing scalable microservices architectures and event-driven systems, ensuring high performance and security in applications. Demonstrated expertise in **Git** for version control and collaboration, along with familiarity with integration tools such as **RabbitMQ** for messaging and **Cassandra** for database solutions.\n\nSkilled in leveraging **Kubernetes** and **OpenStack** for container orchestration and cloud deployment, enhancing the scalability and availability of applications. Knowledgeable in software design principles and team collaboration, driving projects to completion while adhering to best practices. I communicate effectively in English and possess a proven track record of working in diverse teams across the healthcare and financial sectors. My background also includes experience with CI/CD automation, increasing development efficiency and operational excellence.",
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2017",
+      "to_year": "2018",
+      "location": "UK",
+      "university": "University of Oxford"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2015",
+      "to_year": "2017",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Developer",
+      "company": "EVNE Developers",
+      "from_date": "Oct 2023",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "- Developed scalable microservices architectures to support healthcare and financial applications, utilizing **Kubernetes** for orchestration and **Docker** for containerization.\n- Enhanced front-end user experiences using **React** (17-18), ensuring high performance and responsiveness in user interfaces.\n- Collaborated with team members to implement software design principles in **C++** and **Python**, utilizing industry best practices to maintain a robust codebase.\n- Integrated CI/CD pipelines for testing and deployment, ensuring efficient code management and quality through **Git** and **CMake**.\n- Conducted unit testing and integration testing using **GoogleTest** and other frameworks, increasing code reliability and reducing bugs by **30%**.\n- Implemented messaging and communication solutions leveraging **RabbitMQ** to enhance inter-service communication in distributed systems.\n- Worked within Linux environments to ensure optimal performance of applications and smooth deployment processes.\n- Engaged in team collaboration meetings to improve English communication and streamline project progress.\n- Applied advanced software design principles to enhance maintainability and scalability in complex software solutions.\n- Led efforts in exploring and utilizing **Cassandra** for data persistence, focusing on high availability and partition tolerance for critical applications."
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Air Force",
+      "from_date": "Oct 2021",
+      "to_date": "Sep 2023",
+      "location": "Poland",
+      "responsibilities": "- Developed scalable applications and services by utilizing **Microservices** architecture, enhancing agility and maintainability across financial platforms with **Python** (FastAPI, Django) and **Node.js** (NestJS/Express).\n- Executed software design principles to create dynamic front-end applications with **React** (18), resulting in a **30%** increase in user engagement for financial dashboards and admin portals.\n- Collaborated in a diverse team environment using **Git** for version control, ensuring adherence to best practices and effective project management.\n- Integrated message brokers such as **RabbitMQ** to facilitate asynchronous communication in system architecture, significantly improving transaction processing time by **40%**.\n- Led the implementation of ETL pipelines with **Python**, **Apache Airflow**, and **Azure Data Factory**, streamlining data ingestion from various sources, with processing speeds of up to **5TB** daily.\n- Conducted team training sessions on modern software design principles leading to enhanced team collaboration and problem-solving skills.\n- Enhanced application testing frameworks using **GoogleTest**, improving overall code quality and reducing bugs by **25%** through effective unit testing.\n- Utilized **C++** for performance-critical backend components, achieving a processing time reduction of **15%** in high-load scenarios.\n- Maintained a Linux-based environment for application deployment, ensuring stable performance and high availability in production systems."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Sep 2018",
+      "to_date": "Aug 2021",
+      "location": "UK",
+      "responsibilities": "Utilized **C++** for developing high-performance backend services with a focus on **Microservices** architecture, enhancing scalability and maintainability of applications.\nCollaborated with cross-functional teams to enhance communication and improve software design principles, resulting in a **20%** increase in development efficiency.\nImplemented version control and code collaboration using **Git**, ensuring streamlined team workflows and effective version management.\nDesigned, developed, and maintained applications using **Python** for data processing and backend services, integrating with **Cassandra** for robust data storage solutions.\nEstablished messaging solutions with **RabbitMQ** to facilitate real-time data processing and event-driven architecture, reducing latency by **30%** in order fulfillment workflows.\nConducted automated testing using **GoogleTest** to ensure software reliability, achieving a **95%** code coverage metric for crucial components.\nDeployed applications using **Kubernetes** for container orchestration, enabling simplified management, scaling, and deployment of microservices in a cloud environment.\nCreated and optimized CI/CD pipelines for seamless deployment in **OpenStack** environments, leading to a **15%** reduction in deployment time.\nEngaged in team collaboration practices and effective English communication to deliver software solutions aligned with project goals and user requirements.\nUtilized **Linux** as a primary development environment, enhancing system performance and security for the application stack."
+    }
+  ],
+  "skills": "Programming Languages:\n\t**Python**, **C++**\n\n**Backend Frameworks:**\n\t**FastAPI**, **Flask**, **Django**\n\n**Frontend Frameworks:**\n\t**React**, **Angular**, **Vue**\n\n**API Technologies:**\n\t**RabbitMQ**, **SIP**, **IMS**\n\n**Serverless and Cloud Functions:**\n\t**AWS (ECS, Lambda, RDS, S3)**, **Azure (App Services, Blob, SQL)**\n\n**Databases:**\n\t**PostgreSQL (Fintech)**, **MySQL (Healthcare)**, **MongoDB (Gaming)**, **Cassandra**\n\n**DevOps:**\n\t**Docker**, **Kubernetes**, **Git**, **GitHub Actions**, **GitLab CI/CD**\n\n**Cloud & Infrastructure:**\n\t**OpenStack**, **Terraform**, **Ansible**, **Helm**, **Docker Compose**\n\n**Other:**\n\t**MLflow**, **Airflow**, **Kubeflow**, **Keycloak (OIDC, RBAC)**, **JWT**, **OAuth2**, **Let’s Encrypt**, **Nginx**, **Certbot**, **Linux**, **Software Design Principles**, **Team Collaboration**, **English Communication**, **Microservices**, **Cmake**, **GoogleTest**"
+}
